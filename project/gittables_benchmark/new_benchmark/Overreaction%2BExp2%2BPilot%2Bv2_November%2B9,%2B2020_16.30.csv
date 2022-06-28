@@ -1,0 +1,11 @@
+,status,age,gender
+0,Response Type,Age,Gender identity
+1,"{""ImportId"":""status""}","{""ImportId"":""QID23_TEXT""}","{""ImportId"":""QID24""}"
+2,IP Address,24,Male
+3,IP Address,19 ,Male
+4,IP Address,21,Self-identified/other
+5,IP Address,37,Female
+6,IP Address,23,Female
+7,IP Address,40,Female
+8,IP Address,21,Male
+9,IP Address,30,Female

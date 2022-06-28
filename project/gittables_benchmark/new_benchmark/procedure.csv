@@ -1,0 +1,46 @@
+,category,code,description
+0,trimming,TR001,"green16_frac, libert16_frac, other16_frac"
+1,trimming,TR002,all with suffix _frac2
+2,trimming,TR003,all with prefix votes16_ except for votes16_trumpd and votes16_clintonh
+3,trimming,TR004,"name_prev, ST, County, State, votes, reporting, precincts, X, Y, X1"
+4,trimming,TR005,At.Least.High.School.Diploma
+5,trimming,TR006,"nearest county, temp, precip, temp_bins, lat_bins, lon_bins, precip_bins, elevation_bins, lon, lat, elevation"
+6,trimming,TR007,"all with suffix _TMAX, _TMIN, _TAVG, _PRCP, except for winter_PRCP and winter_TAVG"
+7,trimming,TR008,"White, Black, Hispaic, Asian, Amerindian, Other, White_Asian"
+8,trimming,TR009,"CA, S, MAR, CFS, ACFS, MeanALC, MaxALC, Mixedness"
+9,trimming,TR010,"Alaska County (2000) and Oglala Lakota county (46102) and all rows where the county has no name, or no county FIPS code"
+10,editing,ED001,winter_PRCP
+11,editing,ED002,winter_TAVG
+12,adding,AD001,"other16_frac, votes16_others"
+13,adding,AD002,"elec_rep16_win, elec_rep16_win, elec_rep16_win"
+14,adding,AD003,"sex_ratio, age_dependency_ratio, median_age"
+15,adding,AD004,life_expectancy
+16,adding,AD005,"Total.Population, voting_age_population"
+17,adding,AD006,voting_power
+18,adding,AD007,voting_participation
+19,adding,AD008,population_density
+20,updating,UP001,"Poor.physical.health.days, Poor.mental.health.days, Low.birthweight, Teen.births, Children.in.single.parent.households, Adult.smoking, Adult.obesity, Diabetes, Sexually.transmitted.infections, HIV.prevalence.rate, Uninsured, Unemployment, Violent.crime, Homicide.rate, Injury.deaths, Infant.mortality"
+21,updating,UP002,"Median.Earnings.2010.dollars, Less.Than.High.School, At.Least.Bachelor.s.Degree, Graduate.Degree, School.Enrollment, White.not.Latino.Population, African.American.Population, Native.American.Population, Asian.American.Population, Population.some.other.race.or.races, Latino.Population, Children.Under.6.Living.in.Poverty, Adults.65.and.Older.Living.in.Poverty, Preschool.Enrollment.Ratio.enrolled.ages.3.and.4, Poverty.Rate.below.federal.poverty.threshold, Gini.Coefficient, Child.Poverty.living.in.families.below.the.poverty.line, Management.professional.and.related.occupations, Service.occupations, Sales.and.office.occupations, Farming.fishing.and.forestry.occupations, Construction.extraction.maintenance.and.repair.occupations, Production.transportation.and.material.moving.occupations"
+22,cleansing,HO001,Whitman County (53075)
+23,cleansing,HO002,voting_participation with value exceeding upper bound
+24,trimming,TR011,name_16
+25,trimming,TR012,"dem08, rep08, total08, other08, dem12, rep12, total12, other12, votes16_trumpd, votes16_clintonh, total16, rep16_frac, dem16_frac, rep12_frac, rep08_frac, dem12_frac, dem08_frac, other12_frac, other08_frac, votes16_others, other16_frac"
+26,trimming,TR013,"rep08_win, Total.Population"
+27,trimming,TR014,"est_votes_remaining, voting_age_population"
+28,repairing,HM001,"Low.birthweight, Teen.births, Sexually.transmitted.infections, HIV.prevalence.rate, Violent.crime, Homicide.rate, Injury.deaths, Infant.mortality"
+29,repairing,HM002,"Less.Than.High.School, At.Least.Bachelor.s.Degree, Graduate.Degree, School.Enrollment, Adults.65.and.Older.Living.in.Poverty, Preschool.Enrollment.Ratio.enrolled.ages.3.and.4, Median.Earnings.2010.dollars"
+30,repairing,HM003,"winter_PRCP, winter_TAVG"
+31,repairing,HM004,"winter_PRCP, winter_TAVG, Low.birthweight, Teen.births, Sexually.transmitted.infections, HIV.prevalence.rate, Violent.crime, Homicide.rate, Injury.deaths, Infant.mortality, Adults.65.and.Older.Living.in.Poverty, Preschool.Enrollment.Ratio.enrolled.ages.3.and.4, Median.Earnings.2010.dollars"
+32,repairing,HM005,"winter_PRCP, winter_TAVG, HIV.prevalence.rate"
+33,feature-selecting,FS001,all
+34,feature-selecting,FS002,all
+35,feature-selecting,FS003,all
+36,feature-selecting,FS004,all
+37,feature-selecting,FS005,all
+38,feature-selecting,FS006,"healthcare_life_expectancy, education_less_than_high_school, health_poor_physiscal_health_days, health_poor_mental_health_days, health_adult_smoking, health_teen_birth, poverty_child_living_in_families, poverty_below_federal_threshold, poverty_adult, poverty_children"
+39,modelling,MD001,all except elec_rep12_win and fips_state
+40,modelling,MD002,all except elec_rep12_win and fips_state
+41,modelling,MD003,all except elec_rep12_win and fips_state
+42,modelling,MD004,all except elec_rep12_win and fips_state
+43,modelling,MD005,all
+44,modelling,MD006,all except elec_rep12_win and fips_state

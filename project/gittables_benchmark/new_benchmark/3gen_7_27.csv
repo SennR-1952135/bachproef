@@ -1,0 +1,83 @@
+,year,country,city
+0,2014,United States,Pasadena
+1,2014,United States,Pasadena
+2,2014,Israel,Rehovot
+3,2013,United States,New Haven
+4,2013,United Kingdom,Cambridge
+5,2013,Netherlands,Nijmegen
+6,2013,United States,Boston
+7,2013,Germany,Neuherberg
+8,2013,United States;United States,Cambridge;Cambridge
+9,2013,United Kingdom,Cambridge
+10,2013,United States,Cambridge
+11,2013,United States,Cambridge
+12,2013,United States;Japan;Japan,New York;Kawaguchi;Kyoto
+13,2013,United Kingdom;United Kingdom,Cambridge;Cambridge
+14,2013,United Kingdom;United Kingdom,Cambridge;Cambridge
+15,2013,United States,Pasadena
+16,2012,Japan,Wako
+17,2012,United Kingdom,Edinburgh
+18,2012,United Kingdom,Cambridge
+19,2012,United States,Pasadena
+20,2012,Netherlands,Nijmegen
+21,2012,United States;United States;United States,Cambridge;Cambridge;Cambridge
+22,2012,France,Strasbourg
+23,2012,United States;United States,Bethesda;Chevy Chase
+24,2011,United States,Frederick
+25,2011,United States,Los Angeles
+26,2011,United States;United States,Cambridge;Cambridge
+27,2011,United Kingdom;United Kingdom,Cambridge;London
+28,2011,United States;United States;United States,Boston;Cambridge;Los Angeles
+29,2011,United Kingdom,Cambridge
+30,2011,Switzerland,Geneva
+31,2011,United States,Boston
+32,2011,United States,Stanford
+33,2010,United States;United States,Cambridge;Urbana
+34,2010,France,Paris
+35,2010,United States;Israel,Chevy Chase;Tel Aviv-Yafo
+36,2010,United States,Chapel Hill
+37,2010,Germany;Germany,Dresden;Leipzig
+38,2010,United Kingdom,Cambridge
+39,2010,United Kingdom;United Kingdom,Edinburgh;Edinburgh
+40,2010,Singapore;Singapore,Singapore City;Singapore City
+41,2010,Canada;Canada,Toronto;Montreal
+42,2009,United Kingdom,Cambridge
+43,2009,United States,Chevy Chase
+44,2009,United States,Columbus
+45,2009,United States,Bethesda
+46,2009,United States,Irvine
+47,2008,United States,Pasadena
+48,2008,United States,New York
+49,2008,United Kingdom;Canada,London;Montreal
+50,2008,United States,Cambridge
+51,2008,United Kingdom,Cambridge
+52,2008,United States,Cambridge
+53,2008,United States;United States;United States,Cambridge;Cambridge;Cambridge
+54,2008,Switzerland,Basel
+55,2008,Singapore;Singapore,Singapore City;Singapore City
+56,2008,United States;United States,Boston;Boston
+57,2008,United Kingdom;Japan,Oxford;Kobe
+58,2008,United States,Los Angeles
+59,2007,United Kingdom,Edinburgh
+60,2007,United States,Gainesville
+61,2007,United States,Newark
+62,2007,United Kingdom,Cambridge
+63,2006,United States,Boston
+64,2006,United States,Cambridge
+65,2006,United States;United States,Newark;New York
+66,2006,Japan;Japan,Wako;Kyoto
+67,2006,United States,Pasadena
+68,2006,United States,Cambridge
+69,2006,Israel,Rehovot
+70,2005,United States,Cambridge
+71,2005,Israel,Rehovot
+72,2003,United States,Boston
+73,2002,United States,New York
+74,2002,United States,Cambridge
+75,2001,Japan;Japan,Maebashi;Kumamoto
+76,2000,United States,Seattle
+77,2000,Sweden,Uppsala
+78,2000,Sweden,Uppsala
+79,1999,United States,Augusta
+80,1999,United States,Los Angeles
+81,1995,France,La Tronche

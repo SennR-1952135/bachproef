@@ -1,0 +1,346 @@
+,city,state,name,address
+0,Ashland,NE,No Frills Supermarket,2301 Silver St
+1,Ashland,NE,Camp Ashland PX,220 Co. Rd A
+2,Bellevue,NE,Walmart Supercenter,10504 S 15th St
+3,Bellevue,NE,Offutt AFB Commissary,101 Meyer Ave
+4,Bellevue,NE,Baker's Grocery Pickup and Delivery,801 Galvin Rd S
+5,Bellevue,NE,Mison's Oriental Food Mart,1414 Harlan Dr
+6,Bellevue,NE,Family Fare Supermarket,1510 Harlan Drive
+7,Blair,NE,Walmart Supercenter,1882 Holly St
+8,Blair,NE,Blair Superfoods,208 N 19th St
+9,Blair,NE,Family Fare Supermarket,238 South 8th Street
+10,Elkhorn,NE,Walmart Supercenter,18201 Wright St
+11,Fremont,NE,Walmart Supercenter,3010 E 23rd St
+12,Fremont,NE,Hy-Vee,840 E 23rd St
+13,Fremont,NE,Tienda Mexicana Guerrero,350 N D St
+14,Fremont,NE,ALDI,3650 Elk Ln
+15,Fremont,NE,Dick's Valley Market,102 N Spruce St
+16,Fremont,NE,Old Home Bakery Outlet,not_available
+17,Fremont,NE,Baker's Grocery Pickup and Delivery,1531 N Bell St
+18,Fremont,NE,Doña Marina,315 N Main St
+19,Fremont,NE,Brady's Meats & Foods,S Broad St
+20,Gretna,NE,Walmart Supercenter,11350 Wickersham Blvd
+21,Gretna,NE,McKinney's Food Center,215 Enterprise Dr
+22,Gretna,NE,Fareway,17070 Audrey St
+23,Hooper,NE,City Meat Market,118 N Main St
+24,Linwood,NE,Didier's Grocery,not_available
+25,Linwood,NE,Didier's Grocery Store,not_available
+26,Macy,NE,Jumps Food Barn,not_available
+27,Papillion,NE,Hy-Vee,11650 S 73rd St
+28,Papillion,NE,Walmart Supercenter,8525 S 71st Plz
+29,Papillion,NE,Fareway,1325 Jersey St
+30,Plattsmouth,NE,Hy-Vee,16418 Westside Dr
+31,Plattsmouth,NE,Steube's Thriftway,624 Avenue A
+32,Plattsmouth,NE,No Frills Supermarket,2400 8th Ave
+33,Scribner,NE,Snyder Mini Mart,306 W 4th St
+34,Tekamah,NE,save more market,not_available
+35,Valparaiso,NE,Gerdes Farms Creations,not_available
+36,Wahoo,NE,Wahoo Super,247 E 5th St
+37,Wahoo,NE,Sun Mart Foods,1036 N Chestnut St
+38,Yutan,NE,vine street market,not_available
+39,Omaha,NE,Safari Foods,1299 Farnam St Ste 300
+40,Omaha,NE,Walmart Supercenter,5018 Ames Ave
+41,Omaha,NE,Baker's Grocery Pickup and Delivery,4405 N 72nd St
+42,Omaha,NE,Global Foods Imported Grocery,1533 N Saddle Creek Rd
+43,Omaha,NE,Asian Family Market,1510 NW Radial Hwy
+44,Omaha,NE,Super Mercadito,1052 Park Ave
+45,Omaha,NE,Supermercado Nuestra Familia,2900 Leavenworth St
+46,Omaha,NE,Hy-Vee,5150 Center St
+47,Omaha,NE,ALDI,885 S 72nd St
+48,Omaha,NE,Baker's Grocery Pickup and Delivery,888 S Saddle Creek Rd
+49,Omaha,NE,Supermercado Nuestra Familia,3548 Q St
+50,Omaha,NE,Jacobo's Grocery,4621 S 24th St
+51,Omaha,NE,Super Carniceria El Pueblito,5116 S 24th St
+52,Omaha,NE,New Asia Supermarket,4615 S 26th St
+53,Omaha,NE,ALDI,4525 Dahlman Ave
+54,Omaha,NE,Heartland Hope Mission,2021 U St
+55,Omaha,NE,Los Compayes,3302 Q St
+56,Omaha,NE,El Quetzal,not_available
+57,Omaha,NE,Supermercado Nuestra Familia,1826 Vinton St
+58,Omaha,NE,La Mexicana,1603 Vinton St
+59,Omaha,NE,Chubb Foods,2905 N 16th St
+60,Omaha,NE,Dollar General,3000 N 13th St
+61,Omaha,NE,Phil's  Foodway,3030 Ames Ave
+62,Omaha,NE,ALDI,4801 N 30th St
+63,Omaha,NE,Family Fare Supermarket,7402 North 30th Street
+64,Omaha,NE,Hy-Vee,7910 Cass St
+65,Omaha,NE,Whole Foods Market,10020 Regency Circle
+66,Omaha,NE,Trader Joe's,10305 Pacific St
+67,Omaha,NE,Asian Market,321 N 76th St
+68,Omaha,NE,Natural Grocers,7831 Dodge St
+69,Omaha,NE,Mediterranean & European Grocery,8601 Blondo St
+70,Omaha,NE,Hy-Vee,3410 N 156th St
+71,Omaha,NE,Walmart Supercenter,16960 W Maple Rd
+72,Omaha,NE,ALDI,17240 Evans St
+73,Omaha,NE,Fresh Thyme Market,14949 Evans Plaza
+74,Omaha,NE,Walmart Neighborhood Market,5051 L St
+75,Omaha,NE,Wal mart,Irvington
+76,Omaha,NE,Walmart Supercenter,6304 N 99th St
+77,Omaha,NE,Target,6636 N 73rd Plz
+78,Bellevue,NE,Walmart Neighborhood Market,2109 Towne Center Dr
+79,Bellevue,NE,Target,3808 Twin Creek Dr
+80,Bellevue,NE,ALDI,2112 Cornhusker Rd
+81,Omaha,NE,Walmart Supercenter,1606 S 72nd St
+82,Omaha,NE,Hy-Vee,8809 W Center Rd
+83,Omaha,NE,Fareway Meat Market,8900 W Center Rd Ste 106
+84,Omaha,NE,Akin's Natural Foods,8409 West Center Road
+85,Omaha,NE,Maresco's Italian Market,2821 S 108th St
+86,Omaha,NE,Midwest Oriental Foods,2920 S 84th St
+87,Omaha,NE,Indian Grocery and Video,3029 S 83rd Plz
+88,Omaha,NE,Hy-Vee,9707 Q St
+89,Omaha,NE,Omaha Oriental Food & Gifts,10737 Mockingbird Dr
+90,Omaha,NE,CBD American Shaman,4721 S 96Th St
+91,La Vista,NE,Walmart Neighborhood Market,9460 Giles Road
+92,Omaha,NE,Natural Grocers,17602 Wright St
+93,Omaha,NE,Baker's Grocery Pickup and Delivery,17370 Lakeside Hills Plz
+94,Omaha,NE,Walmart Neighborhood Market,360 North Saddlecreek Road
+95,Omaha,NE,Wohlner's Neighborhood Grocery & Deli,3253 Dodge St
+96,Omaha,NE,Gurung Brothers Retails,822 N 40th St
+97,Omaha,NE,Walmart Neighborhood Market,2451 North 90th Street
+98,Omaha,NE,African Farms,2319 N 90th St
+99,Omaha,NE,Gurung Brothers Supermarket,9010 Fort St
+100,Omaha,NE,Self Checkout at Baker's,5555 N 90th St
+101,Omaha,NE,Omaha Tropical Market,not_available
+102,Omaha,NE,Subzi Mundi International Market,2320 N 72nd St
+103,Omaha,NE,ALDI,3433 N 90th St
+104,Omaha,NE,Hy-Vee,17810 Welch Plaza
+105,Omaha,NE,Walmart Neighborhood Market,6710 S 167th St
+106,Omaha,NE,Hy-Vee,14591 Stony Brook Boulevard
+107,Omaha,NE,Walmart Supercenter,12850 L St
+108,Omaha,NE,Super Saver,5710 S 144th St
+109,Omaha,NE,Salaam Namaste Grocery,13826 P St
+110,Omaha,NE,India Mart,3720 S 132nd St
+111,Omaha,NE,Fresh Thyme Market,13215 W Center Rd
+112,Omaha,NE,ALDI,2502 S 133rd Plz Ste 105
+113,Omaha,NE,Tulsi Indian Groceries,2455 S 132nd St
+114,Omaha,NE,Konark Grocers,14128 Arbor St
+115,Omaha,NE,Baker's Grocery Pickup and Delivery,12025 W Center Rd
+116,Omaha,NE,Baker's,505 N 155th Plz
+117,Omaha,NE,Hy-Vee,747 N 132nd St
+118,Omaha,NE,Maharaja Indian Cuisine & Namaste Plaza Indian Supermarket,617 N 114th St
+119,Omaha,NE,Namaste,617 114th Street
+120,Omaha,NE,Hy-Vee,10808 Fort Street
+121,Omaha,NE,Walmart Neighborhood Market,13105 Birch Dr
+122,Adams,NE,Sadies General Store,305 Nemaha
+123,Adams,NE,Jack and Jill,217 Locust St
+124,Auburn,NE,Sun Mart Foods,2428 Dahlke Ave
+125,Auburn,NE,Glenns Corner Market,1017 13th St
+126,Beatrice,NE,Sun Mart,1401-1811 Court St
+127,Beatrice,NE,Walmart Supercenter,3620 N 6th St
+128,Beatrice,NE,Sun Mart Foods,1815 Court St
+129,Beatrice,NE,Beatrice IGA,2-98 N 13th St
+130,Beatrice,NE,Russ’s Market – Beatrice,1300 Court St
+131,Beatrice,NE,Heartland Foods,not_available
+132,Byron,NE,Arend's Family Food,641 4th St
+133,Crete,NE,Walmart Supercenter,1800 E 29th St
+134,Crete,NE,Sunmart,Main St.
+135,Crete,NE,Sunmart,1025 Main Ave
+136,Davey,NE,Super Saver,840 Fallbrook Blvd
+137,Eagle,NE,Lou's Eagle Grocery,545 S 4th St
+138,Elk Creek,NE,Scotty's Grocery,not_available
+139,Fairbury,NE,Walmart Supercenter,2831 Highway 15
+140,Fairbury,NE,Rays Apple Market,1001-1099 U.S. 136
+141,Fairmont,NE,Family Market,549 6th Ave
+142,Falls City,NE,Sun Mart Foods,1900 Harlan St
+143,Greenwood,NE,Lovegrove's,Waverly Plaza
+144,Greenwood,NE,Russ’s Market Express – Waverly,13901 Guildford St
+145,Henderson,NE,Henderson Food Mart,not_available
+146,Malcolm,NE,Toni's General Store,5700 W Raymond Rd
+147,Milford,NE,Dollar General,921 5th St
+148,Nebraska City,NE,Walmart Supercenter,2101 S 11th St
+149,Nebraska City,NE,Fareway,1738 S 11th St
+150,Nebraska City,NE,Central Appple Market,701 Central Ave
+151,Odell,NE,Odell Market,not_available
+152,Pawnee City,NE,Nider's Thriftway,535 F Street
+153,Roca,NE,ALDI,8701 S 28th St
+154,Seward,NE,Walmart Supercenter,1326 280th
+155,Seward,NE,Pac n' Save,not_available
+156,Syracuse,NE,Terry's Family Foods,not_available
+157,Waverly,NE,Walmart,not_available
+158,Weeping Water,NE,Weeping Water Family Foods,not_available
+159,York,NE,Walmart Supercenter,101 E David Dr
+160,York,NE,Grand Central,311 N Lincoln Avenue
+161,York,NE,Super Valu,not_available
+162,York,NE,Bag N Save,614 S Lincoln Ave
+163,Lincoln,NE,Russ's Market,1709 Washington St
+164,Lincoln,NE,Leon's Gourmet Grocer,2200 Winthrop Rd
+165,Lincoln,NE,Open Harvest,1618 South St
+166,Lincoln,NE,"Heartland Gourmet, LLC",5220 S 19th St
+167,Lincoln,NE,Super Saver,233 N 48th St
+168,Lincoln,NE,alfourat grocery,not_available
+169,Lincoln,NE,An-Nahrian Grocery,23 & R St
+170,Lincoln,NE,Abel/Sandoz C-Store,860 N 17th St
+171,Lincoln,NE,Oriental Market,612 N 27th St
+172,Lincoln,NE,Save Best Foods,1101 N 27th St
+173,Lincoln,NE,Nguyen Market,648 N 27th St
+174,Lincoln,NE,homeland market,not_available
+175,Lincoln,NE,Viet Hao Market,2416 O St
+176,Lincoln,NE,Hy-Vee,5010 O St
+177,Lincoln,NE,Walmart Supercenter,4700 N 27th St
+178,Lincoln,NE,Hy-Vee,5020 N 27th St
+179,Lincoln,NE,Fresh Thyme Farmers Market,5220 O St
+180,Lincoln,NE,Natural Grocers,212 N 48th St
+181,Lincoln,NE,Heartland Pantry,2613 N 43rd St
+182,Lincoln,NE,Hy-Vee,1601 N 84th St
+183,Lincoln,NE,Russ's Market,130 N 66th St
+184,Lincoln,NE,ALDI,8350 O St
+185,Lincoln,NE,Hy-Vee,7151 Stacy Ln
+186,Lincoln,NE,Russ's Market,4400 S 33rd Ct
+187,Lincoln,NE,Fareway Meat Market,not_available
+188,Lincoln,NE,Sun Mart,2600 S 48th St #8
+189,Lincoln,NE,Walmart Supercenter,3400 N 85th St
+190,Lincoln,NE,Russ's Market,6300 Havelock Ave
+191,Lincoln,NE,Canopy Street Market,not_available
+192,Lincoln,NE,Eurasia Russian Store,809 P St Ste 102
+193,Lincoln,NE,Guerrero's Market,815 S 11th St
+194,Lincoln,NE,La Tapatia,1037 L St
+195,Lincoln,NE,A Street Market,3308 A St
+196,Lincoln,NE,Whole Foods Market,6055 O Street
+197,Lincoln,NE,Eagle Delivery Service Inc,3754 H St
+198,Lincoln,NE,Walmart Supercenter,2500 Jamie Ln
+199,Lincoln,NE,Super Saver,2525 Pine Lake Rd
+200,Lincoln,NE,Super Saver,5440 S 56th St
+201,Lincoln,NE,Hy-Vee,6001 Village Dr
+202,Lincoln,NE,Trader Joe's,3120 Pine Lake Rd
+203,Lincoln,NE,Walmart Grocery Pickup and Delivery,8700 Andermatt Dr
+204,Lincoln,NE,Red Clover Market,5500 Old Cheney Rd
+205,Lincoln,NE,Nebraska Grocery Industry Association,5935 S 56th St Ste B
+206,Lincoln,NE,Akins,not_available
+207,Lincoln,NE,Super Saver,2662 Cornhusker Hwy
+208,Lincoln,NE,Lincoln Poultry/ A SYSCO Company,800 Cattail Rd.
+209,Lincoln,NE,North 40 Premium Beef,5620 N 18th St
+210,Lincoln,NE,Russ's Market,1550 S Coddington Ave
+211,Lincoln,NE,SunMart Foods,1340 W O St
+212,Lincoln,NE,Schmick's Market,not_available
+213,Columbus,NE,Walmart Supercenter,818 E 23rd St
+214,Columbus,NE,Hy-Vee,3010 23rd St
+215,Columbus,NE,Save-A-Lot,2540 Eastbrook Plaza
+216,Columbus,NE,Super Saver,3318 23rd St
+217,Albion,NE,Thrifty Way,334 W Main St
+218,Clarkson,NE,M&M market,"246 Pine St, Clarkson, NE 68629"
+219,David City,NE,Dale's Food Pride,634 E St
+220,David City,NE,Didiers,not_available
+221,Elgin,NE,Thriftway Market,not_available
+222,Genoa,NE,Werts' GW,214 Beaver St
+223,Lindsay,NE,Lindsay Cooperative Market,not_available
+224,Osceola,NE,Osceola Food Mart,441 N State St
+225,Shelby,NE,Shelby Food Mart,not_available
+226,Stromsburg,NE,Economy Food Store,not_available
+227,Stromsburg,NE,Economy Hometown Foods,313 Commercial St
+228,Norfolk,NE,Hy-Vee,120 E Norfolk Ave
+229,Norfolk,NE,Walmart Supercenter,2400 W Pasewalk Ave
+230,Norfolk,NE,Hy-Vee,2107 Taylor Ave
+231,Norfolk,NE,Lou's Thrifty Way,807 S 13th St
+232,Norfolk,NE,Hy-vee,not_available
+233,Norfolk,NE,Tienda Leon Grocery Store & Mexican Restaurant,116 W Norfolk Ave
+234,Norfolk,NE,Hometown Market,not_available
+235,Atkinson,NE,Braun's,Main St.
+236,Bassett,NE,G&V’s Market,not_available
+237,Beemer,NE,ARVIDS FOODTOWN,901 Avenue E
+238,Clearwater,NE,Clearwater Market,401 Highway 275
+239,Creighton,NE,Mitch's Food Center,103-165 Maple St
+240,Dakota City,NE,Hy-Vee,2501 Cornhusker Dr
+241,Dakota City,NE,El Mexicano Tienda y Carniceria,605 W 29th St
+242,Dakota City,NE,La Guadalupana,not_available
+243,Emerson,NE,mikes food town,not_available
+244,Ewing,NE,andys market,not_available
+245,Hartington,NE,Foodtown,not_available
+246,Newman Grove,NE,Barnes Mini Mart,508 Hale Ave
+247,Niobrara,NE,dougs food center,not_available
+248,Ponca,NE,Trading Post,117 N Union St
+249,South Sioux City,NE,Walmart Supercenter,1601 Cornhusker Dr
+250,South Sioux City,NE,Seoul Oriental Food Store,1230 Dakota Ave
+251,Spencer,NE,Drickey's Market,not_available
+252,Stanton,NE,Emmett's Foodtown,911 Ivy St
+253,Wakefield,NE,The Fair Store,not_available
+254,Wakefield,NE,Tienda Guerrero,218 Main St
+255,Wayne,NE,Pac N Save,1115 W 7th St
+256,Wayne,NE,Quality Foods Center,517 Dearborn St
+257,West Point,NE,Lincoln Street Market,1314 N Lincoln St
+258,West Point,NE,Graybeal's Foods,338 S Main St
+259,Grand Island,NE,Walmart Supercenter,3501 S Locust St
+260,Grand Island,NE,Super Saver,1602 W 2nd St
+261,Grand Island,NE,Super Acapulco,not_available
+262,Grand Island,NE,Vientiane Food Market,not_available
+263,Grand Island,NE,Oriental Market,N. Locust
+264,Grand Island,NE,Hy-Vee,115 Wilmar Avenue
+265,Grand Island,NE,Walmart Supercenter,2250 N Diers Ave
+266,Grand Island,NE,GROW Nebraska,3404 W 13th St
+267,Grand Island,NE,Fresh Thyme Farmers Market,3535 W 13th Street
+268,Arcadia,NE,Hrubys Market,not_available
+269,Aurora,NE,Hamilton County Food Pantry,1118 N St
+270,Broken Bow,NE,The Grocery Kart,937 E South E St
+271,Burwell,NE,Mr. J's Foods,440 Grand Ave
+272,Central City,NE,CC Mall,1414 16th St
+273,Elm Creek,NE,Foster Family Foods,130 N Tyler St
+274,Kearney,NE,Hy-Vee,5212 3rd Ave
+275,Kearney,NE,Boogaarts,1615 2nd Ave
+276,Kearney,NE,Boggarts,not_available
+277,Kearney,NE,Family Fresh Market,3920 2nd Ave
+278,Kearney,NE,Walmart Supercenter,5411 2nd Ave
+279,Kearney,NE,GROW Nebraska,4917 2nd Ave #2
+280,Kearney,NE,Herbal Wonder,1816 Central Ave #203
+281,Kearney,NE,Grand Central Apple Market,7 WEST 25TH
+282,Kearney,NE,Bob's Superstore,600-656 E 25th St
+283,Kearney,NE,Andrew's Garden,4623 2nd Ave
+284,Lexington,NE,Walmart Supercenter,200 Frontier St
+285,Lexington,NE,Plum Creek Market Place,1411 Plum Creek Pkwy
+286,Ord,NE,Apple Market,922 N 28th St
+287,Ord,NE,Speed's Apple Market,not_available
+288,Ord,NE,Grocery  Kart,136 N 15th St
+289,Wood River,NE,Mr B's,not_available
+290,Hastings,NE,Walmart Supercenter,3803 Osborne Dr W
+291,Hastings,NE,Asia Market,not_available
+292,Hastings,NE,Food Cupboard,901 S Burlington
+293,Hastings,NE,Russ's Market,611 N Burlington Ave
+294,Arapahoe,NE,Wagner's,Nebraska
+295,Bertrand,NE,Country Side Market,"522 Minor Ave, Bertrand, NE 68927"
+296,Blue Hill,NE,Thramer's food center,not_available
+297,Holdrege,NE,Sun Mart Foods,214 W 4th Ave
+298,Minden,NE,5th Street IGA,125 east 5th steet
+299,Minden,NE,Mason's Market,700-798 N Brown Ave
+300,Red Cloud,NE,Coop Grocery Store,N Webster
+301,Sutton,NE,Brown's Thrift Store,not_available
+302,Mc Cook,NE,Walmart Supercenter,1902 W B St
+303,Mc Cook,NE,Casey's General Store,810 E B St
+304,Mc Cook,NE,Schmick's Market,212 Westview Plz
+305,Cambridge,NE,Cambridge Supermarket,421 Nelson St
+306,Farnam,NE,Peterson's,not_available
+307,Imperial,NE,Hills family Foods,not_available
+308,Wauneta,NE,Walgrens Supermarket,124 N Tecumseh
+309,North Platte,NE,Walmart Supercenter,1401 S Dewey St
+310,North Platte,NE,Gary's Super Foods,1648-1700 E 4th St
+311,North Platte,NE,cash wa,not_available
+312,Arthur,NE,Wolf Den Market,not_available
+313,Brule,NE,Vans Lakeview Bait shop,#1 Lakeview Rd
+314,Bushnell,NE,Whole Foods,not_available
+315,Chappell,NE,Chapell Super Foods,734 2nd St
+316,Hershey,NE,Maline's Super Foods,100 W County Rd
+317,Lodgepole,NE,"Bsf Enterprises, LLC",1041 Orchard St
+318,Madrid,NE,Madrid General Store,not_available
+319,Ogallala,NE,Walmart Supercenter,201 Pony Express Lane
+320,Ogallala,NE,Safeway,611 N Spruce St
+321,Oshkosh,NE,Superette,"101 Ave A,"
+322,Paxton,NE,Hehnke's,100 N Oak St
+323,Sidney,NE,Walmart Supercenter,3001 Silverberg Dr
+324,Sidney,NE,Safeway,1944 Illinois St
+325,Valentine,NE,Scotty's Ranchland Food,108 Hwy 20
+326,Ainsworth,NE,Red And White,611 E 4th St
+327,Ainsworth,NE,H & R Food Center,213 N Woodward St
+328,Alliance,NE,Safeway,500 E 3rd St
+329,Alliance,NE,Grocery Kart,207 E 3rd St
+330,Alliance,NE,Bayard Grocery,305 Main St
+331,Alliance,NE,King Soopers,1331 speer
+332,Bayard,NE,Sonny's Super Foods,"310 Main St, Bridgeport, NE 69336"
+333,Chadron,NE,Walmart Supercenter,510 Linden St
+334,Chadron,NE,Safeway,230 Morehead St
+335,Chadron,NE,Natural Foods Co-op,249 Main St
+336,Chadron,NE,D & S Market,202 Main St
+337,Gering,NE,Main Street Market,401 S Beltline Hwy W
+338,Gering,NE,Safeway,601 Broadway
+339,Gering,NE,Fresh Foods,1270 10th St
+340,Gordon,NE,Ideal Grocery,710 E 2nd Street
+341,Gordon,NE,Grocery Mart,not_available
+342,Lyman,NE,Village Foods,122 W Webster St
+343,Mitchell,NE,Walmart Supercenter,3322 Avenue I
+344,Mitchell,NE,Nutters,not_available

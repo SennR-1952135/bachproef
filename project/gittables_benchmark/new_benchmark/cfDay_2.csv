@@ -1,0 +1,45 @@
+,description,name,type
+0,"The surface called ""surface"" means the lower boundary of the atmosphere. Altitude is the (geometric) height above the geoid, which is the reference geopotential surface. The geoid is similar to mean sea level.",orog,real
+1,"surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates",ps,real
+2,at the top of the atmosphere,rsdt,real
+3,at the top of the atmosphere,rsut,real
+4,surface solar irradiance clear sky for UV calculations,rsdscs,real
+5,unset,rsuscs,real
+6,unset,rldscs,real
+7,,rlutcs,real
+8,,rsutcs,real
+9,Mass of condensed (liquid + ice) water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.,clwvi,real
+10,Mass of ice water in the column divided by the area of the column (not just the area of the cloudy portion of the column). Includes precipitating frozen hydrometeors ONLY if the precipitating hydrometeor affects the calculation of radiative transfer in model.,clivi,real
+11,"at 500 hPa level; commonly referred to as """"omega"""", this represents the vertical component of velocity in pressure coordinates (positive down)",wap500,real
+12,unset,ta700,real
+13,"Where convective cloud is present in the grid cell, the instantaneous cloud base altitude should be that of the bottom of the lowest level containing convective cloud. Missing data should be reported in the absence of convective cloud. The time mean should be calculated from these quantities averaging over occasions when convective cloud is present only, and should contain missing data for occasions when no convective cloud is present during the meaning period.",ccb,real
+14,"Where convective cloud is present in the grid cell, the instantaneous cloud top altitude should be that of the top of the highest level containing convective cloud. Missing data should be reported in the absence of convective cloud. The time mean should be calculated from these quantities averaging over occasions when convective cloud is present only, and should contain missing data for occasions when no convective cloud is present during the meaning period.",cct,real
+15,at surface; includes both liquid and solid phases.,prc,real
+16,,rlds,real
+17,,rlus,real
+18,surface solar irradiance for UV calculations,rsds,real
+19,,rsus,real
+20,at the top of the atmosphere (to be compared with satellite measurements),rlut,real
+21,unset,cltisccp,real
+22,time-means are weighted by the ISCCP Total Cloud Fraction - see  http://cfmip.metoffice.com/COSP.html,albisccp,real
+23,time-means are weighted by the ISCCP Total Cloud Fraction - see  http://cfmip.metoffice.com/COSP.html,pctisccp,real
+24,Simulated reflectance from PARASOL as seen at the top of the atmosphere for 5 solar zenith angles. Valid only over ocean and for one viewing direction (viewing zenith angle of 30 degrees and relative azimuth angle 320 degrees).,parasolRefl,real
+25,unset,cltcalipso,real
+26,unset,cllcalipso,real
+27,unset,clmcalipso,real
+28,unset,clhcalipso,real
+29,,ua,real
+30,,va,real
+31,,ta,real
+32,,hus,real
+33,"commonly referred to as """"omega"""", this represents the vertical component of velocity in pressure coordinates (positive down)",wap,real
+34,,zg,real
+35,"This is the relative humidity with respect to liquid water for T> 0 C, and with respect to ice for T<0 C.",hur,real
+36,Includes both large-scale and convective cloud.,cl,real
+37,Includes both large-scale and convective cloud. Calculate as the mass of cloud liquid water in the grid cell divided by the mass of air (including the water in all phases) in the grid cells. Precipitating hydrometeors are included ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.,clw,real
+38,Includes both large-scale and convective cloud. This is calculated as the mass of cloud ice in the grid cell divided by the mass of air (including the water in all phases) in the grid cell. It includes precipitating hydrometeors ONLY if the precipitating hydrometeors affect the calculation of radiative transfer in model.,cli,real
+39,The net mass flux should represent the difference between the updraft and downdraft components.  The flux is computed as the mass divided by the area of the grid cell.,mc,real
+40,unset,clcalipso,real
+41,unset,clisccp,real
+42,unset,pfull,real
+43,unset,phalf,real

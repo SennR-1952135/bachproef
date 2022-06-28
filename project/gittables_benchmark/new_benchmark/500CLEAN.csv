@@ -1,0 +1,501 @@
+,name,company,industry
+0,Lawrence Joseph Ellison ,Oracle Corp,Basic materials
+1,William Henry Gates ,Microsoft Corp,Basic materials
+2,Richard D Kinder ,Kinder Morgan In,Basic materials
+3,Charles R Schwab ,Schwab (Charles),Basic materials
+4,Micky Meir Arison ,Carnival Corp,Communications
+5,Pierre M Omidyar ,Ebay Inc,Communications
+6,Rupert Harris Johnson Jr,Franklin Res Inc,Communications
+7,Jeffrey P Bezos ,Amazon.Com Inc,Communications
+8,Stefano  Pessina ,Walgreen Co,Communications
+9,David  Filo ,Yahoo! Inc,Communications
+10,Richard M Schulze ,Best Buy Co Inc,Communications
+11,Mary Alice Dorrance Malone ,Campbell Soup Co,Communications
+12,Mitchell P Rales ,Danaher Corp,Communications
+13,Leslie Herbert Wexner ,L Brands Inc,Communications
+14,Marc R Benioff ,Salesforce.Com,Communications
+15,Min H Kao ,Garmin Ltd,Communications
+16,Doris F Fisher ,Gap Inc/The,"Consumer,Cyclical"
+17,Blase Thomas Golisano ,Paychex Inc,"Consumer,Cyclical"
+18,John Willard Marriott Jr,Marriott Intl-A,"Consumer,Cyclical"
+19,William J Pulte ,Pultegroup Inc,"Consumer,Cyclical"
+20,Richard A Hayne ,Urban Outfitter,"Consumer,Cyclical"
+21,Ronda E Stryker ,Stryker Corp,"Consumer,Cyclical"
+22,Donald R Horton ,Dr Horton Inc,"Consumer,Cyclical"
+23,Neal L Patterson ,Cerner Corp,"Consumer,Cyclical"
+24,Joseph S Steinberg ,Leucadia Natl,"Consumer,Cyclical"
+25,Jen-Hsun  Huang ,Nvidia Corp,"Consumer,Cyclical"
+26,Frederick Wall Smith ,Fedex Corp,"Consumer,Cyclical"
+27,Howard D Schultz ,Starbucks Corp,"Consumer,Cyclical"
+28,Tamara Hughes Gustavson ,Public Storage,"Consumer,Non-cyclical"
+29,Irwin Mark Jacobs ,Qualcomm Inc,"Consumer,Non-cyclical"
+30,James S Tisch ,Loews Corp,"Consumer,Non-cyclical"
+31,Scott D Cook ,Intuit Inc,"Consumer,Non-cyclical"
+32,Sheryl Kara Sandberg ,Facebook Inc-A,"Consumer,Non-cyclical"
+33,Alan Geoffrey Hassenfeld ,Hasbro Inc,"Consumer,Non-cyclical"
+34,Robert A Kierlin ,Fastenal Co,"Consumer,Non-cyclical"
+35,Herbert A Allen ,Coca-Cola Co/The,"Consumer,Non-cyclical"
+36,Mollie Hale Carter ,Archer-Daniels,"Consumer,Non-cyclical"
+37,Jim C Walton ,Wal-Mart Stores,"Consumer,Non-cyclical"
+38,Stephen A Wynn ,Wynn Resorts Ltd,"Consumer,Non-cyclical"
+39,John B Hess ,Hess Corp,"Consumer,Non-cyclical"
+40,Milton  Cooper ,Kimco Realty,"Consumer,Non-cyclical"
+41,Howard R Levine ,Family Dollar St,"Consumer,Non-cyclical"
+42,David H B Smith Jr,Illinois Tool Wo,"Consumer,Non-cyclical"
+43,Scott G Kriens ,Juniper Networks,"Consumer,Non-cyclical"
+44,Richard Edwin Marriott ,Host Hotels & Re,"Consumer,Non-cyclical"
+45,Edson de Godoy Bueno ,Unitedhealth Grp,"Consumer,Non-cyclical"
+46,Eugene M Isenberg ,Nabors Inds Ltd,"Consumer,Non-cyclical"
+47,Ray R Irani ,Occidental Pete,"Consumer,Non-cyclical"
+48,Brian L Roberts ,Comcast Corp-A,"Consumer,Non-cyclical"
+49,Vincent J Ryan ,Iron Mountain,"Consumer,Non-cyclical"
+50,Peter  Mccausland ,Airgas Inc,"Consumer,Non-cyclical"
+51,James C Flores ,Freeport-Mcmoran,"Consumer,Non-cyclical"
+52,William S Kellogg ,Kohls Corp,"Consumer,Non-cyclical"
+53,Kosta N Kartsotis ,Fossil Group Inc,Energy
+54,Daniel J Starks ,St Jude Medical,Energy
+55,Alan R Mulally ,Ford Motor Co,Energy
+56,James  Dimon ,Jpmorgan Chase,Energy
+57,Richard T Farmer ,Cintas Corp,Energy
+58,John J Schiff Jr,Cincinnati Fin,Energy
+59,Steve  Sanghi ,Microchip Tech,Energy
+60,Robert Madison Murphy ,Murphy Oil Corp,Energy
+61,Harold W Mcgraw ,Mcgraw Hill Fina,Financial
+62,Michael David Kors ,Michael Kors Hol,Financial
+63,Barry  Diller ,Expedia Inc,Financial
+64,Peter M Nicholas ,Boston Scientifc,Financial
+65,Samuel  Zell ,Equity Residenti,Financial
+66,James C Morgan ,Applied Material,Financial
+67,John C Martin ,Gilead Sciences,Financial
+68,David W Grainger ,Ww Grainger Inc,Financial
+69,Thomas J Edelman ,Noble Energy Inc,Financial
+70,Daniel P Amos ,Aflac Inc,Financial
+71,F Thomson Leighton ,Akamai Technolog,Financial
+72,Donald F Dillon ,Fiserv Inc,Financial
+73,Peter L Frechette ,Patterson Cos,Financial
+74,Ronald G Greene ,Denbury Resource,Financial
+75,Martin L Flanagan ,Invesco Ltd,Financial
+76,Richard Alexan Manoogian ,Masco Corp,Financial
+77,Robert V Lapenta ,L-3 Comm Hldgs,Financial
+78,Robert G Wilmers ,M&T Bank Corp,Industrial
+79,Hamid R Moghadam ,Prologis Inc,Industrial
+80,Mary Agnes Wilderotter ,Frontier Communi,Industrial
+81,David M Mandelbaum ,Vornado Rlty Tst,Industrial
+82,Robert J Margolis ,Davita Healthcar,Industrial
+83,Eli  Harari ,Sandisk Corp,Industrial
+84,Ronald E Hermance Jr,Hudson City Bncp,Industrial
+85,Aubrey K Mcclendon ,Chesapeake Energ,Industrial
+86,Douglas A Berthiaume ,Waters Corp,Industrial
+87,Mark Charles Pigott ,Paccar Inc,Industrial
+88,Macon F Brock Jr,Dollar Tree Inc,Technology
+89,Dan O Dinges ,Cabot Oil & Gas,Technology
+90,John T Chambers ,Cisco Systems,Technology
+91,Herbert D Kelleher ,Southwest Air,Technology
+92,Warren  Eisenberg ,Bed Bath &Beyond,Technology
+93,Leonard Alan Lauder ,Estee Lauder,Technology
+94,Bernard  Cammarata ,Tjx Cos Inc,Technology
+95,George P Orban ,Ross Stores Inc,Technology
+96,Iii James Kennedy ,T Rowe Price Grp,Technology
+97,Hans C Helmerich ,Helmerich & Payn,Technology
+98,Frank S Hermance ,Ametek Inc,Utilities
+99,Stephen D Steinour ,Huntington Banc,Utilities
+100,Blake W Nordstrom ,Nordstrom Inc,Basic materials
+101,David S Gottesman ,Berkshire Hath-B,Basic materials
+102,James Rupert Murdoch ,Twenty-First C-A,Basic materials
+103,Ray  Stata ,Analog Devices,Basic materials
+104,Harold M Korell ,Southwestrn Engy,Communications
+105,Richard Kim Smucker ,Jm Smucker Co,Communications
+106,Ronald L Sargent ,Staples Inc,Communications
+107,Daniel J Warmenhoven ,Netapp Inc,Communications
+108,Glenn M Renwick ,Progressive Corp,Communications
+109,William D Morean ,Jabil Circuit,Communications
+110,Lloyd C Blankfein ,Goldman Sachs Gp,Communications
+111,Rex W Tillerson ,Exxon Mobil Corp,Communications
+112,Richard Dana Fairbank ,Capital One Fina,Communications
+113,Andrew F J Gould ,Schlumberger Ltd,Communications
+114,Lew  Frankfort ,Coach Inc,Communications
+115,John H Pinkerton ,Range Resources,Communications
+116,David N Farr ,Emerson Elec Co,"Consumer,Cyclical"
+117,Jeffrey R Immelt ,General Electric,"Consumer,Cyclical"
+118,David W Nelms ,Discover Financi,"Consumer,Cyclical"
+119,Ursula M Burns ,Xerox Corp,"Consumer,Cyclical"
+120,Joseph M Tucci ,Emc Corp/Ma,"Consumer,Cyclical"
+121,John H Tyson ,Tyson Foods-A,"Consumer,Cyclical"
+122,Stephen J Luczo ,Seagate Technolo,"Consumer,Cyclical"
+123,John Vincent Faraci ,Intl Paper Co,"Consumer,Cyclical"
+124,David R Beran ,Altria Group Inc,"Consumer,Cyclical"
+125,James D Sinegal ,Costco Wholesale,"Consumer,Cyclical"
+126,John Finney Mcdonnell ,Boeing Co/The,"Consumer,Cyclical"
+127,D Mark Durcan ,Micron Tech,"Consumer,Cyclical"
+128,M Keith Waddell ,Robert Half Intl,"Consumer,Non-cyclical"
+129,Kathy  Scripps ,Scripps Net-Cl A,"Consumer,Non-cyclical"
+130,Leslie  Moonves ,Cbs Corp-B,"Consumer,Non-cyclical"
+131,Sandeep  Mathrani ,General Growth P,"Consumer,Non-cyclical"
+132,Jeffery R Gardner ,Windstream Holdi,"Consumer,Non-cyclical"
+133,Stuart A Miller ,Lennar Corp-A,"Consumer,Non-cyclical"
+134,Thomas Kell Montag ,Bank Of America,"Consumer,Non-cyclical"
+135,Michael E Maroone ,Autonation Inc,"Consumer,Non-cyclical"
+136,David E O'Reilly ,O'Reilly Automot,"Consumer,Non-cyclical"
+137,Louis C Camilleri ,Philip Morris In,"Consumer,Non-cyclical"
+138,Noel G Watson ,Jacobs Engin Grp,"Consumer,Non-cyclical"
+139,Miles D White ,Abbott Labs,"Consumer,Non-cyclical"
+140,Alan George Lafley ,Procter & Gamble,"Consumer,Non-cyclical"
+141,David H B Smith Jr,Northern Trust,"Consumer,Non-cyclical"
+142,William V Hickey ,Sealed Air Corp,"Consumer,Non-cyclical"
+143,Robert I Macdonnell ,Safeway Inc,"Consumer,Non-cyclical"
+144,Michael B Stubbs ,Dover Corp,"Consumer,Non-cyclical"
+145,Irene B Rosenfeld ,Mondelez Inter-A,"Consumer,Non-cyclical"
+146,Rodney Cyril Sacks ,Monster Beverage,"Consumer,Non-cyclical"
+147,Richard K Templeton ,Texas Instrument,"Consumer,Non-cyclical"
+148,John Larry Nichols ,Devon Energy Co,"Consumer,Non-cyclical"
+149,Paul S Otellini ,Intel Corp,"Consumer,Non-cyclical"
+150,Paul Jeffrey Taubman ,Morgan Stanley,"Consumer,Non-cyclical"
+151,Jack W Schuler ,Stericycle Inc,"Consumer,Non-cyclical"
+152,Ian M Cook ,Colgate-Palmoliv,"Consumer,Non-cyclical"
+153,David L Calhoun ,Nielsen Holdings,Energy
+154,Mark G Papa ,Eog Resources,Energy
+155,Richard H Anderson ,Delta Air Li,Energy
+156,John F Brock ,Coca-Cola Enter,Energy
+157,Harris H Simmons ,Zions Bancorp,Energy
+158,Edward D Breen ,Tyco Intl Ltd,Energy
+159,Robert A Iger ,Walt Disney Co,Energy
+160,John S Hendricks ,Discovery Comm-A,Energy
+161,Philippe P Dauman ,Viacom Inc-B,Financial
+162,Laurence Douglas Fink ,Blackrock Inc,Financial
+163,Timothy M Manganello ,Borgwarner Inc,Financial
+164,Frazier Owsley Brown ,Brown-Forman -B,Financial
+165,James L Dolan ,Cablevision Sy-A,Financial
+166,Ian C Read ,Pfizer Inc,Financial
+167,Earl R Lewis ,Flir Systems,Financial
+168,William R Klesse ,Valero Energy,Financial
+169,James Lawrence Gallogly ,Lyondellbasell-A,Financial
+170,Murry S Gerber ,Eqt Corp,Financial
+171,Michael J Ward ,Csx Corp,Financial
+172,David B Dillon ,Kroger Co,Financial
+173,Raymond  Wirta ,Cbre Group Inc-A,Financial
+174,George D Yancopoulos ,Regeneron Pharm,Financial
+175,David S Haffner ,Leggett & Platt,Financial
+176,Evan G Greenberg ,Ace Ltd,Financial
+177,Michael F Rogers ,State St Corp,Financial
+178,James E Rogers ,Duke Energy Corp,Industrial
+179,Peter J Rose ,Expeditors Intl,Industrial
+180,John P Mackey ,Whole Foods Mkt,Industrial
+181,Leonard  Bell ,Alexion Pharm,Industrial
+182,Robert C Skaggs Jr,Nisource Inc,Industrial
+183,Gerald L Hassell ,Bank Ny Mellon,Industrial
+184,Sheldon R Erikson ,Cameron Internat,Industrial
+185,Frank R Martire ,Fidelity Nationa,Industrial
+186,Reed  Hastings ,Netflix Inc,Industrial
+187,Klaus  Kleinfeld ,Alcoa Inc,Industrial
+188,Brian D Jellison ,Roper Inds,Technology
+189,David M Mcclanahan ,Centerpoint Ener,Technology
+190,Albert L Lord ,Slm Corp,Technology
+191,Mortimer Benja Zuckerman ,Boston Propertie,Technology
+192,Clarence P Cazalot Jr,Marathon Oil,Technology
+193,Manuel  Medina-Mora ,Citigroup Inc,Technology
+194,John R Colson ,Quanta Services,Technology
+195,Trevor  Fetter ,Tenet Healthcare,Technology
+196,Thomas F Farrell ,Dominion Res/Va,Technology
+197,Howard  Solomon ,Forest Labs Inc,Technology
+198,Patti S Hart ,Intl Game Tech,Utilities
+199,Randall L Stephenson ,At&T Inc,Utilities
+200,John W Thompson ,Symantec Corp,Basic materials
+201,Robert J Coury ,Mylan Inc,Basic materials
+202,Donald E Washkewicz ,Parker Hannifin,Basic materials
+203,John G Stumpf ,Wells Fargo & Co,Basic materials
+204,Andrew N Liveris ,Dow Chemical Co,Communications
+205,John D Wren ,Omnicom Group,Communications
+206,George  Paz ,Express Scripts,Communications
+207,James R Young ,Union Pac Corp,Communications
+208,James F Flaherty ,Hcp Inc,Communications
+209,Bruce K Anderson ,Alliance Data,Communications
+210,Kenneth I Chenault ,American Express,Communications
+211,Henry P Becton Jr,Becton Dickinson,Communications
+212,Robert A Niblock ,Lowe'S Cos Inc,Communications
+213,David W Crane ,Nrg Energy,Communications
+214,Peter H Coors ,Molson Coors-B,Communications
+215,Nicholas D Chabraja ,General Dynamics,Communications
+216,Glen F Post ,Centurylink Inc,"Consumer,Cyclical"
+217,Gregory C Case ,Aon Plc,"Consumer,Cyclical"
+218,David M Cote ,Honeywell Intl,"Consumer,Cyclical"
+219,John E Warnock ,Adobe Sys Inc,"Consumer,Cyclical"
+220,Kevin T Kabat ,Fifth Third Banc,"Consumer,Cyclical"
+221,Michael R Haverty ,Kansas City Sout,"Consumer,Cyclical"
+222,Michael I Roth ,Interpublic Grp,"Consumer,Cyclical"
+223,Philip W Tomlinson ,Total Sys Servs,"Consumer,Cyclical"
+224,Scott D Sheffield ,Pioneer Natural,"Consumer,Cyclical"
+225,W Benjamin Moreland ,Crown Castle Int,"Consumer,Cyclical"
+226,John F Lundgren ,Stanley Black &,"Consumer,Cyclical"
+227,R David Hoover ,Ball Corp,"Consumer,Cyclical"
+228,John F Coyne ,Western Digital,"Consumer,Non-cyclical"
+229,Larry J Merlo ,Cvs Caremark Cor,"Consumer,Non-cyclical"
+230,John P Daane ,Altera Corp,"Consumer,Non-cyclical"
+231,Thompson L Rankin ,Teco Energy Inc,"Consumer,Non-cyclical"
+232,J Brett Harvey ,Consol Energy,"Consumer,Non-cyclical"
+233,Lawrence F Probst ,Electronic Arts,"Consumer,Non-cyclical"
+234,Albert P L Stroucken ,Owens-Illinois,"Consumer,Non-cyclical"
+235,Robert  Greifeld ,Nasdaq Omx Group,"Consumer,Non-cyclical"
+236,Wendell P Weeks ,Corning Inc,"Consumer,Non-cyclical"
+237,Robert S Sands ,Constellation-A,"Consumer,Non-cyclical"
+238,Francis Stanto Blake ,Home Depot Inc,"Consumer,Non-cyclical"
+239,Terry J Lundgren ,Macy'S Inc,"Consumer,Non-cyclical"
+240,Iii Lewis Hay ,Nextera Energy,"Consumer,Non-cyclical"
+241,Stephen A Roell ,Johnson Controls,"Consumer,Non-cyclical"
+242,David J Lesar ,Halliburton Co,"Consumer,Non-cyclical"
+243,Kelly S King ,Bb&T Corp,"Consumer,Non-cyclical"
+244,John A Luke Jr,Meadwestvaco Cor,"Consumer,Non-cyclical"
+245,Eric C Wiseman ,Vf Corp,"Consumer,Non-cyclical"
+246,Scott Alan Mcgregor ,Broadcom Corp-A,"Consumer,Non-cyclical"
+247,OB Grayson Hall Jr,Regions Financia,"Consumer,Non-cyclical"
+248,Joshua S Boger ,Vertex Pharm,"Consumer,Non-cyclical"
+249,William H Swanson ,Raytheon Co,"Consumer,Non-cyclical"
+250,Jack W Schuler ,Medtronic Inc,"Consumer,Non-cyclical"
+251,John W Gibson ,Oneok Inc,"Consumer,Non-cyclical"
+252,Gregg W Steinhafel ,Target Corp,"Consumer,Non-cyclical"
+253,Gary M Rodkin ,Conagra Foods,Energy
+254,John C Lechleiter ,Eli Lilly & Co,Energy
+255,Indra K Nooyi ,Pepsico Inc,Energy
+256,David P Steiner ,Waste Management,Energy
+257,Mark G Parker ,Nike Inc -Cl B,Energy
+258,Leonard S Riggio ,Gamestop Corp-A,Energy
+259,Daniel R Dimicco ,Nucor Corp,Energy
+260,Rodney  O'Neal ,Delphi Automotiv,Energy
+261,Gregory Q Brown ,Motorola Solutio,Financial
+262,Anthony J Alexander ,Firstenergy Corp,Financial
+263,James E Rohr ,Pnc Financial Se,Financial
+264,John H Hammergren ,Mckesson Corp,Financial
+265,Ralph W Babb Jr,Comerica Inc,Financial
+266,Stephen P Holmes ,Wyndham Worldwid,Financial
+267,Julie J Robertson ,Noble Corp Plc,Financial
+268,Alexander M Cutler ,Eaton Corp Plc,Financial
+269,Samuel J Palmisano ,Ibm,Financial
+270,Thomas R Watjen ,Unum Group,Financial
+271,Alexandra A Herzan ,Intl Flvr & Frag,Financial
+272,Jay S Fishman ,Travelers Cos In,Financial
+273,Thomas J Folliard ,Carmax Inc,Financial
+274,Michael B Polk ,Newell Rubbermai,Financial
+275,Hugh  Grant ,Monsanto Co,Financial
+276,Robert J Hugin ,Celgene Corp,Financial
+277,Mark T Bertolini ,Aetna Inc,Financial
+278,Daniel S Fulton ,Weyerhaeuser Co,Industrial
+279,Thomas J Falk ,Kimberly-Clark,Industrial
+280,Robert F Friel ,Perkinelmer Inc,Industrial
+281,Gregory T Lucier ,Life Technologie,Industrial
+282,John G Russell ,Cms Energy Corp,Industrial
+283,Abhijit Y Talwalkar ,Lsi Corp,Industrial
+284,Kendall J Powell ,General Mills In,Industrial
+285,Keith D Nosbusch ,Rockwell Automat,Industrial
+286,Thomas C Gallagher ,Genuine Parts Co,Industrial
+287,Richard K Davis ,Us Bancorp,Industrial
+288,Robert C Dobkin ,Linear Tech Corp,Technology
+289,Robert R D'Amore ,People'S United,Technology
+290,J Wayne Leonard ,Entergy Corp,Technology
+291,Debra A Cafaro ,Ventas Inc,Technology
+292,L Phillip Humann ,Suntrust Banks,Technology
+293,Ralph  Lauren ,Ralph Lauren Cor,Technology
+294,D James Bidzos ,Verisign Inc,Technology
+295,Robert L Parkinson Jr,Baxter Intl Inc,Technology
+296,Charles B Stanley ,Qep Resources In,Technology
+297,Robert E Weissman ,Cognizant Tech-A,Technology
+298,Andrea  Jung ,Avon Products,Utilities
+299,Mayo A Shattuck ,Exelon Corp,Utilities
+300,Lamberto  Andreotti ,Bristol-Myer Sqb,Basic materials
+301,Merrill A Miller Jr,Natl Oilwell Var,Basic materials
+302,Christopher M Connor ,Sherwin-Williams,Basic materials
+303,Louis R Chenevert ,United Tech Corp,Basic materials
+304,Jeffrey Scott Lorberbaum ,Mohawk Inds,Communications
+305,Terry  Considine ,Apartment Invest,Communications
+306,Ralph  Izzo ,Pub Serv Enterp,Communications
+307,Weil Andres Ricardo Gluski ,Aes Corp,Communications
+308,Robert A Eckert ,Mattel Inc,Communications
+309,G Steven Farris ,Apache Corp,Communications
+310,Marc N Casper ,Thermo Fisher,Communications
+311,John D Finnegan ,Chubb Corp,Communications
+312,Jeffrey B Weeden ,Keycorp,Communications
+313,Richard F Smith ,Equifax Inc,Communications
+314,Dennis R Glass ,Lincoln Natl Crp,Communications
+315,James M Cracchiolo ,Ameriprise Finan,Communications
+316,Donald A James ,Harley-Davidson,"Consumer,Cyclical"
+317,Ellen J Kullman ,Du Pont (Ei),"Consumer,Cyclical"
+318,Wesley G Bush ,Northrop Grumman,"Consumer,Cyclical"
+319,Gretchen W Mcclain ,Xylem Inc,"Consumer,Cyclical"
+320,William P Sullivan ,Agilent Tech Inc,"Consumer,Cyclical"
+321,Paul M Bisaro ,Actavis Plc,"Consumer,Cyclical"
+322,David E I Pyott ,Allergan Inc,"Consumer,Cyclical"
+323,Murray S Kessler ,Lorillard Inc,"Consumer,Cyclical"
+324,Stephen M Dow ,Citrix Systems,"Consumer,Cyclical"
+325,Michael A Mussallem ,Edwards Life,"Consumer,Cyclical"
+326,James E Butts ,Ch Robinson,"Consumer,Cyclical"
+327,Richard W Dreiling ,Dollar General C,"Consumer,Cyclical"
+328,Robert B Pollock ,Assurant Inc,"Consumer,Non-cyclical"
+329,John P Surma Jr,Us Steel Corp,"Consumer,Non-cyclical"
+330,Donald R Chappel ,Williams Cos Inc,"Consumer,Non-cyclical"
+331,Craig Steven Donohue ,Cme Group Inc,"Consumer,Non-cyclical"
+332,Gary L Coleman ,Torchmark Corp,"Consumer,Non-cyclical"
+333,Michael J Curcio ,E*Trade Financia,"Consumer,Non-cyclical"
+334,James W Stewart ,Baker Hughes Inc,"Consumer,Non-cyclical"
+335,Joseph A Sullivan ,Legg Mason Inc,"Consumer,Non-cyclical"
+336,Daniel Francis Akerson ,General Motors C,"Consumer,Non-cyclical"
+337,Carl  Bass ,Autodesk Inc,"Consumer,Non-cyclical"
+338,Jingshyh S Su ,Yum! Brands Inc,"Consumer,Non-cyclical"
+339,Scott C Donnelly ,Textron Inc,"Consumer,Non-cyclical"
+340,Thomas J May ,Northeast Utils,"Consumer,Non-cyclical"
+341,Lonnie M Smith ,Intuitive Surgic,"Consumer,Non-cyclical"
+342,James P Rogers ,Eastman Chemical,"Consumer,Non-cyclical"
+343,Thomas J Wilson ,Allstate Corp,"Consumer,Non-cyclical"
+344,Randall J Hogan ,Pentair Ltd-Reg,"Consumer,Non-cyclical"
+345,Charles E Bunch ,Ppg Inds Inc,"Consumer,Non-cyclical"
+346,Richard S Sokolov ,Simon Property,"Consumer,Non-cyclical"
+347,Theodore M Solso ,Cummins Inc,"Consumer,Non-cyclical"
+348,Michael D White ,Directv,"Consumer,Non-cyclical"
+349,Clarence  Otis Jr,Darden Restauran,"Consumer,Non-cyclical"
+350,William Charle Cobb ,H&R Block Inc,"Consumer,Non-cyclical"
+351,Thomas J Lynch ,Te Connectivity,"Consumer,Non-cyclical"
+352,John H Williams Sr,Wpx Energy,"Consumer,Non-cyclical"
+353,James T Hackett ,Anadarko Petrole,Energy
+354,George S Barrett ,Cardinal Health,Energy
+355,Michael F Koehler ,Teradata Corp,Energy
+356,Eric Emerson Schmidt ,Google Inc-Cl A,Energy
+357,James A Skinner ,Mcdonalds Corp,Energy
+358,Kevin  Burke ,Cons Edison Inc,Energy
+359,Louis John Jeffry ,Gannett Co,Energy
+360,Douglas M Baker Jr,Ecolab Inc,Energy
+361,John R Strangfeld Jr,Prudentl Finl,Financial
+362,Edward C Coppola ,Macerich Co,Financial
+363,Alan L Boeckmann ,Fluor Corp,Financial
+364,William J Delaney ,Sysco Corp,Financial
+365,Peter A Magowan ,Caterpillar Inc,Financial
+366,Pierre  Nanterme ,Accenture Plc-A,Financial
+367,Richard J Harshman ,Allegheny Tech,Financial
+368,James M Whitehurst ,Red Hat Inc,Financial
+369,James A Parke ,Genworth Financi,Financial
+370,Donald E Felsinger ,Sempra Energy,Financial
+371,W Matthew Ralls ,Rowan Companie-A,Financial
+372,Gregory L Ebel ,Spectra Energ,Financial
+373,Daniel W Rabun ,Ensco Plc-Cl A,Financial
+374,Charles Wick Moorman ,Norfolk Southern,Financial
+375,Jeff Maurice Fettig ,Whirlpool Corp,Financial
+376,Jeffrey M Ettinger ,Hormel Foods Crp,Financial
+377,Michael W Laphen ,Computer Science,Financial
+378,Joseph M Rigby ,Pepco Holdings,Industrial
+379,Stephen  Kaufer ,Tripadvisor Inc,Industrial
+380,Gregory H Boyce ,Peabody Energy,Industrial
+381,Michael G Morris ,American Electri,Industrial
+382,Steve  Ells ,Chipotle Mexican,Industrial
+383,Gerard M Anderson ,Dte Energy Co,Industrial
+384,Herbert A Fritch ,Cigna Corp,Industrial
+385,Kenneth C Frazier ,Merck & Co,Industrial
+386,Murray D Martin ,Pitney Bowes Inc,Industrial
+387,George L Chapman ,Health Care Reit,Industrial
+388,William H Schumann ,Fmc Technologies,Technology
+389,Gary D Packer ,Newfield Explora,Technology
+390,Henry J Theisen ,Bemis Co,Technology
+391,Naren K Gursahaney ,Adt Corp/The,Technology
+392,Steven R Shawley ,Ingersoll-Rand,Technology
+393,Larry D Young ,Dr Pepper Snappl,Technology
+394,Rick R Holley ,Plum Creek Timbr,Technology
+395,Raymond J Lane ,Hewlett-Packard,Technology
+396,Laura J Schumacher ,Abbvie Inc,Technology
+397,Paasschen Frits D Van ,Starwood Hotels,Technology
+398,Richard J Kramer ,Goodyear Tire,Utilities
+399,Michael B Mccallister ,Humana Inc,Utilities
+400,Donald W Slager ,Republic Svcs,Basic materials
+401,William J Wheeler ,Metlife Inc,Basic materials
+402,John E Mcglade ,Air Prods & Chem,Basic materials
+403,Michael J Kowalski ,Tiffany & Co,Basic materials
+404,Anthony F Earley Jr,Pg&E Corp,Communications
+405,Mark  Donegan ,Precision Castpt,Communications
+406,Gregory J Goff ,Tesoro Corp,Communications
+407,Robert F Moran ,Petsmart Inc,Communications
+408,Gary R Heminger ,Marathon Petrole,Communications
+409,Mathis  Cabiallavetta ,Marsh & Mclennan,Communications
+410,Pierre R Brondeau ,Fmc Corp,Communications
+411,Jose E Almeida ,Covidien Plc,Communications
+412,Lowell C Mcadam ,Verizon Communic,Communications
+413,Hikmet T Ersek ,Western Union,Communications
+414,Robert J Stevens ,Lockheed Martin,Communications
+415,Larry Donald Zimpleman ,Principal Finl,Communications
+416,Clayton M Jones ,Rockwell Collins,"Consumer,Cyclical"
+417,Joseph A Carrabba ,Cliffs Natural R,"Consumer,Cyclical"
+418,Steven H Collis ,Amerisourceberge,"Consumer,Cyclical"
+419,Benjamin G S Fowke ,Xcel Energy Inc,"Consumer,Cyclical"
+420,Jeffery H Boyd ,Priceline.Com,"Consumer,Cyclical"
+421,James M Jenness ,Kellogg Co,"Consumer,Cyclical"
+422,Timothy M Ring ,Cr Bard Inc,"Consumer,Cyclical"
+423,Michael S Mcgavick ,Xl Group Plc,"Consumer,Cyclical"
+424,Raymond W Mcdaniel Jr,Moody'S Corp,"Consumer,Cyclical"
+425,Robert H Benmosche ,American Interna,"Consumer,Cyclical"
+426,John W Somerhalder ,Agl Resources,"Consumer,Cyclical"
+427,Theodore F Craver Jr,Edison Intl,"Consumer,Cyclical"
+428,Michael W Sutherlin ,Joy Global Inc,"Consumer,Non-cyclical"
+429,Nicholas T Pinchuk ,Snap-On Inc,"Consumer,Non-cyclical"
+430,Gilbert S Omenn ,Amgen Inc,"Consumer,Non-cyclical"
+431,Joseph R Hyde ,Autozone Inc,"Consumer,Non-cyclical"
+432,David C Dvorak ,Zimmer Hldgs,"Consumer,Non-cyclical"
+433,Mark A Blinn ,Flowserve Corp,"Consumer,Non-cyclical"
+434,John T Cahill ,Kraft Foods Grou,"Consumer,Non-cyclical"
+435,Martin Hans Loeffler ,Amphenol Corp-A,"Consumer,Non-cyclical"
+436,Russell C Deyo ,Johnson&Johnson,"Consumer,Non-cyclical"
+437,Arthur D Levinson ,Apple Inc,"Consumer,Non-cyclical"
+438,Robert A Hagemann ,Quest Diagnostic,"Consumer,Non-cyclical"
+439,Glenn A Britt ,Time Warner Cabl,"Consumer,Non-cyclical"
+440,Stephen F Angel ,Praxair Inc,"Consumer,Non-cyclical"
+441,F Michael Ball ,Hospira Inc,"Consumer,Non-cyclical"
+442,Kieran T Gallahue ,Carefusion Corp,"Consumer,Non-cyclical"
+443,Timothy M Archer ,Lam Research,"Consumer,Non-cyclical"
+444,James T Prokopanko ,Mosaic Co/The,"Consumer,Non-cyclical"
+445,Bryce  Blair ,Avalonbay Commun,"Consumer,Non-cyclical"
+446,William E Mccracken ,Ca Inc,"Consumer,Non-cyclical"
+447,Daniel M Delen ,Reynolds America,"Consumer,Non-cyclical"
+448,Sara  Mathew ,Dun & Bradstreet,"Consumer,Non-cyclical"
+449,Carlos A Rodriguez ,Automatic Data,"Consumer,Non-cyclical"
+450,Donald M James ,Vulcan Materials,"Consumer,Non-cyclical"
+451,Dinesh C Paliwal ,Harman Intl,"Consumer,Non-cyclical"
+452,Gregory T Swienton ,Ryder System Inc,"Consumer,Non-cyclical"
+453,John P Bilbrey ,Hershey Co/The,Energy
+454,Gale E Klappa ,Wisconsin Energy,Energy
+455,Donald R Knauss ,Clorox Co,Energy
+456,Dean A Scarborough ,Avery Dennison,Energy
+457,Lori A Beer ,Wellpoint Inc,Energy
+458,James M Cornelius ,Mead Johnson,Energy
+459,Timothy E Guertin ,Varian Medical S,Energy
+460,Michael J Ahearn ,First Solar Inc,Energy
+461,David P King ,Laboratory Cp,Financial
+462,Craig P Omtvedt ,Beam Inc,Financial
+463,Byron H Pollitt Jr,Visa Inc-Class A,Financial
+464,John J Mcdevitt ,United Parcel-B,Financial
+465,Samuel R Allen ,Deere & Co,Financial
+466,James D Taiclet Jr,American Tower C,Financial
+467,Stephen R Wilson ,Cf Industries Ho,Financial
+468,Donald E Brandt ,Pinnacle West,Financial
+469,John S Watson ,Chevron Corp,Financial
+470,Leslie A Jones ,Dentsply Intl,Financial
+471,Moshe N Gavrielov ,Xilinx Inc,Financial
+472,Frank J Caufield ,Time Warner Inc,Financial
+473,James H Miller ,Ppl Corporation,Financial
+474,John  Mcadam ,F5 Networks,Financial
+475,Russell D Ball ,Newmont Mining,Financial
+476,Thomas R Voss ,Ameren Corp,Financial
+477,Kirk A Richter ,Sigma-Aldrich,Financial
+478,Liam E Mcgee ,Hartford Finl Sv,Industrial
+479,John E Lowe ,Conocophillips,Industrial
+480,Daniel R Pearson ,Harris Corp,Industrial
+481,Inge G Thulin ,3M Co,Industrial
+482,Steven L Newman ,Transocean Ltd,Industrial
+483,Jon A Boscia ,Southern Co,Industrial
+484,William F Protz Jr,Integrys Energy,Industrial
+485,Lawrence D Kingsley ,Pall Corp,Industrial
+486,George A Scangos ,Biogen Idec Inc,Industrial
+487,John E Lowe ,Phillips 66,Industrial
+488,Edward W Barnholt ,Kla-Tencor Corp,Technology
+489,Timothy  Eckersley ,Allegion Plc,Technology
+490,Kevin B Marsh ,Scana Corp,Technology
+491,Donald E Graham ,Graham Holding-B,Technology
+492,Emanuel  Chirico ,Pvh Corp,Technology
+493,Ajaypal S Banga ,Mastercard Inc-A,Technology
+494,William E Stevens ,Mccormick-N/V,Technology
+495,David J Peniket ,Intercontinental,Technology
+496,Lawrence R Dickerson ,Diamond Offshore,Technology
+497,James C Tomshack ,Perrigo Co Plc,Technology
+498,Michael B Mccallister ,Zoetis Inc,Utilities
+499,Peter Leslie Barnes ,News Corp-Cl A,Utilities

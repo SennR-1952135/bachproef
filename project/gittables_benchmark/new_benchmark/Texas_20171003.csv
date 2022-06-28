@@ -1,0 +1,342 @@
+,name,city,state,type
+0,(512) Brewing Co,Austin,TX,micro
+1,11 Below Brewing Company,Houston,TX,micro
+2,160ft Beerworks,Houston,TX,micro
+3,28th State Brewing,Houston,TX,planning
+4,3 Nations Brewing,Farmers Branch,TX,micro
+5,4th Tap Brewing Cooperative,Austin,TX,micro
+6,5 Stones Artisan Brewery,Cibolo,TX,micro
+7,5th Element Brewing,Leander,TX,planning
+8,5x5 Brewing Co.,Mission,TX,planning
+9,8th Wonder Brewery,Houston,TX,micro
+10,903 Brewers,Sherman,TX,micro
+11,Acopon Brewing Co,Dripping Springs,TX,micro
+12,Adelbert's Brewery LLC,Austin,TX,micro
+13,Alamo Beer Co,San Antonio,TX,micro
+14,Allens Landing Brewing Company,Houston,TX,planning
+15,Altmeyer,San Marcos,TX,micro
+16,Altstadt Brewery,Fredericksburg,TX,micro
+17,Amarillo Beer Company,Canyon,TX,planning
+18,"Angelina Brewing Company, LLC.",Lufkin,TX,planning
+19,Anheuser-Busch Inc – Houston,Houston,TX,large
+20,Apogee Brewing,League City,TX,planning
+21,Aquabrew,San Marcos,TX,brewpub
+22,"Aransas Pass Brewing Company, LLC",Aransas Pass,TX,planning
+23,Armadillo Ale Works,Denton,TX,contract
+24,Athens Brewing Co,Athens,TX,brewpub
+25,Audacity Brew House,Denton,TX,micro
+26,Austin Beerworks,Austin,TX,regional
+27,B and J's Handcrafted Texas Ales,Corpus Christi,TX,micro
+28,B-52 Brewing,Conroe,TX,micro
+29,Baa Baa Brewhouse,Brookshire,TX,micro
+30,Back Pew Brewing,Porter,TX,micro
+31,Backcountry Brewery - Rowlett,Rowlett,TX,brewpub
+32,BAKFISH Brewing Company,Pearland,TX,micro
+33,Bankhead Brewing Company,Rowlett,TX,brewpub
+34,Bar D Brew House,San Saba,TX,brewpub
+35,Bare Arms Brewing,Waco,TX,micro
+36,Barley & Board,Denton,TX,brewpub
+37,Barrel Assembly,Austin,TX,planning
+38,Barrow Brewing Company,Salado,TX,micro
+39,B-CS Zoigl Brewery,Bryan,TX,micro
+40,Bearded Fox Brewing Co.,Tomball,TX,micro
+41,Beerfoot Beach Bar,Galveston,TX,micro
+42,Big Bend Brewing Co,Alpine,TX,micro
+43,Big Kids Brewhouse,Austin,TX,planning
+44,"Big River Brewery, LLC",Pharr,TX,micro
+45,Big Texan Brewery,Amarillo,TX,brewpub
+46,Big Thicket Brewery,Lufkin,TX,micro
+47,Bitter Sisters Brewing Company,Addison,TX,micro
+48,BJ's Brewery,Temple,TX,regional
+49,Black Page Brewing Company,Houston,TX,planning
+50,Black Star Co-op,Austin,TX,brewpub
+51,Blackwater Draw Brewing Company,College Station,TX,brewpub
+52,Blue Owl Brewing,Austin,TX,micro
+53,Blue Star Brewing Co,San Antonio,TX,brewpub
+54,Bluebonnet Beer Co,Round Rock,TX,micro
+55,Boerne Brewery,Boerne,TX,micro
+56,Braindead Brewing,Dallas,TX,brewpub
+57,Branchline Brewing Company,San Antonio,TX,micro
+58,Brash,Houston,TX,micro
+59,Brazos Valley Brewing Company,Brenham,TX,micro
+60,Brew Monkey Beer Company,San Antonio ,TX,planning
+61,Brewery in Planning - Austin,Austin,TX,planning
+62,Brewery In Planning - Austin,Leander,TX,planning
+63,Brewery in Planning - Austin,Austin,TX,planning
+64,Brewery In Planning - Baytown,Kingwood,TX,planning
+65,Brewery in Planning - Beaumont,Beaumont,TX,planning
+66,Brewery in Planning - Canyon,Canyon,TX,planning
+67,Brewery In Planning - College Station,College Station,TX,planning
+68,Brewery In Planning - Cypress,,,planning
+69,Brewery in Planning - Cypress,Cypress,TX,planning
+70,Brewery in Planning - Dallas,Dallas,TX,planning
+71,Brewery in Planning - Dallas,Dallas,TX,planning
+72,Brewery in Planning - Dallas,Dallas,TX,planning
+73,Brewery In Planning - Dallas,Dallas,TX,planning
+74,Brewery In Planning - Fort Worth,Fort Worth,TX,planning
+75,Brewery In Planning - Friendswood,Friendswood,TX,planning
+76,Brewery in Planning - Grapevine,Grapevine,TX,planning
+77,Brewery In Planning - Houston,Houston,TX,planning
+78,Brewery in Planning - Houston,Houston,TX,planning
+79,Brewery in Planning - Humble,Humble,TX,planning
+80,Brewery in Planning - Katy,Katy,TX,planning
+81,Brewery In Planning - Lucas,Allen,TX,planning
+82,Brewery in Planning - Mckinney,Mckinney,TX,brewpub
+83,Brewery in Planning - meriden,Rio Grande City,TX,planning
+84,Brewery in Planning - San Antonio,San Antonio,TX,planning
+85,Brewery In Planning - San Marcos TX,,,planning
+86,Brewery in Planning - Washington,Washington,TX,planning
+87,Brewery In Planning- Arlington,Arlington,TX,planning
+88,Brewery In Planning- Houston,,,planning
+89,"Brewery In Planning- Mc Kinney, TX.",McKinney,TX,planning
+90,"Brewery In Planning- Plano, TX.",Plano,TX,planning
+91,Brews Brothers,Galveston,TX,brewpub
+92,Brick Oven Pizza Co.,Abilene,TX,brewpub
+93,Brigadoon Brewery & Brew School,Pasadena,TX,micro
+94,BS Brewing,Seguin,TX,micro
+95,Buffalo Bayou Brewing Co,Houston,TX,micro
+96,Bull Creek Brewing Company,Austin,TX,proprietor
+97,Busted Sandal Brewing Company,San Antonio,TX,micro
+98,Cactus Land Brewing Company,Adkins,TX,micro
+99,Caracara Brewing Company,Lockhart,TX,planning
+100,Cedar Creek Brewery,Seven Points,TX,micro
+101,Celis Brewery,Austin,TX,micro
+102,Cellarmans American Pub,Sherman,TX,planning
+103,Chimera Brewing Company,Fort Worth,TX,brewpub
+104,Cibolo Creek Brewing Co.,Boerne,TX,brewpub
+105,Circle Brewing Company,Austin,TX,micro
+106,City Acre Brewing Co,Houston,TX,brewpub
+107,Coastal Bend Brewing,Corpus Christi,TX,planning
+108,Cobra Brewing Company,Lewisville,TX,micro
+109,Comfort Brewing,Comfort,TX,planning
+110,Community Beer Co,Dallas,TX,micro
+111,Copperhead Brewery,Conroe,TX,micro
+112,Cowtown Brewing Company,Fort Worth,TX,planning
+113,Cycler's Brewing,Montgomery,TX,micro
+114,Cypress Creek Southern Ales,Winnsboro,TX,micro
+115,Cypress Street Station / Abilene Brewing Co,Abilene,TX,brewpub
+116,Deadbeach Brewery,El Paso,TX,micro
+117,Deep Ellum Brewing Co,Dallas,TX,regional
+118,Denton County Brewing Company,,,micro
+119,Destination Brewing Company,Austin,TX,contract
+120,Division Brewing,Arlington,TX,micro
+121,Dodging Duck Brewhaus,Boerne,TX,brewpub
+122,Dorcol Distilling and Highwheel Beerworks,San Antonio,TX,micro
+123,Double Horn Brewing Co,Marble Falls,TX,brewpub
+124,Draught House Pub and Brewery,Austin,TX,micro
+125,East Texas Aleworks,Houston,TX,planning
+126,El Paso Brewing Company,El Paso,TX,micro
+127,Ember Brewing Company,,,planning
+128,Eola School Restaurant,Eola,TX,brewpub
+129,ETX Brewing Co.,Tyler,TX,micro
+130,Eureka Heights Brewing Company,Houston,TX,micro
+131,Family Business Beer Company,Dripping Springs,TX,planning
+132,Faust Hotel Restaurant and Brew Pub,New Braunfels,TX,brewpub
+133,Fetching Lab Brewing Co.,Alvin,TX,micro
+134,Flight School Brewing,Arcola,TX,planning
+135,Flix Brewhouse,Round Rock,TX,micro
+136,Four Bullets Brewery,Richardson,TX,micro
+137,Four Corners Brewing Co,Dallas,TX,micro
+138,Franconia Brewing Co,McKinney,TX,micro
+139,Fredericksburg Brewing Co,Fredericksburg,TX,brewpub
+140,"Fredonia Brewery, LLC",Nacogdoches,TX,micro
+141,Freetail Brewing Co,San Antonio,TX,micro
+142,Freetail Brewing Co - Brewpub,San Antonio,TX,brewpub
+143,Friends and Allies Brewing Company,Austin,TX,proprietor
+144,Frisky Brewing Company,Odessa,TX,planning
+145,Fulbrook Ale Works,Brookshire,TX,planning
+146,G Town Brewery,Greenville,TX,planning
+147,Galactic Coast Brewing,Dickinson,TX,micro
+148,"Galveston Bay Beer Company, Inc.",Dickinson,TX,micro
+149,Galveston Island Brewing,Galveston,TX,micro
+150,Gnome Hole,League City,TX,planning
+151,Goliad Brewing Company,Goliad,TX,micro
+152,Good Neighbor Brews,Wylie,TX,micro
+153,Gordon Biersch Brewery Restaurant - Dallas,Dallas,TX,brewpub
+154,Gordon Biersch Brewery Restaurant - Plano,Plano,TX,brewpub
+155,Gordon Street Tavern,Alvin,TX,brewpub
+156,Granary 'Cue and Brew,San Antonio,TX,brewpub
+157,Grapevine Craft Brewery,Grapevine,TX,micro
+158,Great Heights Brewing Company,Houston,TX,micro
+159,Gristworkz,Houston,TX,planning
+160,Guadalupe Brewery,Canyon Lake,TX,micro
+161,Guns & Oil Brewery,Austin,TX,contract
+162,Happy Hippie Brewing Company,Richardson,TX,planning
+163,Hell or High Water Brewing,Leander,TX,planning
+164,Hemisphere Brewing Co,Rockwall,TX,micro
+165,Hi Sign Brewing,Austin,TX,micro
+166,Hold Out Brewing,Austin,TX,planning
+167,Holler Brewing Company,Houston,TX,micro
+168,Hop And Sting Brewing Company,Lewisville,TX,planning
+169,Hopfusion Ale Works,Fort Worth,TX,micro
+170,Hoppin Bull Brewing Company,Katy,TX,planning
+171,Hops and Grain Brewing Company,Austin,TX,micro
+172,"Horny Toad Brewing Co, LLC",Rowena,TX,micro
+173,"Huff Brewing Company, LLC",Bellville,TX,micro
+174,Humperdinks - Arlington,Arlington,TX,brewpub
+175,Humperdinks - Dallas (Greenville),Dallas,TX,brewpub
+176,Humperdinks Restaurant,Dallas,TX,brewpub
+177,Idle Vine Brewing Company,Round Rock,TX,micro
+178,Independence Brewing,Austin,TX,regional
+179,Infamous Brewing,Austin,TX,micro
+180,"Intervention Brewing Company, LLC",Irving,TX,planning
+181,Intrinsic Smokehouse & Brewery,Garland,TX,brewpub
+182,Ivanhoe Aleworks,Denison,TX,micro
+183,Jester King Brewery,Austin,TX,micro
+184,Karbach Brewing Co,Houston,TX,large
+185,Kastaway Brewing Co,Katy,TX,planning
+186,Kinematic Brewing Company,Boerne,TX,micro
+187,Klaus Brewing Company,Houston,TX,planning
+188,La Funke Brewing,Bulverde,TX,planning
+189,Lakewood Brewing Co,Garland,TX,micro
+190,Last Stand Brewing Company,Austin,TX,micro
+191,Lazarus Brewing Company,Austin,TX,brewpub
+192,Lazy Beach Brewing,Corpus Christi,TX,micro
+193,Legal Draft Beer Company,Arlington,TX,micro
+194,Live Oak Brewing Co,Austin,TX,micro
+195,Lone Pint Brewery,Magnolia,TX,micro
+196,Long Wooden Spoon Brewing,Amarillo,TX,micro
+197,Longtab Brewing Company LLC,San Antonio,TX,planning
+198,Lorelei Brewing Co,Corpus Christi,TX,micro
+199,Mad Pecker Brewing,San Antonio,TX,brewpub
+200,Mallory Brewing,Houston,TX,planning
+201,Maple Branch Craft Brewery,Fort Worth,TX,planning
+202,Martin House Brewing Company,Fort Worth,TX,micro
+203,Middleton Brewing Co,San Marcos,TX,micro
+204,MillerCoors Brewing Co - Fort Worth,Fort Worth,TX,large
+205,Moon Tower Sudworks,Houston,TX,brewpub
+206,Motley Brew Works,Cedar Park,TX,planning
+207,"Nacogdoches Brewing Company, Inc.",Nacogdoches,TX,planning
+208,Neches Brewing Company,Port Neches,TX,brewpub
+209,New Braunfels Brewing,New Braunfels,TX,micro
+210,New Republic Brewing,College Station,TX,micro
+211,Nine Band Brewing Co.,Allen,TX,micro
+212,Nine Lives Brewing,Austin,TX,planning
+213,NLand Brewing Company,del Valle,TX,planning
+214,No Label Brewing Co,Katy,TX,micro
+215,Noble Rey Brewing Company,Dallas,TX,micro
+216,North By Northwest Restaurant and Brewery,Austin,TX,brewpub
+217,North By Northwest Restaurant and Brewery,Austin,TX,brewpub
+218,Oak Highlands Brewery,Dallas,TX,micro
+219,Oasis Texas Brewing Company,Austin,TX,brewpub
+220,Ode Brewing Co.,El Paso,TX,brewpub
+221,Oil Horse Brewing Company,Longview,TX,micro
+222,Ol\' Shed Brewing Company,MATHIS,TX,planning
+223,Old Texas Brewing Co,Burleson,TX,brewpub
+224,On Rotation Brewery,Dallas,TX,micro
+225,O'Neil & Sons Brewing Company,Port Lavaca,TX,micro
+226,Orf Brewing,Austin,TX,micro
+227,Oskar Blues Brewery,Austin,TX,micro
+228,Padre Island Brewing Co,South Padre Island,TX,brewpub
+229,Panther Island Brewing Company,Fort Worth,TX,micro
+230,Pappy Slokum Brewing Co.,Abilene,TX,micro
+231,Pecan Street Brewing Co,Johnson City,TX,brewpub
+232,Pedernales Brewing Co,Fredericksburg,TX,micro
+233,Pegasus City Brewery,Dallas,TX,micro
+234,Peticolas Brewing Co,Dallas,TX,micro
+235,Pint,Kerrville,TX,brewpub
+236,Pinthouse Pizza North,Austin,TX,brewpub
+237,Pinthouse Pizza South,Austin,TX,brewpub
+238,Planet Mash Brewing Company,Katy,TX,planning
+239,Platypus Brewing,Houston,TX,micro
+240,Ponyfoot Public House,Austin,TX,planning
+241,Pour Brothers Brewery,Beaumont,TX,planning
+242,Rabbit Hole Brewing,Justin,TX,micro
+243,Rahr and Sons Brewing Co,Fort Worth,TX,regional
+244,Railport Brewing Company,Waxahachie,TX,planning
+245,Railroad Seafood Station & Brewing Co.,Corpus Christi,TX,brewpub
+246,Rally Point Brewing Company,Marble Falls,TX,planning
+247,Ranger Creek Brewery,San Antonio,TX,micro
+248,Real Ale Brewing Co,Blanco,TX,regional
+249,Rebel Toad Brewing Co,Corpus Christi,TX,micro
+250,Red Horn Brewing Co.,Cedar Park,TX,brewpub
+251,Rentschler Brewery,Georgetown,TX,micro
+252,Resignation Brewery,Austin,TX,contract
+253,Revolver Brewing,Granbury,TX,large
+254,Rosehill Brewing Co.,Tomball,TX,planning
+255,Rough Diamond Brewery,Spring Branch,TX,micro
+256,Ruggedman Brewing Company,New Braunfels,TX,micro
+257,Running Walker Brewery & Braman Winery,Richmond,TX,micro
+258,Saint Arnold Brewing Co,Houston,TX,regional
+259,Saloon Door Brewing Co,Webster,TX,brewpub
+260,San Gabriel River Brewery Inc,Liberty Hill,TX,micro
+261,San Jacinto Brewing Company,Montgomery,TX,planning
+262,Save the World Brewing Co,Marble Falls,TX,micro
+263,Seguin Brewing Company,Seguin,TX,micro
+264,Shade Tree Saloon & Grill,Spring Branch,TX,brewpub
+265,"Shannon Brewing Company, LLC",Keller,TX,micro
+266,Sigma Brewing Company,Houston,TX,micro
+267,Six Car Pub,Amarillo,TX,planning
+268,Slantways Brewing Company,The Woodlands,TX,planning
+269,Sockdolager Brewing Company,Abilene,TX,micro
+270,Solid Rock Brewing,Spicewood,TX,micro
+271,South Austin Brewery,Austin,TX,micro
+272,Southerleigh Brewing,San Antonio,TX,brewpub
+273,Southern Heights Brewing Co LLC,Austin,TX,planning
+274,Southern Star Brewing,Conroe,TX,micro
+275,Spindletap Brewery,Houston,TX,micro
+276,Spoetzl Brewery,Shiner,TX,regional
+277,SportsBreweries,Frisco,TX,contract
+278,St. Elmo Brewing Company,Austin,TX,micro
+279,Stache Rabbit Brewing Company,Austin,TX,planning
+280,Stained Glass Beerworks,Houston,TX,planning
+281,Steam Theory Brewing Co,Dallas,TX,planning
+282,Stesti Brewing Company,Lovelady,TX,micro
+283,Stoic Brewing,Waxahachie,TX,contract
+284,Strange Land Brewery,Austin,TX,micro
+285,Sun Brewing Co.,Canutillo,TX,brewpub
+286,T167 Corp.,Cypress,TX,planning
+287,Texas Ale Project,Dallas,TX,micro
+288,Texas Beer Refinery,Dickinson,TX,micro
+289,Texas Leaguer Brewing Company,Missouri City,TX,micro
+290,Texas Revolution Brewing Co.,San Antonio,TX,planning
+291,Texian Brewing Co,Richmond,TX,micro
+292,The Austin Beer Garden Brewing Co,Austin,TX,brewpub
+293,The Blue Onion Brewpub,Weslaco,TX,brewpub
+294,The Brewer\'s Table,Austin,TX,planning
+295,The Brewtorium,Austin,TX,planning
+296,The Collective Brewing Project,Fort Worth,TX,micro
+297,The Dusty Moth,Lubbock,TX,planning
+298,The Humble Pint,Round Rock,TX,planning
+299,The Malai Kitchen,Dallas,TX,brewpub
+300,The Manhattan Project Beer Company,Addison,TX,micro
+301,The Phoenix On Westheimer,Houston,TX,brewpub
+302,The Plains Brewing Company,Lubbock,TX,micro
+303,The Republic,Kingwood,TX,planning
+304,The Root Cellar,San Marcos,TX,brewpub
+305,Thirsty Bro Brewing,Royse City,TX,micro
+306,Thirsty Planet Brewing Co,Austin,TX,micro
+307,Thousand Oaks Brewing Co.,Cedar Park,TX,micro
+308,"Three Empires Brewing Company, LLC",Pearland,TX,planning
+309,"Town In City Brewing Co, LLC",Houston,TX,micro
+310,"Tree Farm Brewing Company, LLC",College Station,TX,contract
+311,Triple J Chophouse and Brew Co,Lubbock,TX,brewpub
+312,True Vine Brewing Company,Tyler,TX,micro
+313,Tupps Brewery,McKinney,TX,micro
+314,"Turning Point Beer, LLC",Bedford,TX,planning
+315,"Tusculum Holdings, LLC",Boerne,TX,planning
+316,Twin Peaks Brewery,Dallas,TX,micro
+317,TWIN SISTERS,Angleton,TX,planning
+318,Twisted X Brewing Co,Dripping Springs,TX,micro
+319,Two Knights Brewing,Austin,TX,planning
+320,Two Rows Restaurant and Brewery - Allen,Allen,TX,contract
+321,Uncle Billy's Brewery,Austin,TX,micro
+322,Uncle Buck's Brewery And Steakhouse,Grapevine,TX,brewpub
+323,Under The Radar Brewery,Houston,TX,micro
+324,Unlawful Assembly Brewing Company,Dallas,TX,planning
+325,Vallensons Brewing Co.,Pearland,TX,planning
+326,Vista Brewing,Driftwood,TX,planning
+327,Weathered Souls Brewing Co.,San Antonio,TX,micro
+328,Weilbacher Brewery,New Braunfels,TX,planning
+329,Westlake Brewing Company,Dallas,TX,planning
+330,Whistle Post Brewing Company,Pilot Point,TX,micro
+331,Whitestone Brewery,Cedar Park,TX,micro
+332,Whitis AleWorks,Houston,TX,planning
+333,Whole Foods Market Brewing Company,Houston,TX,micro
+334,Wichita Falls Brewing Co.,Wichita Falls,TX,planning
+335,Wicked Boxer Brewing,Cypress,TX,planning
+336,Wild Acre Brewing Company,Fort Worth,TX,micro
+337,Wimberley Brewing Co & Brewsters Pizza,Wimberley,TX,brewpub
+338,Woodcreek Brewing Company,Rockwall,TX,micro
+339,Zero One Ale House,San Angelo,TX,brewpub
+340,Zilker Brewing Co,Austin,TX,micro

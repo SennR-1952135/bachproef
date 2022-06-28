@@ -1,0 +1,114 @@
+,type,name,duration
+0,place,Fitzsimmons Home,39466
+1,move,walking,164
+2,move,transport,861
+3,place,Naughton & Associates CPA,2521
+4,move,transport,1156
+5,place,Fitzsimmons Home,1182
+6,move,transport,686
+7,place,Fitzsimmons Home,6291
+8,move,transport,511
+9,place,Sam's Club,1638
+10,move,walking,181
+11,move,transport,503
+12,place,Fitzsimmons Home,3402
+13,move,transport,4566
+14,place,Chicago O'Hare International Airport (ORD),1484
+15,move,walking,188
+16,place,Gate L5,2274
+17,move,transport,8358
+18,move,walking,256
+19,place,Boston Logan International Airport (BOS),986
+20,move,transport,1051
+21,place,Home,8681
+22,place,Home,33031
+23,move,walking,761
+24,place,Proximate,9827
+25,move,walking,661
+26,place,Home,1312
+27,move,walking,947
+28,place,Harvard Alumni Association,4583
+29,move,walking,305
+30,place,Starbucks,235
+31,move,walking,728
+32,place,Proximate,7275
+33,move,walking,730
+34,place,Home,4005
+35,move,walking,1024
+36,place,Legal Sea Foods - Charles Square,4848
+37,move,walking,1303
+38,place,Home,14826
+39,place,Home,27075
+40,move,walking,278
+41,place,Broadway Marketplace,284
+42,move,walking,406
+43,move,transport,451
+44,move,walking,151
+45,place,Place in Cambridgeport,4699
+46,move,walking,1232
+47,place,Home,4036
+48,move,walking,893
+49,place,MBTA Harvard Station,4459
+50,move,walking,350
+51,place,Border Cafe,3789
+52,move,walking,766
+53,place,Proximate,2842
+54,move,walking,1577
+55,place,Maxwell Dworkin,8711
+56,move,walking,878
+57,place,Home,23523
+58,place,Home,30584
+59,move,walking,125
+60,move,transport,1415
+61,move,walking,168
+62,place,Boston Logan International Airport (BOS),629
+63,move,walking,283
+64,place,Gate C29,2794
+65,move,transport,4930
+66,place,Terminal A,174
+67,move,walking,274
+68,place,Ronald Reagan Washington National Airport (DCA),381
+69,move,transport,591
+70,place,NTN24,1141
+71,move,walking,262
+72,place,Potbelly Sandwich Shop,2367
+73,move,walking,602
+74,place,NTN24,15635
+75,move,walking,909
+76,place,NTN24,19955
+77,move,car,941
+78,place,Laura's Home,2241
+79,place,Laura's Home,31625
+80,move,walking,576
+81,place,Whole Foods Market,499
+82,move,walking,784
+83,place,Laura's Home,15000
+84,move,walking,669
+85,place,Whole Foods Market,200
+86,move,walking,613
+87,place,Laura's Home,36435
+88,place,Laura's Home,42657
+89,move,walking,537
+90,place,Whole Foods Market,1668
+91,move,walking,533
+92,place,Laura's Home,41006
+93,place,Laura's Home,37053
+94,move,walking,1968
+95,place,CVS/pharmacy,397
+96,move,walking,269
+97,place,Apple Store,964
+98,move,walking,358
+99,place,DSW,4529
+100,move,walking,624
+101,place,Farmers Fishers Bakers,6213
+102,move,walking,900
+103,place,TJ Maxx & HomeGoods,4692
+104,move,walking,120
+105,move,bus,850
+106,place,Glover Park Ace Hardware,421
+107,move,walking,687
+108,place,Laura's Home,10492
+109,move,walking,488
+110,place,Slate Wine Bar,4230
+111,move,walking,484
+112,place,Laura's Home,10663

@@ -1,0 +1,17 @@
+,type,name,category
+0,Vegetable,Peas,stew
+1,Vegetable,Carrot,"cake,stew"
+2,Base,chicken stock,stew
+3,Oil,Vegetable oil,"cake,stew"
+4,Oil,Butter,"cake,stew"
+5,Spices,Cinnamon,cake
+6,Spices,Basil,stew
+7,Flour,White Flour,cake
+8,Flour,Whole Wheat Flour,cake
+9,Sugar,White Sugar,cake
+10,Condiments,Peanut Butter,"cake,stew"
+11,Condiments,Vanilla,cake
+12,Condiments,Lemon Juice,"cake,stew"
+13,Eggs,Eggs,cake
+14,Base,Milk,cake
+15,Leavening,Baking Powder,cake

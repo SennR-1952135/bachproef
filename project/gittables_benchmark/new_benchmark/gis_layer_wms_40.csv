@@ -1,0 +1,15 @@
+,name,description,format
+0,VMap0,A Free low-resolution Vector Map of the whole world,
+1,Blue Marble,A composite of four months of MODIS observations with a spatial resolution (level of detail) of 1 square kilometer per pixel.,
+2,LandSat,Global 15m satellite imagery from 2003.,image/jpeg
+3,MODIS/Terra Corrected Reflectance (True Color),,image/jpeg
+4,MODIS/Aqua Corrected Reflectance (True Color),,image/jpeg;mode=24bit
+5,Terra Corrected Reflectance (True Color),,image/png
+6,US Radar Mosaic,"The nowCOAST 'obs' Web Map Service (WMS) provides layers containing near real-time surface meteorological and oceanographic observations from various sources.  Some observations are updated as frequently as every six minutes, while others are updated hourly.  The 'obs' WMS is one of several map services provided by NOAA's nowCOAST project (http://nowcoast.noaa.gov).  For further layer information such as layer icons, legend graphics, layer descriptions, and valid timestamps, see the nowCOAST 'LayerInfo Web Service' description page at: http://nowcoast.noaa.gov/help/layerinfo.shtml.  For more information about nowCOAST's available Web Map Services, see the nowCOAST Map Services information page at: http://nowcoast.noaa.gov/help/mapservices.shtml.  nowCOAST is a product of the NOAA/NOS/OCS Coast Survey Development Laboratory.",image/png
+7,Fires (Last 24 Hours),Provides MODIS (MODIS Rapid Response Collection) Fires/Hotspots for the past 24 hours. Please visit http://maps.geog.umd.edu/firms/ for more information,image/png
+8,Fires (Last 48 Hours),Provides MODIS (MODIS Rapid Response Collection) Fires/Hotspots for the past 48 hours. Please visit http://maps.geog.umd.edu/firms/ for more information,image/png
+9,Population Density 2010 (Alternate server),GPWv3,image/png
+10,Population Density 2000 (Persons per km2),GRUMPv1,image/png
+11,Precipitation forecast,,image/png
+12,Cloud forecast,,image/png
+13,Sea Level: Rise of 2m,Data from https://www.cresis.ku.edu/data/sea-level-rise-maps,image/png

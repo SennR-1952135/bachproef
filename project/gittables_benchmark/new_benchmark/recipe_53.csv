@@ -1,0 +1,203 @@
+,name,description,category,type
+0,Kohlapuri Chicken,"Marinated and then cooked with bay leaf, cinnamon, cloves, black pepper and ground paste, this is a fav dish of Maharashtrians.",Chicken,Non-Veg
+1,Chicken Pulao,Pulao is a rice-based dish which often also includes ingredients like vegetables and meat.,Chicken,Non-Veg
+2,Roasted Chicken,"A perfectly roasted chicken has a crunchy skin on the outside and juicy, tender meat underneath.",Chicken,Non-Veg
+3,Chicken Chettinad,A melange of spices makes this fiery chicken dish a Southern favorite.,Chicken,Non-Veg
+4,Chicken Lababdar,"Delicately spiced and laced with butter, cream and tomatoes,�chicken lababdar�is sure to become one of your favourites too.",Chicken,Non-Veg
+5,Chicken (Murg) Mussallam,Murg Musallam�is a typical North-west Indian chicken or murg recipe subtly flavoured with Indian spices and cooked in onion based gravy.,Chicken,Non-Veg
+6,Chicken Jalfrezi,Chicken Jalfrezi is mild hot chicken curry richly flavored with capsicum and onion.�,Chicken,Non-Veg
+7,Almond (Badami) Chicken,This is an Indian mughlai dish that uses both finely ground and slivered almonds.,Chicken,Non-Veg
+8,Mangalore Chicken,This is a spicy Mangalorian delicay best served with Neer Dosa or Rice balls (Pundi).,Chicken,Non-Veg
+9,Chicken Shawarma,Chicken Shawarma is a of garlicky meat or poultry served on pitas. This chicken version is flavored with a savory yogurt sauce.,Chicken,Non-Veg
+10,Lemon Chicken,"Chicken cooked with citrus juice and indian spice. Paired with vegies, this is a dish with a lemony kick",Chicken,Non-Veg
+11,Fried Chicken,"Tender and juice inside while crispy outside, this is chicken cooked with the minimum preparation",Chicken,Non-Veg
+12,Chicken Mayo Sandwich,This sandwich is an instant classic. It's quick easy and everyone loves the flavor.,Chicken,Non-Veg
+13,Chicken Tikka Masala,Chicken marinated in yogurt and spices. The yogurt helps tenderize the chickenand the spices infuse it with lots of flavor.,Chicken,Non-Veg
+14,Sweet & Spicy Chicken,"Honey-imbued marinade spiked with fresh citrus juice gives this chicken its fiery, syrupy character.�",Chicken,Non-Veg
+15,Garlic Fried Chicken,This Fried Chicken variation uses a hefty amount of garlic powder to add taste and nice aroma to the usual Fried Chicken Recipe.,Chicken,Non-Veg
+16,Amritsari Murg Makhani,"Tender chicken pieces marinated and cooked in a deep, rich gravy of fresh cream, butter, tomato and spices.",Chicken,Non-Veg
+17,Murg Malaiwala,"Chicken is cooked in cream and milk and is very mildly spiced with garam masala powder, cardamom powder, saffron and some green chilies.",Chicken,Non-Veg
+18,Kerela Chicken Roast,"Fried chicken recipe teamed up with some chillies, fried onions and lemon juice to bring out that extra zing in this dish.",Chicken,Non-Veg
+19,Assamese Sour Fish (Masor Tenga),"Masor Tenga is a mouth-watering sour fish curry made from freshwater river fish & tomotoes, elongated lemon (kajinemu) or dried mangosteen(thereka ).",Fish,Non-Veg
+20,Malabar Fish Curry,The malabar fish curry is a Northern Kerala fish specialty with authentic Malabari flavors.�,Fish,Non-Veg
+21,Goan Fish Curry,"Almost the staple food of Goa along with rice, fish curry made in this style is tangy and spicy.",Fish,Non-Veg
+22,Shrimp in Tender Coconut (Daab Chingri),"The divine aroma of the tender coconut water and kernel gets infused in the shrimps, giving this delicasy from West Bengal a fabulous flavour.",Fish,Non-Veg
+23,Tuna Stuffed Cherry Tomato,"Serve as an appetizer, take on a picnic or enjoy as a light lunch.",Fish,Non-Veg
+24,Spicy Fish Fry,A spicy fish fry can be eaten on its own as an appetizer or starter or goes well with rice too.�,Fish,Non-Veg
+25,Fish Amritsari,This mouth watering fried fish prepared with lot of spices is a popular street food of Punjab. ,Fish,Non-Veg
+26,Pomfret Fish Masala,"A mouth-watering, refreshing and delectable seafood delicacy made with pomfret fish stuffed with spices.",Fish,Non-Veg
+27,Catfish Fish Curry (Pabda),Pabda is one of the many delicate sweet water fishes that Bengalis love to eat.,Fish,Non-Veg
+28,Yogurt Fish,Yogurt tenderizes the fish in this recipe and gives it an unexpected taste. ,Fish,Non-Veg
+29,Fish in Green Manago Curry,Delicous fish cooked in a coconut gravy with raw mangoes.,Fish,Non-Veg
+30,Fish Kalia,"A fish curry with thick gravy and medium spicy that can be served with Fried Rice, Pulow or even with steamed rice",Fish,Non-Veg
+31,Fish Sukka,"A sweet, tangy fruit combined with the fish masala gives this fish gravy it's rather different and tasty flavour.",Fish,Non-Veg
+32,Hilsa Fish (Ilish Machh Bhapa),Hilsa fish steam cooked with a tangy paste of mustard and green chillies ,Fish,Non-Veg
+33,Tamarind Fish Curry,"Traditionally cooked in a clay or earthen pot, the fish is cooked in spicy and delectable gravy made with onions, tomatoes, tamarind and spices saut�ed in sesame oil.",Fish,Non-Veg
+34,Calamari Achari,Calamari cooked in the perfect blend of aniseeds (saunf) and nigella seeds (kalonji). ,Fish,Non-Veg
+35,Patra Ni Machchi,A delicious Parsi preparation fish cooked with green chutney wrapped in banana leaves.,Fish,Non-Veg
+36,Baked Indian Basa,A garlic flavoured fish dish that is simple yet exquisite in its flavours,Fish,Non-Veg
+37,Fish Moilee,Kerela styled fish stew made with coconut milk,Fish,Non-Veg
+38,Xoriyoh Fish,Excusite Assamese fish recipe dipped in mustard sauce spiced with green chillies and cooked in mustard oil.�,Fish,Non-Veg
+39,Mutton Korma,Kormas�are typically made by marinating the main ingredient in yogurt and spices like ginger and garlic.,Mutton,Non-Veg
+40,Mutton Vindaloo,Mutton Vindaloo is a traditional dish of Goa made with meat dipped in wine/vinegar and garlic.�,Mutton,Non-Veg
+41,Mutton Dum Biryani,"This is classic Hyderabadi dish is long-grained rice cooked with mutton, retaining the aroma of varied spices.",Mutton,Non-Veg
+42,Mutton Roganjosh,"This signature Kashmiri dish is known for its flavors of fennel, ginger and marked by the sriking red hue.",Mutton,Non-Veg
+43,Mutton Do Pyaza,"Raw onions are slowly cooked with the meat, enhancing the flavor. The fried onions, added toward the end boost the color of the dish.",Mutton,Non-Veg
+44,Kashmiri Lamb,This cuisine combines the area's fruits and nuts with the ingredients. This rich stew makes a marvelous main dish.�,Mutton,Non-Veg
+45,Mutton Shashlik,"Cubes of mutton marinated with garlic, ginger, raw papaya and a medley of exciting spices grilled to perfection.",Mutton,Non-Veg
+46,Raan Musallam,A whole mutton leg roasted is a festive dish.,Mutton,Non-Veg
+47,Lamb Chops,"Quick and easy to cook, lamb chops have tender, juicy meat that is best served slightly pink.",Mutton,Non-Veg
+48,Keema Methi,Incredibly delicious combination of lamb flavored with fenugreek leaves. This dish is from Andhra Pradesh.,Mutton,Non-Veg
+49,Mutton Rada,"Cooked slowly and patiently in whole spices, mutton and condiments come together to create a heavenly mutton recipe",Mutton,Non-Veg
+50,Stir Fried Lamb,"Fragrant, intense and full of fiery chile, this lamb stir-fry isn�t for the timid eater.�",Mutton,Non-Veg
+51,Galouti Kabab,This melt-in-your-mouth kabab with Mint-Coriander chutney is mainstay of Awadhi cuisine,Mutton,Non-Veg
+52,Reshmi Kabab,"This delicious kabab gets its name from the juicy, succulence of the meat used to make it. The meat gets this way thanks to the marinade in which it is soaked.",Mutton,Non-Veg
+53,Nihari Gosht,A traditional dish of slow cooked meat adorned with just the right amount of spice.,Mutton,Non-Veg
+54,Boti Kabab,A mughlai dish that comprises of intensely marinated mutton pieces which are usually grilled.,Mutton,Non-Veg
+55,Shami Kebab,"These kebabs are silky smooth and stuffed with just a little finely chopped onion, mint and green chilli.",Mutton,Non-Veg
+56,Methi Gosht,"The fenugreek leaves add a lovely, earthy flavor to chunks of mutton in this delicious dish.",Mutton,Non-Veg
+57,Lamb Handi,"Despite its delicious taste, this authentic recipe is simple to make, and far less time consuming than traditional Indian curries.",Mutton,Non-Veg
+58,Mutton Rezala,Extremely fragrant mutton in yogurt based stew and a bit thick in consistency,Mutton,Non-Veg
+59,Pork Spare Ribs,"Fall-off-the-bone�spare ribs�can be  grilled, barbecued, roasted or slow-cooked.�",Pork,Non-Veg
+60,Spicy Sweet Pork Tenderloin,"Start with a spicy rub, pan sear and oven bake. Then brush with a sweet spicy sauce.",Pork,Non-Veg
+61,Pork Stir Fry,"In the time that it takes to wait for take-out, you could already be sinking your chopsticks into this savory�pork stir-fry.",Pork,Non-Veg
+62,Smoked Pork In Sengmora Leaves (Xaak),This traditional dish of Arunachal Pradesh is cooked by combining pork with sengmora leaves.,Pork,Non-Veg
+63,Pork Pandi Curry,"A famous delicacy from Coorg, Pandi Curry is  pork cooked in a freshly made masala paste.",Pork,Non-Veg
+64,Pork with Dry Bamboo Shoot,"A delicay from Nagaland, this dish is pork cooked with fermented bamboo shoot.",Pork,Non-Veg
+65,Coconut Curried Pork,This signature pork dish is famed for it bold ingredients of coconut milk and the right amount of spices.�,Pork,Non-Veg
+66,Pork Vindaloo,"The traditional Goan pork dish flavored with chilies, garlic and vinegar. It's spicy and tangy at the same time.�",Pork,Non-Veg
+67,Roasted Pork Belly,"Pork belly is a relatively cheap cut of meat,�making this an affordable but a terrific crowd puller.",Pork,Non-Veg
+68,Honey Glazed Ham,The honey glaze crackles with good flavor and taste as it has a distinctive flavor can only be achieved with a glaze.,Pork,Non-Veg
+69,Hamburger,"A blend of mayonnaise, ketchup, slow-cooked onions and pork makes a perfect tangy, sweet and creamy hamburger",Pork,Non-Veg
+70,Spicy Honey Mustard Pork Roast,Spicy Pork in a wonderful fan fried gravy sauce,Pork,Non-Veg
+71,Pork Chops in  Beer,This beer braised tender chops are perfect for a hectic weeknight because they're so easy to prep.,Pork,Non-Veg
+72,Wonton Soup,Pork wontons simmer in broth with Chinese vegetables in this hearty and warming dish,Pork,Non-Veg
+73,Baked Beans with Pork,"A little sweet, a little spice, and a little onion, and then bake it with bacon over the top.",Pork,Non-Veg
+74,Swedish Meatballs,These are heavenly balls of pork smothered in a creamy gravy sauce.,Pork,Non-Veg
+75,Thai Pork with Peanut Sauce,This delicious dish combines the standard pork chop with the wonderful flavor of coconuts and peanuts. ,Pork,Non-Veg
+76,Fiery Pork Skewers,"Pork in teriyaki sauce, red wine vinegar, vegetable oil, brown sugar and red pepper flakes. ",Pork,Non-Veg
+77,Pork with Black Bean Salsa,Pork smeared in flavoured salsa accompanied by the goodness of black beans,Pork,Non-Veg
+78,Szechaun Pork,This chinese favourite can be made in an instance and is hearty and budget friendly,Pork,Non-Veg
+79,Egg Curry,Spicy and creamy egg curry made with dash of spices.,Egg,Non-Veg
+80,Scrambled Egg,The perfect scrambled eggs should be soft and just a little bit moist.,Egg,Non-Veg
+81,Masala Omelette  ,"Masala omelette is an all time favourite. The easiest dish to make on the go, you can fluff it up and add a variety of toppings�",Egg,Non-Veg
+82,Egg Bhruji,"Scrambled eggs, fried and tossed with a host of spices.",Egg,Non-Veg
+83,Egg Masala,Finely chopped boiled eggs with Indian spices tossed in,Egg,Non-Veg
+84,Egg Roll,"This is a famous Indian street food which is made of fried eggs, onions, chillies wrapped in ",Egg,Non-Veg
+85,Egg Benedict,"Hot buttered muffins, bacon, and poached eggs are topped with a heavenly drizzle of hollandaise sauce.�",Egg,Non-Veg
+86,Chettinad Egg Curry,"A finger licking and spicy egg curry with flavorful spices,this curry goes very well with rice and roti.",Egg,Non-Veg
+87,Stuffed Eggs,Hard-cooked�eggs�get dolled up with the classic combination of cream cheese and seasonings.,Egg,Non-Veg
+88,Egg Bean Salad,"A simple and delicious combination of hard-cooked eggs, beans and onion. A little mayo holds it all together.",Egg,Non-Veg
+89,Muglai Parantha,"Wholesome and tasty Mughlai-style stuffed bread  with liberal helping of eggs, onion, green chilies and coriander leaves.",Egg,Non-Veg
+90,Egg Korma,Boiled egg cooked in masala flavoured curry.,Egg,Non-Veg
+91,Cheese Omlette,"Masala omelette is an all time favourite. The easiest dish to make on the go, you can fluff it up and add a variety of toppings�",Egg,Non-Veg
+92,Egg Pakoda,Puffs made from eggs and flour that makes for excellent quick snacks.,Egg,Non-Veg
+93,Egg Salad,"This creamy�egg salad�is mashed up and mixed with mayo, mustard, tomato, crunchy bits of celery, and tangy dill relish.",Egg,Non-Veg
+94,Egg Biryani,Fragrant rice cooked in aromatic biryani spices and boiled eggs,Egg,Non-Veg
+95,Egg Manchurian,Crispy Egg balls made from flour and with traditional Chinese flavours,Egg,Non-Veg
+96,Baked Eggs with Beans,Beans and eggs make for a healthy low carb diet,Egg,Non-Veg
+97,French Toast,"Thick slices of bread, soaked in a mixture of beaten eggs with milk and cinnamon, toasted in a frying pan",Egg,Non-Veg
+98,Smoked Tofu & Egg Fried Rice,A simple and healthy dish compreising of smoked tofu sauteed with some cooked rice and eggs.,Egg,Non-Veg
+99,LittiChokha,"Litti is a traditional dish from India's Bihar state; it consists of balls of wheat and sattu (powdered gram) formed into balls with spices, and then filled with ghee (clarified butter)",Vegetarian,Veg
+100,Bajra Khichdi,"A unique recipe of Khichdi, totally tasty and healthy",Vegetarian,Veg
+101,Channa Madra,This is a traditinal recipe of Himachal Pradesh. Very simple to make and tastes absolutely delicious,Vegetarian,Veg
+102,Kalari Cheese,This is a traditinal recipe by shepherds in the mountains of Kashmir,Vegetarian,Veg
+103, Baingan ka Bharta,"Baingan Bharta is a north Indian recipe made using roasted and mashed eggplant (brinjal) and cooked with onion, tomato, ginger and Indian spices",Vegetarian,Veg
+104,Spiced Lentil Soup,A soup to warm your soul! Healthy and tasty meal for winter,Vegetarian,Veg
+105,Uttapam,A breakfast recipe from South India. Easy to cook and delicious to eat,Vegetarian,Veg
+106,Red Kidney Beans Curry,"Rajmah Chawal, a red kidney bean curry served with rice, is a rustic Indian meal that is cooked in households all over India",Vegetarian,Veg
+107,Boondi Raita,Boodi are tiny fried gram flour balls. Boondi Raita is ery easy to make and goes well with any North Indian dish especially rice dishes like Biryani and Pulao,Vegetarian,Veg
+108, Sweet Lassi,Sweet Lassi is a drink to relish not only in summer but always. It is quite popular in punjab and north india,Beverages,Veg
+109, Sweet Lime Soda," A sweet lemonade made using soda water instead of plain water, Sweet Lime Soda, is one of the best drinks to beat the summer heat",Beverages,Veg
+110, Badam Milk,Badam Milk (Almond Milk flavored with saffron) is a delicious milk shake,Beverages,Veg
+111, Classic Vodka Martini,"Vodka martini, the famous James Bond drink, which he prefers to be known as Vesper, is one of the most popular global drinks",Beverages,Veg
+112, James Bond Martini,Shaken not Stirred,Beverages,Veg
+113, Old Fashioned,Try this quintessential Old Fashioned cocktail with your favorite bourbon.,Beverages,Veg
+114, Daiquiri,"The Daiquiri has developed, much like the Martini and Margarita, into a sub-family of drinks. The common denominator is rum, lime, and a sweetener",Beverages,Veg
+115, Margarita,"Margarita is one of the most famous cocktails in North America, it is such a classic that you should have the recipe memorized.",Beverages,Veg
+116, Bloody Mary,This lively eye-opener adds a spicy kick to brunch,Beverages,Veg
+117, Manhattan,"One of the finest and oldest cocktails, Manhattan was the first cocktail that used vermouth as a modifier",Beverages,Veg
+118,Achari Paneer,"Achari paneer is an aromatic accompaniment, which imbibes its flavour from a mixture of seeds used in the seasoning.",Vegetarian,Veg
+119,Pudina Parantha,A healthy stuffed pudina parantha.,Vegetarian,Veg
+120,Gobi Manchurian,Gobi Manchurian is a very popularIndo-Chinese dish,Vegetarian,Veg
+121,Paneer Tikka,"Paneer tikka is marinated cottage chese cubes, arranged on skewers and grilled or baked in the oven. This recipe is made on tawa.",Vegetarian,Veg
+122,Vada Pav,Staple snack/meal of Mumbaikar. It's addictive,Vegetarian,Veg
+123,Gobi Parantha,A healthy stuffed gobi (cauliflower) parantha.,Vegetarian,Veg
+124,Masala Dosa,"Masala dosa is a famous south indin dish, tasty to the core",Vegetarian,Veg
+125,Paneer Bhurji,Quick to make and tasty to eat. ,Vegetarian,Veg
+126,Dahi Vada,"Very popular  indian street food  made of lentil dumplings in curd, spiced with chutneys.",Vegetarian,Veg
+127,Paneer Butter Masala,Cottage cheese cubes prepared in a creamy tomato gravy.,Vegetarian,Veg
+128,Dal Makhani, Punjabi lentil recipe in the house. ,Vegetarian,Veg
+129,Dal Tadka,Creamy spicy dal to add flavor to your meal,Vegetarian,Veg
+130,Punjabi Chole,Punjabi Chole is a must try North Indian recipe,Vegetarian,Veg
+131,Malai Kofta,"Paneer & Potato koftas in a creamy, rich, and sweet gravy.",Vegetarian,Veg
+132,Paneer Kofta,Paneer koftas in a  sweet cashew gravy.,Vegetarian,Veg
+133,Pasta in Red Sauce,Classic penne pasta in tomato sauce. ,Vegetarian,Veg
+134,Methi Mutter Malai,Popular north indian gravy. Sweet and tasty,Vegetarian,Veg
+135,Veg Biryani,"Hyderabadi biryani - light, aromatic and yummy. ",Vegetarian,Veg
+136,Bhindi Masala,Classic bhindi (Okra) curry - semi dry ,Vegetarian,Veg
+137,Aloo Gobi Masala,Classic aloo gobi recipe - easy and tasty,Vegetarian,Veg
+138,Peas Masala,Classic green peas (mutter) masala recipe - easy and tasty,Vegetarian,Veg
+139,Veg Pulao,Kashmiri sweet kaju kishmish Pulao recipe,Vegetarian,Veg
+140,Veg Hakka Noodles,An indo chinese spicy dish prepared with  noodles and mix vegetables.,Vegetarian,Veg
+141,Veg Chow Mein,An indo chinese spicy dish prepared with  noodles and mix vegetables.,Vegetarian,Veg
+142,Mix Vegetable Curry,A nutritious and healthy vegeterian dish. ,Vegetarian,Veg
+143,Hara Bhara Kabab,Healthy kababs made from peas and spinach. ,Vegetarian,Veg
+144,American Chopsuey Veg,Indo-chinese recipe of crispy noodles served  with a sweet and sour vegetable gravy,Vegetarian,Veg
+145,Veg Spring Rolls,A classic indo-chinese deep fried dish that is enjoyed by everyone,Vegetarian,Veg
+146,Vegetable Cutlets,A healthy spicy cutlet made from vegetables. ,Vegetarian,Veg
+147,Dal Bukhara,A dal recipe very similar to Dal Makhani,Vegetarian,Veg
+148,Lachha Parantha,Crispy healthy parantha,Vegetarian,Veg
+149,Vermicelli Kheer,"A sweet delicacy, also called Seviyan Kheer, great for festive dinners and parties",Vegetarian,Veg
+150,Moong Dal Kachori,"A tasty snack that is generally made for the festive season. The Kachori is served with curd, green chutney and tamarind chutney.",Vegetarian,Veg
+151,Moong Dal Samosa,A tasty and healthy samosa recipe. Perfect for tea time. ,Vegetarian,Veg
+152,Sweet Potato Souffle,A sweet potato side dish made in oven.. Yummy,Vegetarian,Veg
+153,Cheese Risotto,Cheese Risotto is a north Italian rice dish cooked in broth and cheese. ,Vegetarian,Veg
+154,Honey Chilli Potato,Great tasty honey chilli potatoes cooked in few easy steps,Vegetarian,Veg
+155,Honey Roasted Pineapple,Great tasty honey roasted pineapple cooked in few easy steps,Vegetarian,Veg
+156,Puran Poli,A sweet delicacy from Maharashtra. ,Vegetarian,Veg
+157,Paneer Grilled Sandwich,Healthy sandwich recipe,Vegetarian,Veg
+158,Brooklyn,A variation of Manhattan named after the most populous of New York City's five boroughs,Beverages,Veg
+159,Sidecar,The Sidecar was reportedly created in Paris during WWI and was made with Cognac or Armagnac. Lately it is more commonly made with bourbon ,Beverages,Veg
+160,French 75,"The French 75 is a cocktail first made around the end of World War One. Today it is a favored classic that combines gin, sweet and sour, and champagne",Beverages,Veg
+161,Irish Coffee,"Irish coffee is a cocktail consisting of hot coffee, irish whiskey, and sugar; stirred, and topped with thick cream",Beverages,Veg
+162,Jack Rose,"Jack Rose is the name of a classic cocktail, popular in the 1920s and 1930s, containing applejack, grenadine, and lime juice",Beverages,Veg
+163,Negroni,"The Negroni cocktail is made of gin,  vermouth rosso and  Campari. It is considered an ap�ritif.",Beverages,Veg
+164,Boulevardier,"The boulevardier cocktail is similar to the Negroni, with the gin replaced by rye whiskey or bourbon.",Beverages,Veg
+165,Sazerac,"The Sazerac is a New Orleans variation of Cognac cocktail, named for the Sazerac de Forge et Fils brand of Cognac brandy that served as its original main ingredient",Beverages,Veg
+166,Vieux Carre,"Named after New Orleans�s French Quarter this drink is as representative of the city as the neighborhood. It is strong, fun, and a little bit crazy.",Beverages,Veg
+167,Ramos Gin Fizz,"Ramos Fizz, the New Orleans Fizz was created in the late 1800's by Henry C. Ramos in New Orleans. ",Beverages,Veg
+168,Mint Julep,"The mint julep is a centuries-old cocktail, consisting primarily of bourbon and fresh mint.",Beverages,Veg
+169,Whiskey Sour,"The whiskey sour is a cocktail containing whiskey (often Bourbon), lemon juice, sugar, and optionally a dash of egg white",Beverages,Veg
+170,Mai Tai,"Mai Tai is an alcoholic cocktail based on rum and combined with pineapple juice and orange juice to make a yummy, fruity drink",Beverages,Veg
+171,Planter's Punch,"Planter's Punch is a cocktail made of dark rum, lemon juice, grenadine syrup and a dash of Angostura bitters",Beverages,Veg
+172,Pisco Sour,"A Pisco Sour is a cocktail typical of South American cuisine.The drink's name comes from pisco, which is its base liquor, and sour citrus juice and sweetener components
+",Beverages,Veg
+173,Cosmopolitan,"Cosmopolitan's popularity peaked in the 1990's due to its multiple appearances in the HBO show, Sex and the City",Beverages,Veg
+174,Tom Collins,The Tom Collins is a refreshing gin cocktail and an excellent sipper for hot summer day,Beverages,Veg
+175,Last Word,The Last Word is a Gin based prohibition-era cocktail originally developed at the Detroit Athletic Club.,Beverages,Veg
+176,Mojito,Mojito is a traditional Cuban rum based cocktail which is extremely popular globally. If you are throwing a Havana or Cuban theme party this is THE drink to serve,Beverages,Veg
+177,Long Island Iced Tea,"A Long Island Iced Tea is a popular cocktail which includes vodka, gin, tequila, and rum. The drink has a  high alcohol concentration ",Beverages,Veg
+178,Sabudana Khichdi,A yummy breakfast dish of tapioca pearls (sabudana) cooked with potatoes and peanuts,Breakfast,Veg
+179,Medu Vada,A yummy breakfast from South India. Crisp and fried dough nuts served with sambar and chutney. ,Breakfast,Veg
+180,Banana Pancakes,A yummy breakfast of pancakes with mapple sauce. ,Breakfast,Non-Veg
+181,Poha,Light and lovely breakfast recipe made from flattened rice (poha),Breakfast,Veg
+182,Aloo Parantha,The classic aloo (potato) paratha. Punjabi breakfast item.  ,Breakfast,Veg
+183,Upma,South indian breakfast dish made with rava (semolina).,Breakfast,Veg
+184,Sweet Honey Waffles,Sweet english breakfast recipe,Breakfast,Non-Veg
+185,Misal Pav,"Street food from mumbai, sprouts curry topped with onions, tomatoes, farsan and served with pav.",Breakfast,Veg
+186,Rabri,A rich tasty desert made out of milk,Desserts,Veg
+187,Gulab Jamun,Very popular Indian dessert. Must try!,Desserts,Veg
+188,Gajar ka Halwa,"An Indian delicacy made from carrots, milk and sugar. ",Desserts,Veg
+189,Rasgulla,A syrupy dessert from bengal. ,Desserts,Veg
+190,Blueberry Cheesecake,"Yummiest cheesecake of all, the blueberry one. Right?",Desserts,Veg
+191,Caramel Custard,Very popular pudding. Yummy and tasty.,Desserts,Non-Veg
+192,Doodhi ka Halwa,Also called lauki ka halwa. Sweet Indian delicacy made from bottle gourd (doodhi). ,Desserts,Veg
+193,Besan Ladoo,Very popular ladoo dessert made from gram flour and ghee. ,Desserts,Veg
+194,Falooda,"A perfect summer dessert beverage made from milk, rose syrup, falooda and icecream.",Desserts,Veg
+195,Black Forest Cake,A chocolate cake with lot of cream. ,Desserts,Non-Veg
+196,Sheera (Sooji ka Halwa),Classic Indian dessert made from rava (semolina) and ghee. ,Desserts,Veg
+197,Mango Shake,Refreshing mango milkshake for summer season.,Desserts,Veg
+198,Butter Chicken,Butter Chicken Masala is one of the most popular Indian chicken recipes liked by �all for its mild flavour and deliciously rich gravy.�,Chicken,Non-Veg
+199,Khandvi,"Khandvi is a popular snack from the state of Gujarat. Nobody can hide their love for this delicious savoury made of gram flour and curd, tempered with mustard seed",Vegetarian,Veg
+200,Pav Bhaji,Yummy street food from Mumbai. Must try. ,Vegetarian,Veg

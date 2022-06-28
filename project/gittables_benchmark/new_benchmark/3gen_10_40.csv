@@ -1,0 +1,78 @@
+,year,country,city
+0,2013,Italy,Legnaro
+1,2013,United Kingdom,London
+2,2012,United States,Cambridge
+3,2012,Italy,Turin
+4,2012,Italy;United States,Turin;Bloomington
+5,2011,Germany;United States,Gottingen;Cambridge
+6,2011,Germany;United States,Gottingen;Cambridge
+7,2011,Spain;Italy,Zaragoza;Rome
+8,2011,,
+9,2011,United States,Ann Arbor
+10,2011,Canada,Quebec
+11,2011,Italy;France,Turin;Paris
+12,2011,United States;United States,Bloomington;Bloomington
+13,2010,Netherlands,Amsterdam
+14,2010,United Kingdom,Coventry
+15,2010,United Kingdom,Egham
+16,2010,Italy,Trento
+17,2010,United Kingdom,Egham
+18,2010,United States,Seattle
+19,2009,United States;United States,Bloomington;Bloomington
+20,2009,United States;United States,Bloomington;Bloomington
+21,2009,United Kingdom,London
+22,2009,Canada,London
+23,2008,United States,University Park
+24,2008,United States,Boston
+25,2008,Italy,Turin
+26,2008,Belgium;Belgium,Liege;Liege
+27,2008,France;France;Italy,Saint-Aubin;Paris;
+28,2007,United States,University Park
+29,2007,Italy,Turin
+30,2007,United Kingdom,Oxford
+31,2007,United States,Princeton
+32,2007,Hong Kong,
+33,2007,United States,Bozeman
+34,2007,Italy;United States,Turin;Bloomington
+35,2007,United States,Athens
+36,2006,United States;United States,Seattle;Seattle
+37,2006,United States;United States,University Park;Ann Arbor
+38,2006,United Kingdom,Oxford
+39,2006,United Kingdom,London
+40,2006,United States,Bloomington
+41,2006,Germany;Germany,Gottingen;Gottingen
+42,2006,France;France,Paris;Paris
+43,2006,United States,University Park
+44,2005,United Kingdom,London
+45,2005,United Kingdom,Coventry
+46,2005,United States;United States,Berkeley;Reston
+47,2005,United States,Evanston
+48,2005,Spain,Barcelona
+49,2005,France,Paris
+50,2005,United States,University Park
+51,2004,Netherlands,Amsterdam
+52,2004,,
+53,2004,United States;United States,;Atlanta
+54,2004,Netherlands;United Kingdom,Rotterdam;Cambridge
+55,2004,United States,Los Alamos
+56,2004,United States;France,Baltimore;Paris
+57,2004,France,Orsay
+58,2004,Finland,Helsinki
+59,2003,United States;United States,Los Alamos;Ithaca
+60,2003,United Kingdom,Oxford
+61,2003,United States,Athens
+62,2003,United States,Berkeley
+63,2002,United Kingdom,Cambridge
+64,2001,United Kingdom,Cambridge
+65,2001,United Kingdom,Roslin
+66,2000,Japan,Fukuoka
+67,1998,Canada,Toronto
+68,1997,United Kingdom,Nottingham
+69,1996,United Kingdom,Oxford
+70,1994,United Kingdom,Oxford
+71,1993,United Kingdom,Cambridge
+72,1992,United States,"Memphis TN,"
+73,1986,Japan;Japan;Japan,Osaka;Tokyo;Kumamoto
+74,1985,Japan,Wako
+75,1984,United Kingdom;United States,London;Princeton
+76,1984,United States,Princeton

@@ -1,0 +1,508 @@
+,type,name,duration
+0,place,Laura's Home,34036
+1,move,walking,382
+2,place,"WMATA Bus Stop #1001805 (31, 32, 36)",474
+3,move,bus,1508
+4,move,walking,365
+5,place,Starbucks,4599
+6,move,walking,1332
+7,place,Farragut Square,3708
+8,move,walking,680
+9,place,"NTN24-Washington, DC",16075
+10,move,walking,1011
+11,place,Chinatown Express,3321
+12,move,walking,1388
+13,place,"WMATA Bus Stop #1001060 (11Y, 32, 36)",918
+14,move,bus,1691
+15,move,walking,364
+16,place,Laura's Home,14551
+17,place,Laura's Home,39471
+18,move,walking,2827
+19,place,Mintwood Place,4924
+20,move,walking,3011
+21,place,Starbucks,11847
+22,move,walking,428
+23,place,Banana Republic,485
+24,move,walking,185
+25,place,Pizzeria Paradiso,5762
+26,move,car,559
+27,place,Laura's Home,16900
+28,place,Laura's Home,42369
+29,move,transport,1172
+30,place,Capt. White's Seafood City,5975
+31,move,walking,1026
+32,place,Place in District of Columbia,267
+33,move,walking,572
+34,move,underground,721
+35,move,walking,667
+36,place,Masa 14,5569
+37,move,car,658
+38,move,walking,484
+39,place,Whole Foods Market,1038
+40,move,walking,678
+41,place,Laura's Home,25207
+42,place,Laura's Home,30691
+43,move,running,243
+44,move,bus,1472
+45,move,walking,331
+46,place,"NTN24-Washington, DC",606
+47,move,walking,34
+48,place,"NTN24-Washington, DC",768
+49,move,walking,2132
+50,place,"NTN24-Washington, DC",6819
+51,move,underground,848
+52,move,walking,460
+53,place,Northside Social - Coffee & Wine,4354
+54,move,walking,190
+55,place,Place in Clarendon,534
+56,move,walking,454
+57,place,Northside Social - Coffee & Wine,20415
+58,move,underground,822
+59,move,walking,571
+60,move,bus,1481
+61,move,walking,368
+62,place,Laura's Home,12813
+63,place,Laura's Home,30137
+64,move,walking,380
+65,move,bus,746
+66,place,Apple Store,1731
+67,move,walking,4988
+68,place,Busboys and Poets,8963
+69,move,walking,490
+70,place,Place in Kalorama Triangle,409
+71,place,Busboys and Poets,12925
+72,move,walking,1303
+73,place,WMATA Bus Stop #1001507 (42),467
+74,move,bus,1179
+75,move,walking,121
+76,place,Laura's Home,22563
+77,place,Laura's Home,23140
+78,move,walking,508
+79,place,Starbucks,378
+80,move,walking,621
+81,place,Laura's Home,6331
+82,move,walking,438
+83,move,bus,1590
+84,move,walking,361
+85,place,"NTN24-Washington, DC",4136
+86,move,transport,1353
+87,place,Ronald Reagan Washington National Airport (DCA),2949
+88,move,walking,521
+89,place,Terminal A,7760
+90,move,airplane,4385
+91,move,walking,150
+92,move,bus,1657
+93,move,transport,1021
+94,move,walking,553
+95,place,Broadway Marketplace,178
+96,move,walking,332
+97,place,Home,6510
+98,move,walking,1033
+99,place,Legal Sea Foods - Charles Square,5987
+100,move,walking,1067
+101,place,Home,3981
+102,place,Home,8809
+103,place,Home,26597
+104,move,walking,320
+105,place,Starbucks,445
+106,move,walking,949
+107,place,Proximate,3865
+108,move,walking,526
+109,place,Starbucks,655
+110,move,walking,368
+111,place,Caspersen Student Center,7743
+112,move,walking,790
+113,place,Starbucks,186
+114,move,walking,466
+115,place,Proximate,63
+116,move,walking,764
+117,place,Border Cafe,1649
+118,move,walking,609
+119,place,Proximate,14804
+120,move,walking,772
+121,place,Home,2139
+122,move,walking,969
+123,place,Dickson Bros. True Value,5220
+124,move,walking,806
+125,place,Home,15700
+126,place,Home,28512
+127,move,walking,718
+128,place,Proximate,6309
+129,move,walking,509
+130,place,Starbucks,405
+131,move,walking,978
+132,place,Proximate,6703
+133,move,walking,831
+134,place,Grendel's Den Restaurant & Bar,2654
+135,move,walking,829
+136,place,Proximate,10412
+137,move,walking,713
+138,place,Broadway Marketplace,913
+139,move,car,338
+140,place,Jeff Stanton's Home,17743
+141,move,car,231
+142,move,walking,680
+143,place,Harvard Yard,3859
+144,move,walking,628
+145,place,Home,2436
+146,place,Home,31471
+147,move,walking,1069
+148,place,Xfund,6092
+149,move,walking,887
+150,place,Home,1632
+151,move,walking,649
+152,place,Xfund,3010
+153,move,walking,146
+154,place,The Red House Restaurant,4209
+155,move,walking,270
+156,place,Xfund,802
+157,move,walking,738
+158,place,Home,7056
+159,move,walking,920
+160,place,Xfund,3564
+161,move,walking,1144
+162,move,walking,1366
+163,place,Home,9310
+164,place,Home,28525
+165,move,walking,235
+166,place,Broadway Marketplace,197
+167,move,walking,195
+168,place,Home,5383
+169,move,walking,808
+170,place,Xfund,1927
+171,move,walking,415
+172,place,Harvard Yard,3630
+173,move,walking,535
+174,place,Broadway Marketplace,661
+175,move,walking,200
+176,place,Home,1426
+177,move,walking,617
+178,place,Proximate,11063
+179,move,walking,683
+180,place,Broadway Marketplace,288
+181,move,walking,295
+182,place,Home,29316
+183,place,Home,27237
+184,move,walking,1340
+185,place,Starbucks,619
+186,move,walking,501
+187,place,Proximate,11173
+188,move,walking,741
+189,place,Home,6472
+190,move,walking,1021
+191,place,Proximate,7289
+192,move,walking,2028
+193,place,Proximate,8524
+194,move,walking,1012
+195,place,Home,18443
+196,place,Home,25073
+197,move,walking,670
+198,place,CVS/pharmacy,1133
+199,move,walking,484
+200,place,Proximate,5594
+201,move,walking,466
+202,place,Starbucks,351
+203,move,walking,466
+204,place,Proximate,8793
+205,move,walking,552
+206,place,Border Cafe,2627
+207,move,walking,658
+208,place,Proximate,16670
+209,move,walking,674
+210,place,Broadway Marketplace,233
+211,move,walking,444
+212,place,Home,21516
+213,place,Home,33360
+214,move,walking,649
+215,place,Proximate,7099
+216,move,car,680
+217,place,Boston Marriott Cambridge,3852
+218,move,walking,497
+219,place,101 Main St  (CIC),2457
+220,move,walking,176
+221,move,underground,1021
+222,move,walking,700
+223,place,Harvard Alumni Association,4423
+224,move,walking,289
+225,place,Starbucks,262
+226,move,walking,552
+227,place,Proximate,530
+228,move,walking,577
+229,place,Home,29280
+230,place,Home,29464
+231,move,walking,652
+232,place,Proximate,1295
+233,move,walking,778
+234,place,Harvard Alumni Association,4060
+235,move,walking,161
+236,place,MBTA Harvard Station,4889
+237,move,walking,316
+238,place,Grendel's Den Restaurant & Bar,4099
+239,move,walking,1562
+240,place,Home,18918
+241,move,walking,970
+242,place,Proximate,210
+243,move,walking,816
+244,place,Park,6001
+245,move,walking,964
+246,place,Home,11246
+247,place,Home,32722
+248,move,walking,750
+249,move,underground,841
+250,move,walking,1098
+251,place,Impact Hub Boston,3749
+252,move,walking,456
+253,move,underground,754
+254,move,walking,708
+255,place,Proximate,1146
+256,move,walking,588
+257,place,Starbucks,2873
+258,move,walking,1251
+259,place,Place in Old Cambridge,120
+260,move,walking,356
+261,place,CVS/pharmacy,545
+262,move,walking,443
+263,place,Harvard Alumni Association,2913
+264,move,walking,1230
+265,place,Home,33858
+266,place,Home,36415
+267,move,walking,1225
+268,place,US Post Office,881
+269,move,walking,689
+270,place,Proximate,7248
+271,move,walking,585
+272,place,Home,1933
+273,move,walking,1590
+274,place,Home,20139
+275,place,Home,12432
+276,place,Home,25380
+277,place,Place in Old Cambridge,597
+278,place,Home,11696
+279,move,walking,1127
+280,place,Petsi Pies,1618
+281,move,walking,1427
+282,place,Spangler Center,12329
+283,move,walking,1595
+284,place,Ellen Chisa Home,6153
+285,move,walking,1367
+286,place,Spangler Center,8055
+287,move,walking,438
+288,place,Harvard Innovation Lab,6900
+289,move,walking,1761
+290,place,CVS/pharmacy,283
+291,move,walking,664
+292,place,Home,5009
+293,place,Home,23437
+294,move,walking,226
+295,place,Starbucks,195
+296,move,walking,2131
+297,place,Aldrich Hall,12984
+298,move,walking,903
+299,place,Xfund,10237
+300,move,walking,1270
+301,place,Home,17066
+302,move,walking,1360
+303,place,Spangler Center,3531
+304,move,walking,379
+305,place,Harvard Innovation Lab,6151
+306,move,walking,1703
+307,place,Home,4830
+308,place,Home,21340
+309,move,walking,1839
+310,place,Aldrich Hall,15980
+311,move,walking,1712
+312,place,Home,7603
+313,move,walking,1663
+314,place,Spangler Center,23628
+315,move,walking,343
+316,place,Harvard Innovation Lab,5085
+317,move,walking,654
+318,place,Place in Charles River Reservation,136
+319,move,walking,157
+320,place,Place in Cambridgeport,535
+321,move,walking,1033
+322,place,Home,4694
+323,place,Home,24718
+324,move,walking,1897
+325,place,Aldrich Hall,11989
+326,move,walking,1448
+327,place,Home,12891
+328,move,walking,1680
+329,place,Aldrich Hall,24752
+330,move,walking,1599
+331,place,Home,5429
+332,place,Home,24729
+333,move,walking,1363
+334,place,Aldrich 007,13596
+335,move,walking,1628
+336,place,Home,13620
+337,move,walking,443
+338,place,Petsi Pies,151
+339,move,walking,191
+340,place,Place in Harvard University,142
+341,move,walking,695
+342,place,Spangler Center,16659
+343,move,walking,375
+344,place,Harvard Innovation Lab,4762
+345,move,walking,1796
+346,place,Home,6252
+347,place,Home,24766
+348,move,walking,1646
+349,place,Aldrich 007,18651
+350,move,walking,1446
+351,place,Richard A. & Susan F. Smith Campus Center (fka Holyoke Center),568
+352,move,walking,848
+353,place,Home,1462
+354,move,walking,941
+355,place,Proximate,22936
+356,move,walking,715
+357,place,Home,12423
+358,place,Home,50627
+359,move,walking,479
+360,place,Starbucks,977
+361,move,walking,409
+362,place,Home,7203
+363,move,walking,625
+364,place,MBTA Harvard Station,410
+365,move,underground,1277
+366,move,walking,180
+367,move,bus,1654
+368,place,Terminal E,5110
+369,move,car,1403
+370,place,Home,4143
+371,move,walking,962
+372,place,Conant Hall,788
+373,move,walking,801
+374,place,Home,9353
+375,place,Home,45962
+376,move,walking,499
+377,place,Broadway Marketplace,113
+378,move,walking,319
+379,place,Home,39507
+380,place,Home,24349
+381,move,walking,687
+382,place,Tory Row,167
+383,move,walking,1115
+384,place,Aldrich Hall,23302
+385,move,walking,469
+386,place,Harvard Innovation Lab,4145
+387,move,walking,502
+388,place,Place in Allston,6571
+389,move,walking,1189
+390,place,Home,4554
+391,move,walking,1527
+392,place,Harvard Innovation Lab,5255
+393,move,walking,1667
+394,place,Home,10902
+395,place,Home,25463
+396,move,walking,808
+397,place,Starbucks,424
+398,move,walking,1109
+399,place,Aldrich Hall,6590
+400,place,Spangler Center,463
+401,move,walking,296
+402,place,Spangler Center,8162
+403,move,walking,167
+404,place,Harvard Innovation Lab,3736
+405,move,walking,958
+406,place,Harvard Alumni Association,6329
+407,move,walking,315
+408,place,Xfund,376
+409,move,walking,253
+410,place,J.P. Licks Harvard Square,1129
+411,move,walking,261
+412,place,Xfund,6886
+413,move,walking,291
+414,place,Henrietta's Table,11775
+415,move,walking,1566
+416,place,Home,9041
+417,place,Home,31711
+418,move,walking,694
+419,place,Proximate,11073
+420,move,walking,654
+421,place,Home,2673
+422,move,walking,636
+423,place,Proximate,3242
+424,move,walking,574
+425,place,Place in Old Cambridge,336
+426,move,walking,142
+427,place,Proximate,890
+428,move,walking,748
+429,place,Yogurtland,2104
+430,move,walking,1003
+431,place,Harvard Innovation Lab,1776
+432,move,walking,1655
+433,place,Home,26490
+434,place,Home,21649
+435,move,walking,868
+436,place,Starbucks,139
+437,move,walking,1091
+438,place,Harvard Innovation Lab,4860
+439,move,walking,292
+440,place,Aldrich Hall,12473
+441,place,Harvard Innovation Lab,2731
+442,move,walking,352
+443,place,Aldrich Hall,5635
+444,move,walking,1540
+445,place,Home,11549
+446,move,walking,838
+447,place,Xfund,1540
+448,move,walking,303
+449,place,Legal Sea Foods - Charles Square,2919
+450,move,walking,1029
+451,place,Home,16593
+452,place,Home,22777
+453,move,walking,257
+454,place,Starbucks,172
+455,move,walking,1536
+456,place,Harvard Innovation Lab,3525
+457,move,walking,648
+458,place,Aldrich Hall,11938
+459,move,walking,282
+460,place,Harvard Innovation Lab,2220
+461,move,walking,324
+462,place,Aldrich Hall,8114
+463,move,walking,1481
+464,place,Home,33126
+465,place,Home,42762
+466,move,walking,909
+467,place,The Charles Hotel,828
+468,move,transport,1920
+469,move,walking,755
+470,place,Lynnway Liquors,769
+471,move,transport,878
+472,place,Trevor Frankel's Beach House,5949
+473,move,walking,1591
+474,place,Philips Beach,2687
+475,move,walking,1512
+476,place,Trevor Frankel's Beach House,772
+477,move,transport,1100
+478,place,Place in North Salem,279
+479,move,walking,364
+480,place,Downtown Salem,2434
+481,move,walking,193
+482,place,The Burying Point,1165
+483,move,walking,402
+484,place,Naumkeag Ordinary,237
+485,place,Naumkeag Ordinary,2362
+486,move,transport,2394
+487,move,walking,265
+488,place,Home,717
+489,move,walking,766
+490,place,J.P. Licks Harvard Square,630
+491,move,walking,576
+492,place,Home,3974
+493,move,walking,680
+494,place,Alden & Harlow,6234
+495,move,walking,1059
+496,place,Home,2816
+497,move,transport,1658
+498,place,Costco Wholesale,3402
+499,move,transport,2644
+500,move,walking,382
+501,place,Ann Taylor Loft,3207
+502,move,walking,311
+503,place,Sunglass Hut,4060
+504,move,walking,244
+505,move,transport,3009
+506,place,Home,19187

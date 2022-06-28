@@ -1,0 +1,579 @@
+,category,name
+0,Feminism,Sexism
+1,Discrimination,Ambivalent sexism
+2,Feminism,Antifeminism
+3,Politics,Face-ism
+4,Discrimination,Femicide
+5,Women's History,Gender apartheid
+6,Discrimination,Gender bias on Wikipedia
+7,Discrimination,Gender-blind
+8,Discrimination,Feminism
+9,Women's History,Gender discrimination in Pakistan
+10,Gender Studies,Gender egalitarianism
+11,Discrimination,Gender neutrality
+12,Discrimination,Glass cliff
+13,Feminism,Gender inequality
+14,Gender Studies,Gender polarization
+15,Feminism,Hegemonic masculinity
+16,Gender Studies,Hypermasculinity
+17,Discrimination,Intersectionality
+18,LGBT Studies,LGBT stereotypes
+19,Feminism,Male privilege
+20,Gender Studies,Masculism
+21,Feminism,Men and feminism
+22,Discrimination,Men's rights movement
+23,Feminism,Matriarchy
+24,Discrimination,Misandry
+25,Discrimination,Misogyny
+26,Feminism,National Organization for Men Against Sexism
+27,Feminism,National Organization for Women
+28,Discrimination,Occupational segregation
+29,Discrimination,Occupational sexism
+30,Feminism,Pink-collar worker
+31,Feminism,Sex differences in humans
+32,Feminism,Sex segregation
+33,Discrimination,Sexism in the technology industry
+34,Discrimination,Sexism in India
+35,Gender Studies,Sexual division of labour
+36,Discrimination,Transphobia
+37,Feminism,Wife selling
+38,Feminism,Women's rights
+39,Women's History,Women in firefighting
+40,Feminism,Women in law enforcement
+41,Feminism,Women in the workforce
+42,Gender Studies,Feminisation of the workplace
+43,Feminism,Rosie the Riveter
+44,Gender Studies,Women's history
+45,Feminism,Women's empowerment
+46,Feminism,Women's studies
+47,Gender Studies,Gender studies
+48,Discrimination,Workplace discrimination
+49,Discrimination,Glass ceiling
+50,Sociology,Labor history (discipline)
+51,Discrimination,Educational Inequality
+52,Gender Studies,Timeline of women's rights (other than voting)
+53,Discrimination,Motherhood penalty
+54,Others,Supervising Women Workers
+55,Sociology,Western dress codes
+56,Women's History,Women in science
+57,Feminism,Women in computing
+58,Women's History,Women in the Information Age
+59,Women's History,Women in engineering
+60,Women's History,Women in geology
+61,Gender Studies,Women in medicine
+62,Women's History,Women in the United States judiciary
+63,Women's History,Women artists
+64,Women's History,Women Surrealists
+65,Others,Vulcana Women's Circus
+66,Gender Studies,Women's writing in English
+67,Women's History,Women in journalism and media professions
+68,Women's History,Women's cinema
+69,Women's History,Female composers in the United States during the 20th century
+70,Women's History,Women composers of Catholic music
+71,Feminism,Women's professional sports
+72,Feminism,Women's sports
+73,Philosophy,Women in philosophy
+74,Women's History,Women in piracy
+75,Feminism,Women in politics
+76,Feminism,Women in the military
+77,Feminism,Women in the military by country
+78,Women's History,Women in the military in Europe
+79,Feminism,Women in the military in the Americas
+80,Feminism,History of women in the military
+81,Feminism,Timeline of women in ancient warfare
+82,Feminism,Timeline of Women in Medieval warfare
+83,Women's History,Women's Land Army
+84,Gender Studies,Men's spaces
+85,Others,Mount Athos
+86,Others,Okinoshima (Fukuoka)
+87,Discrimination,Occupational inequality
+88,Gender Studies,Separate spheres
+89,Feminism,Separatist feminism
+90,Women's History,Sex segregation in Iran
+91,Women's History,Women and children first
+92,Feminism,Women-only space
+93,Others,Dany Cotton
+94,Others,Queen's Fire Service Medal
+95,Others,Lillie Hitchcock Coit
+96,Others,Molly Williams
+97,Gender Studies,Female education
+98,Gender Studies,Gendercide
+99,Feminism,History of feminism
+100,Women's History,Legal rights of women in history
+101,Others,Pregnant patients' rights
+102,Women's History,Simone de Beauvoir Prize
+103,Discrimination,Sex workers' rights
+104,Gender Studies,Timeline of women's legal rights (other than voting)
+105,Gender Studies,Timeline of women's suffrage
+106,Feminism,Women's Social and Political Union
+107,Feminism,Women's rights in 2014
+108,Others,The Bartered Bride
+109,Feminism,Bride kidnapping
+110,Sociology,Child-selling
+111,Feminism,Coverture
+112,Others,Exchange of women
+113,Gender Studies,Husband-selling
+114,Feminism,Human trafficking
+115,Others,Organ trade
+116,Philosophy,Self-ownership
+117,Gender Studies,Widow inheritance
+118,Discrimination,Genderism
+119,LGBT Studies,Global Action for Trans Equality
+120,Discrimination,Hate crime
+121,Discrimination,Corrective rape
+122,LGBT Studies,LGBT people in prison
+123,LGBT Studies,LGBT rights opposition
+124,Discrimination,Non-binary discrimination
+125,LGBT Studies,Press for Change
+126,LGBT Studies,Transgender Day of Remembrance
+127,LGBT Studies,Transgender Europe
+128,LGBT Studies,Transgender inequality
+129,LGBT Studies,Transgender Law Center
+130,Discrimination,Transmisogyny
+131,Human rights,Trans panic defense
+132,LGBT Studies,Yogyakarta Principles
+133,Others,Hunter-gatherer
+134,Sociology,Division of labour
+135,Others,Evolution
+136,Others,Adaptation
+137,Philosophy,Natural selection
+138,Feminism,Female foeticide in India
+139,Feminism,Feminism in India
+140,Gender Studies,Men's rights movement in India
+141,Discrimination,Rape in India
+142,Discrimination,Reverse discrimination
+143,Gender Studies,Sex selection
+144,Feminism,Women in India
+145,Feminism,Ada Initiative
+146,Women's History,Anita Borg Institute for Women and Technology
+147,Others,Hjernevask
+148,Feminism,Gamergate controversy
+149,Discrimination,Sexism in academia
+150,Discrimination,Sexism in video gaming
+151,Feminism,Sexism in venture capital
+152,Discrimination,Sexual harassment
+153,Feminism,Women in venture capital
+154,Sociology,Blue-collar worker
+155,Discrimination,Designation of workers by collar color
+156,Women's History,Office lady
+157,Sociology,White-collar worker
+158,Discrimination,Heteronormativity
+159,Gender Studies,Gender essentialism
+160,Gender Studies,Neuroscience of sex differences
+161,Others,Sexual differentiation in humans
+162,Sociology,Achievement gap in the United States
+163,Feminism,Gender equality
+164,Feminism,Mommy track
+165,Discrimination,Online segregation
+166,Human rights,Shared earning/shared parenting marriage
+167,Sociology,Social stratification
+168,Feminism,Feminism in the United States
+169,Others,National Organization for Women (NOW) Woman of Courage Award Winners
+170,Feminism,Exploitation of women in mass media
+171,Women's History,Honor killing
+172,Sociology,Misanthropy
+173,Discrimination,Misogynoir
+174,Discrimination,Misogyny and mass media
+175,Feminism,Misogyny in hip hop culture
+176,Discrimination,Misogyny in horror films
+177,Discrimination,Misogyny in sports
+178,Others,Object relations theory
+179,Others,Sexuality in music videos
+180,Philosophy,Stoicorum Veterum Fragmenta
+181,Others,The Bro Code: How Contemporary Culture Creates Sexist Men
+182,Discrimination,Airline seating sex discrimination controversy
+183,Gender Studies,Are All Men Pedophiles?
+184,Gender Studies,"Boys are stupid, throw rocks at them! controversy"
+185,Philosophy,Circumcision controversies
+186,Feminism,Female chauvinism
+187,Feminism,Feminazi
+188,Gender Studies,Hysteria
+189,Discrimination,Men's rights
+190,Gender Studies,Masculinity
+191,Gender Studies,Men's liberation
+192,Gender Studies,Men's movement
+193,Philosophy,Philandry
+194,Feminism,Pro-feminism
+195,Feminism,White Ribbon Campaign
+196,Politics,Anti-feminism
+197,Sociology,Children's rights
+198,Gender Studies,Fathers' rights movement by country
+199,Gender Studies,Men's studies
+200,Others,Men Going Their Own Way
+201,Others,Paternal rights and abortion
+202,Gender Studies,The Good Men Project
+203,Gender Studies,Toxic masculinity
+204,Gender Studies,Violence against men
+205,Discrimination,The War Against Boys
+206,Feminism,The Red Pill
+207,LGBT Studies,Alain Daniélou
+208,LGBT Studies,Bonobo
+209,Others,Çatalhöyük
+210,Women's History,Female cosmetic coalitions
+211,Feminism,The Hebrew Goddess
+212,Women's History,Isis
+213,Discrimination,Kyriarchy
+214,Gender Studies,Marianismo
+215,Others,Menstrual synchrony
+216,Gender Studies,Mosuo
+217,Others,Minangkabau people
+218,LGBT Studies,Queer nationalism
+219,Others,Sex strike
+220,Others,Trobriand Islands
+221,Women's History,Venus figurines
+222,Feminism,Heide Göttner-Abendroth
+223,Feminism,Heteropatriarchy
+224,Feminism,Identity politics
+225,Gender Studies,Machismo
+226,Discrimination,Manosphere
+227,Gender Studies,Masculine psychology
+228,Feminism,Patriarchy
+229,Gender Studies,Fathers 4 Justice
+230,Others,International Men's Day
+231,Others,Trinidad and Tobago
+232,Others,Jamaica
+233,Others,Australia
+234,Others,India
+235,Others,United States
+236,Others,Singapore
+237,Others,United Kingdom
+238,Others,Malta
+239,Others,South Africa
+240,Others,Hungary
+241,Others,Ireland
+242,Others,Ghana
+243,Others,Canada
+244,Gender Studies,Save Indian Family
+245,Feminism,Warren Farrell
+246,Others,Robert Bly
+247,Gender Studies,Manliness (book)
+248,Gender Studies,Androcentrism
+249,Discrimination,Anti-discrimination law
+250,Gender Studies,Chauvinism
+251,Discrimination,Antisexism
+252,Gender Studies,Gender
+253,Feminism,Honorary male
+254,Discrimination,Global Gender Gap Report
+255,Sociology,Privilege (social inequality)
+256,Discrimination,Sex-selective abortion
+257,Philosophy,Association fallacy
+258,Philosophy,Faulty generalization
+259,Discrimination,Gay bashing
+260,Discrimination,Heterosexism
+261,LGBT Studies,Homophobic propaganda
+262,LGBT Studies,Violence against LGBT people
+263,Feminism,Black feminism
+264,Discrimination,Caste
+265,Philosophy,Humanism
+266,Sociology,Identitarianism
+267,Philosophy,Standpoint theory
+268,Politics,Triple oppression
+269,Feminism,Womanism
+270,Feminism,Gender role
+271,Gender Studies,Hypomasculinity
+272,Gender Studies,Masculinism
+273,Sociology,Virility
+274,Gender Studies,Gender binary
+275,Discrimination,Gender discrimination
+276,Gender Studies,Gender identity
+277,Sociology,Heterosexuality
+278,Discrimination,Stereotypes
+279,Discrimination,Bamboo ceiling
+280,Gender Studies,Homohysteria
+281,Feminism,Male gaze
+282,LGBT Studies,Pink capitalism
+283,Sociology,Social criticism
+284,Discrimination,Supremacism
+285,Discrimination,Affirmative action
+286,Others,Kenneth and Mamie Clark
+287,Feminism,Coloniality of gender
+288,Discrimination,Discrimination
+289,Women's History,Equal pay for women
+290,Discrimination,Feminization of poverty
+291,Discrimination,Gender and education
+292,Gender Studies,Gender and suicide
+293,Gender Studies,Gender differences
+294,Discrimination,Gender inequality in Australia
+295,Feminism,Gender inequality in Thailand
+296,Others,Gender inequality in Bangladesh
+297,Gender Studies,Girl Effect
+298,Feminism,Intra-household bargaining
+299,Others,Kiva (organization)
+300,Sociology,Marginalization
+301,Discrimination,Microinequity
+302,Others,Obedient Wives Club
+303,Feminism,Paycheck Fairness Act
+304,Feminism,Sex and psychology
+305,Others,Sexual dimorphism
+306,Others,Shared parenting
+307,Sociology,Socialization
+308,Gender Studies,Special measures for gender equality in the United Nations
+309,Politics,World Bank
+310,Gender Studies,Androgyny
+311,Gender Studies,Epicenity
+312,Gender Studies,Gender-specific and gender-neutral pronouns
+313,Gender Studies,Non-binary
+314,LGBT Studies,Pansexuality
+315,Gender Studies,Political correctness
+316,Gender Studies,Transgender
+317,Gender Studies,Unisex
+318,Gender Studies,Unisex public toilet
+319,Politics,Special Measures for Gender Equality in The United Nations(UN)
+320,Discrimination,Complementarianism
+321,Sociology,Egalitarianism
+322,Human rights,Equal opportunity
+323,Feminism,Gender empowerment
+324,Feminism,Gender mainstreaming
+325,Gender Studies,Right to equal protection
+326,Feminism,Sex and gender distinction
+327,Gender Studies,Sex ratio
+328,Others,Bahá'í Faith and gender equality
+329,Women's History,Female economic activity
+330,Human rights,Gender-based price discrimination
+331,Gender Studies,Gender Parity Index
+332,Gender Studies,Gender sensitization
+333,Gender Studies,Matriname
+334,Gender Studies,Mixed-sex education
+335,Others,Testimony of Equality
+336,Human rights,Peer Marriage
+337,Feminism,Topfreedom
+338,Feminism,Women in Islam
+339,Others,"Danish Act of Succession referendum, 2009"
+340,Women's History,Equal Pay Act of 1963
+341,Others,Equality Act 2006
+342,Discrimination,Equality Act 2010
+343,Others,European charter for equality of women and men in local life
+344,Discrimination,Gender Equality Duty in Scotland
+345,LGBT Studies,Gender Equity Education Act (Taiwan)
+346,Others,Lilly Ledbetter Fair Pay Act
+347,Feminism,Marital rape
+348,Discrimination,Title IX
+349,Others,Education Amendments of 1972
+350,Human rights,Uniform civil code
+351,Women's History,United Nations Security Council Resolution 1325
+352,Feminism,Women's Petition to the National Assembly
+353,Women's History,Afghan Ministry of Women Affairs
+354,Others,Christians for Biblical Equality
+355,Others,Committee on Women's Rights and Gender Equality
+356,Feminism,Equal Opportunities Commission (United Kingdom)
+357,Gender Studies,Gender Empowerment Measure
+358,Human rights,Gender Equity and Reconciliation International
+359,Gender Studies,Gender-related Development Index
+360,Gender Studies,Government Equalities Office
+361,Gender Studies,International Center for Research on Women
+362,Sociology,Ministry of Integration and Gender Equality (Sweden)
+363,Others,"Ministry of Women, Family and Community Development (Malaysia)"
+364,Women's History,Philippine Commission on Women
+365,Gender Studies,The Girl Effect
+366,Feminism,UN Women
+367,Others,The New York Times
+368,Discrimination,Potty parity
+369,Women's History,Women's Equality Day
+370,Others,Illustrators for Gender Equality
+371,Feminism,Feminist Studies
+372,Feminism,Feminist theory
+373,Discrimination,Meninism
+374,Feminism,Multiracial feminist theory
+375,Feminism,Straw feminism
+376,Others,Acid Survivors Trust International
+377,Feminism,Acid throwing
+378,Discrimination,Honour killing in Pakistan
+379,Others,Modesty patrol
+380,Discrimination,Rape in Pakistan
+381,Others,Swara (custom)
+382,Others,Vani (custom)
+383,Human rights,Human rights in Pakistan
+384,Gender Studies,Women in Arab societies
+385,Women's History,All-women shortlists
+386,Discrimination,Color blindness (race)
+387,Gender Studies,Gender-neutral language
+388,Gender Studies,Genderqueer
+389,Feminism,Third gender
+390,Discrimination,Racial bias on Wikipedia
+391,Discrimination,Second-generation gender bias
+392,Discrimination,Systemic bias in Wikipedia
+393,Feminism,Women in Red
+394,Discrimination,Gender segregation
+395,Feminism,Female genital mutilation
+396,Feminism,Violence against women
+397,Discrimination,Convention on the Elimination of All Forms of Discrimination Against Women
+398,Gender Studies,Androcide
+399,Others,Missing Women of Asia
+400,Feminism,École Polytechnique massacre
+401,Others,The Manipulated Man
+402,Feminism,Social justice warrior
+403,Feminism,Who Needs Feminism
+404,Discrimination,Radical feminism
+405,Others,Advertising
+406,Philosophy,Media bias
+407,Discrimination,Ambivalent prejudice
+408,Discrimination,Women are wonderful
+409,Discrimination,Aversive racism
+410,Women's History,Sexual slavery
+411,Discrimination,Prejudice
+412,Feminism,Woman
+413,Feminism,Herstory
+414,Discrimination,Benevolent prejudice
+415,Others,Esther Vilar
+416,Feminism,Victim feminism
+417,Gender Studies,Lad culture
+418,Gender Studies,"Kinder, Küche, Kirche"
+419,Others,Quiverfull
+420,Gender Studies,Anti-suffragism
+421,Others,Mary Pride
+422,Gender Studies,Save Indian Family Foundation
+423,Discrimination,Stereotype
+424,Others,Witch-hunt
+425,Gender Studies,Bride burning
+426,Feminism,Gender crime
+427,Women's History,Murder of Du'a Khalil Aswad
+428,Gender Studies,Islam and gender segregation
+429,Gender Studies,Women in the Arab world
+430,Women's History,Zuhur Wanasi
+431,Philosophy,Bias
+432,Feminism,Adrianne Wadewitz
+433,Gender Studies,Gender diversity
+434,Others,Ideological bias on Wikipedia
+435,Feminism,Anasuya Sengupta
+436,Feminism,Declaration of Sentiments
+437,Sociology,Ideology
+438,LGBT Studies,LGBT
+439,LGBT Studies,Polysexuality
+440,Gender Studies,Postgenderism
+441,Others,Chief executive officer
+442,Discrimination,Stained-glass ceiling
+443,Politics,Setting up to fail
+444,Discrimination,Stereotype fit hypothesis
+445,Others,Blonde joke
+446,Others,Heir presumptive
+447,Feminism,Transnational feminism
+448,Others,European Institute for Gender Equality
+449,Feminism,Feminist views on the Oedipus complex
+450,Discrimination,Equality and diversity (United Kingdom)
+451,Gender Studies,Social Institutions and Gender Index
+452,Human rights,National Human Rights Commission of Korea
+453,Feminism,Because I Am a Girl
+454,Feminism,Gender pay gap in Australia
+455,Feminism,Pinkstinks
+456,Gender Studies,Let Books Be Books
+457,Feminism,Let Toys Be Toys
+458,Gender Studies,Gender and emotional expression
+459,Others,Mark Driscoll
+460,Feminism,Misogyny in rap music
+461,Sociology,Hegemony
+462,Sociology,Cultural hegemony
+463,Gender Studies,Men's liberation movement
+464,Others,We Real Cool: Black Men and Masculinity
+465,Feminism,Gender roles in non-heterosexual communities
+466,Philosophy,Nationality
+467,Sociology,Ethnic group
+468,Discrimination,Religious discrimination
+469,Politics,Separatism
+470,Discrimination,Oppression
+471,Feminism,Rebecca Walker
+472,Feminism,Matrix of domination
+473,Feminism,Patricia Hill Collins
+474,Feminism,Michele Wallace
+475,Others,Animal studies
+476,Philosophy,Strategic essentialism
+477,Feminism,Chicana feminism
+478,Others,Anthrozoology
+479,LGBT Studies,TransGeneration
+480,LGBT Studies,A Girl Like Me: The Gwen Araujo Story
+481,LGBT Studies,Straight Plan for the Gay Man
+482,LGBT Studies,Gay male speech
+483,Feminism,Christina Hoff Sommers
+484,Discrimination,Angry white male
+485,Gender Studies,Rape of males
+486,Gender Studies,Fathers' rights movement
+487,Human rights,Fathers' rights movement in the United Kingdom
+488,Others,Mythopoetic men's movement
+489,Women's History,Sociology of the family
+490,Others,American Coalition of Fathers and Children
+491,Gender Studies,Stay-at-home dad
+492,Gender Studies,Conflict tactics scale
+493,Others,No-fault divorce
+494,Others,Divorce in the United States
+495,Sociology,Hypergamy
+496,Sociology,Government
+497,Gender Studies,Amazons
+498,Feminism,Thealogy
+499,Women's History,Goddess
+500,Gender Studies,Patriarch
+501,Others,James Mellaart
+502,Politics,Androcracy
+503,Others,The First Sex
+504,Others,One Flew Over the Cuckoo's Nest (novel)
+505,Gender Studies,Reproductive rights
+506,Discrimination,Employment discrimination
+507,Gender Studies,Comisión Femenil Mexicana Nacional
+508,Others,Scheidler v. National Organization for Women (2006)
+509,Discrimination,Women in engineering in the United States
+510,Discrimination,Microaggression
+511,Gender Studies,Male unemployment
+512,Others,Sex differences in medicine
+513,Gender Studies,Sociology of gender
+514,Gender Studies,Sex determination
+515,Gender Studies,Man flu
+516,Sociology,Body shape
+517,Others,Variability hypothesis
+518,Others,Sexual dimorphism in non-human primates
+519,LGBT Studies,Female body shape
+520,Feminism,Social construction of gender
+521,Feminism,Sex differences in intelligence
+522,Gender Studies,Sex differences in emotional intelligence
+523,Gender Studies,Sex differences in cognition
+524,Women's History,Women-only passenger car
+525,Women's History,AnitaB.org
+526,Feminism,Brogrammer
+527,Discrimination,Pao v. Kleiner Perkins
+528,Women's History,Gender disparity in computing
+529,Discrimination,Google's Ideological Echo Chamber
+530,Others,The Ada Project
+531,Others,Blank Noise
+532,Feminism,Pink Chaddi Campaign
+533,Feminism,Missing women
+534,Others,Women's Reservation Bill
+535,Discrimination,Nakusha
+536,Feminism,2012 Delhi gang rape
+537,Discrimination,"Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013"
+538,Others,It's Your Fault (video)
+539,LGBT Studies,Anti-LGBT rhetoric
+540,LGBT Studies,Brandon Teena
+541,LGBT Studies,LGBT rights by country or territory
+542,LGBT Studies,Tyra Hunter
+543,Discrimination,Trans bashing
+544,Feminism,Camp Trans
+545,Discrimination,Slavery
+546,Others,Divorce
+547,Women's History,Wife
+548,Philosophy,Human rights
+549,Feminism,Nineteenth Amendment to the United States Constitution
+550,Others,Alimony
+551,Feminism,Empowerment
+552,Human rights,American Convention on Human Rights
+553,Others,Wildfire
+554,Others,Firefighter
+555,Others,Fire marshal
+556,Others,Fire police
+557,Others,Dispatcher
+558,Others,Glossary of firefighting equipment
+559,Others,Firemen's Association of the State of New York
+560,Others,Fire Service College
+561,Others,Fire investigation
+562,Others,International Firefighters' Day
+563,Others,Geography of firefighting
+564,Others,Chief Fire Officers Association
+565,Others,Fire authority
+566,Others,Fire safety officer
+567,Others,History of fire brigades in the United Kingdom
+568,Others,Her Majesty's Chief Inspector of Fire Services
+569,Gender Studies,Women's work
+570,Others,Newham Rural Fire Brigade
+571,Others,Police
+572,Others,Police officer
+573,Others,Diversity (business)
+574,Women's History,Take a Girl Child to Work Day
+575,Others,Cary Cooper
+576,Women's History,History of women in engineering
+577,Others,Mary Edwards (human computer)

@@ -1,0 +1,55 @@
+,type,name,duration
+0,place,Home,55676
+1,move,transport,1411
+2,move,walking,120
+3,place,T3 Innovation Studio,5053
+4,move,transport,2132
+5,place,Home,22008
+6,place,Home,32082
+7,move,walking,392
+8,place,Place in Old Cambridge,525
+9,move,walking,281
+10,place,Proximate,32197
+11,move,walking,576
+12,place,Home,20348
+13,place,Home,33021
+14,move,walking,845
+15,move,transport,914
+16,place,Amtrak South Station,1518
+17,move,transport,3172
+18,move,transport,2510
+19,move,transport,3013
+20,move,walking,310
+21,place,Place in East End,349
+22,move,transport,1371
+23,place,2440 39th Street NW,7054
+24,place,2440 39th Street NW,14279
+25,move,walking,603
+26,place,Whole Foods Market,3379
+27,move,walking,783
+28,place,2440 39th Street NW,36844
+29,place,2440 39th Street NW,86400
+30,place,2440 39th Street NW,41234
+31,move,walking,471
+32,place,Surfside,546
+33,move,walking,180
+34,place,Place in Glover Park,11571
+35,move,walking,484
+36,place,Whole Foods Market,4433
+37,move,walking,544
+38,place,2440 39th Street NW,26616
+39,place,2440 39th Street NW,47782
+40,move,walking,1787
+41,place,Place in Cloisters,206
+42,move,walking,284
+43,place,Apple Store,1090
+44,move,walking,243
+45,place,CB2,3297
+46,move,walking,521
+47,place,TJ Maxx & HomeGoods,7550
+48,move,walking,339
+49,place,H&M,2114
+50,move,transport,405
+51,place,Safeway,2244
+52,move,transport,301
+53,place,2440 39th Street NW,18173

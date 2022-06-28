@@ -1,0 +1,195 @@
+,city,name,state,type
+0,Wye Mills,A. H. Herb'n Craft Farm,md,farm
+1,Accokeek,Accokeek Foundation - Ecosystem Farm Market,md,farm
+2,Westminster,Baugher's Orchard & Farm,md,farm
+3,Germantown,Butler's Orchard,md,farm
+4,Upper Marlboro,Cabin Creek Heritage Farm,md,farm
+5,Davidsonville,Chase's Produce,md,farm
+6,Clarksburg,Citizens of Earth,md,farm
+7,Ellicott CIty,Clark's Elioak Farm,md,farm
+8,Williamsport ,Columbine Manor,md,farm
+9,WESTMINSTER,Cultivale Farm,md,farm
+10,Westminster,Evermore Farm,md,farm
+11,Mt. Airy,"Gaver Farm, LLC",md,farm
+12,Tyaskin,"Habanera Farm, LLC",md,farm
+13,Clarksburg,Hilton's Farm & Garden,md,farm
+14,Dickerson,Jehovah Jireh Farm,md,farm
+15,Middletown,Karen's Kountry Store,md,farm
+16,Adamstown,Nick's Organic Farm-Buckeystown,md,farm
+17,Potomac,Nick's Organic Farm-Potomac,md,farm
+18,Hurlock,Pop's Old Place,md,farm
+19,Mount Airy,Rock Hill Orchard,md,farm
+20,White Hall,Shaw Orchards,md,farm
+21,Pocomoke City,Shimar Farms,md,farm
+22,Chestertown,"Tag Along Alpacas, LLC",md,farm
+23,Westminster,Thorne Farm,md,farm
+24,Church Hill,Unity Church Hill,md,farm
+25,mount airy,Wagon Wheel Ranch,md,farm
+26,Baltimore,Whitelock Community Farm ,md,farm
+27,Emmitsburg,Whitmore Farm,md,farm
+28,Severn,Willow Oak Flower & Herb Farm,md,farm
+29,Baltimore,32nd Street/Waverly Farmers Market,md,market
+30,Annapolis,AAMC Farmers's Market,md,market
+31,Berlin,AGH Wellness Committee Farmer's Market,md,market
+32,Annapolis,Anne Arundel County Farmers' Market  (Riva),md,market
+33,Lutherville=Timonium,Baltimore County Farmers' Market,md,market
+34,Baltimore,Baltimore Farmers' Market,md,market
+35,Crisfield ,Bayside Harvest Market,md,market
+36,Bel Air,Bel Air Farmers' Market,md,market
+37,Berlin,Berlin  Farmers' Market,md,market
+38,Bethesda,Bethesda - Farm Women's Market,md,market
+39,Bethesda ,Bethesda Central Farm Market,md,market
+40,Baltimore,BMI Farmers' Market,md,market
+41,Hydes,Boordy Vineyards-Good Life Thursdays,md,market
+42,Bowie,Bowie Farmers' Market,md,market
+43,Temple Hills,Branch Avenue in Bloom Farmers' Market,md,market
+44,Silver Spring,Briggs Chaney-Greencastle Farmers and Artisans Market,md,market
+45,Brunswick ,Brunswick Farmer's Market,md,market
+46,California,California Farmers Market,md,market
+47,Barstow,Calvert County Farmers Market - Barstow,md,market
+48,Prince Frederick,Calvert County Farmers Market - Prince Frederick,md,market
+49,Solomons,Calvert County Farmers Market - Solomons,md,market
+50,Cambridge,Cambridge Main Street Farmers' Market,md,market
+51,Salisbury,Camden Avenue Farmers Market,md,market
+52,Westminster,Carroll County Farmer's Market,md,market
+53,Catonsville ,Catonsville Farmers Market,md,market
+54,Catonsville,Catonsville Sunday Farmers Market,md,market
+55,North East ,Cecil County Farmers' Market - North East,md,market
+56,,Center for Design Practice - Mobile Farmers Market,md,market
+57,Centreville,Centreville Farmers' Market,md,market
+58,Baltimore,Charles Street Farmers' Market,md,market
+59,Chestertown,Chestertown Farmers' Market,md,market
+60,Cheverly,Cheverly Community Market,md,market
+61,LaPlata,Civista Medical Center Farmer's Market,md,market
+62,CLARKSBURG,Clarksburg Town Center Farmers' Market,md,market
+63,Woodlawn,CMS Farmers Market,md,market
+64,College Park,College Park City Hall Farmers' Market,md,market
+65,College Park,College Park Farmer's Market,md,market
+66,Sykesville,Copper Ridge & Fairhaven Farmers' Market,md,market
+67,Crofton,Crofton Farmers Market,md,market
+68,Takoma Park,Crossroads Farmers Market,md,market
+69,Deale,Deale Farmers' Market,md,market
+70,Denton,Denton Main Street Farmers' Market,md,market
+71,Denton,Denton St. Luke's Farmers' Market,md,market
+72,Rockville,Derwood Farmers Market,md,market
+73,Cumberland,Downtown Cumberland,md,market
+74,Westminster,Downtown Westminster Farmers' Market,md,market
+75,Baltimore,Druid Hill Farmers' Market,md,market
+76,Dundalk,Dundalk Farmers' Market,md,market
+77,Grasonville,Eastern Shore Farmers' Market ,md,market
+78,Easton,Easton Farmers' Market,md,market
+79,Baltimore,Eastpoint Farmers' Market,md,market
+80,Edgewood,Edgewood Farmer's Market,md,market
+81,Edgewood,Edgewood Farmers' Market,md,market
+82,Emmitsburg,Emmitsburg Farmers' Market,md,market
+83,Frederick,Everedy Square/Shab Row Farmers' Market,md,market
+84,Charlotte Hall,Farmers Market and Auction in Charlotte Hall Maryland,md,market
+85,Nottingham,Farmers' Market at The Avenue ( White Marsh),md,market
+86,Frederick,Farmers' Market at the NCI-Frederick,md,market
+87,Baltimore,Federal Hill Farmers Market at Light Street Church,md,market
+88,Baltimore,Fells Point Farmers' Market,md,market
+89,Frederick,Frederick City Market,md,market
+90,Fort Washington,Freedom Farmers Market,md,market
+91,Baltimore,Fresh Friday Farmers Market sponsored by Kaiser Permanente,md,market
+92,Silver Spring ,FRESHFARM Silver Spring Market,md,market
+93,Frostburg ,Frostburg Farmers' Market,md,market
+94,Gaithersburg,Fulks Corner Farmers Market,md,market
+95,Glenn Dale ,Glenn Dale Farmers' Market,md,market
+96,Baltimore,Go Life / Cylburn Farmers' Market,md,market
+97,Baltimore,Govanstowne Farmers' Market,md,market
+98,Frederick,Grace Community Farmers Market,md,market
+99,Frederick,Great Frederick Farmers' Market,md,market
+100,Baltimore,Green Spring Station Farmers Market,md,market
+101,Baltimore,Green Spring Station Winter Farmers Market,md,market
+102,Greenbelt,Greenbelt Farmers Market,md,market
+103,Lothian,Greenstreet Gardens Farmers Market,md,market
+104,Hampstead,Hampstead Farmers' Market,md,market
+105,Parkton,Hereford Farm Market,md,market
+106,Baltimore,Highlandtown Farmers' Market,md,market
+107,Hagerstown,Historic City Farmers' Market,md,market
+108,Silver Spring,Holy Cross Hospital Farmers Market,md,market
+109,Lexington Park ,Home Grown Farm Market,md,market
+110,Ellicott City,Howard County Farmers Market - Miller Library Branch,md,market
+111,Columbia,Howard County Farmers' Market  - Oakland Mills Village Center,md,market
+112,Columbia,Howard County Farmers' Market - East Columbia Library Branch,md,market
+113,Columbia,Howard County Farmers' Market at Howard County General Hospital,md,market
+114,Glenwood,Howard County Farmers' Market-Glenwood Library Branch,md,market
+115,Baltimore,Howard Park Community Farmers Market,md,market
+116,Hyattsville,Hyattsville Farmers Market,md,market
+117,Baltimore,Johns Hopkins Hospital Farmers' Market,md,market
+118,Towson,Kenilworth Farmers Market,md,market
+119,Kensington,Kensington Farmers Market,md,market
+120,Stevensville,Kent Island Farmer's Market,md,market
+121,La Plata,La Plata Farmers Market - Saturday,md,market
+122,Laurel,Laurel Farmers' Market,md,market
+123,LaVale,LaVale Farmers' Market,md,market
+124,Gaithersburg,Main Street Farmers & Artists Market,md,market
+125,Gaithersburg,Main Street Farmers Market,md,market
+126,Hagerstown,Market Faire on the Square,md,market
+127,Hagerstown,Meritus Medical Center Farmers Market,md,market
+128,Middletown,Middletown Farmers' Market,md,market
+129,Montgomery Village,Montgomery Village Farmers Market,md,market
+130,Upper Marlboro,Montpelier Farmers Market,md,market
+131,Mount Airy,Mount Airy Farmers Market,md,market
+132,Mount Rainier,Mount Rainier Farmers Market,md,market
+133,Oakland,Mountain Fresh Oakland Farmers Market,md,market
+134,Baltimore,Mt. Washington Whole Foods Farmers Market,md,market
+135,Myersville,Myersville Farmers Market,md,market
+136,North Beach,North Beach Friday Night Farmers's Market,md,market
+137,Charlotte Hall,North St. Mary's County Farmers Market,md,market
+138,Capitol Heights,Oakcrest Farmers Market,md,market
+139,Parsonsburg,Ocean City Farmers Market,md,market
+140,Ocean Pines ,Ocean Pines Farmers & Artisans Market,md,market
+141,Olney,Olney Farmers and Artists Market,md,market
+142,Upper Marlboro,Our Local Bounty Farmers Market at St. Thomas Church,md,market
+143,Owings Mills,Owings Mills Farmers' Market,md,market
+144,Baltimore,Park Heights Community Farmers Market,md,market
+145,Perryville,Perryville Farmers' Market,md,market
+146,Baltimore,Pigtown Community Farmers Market,md,market
+147,Rockville ,Pike Central Market,md,market
+148,Pikesville,Pikesville Farmers Market,md,market
+149,Odenton,Piney Orchard,md,market
+150,Poolesville,Poolesville Farmers' Market,md,market
+151,Bladensburg,Port Towns Farmers Mercado,md,market
+152,Potomac,Potomac Village Farmers Market,md,market
+153,Marion Station,Princess Anne Farmers' Market,md,market
+154,Randallstown,Randallstown Farmers Market,md,market
+155,,Real Food System,md,market
+156,Reisterstown,Reisterstown Farmers Market ,md,market
+157,Riverdale Park,Riverdale Park Farmers Market,md,market
+158,Rockville,Rockville Farmers Market,md,market
+159,"West Laurel, Maqryland",Roots & Stems Community Farmers Market,md,market
+160,Fort Washington,Roots & Stems Community Farmers' Market,md,market
+161,Brentwood ,Route 1 Farmers Market,md,market
+162,Salisbury,"Salisbury ""shore fresh"" farmers market ",md,market
+163,Severna Park,Severna Park Farmers' Market,md,market
+164,Rockville,Shady Grove Farmers' & Artisans' Market,md,market
+165,Princess Anne,Shore Fresh Growers Farmers Markets,md,market
+166,Salisbury,Shore Fresh Growers Farmers Markets,md,market
+167,Snow Hill,Snow Hill Farmers Market,md,market
+168,St. Charles,St. Charles Farmers' Market,md,market
+169,St. Michaels,St. Michaels Farmers Market,md,market
+170,Baltimore,State Center Community Farmers' Market,md,market
+171,Suitland,Suitland Farmers' Market,md,market
+172,Frederick,Sycamore Spring Farm Market,md,market
+173,Takoma Park,Takoma Park Farmers Market,md,market
+174,Taneytown,Taneytown Farmers' Market,md,market
+175,Baltimore,The Avenue at White Marsh Farmers Market,md,market
+176,Capitol Heights,The Capital Market of 20743,md,market
+177,Fulton ,The Farmers Market at Maple Lawn,md,market
+178,College Park ,The Farmers Market at Maryland,md,market
+179,Thurmont ,Thurmont Main Street Farmer's Market,md,market
+180,Towson,Towson Farmers' Market,md,market
+181,Baltimore,Tuesday Market in Lauraville,md,market
+182,Baltimore,University Farmers' Market,md,market
+183,Frederick,Urbana Library Farmers' Market,md,market
+184,Beltsville,USDA Beltsville Farmers' Market,md,market
+185,Baltimore,Village Farmers Market,md,market
+186,Baltimore,Village of Cross Keys Farmers Market,md,market
+187,Waldorf,Waldorf Farmers Market,md,market
+188,Frederick,Walkersville Farmers Market,md,market
+189,Hagerstown,Washington County Farmers Market - Agricultural Education Center,md,market
+190,Capitol Heights,Washington's Green Grocer,md,market
+191,Frederick,West Frederick Farmers' Market,md,market
+192,Cumberland,Western Maryland Regional Medical Center Farmers' Market,md,market
+193,Annapolis,Westfield Annapolis Farmers' Market,md,market

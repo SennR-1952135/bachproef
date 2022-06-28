@@ -1,0 +1,13 @@
+,class,description
+0,JNIEnv,The method has 176 lines of code.
+1,JavaBridge,Cyclomatic complexity of the method is 19
+2,JavaBridge,Cyclomatic complexity of the method is 11
+3,JavaBridge,Cyclomatic complexity of the method is 9
+4,JNINativeInterface,The length of the parameter __CallNonvirtualBooleanMethodV is 30.
+5,JavaBridge,"The length of the statement  ""				ret.Constructor = type.GetConstructor(BindingFlags.Instance | BindingFlags.CreateInstance | BindingFlags.Public | BindingFlags.NonPublic' null' new Type[]{ typeof(JNIEnv) }' null); "" is 180."
+6,JavaBridge,"The length of the statement  ""                return Expression.Convert(Expression.Call(mWrapJavaObject' Expression.Convert(parameter' typeof(JniLocalHandle)))' argumentType); "" is 129."
+7,JavaBridge,"The length of the statement  ""            return Expression.Convert(Expression.Call(wrapObject' Expression.Convert(parameter' typeof(JniLocalHandle)))' argumentType); "" is 124."
+8,JavaBridge,"The length of the statement  ""            var parameterExpressions = (from par in method.GetParameters() select Expression.Parameter(GetJNITypeForClrType(par.ParameterType)' par.Name)).ToArray(); "" is 153."
+9,JavaBridge,"The length of the statement  ""            var methodExpression = Expression.Call(MarshalCLRHandle(obj' method.DeclaringType)' method' marshaledParameterExpressions); "" is 123."
+10,JavaBridge,"The length of the statement  ""            //var lambdaExpression = expressionMethodInfo.Invoke(null' new object[] { methodExpression' fullParameterList.ToArray() }); "" is 123."
+11,JavaBridge,"The length of the statement  ""            var method = type.GetMethod(methodName' BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.DeclaredOnly | BindingFlags.Instance' null' parameterTypes ?? new Type[] {}' null); "" is 183."

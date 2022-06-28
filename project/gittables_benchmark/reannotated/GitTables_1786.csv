@@ -1,0 +1,12 @@
+,state,type
+0,Static,boundary
+1,Static,boundary
+2,Static,boundary
+3,Static,boundary
+4,Static,bar
+5,Static,circle
+6,Dynamic,bar
+7,Dynamic,circle
+8,Static,bar
+9,Static,bar
+10,Dynamic,User Circle

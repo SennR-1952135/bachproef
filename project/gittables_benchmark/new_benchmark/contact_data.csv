@@ -1,0 +1,154 @@
+,age,origin,gender,company
+0,64.0,Chicago IL,1.0,Professor of Behavior Science
+1,73.0,"Maplewood, NJ",1.0,"Director, Center on Global Brand Leadership"
+2,44.0,"Chapel Hill, NC",1.0,Burlington Industries Professor of Business Administration
+3,74.0,"New York, NY",2.0,
+4,65.0,"Bowling Green, OH",1.0,Professor
+5,79.0,"New York, NY",2.0,Associate Professor
+6,84.0,New York,1.0,"Vice President, Consultant Relationship Manager"
+7,83.0,,2.0,"Education Programs Manager,  Instructor"
+8,84.0,"Seattle, WA",1.0,Senior Product Manager
+9,49.0,evanston IL,1.0,distinguished prof
+10,88.0,"New York City, NY",2.0,Assistant Research Scientist
+11,89.0,"New York, New York",1.0,Research Assistant
+12,95.0,,2.0,Student 
+13,74.0,"Palo Alto, CA",1.0,"Member, Board of Directors "
+14,62.0,"Edison, New Jersey",1.0,Vice President
+15,72.0,"New York City, NY",1.0,Associate Professor of Professional Practice
+16,88.0,,1.0,Senior Malaria Diagnosis Associate
+17,70.0,"New York City, NY",1.0,Professor
+18,81.0,Richmond VA,1.0,Product Manager
+19,51.0,,1.0,None
+20,68.0,"New York, NY",1.0,Senior Scientist
+21,85.0,"Little Rock, AR",1.0,Director of Public Programs and Strategic Partnerships
+22,69.0,Nyc ,1.0,Principal
+23,88.0,"New York City, NY",1.0,Associate Producer
+24,68.0,"Arlington, MA ",2.0,Series Producer 
+25,72.0,"New York City, NY",1.0,Associate General Counsel and Chief Patent Counsel
+26,74.0,NYC,2.0,HR Consultant
+27,60.0,"Far Hills, NJ",2.0,Associate Vice President
+28,61.0,"west palm beach, FL",1.0,president
+29,52.0,"Boston, MA",1.0,Professor
+30,61.0,"Sarasota, Florida",1.0,CEO
+31,70.0,,1.0,Deputy director
+32,74.0,"Middle Village, NY",2.0,Executive Assistant
+33,82.0,"NY, NY",1.0,Principal
+34,53.0,"Chappaqua, New York",1.0,Professor of Medicine
+35,53.0,"New York, NY",1.0,Attorney/journalist/consultant
+36,84.0,,1.0,none
+37,78.0,"Pittsburgh, PA",2.0,Research Health Scientist
+38,88.0,"New York, NY",2.0,Ph.D. Candidate in Management
+39,50.0,stamford ct,1.0,none
+40,69.0,Miami Beach,1.0,Problem Solver
+41,52.0,"Milton, MA",,Professor
+42,,,,
+43,64.0,"New York, NY",2.0,Lead Science Teacher
+44,87.0,,1.0,Senior Technical Test Analyst in Automation
+45,,New York,,
+46,82.0,"Short Hills, NJ",2.0,Director of Merchandise Planning for Coach International
+47,53.0,,2.0,Director/Assoc. Professor
+48,71.0,,1.0,Founder & Managing Trustee
+49,66.0,,1.0,Managing Director
+50,73.0,,1.0,Member of Parliament
+51,72.0,"houston, TX",1.0,Chief Information Security Officer
+52,48.0,New York City,2.0,CEO
+53,28.0,"ny,ny",1.0,none
+54,59.0,"Tenafly, NJ",1.0,Professor
+55,69.0,"New York City, NY",1.0,Professor
+56,66.0,,1.0,Managing Director
+57,65.0,,1.0,
+58,72.0,New York City,1.0,Professor / Research Fellow
+59,62.0,"Bethesda, MD",2.0,"Chief, Individual Behavioral Processes Branch"
+60,85.0,Charlotte,2.0,Assistant Professor of Marketing
+61,78.0,"Charlotte, NC",2.0,Consultant
+62,75.0,,,lecturer
+63,70.0,"Menlo Park, CA",2.0,Managing Director
+64,77.0,,1.0,"Director and General Manager, Asia"
+65,66.0,Knoxville,1.0,Professor
+66,70.0,"New York, NY",1.0,Associate Professor
+67,80.0,,1.0,PhD Candidate
+68,67.0,"East Boston, MA",2.0,"VP, Financial Solutions Advisor"
+69,82.0,Ny,2.0,Sr manger 
+70,68.0,"New York City, NY",2.0,"Founder & CEO, Grizzly Girl Productions"
+71,56.0,Guilford CT,1.0,the whole thing?  James Rowland Angell Professor of Psychology
+72,,,,
+73,66.0,"Des Moines, Iowa",2.0,"Vice President, Video Production and Product"
+74,84.0,"Monument, CO",2.0,Assistant professor of management
+75,65.0,"Menlo Park, CA",2.0,Director
+76,,,,
+77,68.0,,1.0,Infrastructure Engineer | Platforms & Storage
+78,79.0,"Lexington, KY",,Editor
+79,,,,
+80,56.0,,2.0,"Director, Research and Faculty Office"
+81,63.0,"New York, NY",1.0,Senior Vice President
+82,69.0,"New York, NY",2.0,Director
+83,81.0,"NY, NY",2.0,Senior Analyst
+84,75.0,,1.0,Vice President at PE company
+85,90.0,,2.0,Program Coordinator
+86,,,,
+87,45.0,"Philadelphia, PA",1.0,professor
+88,52.0,"NY, NY",1.0,President
+89,,,,
+90,91.0,New York,2.0,News Editor
+91,40.0,,1.0,It used to be professor
+92,65.0,,1.0,prof
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,59.0,"Chicago, IL",2.0,Professor of Behavioral Science and Marketing
+99,88.0,,2.0,Research Assistant
+100,90.0,,1.0,Software Engineer
+101,57.0,"Broomfield, Colorado",,
+102,68.0,"Santa Monica, CA",1.0,Professor
+103,,,,
+104,59.0,New York City,1.0,Professor
+105,67.0,"Santa Monica, CA",2.0,Professor of Psychology
+106,73.0,,1.0,Partner
+107,,,,
+108,79.0,"Los Angeles, ca",1.0,"CEO, Actor, Director"
+109,62.0,Scarsdale,2.0,psychologist
+110,38.0,Phila,1.0,Professor
+111,65.0,,1.0,Curator
+112,66.0,"New York, NY",1.0,Professor
+113,,,,
+114,,,,
+115,82.0,,1.0,Director 
+116,65.0,New York,1.0,Professor
+117,,,,
+118,,,,
+119,81.0,"New York City, NY ",2.0,Vice President 
+120,71.0,"New York City, NY",1.0,CEO
+121,57.0,"Summit, NJ",1.0,Professor & Director
+122,73.0,,2.0,Consultant
+123,54.0,"Warren, nj.",1.0,Ceo
+124,86.0,,1.0,Regional Country Head
+125,81.0,"Philadelphia, PA",2.0,Associate Professor
+126,81.0,"Atlanta, GA",1.0,Associate Partner
+127,85.0,,1.0,Head of Eurex Corporate Office
+128,,,2.0,Professor
+129,,,,
+130,67.0,"Hoboken, NJ",1.0,None
+131,6.0,New york City,2.0,Lecturer int he Discipline of Psychology
+132,,,,
+133,91.0,,2.0,Education Consultant
+134,80.0,,1.0,Web Developer
+135,88.0,,2.0,Co-founder
+136,62.0,"Livermore, CA",2.0,Writer/editor/consultant
+137,,,,
+138,82.0,"Bronx, ny",2.0,Associate professor of Art 
+139,64.0,New York,2.0,Science teacher
+140,95.0,"New York, NY",1.0,Undergraduate Student
+141,64.0,,1.0,Director of GlobaL Centre 
+142,60.0,New York City,1.0,Adjunct professor
+143,51.0,"Boston, MA",2.0,Professor of Business Administration
+144,65.0,"New York, NY",2.0,VP Client and Candidate Services
+145,79.0,,2.0,executive director
+146,,,,
+147,,,,
+148,,,,
+149,83.0,"New York City, NY",1.0,Founder
+150,63.0,NYC,2.0,Senior Lecturer
+151,69.0,"New York City, NY",2.0,Same
+152,,,,

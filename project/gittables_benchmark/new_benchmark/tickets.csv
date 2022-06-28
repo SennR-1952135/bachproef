@@ -1,0 +1,139 @@
+,component,type,owner,status,description
+0,DataCleaner-core,enhancement,,new,"We should have a look at the Value Distribution and Time Analysis profiles. They consume very large amounts of memory because they basicly save all values in maps for analysis.
+
+One way of improving this could be through caching. Another way could be through more appropriate (less verbose) storing of intermediate data (this looks obvious in Time Analysis profile). A third way could be by letting the profiles create queries themselves (related to metadata profiling, #222)."
+1,,,,,
+2,,,,,
+3,,,,,
+4,,,,,
+5,,,,,
+6,,,,,
+7,,,,,
+8,DataCleaner-core,enhancement,,new,"We should make a command line version of DataCleaner which could take in a .dcp or .dcv file, execute it and save the results in a file or a database (#117). This should ideally be done in DataCleaner core as it would be straight forward to reuse it in DataCleaner-webmonitor in the future then."
+9,DataCleaner-gui,enhancement,michaelwc,assigned,Add the ability to use custom seperators in data files.
+10,DataCleaner-gui,investigation,None,new,"I have a large table with many columns and I perform analysis on all the columns at once.  I get a large result screen.  The bug: scroll bars stop working; the only thing that works is the mouse's scroll-down button.  The bottom scroll bar doesn't work either, so I can't actually see the results."
+11,,,,,
+12,DataCleaner-gui,enhancement,,new,Based on [/discussion/1/46 this discussion] we need an option to filter data selections in the profiler and validator. This will allow users to try out their profile configurations on a subset of the data they want to use.
+13,DataCleaner-core,enhancement,None,new,"All result tabs should allow you to export their contents in CSV, TSV, XML and plain text format. "
+14,DataCleaner-core,enhancement,,new,"First we need to establish a new kind of profile that is able to design it's own queries and have them executed. We can then use this new kind of profile to do interesting metadata profiling. The first use of this will be a (hidden) relationship profile. This profile will investigate which columns ''may be'' relationships.
+
+The metadata profile result should consist of suggestions for metadata changes. In the case above we would suggest incorporating certain relationships which the user can approve or deny.
+
+Another example of a metadata profile is a column type detection profile that will take the columns of CSV files and other simple data formats and suggest narrowed and more specific types. This last example is closely related to Ticket #77 for MetaModel though."
+15,DataCleaner-webmonitor,enhancement,kasper,assigned,"Design an XML schema for profile and validation rule configurations to support uploading of these. Contents should be something like:
+
+ * Profile or validation rule class name
+ * Data source name
+ * Applied to which columns?
+ * Configuration properties (key/value pairs)
+
+Also it would be nice with a service method to query for configured data sources on the server and available profile and validation rules (to ensure client/server match).
+
+This XML schema will then be used as a service interface, but that's a whole other ticket."
+16,DataCleaner-webmonitor,enhancement,None,new,Create the Hibernate mapping for persisting configurations in the webmonitor so configurations can be loaded and run continously over time.
+17,DataCleaner-webmonitor,enhancement,kasper,assigned,Create the Hibernate mapping for persisting results in the webmonitor so results can be saved and shown continously over time.
+18,DataCleaner-webmonitor,enhancement,None,new,Display a validation result object in the webmonitor. Make it look as much as possible like the results in the GUI.
+19,DataCleaner-webmonitor,enhancement,None,new,Display a profiler result object in the webmonitor. Make it look as much as possible like the results in the GUI.
+20,DataCleaner-webmonitor,enhancement,,new,"If a validation rule fails to validate (isValid() == false) then it should be able to configure notifiers that notify users about the validations.
+
+Create a INotifier interface that recieves results from scheduled jobs. Create an email implementation (EmailNotifier) that can notify to emailadresses, with various smtp-server settings and with various notification settings (notify on success? notify on fail?)"
+21,DataCleaner-webmonitor,defect,None,new,"The Tiles2-based views seems to work fine in Tomcat 6.0 but throws exceptions in 5.5:
+
+{{{
+[ERROR] Servlet.service() for servlet jsp threw exception
+java.lang.ClassNotFoundException: org.apache.jsp.WEB_002dINF.tiles.modules_jsp
+}}}
+
+Seems like it somehow can't load the tiles taglib."
+22,,,,,
+23,,,,,
+24,,,,,
+25,,,,,
+26,,,,,
+27,,,,,
+28,,,,,
+29,,,,,
+30,,,,,
+31,,,,,
+32,,,,,
+33,,,,,
+34,,,,,
+35,DataCleaner-core,enhancement,kasper,assigned,"The [DataCleanerPatternFinder pattern finder] profile will generate patterns that are easier to read than regular expressions but we need to be able to convert these to regular expressions in order to use them for validation (and thus bridging profiling and validation).
+
+This ticket is dedicated to creating a method for converting pattern finder's patterns into regexes:
+
+ * String toRegex(String pattern);
+
+The syntax for pattern finder's patterns is very simple:
+
+ * words are denoted using a's
+ * numbers are denoted as 9's
+ * mixed words (for example windows95) is denoted as ?'s
+ * delimitors (everything that's not literal or number chars) are denoted as-is.
+
+For example:
+
+ * I'd prefer not to have 2 use windows95!
+ * a'a aaaaaa aaa aa aaaa 9 aaa ?????????!"
+36,DataCleaner-core,enhancement,None,new,"A validation rule where you select a primary and a foreign key for which to ensure that all foreign key values exist in the primary key value.
+
+Consider implementing this using the Dictionary framework for maximum reuse."
+37,DataCleaner-gui,enhancement,,new,"Mike 2.0, the open source methodology for information development, has a guide to doing data profiling. I propose we ensure that we have the functionality needed to comply with what it suggests and that DataCleaner can work in the context of Mike 2.0.
+
+http://mike2.openmethodology.org/wiki/Data_Profiling
+
+Perhaps this could also work the other way around - so that the Mike 2.0 people could suggest readers to use DataCleaner for the data profiling activity in their methodology."
+38,DataCleaner-core,enhancement,None,new,"The results displayed on the console should be saved in a log file.  Default mode should be that the log file is emptied at start of run.  This way it never grows too big, but still allows the users to send the full log file to the developers when a problem occurs.  
+
+You could also have a setup option that increases the level of detail that goes into the log file; when someone has a problem that you find hard to repeat, you can ask them to turn this option on and send you the log file, which now will have much more information."
+39,,,,,
+40,,,,,
+41,DataCleaner-gui,investigation,None,new,"Hello
+
+when we want to use the JTDS driver for Sql Server or sybase
+
+which driver class we need to select for use it?
+
+=== [ Microsoft SQL Server (jTDS Driver)] ===
+'''Driver Class:''' net.sourceforge.jtds.jdbc.Driver
+
+http://i34.tinypic.com/id7m1s.jpg"
+42,DataCleaner-gui,defect,asbjorn,new,"I noticed some weird behaviour after building DataCleaner-gui. After running mvn clean install my clipboard was populated with the following content 
+
+{{{
+f	o	o	b	ar
+0	1	2	3	4	5
+6		8	9	10	11
+12	13	14	15	16	17
+18	19	20	21	22	23
+24	25	26	27	28	29
+}}}
+"
+43,DataCleaner-core,enhancement,,new,A profile that runs through a table and tries to identify possible natural keys.
+44,DataCleaner-resources,enhancement,,new,"Dictionary files for validating person names; First-, middle and surname will be relevant."
+45,DataCleaner-resources,enhancement,,new,"Dictionary files for validating company names.
+Of course not all company names can be covered, but the files can be used as an example  for creating rules."
+46,MetaModel,enhancement,,new,"Implement support for DBF files, which are used by dBase (and other database-products as well).
+
+Refer to [/discussion/7/27 the discussion forum] for the original feature request on this one."
+47,MetaModel,enhancement,None,new,"We need to take a thorough look at the Common Warehouse Metamodel (CWM) specification which defines entities that pertain to the data warehousing domain. The spec. is used by both commercial and Open Source BI vendors. Without any in-depth knowledge of the scec's technicalities I would presume that interoperability with the standard will be a really nice addition to MetaModel.
+
+Concretely we need to investigate the opportunities for:
+ * Importing schemas from CWM definitions.
+ * Exporting MetaModel schemas to CWM definitions.
+
+Information on CWM:
+ * [http://en.wikipedia.org/wiki/Common_Warehouse_Metamodel wikipedia article]
+ * [http://www.omg.org/cwm/ CWM specification @ OMG]"
+48,MetaModel,enhancement,,new,"Updates to datastores can have two fundamentally different forms:
+ * Updates to structure (schema, table, column, relationship)
+ * Updates to content (row)
+
+I think that we should therefore create an executeUpdate(Update update) method where the parameterized Update class has two subclasses:
+ * !SchemaUpdate
+ * !RowUpdate
+
+Following the style of the rest of the MetaModel API these should have constructors that indicate what to update."
+49,MetaModel,administrative task,,new,Construct integration tests for Microsofts SQL Server.
+50,MetaModel,administrative task,,new,Construct integration tests for IBM's DB2.
+51,MetaModel,investigation,None,new,I just noticed that there are no mentioning of Ingres at the MetaModel database compliancy page. I think it would be good to try this database out and hopefully verify that it works with MetaModel and DataCleaner.

@@ -1,0 +1,108 @@
+,name,symbol,weight
+0,,,
+1,Amazon.com Inc,AMZN,0.0566
+2,Comcast Corp,CMCSA,0.027139999999999997
+3,Starbucks Corp,SBUX,0.017830000000000002
+4,Priceline Group Inc/The,PCLN,0.01135
+5,Netflix Inc,NFLX,0.00945
+6,Twenty-First Century Fox Inc,FOXA,0.00629
+7,Tesla Motors Inc,TSLA,0.0054399999999999995
+8,JD.com Inc ADR,JD,0.0049
+9,OReilly Automotive Inc,ORLY,0.0048200000000000005
+10,Ross Stores Inc,ROST,0.00442
+11,Twenty-First Century Fox Inc,FOX,0.00428
+12,Sirius XM Holdings Inc,SIRI,0.0040100000000000005
+13,Liberty Global PLC,LBTYK,0.00399
+14,Charter Communications Inc,CHTR,0.00391
+15,Dollar Tree Inc,DLTR,0.0036799999999999997
+16,Marriott International Inc/MD,MAR,0.00322
+17,Viacom Inc,VIAB,0.00294
+18,Ctrip.com International Ltd ADR,CTRP,0.0027199999999999998
+19,Expedia Inc,EXPE,0.00259
+20,Norwegian Cruise Line Holdings Ltd,NCLH,0.00249
+21,Liberty Interactive Corp QVC Group,QVCA,0.00246
+22,DISH Network Corp,DISH,0.00243
+23,Ulta Salon Cosmetics & Fragrance Inc,ULTA,0.00238
+24,Tractor Supply Co,TSCO,0.00227
+25,TripAdvisor Inc,TRIP,0.00199
+26,Mattel Inc,MAT,0.00185
+27,Liberty Global PLC,LBTYA,0.0017699999999999999
+28,Liberty Media Corp,LMCK,0.00158
+29,Bed Bath & Beyond Inc,BBBY,0.0015400000000000001
+30,Discovery Communications Inc,DISCK,0.0014
+31,Liberty Ventures,LVNTA,0.00112
+32,Discovery Communications Inc,DISCA,0.00079
+33,Liberty Media Corp,LMCA,0.00075
+34,Kraft Heinz Co/The,KHC,0.017830000000000002
+35,Walgreens Boots Alliance Inc,WBA,0.01736
+36,Costco Wholesale Corp,COST,0.01381
+37,Mondelez International Inc,MDLZ,0.01339
+38,Monster Beverage Corp,MNST,0.00604
+39,Whole Foods Market Inc,WFM,0.00221
+40,Gilead Sciences Inc,GILD,0.02768
+41,Amgen Inc,AMGN,0.02277
+42,Celgene Corp,CELG,0.01641
+43,Biogen Inc,BIIB,0.01236
+44,Express Scripts Holding Co,ESRX,0.011179999999999999
+45,Regeneron Pharmaceuticals Inc,REGN,0.00974
+46,Alexion Pharmaceuticals Inc,ALXN,0.007379999999999999
+47,Illumina Inc,ILMN,0.005
+48,Mylan NV,MYL,0.00499
+49,Vertex Pharmaceuticals Inc,VRTX,0.00491
+50,Intuitive Surgical Inc,ISRG,0.004229999999999999
+51,Cerner Corp,CERN,0.00414
+52,Incyte Corp,INCY,0.00303
+53,BioMarin Pharmaceutical Inc,BMRN,0.00282
+54,Henry Schein Inc,HSIC,0.00249
+55,Endo International PLC,ENDP,0.00247
+56,American Airlines Group Inc,AAL,0.00525
+57,PACCAR Inc,PCAR,0.00325
+58,Verisk Analytics Inc,VRSK,0.00253
+59,Fastenal Co,FAST,0.00233
+60,Stericycle Inc,SRCL,0.00205
+61,Apple Inc,AAPL,0.11269000000000001
+62,Microsoft Corp,MSFT,0.08561
+63,Alphabet Inc,GOOG,0.050230000000000004
+64,Facebook Inc,FB,0.044969999999999996
+65,Alphabet Inc,GOOGL,0.04351
+66,Intel Corp,INTC,0.03125
+67,Cisco Systems Inc,CSCO,0.02592
+68,QUALCOMM Inc,QCOM,0.01438
+69,Texas Instruments Inc,TXN,0.010490000000000001
+70,Baidu Inc ADR,BIDU,0.00955
+71,Adobe Systems Inc,ADBE,0.00914
+72,PayPal Holdings Inc,PYPL,0.008140000000000001
+73,Automatic Data Processing Inc,ADP,0.0074
+74,Cognizant Technology Solutions Corp,CTSH,0.0072900000000000005
+75,Avago Technologies Ltd,AVGO,0.0070599999999999994
+76,eBay Inc,EBAY,0.00633
+77,Yahoo! Inc,YHOO,0.00577
+78,Activision Blizzard Inc,ATVI,0.0052899999999999996
+79,NXP Semiconductors NV,NXPI,0.00526
+80,Intuit Inc,INTU,0.00502
+81,Fiserv Inc,FISV,0.00412
+82,Electronic Arts Inc,EA,0.00409
+83,Applied Materials Inc,AMAT,0.00404
+84,Paychex Inc,PAYX,0.0034700000000000004
+85,NVIDIA Corp,NVDA,0.0032700000000000003
+86,Analog Devices Inc,ADI,0.00324
+87,SanDisk Corp,SNDK,0.00299
+88,Check Point Software Technologies Ltd,CHKP,0.0028899999999999998
+89,Symantec Corp,SYMC,0.0028399999999999996
+90,Micron Technology Inc,MU,0.0027199999999999998
+91,Skyworks Solutions Inc,SWKS,0.00247
+92,Western Digital Corp,WDC,0.0024
+93,CA Inc,CA,0.0024
+94,Autodesk Inc,ADSK,0.0023899999999999998
+95,Lam Research Corp,LRCX,0.00227
+96,Xilinx Inc,XLNX,0.00224
+97,Citrix Systems Inc,CTXS,0.00215
+98,KLA-Tencor Corp,KLAC,0.0021
+99,Linear Technology Corp,LLTC,0.00193
+100,Seagate Technology PLC,STX,0.00193
+101,Maxim Integrated Products Inc,MXIM,0.0018899999999999998
+102,Akamai Technologies Inc,AKAM,0.0016899999999999999
+103,NetApp Inc,NTAP,0.0013800000000000002
+104,T-Mobile US Inc,TMUS,0.00658
+105,Vodafone Group PLC ADR,VOD,0.00259
+106,SBA Communications Corp,SBAC,0.00256

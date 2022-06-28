@@ -1,0 +1,40 @@
+,name,description,order,weight
+0,foia,FOIA,1,0.0333
+1,implementation-schedules,Implementation schedules,2,0.0333
+2,accessibility,Accessibility,3,0.0333
+3,strategy,Organisation strategy,4,0.025
+4,annual-report,Annual report,5,0.025
+5,allocation,Allocation policy,6,0.025
+6,procurement-policy,Procurement policy,7,0.025
+7,country-strategy,Country strategy,8,0.025
+8,total-budget,Total budget,9,0.0417
+9,disaggregated-budgets,Disaggregated budgets,10,0.0417
+10,audit,Audit,11,0.0417
+11,implementer,Implementer,12,0.0163
+12,unique-id,Unique ID,13,0.0163
+13,title,Title,14,0.0163
+14,description,Description,15,0.0163
+15,dates-planned,Planned dates,16,0.0163
+16,dates-actual,Actual dates,17,0.0163
+17,current-status,Current Status,18,0.0163
+18,contact-details,Contact details,19,0.0163
+19,collaboration-type,Collaboration Type,20,0.0186
+20,flow-type,Flow Type,21,0.0186
+21,aid-type,Aid Type,22,0.0186
+22,finance-type,Finance Type,23,0.0186
+23,sector,Sector,24,0.0186
+24,location,Sub-national location,25,0.0186
+25,tied-aid-status,Tied Aid Status,26,0.0186
+26,mou,MoU,27,0.0217
+27,evaluations,Evaluations,28,0.0217
+28,objectives,Objectives,29,0.0217
+29,budget,Budget Docs,30,0.0217
+30,contracts,Contracts,31,0.0217
+31,tenders,Tenders,32,0.0217
+32,cost-overall,Budget,33,0.0325
+33,expenditure-planned,Commitments,34,0.0325
+34,expenditure-actual,Disbursements and expenditure,35,0.0325
+35,budget-identifier,Budget Identifier,36,0.0325
+36,results,Results,37,0.0433
+37,impact-appraisals,Impact Appraisals,38,0.0433
+38,conditions,Conditions,39,0.0433

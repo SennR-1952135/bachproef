@@ -1,0 +1,317 @@
+,name,address,type
+0,La Floriya,6170 Bollinger Rd,Florist
+1,Trader Joe's,7250 Bollinger Rd,Florist
+2,Edible Arrangements,5317 Prospect Rd,Florist
+3,Trader Joe's,316 W El Camino Real,Florist
+4,Edible Arrangements,820 W El Camino Real,Florist
+5,Edible Arrangements,15553 Union Ave B10,Florist
+6,Trader Joe's,15466 Los Gatos Blvd,Florist
+7,Trader Joe's,855 El Camino Real,Florist
+8,Amy's Hallmark Shop,110 El Paseo de Saratoga,Greeting card shop
+9,Dunkin',844 S Winchester Blvd,Coffee shop
+10,Michael's Hallmark Shop,1219 S Mary Ave,Greeting card shop
+11,Gloria's Hallmark Shop,"Mervyn's Plaza, 2064 El Camino Real",Greeting card shop
+12,LOS ALTOS TRUE VALUE HARDWARE,441 1st St,Home improvement store
+13,Leah of the valley floral design,,Florist
+14,Marskandiser Florist,925 Cape St,Florist
+15,Viale Florist Inc,,Florist
+16,Blossom True Value Hardware,1297 W El Camino Real,Hardware store
+17,Township Four Floristry & Home,419 North St,Florist
+18,Jodis Seasonal,717 Crane Ave,Florist
+19,central market florist,555 Hubbard Ave,Florist
+20,Garden Blossoms Florist,97 1st St,Florist
+21,Blooming Bouquet,500 Coleman Ave,Florist
+22,Bloomster's,5945 Almaden Expy #170,Florist
+23,Lady Slipper Creations - Innovative Floral Design,,Florist
+24,Noble's Farm Stand and Flower Shop,390 E New Lenox Rd,Florist
+25,Bella Flora,1020 South St,Florist
+26,The Southwick Florist,636 College Hwy,Florist
+27,Stop & Shop Florist,690 Merrill Rd,Florist
+28,Stop & Shop Florist,,Florist
+29,Passalongs Flower Farm,198 Sylvester Rd,Florist
+30,Big Y Floral,320 Housatonic St,Florist
+31,Flowers by Webster,52 Court St,Florist
+32,Badger's Flowers & Co. - Wedding & Event Designs,,Florist
+33,Dunkin',5519 Snell Ave,Coffee shop
+34,TwitterButt,56 Lilac Ave,Florist
+35,Terrain,180 El Camino Real #1301,Home goods store
+36,Jaeschke Fruit & Flowers Center,736 Crane Ave,Florist
+37,Big Y Floral,205 West St,Florist
+38,Fields of Flowers,435 N Rd,Florist
+39,Flowers By Tammie,,Florist
+40,Big Y Floral,,Florist
+41,Gale's Garden LLC,8 Sunset Rd,Florist
+42,Charlotte Russe,2086 Newpark Mall,Clothing store
+43,Blooming Bouquet,San Jose,Florist
+44,Bloomster's,San Jose,Florist
+45,Dunkin',Fremont,Coffee shop
+46,Blush Floral Design,,Florist
+47,Hot Petunia Fine Flowers,,Florist
+48,Jaeschke Fruit & Flowers Center,Pittsfield,Florist
+49,Big Y Floral,,Florist
+50,Pat's Greenhouse,Granville,Florist
+51,Dunkin',San Carlos,Coffee shop
+52,Vintage Floral,Chester,Florist
+53,La Fleur Florals,,Florist
+54,Happy Birthday Flowers,,Florist
+55,Flowers And Flowers by Adam Manjuck,,Florist
+56,Forget Me Not Florist,Chester,Florist
+57,Felton True Value Paint & Hardware,Felton,Hardware store
+58,Chevron,Belmont,Gas station
+59,Cookies by Design,Pleasanton,Gift shop
+60,Couture Creations,,Florist
+61,Matlack Florist,West Chester,Florist
+62,Country Garden Florist,Clinton,Florist
+63,Lorgus Flower Shop,West Chester,Florist
+64,Carroll's Florist,Beverly,Florist
+65,Arugula Tango,,Florist
+66,Danielson Flowers Inc,Shrewsbury,Florist
+67,Yasiris Matias Floral Designer,,Florist
+68,Lori's Florist,Pittsfield,Florist
+69,Topiary 219,Chester Springs,Florist
+70,Maryniski's Flowers & Greenhouse,Palmer,Florist
+71,Naomi's Regional Floral Fulfillment Service,Chester,Florist
+72,Green Thumb Florist,Brimfield,Florist
+73,Floral Elegance,Millbury,Florist
+74,DODO'S PHLOWERS,Leominster,Florist
+75,Davis & Sawin Florist,Boston,Florist
+76,Workbench Main St,Pleasanton,Hardware store
+77,A Bella Mia Flowers,Norwood,Florist
+78,Evergreen Florist,Stoneham,Florist
+79,Designs By Don Inc,Wilmington,Florist
+80,Petals & Things Florist,West Chester Township,Florist
+81,The Flower Shoppe of Eric's,Reading,Florist
+82,Hillside Florist & Gifts,Woburn,Florist
+83,The Country Florist,Pepperell,Florist
+84,Especially Yours Florist,South Easton,Florist
+85,Posies 'N Presents,Sutton,Florist
+86,Ward's Florist & Greenhouse,Beverly,Florist
+87,Brian's Country Greenery Florist,Bellingham,Florist
+88,Town And Country Flower Shop,Southbridge,Florist
+89,Welch Florist,Lynn,Florist
+90,The Floral Gallery,Marlborough,Florist
+91,The Frugal Flower,Sudbury,Florist
+92,"Valley Florist, Greenhouses & Gift Shop",East Templeton,Florist
+93,Main Street Florist,Fall River,Florist
+94,Ray's Flower Shop,Fall River,Florist
+95,MP Florals,Hyannis,Florist
+96,Sowle The Florist,New Bedford,Florist
+97,Bridgewater Florist,Bridgewater,Florist
+98,Affairs to Remember,Melrose,Florist
+99,Chevron,Millbrae,Gas station
+100,Hunter's Creative Florist,Chester,Florist
+101,"Mount Williams Greenhouses, inc.",North Adams,Florist
+102,Back Bay Florist,Boston,Florist
+103,Quadland's Flowers & Gifts,North Adams,Florist
+104,Terrain,Walnut Creek,Home goods store
+105,Edith's Flowers,Holden,Florist
+106,A Whole Bunch Flower Market,Burlington,Florist
+107,Lopez the Florist,Dorchester,Florist
+108,Floral Arts Flowers,Westford,Florist
+109,Perro's Flowers,Worcester,Florist
+110,The Black Opal Florist,North Attleborough,Florist
+111,Derby Farm Flowers & Gardens,Arlington,Florist
+112,Robin's Flower Shop,Boston,Florist
+113,Wildflower Designs,Malden,Florist
+114,Lotus Designs,Boston,Florist
+115,One Main Street Studio,Stow,Florist
+116,Frank's Flowers,Springfield,Florist
+117,Last Minute Gifts and Flowers,Gardner,Florist
+118,Durocher Florist,West Springfield,Florist
+119,Central Square Florist,Cambridge,Florist
+120,Currans Flowers,Danvers,Florist
+121,The Flower Box,Springfield,Florist
+122,Floral Affairs,Greenfield,Florist
+123,Cauley's Florist and Garden Center,Fitchburg,Florist
+124,Gordon Florist & Greenhouses,Ipswich,Florist
+125,The Gilded Lily,Springfield,Florist
+126,Creative Florist,Cherry Valley,Florist
+127,Mystic Florist,Somerville,Florist
+128,Bedford Florist,Bedford,Florist
+129,Xavier's Flower Shop,Fall River,Florist
+130,Bourne Florist,Bourne,Florist
+131,Pondview Florist,Winchester,Florist
+132,Diersch Flowers,Weymouth,Florist
+133,Novello's Florist,Danvers,Florist
+134,Russell's Florist,Gloucester,Florist
+135,Touch of Grace Florist & Gift Shop,Dartmouth,Florist
+136,Robin's Corner Flower Shop,Taunton,Florist
+137,Paul's Flowers,Millis,Florist
+138,77 Blossom Shop,Uxbridge,Florist
+139,Flowers By Lorraine,Lynn,Florist
+140,Almquist Flowerland,Quincy,Florist
+141,Petal & Stem,South Yarmouth,Florist
+142,Westchester Flower Shop,Port Chester,Florist
+143,Sunnyside Gardens,Hopkinton,Florist
+144,Farley Flowers Hillside Gardens,West Bridgewater,Florist
+145,Salvy the Florist,Lynn,Florist
+146,Bee & Blossom,Hyannis,Florist
+147,Candlelight & Roses Flowers,North Billerica,Florist
+148,Branco the Florist,Lawrence,Florist
+149,Anderson's Florist,Arlington,Florist
+150,Yelenna's Flowers,Norwood,Florist
+151,Treeland Florists & Greenhouses,New Bedford,Florist
+152,Forget Me Not Florist,Northampton,Florist
+153,"Hartstone Flower, Inc.",South Weymouth,Florist
+154,Bella's Floral Design,,Florist
+155,Kingston Florist,Kingston,Florist
+156,Pomfret Florist,Somerset,Florist
+157,"Classic Flowers, Inc.",Chelmsford,Florist
+158,"Francis Flowers, Inc.",Milford,Florist
+159,Awesome Blossom,Cohasset,Florist
+160,Heritage Flowers,Lakeville,Florist
+161,Port Chester Florist,Port Chester,Florist
+162,Debra's Flowers,Holliston,Florist
+163,Island Flowers,Chester,Florist
+164,Beach Plum Flower Shop,Newburyport,Florist
+165,Garlington Florist,New Bedford,Florist
+166,Winston Flowers - Back Bay,Boston,Florist
+167,Crickets Florist,Lexington,Florist
+168,Anderson Florist,Waltham,Florist
+169,Flowers By Stella,Ayer,Florist
+170,Thayer's Flowers Inc.,South Harwich,Florist
+171,Braintree Flower Shop,Braintree,Florist
+172,Blooms To Doors,Allston,Florist
+173,Flower Garden,Webster,Florist
+174,Petals Inc,Peabody,Florist
+175,The Crimson Petal Inc.,Newton,Florist
+176,All Occasions Hudson Florist,Hudson,Florist
+177,De Bonis & Davin Florist Inc,Fitchburg,Florist
+178,Coleen's Flower Shop,Dorchester,Florist
+179,Nuttelman's Florists,Northampton,Florist
+180,Jayne's Flowers - Boston,Boston,Florist
+181,Petal Pushers Floral Studio,Natick,Florist
+182,Concord Flower Shop,Concord,Florist
+183,Market Floral Studio,Boston,Florist
+184,Lily's Florist and Gifts,South Yarmouth,Florist
+185,The Frugal Flower,Sudbury,Florist
+186,Evans Flowers & Greenhouse,Peabody,Florist
+187,Stoughton Flower Shop,Stoughton,Florist
+188,Giselle's Flowers and Gifts,Roxbury,Florist
+189,Winston Flowers - Chestnut Hill,Newton,Florist
+190,The Flower Mill,Lowell,Florist
+191,Flowers By Lily,Revere,Florist
+192,Winston Flowers - Concord,Concord,Florist
+193,Busy Bee Florists,Newton,Florist
+194,Beech Tree Floral Designs,Middleton,Florist
+195,Colonial Gardens Full Service Florist & Garden Center,Concord,Florist
+196,Nolan's Flowers & Gifts,Attleboro Falls,Florist
+197,Finally Flowers,Lowell,Florist
+198,Martin's Flowers & Gifts,Methuen,Florist
+199,Needham Florist,Needham,Florist
+200,Hutcheon's Flower Co.,Abington,Florist
+201,Sunny Florists,South Boston,Florist
+202,Brasco Florist,Waltham,Florist
+203,The Flower Pot,Maynard,Florist
+204,Angelo The Florist,Haverhill,Florist
+205,Flowers Forever,Whitman,Florist
+206,Flower Power,111 Lenox St,Florist
+207,Denise's Flower Shop,35 Pleasant St,Florist
+208,Atkins Farm Flower Shop,1150 West St,Florist
+209,Holland's Flowers,S Main St,Florist
+210,Carole's Flowers and Gifts,372 Court St,Florist
+211,All Purpose Flowers,29 Lexington Ave,Florist
+212,Appleblossoms,150A Main St,Florist
+213,Waltham's Florist,174 Lexington St,Florist
+214,Macmannis Florist & Greenhouses,2108 Main St,Florist
+215,Stevens The Florist,160 South St,Florist
+216,Hawes Florist,70 Powder Mill Rd,Florist
+217,Flowers By Maryellen,1179 Ocean St,Florist
+218,Central Florist & Nursery,928 Park St,Florist
+219,Lavender,137 Main St,Florist
+220,Amanda's Flowers,12 Tremont St,Florist
+221,Jayne's Flowers - Belmont,377 Trapelo Rd,Florist
+222,Floral Scents,604 Washington St,Florist
+223,Golden Blossom Flowers & Gifts,205 Grattan St,Florist
+224,Florals From The Heart,224 Whippoorwill Dr,Florist
+225,Posies of Wellesley,158 E Central St,Florist
+226,Burlington Florist,Burlington,Florist
+227,Green Akers Florist,North Easton,Florist
+228,"Ladybug Florist, Inc.",Oxford,Florist
+229,Flowers By Marianne,Amesbury,Florist
+230,Cambridge Florist,Cambridge,Florist
+231,Winston Flowers - Hingham,Hingham,Florist
+232,"Lovell's Flowers, Greenhouse & Nursery",Medfield,Florist
+233,Winston Flowers - Wellesley,Wellesley,Florist
+234,"Carey's Flowers, Inc.",South Hadley,Florist
+235,1-800-Flowers Boston Florist,,Florist
+236,Blue Moon Florist & Gift Shop,Downingtown,Florist
+237,Evans Flowers,,Florist
+238,Watertown Florist Shop,Watertown,Florist
+239,Stop & Shop Florist,,Florist
+240,E C Florist & Gifts,Brookline,Florist
+241,Stop & Shop Florist,Northampton,Florist
+242,Blossoms Flower Shop,Mattapoisett,Florist
+243,Birch Flower Shop,Roslindale,Florist
+244,Clifford's,Quincy,Florist
+245,Blair's Florist,Aston,Florist
+246,Burlington Florist,Burlington,Florist
+247,Green Akers Florist,North Easton,Florist
+248,"Ladybug Florist, Inc.",Oxford,Florist
+249,Flowers By Marianne,Amesbury,Florist
+250,Cambridge Florist,Cambridge,Florist
+251,Winston Flowers - Hingham,Hingham,Florist
+252,"Lovell's Flowers, Greenhouse & Nursery",Medfield,Florist
+253,Winston Flowers - Wellesley,Wellesley,Florist
+254,"Carey's Flowers, Inc.",South Hadley,Florist
+255,Chalifour's Flowers,Manchester,Florist
+256,Anthony's Flowers,Chestertown,Florist
+257,Judy's Village Flowers,Foxborough,Florist
+258,Langone's Florist,Springfield,Florist
+259,E C Flowers,Brookline,Florist
+260,Colonial Gardens Florist And Greenhouses,Concord,Florist
+261,Calisi Flowers,Hyde Park,Florist
+262,Flowers By Marianne,Hampton Falls,Florist
+263,Westford Florist,Westford,Florist
+264,Madison Flower Shop & Garden Center,Madison,Florist
+265,York Flowers,Washington,Florist
+266,Baysore's Flower Shop,Mason,Florist
+267,Stop & Shop Florist,Holyoke,Florist
+268,Chester's Flower Shop and Greenhouses,Utica,Florist
+269,Always In Bloom,Marion,Flower designer
+270,Blossoming Acres Putnam Farm,Southwick,Farm
+271,Harrington Flowers,Londonderry,Florist
+272,Crickets Flowers,Lexington,Florist
+273,Flowers On Chestnut,Nantucket,Florist
+274,"Fleur-de-lis, Flowers and Gifts",Starkville,Florist
+275,Chalifour's Flowers,Manchester,Florist
+276,Anthony's Flowers,Chestertown,Florist
+277,Judy's Village Flowers,Foxborough,Florist
+278,Langone's Florist,Springfield,Florist
+279,E C Flowers,Brookline,Florist
+280,Colonial Gardens Florist And Greenhouses,Concord,Florist
+281,Calisi Flowers,Hyde Park,Florist
+282,Flowers By Marianne,Hampton Falls,Florist
+283,Westford Florist,Westford,Florist
+284,Madison Flower Shop & Garden Center,Madison,Florist
+285,York Flowers,Washington,Florist
+286,Stop & Shop,Pittsfield,Grocery store
+287,Stop & Shop,Pittsfield,Grocery store
+288,Steve's Hallmark,San Jose,Gift shop
+289,Lindt Chocolate Shop,Lee,Gift shop
+290,Stop & Shop,Westfield,Grocery store
+291,Big Y World Class Market,Pittsfield,Grocery store
+292,Lee Hardware True Value,Lee,Hardware store
+293,Stop & Shop Pharmacy,Pittsfield,Pharmacy
+294,Dollar Tree,Westfield,Dollar store
+295,Price Chopper,Great Barrington,Supermarket
+296,Stop & Shop,Northampton,Grocery store
+297,Wonder Bakery Outlet,North Reading,Bakery
+298,River Valley Co-op,Northampton,Grocery store
+299,Mahoney's Garden Centers,Concord,Garden center
+300,Stop & Shop,Natick,Grocery store
+301,Price Chopper Pharmacy,Great Barrington,Pharmacy
+302,Manchester Hardware,Easthampton,Home improvement store
+303,Wonder Bread Bakery Outlet,Fitchburg,Bakery
+304,Edinboro Flower Shop,Marlborough,
+305,Lepage Bakeries Inc.,Auburn,Bakery
+306,Candy Jar,Pembroke,
+307,Gedney Farm,,3-star hotel
+308,Abbey Domond Photography,,Wedding photographer
+309,Rob Alberti's Event Services,Westfield,Wedding service
+310,Legacy Funeral Home,Westfield,Funeral home
+311,The Arbors Assisted Living at Westfield,Westfield,Assisted living facility
+312,Highland Valley Elder Services,Westfield,Senior citizen center
+313,Anson Flower Farm & Nursery,Southwick,Plant nursery
+314,Genesis HealthCare Westfield Center,Westfield,Nursing home
+315,Belle Mer: A Longwood Venue,Newport,Event venue

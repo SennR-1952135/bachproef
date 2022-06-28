@@ -1,0 +1,59 @@
+,year,country,city
+0,2016,China,Xiamen
+1,2016,China,Xiamen
+2,2016,China,Tianjin
+3,2015,China,Qingdao
+4,2015,China,Hefei
+5,2015,China;China,Tianjin;Xiamen
+6,2015,China,Hefei
+7,2015,China;United States,Xiamen;Urbana
+8,2015,China,Hefei
+9,2015,China;United States,Harbin;Belmont
+10,2015,China;United States,Xiamen;Urbana
+11,2015,China,Tianjin
+12,2015,China,Wuhan
+13,2015,China;China,Tianjin;Xiamen
+14,2015,China;United States,Harbin;Belmont
+15,2014,China,Xiamen
+16,2014,China,Hefei
+17,2014,China;United States;China,Harbin;Belmont;Shanghai
+18,2014,Italy,Rende
+19,2014,China;United States;China;China,Harbin;Belmont;Guangdong;Shanghai
+20,2014,China,Changchun
+21,2014,China,Xiamen
+22,2014,China,Hefei
+23,2014,China,Xiamen
+24,2013,France;France,Paris;Paris
+25,2013,China,Wuhan
+26,2013,United States,Troy
+27,2013,China,Changchun
+28,2013,China,Xi'an
+29,2012,China,Changchun
+30,2012,France;France;France,Marseille;Rennes;Paris
+31,2012,United States,Ann Arbor
+32,2011,China,Nanjing
+33,2011,United States,Troy
+34,2011,China,Changchun
+35,2011,Canada,Toronto
+36,2010,United Kingdom,London
+37,2010,United States;United States,Boston;Cambridge
+38,2010,Italy,Turin
+39,2009,Italy;Italy,Turin;Turin
+40,2009,China;China,Shanghai;Beijing
+41,2009,United Kingdom,London
+42,2009,Italy,Turin
+43,2009,China,Beijing
+44,2009,Italy,Catania
+45,2009,China;China,Beijing;Beijing
+46,2009,Italy,Turin
+47,2007,United Kingdom,Colchester
+48,2006,United Kingdom;Germany,Brentford;Heidelberg
+49,2006,Germany,Neuherberg
+50,2005,Hungary;Hungary,Budapest;Budapest
+51,2004,United States,Ann Arbor
+52,2004,Germany;Germany,Neuherberg;Munich
+53,2003,New Zealand;United Kingdom,Dunedin;Aberdeen
+54,2003,Spain;United States,Tarragona;Evanston
+55,2002,United States;United States,Santa Fe;Ithaca
+56,2002,Germany;Germany,Freising;Neuherberg
+57,2000,United States,Notre Dame

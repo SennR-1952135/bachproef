@@ -1,0 +1,182 @@
+,status,creator,description
+0,Open,lingchao,"Hi,
+
+The following code snippets throw an IOException: Stream closed. It works well before commons-io 2.6. When I update commons-io to 2.6, it failed. There is a backward incompatibility bug behind it.
+
+The function code:
+
+{code:java}
+public class Demo {
+	  private void backupFile(String srcPath, String entryPath, ZipOutputStream stream) throws IOException {
+		    ZipEntry zipEntry = new ZipEntry(entryPath);
+		    stream.putNextEntry(zipEntry);
+		    Files.copy(Paths.get(srcPath), stream);
+		  }
+	  private void backupDir(String srcDir, String dstDir, ZipOutputStream stream) throws IOException {
+		    File dir = new File(srcDir);
+		    for (String path : dir.list()) {
+		      System.out.println(path);
+		      backupFile(dir.getAbsolutePath() + File.separator + path, dstDir + File.separator + path, stream);
+		    }
+		  }
+	  public void backup(String name) throws IOException {
+		      Files.createDirectories(Paths.get(""/Users/chenlingchao/eclipse_projects/workspace/BBI.BugDetection""));
+		      ZipOutputStream stream = new ZipOutputStream(
+		          Files.newOutputStream(Paths.get(""/Users/chenlingchao/eclipse_projects/workspace/BBI.BugDetection/tmp"" + File.separator + name)));
+		      try {
+		        backupDir(""/Users/chenlingchao/eclipse_projects/workspace/BBI.BugDetection/tmp"", ""meta"" + File.separator + ""tables"", stream);
+		        stream.closeEntry();
+		      } finally {
+		        stream.close();
+		      }
+		    }
+	  
+	  public void restore(String name) throws IOException {
+		      ZipInputStream stream = new ZipInputStream(
+		          Files.newInputStream(Paths.get(""/Users/chenlingchao/eclipse_projects/workspace/BBI.BugDetection/tmp"" + File.separator + name)));
+		      try {
+		        ZipEntry entry;
+		        while ((entry = stream.getNextEntry()) != null) {
+		          FileUtils.copyToFile(stream, new File(""/Users/chenlingchao/eclipse_projects/workspace/BBI.BugDetection/tmp"" + File.separator + entry.getName()));
+		        }
+		      } finally {
+		        stream.close();
+		      }
+		  }
+}
+{code}
+
+The test code:
+
+{code:java}
+	@Test
+	public void TestDemo() throws IOException{
+    Demo test = new Demo();
+    test.backup(""test.zip"");
+    test.restore(""test.zip"");
+	}
+	
+{code}
+
+"
+1,Open,matthias-ronge,"{{FilenameUtils.concat(""../../../../src/test/resources/"", ""filename.xml"")}}
+
+returns {{null}}, where expected result should be like
+
+{{../../../../src/test/resources/filename.xml}}"
+2,Open,ichbinkeinreh,"On most unix filesystems only null byte and / are reserved characters. So its perfectly valid to have a file called ""C:"".
+
+If the getPrefixLength method is called for the path of such a file then it returns 2 whereas the expected value is 0."
+3,Open,loonydevil,"When trying to copy file on CEPH filesystem, FileUtils.copyFile fails with exception. I don't see any workaround except of replacing that call and rebuilding the project.
+
+*Test Case*:
+
+Here's a simple class to reproduce the issue:
+
+ 
+
+ 
+{code:java}
+import org.apache.commons.io.FileUtils;
+import java.io.File;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Files;
+
+public class Test3 {
+    public static void main(String[] args) throws IOException {
+        PrintWriter writer = new PrintWriter(""file.txt"", ""UTF-8"");
+        writer.println(""test input "" + Math.random());
+        writer.close();
+        FileUtils.copyFile(new File(""file.txt""), new File(""file-copy.txt""));
+    }
+}
+{code}
+below is the stacktrace:
+{code:java}
+Exception in thread ""main"" java.io.IOException: No such device at sun.nio.ch.FileChannelImpl.map0(Native Method) at sun.nio.ch.FileChannelImpl.map(FileChannelImpl.java:926) at sun.nio.ch.FileChannelImpl.transferFromFileChannel(FileChannelImpl.java:634) at sun.nio.ch.FileChannelImpl.transferFrom(FileChannelImpl.java:708) at org.apache.commons.io.FileUtils.doCopyFile(FileUtils.java:1131) at org.apache.commons.io.FileUtils.copyFile(FileUtils.java:1076) at org.apache.commons.io.FileUtils.copyFile(FileUtils.java:1028) at ztst.Test3.main(Test3.java:17)
+{code}
+Here's our server's file system configuration:
+{code:java}
+1. a squashfs (read only) image stored on a ceph's rbd
+2. a directory on cephfs (read/write)
+
+1 is the lower layer and 2 is the upper layer of an unionfs mount with the following options:
+
+cow
+max_files=32768
+allow_other
+use_ino
+direct_io
+statfs_omit_ro
+nonempty
+{code}
+ "
+4,Open,ohadr,"FilenameUtils.isExtension() is case-sensitive. 
+
+All 3 implementations of this method call String.equals() rather than equalsIgnoreCase(), so it means that if my extension is ""jpg"", for example, and my filename is something.JPG, the method (any of them) will return 'false'.
+
+ 
+
+fix suggestion: should use the method [FilenameUtils.eqauls(...)|https://github.com/apache/commons-io/blob/master/src/main/java/org/apache/commons/io/FilenameUtils.java#L1200]
+
+ "
+5,Open,pranet,"When the destination directory is on a different filesystem, the documentation says we need to copy and delete. In case the delete fails, org.apache.commons.io.FileUtils.moveFile(File, File) will attempt to delete the destination file too before throwing an error, but
+org.apache.commons.io.FileUtils.moveDirectory(File, File) will directly throw an error without deleting the newly copied (created) destination directory. Is this intentional?"
+6,Open,atroxaper,"org.apache.commons.io.FilenameUtils#directoryContains uses startWith-logic to find out result.
+It is wrong for cases like directoryContains(""/a"", ""/aa"").
+
+In patch:
+# improve the method logic
+# write tests for the method
+# clean up the method's javaDoc"
+7,Open,adammcclenaghan,"FilenameUtils#normalizeNoEndSeparator states in the javadoc that :
+ ""A double slash will be merged to a single slash (but UNC names are handled).""
+
+It has been observed that if a double backslash occurs after the colon in a windows filepath, then the returned path still contains this double backslash. For example:
+{code:java}
+C:\\Program Files\\ExampleDirectory  -->  C:\\Program Files\ExampleDirectory {code}
+While the expectation is that we should be returning ' C:\Program Files\ExampleDirectory '
+
+ "
+8,Open,mdernst,"https://commons.apache.org/proper/commons-io/source-repository.html
+says:
+
+> Anonymous Access
+> 
+> The source can be checked out anonymously from Git with this command:
+> 
+> git clone --branch commons-io-2.6 http://git-wip-us.apache.org/repos/asf/commons-io.git
+
+However, when I run that command, I get:
+
+% git clone --branch commons-io-2.6 http://git-wip-us.apache.org/repos/asf/commons-io.git
+Cloning into 'commons-io'...
+warning: redirecting to https://git1-us-west.apache.org/repos/asf/commons-io.git/
+fatal: Remote branch commons-io-2.6 not found in upstream origin
+
+The tags include these:
+
+commons-io-2.5
+commons-io-2.5-RC1
+commons-io-2.5-RC2
+commons-io-2.5-RC3
+commons-io-2.5-RC4
+commons-io-2.6-RC1
+commons-io-2.6-RC2
+commons-io-2.6-RC3
+
+but there is no tag for commons-io-2.6."
+9,Open,tmortagne,"If the the inputstream support mark it should switch back from ClosedInputStream to initial InputStream and call reset on it.
+
+To reproduce:
+
+{code}
+        AutoCloseInputStream stream = new AutoCloseInputStream(new ByteArrayInputStream(""toto"".getBytes()));
+
+        stream.mark(""toto"".length());
+        while (stream.read(new byte[1]) != -1);
+        stream.reset();
+{code}
+
+Among other things it's causing TIKA-2395."

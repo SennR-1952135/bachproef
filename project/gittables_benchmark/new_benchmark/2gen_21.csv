@@ -1,0 +1,73 @@
+,year,country,city
+0,2015,Germany,Heidelberg
+1,2014,United States,Jefferson
+2,2014,Australia;Australia,Melbourne;Parkville
+3,2014,Australia,Melbourne
+4,2014,Australia;Australia,Melbourne;Parkville
+5,2014,Australia;Australia,Melbourne;Parkville
+6,2014,,
+7,2014,United Kingdom,Cambridge
+8,2013,United States;United States,Bethesda;Detroit
+9,2013,Australia;Australia,Melbourne;Parkville
+10,2013,Australia;United States,Melbourne;Cambridge
+11,2013,United States,New York
+12,2013,Australia;Australia;United States,Melbourne;Melbourne;Cambridge
+13,2013,Australia;Australia,Melbourne;Parkville
+14,2013,Australia;Australia,Melbourne;Parkville
+15,2012,Australia;Australia;United States,Melbourne;Parkville;Cambridge
+16,2012,United States,Baltimore
+17,2011,Italy,Milan
+18,2011,United States,Madison
+19,2011,United States,Cambridge
+20,2010,Australia,Melbourne
+21,2010,Australia,Melbourne
+22,2010,Germany,Heidelberg
+23,2010,Australia;Australia,Melbourne;Parkville
+24,2010,Australia,Melbourne
+25,2010,,
+26,2010,Australia;Australia,Melbourne;Parkville
+27,2010,Australia;Australia,Melbourne;Sydney
+28,2010,Australia,Melbourne
+29,2010,Australia,Melbourne
+30,2009,Australia;Australia,Melbourne;Sydney
+31,2009,Australia;Australia,Melbourne;Parkville
+32,2009,Denmark;Australia,Copenhagen;Melbourne
+33,2009,Australia,Melbourne
+34,2009,Australia,Melbourne
+35,2008,United States,Seattle
+36,2008,Netherlands,Wageningen
+37,2008,Australia;Australia;Switzerland,Melbourne;Parkville;Lausanne
+38,2007,United Kingdom,Cambridge
+39,2007,Switzerland,"Zurich ZH,"
+40,2007,Spain,Madrid
+41,2007,Australia,Melbourne
+42,2006,United States,Cincinnati
+43,2006,France,Paris
+44,2006,United States,Ames
+45,2006,Austria;Austria,Graz;Innsbruck
+46,2006,Australia,Melbourne
+47,2006,Australia,Melbourne
+48,2005,United States,San Diego
+49,2005,United States,Cambridge
+50,2005,Norway,Trondheim
+51,2005,Switzerland,Lausanne
+52,2005,Australia,Melbourne
+53,2005,Australia,Melbourne
+54,2005,Norway,As
+55,2005,United States,Cambridge
+56,2004,Australia,Melbourne
+57,2004,Australia,Melbourne
+58,2004,United States,Boston
+59,2003,United States;United States;United States,Cambridge;Boston;Boston
+60,2003,United States,Berkeley
+61,2003,Australia,Melbourne
+62,2002,United States,Seattle
+63,2002,Germany;Switzerland,Munich;Basel
+64,2002,United States,Berkeley
+65,2002,United States,Berkeley
+66,2001,Israel,Jerusalem
+67,2001,United States,Berkeley
+68,2000,,
+69,1986,United Kingdom;United Kingdom,Harrow;London
+70,1983,United States,Austin
+71,1973,United States,Palo Alto

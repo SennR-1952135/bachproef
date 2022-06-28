@@ -1,0 +1,8 @@
+,category,name
+0,Miscellaneous,Specify category as name
+1,CAT1,Specify category as idnumber
+2,1,Specify category as id
+3,Cat 1 / Cat 3,Specify category as path
+4,,Specify category_id
+5,,Specify category_idnumber
+6,,Specify category_path

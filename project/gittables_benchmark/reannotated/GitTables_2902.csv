@@ -1,0 +1,79 @@
+,code,type
+0,130,Ophthalmology
+1,990,Support Services
+2,100,General Surgery
+3,101,Urology
+4,110,Trauma & Orthopaedics
+5,120,ENT
+6,140,Oral Surgery
+7,141,Restorative Dentistry
+8,142,Paediatric Dentistry
+9,143,Orthodontics
+10,145,Oral & Maxillo Facial Surgery
+11,146,Endodontics
+12,147,Periodontics
+13,148,Prosthodontics
+14,149,Surgical Dentistry
+15,150,Neurosurgery
+16,160,Plastic Surgery
+17,170,Cardiothoracic Surgery
+18,171,Paediatric Surgery
+19,180,Accident & Emergency
+20,190,Anaesthetics
+21,192,Critical Care Medicine
+22,300,General Medicine
+23,301,Gastroenterology
+24,302,Endocrinology
+25,303,Clinical Haematology
+26,304,Clinical Physiology
+27,305,Clinical Pharmacology
+28,310,Audiological Medicine
+29,311,Clinical Genetics
+30,312,Clinical Cytogenics and Molecular Genetics
+31,313,Clinical Immunology and Allergy
+32,314,Rehabilitation
+33,315,Palliative Medicine
+34,320,Cardiology
+35,321,Paediatric Cardiology
+36,330,Dermatology
+37,340,Respiratory Medicine
+38,350,Infectious Diseases
+39,352,Tropical Medicine
+40,360,Genitourinary Medicine
+41,361,Nephrology
+42,370,Medical Oncology
+43,371,Nuclear Medicine
+44,400,Neurology
+45,401,Clinical Neuro-physiology
+46,410,Rheumatology
+47,420,Paediatrics
+48,421,Paediatric Neurology
+49,430,Geriatric Medicine
+50,450,Dental Medicine Specialties
+51,460,Medical Ophthalmology
+52,500,Obstetrics and Gynaecology
+53,501,Obstetrics
+54,502,Gynaecology
+55,560,Midwife Episode
+56,700,Learning Disability
+57,710,Adult Mental Illness
+58,711,Child and Adolescent Psychiatry
+59,712,Forensic Psychiatry
+60,713,Psychotherapy
+61,715,Old Age Psychiatry
+62,800,Clinical Oncology
+63,810,Radiology
+64,820,General Pathology
+65,821,Blood Transfusion
+66,822,Chemical Pathology
+67,823,Haematology
+68,824,Histopathology
+69,830,Immunopathology
+70,831,Medical Microbiology and Virology
+71,900,Community Medicine
+72,901,Occupational Medicine
+73,902,Community Health Services Dental
+74,903,Public Health Medicine
+75,904,Public Health Dental
+76,950,Nursing Episode
+77,960,Allied Health Professional Episode

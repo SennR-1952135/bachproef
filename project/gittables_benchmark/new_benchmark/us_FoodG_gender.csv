@@ -1,0 +1,172 @@
+,gender,age,year
+0,Males,2 -5,2005_06
+1,Males,6 - 11,2005_06
+2,Males,12 - 19,2005_06
+3,Males,20 - 29,2005_06
+4,Males,30 - 39,2005_06
+5,Males,40 - 49,2005_06
+6,Males,50 - 59,2005_06
+7,Males,60 - 69,2005_06
+8,Males,70 and over,2005_06
+9,Males,20 and over,2005_06
+10,Females,2 -5,2005_06
+11,Females,6 - 11,2005_06
+12,Females,12 - 19,2005_06
+13,Females,20 - 29,2005_06
+14,Females,30 - 39,2005_06
+15,Females,40 - 49,2005_06
+16,Females,50 - 59,2005_06
+17,Females,60 - 69,2005_06
+18,Females,70 and over,2005_06
+19,Females,20 and over,2005_06
+20,Males and females,2 and over,2005_06
+21,Males,2 -5,2007_08
+22,Males,6 - 11,2007_08
+23,Males,12 - 19,2007_08
+24,Males,20 - 29,2007_08
+25,Males,30 - 39,2007_08
+26,Males,40 - 49,2007_08
+27,Males,50 - 59,2007_08
+28,Males,60 - 69,2007_08
+29,Males,70 and over,2007_08
+30,Males,20 and over,2007_08
+31,Females,2 -5,2007_08
+32,Females,6 - 11,2007_08
+33,Females,12 - 19,2007_08
+34,Females,20 - 29,2007_08
+35,Females,30 - 39,2007_08
+36,Females,40 - 49,2007_08
+37,Females,50 - 59,2007_08
+38,Females,60 - 69,2007_08
+39,Females,70 and over,2007_08
+40,Females,20 and over,2007_08
+41,Males and females,2 and over,2007_08
+42,Males,2 -5,2009_10
+43,Males,6 - 11,2009_10
+44,Males,12 - 19,2009_10
+45,Males,20 - 29,2009_10
+46,Males,30 - 39,2009_10
+47,Males,40 - 49,2009_10
+48,Males,50 - 59,2009_10
+49,Males,60 - 69,2009_10
+50,Males,70 and over,2009_10
+51,Males,20 and over,2009_10
+52,Females,2 -5,2009_10
+53,Females,6 - 11,2009_10
+54,Females,12 - 19,2009_10
+55,Females,20 - 29,2009_10
+56,Females,30 - 39,2009_10
+57,Females,40 - 49,2009_10
+58,Females,50 - 59,2009_10
+59,Females,60 - 69,2009_10
+60,Females,70 and over,2009_10
+61,Females,20 and over,2009_10
+62,Males and females,2 and over,2009_10
+63,Males,2 -5,2011_12
+64,Males,6 - 11,2011_12
+65,Males,12 - 19,2011_12
+66,Males,20 - 29,2011_12
+67,Males,30 - 39,2011_12
+68,Males,40 - 49,2011_12
+69,Males,50 - 59,2011_12
+70,Males,60 - 69,2011_12
+71,Males,70 and over,2011_12
+72,Males,2 - 19,2011_12
+73,Males,20 and over,2011_12
+74,Males,2 and over,2011_12
+75,Females,2 -5,2011_12
+76,Females,6 - 11,2011_12
+77,Females,12 - 19,2011_12
+78,Females,20 - 29,2011_12
+79,Females,30 - 39,2011_12
+80,Females,40 - 49,2011_12
+81,Females,50 - 59,2011_12
+82,Females,60 - 69,2011_12
+83,Females,70 and over,2011_12
+84,Females,2 - 19,2011_12
+85,Females,20 and over,2011_12
+86,Females,2 and over,2011_12
+87,Males and females,2 - 19,2011_12
+88,Males and females,20 and over,2011_12
+89,Males and females,2 and over,2011_12
+90,Males,2 -5,2013_14
+91,Males,6 - 11,2013_14
+92,Males,12 - 19,2013_14
+93,Males,20 - 29,2013_14
+94,Males,30 - 39,2013_14
+95,Males,40 - 49,2013_14
+96,Males,50 - 59,2013_14
+97,Males,60 - 69,2013_14
+98,Males,70 and over,2013_14
+99,Males,2 - 19,2013_14
+100,Males,20 and over,2013_14
+101,Males,2 and over,2013_14
+102,Females,2 -5,2013_14
+103,Females,6 - 11,2013_14
+104,Females,12 - 19,2013_14
+105,Females,20 - 29,2013_14
+106,Females,30 - 39,2013_14
+107,Females,40 - 49,2013_14
+108,Females,50 - 59,2013_14
+109,Females,60 - 69,2013_14
+110,Females,70 and over,2013_14
+111,Females,2 - 19,2013_14
+112,Females,20 and over,2013_14
+113,Females,2 and over,2013_14
+114,Males and females,2 - 19,2013_14
+115,Males and females,20 and over,2013_14
+116,Males and females,2 and over,2013_14
+117,Males,2 -5,2015_16
+118,Males,6 - 11,2015_16
+119,Males,12 - 19,2015_16
+120,Males,20 - 29,2015_16
+121,Males,30 - 39,2015_16
+122,Males,40 - 49,2015_16
+123,Males,50 - 59,2015_16
+124,Males,60 - 69,2015_16
+125,Males,70 and over,2015_16
+126,Males,2 - 19,2015_16
+127,Males,20 and over,2015_16
+128,Males,2 and over,2015_16
+129,Females,2 -5,2015_16
+130,Females,6 - 11,2015_16
+131,Females,12 - 19,2015_16
+132,Females,20 - 29,2015_16
+133,Females,30 - 39,2015_16
+134,Females,40 - 49,2015_16
+135,Females,50 - 59,2015_16
+136,Females,60 - 69,2015_16
+137,Females,70 and over,2015_16
+138,Females,2 - 19,2015_16
+139,Females,20 and over,2015_16
+140,Females,2 and over,2015_16
+141,Males and females,2 - 19,2015_16
+142,Males and females,20 and over,2015_16
+143,Males and females,2 and over,2015_16
+144,Males,2 -5,2017_18
+145,Males,6 - 11,2017_18
+146,Males,12 - 19,2017_18
+147,Males,20 - 29,2017_18
+148,Males,30 - 39,2017_18
+149,Males,40 - 49,2017_18
+150,Males,50 - 59,2017_18
+151,Males,60 - 69,2017_18
+152,Males,70 and over,2017_18
+153,Males,2 - 19,2017_18
+154,Males,20 and over,2017_18
+155,Males,2 and over,2017_18
+156,Females,2 -5,2017_18
+157,Females,6 - 11,2017_18
+158,Females,12 - 19,2017_18
+159,Females,20 - 29,2017_18
+160,Females,30 - 39,2017_18
+161,Females,40 - 49,2017_18
+162,Females,50 - 59,2017_18
+163,Females,60 - 69,2017_18
+164,Females,70 and over,2017_18
+165,Females,2 - 19,2017_18
+166,Females,20 and over,2017_18
+167,Females,2 and over,2017_18
+168,Males and females,2 - 19,2017_18
+169,Males and females,20 and over,2017_18
+170,Males and females,2 and over,2017_18

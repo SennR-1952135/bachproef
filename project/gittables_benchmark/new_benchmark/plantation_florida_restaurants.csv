@@ -1,0 +1,281 @@
+,name,address,type
+0,J. Alexander's Restaurant,8550 W Broward Blvd,American
+1,Mustard Seed Bistro,256 S University Dr,New American
+2,Vignetos Italian Grill,1511 S University Dr,Italian
+3,Plantation Diner,6903 W Broward Blvd,Breakfast
+4,Thai Meal,8257 W Sunrise Blvd,Thai
+5,Al Natour Middle Eastern Restaurant,1787 N University Dr,Mediterranean
+6,La Bamba Mexican and Spanish Restaurant Plantation,10169 W Sunrise Blvd,Mexican
+7,Bonefish Grill,10197 W Sunrise Blvd,Seafood
+8,BRIO Tuscan Grille,499 S University Dr,Italian
+9,Chef Cristy's Vegan Plant-Based Cafe,5221 W Broward Blvd,Vegan
+10,"Padrino's Cuban, Plantation",801 S University Dr J-105,Cuban
+11,Sicilian Oven,801 S University Dr B116,Pizza
+12,Marumi Sushi,8271 W Sunrise Blvd,Sushi
+13,Bin 595,1230 S Pine Island Rd,Restaurant
+14,Carrabba's Italian Grill,1003 S University Dr,Italian
+15,Olive Garden Italian Restaurant,807 S University Dr,Italian
+16,Las Vegas Cuban Cuisine,7015 W Broward Blvd,Cuban
+17,Koume Japan,11905 W Sunrise Blvd,Japanese
+18,Ole' Ole' Mexican Grill & Cantina Restaurant,8100 W Broward Blvd,Mexican
+19,Duffy's Sports Grill,811 S University Dr,American
+20,Sushi Addicts,2909 Stirling Rd,Restaurant
+21,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+22,TooJay's Deli • Bakery • Restaurant,801 S University Dr,American
+23,Stromboli Pizza,801 S University Dr,Pizza
+24,Japan Inn,1781 N University Dr,Japanese
+25,Il Baretto Ristorante,220 S University Dr,Pizza
+26,Lime Fresh Mexican Grill,801 S University Dr,Mexican
+27,Bien Chido- Authentic Mexican Taqueria,6967 W Broward Blvd,Mexican
+28,Jacaranda | Italian Restaurant,8283 W Broward Blvd,Italian
+29,Vivace Gourmet Pizza & Pasta,9763 W Broward Blvd,Italian
+30,Zona Fresca,1095 S University Dr #3364,Mexican
+31,Ceviche 595,1910 S University Dr,Peruvian
+32,Me Hungry Vegetarian Restaurant,105 N State Rd 7,Restaurant
+33,LandLubber's Raw Bar & Grill,1851 N Pine Island Rd,Restaurant
+34,KIKO,801 S University Dr C - 112,Restaurant
+35,Zabb Thai & Sushi,8880 W State Rd 84,Thai
+36,Ovlo Eats,7626 Peters Rd,Health Food
+37,Sovereign,9723 W Broward Blvd,Restaurant
+38,MISSION BBQ,2411 S University Dr,Barbecue
+39,Thai Thai Restaurant and Sushi Bar,1861 N Pine Island Rd,Thai
+40,Gianna's Pizza Center,6975 W Broward Blvd,Italian
+41,Anthony's Coal Fired Pizza,512 N Pine Island Rd,Pizza
+42,Sushi Addicts,2909 Stirling Rd,Restaurant
+43,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+44,Jade Garden Restaurant,244 S University Dr,Chinese
+45,Amazing Asian Bistro,10101 Cleary Blvd,Asian
+46,Tin Fish,10053 Sunset Strip,Seafood
+47,"Riverside Market Plantation - Breakfast, Lunch, Dinner",6900 Cypress Rd,Restaurant
+48,Thai Thyme,7039 W Broward Blvd,Thai
+49,Quarterdeck Restaurants,12310 W Sunrise Blvd,Seafood
+50,Buster's Doughboys & Clam Cakes,8320 W Sunrise Blvd,Seafood
+51,Kristof's Kafe,8912 W State Rd 84,Restaurant
+52,Chili's Grill & Bar,813 S University Dr,Tex Mex
+53,Izgara Middle Eastern Cuisine,1251 S Pine Island Rd,Mediterranean
+54,Vienna Wine Bar,9100 W State Rd 84,European
+55,Dar Tajine Moroccan Restaurant,8281 W Sunrise Blvd,Moroccan
+56,Al-Salam Mediterranean Food,1816 N University Dr,Mediterranean
+57,Bokampers Sports Bar & Grill,1280 S Pine Island Rd,Grill
+58,Mr D's Pizza,4260 Peters Rd,Takeout Restaurant
+59,Chick-fil-A,8000 W Broward Blvd Ste 5005,Fast Food
+60,Broadway Bagels,10085 Cleary Blvd,Breakfast
+61,Sunrise Pita & Grill,2680 N University Dr,Restaurant
+62,Pieology Pizzeria Plantation,1760 N University Dr A,Pizza
+63,La Brasa Plantation,270 S University Dr,Restaurant
+64,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+65,Sushi Addicts,2909 Stirling Rd,Restaurant
+66,Plantation Preserve Restaurant,7050 W Broward Blvd,Buffet
+67,Jason's Deli,1361 S University Dr,Restaurant
+68,The Whole Enchilada Fresh Mexican Grill & Bar,8000 W Broward Blvd,Mexican
+69,CRAFT on 14,6600 Northwest 14th Street Bay #5,Gastropub
+70,The Original Pancake House,8460 W Broward Blvd,Breakfast
+71,Cinque Terre Italian Restaurant,7750 Nova Dr,Italian
+72,Five Guys,801 S University Dr,Hamburger
+73,IHOP,1393 S University Dr,Restaurant
+74,Shawarma Kingz Middle Eastern Cuisine,1893 N Pine Island Rd,Lebanese
+75,Red Lobster,803 S University Dr,Seafood
+76,The Dutch Pot Jamaican Restaurant,111 FL-7,Jamaican
+77,Just Spoons Cafe',455 SW 78th Ave,Restaurant
+78,Marian's Bagels,248 S University Dr,Breakfast
+79,Shanghai Garden,6916 Cypress Rd #2318,Chinese
+80,Stix Oriental,10057 Cleary Boulevard,Chinese
+81,First Watch - Plantation,7620 Peters Rd,Breakfast
+82,Mash'D,2266 S University Dr,Restaurant
+83,GYROVILLE,801 S University Dr,Mediterranean
+84,Tijuana Flats,1371 S University Dr,Tex Mex
+85,Caspian Persian Grill,7821 W Sunrise Blvd,Persian
+86,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+87,Sushi Addicts,2909 Stirling Rd,Restaurant
+88,Mandarin Village,8952 Cleary Blvd,Chinese
+89,The Habit Burger Grill,1740 N University Dr unit a,Hamburger
+90,Wong's Chinese Restaurant,8237 W Sunrise Blvd,Chinese
+91,First Watch - Sunrise,12594 W Sunrise Blvd,Breakfast
+92,Golden Wok Restaurant,859 N Nob Hill Rd,Chinese
+93,Mama's Caribbean Delight,532 S State Rd 7,Caribbean
+94,Ali's Roti Shop,303 S State Rd 7,Caribbean
+95,Pei Wei,522 N Pine Island Rd,Chinese
+96,East Acre Pub And Grub,5219 W Broward Blvd,Grill
+97,Antioquenita Bakery,315 S State Rd 7,Colombian
+98,Outback Steakhouse,1823 B N Pine Island Rd,Steak
+99,Ciro's Deli & Pizzeria Italian Restaurant,8840 W State Rd 84,Restaurant
+100,Sarku Japan,8000 W Broward Blvd Space # FC09,Japanese
+101,Panda Express,8000 W Broward Blvd,Chinese
+102,Vito's gourmet Pizza (plantation),10079 Cleary Blvd,Pizza
+103,La Granja,1895 N Pine Island Rd,Peruvian
+104,Smokey Bones Bar & Fire Grill,809 S University Dr,American
+105,Georgia Pig BBQ & Restaurant,1285 S State Rd 7,Barbecue
+106,El Merendon Latino,91 S State Rd 7,Salvadoran
+107,Emerald Thai Restaurant,8500 W State Rd 84,Thai
+108,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+109,Sushi Addicts,2909 Stirling Rd,Restaurant
+110,Flanigan's Seafood Bar and Grill,2190 S University Dr,American
+111,Negril Way,377 FL-7,Caribbean
+112,Denny's,1727 N University Dr,Diner
+113,Panda Express,1740 N University Dr,Chinese
+114,Golden Krust Caribbean Restaurant,1905 N Pine Island Rd,Caribbean
+115,Pho Brandon Vietnamese Cuisine,2692 N University Dr #2,Vietnamese
+116,Gobi Sushi,10025 Sunset Strip,Sushi
+117,Empire Sushi,6971 W Broward Blvd,Restaurant
+118,J Ristorante,8400 W Broward Blvd,Restaurant
+119,Azteca Mexican Restaurant,8800 W State Rd 84,Mexican
+120,Latin Flavor,735 S State Rd 7,Salvadoran
+121,Egg Roll Kingdom,5999 W Sunrise Blvd,Chinese
+122,La Belle Monique,937 S State Rd 7,Haitian
+123,Clean Juice Plantation,10053 Cleary Blvd,Health Food
+124,Miller's Ale House - Davie,2080 S University Dr,Restaurant
+125,Chipotle Mexican Grill,1760 N University Dr #2,Mexican
+126,Arby's,1851 N University Dr,Fast Food
+127,Apropo Crepes & Baguettes,2256 S University Dr,Restaurant
+128,Chicken Kitchen,6985 W Broward Blvd,Health Food
+129,Esposito's New York & Coal Fired Pizza,2221 S University Dr,Italian
+130,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+131,Sushi Addicts,2909 Stirling Rd,Restaurant
+132,Bites Asian Bistro,1860 N University Dr,Thai
+133,Subway,7169 W Broward Blvd Suite 207,Sandwich
+134,TGI Fridays,80 SW 84th Ave,Restaurant
+135,Ushio Sushi,2211 S University Dr,Sushi
+136,Webby's Grub & Pub,"2318 6910, Cypress Rd",Restaurant
+137,Yoka’s Off The Hook Sushi Cafe,8970 Cleary Blvd,Sushi
+138,LongHorn Steakhouse - Curbside To Go Available,2375 S University Dr,Steak
+139,Papa John's Pizza,7811 W Sunrise Blvd,Pizza
+140,Fitlife Foods Plantation,1043 S University Dr,Restaurant
+141,Subway,10041 Cleary Blvd Bay 20,Sandwich
+142,Hooks Fish & Chicken,6201 W Sunrise Blvd,Seafood
+143,Blaze Pizza,2135 S University Dr,Pizza
+144,Pine Court Chinese Bistro,10101 Sunset Strip,Chinese
+145,Mario the Baker,2220 N University Dr,Pizza
+146,Laspada's Original Hoagies - Davie,2645 S University Dr,Sandwich
+147,Red Robin Gourmet Burgers and Brews,8000 W Broward Blvd #422,Restaurant
+148,I Heart Mac & Cheese,2325 S University Dr,American
+149,Gyroday - Halal - Mediterranean Fast Food Restaurant,8000 W Broward Blvd #9038,Fast Food
+150,Boston Market,330 S University Dr,American
+151,Tasty Bakery,51 S State Rd 7,Restaurant
+152,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+153,Sushi Addicts,2909 Stirling Rd,Restaurant
+154,Wingstop,8263 W Sunrise Blvd,Chicken Wings
+155,Seasons 52,1862 Sawgrass Mills Cir,New American
+156,IZGARA EXPRESS,1251 S Pine Island Rd,Mediterranean
+157,Mama's Kitchen,1225 Sunset Strip,Jamaican
+158,Subway,7742 Peters Rd,Sandwich
+159,Hungry Howie's Pizza and Subs,1809 N Pine Island Rd,Pizza
+160,Miami Subs Grill,210 SW 40th Avenue,Fast Food
+161,Riverside Market,504109050020,Chicken Wings
+162,Siam Curry Thai & Japanese,,Thai
+163,Mi Pueblito Restaurant,117 N State Rd 7,Restaurant
+164,Donna's Caribbean Restaurant,1923 N Pine Island Rd,Jamaican
+165,Buffalo Wild Wings,8000 W Broward Blvd,Chicken Wings
+166,St Bess Jamaican Restaurant,117 FL-7,Jamaican
+167,McAlister's Deli,7900 W Sunrise Blvd,Restaurant
+168,Pollo Tropical,300 FL-7,Chicken
+169,Bahama Breeze - Curbside To Go & Delivery,2750 Sawgrass Mills Cir,Caribbean
+170,Pollo Tropical,50 N University Dr,Fast Food
+171,Tucker Dukes,6600 NW 14th St # 4,Restaurant
+172,Jacaranda Country Club,9200 W Broward Blvd #1,Country club
+173,DelVecchio's Pizza Loft Pizzeria & Italian Restaurant,2060 S University Dr,Pizza
+174,Chon Ga Korean Japanese Restaurant,10032 Pines Blvd,Restaurant
+175,Sushi Addicts,2909 Stirling Rd,Restaurant
+176,Checkers,1149 S State Rd 7,Restaurant
+177,Conch Heaven,7007 W Broward Blvd,Seafood
+178,Westfield Broward,8000 W Broward Blvd,Restaurant
+179,Wendy's,2471 N University Dr,Fast Food
+180,Poke Ramen Asian Soul Kitchen,1908 S University Dr,Restaurant
+181,McAlister's Deli,7900 W Sunrise Blvd,Sandwich
+182,The Cheesecake Factory,2612 Sawgrass Mills Cir,Restaurant
+183,Panera Bread,10001 Cleary Blvd,Sandwich
+184,McDonald's,1351 S University Dr,Fast Food
+185,Papa John's Pizza,1451 S University Dr,Pizza
+186,Jerk Grill Express,8000 W Broward Blvd,Jamaican
+187,China Sun,7039 W Broward Blvd A,Chinese
+188,Lucky Star,8916 W State Rd 84,Chinese
+189,Raw Energy,8000 W Broward Blvd,Restaurant
+190,Foar Food Truck,7580 NW 5th St,Fast Food
+191,Molinas Bakery ok,2708 N University Dr,Colombian
+192,Waffle House,2580 Davie Rd,Breakfast
+193,Pita Wraps,8000 W Broward Blvd,Restaurant
+194,Einstein Bros. Bagels,8500 W Broward Blvd,Bagel shop
+195,The Cheese Course,801 S University Dr Suite 126,Bistro
+196,BurgerIM,8000 W Broward Blvd,Hamburger
+197,Agave Taco Bar | Davie West,13040 W State Rd 84,Mexican
+198,China Buffet,2111 N University Dr,Restaurant
+199,Mr. Jerkinz Jerk and BBQ Food Truck,,Barbecue
+200,Bambino Restaurant,4770 NW 10th Ct,Restaurant
+201,Kan Zaman Hookah Cafe,1826 N University Dr,Cafe
+202,Vila's Restaurant & Lounge,2027 FL-7,Mexican
+203,Firehouse Subs,801 S University Dr Suite C139,Sandwich
+204,Wako Poke & Sushi,"Food court, 8000 W Broward Blvd",Hawaiian
+205,PARLOUR VEGAN BAKERY®,1487 S University Dr #3,Bakery
+206,IHOP,2454 N University Dr,Restaurant
+207,Taco Bell,8221 W Broward Blvd,Fast Food
+208,Golden Krust Caribbean Restaurant,6073 W Sunrise Blvd #101,Caribbean
+209,Chili's Grill & Bar,12570 W Sunrise Blvd,Tex Mex
+210,Skyline Chili,2834 N University Dr,Restaurant
+211,Shinju Japanese Buffet,3305 S University Dr,Japanese
+212,Denny's,12100 W Sunrise Blvd,Diner
+213,All That Jazz Cafe & Grill,3491 Hiatus Rd,American
+214,Grand Lux Cafe,1780 Sawgrass Mills Cir,Restaurant
+215,Villagio,"Sawgrass Mills Mall, 1760 Sawgrass Mills Cir",Italian
+216,Chon Ga Korean Japanese Restaurant,Pembroke Pines,Restaurant
+217,Sushi Addicts,Fort Lauderdale,Restaurant
+218,Dunkin',Plantation,Coffee shop
+219,Smoothie King,Plantation,Juice
+220,Goodfellas Pizza,Sunrise,Pizza
+221,The Halal Guys,Davie,Halal
+222,Chipotle Mexican Grill,Davie,Mexican
+223,The Hibiscus,Sunrise,Caribbean
+224,Einstein Bros. Bagels,Plantation,Bagel shop
+225,Veranda Shoppes,Plantation,Restaurant
+226,P.F. Chang's,Sunrise,Chinese
+227,Domino's Pizza,Plantation,Pizza Delivery
+228,Burger King,Sunrise,Fast Food
+229,Buca di Beppo Italian Restaurant,Davie,Italian
+230,Dunkin',Plantation,Coffee shop
+231,Golden Krust Caribbean Restaurant,Lauderhill,Caribbean
+232,Kababi Cafe by Kuluck,Sunrise,Persian
+233,Bowlero Davie (Temporarily Closed),Davie,Restaurant
+234,Pizza Hut,Fort Lauderdale,Pizza
+235,Pollo Tropical,Davie,Caribbean
+236,Pollo Tropical,Sunrise,Chicken
+237,Toa Toa Chinese Restaurant,Sunrise,Chinese
+238,Sand Bar + Kitchen,6752 Collins Ave,Grill
+239,Cote Gourmet,9999 NE 2nd Ave,French
+240,Flashback Diner,4125 Davie Rd,American
+241,Kings Super Buffet,7101 W Oakland Park Blvd,Restaurant
+242,Outback Steakhouse,2725 S University Dr,Steak
+243,Konakai Peruvian Cuisine,4305 NW 88th Ave,Peruvian
+244,Tijuana Taxi Co,4400 S University Dr,Mexican
+245,Vignetos Italian Grill,1342 SW 160th Ave,Italian
+246,YoBlendz,"1832 North Nob Hill Road, Nob Hill Pavillion",Fro-Yo
+247,Vinnies Lobster Bar,5810 S University Dr,Seafood
+248,Dunkin',11 N State Rd 7,Coffee shop
+249,8 O'clock cafe,1200 S Pine Island Rd #148,Cafe
+250,Council Oak Steaks & Seafood (in Seminole Hard Rock),1 Seminole Way,Seafood
+251,Crafty Crab,4402 N University Dr,Seafood
+252,Ella Cafe,9743 W Broward Blvd,Coffee shop
+253,Yonutz Gourmet Donuts & Ice Cream,121 NW 136th Ave,Donuts
+254,Fra Diavolo,5444 N University Dr,Italian
+255,Tataki Asian Bistro,4595 N University Dr,Asian
+256,Royal India Restaurant,3801 Griffin Rd,Indian
+257,Lobster Bar Sea Grille,450 E Las Olas Blvd Suite 190,Seafood
+258,Kelly's Landing New England Seafood,1305 SE 17th St,Seafood
+259,The Riverside Market Cafe,608 SW 12th Ave,Cafe
+260,Sand Bar + Kitchen,6752 Collins Ave,Grill
+261,Cote Gourmet,9999 NE 2nd Ave,French
+262,Rendezvous,2525 Marina Bay Dr W,Seafood
+263,Crafty Crab,2019 N University Dr,Seafood
+264,Mini Pita Mediterranean Cafe,1019 W State Rd 84,Mediterranean
+265,The Chimney House - Grill & Cafe,701 W Las Olas Blvd,Latin American
+266,Don Matias Restaurant Sunrise,7788 NW 44th St,Colombian
+267,La Brochette Bistro,2635 N Hiatus Rd,Eclectic
+268,Silver Pond,4285 FL-7,Chinese
+269,Catfish Deweys,4003 N Andrews Ave,Seafood
+270,Kuro (in Seminole Hard Rock),1 Seminole Way,Japanese
+271,Rustic Inn Crabhouse,4331 Anglers Ave,Restaurant
+272,The Melting Pot,5834 S Flamingo Rd,Fondue
+273,Timpano Italian Chophouse,450 E Las Olas Blvd,Restaurant
+274,Betty's Soul Food Restaurant,601 NW 22nd Rd,Soul
+275,Doc B's Restaurant + Bar (Fort Lauderdale),452 N Federal Hwy,American
+276,Bistro Mezzaluna,1821 SE 10th Ave,Italian
+277,Golden Krust Caribbean Restaurant,2610 W Broward Blvd #11,Caribbean
+278,Wild Sea Oyster Bar & Grille,620 E Las Olas Blvd,Oyster Bar
+279,Plantation Delivery Dudes,,Delivery Restaurant

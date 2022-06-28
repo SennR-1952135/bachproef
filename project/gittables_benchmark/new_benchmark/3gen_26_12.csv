@@ -1,0 +1,40 @@
+,year,country,city
+0,2010,China,Shanghai
+1,2010,United States,New York
+2,2009,China;China,Shanghai;Beijing
+3,2009,Italy,Palermo
+4,2009,China;China;China,Shanghai;Shanghai;Shanghai
+5,2009,Spain;Spain,Barcelona;Barcelona
+6,2009,China,Chongqing
+7,2009,United Kingdom,York
+8,2009,Netherlands,Rotterdam
+9,2008,India,New Delhi
+10,2008,China,Jinan
+11,2008,United States;United States;United States;United States,Cambridge;Boston;Cambridge;Cambridge
+12,2008,United Kingdom,Oxford
+13,2007,China,Jinan
+14,2007,United States;United States;United States,Boston;Cambridge;Boston
+15,2007,Poland,Katowice
+16,2006,Germany,Bremen
+17,2006,United States;United States,Boston;Cambridge
+18,2006,China;China,Nanjing;Harbin
+19,2006,United States;United States;United States,Los Angeles;Los Angeles;Los Angeles
+20,2006,China,Nanjing
+21,2005,United States,Cambridge
+22,2005,China;China,Shanghai;Beijing
+23,2004,United States,Seattle
+24,2004,United States,Los Angeles
+25,2004,China,Jinan
+26,2004,United States;United States,Baton Rouge;Mississippi State
+27,2004,Netherlands,Rotterdam
+28,2002,Spain,Madrid
+29,2002,Japan,Sapporo
+30,2001,Singapore,Singapore City
+31,2000,Canada,Ottawa
+32,2000,Brazil,Sao Paulo
+33,2000,United Kingdom,London
+34,1999,United States;United States,Chicago;Chicago
+35,1998,Brazil,Sao Paulo
+36,1996,Brazil,Sao Paulo
+37,1961,,
+38,1959,United States,Bethesda

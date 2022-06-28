@@ -1,0 +1,17 @@
+,year,age,region,notes
+0,1996,adult,Spain,
+1,2004,adult,Argentina,
+2,2001,adult,France,
+3,1996,adult,Tanzania,
+4,1997,adult,unclear!,"Note this study is very suspect - there is no discordance between the pairs of blood cultures, the PCR resulst line up directly with CFU count (100% correlation) - I think this data is fake"
+5,2010,adult,India,Study reporting is very unclear and doesn't really make sense . Have taken the Group 1 patients as cases and the group 5 patienst as controls
+6,2018,adult,Kenya,Have excluded those that didn�t get the plasma PCR and those that were smear positive but not culture or Xpert confirmed. Have used the first of the 3 replicates to define PCR result.
+7,2018,adult,Kenya,Same study as above they did Xpert on plasma in first 30 patienst recruited
+8,2019,adult,Uganda,No reference standard for TB diagnosis except the blood culture;  have treated this a s a case-control design. Numbers not disaggregated by HIV status but could probably get if want.
+9,2015,adult,Uganda,Study A of 2 in manuscript
+10,2015,adult,Uganda,Study B of 2 in manuscript
+11,2006,adult,Spain,
+12,2013,adult,Malawi,
+13,2012,adult,Tanzania,5 replicates used and positive result is 1 or more of 5 positive - not clear if this is 5 reps of 1 ml or 5 reps of 5ml
+14,2004,adult,Brazil,
+15,2014,mixed,India,

@@ -1,0 +1,187 @@
+,year,country,city
+0,2004,United States,San Francisco
+1,2004,United States,Santa Cruz
+2,2004,United States,University Park
+3,2004,United States,University Park
+4,2004,Canada;Canada,Vancouver;Vancouver
+5,2004,United States;Canada,Santa Cruz;Montreal
+6,2004,United States,Livermore
+7,2004,United States,Santa Cruz
+8,2004,United Kingdom,Cambridge
+9,2004,United States,Santa Cruz
+10,2003,United States,Bethesda
+11,2003,United States,Cold Spring Harbor
+12,2003,United States,University Park
+13,2003,Switzerland,Geneva
+14,2003,United States;United States,Stanford;Santa Cruz
+15,2003,United States,Philadelphia
+16,2003,United States,Santa Cruz
+17,2003,United States,Rockville
+18,2003,United States,New York
+19,2003,Spain,Barcelona
+20,2003,United States;United States,Bethesda;Atlanta
+21,2003,United States,St. Louis
+22,2003,United States;United States,Chicago;University Park
+23,2003,United States,Berkeley
+24,2003,United States,University Park
+25,2003,United States,Albany
+26,2003,United States,Philadelphia
+27,2003,United States,Chicago
+28,2003,Germany,Leipzig
+29,2003,United States;United States,Cambridge;Cambridge
+30,2003,Sweden,Uppsala
+31,2003,United States,Cambridge
+32,2003,United States,Bethesda
+33,2003,United States,University Park
+34,2003,United States,Palo Alto
+35,2003,United Kingdom,Cambridge
+36,2003,United States,Berkeley
+37,2003,United States;United States,"Washington, D.C.;Berkeley"
+38,2003,United States,Bethesda
+39,2003,Germany,Berlin
+40,2003,Canada,Toronto
+41,2003,United States,University Park
+42,2003,Sweden,Uppsala
+43,2003,United States,Chicago
+44,2003,Spain,Barcelona
+45,2003,United States,Mountain View
+46,2003,United States,Berkeley
+47,2003,United Kingdom,Hinxton
+48,2003,United States,University Park
+49,2003,United States,Berkeley
+50,2003,United States,Bethesda
+51,2003,United States,University Park
+52,2003,United States,Santa Cruz
+53,2002,United States,St. Louis
+54,2002,United States,Chicago
+55,2002,United States,Chicago
+56,2002,United Kingdom,Hinxton
+57,2002,Sweden,Uppsala
+58,2002,United States,Cold Spring Harbor
+59,2002,United States,Cleveland
+60,2002,United States,Santa Cruz
+61,2002,United Kingdom,Bath
+62,2002,United States;United States,Berkeley;Berkeley
+63,2002,United Kingdom,Bath
+64,2002,United States,Seattle
+65,2002,United States,Santa Cruz
+66,2002,Germany;Spain,Heidelberg;Barcelona
+67,2002,United States,San Diego
+68,2002,United States;United States,Bethesda;Stillwater
+69,2002,United States,Chicago
+70,2002,United States,Berkeley
+71,2002,United States,Berkeley
+72,2002,United States,Berkeley
+73,2002,United States;United States,Cleveland;Cleveland
+74,2002,United States,Bethesda
+75,2002,Switzerland;United States,Geneva;University Park
+76,2002,United States,Los Angeles
+77,2002,United Kingdom,London
+78,2001,United States,University Park
+79,2001,United Kingdom,Hinxton
+80,2001,Germany,Jena
+81,2001,United States,Tucson
+82,2001,United States,St. Louis
+83,2001,United States,Chicago
+84,2001,United States,Bethesda
+85,2001,United States,Santa Cruz
+86,2001,Canada,Victoria
+87,2001,United States,Denver
+88,2001,United States,Rockville
+89,2001,United Kingdom,Cambridge
+90,2001,United Kingdom,Oxford
+91,2001,United States,Philadelphia
+92,2001,United States,Cambridge
+93,2001,United States,University Park
+94,2001,United States,Chicago
+95,2001,United States,St. Louis
+96,2001,Germany,Braunschweig
+97,2001,United States,Bethesda
+98,2000,United States,Seattle
+99,2000,United States,San Diego
+100,2000,Spain,Barcelona
+101,2000,United States;United States,Cambridge;Cambridge
+102,2000,France,Evry
+103,2000,United States,Bethesda
+104,2000,,
+105,2000,United States;United States,Berkeley;Berkeley
+106,2000,United Kingdom,Hinxton
+107,2000,United States,University Park
+108,2000,,
+109,2000,United States,University Park
+110,2000,United States,Cambridge
+111,2000,United States,Bethesda
+112,2000,United Kingdom,Cambridge
+113,2000,United States,University Park
+114,2000,United States,University Park
+115,2000,United States,St. Louis
+116,2000,United States,Berkeley
+117,1999,United States;United States,Cambridge;University Park
+118,1999,United States,Boston
+119,1999,United Kingdom;France,Nottingham;Paris
+120,1999,United Kingdom,Brighton
+121,1998,,
+122,1998,United States,Chicago
+123,1998,United States,Bethesda
+124,1998,United States;United States;United States,Boston;Cambridge;Boston
+125,1998,United States,Chicago
+126,1998,United States,Atlanta
+127,1998,Spain;Spain,Barcelona;Barcelona
+128,1998,United States,Houston
+129,1998,United States,Columbus
+130,1998,United Kingdom,Cardiff
+131,1997,United States,Bethesda
+132,1997,United States,Palo Alto
+133,1997,United States,University Park
+134,1997,United States,Albany
+135,1997,Germany,Bielefeld
+136,1997,,
+137,1997,United States,Houston
+138,1997,United States,University Park
+139,1996,United States,Livermore
+140,1996,United States,Ann Arbor
+141,1996,,
+142,1995,United Kingdom,Cambridge
+143,1995,Canada,Toronto
+144,1995,Canada,Victoria
+145,1995,United States,Livermore
+146,1995,United States,San Diego
+147,1995,France,Paris
+148,1995,United States,San Diego
+149,1994,Australia,Canberra
+150,1994,United States,Houghton
+151,1994,Canada,Victoria
+152,1993,United Kingdom,Edinburgh
+153,1993,Switzerland,Zurich
+154,1993,United States,Ann Arbor
+155,1992,United States,Los Alamos
+156,1992,United States,Bethesda
+157,1992,United States,Ann Arbor
+158,1992,United States,Ithaca
+159,1991,United States,University Park
+160,1991,United States,Oak Ridge
+161,1990,United States,
+162,1990,United Kingdom,Oxford
+163,1990,United States,Bethesda
+164,1989,United States,University Park
+165,1989,United States,Chapel Hill
+166,1989,United States,Research Triangle Park
+167,1989,Ireland,Dublin
+168,1988,United States,Detroit
+169,1988,United States,Houston
+170,1987,United Kingdom,London
+171,1987,United States,
+172,1986,United Kingdom,Oxfordshire
+173,1985,United States,Houston
+174,1985,United States,Houston
+175,1983,United States,Bethesda
+176,1980,United States,Boston
+177,1977,Japan,Mishima
+178,1977,,
+179,1975,United States,Cambridge
+180,1971,United States;United States,Detroit;Northville
+181,1970,United States,"Washington, D.C."
+182,1968,Japan,Mishima
+183,1967,United States,Berkeley
+184,1965,United States,Pasadena
+185,1961,,

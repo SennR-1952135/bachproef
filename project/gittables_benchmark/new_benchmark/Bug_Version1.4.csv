@@ -1,0 +1,277 @@
+,status,creator,description
+0,Closed,chtompki,When creating a {{FileItemStreamImpl}} we are creating an object even when {{fileSizeMax == -1}} which allocates unneeded objects that will need to be garbage collected later.
+1,Closed,fangwentong,"We use commons-fileupload:1.3.3 to handle multipart request, param {{file-size-threshold}} was set to 200K. Our API handle multipart request in high QPS, the size of request body is about 20KB, which means those parts was saved in memory, not written to disk temporary file.
+
+But, in our production environment,  size of dentry cache grows up in high speed. here are some analysis:
+
+in {{strace}} result, plenty of {{stat}} system call invoked for tmp files which not exists. 
+{noformat}
+[pid 111310] <... stat resumed> {st_mode=S_IFDIR|0755, st_size=6, ...}) = 0
+[pid 57844] <... stat resumed> 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624923.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624922.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624921.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624920.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624919.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624918.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 69798] stat(""/tmp"",  <unfinished ...>
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624917.tmp"",  <unfinished ...>
+[pid 69798] <... stat resumed> {st_mode=S_IFDIR|0755, st_size=6, ...}) = 0
+[pid 57844] <... stat resumed> 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624916.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624915.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624914.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624913.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624912.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624911.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624910.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624909.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624908.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624907.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624906.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624905.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624904.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624903.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624902.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624901.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624900.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624899.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624898.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624897.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624896.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624895.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624894.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624893.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624892.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624891.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624890.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624889.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624888.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624887.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624886.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624885.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 57844] stat(""/tmp/upload_75a3e205_c3f1_43e7_8165_34f6a7a02227_518624884.tmp"", 0x7f08e80b84b0) = -1 ENOENT (No such file or directory)
+[pid 78454] --- SIGPIPE {si_signo=SIGPIPE, si_code=SI_USER, si_pid=57810, si_uid=605} ---{noformat}
+
+in {{slabtop}} result , dentry cache taken up 22GB+ memory.
+
+{noformat}
+ Active / Total Objects (% used)    : 233715492 / 234153507 (99.8%)
+ Active / Total Slabs (% used)      : 7858579 / 7858606 (100.0%)
+ Active / Total Caches (% used)     : 108 / 200 (54.0%)
+ Active / Total Size (% used)       : 29322726.34K / 29380106.43K (99.8%)
+ Minimum / Average / Maximum Object : 0.02K / 0.12K / 4096.00K
+
+  OBJS ACTIVE  USE OBJ SIZE  SLABS OBJ/SLAB CACHE SIZE NAME
+116095303 116095295  26%    0.06K 1967717       59   7870868K size-64
+116090260 116090260  26%    0.19K 5804513       20  23218052K dentry
+{noformat}
+
+
+finally, I think the root cause is：in temporary file cleanup policy defined at {{DiskFileItem#finalize}}, call {{outputFile.exists()}} for every File, even if the part not write to disk.
+
+{code:java}
+    @Override
+    protected void finalize() {
+        if (dfos == null) {
+            return;
+        }
+        File outputFile = dfos.getFile();
+
+        if (outputFile != null && outputFile.exists()) {
+            outputFile.delete();
+        }
+    }
+{code}"
+2,Closed,kinow,"Currently, the o.a.c.fileupload.portlet is reported as having 0% coverage in the cobertura report.
+
+During the last vote thread I noted that and added a post-it to add some tests. Creating a ticket so that I do not forget."
+3,Closed,chtompki,"For java9 compatibility we want:
+{code:xml}
+<maven.compiler.source>1.5</maven.compiler.source>
+<maven.compiler.target>1.5</maven.compiler.target>
+{code}
+in the pom.xml to be:
+{code:xml}
+<maven.compiler.source>1.6</maven.compiler.source>
+<maven.compiler.target>1.6</maven.compiler.target>
+{code}"
+4,Closed,jochen@apache.org,"Right now, a coverage report is not included in the project reports. [1] This must be changed.
+
+1: http://commons.apache.org/proper/commons-fileupload/project-reports.html
+
+
+"
+5,Closed,britter,Improve read performance of MultipartStream by better choosing the size of the read buffer.
+6,Open,craftwithin,"The guide at http://commons.apache.org/proper/commons-fileupload/using.html incorrectly writes: ""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of java.io.File is garbage collected."".
+
+(The following affects maven version: http://search.maven.org/#artifactdetails|commons-fileupload|commons-fileupload|1.2.2|jar )
+
+However, the code for org.apache.commons.io.FileCleaningTracker.Tracker.Tracker(...) passes org.apache.commons.fileupload.disk.DiskFileItemFactory.this specified by org.apache.commons.fileupload.disk.DiskFileItemFactory.createItem(String, String, boolean, String) in tracker.track(result.getTempFile(), this), and not java.io.File. I.e. the ""using.html"" guide must be corrected.
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItemFactory is garbage collected."".
+
+(The following affects maven version: http://search.maven.org/#artifactdetails|commons-fileupload|commons-fileupload|1.3|jar )
+
+However, the code for org.apache.commons.io.FileCleaningTracker.Tracker.Tracker(...) passes DiskFileItem.this specified by org.apache.commons.fileupload.disk.DiskFileItemFactory.createItem(String, String, boolean, String) in DiskFileItem result=[...]; [...]; tracker.track(result.getTempFile(), result), and not java.io.File. I.e. the ""using.html"" guide must be corrected.
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItem is garbage collected."".
+
+(The following holds for both versions 1.2.2 and 1.3)
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItem (for commons-fileupload v.1.3) and instance of org.apache.commons.fileupload.disk.DiskFileItemFactory (for commons-fileupload v.1.2.2) is garbage collected."".
+"
+7,Closed,prcjac,"If a multipart request contains an empty file, ServletFileUpload#parseRequest does not create a corresponding temporary file on the file system. If any operations are performed on the corresponding file object from DiskFileItem#getStoreLocation() a FileNotFoundException is thrown.
+
+FileUploadBase#parseRequest() copies the multipart file input stream to the temporary file output stream with Streams#copy(). This method only creates the temporary file on the file system if data is written to the file's output stream. Since the input stream is empty, write is never called on the output stream and the temporary file is not created.
+
+I've used the following snippet to overcome this issue. This ensures the temporary file is created on the file system prior to writing:
+
+{code:title=Snippet.java|borderStyle=solid}
+final DiskFileItemFactory factory = new DiskFileItemFactory() {
+  @Override
+  public FileItem createItem(final String fieldName, final String contentType, final boolean isFormField, final String fileName) {
+    return new DiskFileItem(fieldName, contentType, isFormField, fileName, getSizeThreshold(), getRepository()) {
+      private static final long serialVersionUID = 1L;
+
+      @Override
+      protected File getTempFile() {
+        File tempFile = super.getTempFile();
+        try {
+          tempFile.createNewFile();
+        }
+        catch (final IOException e) {
+          //Handle appropriately
+          ...
+        }
+        return tempFile;
+      }
+    };
+  }
+};
+
+ServletFileUpload upload = new ServletFileUpload(factory);
+{code}"
+8,Closed,scop,"Javadoc build fails with Java 1.8, fix attached."
+9,Closed,sebb,"The method DiskFileItem#write has the following code:
+
+{code}
+FileOutputStream fout = null;
+try {
+    fout = new FileOutputStream(file);
+    fout.write(get());
+} finally {
+    if (fout != null) {
+        fout.close();
+    }
+}
+{code}
+
+If the write fails and then the close fails, the write failure will be masked by the close error. It might be better to write the code as:
+
+{code}
+FileOutputStream fout = null;
+try {
+    fout = new FileOutputStream(file);
+    fout.write(get());
+    fout.close();
+} finally {
+    IOUtils.closeQuietly(fout);
+}
+{code}
+
+This would ensure that the first error was reported."
+10,Closed,sebb,"DiskFileItem#getTempFile() looks wrong.
+
+Presumably the intention of providing the protected method was to allow the generation of the path name to be overwritten. This can indeed be done. 
+
+However, if this is done, the tempFile variable will not be set up, so the path name won't be cached - unless the overriding method also caches the name.
+
+The file name needs to agree with the DeferredFileOutputStream that is created. This is implied in the Javadoc, but is not currently enforced.
+
+The protected method needs to implement the name generation part only."
+11,Closed,sebb,"FileUploadBase has several instances where the InputStream ""input"" is not closed when an Exception is throw. This can potentially be a resource leak and is best avoided.
+
+The first case is easy to deal with, as the InputStream does not need to be created until after the SizeLimitExceededException has been thrown.
+
+The next case occurs if the boundary is not found.
+This check could be moved to before the size check, however that would change the behaviour slightly, as FileUploadException would be thrown instead of SizeLimitExceededException if both boundary and size are wrong.
+
+The last case is where InvalidContentTypeException is thrown. This cannot easily be avoided."
+12,Closed,b.eckenfels,"Because of a fix for FILEUPLOAD-246 I noticed that there is a fileRenameOrCopy function which swallows exceptions on the OutputStream#close() method. This is unsafe since a lot of filesystem operations can fail in exactly this step.
+
+There is also a Commons IO Utility which does rename or copy, so the whole code block could be removed.
+
+Problem is here in Line 416: http://svn.apache.org/viewvc/commons/proper/fileupload/trunk/src/main/java/org/apache/commons/fileupload/disk/DiskFileItem.java?revision=1568691&view=markup
+
+Besides using FileUtil.move() another option would be to add a out.close() before the catch.
+"
+13,Closed,sebb,"FileUpload already depends on Common IO, so it makes sense to simplify the code by using the method IOUtils#closeQuietly instead of code such as
+
+{code}
+if (out != null) {
+    try {
+        out.close();
+    } catch (IOException e) {
+        // ignore
+    }
+}
+{code}"
+14,Closed,sebb,"DiskFileItem.get() invokes InputStream#read, and appears to assume that it will always read all available data. However that is not necessarily the case.
+
+It would be safer to use the Commons IO method IOUtils#readFully
+
+[The component already depends on CommonsIO]"
+15,Closed,sebb,Eclipse reports that .DiskFileItem.readObject fails to close FileInputStream
+16,Closed,scop,
+17,Closed,sebb,"Code should never catch & ignore all Throwables.
+
+For example, ThreadDeath may be caught, but must be rethrown.
+VirtualMachineError must also never be swallowed.
+
+See also
+
+https://issues.apache.org/bugzilla/show_bug.cgi?id=48644
+and
+org/apache/tomcat/util/ExceptionUtils#handleThrowable()
+https://svn.apache.org/repos/asf/tomcat/trunk/java/org/apache/tomcat/util/ExceptionUtils.java"
+18,Closed,z666,"I THINK the documentation is wrong when it says to use item.openStream()
+
+http://commons.apache.org/proper/commons-fileupload/streaming.html
+
+I relooked a the API for FileItem documentation.
+http://commons.apache.org/proper/commons-fileupload/apidocs/org/apache/commons/fileupload/FileItem.html
+
+The API says to use: item.getInputStream() which is the correct way
+
+That fixed the issue my issue."
+19,Closed,egphilippov,"The guide at http://commons.apache.org/proper/commons-fileupload/using.html incorrectly writes: ""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of java.io.File is garbage collected."".
+
+(The following affects maven version: http://search.maven.org/#artifactdetails|commons-fileupload|commons-fileupload|1.2.2|jar )
+
+However, the code for org.apache.commons.io.FileCleaningTracker.Tracker.Tracker(...) passes org.apache.commons.fileupload.disk.DiskFileItemFactory.this specified by org.apache.commons.fileupload.disk.DiskFileItemFactory.createItem(String, String, boolean, String) in tracker.track(result.getTempFile(), this), and not java.io.File. I.e. the ""using.html"" guide must be corrected.
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItemFactory is garbage collected."".
+
+(The following affects maven version: http://search.maven.org/#artifactdetails|commons-fileupload|commons-fileupload|1.3|jar )
+
+However, the code for org.apache.commons.io.FileCleaningTracker.Tracker.Tracker(...) passes DiskFileItem.this specified by org.apache.commons.fileupload.disk.DiskFileItemFactory.createItem(String, String, boolean, String) in DiskFileItem result=[...]; [...]; tracker.track(result.getTempFile(), result), and not java.io.File. I.e. the ""using.html"" guide must be corrected.
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItem is garbage collected."".
+
+(The following holds for both versions 1.2.2 and 1.3)
+
+The correct (fixed) phrasing is: 
+
+""Such temporary files are deleted automatically, if they are no longer used (more precisely, if the corresponding instance of org.apache.commons.fileupload.disk.DiskFileItem (for commons-fileupload v.1.3) and instance of org.apache.commons.fileupload.disk.DiskFileItemFactory (for commons-fileupload v.1.2.2) is garbage collected."".
+"

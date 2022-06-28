@@ -1,0 +1,289 @@
+,language,type,name,origin
+0,Japanese,synopsis,,ノアは[플레이어]達に、自らが星晶獣でありグランサイファーの製作者でもあることを明かす。その事実に驚く一行の前に、フリーシア達が再度姿を現した。
+1,Japanese,detail,,<span class='scene-font-katari'>自らは星晶獣であり、</span><br><span class='scene-font-katari'>騎空艇グランサイファーの</span><br><span class='scene-font-katari'>製作者であると告げた謎の少年、ノア。</span>
+2,Japanese,detail,,<span class='scene-font-katari'>その事実に[플레이어]一行は、</span><br><span class='scene-font-katari'>ただ呆然とする他ないのだった。</span>
+3,Japanese,detail,라캄,せ、星晶獣で……<br>グランサイファーの製作者だと！？
+4,Japanese,detail,ノア,ああ……僕が星晶獣であることと、<br>グランサイファーの製作者であることは<br>ラカムにも初めて教えるんだったね。
+5,Japanese,detail,ノア,当時の君は幼かったからなぁ……<br>難しいことは、<br>全て隠していたんだ、ごめんね。
+6,Japanese,detail,이오,ちょ、ちょっと待って！<br>色々気になることが多すぎて……<br>な、何から聞いたらいいの？
+7,Japanese,detail,ノア,何からでもどうぞ。<br>僕に答えられることなら、<br>喜んで答えるよ。
+8,Japanese,detail,フリーシア,ポンメルン！<br>どこに居るのですか！<br>この状況の説明を……
+9,Japanese,detail,비,んげっ！<br>あいつら、戦艦に居ないと思ったら<br>どっかから帰ってきやがった！
+10,Japanese,detail,ノア,どうやら長居は<br>得策じゃないみたいだけど……<br>どうしようか？
+11,Japanese,detail,오이겐,と、とにかくここを離れるぞ！<br>またとっ捕まっちゃあ面倒だ！
+12,Japanese,synopsis,,半信半疑のラカムに対し、ノアは自分の言葉が事実である証拠を話し始める。それは、彼とラカムの馴れ初めだった。オイゲンとはぐれ泣きじゃくっていたという過去を暴露されたラカムは、慌ててノアの言っていることが事実だと認めるのだった。
+13,Japanese,detail,,<span class='scene-font-katari'>帝国兵達を撒いた一行は、</span><br><span class='scene-font-katari'>街中の物陰へと身をひそめた。</span>
+14,Japanese,detail,오이겐,はぁ……<br>ここなら少なくとも、<br>すぐに見つかるってこたぁねぇはずだ。
+15,Japanese,detail,카타리나,しかし、星晶獣とは……<br>にわかには信じがたい話だな。
+16,Japanese,detail,ノア,そうかい？<br>むしろ君達には、<br>馴染み深いかと思ったんだけど……
+17,Japanese,detail,루리아,た、確かに色んな星晶獣さんに<br>会ったことがあるけど……
+18,Japanese,detail,루리아,こうして面と向かって<br>ゆっくりお話しするのは、<br>初めてかもしれません。
+19,Japanese,detail,라캄,なぁ、ルリア、<br>星晶獣の気配ってのは感じるのか？
+20,Japanese,detail,루리아,え？ うーん……<br>なんていうかこう……<br>うっすらと……
+21,Japanese,detail,루리아,でも、この感覚……<br>他にもどこかで……？<br>うーん……
+22,Japanese,detail,라캄,そうか……
+23,Japanese,detail,ノア,なんだい？<br>僕の正体について疑っているのかな？
+24,Japanese,detail,라캄,そりゃあな……<br>とても、ハイそうですかって、<br>信じられる内容じゃねぇ。
+25,Japanese,detail,ノア,それは困ったな……<br>ラカムの子供の頃を知っている、<br>という証拠ならあるんだけど……
+26,Japanese,detail,오이겐,ほう？<br>そりゃ、どういうことだ？
+27,Japanese,detail,ノア,ふふ……<br>僕達の馴れ初めの話なんだけどね……
+28,Japanese,detail,ノア,オイゲンとはぐれ、<br>見知らぬ島で迷子になっていたラカムは、<br>大声で泣きながら裏通りを……
+29,Japanese,detail,라캄,ちょ、ちょっと待った！<br>なんでそんな話になるんだ！？
+30,Japanese,detail,ノア,なぜって……<br>幼いラカムの様子を克明に語れば、<br>信じてもらえるかと思ってね。
+31,Japanese,detail,ノア,可愛いものだったよ……<br>泣きじゃくりながら、<br>必死にオイゲンの名を呼んで……
+32,Japanese,detail,라캄,うわぁぁあ！？ わ、わかった！<br>間違いねぇ！<br>確かにお前は子供の頃の俺に会ってる！
+33,Japanese,detail,이오,あの焦り様を見る限り、<br>どうやら本当に、<br>間違いないみたいね……
+34,Japanese,detail,제국병,いま、こちらから叫び声が……
+35,Japanese,detail,카타리나,まずい……<br>見つかってしまったようだな……<br>応戦してここを切り抜けるぞ！
+36,Japanese,synopsis,,ノアは、ラカムが自分とした約束が果たされるまでグランサイファーはガロンゾから離れられないと告げる。約束の内容を忘れてしまったラカムに、約束を教えてはあげられないと言うノア。彼はラカムに、「君なら必ず思い出す」と告げるのだった。
+37,Japanese,detail,ノア,色々信じてもらえたようで<br>一安心だけど……<br>なぜそんな青い顔をしているんだい？
+38,Japanese,detail,라캄,さぁ……なんでだろうな……
+39,Japanese,detail,라캄,ともかく、お前が<br>俺と会ったことがあるってのは、<br>間違いないみてぇだな。
+40,Japanese,detail,ノア,そうだね。<br>僕には最初から<br>君達に嘘を吐く理由がないからね。
+41,Japanese,detail,비,するってぇと……<br>いまのままだとグランサイファーが<br>この島を出れないってのも本当なのか？
+42,Japanese,detail,ノア,もちろん……約束を果たすまで、<br>グランサイファーは<br>この地を離れられないんだ。
+43,Japanese,detail,이오,ねぇねぇ……<br>さっきから言ってる、<br>その約束って、いったい何なの？
+44,Japanese,detail,ノア,約束は約束さ。<br>あの日のラカムは、<br>僕に約束してくれたんだ……
+45,Japanese,detail,라캄,俺が……？
+46,Japanese,detail,ノア,……忘れてしまったんだね。<br>でも、この約束だけは、<br>僕が教えてあげるわけにはいかないな。
+47,Japanese,detail,ノア,でも、大丈夫……<br>きっと君なら、必ず思い出すよ。
+48,Japanese,detail,카타리나,帝国の捜索が厳しいな……<br>積もる話もあるようだが、<br>まずはここを移動しよう。
+49,Japanese,synopsis,,ノアに出会った時の記憶を段々と思い出して来たラカムだったが、約束の内容は思い出せない。一方ノアは、その約束をしてくれたとき本当に嬉しかったとラカムに話す。
+50,Japanese,detail,라캄,約束……
+51,Japanese,detail,라캄,だんだんと思い出してきたぜ……<br>確かに俺は、<br>あの時、ノアに会ってる……
+52,Japanese,detail,라캄,そして何かを話した……<br>きっと約束もしたんだろうが……<br>その何を話したかが思い出せねぇ……
+53,Japanese,detail,ノア,君の目はあの頃と何も変わっていない。<br>だから、<br>きっと思い出せるはずだよ。
+54,Japanese,detail,ノア,それに……思い出してほしいんだ。<br>君があの約束をしてくれたとき、<br>僕は本当に嬉しかったのだから。
+55,Japanese,detail,라캄,そんな約束を……俺が？
+56,Japanese,detail,제국병,見つけたぞ！<br>こんなところに居たとはな……
+57,Japanese,detail,이오,あー、もう！<br>いちいち邪魔しに来るんじゃないわよ！
+58,Japanese,detail,이오,[플레이어]も構えて！<br>こんなやつら、<br>イオちゃんがやっつけちゃうんだから！
+59,Japanese,synopsis,,約束を果たさなければグランサイファーがこの地を離れられないのは、ガロンゾにいるもう一体の星晶獣ミスラの力のせいだった。さらにその力のおかげでガロンゾは成り立っているとノアは語る。
+60,Japanese,detail,라캄,約束……か。
+61,Japanese,detail,오이겐,なぁ……<br>一つ聞いてもいいか？
+62,Japanese,detail,ノア,何かな？<br>僕に答えられることだと<br>良いのだけど……
+63,Japanese,detail,오이겐,ああ……<br>このままじゃ、グランサイファーが<br>この島から飛び立てねぇって話だが……
+64,Japanese,detail,오이겐,そいつはいったい……<br>どうしてなんだ？
+65,Japanese,detail,ノア,約束があるからね……<br>この約束を果たすために、<br>グランサイファーは不可欠なんだ。
+66,Japanese,detail,오이겐,いや……<br>お前さんが言ってる約束ってのは、<br>子供の口約束みたいなもんだろう？
+67,Japanese,detail,오이겐,それでどうして、<br>グランサイファーが<br>飛び立てなくなるんだ？
+68,Japanese,detail,오이겐,まさかとは思うが……<br>お前さんが星晶獣の力で何か……
+69,Japanese,detail,ノア,星晶獣の力というのは正しいね。<br>ただし、それは僕じゃない。
+70,Japanese,detail,ノア,この島、<span class='scene-font-place'>ガロンゾ</span>には、<br>実はもう一体、星晶獣が居るんだ。
+71,Japanese,detail,카타리나,もう一体の星晶獣だと……？
+72,Japanese,detail,ノア,そうさ、<br>むしろ僕は野良みたいなものでね。<br>そいつのほうが強く島に影響してるんだ。
+73,Japanese,detail,ノア,契約を司る星晶獣……<br>名をミスラと言ってね。<br>こいつが実に厄介なのさ。
+74,Japanese,detail,ノア,まぁ……<br>おかげでこの島が、<br>成り立っているとも言えるんだけどね。
+75,Japanese,detail,비,んん？<br>厄介なんじゃないのか？ そいつ。
+76,Japanese,detail,ノア,そうだね……少し移動しようか。<br>ドックのあるあたりがいいかな。<br>そのほうが説明しやすいだろうから。
+77,Japanese,synopsis,,ミスラは無意識や事象に働きかけ、契約や約束事を絶対遵守させるという力を持っていた。グランサイファーが飛び立てないのもその力のせいだったのだ。ノアは、ルリアがミスラの力を借りてもその力を解除することはできないと言う。
+78,Japanese,detail,荒くれ者,おお！ ついに出来たんだな！<br>オレの騎空艇が！<br>これで活動範囲が広がるってわけだ……
+79,Japanese,detail,荒くれ者,ああ、これ、お代だ。<br>受け取っておいてくれ。
+80,Japanese,detail,船大工,はい、どーも、確かに。<br>まいどあり！
+81,Japanese,detail,비,なぁ……<br>ここになにがあるってんだ？
+82,Japanese,detail,비,それともここに、<br>その星晶獣ミスラがいるってのか？
+83,Japanese,detail,루리아,うーん……<br>そういう気配は<br>いまのところありませんけど……
+84,Japanese,detail,ノア,ここを見ていて、<br>何か気づくことはないかい？
+85,Japanese,detail,카타리나,そういえば……<br>この島ではあまり契約を、<br>書面化したりはしないのだな。
+86,Japanese,detail,카타리나,騎空艇の整備は<br>大金が動く契約なのに、<br>請求書がないと聞いて驚いたよ。
+87,Japanese,detail,오이겐,そりゃあ、何十年も前から、<br><span class='scene-font-place'>ガロンゾ</span>はそうやってっからなぁ……<br>不思議に思ったこともなかったぜ。
+88,Japanese,detail,오이겐,まぁ、義理堅い連中ばっかりだからなぁ。<br>きちっと紙にまとめなくても、<br>契約を破る奴なんざ……
+89,Japanese,detail,ノア,それが……<br>契約の星晶獣、ミスラの力なのさ。
+90,Japanese,detail,라캄,なんだって……？
+91,Japanese,detail,ノア,逆なんだ。<br>義理堅いから契約を破らないんじゃない。
+92,Japanese,detail,ノア,この島では契約を破れないから、<br>住人達は義理堅くなっていくんだ。
+93,Japanese,detail,ノア,星晶獣ミスラはその能力で<br>無意識や事象に働きかけ、<br>契約や約束事を絶対遵守させる。
+94,Japanese,detail,ノア,その拘束力は、<br>どれだけ強力な星晶獣であろうと、<br>決して逃れられない……
+95,Japanese,detail,라캄,それじゃあまさか……<br>俺がノアと交わした約束を<br>ミスラが……？
+96,Japanese,detail,ノア,そうだね……<br>本来なら、<br>子供の他愛ない約束だったんだけど……
+97,Japanese,detail,ノア,幸か不幸か約束として成立し、<br>星晶獣ミスラの影響を受けてしまった。
+98,Japanese,detail,ノア,これが、騎空艇グランサイファーが<br>このままでは<br>この島から飛び立てないという理由さ。
+99,Japanese,detail,비,マジかよ……ってことは、<br>いまグランサイファーは星晶獣の力で<br>縛り付けられてるってことなのか！？
+100,Japanese,detail,이오,ね、ねぇ、それって、<br>ルリアの能力でなんとかならないの？<br>ほら、<span class='scene-font-place'>アルビオン</span>のときみたいに！
+101,Japanese,detail,루리아,ですねっ！<br>私が力の一部分を借りて、<br>解除しちゃえば……
+102,Japanese,detail,ノア,残念だけど、それは無理だね。<br>ミスラの能力は<br>ミスラ自身にも止められない。
+103,Japanese,detail,ノア,ミスラの拘束力からは、<br>ミスラ自身も例外なく、<br>干渉することが出来ないんだ。
+104,Japanese,detail,루리아,そんな……
+105,Japanese,detail,마물,グオオオォォッ！！
+106,Japanese,detail,ノア,まぁ、それがどんな約束だったか<br>教えないのは僕のエゴだけどね。
+107,Japanese,detail,ノア,僕は思い出してほしいんだ……<br>そのために邪魔になるものがあるなら、<br>僕自らが排除しよう……！
+108,Japanese,synopsis,,フリーシアは、ミスラの契約を遵守させる力を知り帝国の支配がより盤石になると喜ぶ。さらにルリアを奪還するという目的を果たすべく、フリーシアは帝国兵を[플레이어]達に差し向けるのだった。
+109,Japanese,detail,フリーシア,ふむ……星晶獣ミスラというのは、<br>ずいぶんと恐ろしい能力を<br>持っていたのですね。
+110,Japanese,detail,비,うげっ……<br>こいつ、いつの間に……
+111,Japanese,detail,フリーシア,契約を遵守させる力とは……<br>上手く使えば帝国の支配は<br>より盤石なものとなるでしょう。
+112,Japanese,detail,フリーシア,星晶獣ミスラの回収は、<br>ルリア奪還のついででしたが、<br>思わぬ収穫になったようですね。
+113,Japanese,detail,카타리나,その口振り……<br>まさかすでに……！？
+114,Japanese,detail,フリーシア,貴方達は人形の存在を<br>知っていますね。
+115,Japanese,detail,フリーシア,であれば、想像に難くないはずです。<br>なにせ、<br>言葉通りの意味ですので。
+116,Japanese,detail,오이겐,このお嬢さんは、<br>とんでもないことを、<br>淡々と言いやがるな……
+117,Japanese,detail,フリーシア,もちろんルリアも、<br>この場で返していただきます。
+118,Japanese,detail,제국병,…………
+119,Japanese,detail,フリーシア,ルリアさえ手に入れば、<br>あとはどうなろうと構いません。<br>手心を加えてはなりませんよ。
+120,Japanese,synopsis,,騎空艇のドックに留まっていたのでは、帝国の戦力に押し切られると判断したカタリナ。[플레이어]達はノアとの約束を果たすためにも、帝国兵の包囲を突破しようとする。
+121,Japanese,detail,카타리나,くっ……<br>いつまでもここに留まっていたのでは、<br>押し切られかねないな……
+122,Japanese,detail,카타리나,ノアの言う約束を果たすためにも、<br>ここはひとまず、<br>この場から脱出を……
+123,Japanese,detail,제국병,逃げられると思うなよ！<br>この場は我々が封鎖した！<br>猫の子一匹通さんぞ！
+124,Japanese,detail,이오,ちょっと邪魔しないでよね！<br>あんた達に構ってられるほど<br>暇じゃないんだから！
+125,Japanese,detail,카타리나,やはり多勢に無勢か……<br>包囲を突破するぞ！<br>[플레이어]！
+126,Japanese,synopsis,,帝国兵の包囲を突破したと思ったのも束の間、ルリアがフリーシア達にさらわれてしまう。フリーシアは回収したミスラとルリアを帝国に持って帰ると[플레이어]達に告げる。
+127,Japanese,detail,,<span class='scene-font-katari'>帝国の包囲を逃れ、</span><br><span class='scene-font-katari'>少し離れた位置で、</span><br><span class='scene-font-katari'>[플레이어]一行は息を整える。</span>
+128,Japanese,detail,라캄,ふぅ……<br>これでなんとか、<br>この場はしのいだか？
+129,Japanese,detail,카타리나,数の利は彼らにあったと言えど<br>私達の敵では……
+130,Japanese,detail,フリーシア,いいえ……<br>彼は立派に役目を果たしました。
+131,Japanese,detail,フリーシア,おかげで、<br>ついにルリアの奪還に<br>成功したのですから。
+132,Japanese,detail,라캄,んだと……！？
+133,Japanese,detail,루리아,カタリナっ！ [플레이어]！
+134,Japanese,detail,카타리나,ルリアっ！？<br>くっ……油断したか！<br>だが、すぐに……
+135,Japanese,detail,제국병,…………
+136,Japanese,detail,카타리나,く……くそっ！<br>邪魔だっ！ どけっ！
+137,Japanese,detail,오이겐,ちっ……<br>こうも数が多くちゃあ、<br>近づくに近づけねぇ！
+138,Japanese,detail,라캄,このっ……！<br>邪魔するんじゃねぇよ！
+139,Japanese,detail,이오,ちょっと待ちなさいよ！<br>ルリアをどこに連れてくのよ！
+140,Japanese,detail,フリーシア,無論、国へ持って帰ります。<br>星晶獣ミスラを回収できたことと併せ、<br>陛下もさぞお喜びになることでしょう。
+141,Japanese,detail,루리아,い、いや……！<br>[플레이어]っ！
+142,Japanese,detail,,<span class='scene-font-katari'>仲間達の伸ばす手はルリアに届かず、</span><br><span class='scene-font-katari'>ただ力なく空を掴む。</span>
+143,Japanese,detail,,<span class='scene-font-katari'>連れ去られたルリアの後ろ姿は</span><br><span class='scene-font-katari'>次第に小さくなり、帝国の戦艦へと</span><br><span class='scene-font-katari'>消えていくのだった。</span>
+144,English,synopsis,,Freesia returns to the battleship while Noa is in the middle of explaining his origins.
+145,English,detail,,"Noa stands in front of the crew, a placid smile curled across his lips."
+146,English,detail,,"[플레이어], Rackam, and the others are stunned at the revelation they've just heard."
+147,English,detail,Rackam,A primal beast—and the creator of the Grandcypher!
+148,English,detail,Noa,"Oh, so this is the first time I've told you."
+149,English,detail,Noa,"Forgive me. I hid these details from you when you were young, as they were too difficult to understand."
+150,English,detail,Io,Wait a second! What the heck is going on here? I don't even know where to start!
+151,English,detail,Noa,Then start where you would like. I'll happily answer any questions you may have.
+152,English,detail,Freesia,Pommern! Where have you gone! I need to hear the latest status reports...
+153,English,detail,Vyrn,Gah! I didn't think anybody else was on the airship!
+154,English,detail,Noa,Perhaps it's not so wise to stick around here. What should we do?
+155,English,detail,Eugen,Let's just get outta here for now! Don't think I could handle gettin' captured again!
+156,English,synopsis,,"Noa, in an attempt to make Rackam believe him, recounts more of his history."
+157,English,detail,,"After giving the imperial soldiers the slip, the crew takes shelter in the city."
+158,English,detail,Eugen,They shouldn't find us here for the time being.
+159,English,detail,Katalina,"Right... But, Noa, I'm not sure I can believe that you're a primal beast. At least not so easily."
+160,English,detail,Noa,"Oh, really? And here I thought we'd come to understand each other very well."
+161,English,detail,Lyria,It's true that I've met all kinds of primal beasts...
+162,English,detail,Lyria,But this is probably my first time chatting with one face to face.
+163,English,detail,Rackam,"So, Lyria, does that mean you can sense he's a primal beast?"
+164,English,detail,Lyria,Umm... Maybe a little... Just a faint bit...
+165,English,detail,Lyria,"Oh, but I think I've felt something like this before..."
+166,English,detail,Rackam,I see...
+167,English,detail,Noa,"Come now, are you having doubts about who I am?"
+168,English,detail,Rackam,"Well, from what you've told us so far, it's pretty hard to just accept it at face value."
+169,English,detail,Noa,"Oh my... What if I told you I could prove that I knew you when you were young, Rackam?"
+170,English,detail,Eugen,Oh? How so?
+171,English,detail,Noa,Haha. This story goes way back to when our friendship was first formed...
+172,English,detail,Noa,"Rackam, you got separated from Eugen. You were lost on an unfamiliar island, crying in a lonely back alley."
+173,English,detail,Rackam,W-wait a second! What's the way I cried got to do with anything?
+174,English,detail,Noa,I thought that if I faithfully detailed what you were like as a child then you would come to believe me.
+175,English,detail,Noa,It was adorable... You were desperately calling Eugen's name while sobbing...
+176,English,detail,Rackam,Okay! Fine! You definitely met me when I was a child!
+177,English,detail,Io,"Judging from how upset he's made you, you can tell he must be telling the truth."
+178,English,detail,Imperial Soldier,There! I heard a loud voice coming from over there!
+179,English,detail,Katalina,"They've found our location. Everyone, draw your weapons."
+180,English,synopsis,,The crew confirms that the Grandcypher can't leave Golonzo until Rackam keeps his promise to Noa.
+181,English,detail,Noa,"I'm relieved you've begun to believe me, but why do you look so pale?"
+182,English,detail,Rackam,Could it have something to do with a certain loose-lipped primal beast?
+183,English,detail,Rackam,"But, yeah, can't deny that we've met before."
+184,English,detail,Noa,"Well, of course we have. I never had a reason to lie to you or your friends."
+185,English,detail,Vyrn,So that means it's true that the Grandcypher can't leave the island right now?
+186,English,detail,Noa,"Yes. Until the promise has been fulfilled, the Grandcypher isn't budging."
+187,English,detail,Io,You've been talking an awful lot about this promise. What is it anyway?
+188,English,detail,Noa,A promise is a promise. And Rackam made a special one with me on that day.
+189,English,detail,Rackam,I did?
+190,English,detail,Noa,So you've forgotten. Unfortunately I'm not able to tell you the particulars of this promise.
+191,English,detail,Noa,But that's just fine. I know you'll find a way to remember.
+192,English,detail,Katalina,"That's all well and good, but we should get a move on. The empire's search party will be close by now. We need to move."
+193,English,synopsis,,Rackam begins to remember the promise he made to Noa.
+194,English,detail,Rackam,The promise...
+195,English,detail,Rackam,"I think I'm startin' to remember it... It was back then, when I met you, Noa."
+196,English,detail,Rackam,We talked a lot. But what we talked about is still fuzzy.
+197,English,detail,Noa,I can see your eyes haven't changed a bit since then. So you'll remember it. I'm sure of it.
+198,English,detail,Noa,But I also want you to remember how happy I was when you made that promise to me.
+199,English,detail,Rackam,If I could just remember...
+200,English,detail,Imperial Soldier,Got 'em! How'd you lot get—
+201,English,detail,Io,"Oh, for crying out loud! You guys just keep coming right as stuff starts to get good, don't you!"
+202,English,detail,Io,"[플레이어], let's get 'em! These jerks've made me super mad!"
+203,English,synopsis,,Noa explains that it's the power of the primal beast Mithra that is keeping the Grandcypher grounded.
+204,English,detail,Rackam,Sigh... Promises...
+205,English,detail,Eugen,Mind if I ask you a question?
+206,English,detail,Noa,What is it? I hope I'll be able to answer it.
+207,English,detail,Eugen,"You said the Grandcypher won't be able to take off from this island, yeah?"
+208,English,detail,Eugen,But why is that exactly?
+209,English,detail,Noa,"A promise was made, and the Grandcypher plays a crucial role in the fulfillment of that promise."
+210,English,detail,Eugen,"Yeah, but you can't take a promise made by a child seriously, can you?"
+211,English,detail,Eugen,And how would that prevent the Grandcypher from flyin' anyway?
+212,English,detail,Eugen,"I don't think you got it in you, but did you do somethin' with your primal beast powers?"
+213,English,detail,Noa,"You are correct in suspecting that the power of a primal beast is at work. But, alas, it's not my own."
+214,English,detail,Noa,Another primal beast resides on Golonzo.
+215,English,detail,Katalina,Another primal beast?
+216,English,detail,Noa,"Yes. One native to this island. I'm more of a stray, so of course it would have more influence on this island than me."
+217,English,detail,Noa,"Its name is Mithra, a primal beast who rules over promises. It's actually quite dangerous."
+218,English,detail,Noa,"But on the other hand, you could say it's thanks to it that this island was even established."
+219,English,detail,Vyrn,So how bad could this thing be?
+220,English,detail,Noa,Why don't we continue this conversation at the docks? It will be easier to explain over there.
+221,English,synopsis,,Noa tells the crew about the extent of Mithra's powers.
+222,English,detail,Ruffian,My very own airship! It's finally ready! Can't wait to get 'er in the air.
+223,English,detail,Ruffian,"Ah, here's the fee."
+224,English,detail,Shipwright,"Thank you, much obliged. Do come again!"
+225,English,detail,Vyrn,So why'd you bring us here?
+226,English,detail,Vyrn,Is that primal beast Mithra here or somethin'?
+227,English,detail,Lyria,"Uh-uh, I don't get that feeling."
+228,English,detail,Noa,Look again. What do you notice?
+229,English,detail,Katalina,"Well, it doesn't seem that the people of this island put contracts in writing."
+230,English,detail,Katalina,"Even the maintenance fee for the Grandcypher didn't come with an invoice, and that was no small sum."
+231,English,detail,Eugen,That's just the way things've been done in Golonzo for decades. Don't think there's anything strange about it.
+232,English,detail,Eugen,"Everyone here has a strong sense of responsibility. No one would break a contract, written or unwritten."
+233,English,detail,Noa,"And that would be due to the power of Mithra, the primal beast of promises."
+234,English,detail,Rackam,What?
+235,English,detail,Noa,"It's just as you say, but in reverse. It isn't a sense of responsibility that keeps people from breaking contracts."
+236,English,detail,Noa,"Rather they've become responsible, because it's impossible to break a contract on this island."
+237,English,detail,Noa,"Mithra's powers work on an unconscious level to keep every contract, pact, or promise absolute and indestructible."
+238,English,detail,Noa,This power of promises cannot be escaped by even the most powerful of primal beasts...
+239,English,detail,Rackam,So that means Mithra is enforcing our promise?
+240,English,detail,Noa,That's right. Even though it was made by a silly little child.
+241,English,detail,Noa,"And now, for better or for worse, Mithra's powers are continuing to sustain it."
+242,English,detail,Noa,This is why the Grandcypher can't take flight.
+243,English,detail,Vyrn,That's crazy... The Grandcypher's really bound by a primal beast's powers!
+244,English,detail,Io,"Hey, hey! Can't Lyria do something about this with her powers? Like she did back in Albion?"
+245,English,detail,Lyria,Yeah! If I can borrow some of its power and release the—
+246,English,detail,Noa,Unfortunately that's impossible. Mithra's power cannot be stopped even by Mithra itself.
+247,English,detail,Noa,That is the true depth of its capability.
+248,English,detail,Lyria,Wow...
+249,English,detail,Monster,Groar!
+250,English,detail,Noa,"But I should say there's nothing keeping me from telling you the details of our own promise, save my pride."
+251,English,detail,Noa,"I need you to remember them.<br>But first, allow me to help remove this distraction!"
+252,English,synopsis,,Freesia appears and demands the crew turn over Lyria.
+253,English,detail,Freesia,"Well, well, well. This primal beast—Mithra, was it—seems to have quite a fearsome ability, doesn't it?"
+254,English,detail,Vyrn,You again! When did—
+255,English,detail,Freesia,"The power to enforce contracts... If used well, it will certainly increase the empire's dominion."
+256,English,detail,Freesia,"Claiming it was to come second to recapturing Lyria, but you must reap when a harvest is ready, as they say."
+257,English,detail,Katalina,"No, you mean... you've taken it?"
+258,English,detail,Freesia,"You're aware of that doll, aren't you?"
+259,English,detail,Freesia,So it shouldn't be hard for you to imagine how I did it.
+260,English,detail,Eugen,It takes someone real dirty to say such venomous stuff in such a matter-of-fact way.
+261,English,detail,Freesia,Now. Return Lyria at once.
+262,English,detail,Imperial Soldier,...
+263,English,detail,Freesia,"As long as we get Lyria, I don't particularly care how you capture her. Show no mercy to them."
+264,English,synopsis,,[플레이어] and the crew break through imperial forces that are blocking their path.
+265,English,detail,Katalina,"Tch... If we stay here too long, it's possible they'll overwhelm us."
+266,English,detail,Katalina,We've got to make a break for it if we're to have any hope of fulfilling Noa's promise.
+267,English,detail,Imperial Soldier,Don't think that you can escape. We've got this whole area sealed off. Not even a mouse could squeeze through us!
+268,English,detail,Io,Get out of the way already! We don't have time to dance with you goons!
+269,English,detail,Katalina,"They outnumber us... But we're going to break through. Prepare yourself, [플레이어]!"
+270,English,synopsis,,"After breaking past the imperial forces, Freesia appears, captures Lyria, and subtly announces that Mithra is under imperial control."
+271,English,detail,,"After escaping from the imperial forces, [플레이어] and the crew take a moment to catch their breath."
+272,English,detail,Rackam,Huff... Did we give them the slip?
+273,English,detail,Katalina,They had the numbers advantage... Huff-huff... But we managed to—
+274,English,detail,Freesia,No... My men performed most admirably.
+275,English,detail,Freesia,"Thanks to them, we were able to recover Lyria."
+276,English,detail,Rackam,What!
+277,English,detail,Lyria,Katalina! [플레이어]!
+278,English,detail,Katalina,"Lyria! Tch... Damn it, I look away for one second..."
+279,English,detail,Imperial Soldier,...
+280,English,detail,Katalina,No... No! Get out my way! Move!
+281,English,detail,Eugen,There's too many! Get too close and you're a goner!
+282,English,detail,Rackam,This woman again! Leave us alone!
+283,English,detail,Io,Wait! Where do you think you're taking Lyria?
+284,English,detail,Freesia,"Back to the empire where she belongs. Yes, <span class='scene-font-italic'>he</span> will be most pleased with both the girl and Mithra."
+285,English,detail,Lyria,"H-help me, [플레이어]!"
+286,English,detail,,"The crew desperately reach for Lyria, but it's too late."
+287,English,detail,,"Lyria's form grows smaller and smaller as she's taken back to Golonzo's port, where the imperial battleship is waiting."

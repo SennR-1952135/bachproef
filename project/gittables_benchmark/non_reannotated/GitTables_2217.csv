@@ -1,0 +1,34 @@
+,name
+0,crm.segmentation user
+1,crm.segmentation.line user
+2,crm.segmentation
+3,crm.segmentation.line
+4,crm.tracking.medium user
+5,crm.tracking.medium manager
+6,crm.tracking.source user
+7,crm.tracking.source manager
+8,crm.case.categ
+9,crm.lead.manager
+10,crm.phonecall.manager
+11,crm.case.categ
+12,crm.lead
+13,crm.phonecall
+14,crm.case.stage
+15,crm.case.stage
+16,crm_tracking_campaign user
+17,crm_tracking_campaign manager
+18,crm.phonecall.report.user
+19,crm.phonecall.report
+20,res.partner.crm.manager
+21,res.partner.category.crm.manager
+22,res.partner.crm.user
+23,res.partner.category.crm.user
+24,mail.thread
+25,crm.case.categ manager
+26,base.action.rule manager
+27,crm.lead.report user
+28,res.partner.bank.type.crm.user
+29,crm.lead.partner.manager
+30,crm.phonecall.partner.manager
+31,crm.payment.mode
+32,crm.payment.mode

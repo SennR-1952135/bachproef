@@ -1,0 +1,186 @@
+,city,name,state,type
+0,Washington Depot,Averill Farm,ct,farm
+1,Guilford,Bishops Orchards location 1,ct,farm
+2,Wallingford,Blue Hills Orchard,ct,farm
+3,Eastford,Buell's Orchard,ct,farm
+4,Harwinton,Cheney Family Farm,ct,farm
+5,East Haddam,COLD SPRING FARM at Lake Hayward,ct,farm
+6,Colchester,Common Ground CSA,ct,farm
+7,Woodstock,Devon Point Farm,ct,farm
+8,Bethel,Holbrook Farm Market and Bakery,ct,farm
+9,Litchfield,Laurel Ridge Grass Fed Beef,ct,farm
+10,North Granby,Lost Acres Orchard,ct,farm
+11,Roxbury,Mike's Beehives LLC,ct,farm
+12,Scotland,Oak Haven Farm,ct,farm
+13,Bozrah,Old Fitch Farm Vineyard,ct,farm
+14,Brooklyn,Pakulis Farm LLC,ct,farm
+15,Somers ,Pell Farm,ct,farm
+16,North Windham,Raspberry Knoll Farm LLC,ct,farm
+17,North Branford,Rose Orchards,ct,farm
+18,Sandy Hook,Sepe Farm LLC,ct,farm
+19,East Haddam,Staehly Farms,ct,farm
+20,Griswold,StandingStone Farm/Flatland Alpacas,ct,farm
+21,Washington Depot,Starberry Farm,ct,farm
+22,Griswold,Stone Bridge Farm Alpacas,ct,farm
+23,Gaylordsville,The Village Farm,ct,farm
+24,South Glastonbury,"Walnut Ledge Farm, LLC",ct,farm
+25,Salisbury,Whippoorwill Farm,ct,farm
+26,Winchester Center,White Stone Acres,ct,farm
+27,Ashford,ASHFORD FARMERS’ MARKET,ct,market
+28,AVON,Avon Library Farmers Market,ct,market
+29,Berlin,BERLIN FARMERS MARKET,ct,market
+30,Bethany,Bethany Farmers Market,ct,market
+31,Bethel,Bethel Farmers Market,ct,market
+32,Bloomfield,Bloomfield Farmers Market,ct,market
+33,Bozrah,Bozrah Farmers Market,ct,market
+34,Branford,Branford Alps Farmers Market,ct,market
+35,Bristol,Bristol - Housing Authority Farmers’ Market,ct,market
+36,Bristol,Bristol Farmers Market,ct,market
+37,Brooklyn,Brooklyn FM,ct,market
+38,Burlington,Burlington Farmers Market,ct,market
+39,Chester,Chester Sunday Farmers’ Market,ct,market
+40,New Haven,City Farmers' Market Fair Haven ,ct,market
+41,New Haven,CitySeed Edgewood Park Farmers Market,ct,market
+42,New Haven,CitySeed Fair Haven Farmers Market,ct,market
+43,New Haven,CitySeed Winter Market,ct,market
+44,New Haven,CitySeed Wooster Square Farmers Market,ct,market
+45,Clinton,Clinton CT Farmers' Market,ct,market
+46,Colchester,Colchester Farmers’ Market,ct,market
+47,Collinsville,Collinsville Farmers Market,ct,market
+48,Hartford,Connecticut's Old State House Farmers Market,ct,market
+49,Cornwall,CORNWALL FARMERS’ MARKET,ct,market
+50,Coventry,Coventry Farmers' Market (formerly Coventry Regional Farmers' Market),ct,market
+51,Cromwell,Cromwell Farmers’ Market,ct,market
+52,Danbury,Danbury Farmers' Market,ct,market
+53,Danielson,Danielson Farmers Market,ct,market
+54,Darien,Darien Farmers Market,ct,market
+55,Deep River,Deep River Farmers Market,ct,market
+56,Durham,Durham Farmers' Market,ct,market
+57,East Granby,East Granby Farmers’ Market,ct,market
+58,East Haven,EAST HAVEN FARMERS’ MARKET,ct,market
+59,East Windsor,EAST WINDSOR FARMERS’ MARKET,ct,market
+60,Ellington,Ellington Farmers Market,ct,market
+61,Ellington ,Ellington Winter Farmers' Market,ct,market
+62,Enfield,ENFIELD FARMERS’ MARKET,ct,market
+63,Essex,Essex Farmers Market,ct,market
+64,Hartford,Farmers Market at Billings Forge,ct,market
+65,West Hartford,Farmers' Market at Bishops Corner,ct,market
+66,Avon ,Farmington Valley Farmers Market,ct,market
+67,Georgetown,Georgetown Farmers Market,ct,market
+68,Goshen,Goshen Farmers' Market,ct,market
+69,Fairfield,Greenfield Farmers Market,ct,market
+70,Greenwich,Greenwich Farmers Market,ct,market
+71,Groton,Groton Farmers Market,ct,market
+72,Hamden,HAMDEN - DOWNTOWN FARMERS’ MARKET,ct,market
+73,Hamden,HAMDEN - SPRING GLEN FARMERS’ MARKET,ct,market
+74,Hartford,Hartford - Capital Avenue Farmers Market,ct,market
+75,Hartford,Hartford - Market 21 Farmers’ Market,ct,market
+76,Hartford,Hartford - Park Street Farmers’ Market,ct,market
+77,Hartford,Hartford - West End Farmers Market,ct,market
+78,Hartford,Hartford Regional Market,ct,market
+79,Hartford,Hartford's North End Farmers' Market,ct,market
+80,Hebron,HEBRON FARMERS’ MARKET,ct,market
+81,Higganum,Higganum  Farmers' Market,ct,market
+82,Ivoryton,Ivoryton Village Farmers Market,ct,market
+83,Kent,Kent Farmers Market,ct,market
+84,Weston,Lachat Farmers Market,ct,market
+85,Lebanon,Lebanon Farmers Market,ct,market
+86,Ledyard,LEDYARD  FARMERS' MARKET,ct,market
+87,Lisbon,Lisbon Farmers' Market,ct,market
+88,Litchfeild,Litchfield Hills Farm-Fresh Market,ct,market
+89,Litchfield,Litchfield Hills Farm-Fresh Market,ct,market
+90,Lyme,Lyme Farmers Market,ct,market
+91,Madison,MADISON FARMERS’ MARKET,ct,market
+92,Manchester,MANCHESTER COMMUNITY COLLEGE FARMERS’ MARKET,ct,market
+93,Manchester,Manchester Farmers Market,ct,market
+94,Marlborough,MARLBOROUGH FARMERS’ MARKET,ct,market
+95,Meriden,Meriden Farmers Market,ct,market
+96,Middlebury,MIDDLEBURY FARMERS’ MARKET,ct,market
+97,Middletown,Middletown Farmers Market,ct,market
+98,Milford,MILFORD -  WOODMONT FARMERS’ MARKET,ct,market
+99,Milford,MILFORD - DOWNTOWN FARMERS’ MARKET,ct,market
+100,Morris,Morris Farmers' Market,ct,market
+101,Mystic,Mystic Farmers Market,ct,market
+102,Mystic,Mystic/Denison Farmers Market,ct,market
+103,Naugatuck,Naugatuck Farmers Market,ct,market
+104,New Britain,New Britain Farmers Market,ct,market
+105,New Canaan,New Canaan Farmers Market,ct,market
+106,New Hartford,NEW HARTFORD FARMERS’ MARKET,ct,market
+107,New Haven,New Haven - CitySeed Downtown Farmers Market,ct,market
+108,NEW HAVEN,New Haven - Upper State Street Farmers’ Market,ct,market
+109,New London,New London Field of Greens Markets,ct,market
+110,New London,New London Field of Greens Markets,ct,market
+111,New London ,New London Field of Greens on Hodges Square,ct,market
+112,New Milford,New Milford Farmers Market,ct,market
+113,Norfolk,NORFOLK FARMERS’ MARKET,ct,market
+114,Middletown,North End Farmers Market,ct,market
+115,Guilford,NORTH GUILFORD - DUDLEY FARMERS’ MARKET,ct,market
+116,Norwalk,Norwalk - Calvary Baptist Church Farmers’ Market,ct,market
+117,Norwalk,Norwalk - Health Department Farmers’ Market,ct,market
+118,Rowayton,Norwalk - Rowayton Farmers’ Market,ct,market
+119,Norwalk,Norwalk Farmers Market,ct,market
+120,Norwich,Norwich Downtown Farmers Market,ct,market
+121,Old Greenwich,Old Greenwich Farmer's Market,ct,market
+122,Old Saybrook,Old Saybrook Farmers Market,ct,market
+123,Orange ,Orange Community Farmers' Market,ct,market
+124,Plainfield,Plainfield Farmers Market,ct,market
+125,Portland,PORTLAND - TRI TOWN FOODS FARMERS’ MARKET,ct,market
+126,Preston,Preston Farmers’ Market,ct,market
+127,East Hampton,"Public Market Palooza East Hampton, CT",ct,market
+128,Putnam,Putnam Farmers Market,ct,market
+129,Ridgefield,RIDGEFIELD FARMERS’ MARKET,ct,market
+130,Salem,Salem Farmers' Market ,ct,market
+131,Newtown,Sandy Hook Organic Farmers Market,ct,market
+132,Scotland,Scotland Farmers Market,ct,market
+133,Seymour,Seymour Farmers Market,ct,market
+134,Shelton,Shelton - Jones Family Farm Farmers’ Market,ct,market
+135,Shelton,Shelton Farmers Market,ct,market
+136,Simsbury,SIMSBURY FARMERS’ MARKET,ct,market
+137,Somers,SOMERS FARMERS’ MARKET,ct,market
+138,South Windsor,South Windsor Farmers’ Market,ct,market
+139,Southbury,SOUTHBURY FARMERS’ MARKET,ct,market
+140,Plantsville,SOUTHINGTON - PLANTSVILLE FARMERS’ MARKET,ct,market
+141,Stafford Springs,Stafford Community Farmers' Market,ct,market
+142,Stamford,STAMFORD - BARTLETT ARBORETUM & GARDENS FARMERS’ MARKET,ct,market
+143,Stamford,Stamford - High RidgeFarmers' Market,ct,market
+144,Stamford,Stamford Farmers Market,ct,market
+145,Stamford,Stamford Museum & Nature Center Farmers’ Market,ct,market
+146,Stonington,Stonington Farmers Market,ct,market
+147,Stonington borough,Stonington Farmers Market,ct,market
+148,Storrs,Storrs Farmers Market,ct,market
+149,Mansfield Center ,Storrs Winter Farmers Market,ct,market
+150,Stratford,Stratford Farmers Market,ct,market
+151,Suffield,Suffield Farmers Market,ct,market
+152,Newtown,The Farmers Market at Fairfield Hills,ct,market
+153,Lyme,The Farmers Market at Tiffany Farms,ct,market
+154,Monroe,The Monroe Farmers’ Market,ct,market
+155,Morris,The Morris Marketplace ,ct,market
+156,Thomaston,Thomaston Farmers Market,ct,market
+157,Tolland,Tolland Farmers Market,ct,market
+158,Torrington,Torrington Farmers Market,ct,market
+159,Trumbull,Trumbull Farmers Market,ct,market
+160,New Haven,Upper State Street Farm Market ,ct,market
+161,New Britain ,Urban Oaks Organic Farm,ct,market
+162,Milford,Village of Devon Farmer's Market ,ct,market
+163,Voluntown,Voluntown Farmers' Market ,ct,market
+164,Wallingford,Wallingford Farmers Market,ct,market
+165,Washington Depot,WASHINGTON DEPOT FARMERS’ MARKET,ct,market
+166,Waterbury,WATERBURY - FULTON PARK FARMERS’ MARKET,ct,market
+167,Waterbury,WATERBURY - MALL FARMERS’ MARKET,ct,market
+168,Waterbury,Waterbury - South End Farmers’ Market,ct,market
+169,Waterbury,WATERBURY - TOWN GREEN FARMERS’ MARKET,ct,market
+170,Waterford,Waterford Farmers' Market,ct,market
+171,Watertown,"Watertown, CT Farmers' Market",ct,market
+172,West Hartford,WEST HARTFORD – WHOLE FOODS FARMERS’ MARKET,ct,market
+173,West Hartford,West Hartford Farmers Market,ct,market
+174,West Haven,West Haven Farmers Market,ct,market
+175,Westport,WESTPORT - SAUGATUCK FARMERS’ MARKET,ct,market
+176,Westport,WESTPORT FARMERS MARKET,ct,market
+177,Wethersfield ,Wethersfield Farmers' Market,ct,market
+178,Westport,WILLIMANTIC FARMERS’ MARKET,ct,market
+179,Wilson,Wilson Farmers Market,ct,market
+180,Wilton,Wilton Farmers’ Market,ct,market
+181,Windsor,WINDSOR FARMERS’ MARKET,ct,market
+182,Dayville,Winter Farmers Market at Killingly Grange,ct,market
+183,Weston,Winter Farmers Market at Norfield Grange,ct,market
+184,Woodbury,WOODBURY FARMERS’ MARKET,ct,market

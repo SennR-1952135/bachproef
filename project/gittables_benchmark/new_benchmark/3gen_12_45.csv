@@ -1,0 +1,138 @@
+,year,country,city
+0,2012,United States,Los Angeles
+1,2012,United States,Los Angeles
+2,2012,United States,Ames
+3,2012,United States,Los Angeles
+4,2012,India,Hyderabad
+5,2012,Germany,Mainz
+6,2012,Spain;Germany,Zaragoza;Bochum
+7,2012,United States;Germany,Lincoln;Bochum
+8,2012,United States,New Brunswick
+9,2012,United States,Los Angeles
+10,2011,Japan,Hachioji
+11,2011,United States,Ames
+12,2011,United States,Los Angeles
+13,2011,Germany,Saarbrucken
+14,2011,United States,Los Angeles
+15,2011,Japan,Sendai
+16,2011,United Kingdom,Leeds
+17,2010,China;China,Danzhou;Haikou
+18,2010,Italy,Trieste
+19,2010,Germany,Heidelberg
+20,2010,United States,Buffalo
+21,2010,United States;United States,Boston;Boston
+22,2010,United States;United States,Chicago;Durham
+23,2010,United States,Los Angeles
+24,2010,Germany,Freiburg im Breisgau
+25,2010,Taiwan,Taipei
+26,2010,Netherlands,Wageningen
+27,2009,Japan,Tokyo
+28,2009,United States,Dallas
+29,2009,United States,Los Angeles
+30,2009,United States,Hanover
+31,2009,United States,Austin
+32,2009,United States,Hanover
+33,2009,United States,Los Angeles
+34,2009,China,Hangzhou
+35,2009,Italy,Udine
+36,2009,China;China,Danzhou;Haikou
+37,2009,United States,Hanover
+38,2009,Germany,Berlin
+39,2009,United States,Milford
+40,2009,United States,Milford
+41,2009,Japan,Kyoto
+42,2009,Germany,Bayreuth
+43,2009,France;France;France;France,Saint Martin d'Heres;Grenoble;Paris;Saint-Genes-Champanelle
+44,2009,United States,Corvallis
+45,2009,Japan,Fukuoka
+46,2008,United Kingdom,London
+47,2008,China,Beijing
+48,2008,Germany,Marburg
+49,2008,United States,Hanover
+50,2008,United States;France,Rockville;Paris
+51,2008,Germany,Munster
+52,2008,United States,Pasadena
+53,2008,China,Beijing
+54,2008,Singapore;United States,Singapore City;Durham
+55,2008,United States;United States,Los Angeles;Los Angeles
+56,2008,United States;Taiwan,Los Angeles;Taipei
+57,2008,China;China,Beijing;Beijing
+58,2008,United States,Santa Cruz
+59,2008,Brazil,Porto Alegre
+60,2008,United States,Bethesda
+61,2008,United States,Salt Lake City
+62,2007,China;Sweden,Danzhou;Umea
+63,2007,United States;Germany,Philadelphia;Munster
+64,2007,China;China,Danzhou;Haikou
+65,2007,United States,Los Angeles
+66,2007,United States,Buffalo
+67,2007,United States,Los Angeles
+68,2007,Germany,Saarbrucken
+69,2007,United States,Los Angeles
+70,2007,Japan;Japan;Japan;Japan,Tokyo;Tokyo;Kawaguchi;Chiba
+71,2006,Germany,Berlin
+72,2006,United States;United States,Lincoln;Bethesda
+73,2006,United States;Germany,Philadelphia;Munster
+74,2006,United States;United States,Searcy;Houston
+75,2006,Canada,Laval
+76,2006,United States,Hanover
+77,2006,Germany,Halle
+78,2006,China;China;China,Beijing;Nantong;Beijing
+79,2006,United States;Germany,Chapel Hill;Stuttgart
+80,2006,United States,Lincoln
+81,2006,Japan,Tokyo
+82,2006,United States,Bethesda
+83,2006,United States,Los Angeles
+84,2006,Israel,Tel Aviv-Yafo
+85,2006,United States,Milford
+86,2006,United States,Milford
+87,2005,United States,Los Angeles
+88,2005,France,Paris
+89,2005,Belgium,Liege
+90,2005,Germany,Gatersleben
+91,2005,Germany,Mainz
+92,2005,China;China,Beijing;Beijing
+93,2005,United States,Philadelphia
+94,2005,Germany,Tubingen
+95,2005,United States,Milford
+96,2004,United States,Hanover
+97,2004,Germany,Koln
+98,2004,Belgium,Liege
+99,2004,United States,Oakland
+100,2004,Japan;Japan,Kobe;Kobe
+101,2003,United Kingdom,Oxford
+102,2003,France;United States,Gif-sur-Yvette;San Diego
+103,2003,United States,Columbia
+104,2003,Germany,Gatersleben
+105,2003,Spain,Zaragoza
+106,2002,United States,Los Angeles
+107,2002,United States,St. Louis
+108,2002,China;Switzerland,Beijing;Zurich
+109,2002,United States;Australia,Los Angeles;Geelong
+110,2002,Switzerland,"Zurich ZH,"
+111,2002,United States,Hanover
+112,2001,United States,Urbana
+113,2001,Spain,Madrid
+114,2001,United States,Salt Lake City
+115,2001,United Kingdom,London
+116,2001,United Kingdom,Cambridge
+117,2001,United States,Foster City
+118,2000,Italy,Bologna
+119,2000,United States,San Diego
+120,2000,United States,Baltimore
+121,2000,United States,Boston
+122,1999,United States,"Washington, D.C."
+123,1999,France,Montpellier
+124,1999,Canada,"Ottawa ON,"
+125,1998,,
+126,1998,United States,Bethesda
+127,1997,France,Montpellier
+128,1997,United States,Boston
+129,1995,Germany,Heidelberg
+130,1994,United States,Hanover
+131,1992,Japan,Kyoto
+132,1992,United States,Los Angeles
+133,1991,United States,"Washington, D.C."
+134,1991,United States,Cambridge
+135,1990,United States,Lexington
+136,1987,United States,Detroit

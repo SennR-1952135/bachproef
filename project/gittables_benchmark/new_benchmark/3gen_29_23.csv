@@ -1,0 +1,56 @@
+,year,country,city
+0,2005,United States,Boston
+1,2005,United States;United States,Boston;Evanston
+2,2005,France,Paris
+3,2004,United States,New Haven
+4,2004,Israel,Rehovot
+5,2004,United States,New Haven
+6,2004,Israel,Rehovot
+7,2004,United States,Princeton
+8,2004,Israel;Israel,Haifa;Jerusalem
+9,2004,United States,New Haven
+10,2004,Israel,Rehovot
+11,2004,Japan,Kyoto
+12,2003,United States;United States,New York;New Haven
+13,2003,Israel,Rehovot
+14,2003,United States,New Haven
+15,2003,Japan,Higashihiroshima
+16,2003,United States;United States,Boston;Boston
+17,2003,Canada,Toronto
+18,2002,United States,New Haven
+19,2002,United States,Cambridge
+20,2002,Israel,Rehovot
+21,2002,United States;United States,Minneapolis;Notre Dame
+22,2002,United States;United States,Santa Fe;Ithaca
+23,2002,Germany,Heidelberg
+24,2002,United States,Berkeley
+25,2002,United States,Bethesda
+26,2002,United States,New Haven
+27,2002,Netherlands;United Kingdom,Utrecht;Cambridge
+28,2002,France;France,Paris;Paris
+29,2002,Germany;Germany,Freising;Neuherberg
+30,2002,United States,Los Angeles
+31,2002,,
+32,2002,Canada,Toronto
+33,2002,United Kingdom,Brentford
+34,2001,United States,New Haven
+35,2001,Canada,Toronto
+36,2001,Germany,Planegg
+37,2001,United States,Notre Dame
+38,2001,,
+39,2001,Japan,Kyoto
+40,2001,United States,Boston
+41,2001,Germany,Braunschweig
+42,2000,United States,Boston
+43,2000,United States,Seattle
+44,2000,Japan,Tokyo
+45,1999,United States,Seattle
+46,1999,United States,Beverly
+47,1998,United States,Stanford
+48,1998,United States,Stanford
+49,1997,United States,Corvallis
+50,1995,Japan,Suita
+51,1995,United States,Bethesda
+52,1995,Austria;Austria,Vienna;Vienna
+53,1993,United States,Irvine
+54,1992,United States,Cambridge

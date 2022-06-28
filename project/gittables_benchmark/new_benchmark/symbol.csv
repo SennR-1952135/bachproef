@@ -1,0 +1,624 @@
+,symbol,description,category
+0,ZC,Corn,AG
+1,ZO,Oats,AG
+2,ZW,Wheat,AG
+3,KE,Hard Red Wheat,AG
+4,ZS,Soybeans,AG
+5,ZR,Rough Rice,AG
+6,ZM,Soybean Meal,AG
+7,ZL,Soybean Oil,AG
+8,ZK,Ethanol Futures,AG
+9,FZ,Ethanol Forward,AG
+10,WL,EU Wheat,AG
+11,CS,Soybean Crush,AG
+12,F5,Urea FOB NOLA Swap,AG
+13,F9,Urea FOB Yuzhny Swap,AG
+14,F0,Urea FOB Egypt Swap,AG
+15,F4,Urea FOB MidEast Swap,AG
+16,F7,UAN FOB NOLA Swap,AG
+17,F8,DAP FOB NOLA Swap,AG
+18,FD,DAP FOB Tampa Swap,AG
+19,F3,Australian Wheat FOB,AG
+20,AH,BBerg Commodity Index,INDICES
+21,DH,DJ Real Estate Index,INDICES
+22,ZB,T-Bond,INTEREST RATES
+23,ZN,10-Year T-Note,INTEREST RATES
+24,ZF,5-Year T-Note,INTEREST RATES
+25,ZE,3-Year T-Note,INTEREST RATES
+26,ZT,2-Year T-Note,INTEREST RATES
+27,UD,Ultra T-Bond,INTEREST RATES
+28,TN,Ultra 10-Year T-Note,INTEREST RATES
+29,RD,2-Year USD I/R Swap,INTEREST RATES
+30,RH,5-Year USD I/R Swap,INTEREST RATES
+31,SA,7-Year USD I/R Swap,INTEREST RATES
+32,RQ,10-Year USD I/R Swap,INTEREST RATES
+33,SR,20-Year USD I/R Swap,INTEREST RATES
+34,RW,30-Year USD I/R Swap,INTEREST RATES
+35,M0,2-Year EUR I/R Swap,INTEREST RATES
+36,M1,5-Year EUR I/R Swap,INTEREST RATES
+37,M2,10-Year EUR I/R Swap,INTEREST RATES
+38,ZQ,30-Day Fed Funds,INTEREST RATES
+39,YM,Dow Indu 30 E-Mini,MINI
+40,XN,Corn mini-sized,MINI
+41,XW,Wheat mini-sized,MINI
+42,XK,Soybeans mini-sized,MINI
+43,MK,HRW Wheat mini-sized,MINI
+44,GF,Feeder Cattle,AG
+45,LE,Live Cattle,AG
+46,HE,Lean Hogs,AG
+47,BD,Butter Cash-Settled,AG
+48,DL,Class III Milk,AG
+49,DF,Nonfat Dry Milk,AG
+50,DK,Class IV Milk,AG
+51,JQ,Midsize Milk Options,AG
+52,BJ,Cheese Cash-Settled,AG
+53,CU,Crude Palm Oil,AG
+54,LS,Lumber,AG
+55,DG,Dry Whey,AG
+56,FI,Palm Oil MY Swaps,AG
+57,FW,Palm Olein MY Swaps,AG
+58,A6,Australian Dollar,CURRENCIES
+59,B6,British Pound,CURRENCIES
+60,D6,Canadian Dollar,CURRENCIES
+61,J6,Japanese Yen,CURRENCIES
+62,E6,Euro FX,CURRENCIES
+63,S6,Swiss Franc,CURRENCIES
+64,M6,Mexican Peso,CURRENCIES
+65,L6,Brazilian Real,CURRENCIES
+66,N6,New Zealand Dollar,CURRENCIES
+67,R6,Russian Ruble,CURRENCIES
+68,T6,South African Rand,CURRENCIES
+69,T3,USD/ZAR,CURRENCIES
+70,RP,Euro/Pound,CURRENCIES
+71,RY,Euro/Yen,CURRENCIES
+72,RF,Euro/Swiss,CURRENCIES
+73,SK,Swedish Krona,CURRENCIES
+74,NR,Norwegian Krone,CURRENCIES
+75,UA,Euro/Krona,CURRENCIES
+76,UB,Euro/Krone,CURRENCIES
+77,UC,Euro/Australian,CURRENCIES
+78,UE,Euro/Canadian,CURRENCIES
+79,UF,Canadian/Yen,CURRENCIES
+80,UG,Australian/Canadian,CURRENCIES
+81,UI,Australian/N.Zealand,CURRENCIES
+82,UK,Australian/Yen,CURRENCIES
+83,UN,British/Swiss Franc,CURRENCIES
+84,UR,British/Yen,CURRENCIES
+85,UP,Swiss Franc/Yen,CURRENCIES
+86,WE,Euro/Czech Koruna,CURRENCIES
+87,WP,Polish Zloty,CURRENCIES
+88,WH,Hungarian Forint,CURRENCIES
+89,WC,Czech Koruna,CURRENCIES
+90,WU,Euro/Hungary Forint,CURRENCIES
+91,WY,Israeli Shekel,CURRENCIES
+92,WZ,Euro/Polish Zloty,CURRENCIES
+93,KZ,Korean Won,CURRENCIES
+94,QV,Renminbi/Euro,CURRENCIES
+95,QT,Chinese Renminbi,CURRENCIES
+96,E4,Turkish Lira,CURRENCIES
+97,E5,Euro/Turkish Lira,CURRENCIES
+98,H5,USD/offshore RMB,CURRENCIES
+99,H3,Indian Rupee,CURRENCIES
+100,N5,Chilean Peso,CURRENCIES
+101,N0,Chilean Peso/USD,CURRENCIES
+102,BA,CME Dollar Spot Index,CURRENCIES
+103,J0,HPI Composite Index,HOUSING
+104,I0,HPI Boston,HOUSING
+105,I1,HPI Chicago,HOUSING
+106,I2,HPI Denver,HOUSING
+107,I3,HPI Las Vegas,HOUSING
+108,I4,HPI Los Angeles,HOUSING
+109,I5,HPI Miami,HOUSING
+110,I6,HPI New York,HOUSING
+111,I7,HPI San Diego,HOUSING
+112,I8,HPI San Francisco,HOUSING
+113,I9,HPI Washington DC,HOUSING
+114,SP,S&P 500 Index,INDICES
+115,SG,S&P 500 Growth Index,INDICES
+116,SU,S&P 500 Value Index,INDICES
+117,SE,S&P MLP Total Return,INDICES
+118,T2,S&P 500 Dividend,INDICES
+119,NY,Nikkei 225,INDICES
+120,NL,Nikkei 225 Yen,INDICES
+121,IF,Ibovespa USD,INDICES
+122,GD,S&P GSCI,INDICES
+123,G7,S&P GS Excess Index,INDICES
+124,BI,S&P 500 Cons Disc,INDICES
+125,BL,S&P 500 Cons Staples,INDICES
+126,BM,S&P 500 Energy,INDICES
+127,BN,S&P 500 Financials,INDICES
+128,BS,S&P 500 Health Care,INDICES
+129,JG,S&P 500 Industrial,INDICES
+130,JA,S&P 500 Materials,INDICES
+131,JB,S&P 500 Info Tech,INDICES
+132,JE,S&P 500 Utilities,INDICES
+133,BK,S&P 500 Real Estate,INDICES
+134,GE,Eurodollar,INTEREST RATES
+135,K6,2-Year Bundle EuroD,INTEREST RATES
+136,K7,3-Year Bundle EuroD,INTEREST RATES
+137,K9,5-Year Bundle EuroD,INTEREST RATES
+138,FE,3-Month EuriBor,INTEREST RATES
+139,GH,1-Month Libor,INTEREST RATES
+140,ES,S&P 500 E-Mini,MINI
+141,EW,S&P Midcap E-Mini,MINI
+142,PC,S&P Smallcap E-Mini,MINI
+143,NQ,Nasdaq 100 E-Mini,MINI
+144,NC,Nasdaq Comp E-Mini,MINI
+145,NB,Nasdaq Bio E-Mini,MINI
+146,RL,Russell 1000 E-Mini,MINI
+147,TK,Russell 1000 Growth,MINI
+148,TX,Russell 1000 Value,MINI
+149,UU,E-Mini FTSE 100 USD,MINI
+150,UV,E-Mini FTSE 100 GBP,MINI
+151,UT,E-Mini FTSE China 50,MINI
+152,EI,E-Mini FTSE Emerging,MINI
+153,DD,E-Mini Dev. Europe,MINI
+154,PJ,E-Mini IPOX US Index,MINI
+155,MC,E-Mini Nikkei Yen,MINI
+156,J7,E-Mini Japanese Yen,MINI
+157,E7,E-Mini Euro FX,MINI
+158,MB,E-Micro GBP/USD,MINI
+159,MF,E-Micro EUR/USD,MINI
+160,MG,E-Micro AUD/USD,MINI
+161,WK,E-Micro CAD/USD,MINI
+162,WM,E-Micro JPY/USD,MINI
+163,WN,E-Micro CHF/USD,MINI
+164,NM,E-Mini Nifty 50,MINI
+165,H6,E-Micro USD/CNH,MINI
+166,H4,E-Micro INR/USD,MINI
+167,CL,Crude Oil WTI,ENERGIES
+168,SC,Crude Oil Brent,ENERGIES
+169,MT,Gulf Sour Crude Oil,ENERGIES
+170,FH,Ethanol Swaps-NY,ENERGIES
+171,FL,Ethanol Swaps-Chgo,ENERGIES
+172,HO,ULSD NY Harbor,ENERGIES
+173,RB,Gasoline RBOB,ENERGIES
+174,NG,Natural Gas,ENERGIES
+175,PA,Palladium,ENERGIES
+176,PL,Platinum,ENERGIES
+177,JM,PJM Monthly On Peak,ENERGIES
+178,JP,PJM Monthly Off Peak,ENERGIES
+179,UX,Uranium,ENERGIES
+180,HV,US Steel Coil,ENERGIES
+181,TR,Iron Ore 62% Fe CFR,ENERGIES
+182,D2,Ethanol T2 ROB,ENERGIES
+183,X9,ASX Eastern Wheat,ENERGIES
+184,X4,BMF US Dollar Mini,ENERGIES
+185,WS,Crude Oil WTI (F),FINANCIAL SETTLED
+186,QA,Crude Oil Brent (F),FINANCIAL SETTLED
+187,BH,ULSD NY Harbor (F),FINANCIAL SETTLED
+188,RT,Gasoline RBOB (F),FINANCIAL SETTLED
+189,HP,Natural Gas (F),FINANCIAL SETTLED
+190,HH,Natural Gas LDay (F),FINANCIAL SETTLED
+191,QH,E-Mini ULSD NYHarbor,MINI
+192,QU,E-Mini Gasoline,MINI
+193,QG,E-Mini Natural Gas,MINI
+194,QM,E-Mini Crude Oil,MINI
+195,CJ,CME Cocoa,SOFTS
+196,KT,CME Coffee,SOFTS
+197,KG,CME Cotton #2,SOFTS
+198,KA,CME Sugar #11,SOFTS
+199,HG,High Grade Copper,METALS
+200,HJ,High Grade Copper(F),METALS
+201,GC,Gold,METALS
+202,GW,Gold Kilo,METALS
+203,SI,Silver,METALS
+204,SO,Silver 1000-oz,METALS
+205,ZA,Zinc,METALS
+206,AL,Aluminum,METALS
+207,LD,Lead,METALS
+208,QC,E-Mini Copper,MINI
+209,QI,E-Mini Silver,MINI
+210,QO,E-Mini Gold,MINI
+211,GR,E-Micro Gold,MINI
+212,KC,Coffee,COMMODITIES
+213,CC,Cocoa,COMMODITIES
+214,SB,Sugar #11,COMMODITIES
+215,SD,Sugar #16,COMMODITIES
+216,CT,Cotton #2,COMMODITIES
+217,OJ,Orange Juice,COMMODITIES
+218,JC,ICE Corn,COMMODITIES
+219,JW,ICE Wheat,COMMODITIES
+220,JS,ICE Soybeans,COMMODITIES
+221,JF,ICE Soybean Meal,COMMODITIES
+222,JL,ICE Soybean Oil,COMMODITIES
+223,DX,U.S. Dollar Index,CURRENCIES
+224,OL,Euro/Krone,CURRENCIES
+225,AR,Aussie/New Zealand,CURRENCIES
+226,YA,Aussie/Yen,CURRENCIES
+227,EU,Euro Futures,CURRENCIES
+228,PP,Japanese Yen,CURRENCIES
+229,PR,Canadian Dollar,CURRENCIES
+230,PZ,Swiss Franc,CURRENCIES
+231,YP,Pound/Dollar,CURRENCIES
+232,OR,Dollar/Rand,CURRENCIES
+233,SY,Pound/Yen,CURRENCIES
+234,SS,Pound/Swiss,CURRENCIES
+235,AU,Australian Dollar,CURRENCIES
+236,JJ,New Zealand Dollar,CURRENCIES
+237,EP,Euro/Canadian,CURRENCIES
+238,AS,Aussie/Canadian,CURRENCIES
+239,HY,Canadian/Yen,CURRENCIES
+240,KU,Dollar/Krona,CURRENCIES
+241,NS,Dollar/Krone,CURRENCIES
+242,EQ,Euro/Australian,CURRENCIES
+243,GB,Euro/Pound,CURRENCIES
+244,EJ,Euro/Yen,CURRENCIES
+245,RK,Euro/Krona,CURRENCIES
+246,RZ,Euro/Swiss,CURRENCIES
+247,EK,Krone/Krona,CURRENCIES
+248,ZY,Swiss/Yen,CURRENCIES
+249,UZ,Dollar/Koruna,CURRENCIES
+250,GZ,Euro/Koruna,CURRENCIES
+251,UY,Dollar/Forint,CURRENCIES
+252,GY,Euro/Forint,CURRENCIES
+253,PY,Euro/Rand,CURRENCIES
+254,PV,Pound/Australian,CURRENCIES
+255,GN,Pound/New Zealand,CURRENCIES
+256,PW,Pound/Canadian,CURRENCIES
+257,PK,Pound/Krone,CURRENCIES
+258,PX,Pound/Rand,CURRENCIES
+259,PS,Pound/Krona,CURRENCIES
+260,ZJ,New Zealand/Yen,CURRENCIES
+261,KY,Krone/Yen,CURRENCIES
+262,KJ,Krona/Yen,CURRENCIES
+263,H8,Brazilian Real,CURRENCIES
+264,H0,Indian Rupee,CURRENCIES
+265,YO,Mexican Peso,CURRENCIES
+266,YN,Colombian Peso,CURRENCIES
+267,HC,Turkish Lira/Euro,CURRENCIES
+268,HD,Turkish Lira/USD,CURRENCIES
+269,YG,Gold mini-sized,METALS
+270,YI,Silver mini-sized,METALS
+271,ZG,ICE Gold 100-oz,METALS
+272,ZI,ICE Silver 5000-oz,METALS
+273,G8,ICE Gold Miners,METALS
+274,RS,Canola,
+275,BB,Barley,
+276,DN,Durum Wheat,
+277,MA,Milling Wheat,
+278,VI,S&P 500 VIX,
+279,N2,10-Year T-Note VIX,
+280,MW,Spring Wheat,
+281,IH,HRWI Hard Red,
+282,IC,NCI National Corn,
+283,IS,NSI National Soybean,
+284,IP,HRSI Hard Red Spring,
+285,IW,SRWI Soft Red Wheat,
+286,AJ,AJC,
+287,EA,Canadian 30-Year,
+288,CG,Canadian 10-Year,
+289,GM,Canadian 5-Year,
+290,CH,Canadian 2-Year,
+291,CE,Canadian BA,
+292,ER,30-Day O/N Repo Rate,
+293,OI,Overnight Index Swap,
+294,TP,S&P TSX 60,
+295,SN,S&P TSX 60 Mini,
+296,AX,TSX Composite Mini,
+297,AT,TSX Capped Energy,
+298,AV,TSX Capped Financials,
+299,AW,TSX Capped Info Tech,
+300,AY,TSX Global Gold,
+301,DP,1-Day Interbank Dep.,
+302,XC,BMF Live Cattle,
+303,XD,BMF US Dollar,
+304,X4,BMF US Dollar Mini,
+305,XF,Arabica Coffee 4/5,
+306,XI,BMF Bovespa Index,
+307,UM,BMF Bovespa Mini,
+308,XE,BMF Cash Corn,
+309,SJ,BMF Cash Soybean,
+310,U5,BMF Mini-Soybean CME,
+311,TL,BMF Ethanol,
+312,O2,BMF Australian Dollar,
+313,O3,BMF Euro Futures,
+314,Z1,BMF Canadian Dollar,
+315,Z2,BMF Chilean Peso,
+316,Z3,BMF Japanese Yen,
+317,Z4,BMF Mexican Peso,
+318,Z5,BMF Pound Sterling,
+319,Z6,BMF Swiss Franc,
+320,Z7,BMF Turkish Lira,
+321,Z0,BMF New Zealand Doll.,
+322,U0,BMF South Africa Rand,
+323,A1,TRIGO B.A.,
+324,A2,TRIGO I.W.,
+325,A3,TRIGO Q.Q.,
+326,A4,TRIGO ROS,
+327,B0,MAIZ ROS,
+328,D8,SOJA ROS,
+329,AA,US$/Argentine Peso,
+330,GA,ROFEX Corn,
+331,GL,ROFEX Wheat,
+332,OQ,DME Crude Oil Oman,
+333,QW,DME Crude Oman (F),
+334,M7,DGCX Gold,
+335,M8,DGCX Indian Rupee,
+336,M9,DGCX Polypropylene,
+337,LX,JSE FTSE Top 40,
+338,LY,JSE FTSE INDI 25,
+339,LR,JSE FTSE FINI 15,
+340,LL,JSE FTSE Weighted 40,
+341,L$,JSE FTSE Fin Indu 30,
+342,J$,JSE FTSE Capped 40,
+343,HW,SAFEX White Maize,
+344,HM,SAFEX Yellow Maize,
+345,HX,SAFEX Wheat,
+346,HL,SAFEX Sunflower,
+347,HZ,SAFEX Soya Beans,
+348,FQ,SAFEX Sorghum Sweet,
+349,FR,SAFEX Sorghum Bitter,
+350,LT,SAFEX CBOT Corn,
+351,HU,SAFEX CBOT Beans,
+352,MX,CAC 40,INDICES
+353,BE,BEL 20,INDICES
+354,PQ,PSI 20,INDICES
+355,AE,AEX Index,INDICES
+356,FJ,FTSEurofirst 100,INDICES
+357,FK,FTSEurofirst 80,INDICES
+358,XR,Rapeseed,COMMODITIES
+359,RO,Rapeseed Oil,COMMODITIES
+360,RE,Rapeseed Meal,COMMODITIES
+361,XB,Corn,COMMODITIES
+362,ML,Milling Wheat,COMMODITIES
+363,CA,Cocoa #7,COMMODITIES
+364,EB,Cocoa Euro,COMMODITIES
+365,RM,Robusta Coffee 10-T,COMMODITIES
+366,SW,White Sugar #5,COMMODITIES
+367,CX,Containerised Sugar,COMMODITIES
+368,LW,Feed Wheat,COMMODITIES
+369,CB,Crude Oil Brent,ENERGIES
+370,WI,Crude Oil WTI ICE,ENERGIES
+371,ZU,ICE ASCI Crude,ENERGIES
+372,LF,ICE Gas Oil LS,ENERGIES
+373,NF,ICE UK Natural Gas,ENERGIES
+374,LG,ICE RBOB Blendstock,ENERGIES
+375,LO,ICE Heating Oil,ENERGIES
+376,LM,ICE Middle East Sour,ENERGIES
+377,LU,ICE Rotterdam Coal,ENERGIES
+378,LV,ICE Richard Bay Coal,ENERGIES
+379,LQ,ICE NewCastle Coal,ENERGIES
+380,OO,ICE FOB Indo Coal,ENERGIES
+381,OS,ICE Appalachian Coal,ENERGIES
+382,OY,ICE CSX Coal,ENERGIES
+383,OV,ICE PowderBasin Coal,ENERGIES
+384,CP,ICE South China Coal,ENERGIES
+385,N4,UK Base Electric GRG,ENERGIES
+386,N8,UK Peak Electric GRG,ENERGIES
+387,CK,ICE EUA Futures,ENERGIES
+388,CQ,ICE CER Futures,ENERGIES
+389,RC,ICE EUAA Futures,ENERGIES
+390,=X,FTSE 100,INDICES
+391,=Y,FTSE 250,INDICES
+392,IB,FTSE 100 Dividend,INDICES
+393,F6,MSCI World NTR Index,INDICES
+394,L7,MSCI Europe NTR Index,INDICES
+395,A7,MSCI EMI,INDICES
+396,A8,MSCI Far East ex-Jap,INDICES
+397,N3,MSCI USA EW NTR,INDICES
+398,NI,MSCI EMI NT EUR Index,INDICES
+399,NJ,MSCI India Index,INDICES
+400,N7,FTSE 100 EW NTR GBP,INDICES
+401,MU,FTSE UK Mid 150 NTR,INDICES
+402,IM,3-Month EuriBor,INTEREST RATES
+403,IJ,1-Month EONIA,INTEREST RATES
+404,=L,3-Month Sterling,INTEREST RATES
+405,=F,3-Month Euroswiss,INTEREST RATES
+406,VW,2-Yr Euro Swapnote,INTEREST RATES
+407,VF,5-Yr Euro Swapnote,INTEREST RATES
+408,VT,10-Yr Euro Swapnote,INTEREST RATES
+409,VX,2-Yr Dollar Swapnote,INTEREST RATES
+410,VY,5-Yr Dollar Swapnote,INTEREST RATES
+411,VZ,10Yr Dollar Swapnote,INTEREST RATES
+412,QB,Ultra Long Gilt,INTEREST RATES
+413,=G,10-Year Long Gilt,INTEREST RATES
+414,QD,5-Year Medium Gilt,INTEREST RATES
+415,QE,2-Year Short Gilt,INTEREST RATES
+416,EG,LIFFE EuroDollar,INTEREST RATES
+417,JH,US Treasury GCF Repo,INTEREST RATES
+418,JR,Mortgage-Backed Repo,INTEREST RATES
+419,FY,Stoxx Europe 600,INDICES
+420,PE,Euro Stoxx Index,INDICES
+421,PF,Euro Stoxx Large,INDICES
+422,PG,Euro Stoxx Mid,INDICES
+423,PI,Euro Stoxx Small,INDICES
+424,PO,Stoxx Eur Large 200,INDICES
+425,FM,Stoxx Eur Mid 200,INDICES
+426,PT,Stoxx Eur Small 200,INDICES
+427,AI,DivDAX Futures,INDICES
+428,AQ,Stoxx Dividend 30,INDICES
+429,DO,Euro Stoxx Dividend,INDICES
+430,DV,VSTOXX Mini,INDICES
+431,AC,MSCI World Index,INDICES
+432,TQ,MSCI Russia Index,INDICES
+433,,MSCI China Index,INDICES
+434,JD,MSCI Europe Index,INDICES
+435,LI,Bloomberg Agriculture,INDICES
+436,LJ,Bloomberg Commodity,INDICES
+437,LK,Bloomberg Energy,INDICES
+438,LZ,Bloomberg Industrial,INDICES
+439,QP,Bloomberg Ex Energy,INDICES
+440,QN,Bloomberg Grains,INDICES
+441,QK,Bloomberg Livestock,INDICES
+442,QJ,Bloomberg Petroleum,INDICES
+443,PM,Bloomberg Metals,INDICES
+444,PU,Bloomberg Softs,INDICES
+445,GG,Euro Bund,INTEREST RATES
+446,HR,Euro Bobl,INTEREST RATES
+447,HF,Euro Schatz,INTEREST RATES
+448,GX,Euro Buxl,INTEREST RATES
+449,FN,Euro OAT Long-Term,INTEREST RATES
+450,GT,Euro OAT Medium-Term,INTEREST RATES
+451,CF,Eurex Conf Long-Term,INTEREST RATES
+452,IZ,Euro Bono Long-Term,INTEREST RATES
+453,II,Euro BTP Long-Term,INTEREST RATES
+454,JT,Euro BTP Medium-Term,INTEREST RATES
+455,IA,Euro BTP Short-Term,INTEREST RATES
+456,TV,Eurex 3Month EuriBor,INTEREST RATES
+457,FO,Eurex 1Month EONIA,INTEREST RATES
+458,GP,Hogs European,COMMODITIES
+459,GO,Potatoes European,COMMODITIES
+460,GQ,Piglets European,COMMODITIES
+461,MR,Skimmed Milk Europe,COMMODITIES
+462,QY,Butter European,COMMODITIES
+463,W5,Whey Powder European,COMMODITIES
+464,OD,BSE Feed Corn,
+465,OG,BSE Sunflower Seed,
+466,OH,BSE Rapeseed,
+467,OB,BUX Budapest Index,
+468,R8,Aluminium Alloy,
+469,Q8,Aluminium High Grade,
+470,S8,NAS Aluinium,
+471,R0,Lead PIG,
+472,Q0,Nickel,
+473,O9,Copper Grade A,
+474,S4,Tin Refined,
+475,O0,Zinc High Grade,
+476,V6,Molybdenum,
+477,U8,Cobalt,
+478,OX,OMX Swedish Index,
+479,EF,IBEX 35 Index,
+480,EZ,IBEX 35 Mini,
+481,J9,MEFF Bono 10,
+482,QX,TurkDex TRYUSD,
+483,QS,TurkDex TRYEUR,
+484,QZ,Bist 30 Index,
+485,XS,DCE No.2 Soybeans,
+486,XT,DCE No.1 Soybeans,
+487,XU,DCE Soy Meal,
+488,XV,DCE Corn,
+489,XJ,DCE Corn Starch,
+490,XX,DCE Soybean Oil,
+491,YB,DCE Polyethylene,
+492,Y0,DCE Polypropylene,
+493,YH,DCE Palm Olein,
+494,XA,DCE PVC,
+495,XM,DCE Coke,
+496,YQ,DCE Coking Coal,
+497,YY,DCE Iron Ore,
+498,WD,DCE Fresh Hen Egg,
+499,Y3,DCE Fiberboard,
+500,Y4,DCE Blockboard,
+501,HS,Hang Seng Index,
+502,HK,Mini Hang Seng Index,
+503,HA,H-shares Index,
+504,IX,Mini H-shares Index,
+505,E$,HKFE HSI Dividend,
+506,F$,HKFE HSCEI Dividend,
+507,KX,HKFE USD/CNH Futures,
+508,HB,HKFE 3-Month Hibor,
+509,CI,HKFE Aluminium Mini,
+510,CR,HKFE Zinc Mini,
+511,CO,HKFE Copper Mini,
+512,LN,HKFE Nickel Mini,
+513,LA,HKFE Tin Mini,
+514,LP,HKFE Lead Mini,
+515,GJ,HKFE Gold CNH,
+516,GU,HKFE Gold USD,
+517,KS,Kospi 200,
+518,KB,Korea 3-Year Bond,
+519,EO,Korea 5-Year Bond,
+520,EE,Korea 10-Year Bond,
+521,KD,US Dollar/Korean Won,
+522,KL,KLCI Index,
+523,KO,Palm Oil,
+524,KP,Palm Kernel Oil,
+525,KN,Palm Oil USD,
+526,M5,Palm Olein RBD,
+527,E-,NCDEX Maize KHRF,
+528,F-,NCDEX Wheat Delhi,
+529,H1,NCDEX Barley,
+530,I-,NCDEX Sugar M Grade,
+531,K1,NCDEX Soybeans,
+532,K2,NCDEX Soybean Oil,
+533,W.,NCDEX Degum Soy Oil,
+534,B-,NCDEX Rape Mustard,
+535,D-,NCDEX Coriander,
+536,S-,NCDEX Jeera,
+537,U3,NCDEX Turmeric,
+538,U4,NCDEX Shankar Kapas,
+539,P-,NCDEX Kapas V 797,
+540,Q-,NCDEX Crude Palm Oil,
+541,X-,NCDEX GuarSeed 10M,
+542,X.,NCDEX GuarGum 5MT,
+543,M.,NCDEX Cocudakl,
+544,N.,NCDEX CastorSeed,
+545,X6,MCX USDINR,
+546,X5,MCX JPYINR,
+547,K0,MCX EURINR,
+548,W4,MCX GBPINR,
+549,K3,Whole Milk Powder,
+550,K4,Skim Milk Powder,
+551,K5,Anhydrous Milk Fat,
+552,K!,Global Butter,
+553,K8,NZX 20 Capital Index,
+554,TW,Taiwan Weighted Idx,
+555,TE,Thai SET50 Index,
+556,U1,Thai Baht 10 Gold,
+557,U2,Thai Baht 50 Gold,
+558,VB,SHFE Aluminium,
+559,VC,SHFE Copper,
+560,VQ,SHFE Fuel Oil,
+561,VG,SHFE Zinc,
+562,VH,SHFE Gold,
+563,XO,SHFE Silver,
+564,VR,SHFE Rubber,
+565,VP,SHFE Steel Rebar,
+566,WG,SHFE Steel Wire Rod,
+567,WF,SHFE Lead,
+568,VM,SHFE Nickel,
+569,WB,SHFE Tin,
+570,VD,SHFE Bitumen,
+571,Y5,SHFE Hot-rolled Coil,
+572,ZD,ICE Mini Brent,
+573,ZH,ICE Mini Gas Oil LS,
+574,ZP,ICE Onshore CNY/USD,
+575,ZX,ICE Offshore USD/CNH,
+576,ZZ,ICE Kilo Gold,
+577,NX,SGX Nikkei 225,
+578,NU,SGX Nikkei 225 USD,
+579,HQ,SGX Nikkei Mini 225,
+580,HT,SGX Nikkei Dividend,
+581,TI,MSCI Taiwan Index,
+582,SV,MSCI Singapore Index,
+583,SX,MSCI Indonesia Index,
+584,CY,MSCI China Index,
+585,NH,SGX CNX Nifty Index,
+586,VS,SGX Straits Times,
+587,HN,SGX FTSE China A50,
+588,DS,SGX Eurodollar,
+589,WT,SGX Euroyen Tibor,
+590,JX,SGX 10-Year JGB,
+591,JV,SGX 10-Year JGB Full,
+592,C0,SGX TSI Iron Ore 62%,
+593,W-,SGX MB Iron Ore 58%,
+594,J-,SGX TSI Iron Ore 58%,
+595,A-,SGX Hot Rolled Steel,
+596,D3,SGX JM25 Coking Coal,
+597,U7,SGX Aus Coking Coal,
+598,E2,SGX API 4 Richards,
+599,B7,SGX API 5 Newcastle,
+600,C7,SGX IHS Indonesia,
+601,OZ,SGX Fuel Oil 380,
+602,W2,SGX TSR20 (FOB),
+603,U6,SGX RSS3 Rubber,
+604,H7,SGX Paraxylene,
+605,H9,SGX Benzene,
+606,U-,SGX INR/USD,
+607,ID,Tocom Crude Oil,
+608,IG,Tocom Gold,
+609,IL,Tocom Gold-Mini,
+610,IK,Tocom Platinum,
+611,IN,Tocom Gasoline,
+612,IO,Tocom Kerosene,
+613,JI,Tocom Gas Oil,
+614,IY,Tocom Rubber,
+615,IU,Tocom Palladium,
+616,IV,Tocom Silver,
+617,JN,Tocom Platinum-Mini,
+618,JK,Chukyo Kerosene,
+619,JO,Chukyo Gasoline,
+620,CV,Tocom Corn,
+621,YZ,Tocom Azuki Red Bean,
+622,CW,Tocom U.S. Soybeans,

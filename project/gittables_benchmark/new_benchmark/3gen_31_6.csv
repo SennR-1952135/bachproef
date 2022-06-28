@@ -1,0 +1,166 @@
+,year,country,city
+0,2009,United States,Philadelphia
+1,2009,Germany;Romania,Langen;Cluj Napoca
+2,2009,United States,Salt Lake City
+3,2009,United Kingdom,Nottingham
+4,2009,United States,Philadelphia
+5,2009,United States,Boston
+6,2009,Australia,Brisbane
+7,2009,United States;United States,New Orleans;New Orleans
+8,2009,United States,New Orleans
+9,2009,United States,Baton Rouge
+10,2009,France;China,Orsay;Guangzhou
+11,2009,Switzerland,Lausanne
+12,2008,United States,Baton Rouge
+13,2008,France,Poitiers
+14,2008,United States,Baton Rouge
+15,2008,United States,Atlanta
+16,2008,United States,Philadelphia
+17,2008,United States,New Orleans
+18,2008,United States,Farmington
+19,2008,United States,Arlington
+20,2008,United States,New Orleans
+21,2008,United States,New Orleans
+22,2008,United States,Moscow
+23,2008,United States,Newark
+24,2008,United States,University Park
+25,2007,United States,Mountain View
+26,2007,United States,Philadelphia
+27,2007,Germany,Munster
+28,2007,France;United States,Poitiers;Baton Rouge
+29,2007,United States,Baton Rouge
+30,2007,Germany,Langen
+31,2007,United States,Philadelphia
+32,2007,United States,Cambridge
+33,2007,United States,Houston
+34,2007,United States,Las Cruces
+35,2007,United States,Arlington
+36,2007,Germany,Munster
+37,2007,United States,Atlanta
+38,2007,United States;United States,Ann Arbor;Baltimore
+39,2007,United States,Baton Rouge
+40,2007,France,Paris
+41,2006,United States,Iowa City
+42,2006,United States,Morgantown
+43,2006,United States,Baton Rouge
+44,2006,United States,Philadelphia
+45,2006,Japan,Tokyo
+46,2006,United States,Flushing
+47,2006,Israel,Rehovot
+48,2006,Japan,Tokyo
+49,2006,United States,Baton Rouge
+50,2006,United States,Baton Rouge
+51,2006,United States,Baton Rouge
+52,2006,United States,Santa Cruz
+53,2006,United States,University Park
+54,2006,United States,Philadelphia
+55,2006,United States,New Orleans
+56,2006,United States,New Orleans
+57,2006,United States,Cambridge
+58,2006,United States,Atlanta
+59,2006,United States,Baton Rouge
+60,2006,United States,Flushing
+61,2006,United States,Baton Rouge
+62,2006,Germany,Wurzburg
+63,2005,United States,Baton Rouge
+64,2005,Switzerland,Lausanne
+65,2005,United States,Baton Rouge
+66,2005,United States,Duarte
+67,2005,France,Villejuif
+68,2005,Canada,Vancouver
+69,2005,France,Brest
+70,2005,United States;France,Ann Arbor;Montpellier
+71,2005,United States;United States,Cambridge;Cambridge
+72,2005,United States,Baltimore
+73,2005,Germany,Munster
+74,2005,United States,San Diego
+75,2005,United States,Baton Rouge
+76,2005,United States,Baton Rouge
+77,2005,United States,Baton Rouge
+78,2004,United States;United States,Cambridge;Bethlehem
+79,2004,United States,
+80,2004,Germany,Homburg
+81,2004,United States,San Diego
+82,2004,India,New Delhi
+83,2004,United States,Atlanta
+84,2004,United States,Ann Arbor
+85,2004,United States,New York
+86,2004,United States,New Brunswick
+87,2004,Israel;Israel,Tel Aviv-Yafo;Ramal Aviv
+88,2004,United States,New York
+89,2004,Germany,Gottingen
+90,2004,United States;United States,New York;Bethesda
+91,2004,United States,Riverside
+92,2004,United States,Baton Rouge
+93,2004,United States,Baltimore
+94,2004,United States,Baltimore
+95,2004,United States,Palo Alto
+96,2004,United States,Baton Rouge
+97,2004,United States,Farmington
+98,2004,United States,New Orleans
+99,2003,United States,New Orleans
+100,2003,Egypt;United States,Ismalia;Baton Rouge
+101,2003,United States,Cleveland
+102,2003,France,Villejuif
+103,2003,United States,Philadelphia
+104,2003,United States,Salt Lake City
+105,2003,Israel,Ramal Aviv
+106,2003,United States,Philadelphia
+107,2003,United States;United Kingdom,Ann Arbor;Leicester
+108,2003,United States,Cleveland
+109,2003,United States;United States,Salt Lake City;Salt Lake City
+110,2003,United States,Ann Arbor
+111,2003,United States;United States,Philadelphia;Philadelphia
+112,2002,United States,Baltimore
+113,2002,United States,New Orleans
+114,2002,United States;United States,Frederick;Baltimore
+115,2002,,
+116,2002,Israel;Israel,Tel Aviv-Yafo;Tel Aviv-Yafo
+117,2002,United States,Seattle
+118,2002,United States,New York
+119,2002,United States,Bethesda
+120,2002,United States,Ann Arbor
+121,2002,United States,Baton Rouge
+122,2001,United States,Chicago
+123,2001,Estonia,Tallinn
+124,2001,United States,Cambridge
+125,2001,United States,Ann Arbor
+126,2001,United States,New Orleans
+127,2000,United States;United States,New Orleans;Bethesda
+128,2000,United States,New Orleans
+129,2000,United States,New Orleans
+130,2000,United States,Cleveland
+131,2000,United States;United States,Bethesda;Baltimore
+132,2000,France,Villejuif
+133,2000,United States,Philadelphia
+134,2000,Japan;Japan,Tokyo;Tokyo
+135,2000,France,Villejuif
+136,1999,United States,San Francisco
+137,1999,United States;United States,Ann Arbor;Philadelphia
+138,1999,United States,Philadelphia
+139,1999,United States;United States,New Orleans;New Orleans
+140,1998,United Kingdom,Oxfordshire
+141,1997,Japan,Tokyo
+142,1997,United States;United States,New Orleans;Philadelphia
+143,1997,Japan;Japan,Tokyo;Tokyo
+144,1997,United States,Mountain View
+145,1997,United States,University Park
+146,1996,United States,Philadelphia
+147,1996,United States,Baltimore
+148,1996,United States,Bethesda
+149,1996,United States,Davis
+150,1995,United States,New Orleans
+151,1995,United States,Livermore
+152,1995,United States,Corvallis
+153,1994,United States,Livermore
+154,1994,United States,Davis
+155,1993,United States,Rochester
+156,1992,United States,University Park
+157,1992,United States;United States,New Orleans;New Orleans
+158,1991,United States,New Orleans
+159,1991,Canada,Montreal
+160,1990,United States,Bethesda
+161,1989,United States,Riverside
+162,1988,United States,Baltimore
+163,1977,France,Paris
+164,1956,,

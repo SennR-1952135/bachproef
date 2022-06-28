@@ -1,0 +1,20 @@
+,class,description
+0,EDBFileWatchParser,The method has 7 parameters. Parameters: logFile' logType' watches' fields' serverNetworkArea' serverName' serviceName
+1,NativeMethods,The method has 13 parameters. Parameters: hSCManager' lpServiceName' lpDisplayName' dwDesiredAccess' dwServiceType' dwStartType' dwErrorControl' lpBinaryPathName' lpLoadOrderGroup' lpdwTagId' lpDependencies' lpServiceStartName' lpPassword
+2,LogSearchShipperProcessManager,The length of the parameter _environmentDiagramLoggingTimers is 32.
+3,NxLogProcessManager,The length of the parameter _lastNxlogProcessorSecondsUsed is 30.
+4,LogSearchShipperProcessManager,"The length of the statement  ""			var period = Convert.ToInt64(TimeSpan.FromMinutes(envWatchElement.LogEnvironmentDiagramDataEveryMinutes).TotalMilliseconds); "" is 124."
+5,EDBFileWatchParser,"The length of the statement  ""					""Added file watch from EDB: {0} ({1}) => Matched NetworkArea:{2} ~= {3}' ServerName:{4} ~= {5}' ServiceName:{6} ~= {7}""' "" is 120."
+6,NxLogProcessManager,"The length of the statement  ""				var messageNormalized = new Dictionary<string' object> { { name + ""Normalized""' averageProcessorUsage / Environment.ProcessorCount } }; "" is 135."
+7,NxLogProcessManager,"The length of the statement  ""					var message = string.Format(""fileWatch: '{0}' contains invalid field name '{1}' (must contain letters' digits' slashes and underscores only)""' "" is 142."
+8,NxLogProcessManager,"The length of the statement  ""	Exec delete ($EventID); delete ($EventType); delete ($Keywords); delete ($Task); delete ($RecordNumber); delete ($ProcessID); "" is 125."
+9,NxLogProcessManager,"The length of the statement  ""			// nxlog doesn't handle time zone correctly' so we need to set the correct time zone variable to be used in the nxlog config file "" is 129."
+10,JSONFragmentPatternConverter,The following statement contains a magic number: json = json.Substring(1' json.Length - 2);
+11,ProcessUtils,The following statement contains a magic number: !process.WaitForExit(10 * 1000) || process.ExitCode != 0
+12,ProcessUtils,The following statement contains a magic number: !process.WaitForExit(10 * 1000) || process.ExitCode != 0
+13,NxLogProcessManager,The following statement contains a magic number: _serviceName = _serviceName.Substring(0' 80);
+14,NxLogProcessManager,The following statement contains a magic number: _serviceName.Length > 80
+15,NxLogProcessManager,The following statement contains a magic number: _processorUsageReportingTimer = new System.Timers.Timer                  {                      AutoReset = false'                      Interval = ProcessorUsageReportingIntervalSeconds*1000                  };
+16,NxLogProcessManager,The following statement contains a magic number: var averageProcessorUsage = ((processorSecondsUsed - lastProcessorSecondsUsed) / secondsPassed) * 100;
+17,NxLogProcessManager,"The following statement contains a magic number: res += string.Format(@""  <Input in_file{0}>  	Module	im_file  	InputType	{8}  	File	""""{1}""""  	ReadFromLast {2}  	SavePos	TRUE  	CloseWhenIdle {7}  	PollInterval {5}  	DirCheckInterval {6}  	Exec	$path = """"{3}""""; $type = """"{4}"""";  ""'  				i'  				inputFileEscaped'  				inputFile.ReadFromLast.ToString().ToUpper()'  				inputFile.Files'  				inputFile.Type'  				FilePollIntervalSeconds'  				FilePollIntervalSeconds * 2'  				inputFile.CloseWhenIdle.ToString().ToUpper()'  				inputFile.MultilineRule);"
+18,ServiceControllerEx,The following statement contains a magic number: var timeout = TimeSpan.FromMinutes(2);

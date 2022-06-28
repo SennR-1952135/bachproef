@@ -1,0 +1,335 @@
+,name,year,family
+0,Batman,1989,0
+1,Batman Returns,1992,0
+2,Batman Forever,1995,0
+3,Batman & Robin,1997,0
+4,Batman Begins,2005,0
+5,The Dark Knight,2008,0
+6,The Dark Knight Rises,2012,0
+7,28 Days Later...,2002,0
+8,300,2006,0
+9,300: Rise of an Empire,2014,0
+10,AVP: Alien vs. Predator,2004,0
+11,Bruce Almighty,2003,0
+12,Evan Almighty,2007,1
+13,Lara Croft: Tomb Raider,2001,0
+14,Lara Croft Tomb Raider: The Cradle of Life,2003,0
+15,The Mask,1994,0
+16,Son of the Mask,2005,1
+17,Miss Congeniality,2000,0
+18,The Blair Witch Project,1999,0
+19,Book of Shadows: Blair Witch 2,2000,0
+20,"Monsters, Inc.",2001,0
+21,Bean,1997,1
+22,National Treasure,2004,0
+23,Bridget Jones's Diary,2001,0
+24,Bridget Jones: The Edge of Reason,2004,0
+25,The Nutty Professor,1996,0
+26,Nutty Professor II: The Klumps,2000,0
+27,Cars,2006,0
+28,Cars 2,2011,0
+29,Charlie's Angels,2000,0
+30,Charlie's Angels: Full Throttle,2003,0
+31,The Pink Panther,2006,0
+32,The Pink Panther 2,2009,0
+33,Cheaper by the Dozen,2003,1
+34,Peter Pan,1953,1
+35,Return to Never Land,2002,1
+36,Crank,2006,0
+37,The Princess Diaries,2001,1
+38,The Princess Diaries 2: Royal Engagement,2004,1
+39,The Purge,2013,0
+40,The Purge: Anarchy,2014,0
+41,The Ring,2002,0
+42,The Da Vinci Code,2006,0
+43,Angels & Demons,2009,0
+44,Despicable Me,2010,1
+45,Despicable Me 2,2013,1
+46,Elizabeth,1998,0
+47,Fantastic Four,2005,0
+48,Fantastic 4: Rise of the Silver Surfer,2007,0
+49,Sex and the City,2008,0
+50,Sex and the City 2,2010,0
+51,Shanghai Noon,2000,0
+52,Shanghai Knights,2003,0
+53,The Flintstones,1994,1
+54,The Flintstones in Viva Rock Vegas,2000,1
+55,Sherlock Holmes,2009,0
+56,Sin City,2005,0
+57,Silent Hill,2006,0
+58,Silent Hill: Revelation 3D,2012,0
+59,The Sisterhood of the Traveling Pants,2005,0
+60,The Sisterhood of the Traveling Pants 2,2008,0
+61,The Smurfs,2011,0
+62,The Smurfs 2,2013,0
+63,Garfield,2004,1
+64,Speed,1994,0
+65,Speed 2: Cruise Control,1997,0
+66,The SpongeBob SquarePants Movie,2004,0
+67,The SpongeBob Movie: Sponge Out of Water,2015,0
+68,G.I. Joe: The Rise of Cobra,2009,0
+69,G.I. Joe: Retaliation,2013,0
+70,Ghost Rider,2007,0
+71,Ghost Rider: Spirit of Vengeance,2011,0
+72,Thor,2011,0
+73,Thor: The Dark World,2013,0
+74,Happy Feet,2006,1
+75,TRON,1982,0
+76,TRON: Legacy,2010,0
+77,Hellboy,2004,0
+78,Hellboy II: The Golden Army,2008,0
+79,The Texas Chainsaw Massacre,2003,0
+80,The Texas Chainsaw Massacre: The Beginning,2006,0
+81,The Hills Have Eyes,2006,0
+82,The Hills Have Eyes 2,2007,0
+83,How to Train Your Dragon,2010,1
+84,How to Train Your Dragon 2,2014,0
+85,Hulk,2003,0
+86,The Incredible Hulk,2008,0
+87,Journey to the Center of the Earth,2008,1
+88,Journey 2: The Mysterious Island,2012,0
+89,The Whole Nine Yards,2000,0
+90,The Whole Ten Yards,2004,0
+91,21 Jump Street,2012,0
+92,22 Jump Street,2014,0
+93,The Jungle Book 2,2003,1
+94,xXx,2002,0
+95,Kick-Ass,2010,0
+96,Kick-Ass 2,2013,0
+97,Kill Bill: Vol. 1,2003,0
+98,Kill Bill: Vol. 2,2004,0
+99,The Mask of Zorro,1998,0
+100,The Legend of Zorro,2005,0
+101,Kung Fu Panda,2008,0
+102,Kung Fu Panda 2,2011,0
+103,Legally Blonde,2001,0
+104,"Legally Blonde 2: Red, White & Blonde",2003,0
+105,Legally Blondes,2009,1
+106,The Lord of the Rings: The Fellowship of the Ring,2001,0
+107,The Lord of the Rings: The Two Towers,2002,0
+108,The Lord of the Rings: The Return of the King,2003,0
+109,Austin Powers: International Man of Mystery,1997,0
+110,Austin Powers: The Spy Who Shagged Me,1999,0
+111,Austin Powers in Goldmember,2002,0
+112,Madagascar: Escape 2 Africa,2008,0
+113,Madagascar 3: Europe's Most Wanted,2012,0
+114,Back to the Future,1985,0
+115,Back to the Future Part II,1989,0
+116,Back to the Future Part III,1990,0
+117,The Matrix,1999,0
+118,The Matrix Reloaded,2003,0
+119,The Matrix Revolutions,2003,0
+120,Men in Black,1997,0
+121,Men in Black II,2002,0
+122,Big Momma's House,2000,0
+123,Big Momma's House 2,2006,0
+124,"Big Mommas: Like Father, Like Son",2011,0
+125,Blade II,2002,0
+126,Blade: Trinity,2004,0
+127,The Bourne Identity,2002,0
+128,The Bourne Supremacy,2004,0
+129,The Bourne Ultimatum,2007,0
+130,The Bourne Legacy,2012,0
+131,Night at the Museum: Battle of the Smithsonian,2009,0
+132,Night at the Museum: Secret of the Tomb,2014,1
+133,Captain America: The First Avenger,2011,0
+134,Captain America: The Winter Soldier,2014,0
+135,Ocean's Eleven,2001,0
+136,Ocean's Twelve,2004,0
+137,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,1
+138,The Chronicles of Narnia: Prince Caspian,2008,1
+139,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,1
+140,Pitch Black,2000,0
+141,The Chronicles of Riddick,2004,0
+142,Riddick,2013,0
+143,Predator,1987,0
+144,Predators,2010,0
+145,Rush Hour,1998,0
+146,Rush Hour 2,2001,0
+147,Rush Hour 3,2007,0
+148,Dumb & Dumber,1994,0
+149,Dumb and Dumberer: When Harry Met Lloyd,2003,0
+150,Dumb and Dumber To,2014,0
+151,The Expendables,2010,0
+152,The Expendables 2,2012,0
+153,Spider-Man,2002,0
+154,Spider-Man 2,2004,0
+155,Spider-Man 3,2007,0
+156,The Amazing Spider-Man,2012,0
+157,Star Wars: Episode IV - A New Hope,1977,0
+158,Star Wars: Episode V - The Empire Strikes Back,1980,0
+159,Star Wars: Episode VI - Return of the Jedi,1983,0
+160,Star Wars: Episode I - The Phantom Menace,1999,0
+161,Star Wars: Episode II - Attack of the Clones,2002,0
+162,Star Wars: Episode III - Revenge of the Sith,2005,0
+163,Stuart Little,1999,0
+164,Stuart Little 2,2002,0
+165,The Grudge,2004,0
+166,The Grudge 2,2006,0
+167,The Hangover,2009,0
+168,The Hangover Part II,2011,0
+169,The Hangover Part III,2013,0
+170,The Transporter,2002,0
+171,Transporter 2,2005,0
+172,Harold & Kumar Go to White Castle,2004,0
+173,Harold & Kumar Escape from Guantanamo Bay,2008,0
+174,A Very Harold & Kumar 3D Christmas,2011,0
+175,Hostel,2005,0
+176,Hostel: Part II,2007,0
+177,I Still Know What You Did Last Summer,1998,0
+178,Iron Man,2008,0
+179,Iron Man 2,2010,0
+180,Iron Man 3,2013,0
+181,Jackass: The Movie,2002,0
+182,Jackass Number Two,2006,0
+183,Jackass 3D,2010,0
+184,Jurassic Park,1993,0
+185,The Lost World: Jurassic Park,1997,0
+186,Jurassic Park III,2001,0
+187,Scooby-Doo,2002,0
+188,Scream,1996,0
+189,Scream 2,1997,0
+190,Scream 3,2000,0
+191,Scream 4,2011,0
+192,Alien,1979,0
+193,Alien_,1992,0
+194,Alien: Resurrection,1997,0
+195,Alvin and the Chipmunks,2007,1
+196,Alvin and the Chipmunks: The Squeakquel,2009,1
+197,Alvin and the Chipmunks: Chipwrecked,2011,0
+198,Anacondas: The Hunt for the Blood Orchid,2004,0
+199,Paranormal Activity,2007,0
+200,Paranormal Activity 2,2010,0
+201,Paranormal Activity 3,2011,0
+202,Paranormal Activity 4,2012,0
+203,Shrek,2001,0
+204,Shrek 2,2004,0
+205,Shrek the Third,2007,0
+206,Shrek Forever After,2010,0
+207,Exorcist: The Beginning,2004,0
+208,Spy Kids,2001,0
+209,Spy Kids 2: Island of Lost Dreams,2002,0
+210,Spy Kids 3-D: Game Over,2003,0
+211,Spy Kids: All the Time in the World in 4D,2011,0
+212,Step Up,2006,0
+213,Step Up 3D,2010,0
+214,Step Up Revolution,2012,0
+215,The Silence of the Lambs,1991,0
+216,Hannibal,2001,0
+217,Red Dragon,2002,0
+218,Superman,1978,0
+219,Superman II,1980,0
+220,Superman IV: The Quest for Peace,1987,1
+221,Superman Returns,2006,0
+222,Man of Steel,2013,0
+223,Ice Age,2002,0
+224,Ice Age: The Meltdown,2006,0
+225,Ice Age: Dawn of the Dinosaurs,2009,0
+226,Ice Age: Continental Drift,2012,0
+227,The Hunger Games,2012,0
+228,The Hunger Games: Catching Fire,2013,0
+229,The Hunger Games: Mockingjay - Part 1,2014,0
+230,Raiders of the Lost Ark,1981,0
+231,Indiana Jones and the Temple of Doom,1984,0
+232,Indiana Jones and the Last Crusade,1989,0
+233,Indiana Jones and the Kingdom of the Crystal Skull,2008,0
+234,Toy Story 2,1999,0
+235,Toy Story 3,2010,0
+236,Transformers,2007,0
+237,Transformers: Revenge of the Fallen,2009,0
+238,Transformers: Dark of the Moon,2011,0
+239,Transformers: Age of Extinction,2014,0
+240,Underworld,2003,0
+241,Underworld: Rise of the Lycans,2009,0
+242,Underworld: Awakening,2012,0
+243,The Karate Kid,2010,1
+244,Mission: Impossible,1996,0
+245,Mission: Impossible II,2000,0
+246,Mission: Impossible III,2006,0
+247,Mission: Impossible - Ghost Protocol,2011,0
+248,Pirates of the Caribbean: The Curse of the Black Pearl,2003,0
+249,Pirates of the Caribbean: Dead Man's Chest,2006,0
+250,Pirates of the Caribbean: At World's End,2007,0
+251,Pirates of the Caribbean: On Stranger Tides,2011,0
+252,Die Hard,1988,0
+253,Die Hard 2,1990,0
+254,Die Hard: With a Vengeance,1995,0
+255,Live Free or Die Hard,2007,0
+256,A Good Day to Die Hard,2013,0
+257,Dr. Dolittle 2,2001,1
+258,Resident Evil,2002,0
+259,Resident Evil: Apocalypse,2004,0
+260,Resident Evil: Afterlife,2010,0
+261,Resident Evil: Retribution,2012,0
+262,Final Destination,2000,0
+263,Final Destination 3,2006,0
+264,The Final Destination,2009,0
+265,Final Destination 5,2011,0
+266,Scary Movie,2000,0
+267,Scary Movie 2,2001,0
+268,Scary Movie 3,2003,0
+269,Scary Movie 4,2006,0
+270,Scary Movie 5,2013,0
+271,Home Alone,1990,1
+272,Home Alone 3,1997,1
+273,The Terminator,1984,0
+274,Terminator 2: Judgment Day,1991,0
+275,Terminator 3: Rise of the Machines,2003,0
+276,Terminator Salvation,2009,0
+277,Twilight,2008,0
+278,The Twilight Saga: New Moon,2009,0
+279,The Twilight Saga: Eclipse,2010,0
+280,The Twilight Saga: Breaking Dawn - Part 1,2011,0
+281,The Twilight Saga: Breaking Dawn - Part 2,2012,0
+282,The Fast and the Furious,2001,0
+283,2 Fast 2 Furious,2003,0
+284,Fast & Furious,2009,0
+285,Fast Five,2011,0
+286,Fast & Furious 6,2013,0
+287,Star Trek: The Motion Picture,1979,0
+288,Star Trek II: The Wrath of Khan,1982,0
+289,Star Trek: Generations,1994,0
+290,Star Trek: Insurrection,1998,0
+291,Star Trek: Nemesis,2002,0
+292,Star Trek,2009,0
+293,Star Trek Into Darkness,2013,0
+294,Saw,2004,0
+295,Saw II,2005,0
+296,Saw III,2006,0
+297,Saw V,2008,0
+298,Saw VI,2009,0
+299,Saw 3D: The Final Chapter,2010,0
+300,X-Men,2000,0
+301,X-Men 2,2003,0
+302,X-Men: The Last Stand,2006,0
+303,X-Men Origins: Wolverine,2009,0
+304,X-Men: First Class,2011,0
+305,The Wolverine,2013,0
+306,X-Men: Days of Future Past,2014,0
+307,American Pie,1999,0
+308,American Pie 2,2001,0
+309,American Wedding,2003,0
+310,American Reunion,2012,0
+311,The Muppet Christmas Carol,1992,1
+312,Muppets from Space,1999,1
+313,The Muppets,2011,1
+314,Muppets Most Wanted,2014,0
+315,Harry Potter and the Sorcerer's Stone,2001,1
+316,Harry Potter and the Chamber of Secrets,2002,1
+317,Harry Potter and the Prisoner of Azkaban,2004,1
+318,Harry Potter and the Goblet of Fire,2005,1
+319,Harry Potter and the Order of the Phoenix,2007,1
+320,Harry Potter and the Half-Blood Prince,2009,1
+321,The Mummy,1999,0
+322,The Mummy Returns,2001,0
+323,The Mummy: Tomb of the Dragon Emperor,2008,0
+324,The World Is Not Enough,1999,0
+325,Die Another Day,2002,0
+326,Casino Royale,2006,0
+327,Quantum of Solace,2008,0
+328,Skyfall,2012,0
+329,Rise of the Planet of the Apes,2011,0
+330,Dawn of the Planet of the Apes,2014,0
+331,The Godfather,1972,0
+332,The Godfather: Part II,1974,0
+333,The Godfather: Part III,1990,0

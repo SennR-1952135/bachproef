@@ -1,0 +1,13 @@
+,description
+0,Open the Url [<Data>] in the Browser
+1,Click the [<Object>] 
+2,Enter the value [<Data>] in the Field [<Object>]
+3,Click the [<Object>] 
+4,Enter the value [<Data>] in the Field [<Object>]
+5,Click the [<Object>] 
+6,Click the [<Object>] 
+7,Click the [<Object>] 
+8,Enter the value [<Data>] in the Field [<Object>]
+9,
+10,Click the [<Object>] 
+11,Assert if [<Object>] element is displayed

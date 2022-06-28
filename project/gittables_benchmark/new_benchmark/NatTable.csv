@@ -1,0 +1,187 @@
+,product,component,status
+0,NatTable,Core,UNCONFIRMED
+1,NatTable,Core,NEW
+2,NatTable,Core,NEW
+3,NatTable,Core,ASSIGNED
+4,NatTable,Core,RESOLVED
+5,NatTable,Core,RESOLVED
+6,NatTable,Core,RESOLVED
+7,NatTable,Core,RESOLVED
+8,NatTable,Core,RESOLVED
+9,NatTable,Core,RESOLVED
+10,NatTable,GlazedLists Extension,RESOLVED
+11,NatTable,Core,RESOLVED
+12,NatTable,Core,RESOLVED
+13,NatTable,Core,RESOLVED
+14,NatTable,Core,RESOLVED
+15,NatTable,Core,RESOLVED
+16,NatTable,Core,RESOLVED
+17,NatTable,GlazedLists Extension,RESOLVED
+18,NatTable,Core,RESOLVED
+19,NatTable,Core,RESOLVED
+20,NatTable,Core,RESOLVED
+21,NatTable,Nebula Extension,RESOLVED
+22,NatTable,Core,RESOLVED
+23,NatTable,Core,RESOLVED
+24,NatTable,Core,RESOLVED
+25,NatTable,Core,RESOLVED
+26,NatTable,Core,RESOLVED
+27,NatTable,E4 Extension,RESOLVED
+28,NatTable,Core,RESOLVED
+29,NatTable,Core,RESOLVED
+30,NatTable,Core,RESOLVED
+31,NatTable,Core,RESOLVED
+32,NatTable,Core,RESOLVED
+33,NatTable,Core,RESOLVED
+34,NatTable,Core,RESOLVED
+35,NatTable,Core,RESOLVED
+36,NatTable,Core,RESOLVED
+37,NatTable,Core,RESOLVED
+38,NatTable,E4 Extension,RESOLVED
+39,NatTable,Core,RESOLVED
+40,NatTable,Core,RESOLVED
+41,NatTable,Core,RESOLVED
+42,NatTable,Core,RESOLVED
+43,NatTable,Core,RESOLVED
+44,NatTable,Core,RESOLVED
+45,NatTable,Core,RESOLVED
+46,NatTable,POI Extension,RESOLVED
+47,NatTable,Core,RESOLVED
+48,NatTable,Core,RESOLVED
+49,NatTable,Core,RESOLVED
+50,NatTable,Core,RESOLVED
+51,NatTable,Core,RESOLVED
+52,NatTable,Core,RESOLVED
+53,NatTable,Core,RESOLVED
+54,NatTable,E4 Extension,VERIFIED
+55,NatTable,E4 Extension,VERIFIED
+56,NatTable,Core,CLOSED
+57,NatTable,Core,CLOSED
+58,NatTable,Core,CLOSED
+59,NatTable,Core,CLOSED
+60,NatTable,Core,CLOSED
+61,NatTable,Core,CLOSED
+62,NatTable,Core,CLOSED
+63,NatTable,Core,CLOSED
+64,NatTable,Core,CLOSED
+65,NatTable,Core,CLOSED
+66,NatTable,Core,CLOSED
+67,NatTable,Nebula Extension,CLOSED
+68,NatTable,Core,CLOSED
+69,NatTable,Core,CLOSED
+70,NatTable,Core,CLOSED
+71,NatTable,Core,CLOSED
+72,NatTable,Core,CLOSED
+73,NatTable,Core,CLOSED
+74,NatTable,Core,CLOSED
+75,NatTable,Core,CLOSED
+76,NatTable,Core,CLOSED
+77,NatTable,Core,CLOSED
+78,NatTable,Core,CLOSED
+79,NatTable,Core,CLOSED
+80,NatTable,Core,CLOSED
+81,NatTable,Core,CLOSED
+82,NatTable,Core,CLOSED
+83,NatTable,Core,CLOSED
+84,NatTable,Core,CLOSED
+85,NatTable,Core,CLOSED
+86,NatTable,Core,CLOSED
+87,NatTable,Core,CLOSED
+88,NatTable,Core,CLOSED
+89,NatTable,GlazedLists Extension,CLOSED
+90,NatTable,Core,CLOSED
+91,NatTable,Core,CLOSED
+92,NatTable,Core,CLOSED
+93,NatTable,Core,CLOSED
+94,NatTable,Core,CLOSED
+95,NatTable,Core,CLOSED
+96,NatTable,Core,CLOSED
+97,NatTable,Core,CLOSED
+98,NatTable,Core,CLOSED
+99,NatTable,Core,CLOSED
+100,NatTable,Core,CLOSED
+101,NatTable,Core,CLOSED
+102,NatTable,Core,CLOSED
+103,NatTable,Core,CLOSED
+104,NatTable,Core,CLOSED
+105,NatTable,Core,CLOSED
+106,NatTable,Core,CLOSED
+107,NatTable,GlazedLists Extension,CLOSED
+108,NatTable,Core,CLOSED
+109,NatTable,Core,CLOSED
+110,NatTable,Core,CLOSED
+111,NatTable,POI Extension,CLOSED
+112,NatTable,Core,CLOSED
+113,NatTable,Core,CLOSED
+114,NatTable,Core,CLOSED
+115,NatTable,Core,CLOSED
+116,NatTable,Core,CLOSED
+117,NatTable,Core,CLOSED
+118,NatTable,Core,CLOSED
+119,NatTable,Core,CLOSED
+120,NatTable,Core,CLOSED
+121,NatTable,Core,CLOSED
+122,NatTable,Core,CLOSED
+123,NatTable,Core,CLOSED
+124,NatTable,Core,CLOSED
+125,NatTable,Core,CLOSED
+126,NatTable,Core,CLOSED
+127,NatTable,Core,CLOSED
+128,NatTable,Core,CLOSED
+129,NatTable,Core,CLOSED
+130,NatTable,Core,CLOSED
+131,NatTable,Core,CLOSED
+132,NatTable,Core,CLOSED
+133,NatTable,Core,CLOSED
+134,NatTable,Core,CLOSED
+135,NatTable,Core,CLOSED
+136,NatTable,Core,CLOSED
+137,NatTable,Core,CLOSED
+138,NatTable,Core,CLOSED
+139,NatTable,Core,CLOSED
+140,NatTable,Core,CLOSED
+141,NatTable,Core,CLOSED
+142,NatTable,Core,CLOSED
+143,NatTable,Core,CLOSED
+144,NatTable,Core,CLOSED
+145,NatTable,Core,CLOSED
+146,NatTable,Core,CLOSED
+147,NatTable,Core,CLOSED
+148,NatTable,Core,CLOSED
+149,NatTable,Core,CLOSED
+150,NatTable,Core,CLOSED
+151,NatTable,Core,CLOSED
+152,NatTable,GlazedLists Extension,CLOSED
+153,NatTable,Core,CLOSED
+154,NatTable,Core,CLOSED
+155,NatTable,Core,CLOSED
+156,NatTable,Core,CLOSED
+157,NatTable,GlazedLists Extension,CLOSED
+158,NatTable,Core,CLOSED
+159,NatTable,GlazedLists Extension,CLOSED
+160,NatTable,Core,CLOSED
+161,NatTable,Core,CLOSED
+162,NatTable,Core,CLOSED
+163,NatTable,Core,CLOSED
+164,NatTable,Core,CLOSED
+165,NatTable,GlazedLists Extension,CLOSED
+166,NatTable,GlazedLists Extension,CLOSED
+167,NatTable,GlazedLists Extension,CLOSED
+168,NatTable,Core,CLOSED
+169,NatTable,Core,CLOSED
+170,NatTable,Core,CLOSED
+171,NatTable,Core,CLOSED
+172,NatTable,Core,CLOSED
+173,NatTable,Core,CLOSED
+174,NatTable,Core,CLOSED
+175,NatTable,Core,CLOSED
+176,NatTable,Core,CLOSED
+177,NatTable,Core,CLOSED
+178,NatTable,Core,CLOSED
+179,NatTable,Core,CLOSED
+180,NatTable,Core,CLOSED
+181,NatTable,E4 Extension,CLOSED
+182,NatTable,Nebula Extension,CLOSED
+183,NatTable,Core,CLOSED
+184,NatTable,GlazedLists Extension,CLOSED
+185,NatTable,Core,CLOSED

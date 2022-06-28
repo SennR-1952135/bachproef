@@ -1,0 +1,98 @@
+,name,owner,description,language
+0,CourseWorks,Ajithkumarsekar,All course lab works,Java
+1,OS-Lab02,acterics,,Java
+2,CPUScheduler,ltaoj,操作系统调度算法，JavaFX实现、CPUScheduler,Java
+3,osscheduling,palaganaskurl,Operating System Algorithms Simulator,Java
+4,Operating-System-Algorithms-in-java,Sadique14,Followed Book: Modern Operating Systems- Andrew S. Tanenbaum,Java
+5,srv-os,Tom7353,html5 operating system for servers,Java
+6,myos,zacker330,lessons for learning Operating System,Java
+7,OperatingSystemsHw,rygler,This is a repo for my Operating Systems HW,Java
+8,UniversityAssignments,sydturn,"Contains various projects from throughout my Computer Science degree including but not limited to course work from: Java, Data Structures, Assembly, C++, Android, Software development, Operating systems(threading and scheduling algorithms), etc.",Java
+9,Jinix,rowland66,Jinix operating system kernel,Java
+10,MemoryManagement,nishnoob,An algorithm to store segments of data in memory.,Java
+11,Operating-System-Concepts,VanTamNguyen,My codes to illustrate what I learn from dinosaur book (Operating System Concepts),Java
+12,Nachos-OS,vidhya567,Implementation of Thread Level and Process Level Features in Nachos OS,Java
+13,OSLab,blaisewang,Operating System Lesson Lab Work,Java
+14,Threading-and-OS-Problems,Tasswon,"The programs featured here are all written in Java, and present examples of threading and Operating System related algorithms (example: scheduling and deadlock).",Java
+15,Disk-Scheduler-Simulator,Abdallah-Abdelazim,A scheduling simulator that implements different disk scheduling algorithms and applies it on a disk queue with requests for I/O blocks on cylinders.,Java
+16,PageReplacement,Zaaraki,Trabalho de SO sobre algoritmos de Substituição de página,Java
+17,Multi-threading-Programming,tiandiao123,Here are some of my implementaions of multi-threading programming,Java
+18,ReviveOS,h3adshotzz,Operating System.... sorta.,Java
+19,process_scheduling_example,gustavopergola,Java FX (GUI) integrated with simulation about multiple threads and scheduling ways. (OS),Java
+20,OperatingSystemCourseProjects,mzhangdev,Operating System Course Projects,Java
+21,os-project,luizfranca,This project is for the class of Operational Systems taken at UFRPE 2015.2,Java
+22,OS_EE328,cyli2014,Class projects of Operating System in Shanghai Jiao Tong University.,Java
+23,modified-mars,aretw0,MARS (MIPS Assembler and Runtime Simulator) modificado,Java
+24,OS_CODES,Sakshi183,It is implementation of concepts taught in operating system.,Java
+25,Operating-System-Algorithms,Showndarya,"Process synchronization, Deadlock avoidance and Disk scheduling algorithms implemented in  Java.",Java
+26,Operating-system-practicals,Shraddha2104,OS practicals in C and Java,Java
+27,Operating-System-Nachos,rdeng,OS Nachos Implementation,Java
+28,discovery-workbench,gar2000b,A development tool for coordinating all your applications and infrastructure services locally on your machine + much much more...,Java
+29,OS-Codes,sohamchitalia,LRU and FIFO codes for operating system,Java
+30,Chord-Simulation,anjanatiha,,Java
+31,JNachos,SamuelXing,"CIS 657 - Course project, Operating system.",Java
+32,OS2Assginment2,ms10596,"An implementation of a directory, file and disk management systems.",Java
+33,nos-fer,fgulan,Advanced Operating Systems assignments,Java
+34,Memory-management-algorithm-simulation,pritomsaha,,Java
+35,Nachos-CSE306,msafari,NACHOS Operating System project - SBU,Java
+36,Operating-System,girish03,All codes of operating system related components: ,Java
+37,OperatingSystems,Stperrakis,"Scheduling algorithms(Round Robin , Shortest Job First(preemptive - non preemptive))",Java
+38,PC-Details,MattFLying,"PC-Details is a free OSHI & jHardware based library for Java to retrieve Hardware and Software informations. With PC-Details possible is to retrieve informations of software such as Operating System, Bios or System Processes, and informations of hardware such as processor details, hard disk free space, graphic cards mounted in PC and more.",Java
+39,OS-simulator,soumik1998,Java based GUI to simulate various common algorithms.,Java
+40,nachOS-priority-threads-scheduling-algorithm,JackyC415,Nachos Operating System design and implementation,Java
+41,XRay,PilzHere,XRay is an application used to show information about hardware and software installed on a computer.,Java
+42,CSI3131,flsing,Operating Systems,Java
+43,DynamicZoningMemoryManagementSchemeSimulationSystem,terencehyz,动态分区内存管理方案仿真系统,Java
+44,TIL,KSH-code,공부한 내용에 대해서 정리 합니다.,Java
+45,Programming_Projects,YPreety,Java Programming,Java
+46,Build-H2O-molecule,Sid11,Java Code for building water molecules using Multithreading and Cyclic Barrier.,Java
+47,Deadlock-Detection,jaypeerachai,A Java implementation of Deadlock Detection,Java
+48,Operating-System-Algorithms,imnikhilanand,This repository contains algorithms and their implementation on Java. These algorithms are the basics of operating system operations and processes. ,Java
+49,operating-system-simulation,DevMoath,App to simulate how Operating System works,Java
+50,JNachos,aishwaryar7,Java simulation of an operating system.,Java
+51,File-Management-System,EBhoraniya,implementation of basic file system functions in JAVA,Java
+52,Windroid-98,MicroshaftCorp,Windows 98+Android=Windroid 98,Java
+53,ekTara,sagarnikam123,ekTara - Marathi OS interface (Prototype),Java
+54,CPU-Scheduler,brilacasck,"simulating scheduling algorithms of operating system for processes e.g. Priority Scheduling, Multi Level Scheduling, ...",Java
+55,OperatingSystemScheduling,AhmadYahya97,Operating Systems project - Processes scheduling simulator,Java
+56,UAH_2016_2017,JuanCasado,Course summary UAH 2016/2017,Java
+57,OPERATING_SYSTEM,shrutijain501,,Java
+58,UAH_2017_2018,JuanCasado,Course summary 2017/2018,Java
+59,OperatingSystem,vbhv98,Operating System,Java
+60,vOS,walleXD,"Emulation of key Operation System behaviors like Process, Memory Management, Disks and more.",Java
+61,Word-Counter-Multithreading,akashg105,Java program to count word in a file using multithreading,Java
+62,os4j,jordonyang,Raw experimental Operating System code for recording  a simulating experience.,Java
+63,OSSchedulerProject,crumbl3d,A simple scheduler implementation in Java for an intermediate-level course in Operating Systems.,Java
+64,projetoDeSOVers-oFinal,FranciscoBastos,,Java
+65,VirtualMemSimulator,fonstack,"💻💾💿 Simulación de la administración de memoria virtual en un Sistema Operativo, utilizando paginación.",Java
+66,Trabalho-de-Sistemas-Operacionais,FranciscoBastos,,Java
+67,ReviewList,RecYan,:bookmark:后端校招技能清单,Java
+68,Operating-Systems,Renovamen,"Spring 2018 Operating Systems - Assignments (Elevator Scheduling, Memory Management and File Management) | 操作系统课程项目（电梯调度，内存管理，文件管理）",Java
+69,Operating-System-Simulator,Reza-Marzban,OS Simulator with Memory management and Round Robin Scheduler,Java
+70,page-replacement-algorithms,MEDHAT-ALHADDAD,implementation of page replacement algorithms in java,Java
+71,OS_Page_replacement_algo,DeepanshuJha,Operating System Page replacement Algorithm in java,Java
+72,ARINC653_AM335X_TOOLS,lfarcaro,Tools for the ARINC653_AM335X Real-Time Operating System (RTOS),Java
+73,OS_Process_Scheduler,DerrickBu,,Java
+74,Gmail_API_Drafts_Backup_Storage,sid230798,This Repo contains complete implementation of Gmail API in case of Secondary Storage Devices. Files will be saved as Draft Message for certain amount of memory and create links for bigger file .It's implementation of Linked File Storage Simulation based Drafts and Gmail API.,Java
+75,Semaphore-in-JavaFX,alirajabzadeh,Simulation of a Simple Concurrency Management Problem in JavaFX,Java
+76,round-robin-dynamic-quantum,dinocajic,"The Preemptive Round Robin Scheduling Algorithm is an important scheduling algorithm used in both process scheduling and network scheduling. Processes are executed for a predefined unit of time called a quantum. Once the CPU executes the process for the specified time slice, the process either terminates or returns to the back of the ready queue if the process has any remaining burst time left. Numerous proposals have been made to improve the static quantum time of the Round Robin Scheduling Algorithm; most research focuses on the optimization of the ready queue. In this paper, I proposed having predefined optimized quantum times for most process that can be retrieved whenever a new process enters the ready queue.",Java
+77,Banker-Algorithm,Omar-Abdel-Wahab,CSE223: Operating Systems mini-project to apply deadlocks avoidance algorithm in operating systems.,Java
+78,Operating-Systems,JoeyCheung,Projects for my CS340 operating systems class,Java
+79,operating-systems-java,FawadJawaid,"This is one of the most difficult projects, I have worked on. This project is divided into three phases; in the first phase, I was supposed to make VM Architecture. In the second one, Process and Memory Management. And in the third one, I was supposed to make a Graphical User Interface (GUI) in Java for the whole project. The requirements file for three phases is uploaded in the PDF format.",Java
+80,Demand-Paging_Virtual_Memory_Simulator,shyam-patel-kira,Simulation For demand Paging,Java
+81,rm-sim,ereeq,Rate-Monotonic Scheduler simulation,Java
+82,TRLUtils-Platform,TheRandomLabs,A collection of utilities for accessing and manipulating platform information.,Java
+83,Operating-System,minji-o-j,[Fall Semester 2019]  Operating System,Java
+84,NOTES-CDAC,himanshupraveengoyal,CDAC DAC MODULE,Java
+85,Barber-Shop,masoudd2159,Fair Barber Shop in Java ,Java
+86,preemptive-priority-scheduling,islajd,Preemptive Priority Scheduling algorithm in Java,Java
+87,knowledge,LuoJhno,技术总结,Java
+88,core-os,Gerben,Java Core Operating System Information Library (osx only),Java
+89,OS-Scheduling-Algorithms,mashrur29,Operating System,Java
+90,Operating-System-Memory-Page-Replacement-Simulation,CK213,"This program simulates a system that uses paging with virtual memory. Clock and Least recently Used (LRU) are applied for page replacement, where each process can have a maximum 50 pages. When a page fault handling occurs, the interrupt routine will handle thw fault by placing an I/O requesto into a queue, which will later be processed by the I/O controller to bring the page into main memory. (Swapping in a page takes 6 units of time.) The system is to use a Round Robin short-term scheduling algorithm with time a quantum of Q. This project compares the performance differences between LRU ad clock page replacement algorithms for the fixed allocation with local replacement strategy.",Java
+91,VirtualMemory,hooitong,Simulation of virtual memory in an OS environment.,Java
+92,java-interview,MingkeVan,java面试整理，包含数据结构与算法、java基础、多线程、IO、锁、jvm、spring、redis、mysql、操作系统、linux、网络、分布式、设计模式等,Java
+93,Round-Robin-Scheduler,luthra2059,Java Program to simulate the working of the round robin scheduling algorithm.,Java
+94,oslib,wille,"Java library to easily detect running Operating System, BSD Flavor, Linux Distribution, Desktop Environment and Architecture",Java
+95,oshi,oshi,Native Operating System and Hardware Information,Java
+96,rainbow,pdp10,A simulator of computer processes and resources,Java

@@ -1,0 +1,215 @@
+,code,name,category
+0,M001,"Egg, poultry, whole, raw",Eggs
+1,M002,"Egg, poultry, white, raw",Eggs
+2,M003,"Egg, poultry, yolk, raw",Eggs
+3,M004,"Egg, poultry, whole, boiled",Eggs
+4,M005,"Egg, poultry, white, boiled",Eggs
+5,M006,"Egg, poultry, yolk, boiled",Eggs
+6,M007,"Egg, poultry, omlet",Eggs
+7,M008,"Egg, country hen, whole, raw",Eggs
+8,M009,"Egg, country hen, whole, boiled",Eggs
+9,M010,"Egg, country hen, omlet",Eggs
+10,M011,"Egg, duck, whole, boiled",Eggs
+11,M012,"Egg, duck, whole, raw",Eggs
+12,M013,"Egg, duck, whole, omlet",Eggs
+13,M014,"Egg, quial, whole, raw",Eggs
+14,M015,"Egg, quial, whole, boiled",Eggs
+15,N001,"Chicken, poultry, leg, skinless",White Meat
+16,N002,"Chicken, poultry, thigh, skinless",White Meat
+17,N003,"Chicken, poultry, breast, skinless",White Meat
+18,N004,"Chicken, poultry, wing, skinless",White Meat
+19,N005,"Poultry, chicken, liver",White Meat
+20,N006,"Poultry, chicken, gizzard",White Meat
+21,N007,"Country hen, leg, with skin",White Meat
+22,N008,"Country hen, thigh, with skin",White Meat
+23,N009,"Country hen, breast, with skin",White Meat
+24,N010,"Country hen, wing, with skin",White Meat
+25,N011,"Duck, meat, with skin",White Meat
+26,N012,"Emu, meat, skinless",Red Meat
+27,N013,"Guinea fowl, meat, with skin",White Meat
+28,N014,"Pigeon, meat, with skin",White Meat
+29,N015,"Quail, meat, skinless",White Meat
+30,N016,"Turkey, leg, with skin",White Meat
+31,N017,"Turkey, thigh, with skin",White Meat
+32,N018,"Turkey, breast, with skin",White Meat
+33,N019,"Turkey, wing, with skin",White Meat
+34,O001,"Goat, shoulder",Red Meat
+35,O002,"Goat, chops",Red Meat
+36,O003,"Goat, legs",Red Meat
+37,O004,"Goat, brain",Red Meat
+38,O005,"Goat, tongue",Red Meat
+39,O006,"Goat, lungs",Red Meat
+40,O007,"Goat, heart",Red Meat
+41,O008,"Goat, liver",Red Meat
+42,O009,"Goat, tripe",Red Meat
+43,O010,"Goat, spleen",Red Meat
+44,O011,"Goat, kidneys",Red Meat
+45,O012,"Goat, tube (small intestine)",Red Meat
+46,O013,"Goat, testis",Red Meat
+47,O014,"Sheep, shoulder",Red Meat
+48,O015,"Sheep, chops",Red Meat
+49,O016,"Sheep, leg",Red Meat
+50,O017,"Sheep, brain",Red Meat
+51,O018,"Sheep, tongue",Red Meat
+52,O019,"Sheep, lungs",Red Meat
+53,O020,"Sheep, heart",Red Meat
+54,O021,"Sheep, liver",Red Meat
+55,O022,"Sheep, tripe",Red Meat
+56,O023,"Sheep, spleen",Red Meat
+57,O024,"Sheep, kidneys",Red Meat
+58,O025,"Beef, shoulder",Red Meat
+59,O026,"Beef, chops",Red Meat
+60,O027,"Beef, round (leg)",Red Meat
+61,O028,"Beef, brain",Red Meat
+62,O029,"Beef, tongue",Red Meat
+63,O030,"Beef, lungs",Red Meat
+64,O031,"Beef, heart",Red Meat
+65,O032,"Beef, liver",Red Meat
+66,O033,"Beef, tripe",Red Meat
+67,O034,"Beef, spleen",Red Meat
+68,O035,"Beef, kidneys",Red Meat
+69,O036,"Calf, shoulder",Red Meat
+70,O037,"Calf, chops",Red Meat
+71,O038,"Calf, round (leg)",Red Meat
+72,O039,"Calf, brain",Red Meat
+73,O040,"Calf, tongue",Red Meat
+74,O041,"Calf, heart",Red Meat
+75,O042,"Calf, liver",Red Meat
+76,O043,"Calf, spleen",Red Meat
+77,O044,"Calf, kidneys",Red Meat
+78,O045,"Mithun, shoulder",Red Meat
+79,O046,"Mithun, chops",Red Meat
+80,O047,"Mithun, round (leg)",Red Meat
+81,O048,"Pork, shoulder",Red Meat
+82,O049,"Pork, chops",Red Meat
+83,O050,"Pork, ham",Red Meat
+84,O051,"Pork, lungs",Red Meat
+85,O052,"Pork, heart",Red Meat
+86,O053,"Pork, liver",Red Meat
+87,O054,"Pork, stomach",Red Meat
+88,O055,"Pork, spleen",Red Meat
+89,O056,"Pork, kidneys",Red Meat
+90,O057,"Pork, tube (small intestine)",Red Meat
+91,O058,"Hare, shoulder",Red Meat
+92,O059,"Hare, chops",Red Meat
+93,O060,"Hare, leg",Red Meat
+94,O061,"Rabbit, shoulder",White Meat
+95,O062,"Rabbit, chops",White Meat
+96,O063,"Rabbit, leg",White Meat
+97,P001,Allathi (Elops machnata),Seafood
+98,P002,Aluva (Parastromateus niger),Seafood
+99,P003,Anchovy (Stolephorus indicus),Seafood
+100,P004,Ari fish (Aprion virescens ),Seafood
+101,P005,Betki (Lates calcarifer),Seafood
+102,P006,Black snapper (Macolor niger),Seafood
+103,P007,Bombay duck (Harpadon nehereus),Seafood
+104,P008,Bommuralu (Muraenesox cinerius),Seafood
+105,P009,Cat fish (Tachysurus thalassinus),Seafood
+106,P010,Chakla (Rachycentron canadum),Seafood
+107,P011,Chappal (Aluterus monoceros ),Seafood
+108,P012,Chelu (Elagatis bipinnulata),Seafood
+109,P013,Chembali (Lutjanus quinquelineatus),Seafood
+110,P014,Eri meen (Pristipomoides filamentosus),Seafood
+111,P015,Gobro (Epinephelus diacanthus),Seafood
+112,P016,Guitar fish (Rhinobatus prahli),Seafood
+113,P017,Hilsa (Tenualosa ilisha),Seafood
+114,P018,Jallal (Arius sp.),Seafood
+115,P019,Jathi vela meen (Lethrinus lentjan),Seafood
+116,P020,Kadal bral (Synodus indicus),Seafood
+117,P021,Kadali (Nemipterus mesoprion),Seafood
+118,P022,Kalamaara (Leptomelanosoma indicum),Seafood
+119,P023,Kalava (Epinephelus coioides),Seafood
+120,P024,Kanamayya (Lutjanus rivulatus),Seafood
+121,P025,Kannadi paarai (Alectis indicus),Seafood
+122,P026,Karimeen (Etroplus suratensis),Seafood
+123,P027,Karnagawala (Anchoa hepsetus),Seafood
+124,P028,Kayrai (Thunnus albacores),Seafood
+125,P029,Kiriyan (Atule mate),Seafood
+126,P030,Kite fish (Mobula kuhlii),Seafood
+127,P031,Korka (Terapon jarbua),Seafood
+128,P032,Kulam paarai (Carangoides fulvoguttatus),Seafood
+129,P033,Maagaa (Polynemus plebeius),Seafood
+130,P034,Mackerel (Rastrelliger kanagurta),Seafood
+131,P035,Manda clathi (Naso reticulatus),Seafood
+132,P036,Matha (Acanthurus mata),Seafood
+133,P037,Milk fish (Chanos chanos),Seafood
+134,P038,Moon fish (Mene maculata),Seafood
+135,P039,Mullet (Mugil cephalus),Seafood
+136,P040,Mural (Tylosurus crocodilus crocodilus),Seafood
+137,P041,Myil meen (Istiophorus platypterus),Seafood
+138,P042,Nalla bontha (Epinephelus sp.),Seafood
+139,P043,Narba (Caranx sexfasciatus),Seafood
+140,P044,Paarai (Caranx heberi),Seafood
+141,P045,Padayappa (Canthidermis maculata),Seafood
+142,P046,Pali kora (Panna microdon),Seafood
+143,P047,Pambada (Lepturacanthus savala),Seafood
+144,P048,Pandukopa (Pseudosciaena manchurica),Seafood
+145,P049,Parava (Lactarius lactarius),Seafood
+146,P050,Parcus (Psettodes erumei),Seafood
+147,P051,Parrot fish (Scarus ghobban),Seafood
+148,P052,Perinkilichai (Pinjalo pinjalo),Seafood
+149,P053,Phopat (Coryphaena hippurus),Seafood
+150,P054,Piranha (Pygopritis sp.),Seafood
+151,P055,"Pomfret, black (Parastromateus niger)",Seafood
+152,P056,"Pomfret, snub nose (Trachinotus blochii)",Seafood
+153,P057,"Pomfret, white (Pampus argenteus)",Seafood
+154,P058,Pranel (Gerres sp.),Seafood
+155,P059,Pulli paarai (Gnathanodon speciosus),Seafood
+156,P060,Queen fish (Scomberoides commersonianus),Seafood
+157,P061,Raai fish (Lobotes surinamensis),Seafood
+158,P062,Raai vanthu (Epinephelus chlorostigma),Seafood
+159,P063,Rani (Pink perch),Seafood
+160,P064,"Ray fish, bow head, spotted (Rhina ancylostoma)",Seafood
+161,P065,Red snapper (Lutjanus argentimaculatus),Seafood
+162,P066,"Red snapper, small (Priacanthus hamrur)",Seafood
+163,P067,Sadaya (Platax orbicularis ),Seafood
+164,P068,Salmon (Salmo salar),Seafood
+165,P069,Sangada (Nemipterus japonicus),Seafood
+166,P070,Sankata paarai (Caranx ignobilis),Seafood
+167,P071,Sardine (Sardinella longiceps),Seafood
+168,P072,Shark (Carcharhinus sorrah),Seafood
+169,P073,"Shark, hammer head (Sphyrna mokarran)",Seafood
+170,P074,"Shark, spotted (Stegostoma fasciatum)",Seafood
+171,P075,Shelavu (Sphyraena jello),Seafood
+172,P076,Silan (Silonia silondia),Seafood
+173,P077,Silk fish (Beryx sp.),Seafood
+174,P078,Silver carp (Hypophthalmichthys molitrix),Seafood
+175,P079,Sole fish (Cynoglossus arel),Seafood
+176,P080,Stingray (Dasyatis pastinaca),Seafood
+177,P081,Tarlava (Drepane punctata),Seafood
+178,P082,Tholam (Plectorhinchus schotaf),Seafood
+179,P083,Tilapia (Oreochromis niloticus),Seafood
+180,P084,Tuna (Euthynnus affinis),Seafood
+181,P085,"Tuna, striped (Katsuwonus pelamis)",Seafood
+182,P086,Valava (Chirocentrus nudus),Seafood
+183,P087,Vanjaram (Scomberomorus commerson ),Seafood
+184,P088,Vela meen (Aprion virescens),Seafood
+185,P089,Vora (Siganus javus),Seafood
+186,P090,Whale shark (Galeocerdo cuvier),Seafood
+187,P091,Xiphinis (Xiphias gladius),Seafood
+188,P092,"Eggs, Cat fish (Ompok bimaculatus)",Seafood
+189,Q001,Crab (Menippe mercenaria),Seafood
+190,Q002,"Crab, sea (Portunus sanguinolentus)",Seafood
+191,Q003,"Lobster, brown (Thenus orientalis)",Seafood
+192,Q004,"Lobster, king size (Thenus orientalis)",Seafood
+193,Q005,Mud crab (Scylla tranquebarica),Seafood
+194,Q006,Oyster (Crassostrea sp.),Seafood
+195,Q007,"Tiger prawns, brown (Solenocera crassicornis)",Seafood
+196,Q008,"Tiger Prawns, orange (Penaeus monodon)",Seafood
+197,R001,"Clam, green shell (Perna viridis)",Seafood
+198,R002,"Clam, white shell, ribbed (Meretrix meretrix)",Seafood
+199,R003,Octopus (Octopus vulgaris),Seafood
+200,R004,"Squid, black (Loligo sp.)",Seafood
+201,R005,"Squid, hard shell (Sepia pharaonis)",Seafood
+202,R006,"Squid, red (Loligo duvauceli)",Seafood
+203,R007,"Squid, white, small (Uroteuthis duvauceli )",Seafood
+204,S001,Cat fish (Tandanus tandanus),Seafood
+205,S002,Catla (Catla catla),Seafood
+206,S003,Freshwater Eel (Anguilla anguilla),Seafood
+207,S004,Gold fish (Carassius auratus),Seafood
+208,S005,Pangas (Pangasianodon hypophthalmus),Seafood
+209,S006,Rohu (Labeo rohita),Seafood
+210,S007,Crab (Pachygrapsus sp.),Seafood
+211,S008,"Prawns, big (Macrobrachium rosenbergii)",Seafood
+212,S009,"Prawns, small (Macrobrachium sp.)",Seafood
+213,S010,Tiger prawns (Macrobrachium sp.),Seafood

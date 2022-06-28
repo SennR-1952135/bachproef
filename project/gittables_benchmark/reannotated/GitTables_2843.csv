@@ -1,0 +1,9 @@
+,name
+0,mail.message.portal
+1,mail.mail.portal
+2,mail.notification.portal
+3,mail.followers.portal
+4,res.partner
+5,portal.payment.acquirer
+6,portal.payment.acquirer
+7,ir.attachment group_portal

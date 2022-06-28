@@ -1,0 +1,17 @@
+,name
+0,calendar.attendee_portal
+1,calendar.attendee_employee
+2,calendar.alarm
+3,calendar.event.manager
+4,calendar.event
+5,calendar.event_all_user
+6,calendar.event_all_employee
+7,calendar.event.partner.manager
+8,calendar.event.type.all
+9,calendar.event.type.manager
+10,calendar.event.type.user
+11,calendar.event.type.salesman
+12,calendar.event.type.manager
+13,access_calendar_alarm_manager
+14,access_calendar_contacts_all
+15,access_calendar_contacts

@@ -1,0 +1,14 @@
+,name,description,format
+0,VMap0,A Free low-resolution Vector Map of the whole world,
+1,Blue Marble,A composite of four months of MODIS observations with a spatial resolution (level of detail) of 1 square kilometer per pixel.,
+2,LandSat,Global 15m satellite imagery from 2003.,image/jpeg
+3,MODIS/Terra Corrected Reflectance (True Color),,image/jpeg
+4,MODIS/Aqua Corrected Reflectance (True Color),,image/jpeg;mode=24bit
+5,Terra Corrected Reflectance (True Color),,image/png
+6,Fires (Last 24 Hours),Provides MODIS (MODIS Rapid Response Collection) Fires/Hotspots for the past 24 hours. Please visit http://maps.geog.umd.edu/firms/ for more information,image/png
+7,Fires (Last 48 Hours),Provides MODIS (MODIS Rapid Response Collection) Fires/Hotspots for the past 48 hours. Please visit http://maps.geog.umd.edu/firms/ for more information,image/png
+8,Population Density 2010 (Alternate server),GPWv3,image/png
+9,Population Density 2000 (Persons per km2),GRUMPv1,image/png
+10,Precipitation forecast,,image/png
+11,Cloud forecast,,image/png
+12,Sea Level: Rise of 2m,Data from https://www.cresis.ku.edu/data/sea-level-rise-maps,image/png

@@ -1,0 +1,103 @@
+,year,country,city
+0,2013,United States;United States,Blacksburg;Blacksburg
+1,2013,France;France,Evry;Paris
+2,2013,Canada,Victoria
+3,2013,Canada,Ottawa
+4,2013,United States,Davis
+5,2013,Italy,Naples
+6,2013,United States;United States,Cambridge;Boston
+7,2013,United States,Princeton
+8,2013,United States,Durham
+9,2013,France,Sophia Antipolis
+10,2013,Germany;United States,Berlin;Durham
+11,2013,United States,Cambridge
+12,2013,France,Marseille
+13,2013,United States,University Park
+14,2012,United States;United States,Cambridge;St. Louis
+15,2012,United States,University Park
+16,2012,United States,New Haven
+17,2012,United States,Boston
+18,2012,United States,Cambridge
+19,2012,United States,Boston
+20,2012,United States,Cambridge
+21,2012,Canada,Victoria
+22,2011,United States,San Diego
+23,2011,Italy,Rome
+24,2011,United States,Pasadena
+25,2010,United States,Ann Arbor
+26,2010,United States,Boston
+27,2010,,
+28,2010,France,Montpellier
+29,2009,United States;United States;United States,Cambridge;Cambridge;Boston
+30,2009,United States,Durham
+31,2009,Germany,Darmstadt
+32,2009,United States,San Francisco
+33,2009,United States,Boston
+34,2009,United States,Boston
+35,2009,Switzerland,"Zurich ZH,"
+36,2008,United States,San Diego
+37,2008,France,Marseille
+38,2008,United States,Cambridge
+39,2008,Canada,Montreal
+40,2008,Spain,Madrid
+41,2008,United Kingdom;Italy,Bristol;Naples
+42,2007,United States,Boston
+43,2006,United States,Stony Brook
+44,2006,United States,Pasadena
+45,2006,Canada,Montreal
+46,2006,France,Sophia Antipolis
+47,2006,France,Sophia Antipolis
+48,2005,United States,Baltimore
+49,2005,United States,Piscataway
+50,2005,United States,New York
+51,2005,United States;United States,Boston;Evanston
+52,2005,United States;United States,Pasadena;Rockville
+53,2005,Norway,As
+54,2004,Canada,Montreal
+55,2004,United States,Notre Dame
+56,2003,United States,Branford
+57,2003,United States,Notre Dame
+58,2003,United States,Minneapolis
+59,2003,Sweden,Lund
+60,2003,United States;United States,Santa Fe;Durham
+61,2003,France,Saint-Ismier
+62,2002,United States,Cambridge
+63,2002,France,Saint-Ismier
+64,2002,France;France,Paris;Paris
+65,2002,,
+66,2001,Spain,Madrid
+67,2001,Canada,Victoria
+68,2000,Canada,Victoria
+69,2000,United States,Seattle
+70,2000,Germany,Heidelberg
+71,2000,United States,Boston
+72,2000,United States,Princeton
+73,2000,Canada,Victoria
+74,1999,United States,Seattle
+75,1999,United States,Notre Dame
+76,1998,Mexico,Ciudad de México
+77,1998,United States,Ithaca
+78,1998,Mexico,Cuernavaca
+79,1998,United States,Pasadena
+80,1998,Canada,Montreal
+81,1998,Italy;Germany,Rome;Jülich
+82,1998,Norway,As
+83,1998,Morocco,Rabat
+84,1996,Norway,As
+85,1995,Norway,As
+86,1995,Belgium,Brussels
+87,1995,Belgium,Brussels
+88,1991,Belgium,Brussels
+89,1991,United States,New Haven
+90,1986,France,Gif-sur-Yvette
+91,1986,Germany,Tubingen
+92,1985,United States;United States,Los Angeles;New York
+93,1978,Belgium,Brussels
+94,1978,Canada,Montreal
+95,1978,Canada,Montreal
+96,1975,United States,Rochester
+97,1973,Belgium,Brussels
+98,1973,United States,Rochester
+99,1969,United States;United States,San Francisco;Cambridge
+100,1963,Japan,Kunitachi
+101,1961,,

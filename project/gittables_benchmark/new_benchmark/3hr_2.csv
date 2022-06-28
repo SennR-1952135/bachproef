@@ -1,0 +1,23 @@
+,description,name,type
+0,includes both liquid and solid phases,pr,real
+1,"near-surface (usually, 2 meter) air temperature",tas,real
+2,,hfls,real
+3,,hfss,real
+4,,rlds,real
+5,,rlus,real
+6,surface solar irradiance for UV calculations,rsds,real
+7,,rsus,real
+8,"near-surface (usually, 10 meters) eastward component of wind.",uas,real
+9,unset,vas,real
+10,"near-surface (usually, 2 meter) specific humidity.",huss,real
+11,the mass of water in all phases in a thin surface soil layer.,mrsos,real
+12,"""skin"" temperature of all surfaces except open ocean.",tslsi,real
+13,"temperature of surface of open ocean, sampled synoptically.",tos,real
+14,at surface; includes both liquid and solid phases.,prc,real
+15,at surface; includes precipitation of all forms of water in the solid phase,prsn,real
+16,"""the total runoff (including """"drainage"""" through the base of the soil model) leaving the land portion of the grid cell.""",mrro,real
+17,unset,rldscs,real
+18,surface solar irradiance clear sky for UV calculations,rsdscs,real
+19,"surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates",ps,real
+20,cloud area fraction,clt,real
+21,unset,rsdsdiff,real

@@ -1,0 +1,91 @@
+,category,name,type
+0,Transportation,Colorado Highway Mileposts GPS,Map
+1,Government,Map of Colorado Governmental Agencies,Map
+2,Water,DWR Calls History,Dataset
+3,Water,DWR Current Surface Water Conditions Map (Statewide),Map
+4,Water,DWR Active Calls,Dataset
+5,Water,DWR Current Surface Water Conditions,Dataset
+6,Demographics,Colorado Population Projections,Dataset
+7,Water,DWR Active Calls Map (Statewide),Map
+8,County,Colorado County Seats,Dataset
+9,Agriculture,2014 - Animal Shelter & Rescue Annual Reporting Numbers,Dataset
+10,Legislative,2012 Signed Bills,Dataset
+11,K-12,Colorado Department of Education's School View,External Link
+12,Government,Colorado Governmental Agencies,Dataset
+13,County,Map of Colorado County Seats,Map
+14,Health,Colorado Telehealth Network Locations,Dataset
+15,Agriculture,2013 PACFA Summary of Shelter Statistics,File or Document
+16,Public Safety,Black Bear Human Conflict Area,External Link
+17,State,OIT Playbook  - FY14,File or Document
+18,Human Services,Map of CDHS Locations,Map
+19,Higher Education,CDHE - Degrees Awarded,Dataset
+20,Human Services,Pie Chart of Colorado County Populations,Chart
+21,Recreation,Greenprint Data - Parks & Open Space,External Link
+22,Environment,All Colorado Parks and Wildlife Species Activity Mapping Data,External Link
+23,State,FirstNet Colorado Governing Body,Map
+24,Recreation,Colorado Hunting Atlas,External Link
+25,Human Services,CDHS Locations,Dataset
+26,Human Services,Map of Colorado Population by County Boundary,Map
+27,Health,Centers for Disease Control (CDC) Data & Statistics by Topic,External Link
+28,State,OIT Standards - Cloud First Policy 2012-13,File or Document
+29,Business,Consumer Price Index,Dataset
+30,K-12,CSAP School And District Summary Results 2010,Dataset
+31,Higher Education,CDHE - Financial Aid,Dataset
+32,Health,2012 Health Outcomes And Factors Rankings,Dataset
+33,State,Strategic Plan - Secure Colorado,File or Document
+34,Higher Education,CDHE - Enrollment,Dataset
+35,Environment,Colorado Oil and Gas Conservation Commission Wells and Permits,External Link
+36,Public Safety,Reported Arrests Agency Statistics 2012,Dataset
+37,K-12,CSAP School And District Summary Results 2008,Dataset
+38,State,OIT Standards - Mobile First Strategy 2013,File or Document
+39,Human Services,Substance Use Disorder Treatment Providers - Denver Metro OutPatient,Map
+40,Health,Colorado Health Information DataSet (COHID),External Link
+41,State,Consent Form 9 26 13,File or Document
+42,State,OIT Standards - Mobile Devices-2012v1,File or Document
+43,State,OIT Standards - The Compass - Enterprise Architecture 2011-2014,File or Document
+44,Public Safety,Reported Offenses Agency Statistics 2012,Dataset
+45,K-12,2013 TCAP School and District Summary Results - Mathematics (Grades 3 - 10),Dataset
+46,Legislative,2013 Signed Bills,Dataset
+47,Public Safety,2012 Reported Arrests Bar Chart Totals,Chart
+48,Environment,Post-flood LiDAR,External Link
+49,Human Services,CBMS - Release Dates,Dataset
+50,K-12,2012 TCAP School and District Summary Results - Reading (Grades 3 - 10),Dataset
+51,State,OIT Standards - Mobile Applications Development,File or Document
+52,Transportation,Traffic Feeds in Colorado,External Link
+53,State,OIT Standards - Web Browsers 2012v1,File or Document
+54,Business,State-Collected City Sales Taxes,Dataset
+55,K-12,CSAP School And District Summary Results 2011,Dataset
+56,Legislative,2014 Signed Bills,Dataset
+57,Health,Well Being Index,External Link
+58,Transportation,Regional Traffic Counts,External Link
+59,,Catalog,Dataset
+60,Health,Map of Colorado Telehealth Network Locations,Map
+61,Public Safety,Total Number of Arrests by location (2012),Filtered View
+62,Municipal,Municipal Boundaries (2012),External Link
+63,Business,Colorado Use Tax Rates,Dataset
+64,Health,Medical Marijuana Statistics - County Information,Dataset
+65,Economic Growth,Colorado InSite,External Link
+66,Telecommunications,Colorado Broadband Availability,External Link
+67,Demographics,Population Colorado,Filtered View
+68,Health,Colorado Health Institute Data Repository,External Link
+69,Public Safety,2013 Flood Information - Colorado Office of Emergency Management,External Link
+70,Nonprofit Data,IRS Tax Exempt Subsections,Dataset
+71,Human Services,Substance Use Disorder Treatment Providers,Dataset
+72,Demographics,Total Population by County by Year,Filtered View
+73,Demographics,Census Counties 2010,Map
+74,,Colorado GeoData Cache,External Link
+75,Nonprofit Data,Solicitation Notices,Dataset
+76,Water,DWR Current Surface Water Conditions Map (Stream only),Map
+77,Agriculture,Farmers' Markets For 2014,Dataset
+78,State,OIT Standards - Web Services 2012v1,File or Document
+79,Tax Data,Tax Roll,Dataset
+80,Water,DWR Div 1 Points of Interest,Map
+81,K-12,2012 TCAP School and District Summary Results - Writing (Grades 3 - 10),Dataset
+82,K-12,"2013 TCAP School and District Summary Results - Science (Grades 5, 8, 10)",Dataset
+83,Municipal,Colorado Municipal Boundaries,Map
+84,Health,Health Indicators Warehouse,External Link
+85,Human Services,"Colorado Counties With Population Under 1,000",Filtered View
+86,Tax Data,Tax Liens,Dataset
+87,Business,State-Collected Colorado County Sales Tax,Dataset
+88,Housing,Colorado Statewide Parcels Land Tax and Land Use,External Link
+89,Health,Medical Marijuana Statistics - Reported Condition,Dataset

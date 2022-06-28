@@ -1,0 +1,285 @@
+,language,type,name,origin
+0,Japanese,synopsis,,黒騎士の言葉から<span class='scene-font-place'>ルーマシー群島</span>へと向かった<span>[플레이어]</span>一行。言葉の真意を確かめるため、ルリアが感じる謎の少女との共鳴を手掛かりに、少女と共に居るであろう黒騎士を探し始める。
+1,Japanese,detail,,<span class='scene-font-katari'>黒騎士の残した言葉を追い、</span><br><span class='scene-font-katari'>一同は</span><span class='scene-font-place'>ルーマシー群島</span><span class='scene-font-katari'>へと降り立った。</span>
+2,Japanese,detail,이오,……で？<br>ここになにがあるっていうの？
+3,Japanese,detail,루리아,わぁー……<br>おっきい木がいっぱい。<br>騎空艇とどっちがおっきいかな？
+4,Japanese,detail,이오,木しかないじゃない！<br>っていうか、ただのド田舎じゃん！
+5,Japanese,detail,카타리나,お、落ち着くんだ、イオ……<br>レディはそう興奮するものじゃないぞ？
+6,Japanese,detail,이오,なんなのあの黒いのは！<br>思わせぶりなことばっかり言って！
+7,Japanese,detail,라캄,まぁ、イオがそう怒るのも、<br>わからなくはねぇなぁ……
+8,Japanese,detail,라캄,あいつはここで、<br>俺達に何をさせようってんだ？
+9,Japanese,detail,오이겐,んなもん、本人に聞くのが、<br>一番手っ取り早いに、<br>決まってるじゃねぇか。
+10,Japanese,detail,비,本人ったって……どうやって探す？<br>手がかりなんてありゃしねぇぜ？
+11,Japanese,detail,루리아,あ……それ、もしかしたら、<br>私、わかるかもです。
+12,Japanese,detail,루리아,私の中のリヴァイアサンの力が、<br>あの女の子の力と共鳴してるんです……<br>ずっと……あの森の奥のほうに……
+13,Japanese,detail,카타리나,あの少女の居場所がわかれば、<br>自ずと黒騎士にも辿り着く、か……
+14,Japanese,detail,비,よっしゃ！ 方針は決まったな！<br>行こうぜ！ [플레이어]！
+15,Japanese,synopsis,,鬱蒼と生い茂る森を進む<span>[플레이어]</span>一行にカタリナは、帝国に居た頃に聞いた、緋色の鬼が住むという<span class='scene-font-place'>ルーマシー群島</span>の恐ろしげな逸話を語る。
+16,Japanese,detail,카타리나,うう……ここはやけに、<br>虫の多い森だな……
+17,Japanese,detail,오이겐,仕方ねぇさ、この辺の森はほとんど、<br>人の手が入ってねぇからなぁ。
+18,Japanese,detail,라캄,誰も立ち寄ったって話を聞かない、<br>ほとんど未開の群島だからな……<br>噂話すら、ろくろく聞かねぇぜ。
+19,Japanese,detail,라캄,カタリナはどうだ？<br>帝国に居たときとか、<br>この群島について何か……
+20,Japanese,detail,카타리나,ひっ！？<br>な、なんだ！？ 虫か！？
+21,Japanese,detail,카타리나,<span class='scene-font-4'>どこだ！？</span><br><span class='scene-font-4'>我が剣の錆にしてやる！</span>
+22,Japanese,detail,라캄,……気合は買うが、まぁ、落ち着け。<br>カタリナは<span class='scene-font-place'>ルーマシー群島</span>について、<br>何か知ってたか？
+23,Japanese,detail,카타리나,あ、ああ、いや……<br>一度、名前を小耳に挟んだ程度だな。
+24,Japanese,detail,카타리나,世界から忘れ去られた島だとか……<br>緋色の鬼が住むとかなんとか……
+25,Japanese,detail,라캄,おいおいおい……<br>俺達、化物退治でもさせられるのか？
+26,Japanese,detail,이오,ふん……<br>そんなのいつもと変わんないじゃん！
+27,Japanese,detail,이오,ほら！<br>この森にも魔物は居るんだから……<br>ちゃっちゃと片付けちゃうわよ！
+28,Japanese,synopsis,,<span>[플레이어]</span>一行の前に突如、謎の女性、ロゼッタが現れる。不審な点の多い彼女は、<span>[플레이어]</span>と目的地は同じだと話し、一同に同行し始める。
+29,Japanese,detail,,<span class='scene-font-katari'>その声の主は、[플레이어]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>
+30,Japanese,detail,？？？,はぁい♪ ちょっといいかしら？
+31,Japanese,detail,비,うわっ！？<br>だ、誰だあんた！？ いつの間に……
+32,Japanese,detail,？？？,そんなに驚かれると傷つくわね……<br>怪しい者じゃないわ。<br>見ての通りの、か弱い乙女よ。
+33,Japanese,detail,,<span class='scene-font-katari'>その声の主は、[플레이어]達の</span><br><span class='scene-font-katari'>不意を突くように現れた。</span>
+34,Japanese,detail,？？？,はぁい♪ ちょっといいかしら？
+35,Japanese,detail,비,うわっ！？<br>だ、誰だあんた！？ いつの間に……
+36,Japanese,detail,？？？,そんなに驚かれると傷つくわね……<br>怪しい者じゃないわ。<br>見ての通りの、か弱い乙女よ。
+37,Japanese,detail,오이겐,ただのか弱い乙女なんざ、<br>こんな森じゃあ早々に、<br>魔物の餌になってっと思うけどなぁ？
+38,Japanese,detail,？？？,あら……鋭いわね、素敵。<br>そういうヒト、嫌いじゃないわ。
+39,Japanese,detail,오이겐,はぐらかすんじゃねぇや。<br>ジジイにゃ色仕掛けは通用しねぇぜ？
+40,Japanese,detail,？？？,あら残念……ますます素敵。<br>食べちゃいたくなるわ……
+41,Japanese,detail,루리아,ど、どうしよう、[플레이어]！<br>オイゲンさん、食べられちゃう！？
+42,Japanese,detail,로제타,アタシはロゼッタっていうの。<br>ここには、<br>ちょっとしたお使いで来てるのよ。
+43,Japanese,detail,로제타,だけどほら、この森って危険でしょう？<br>だから、アナタ達に<br>守ってもらえないかと思って。
+44,Japanese,detail,카타리나,護衛をしたいのはやまやまだが……<br>私達も急ぎの道中で、<br>寄り道をしている時間は……
+45,Japanese,detail,로제타,心配はいらないわ。<br>どうせ目的地は同じだもの。
+46,Japanese,detail,비,何だって？<br>どうしてオイラ達の目的地を……
+47,Japanese,detail,로제타,――ねぇ、トカゲさん、<br>イイコト教えてあげましょうか？
+48,Japanese,detail,로제타,魅力的な女にはね、<br>幾つも秘密があるものなの。
+49,Japanese,detail,로제타,ほら、行きましょ？<br>グズグズしてる暇なんてないでしょう？<br>知ってるんだから、アタシは……ね。
+50,Japanese,synopsis,,ルリアについての秘密を口にするロゼッタに、一同は不信感を募らせ正体を追求しようとするが、魔物の襲撃によってはぐらかされてしまう。
+51,Japanese,detail,로제타,ふぅん……<br>アナタが[플레이어]さんなのね？<br>ふむふむ……
+52,Japanese,detail,루리아,な、なんなんですかこの人……<br>[플레이어]のことじっと見て……
+53,Japanese,detail,로제타,それで……貴女がルリアちゃんよね。<br>思っていた通り、可愛いわね。
+54,Japanese,detail,루리아,え？ えっと……<br>あ、ありがとうございます……
+55,Japanese,detail,로제타,ふふふ……<br>初々しくてとっても可愛い子……
+56,Japanese,detail,로제타,こんな子が<span class='scene-font-place'>エルステ帝国</span>の<br>最重要機密だなんてね……
+57,Japanese,detail,비,なっ！？<br>や、やっぱりあんた<br>帝国の関係者なのか？
+58,Japanese,detail,로제타,無関係ではないわ……<br>でもね、<br>この空域は帝国の勢力圏なのよ？
+59,Japanese,detail,로제타,このファータ・グランデ空域で、<br>帝国と無関係の人なんて<br>居るのかしらね？
+60,Japanese,detail,카타리나,そ、それは……<br>敵味方を問わないのであれば、<br>無関係の者はいないかもしれないが……
+61,Japanese,detail,로제타,でしょう？<br>特にここには<br>縁の深い人も居るみたいだし……
+62,Japanese,detail,로제타,ねぇ？ オイゲンさん。
+63,Japanese,detail,오이겐,っ！？
+64,Japanese,detail,라캄,ど、どういうことだよ……<br>何が言いたいんだ？
+65,Japanese,detail,로제타,さぁ？<br>でも、これは<br>いずれ貴方達がぶつかる問題。
+66,Japanese,detail,마물,グルルルル……
+67,Japanese,detail,로제타,だけどいまは、<br>先に目の前の魔物から<br>相手をしてあげなくちゃね。
+68,Japanese,synopsis,,カタリナはロゼッタに森に来ている用事を尋ねるが、ロゼッタは妖しげな笑みを浮かべながら決して教えようとはせず、ただ森の奥へと進むよう促す。
+69,Japanese,detail,로제타,――[플레이어]って、<br>見かけによらず腕が立つのね？<br>アタシ、気に入っちゃったかも。
+70,Japanese,detail,루리아,だ、だめですよっ！<br>[플레이어]はだめです！
+71,Japanese,detail,로제타,あらあら、やきもち？<br>ふふふ……可愛いわね。
+72,Japanese,detail,루리아,むぅぅ……
+73,Japanese,detail,이오,もう……馬鹿な話してたら、<br>置いてっちゃうからね？
+74,Japanese,detail,로제타,ふふ、若い子はせっかちでダメね。<br>もっと大人の余裕を持たないと……
+75,Japanese,detail,카타리나,ロゼッタ、つかぬ事を伺うが……
+76,Japanese,detail,로제타,あら、歳の話？<br>気になるのはわかるけど、<br>女同士でもそれはタブーよ？
+77,Japanese,detail,카타리나,い、いや、そういう話ではなく……<br>……まぁ、多少はその、<br>気にならないというわけでもないが……
+78,Japanese,detail,카타리나,こほん……ほ、本題に戻るぞ。
+79,Japanese,detail,카타리나,何らかの使いでこの森に来ていると、<br>君はそう言っていたな？
+80,Japanese,detail,카타리나,差支えなければ、<br>その内容を教えていただきたい。
+81,Japanese,detail,로제타,そういう話ね……<br>用心するのはイイことだと思うし、<br>もっともな疑問だわ。
+82,Japanese,detail,카타리나,それなら……
+83,Japanese,detail,로제타,でも、ダーメ、教えてあげない。<br>言ったでしょ？<br>秘密は魅力のひとつなの。
+84,Japanese,detail,라캄,おい、何してんだ？<br>イオ達、<br>ずいぶん先まで行っちまったぞ？
+85,Japanese,detail,로제타,さ、行きましょ？<br>この森で道に迷うと、大変なんだから。
+86,Japanese,synopsis,,<span>[플레이어]</span>はカタリナからロゼッタをどう思うか意見を求められるが、結局答えを出すことは出来ず、一同はロゼッタに注意して先へと進む。
+87,Japanese,detail,,<span class='scene-font-katari'>物陰に[플레이어]を引き込み、</span><br><span class='scene-font-katari'>カタリナは声をひそめた。</span>
+88,Japanese,detail,카타리나,[플레이어]……君は気づいたか？<br>ロゼッタのことなのだが……
+89,Japanese,detail,카타리나,最初、彼女に会ったとき、<br>彼女の足元には森の魔物が、<br>ひれ伏すように控えていた……
+90,Japanese,detail,카타리나,無論、巧妙に隠れてはいたが……<br>[플레이어]はこれを<br>どういうことだと考える？
+91,Japanese,sel1_txt,,<span class='scene-font-katari'>魔物に狙われてた</span>
+92,Japanese,sel2_txt,,<span class='scene-font-katari'>魔物を惹きつけてた</span>
+93,Japanese,detail,카타리나,それはそれで筋が通るな……<br>それに彼女からは確かに、<br>常人ならざるものを感じる……
+94,Japanese,detail,카타리나,とはいえ、<br>そうすると彼女は、<br>いったい何者で、目的は……
+95,Japanese,detail,카타리나,……まだ答えは出ない、か。<br>なんであれ彼女には、<br>注意して進んだほうが良さそうだ。
+96,Japanese,synopsis,,深い森の奥でラカムはよろず屋の看板を見つける。さらにルリアはその方向に強い共鳴を感じる。黒騎士が少女と共によろず屋に居ることを確信した一同は魔物を蹴散らしながら道を急ぐ。
+97,Japanese,detail,라캄,――ん？<br>なんだありゃ……
+98,Japanese,detail,이오,どうしたの？ 何か見えた？
+99,Japanese,detail,라캄,ああ、いや……<br>俺の見間違いじゃなきゃ……<br>……よろず屋の看板がある。
+100,Japanese,detail,이오,こんな森の中に？ 見間違いじゃない？
+101,Japanese,detail,이오,ラカムもいよいよ、<br>おじいちゃんの仲間入りってことね。
+102,Japanese,detail,라캄,おいこら、ガキンチョ！<br>俺はまだまだ若いっつーの！
+103,Japanese,detail,라캄,なぁ、ビィは見えるか？
+104,Japanese,detail,비,んー……<br>確かに何かあるけど、<br>それ以上はオイラにゃわかんねーな。
+105,Japanese,detail,루리아,ねぇねぇ、ラカム、<br>それってどっちの方向ですか？
+106,Japanese,detail,라캄,ん？<br>ああ、向こうのあの木の奥に……
+107,Japanese,detail,루리아,その方向……<br>リヴァイアサンの共鳴が強いです……
+108,Japanese,detail,루리아,たぶん、あの黒騎士さんの連れてた、<br>女の子がいます……
+109,Japanese,detail,라캄,よろず屋に黒騎士か……<br>嫌な感じがするぜ、<br>何もなければいいけどな……
+110,Japanese,detail,오이겐,あの黒騎士のことだ。<br>何もねぇってこたぁねぇだろうな。
+111,Japanese,detail,라캄,ちっ……<br>やっぱそうだよな……<br>[플레이어]！ 急ごうぜ！
+112,Japanese,synopsis,,どうして黒騎士がよろず屋に居るのか。そのことに不安を覚えた<span>[플레이어]</span>一行はよろず屋へと急ぐが、一同の行く手を巨大な魔物が阻む。
+113,Japanese,detail,마물,<span class='scene-font-4'>グオオオオオ！！</span>
+114,Japanese,detail,라캄,もうよろず屋は目の前だってのに、<br>デケェのがお出ましか……！<br>相手にとって不足はねぇな！
+115,Japanese,detail,로제타,ふふ、勇ましいわね……<br>その顔、嫌いじゃないわ。
+116,Japanese,detail,오이겐,いっくら勇ましくても、<br>顔だけじゃあ、意味はねぇさ。<br>実力がなくっちゃあな。
+117,Japanese,detail,로제타,ごもっともだわ。<br>さぁ、もっともっと見せて頂戴。<br>貴方達の実力を……ね。
+118,Japanese,synopsis,,<span>[플레이어]</span>一行はよろず屋へと乗り込むが、そこに黒騎士の姿はなく、謎の少女がひとりで黙々と食事をとっていた。
+119,Japanese,detail,,<span class='scene-font-katari'>道を塞ぐ魔物を退けた[플레이어]達は</span><br><span class='scene-font-katari'>ひっそりと佇むよろず屋へと飛び込んだ。</span>
+120,Japanese,detail,셰로카르테,あ、いらっしゃ～い。
+121,Japanese,detail,셰로카르테,……あれ？ なぁんだ、<br>[플레이어]さん達でしたか～！
+122,Japanese,detail,라캄,え、あれ……シェロ！？<br>なんで<span class='scene-font-place'>ルーマシー群島</span>に居るんだ！？
+123,Japanese,detail,셰로카르테,よろず屋ですから～<br>よろず屋あるところにシェロカルテあり<br>ここ重要ですよ～、試験に出ますよ～
+124,Japanese,detail,이오,なんかよくわかんないけど……<br>とりあえず大丈夫？<br>ヘンな黒い奴が来たりとか……
+125,Japanese,detail,셰로카르테,特に変わったことはありませんよ～？<br>ちょっと大食いのお客さんがいて、<br>食材を切らしちゃったくらいで～
+126,Japanese,detail,셰로카르테,でも、たぶん、それももうすぐ……
+127,Japanese,detail,로제타,はぁい♪ シェロちゃん。<br>はいこれ、お待ちかねのもの。
+128,Japanese,detail,셰로카르테,あ～、ロゼッタさん～<br>[플레이어]さん達に、<br>送ってもらったんですか～？
+129,Japanese,detail,카타리나,ちょ、ちょっと待ってほしい……<br>えーっと……なんだ……
+130,Japanese,detail,카타리나,ロゼッタとシェロカルテ殿は、<br>どういう関係なんだ？
+131,Japanese,detail,셰로카르테,どういう関係と言うと～<br>……ちょっと難しいですね～
+132,Japanese,detail,로제타,長い付き合いだものね。<br>一言ではとても説明できない仲だわ。
+133,Japanese,detail,루리아,あ、あの！ シェロさん！<br>ここに黒騎士さんは来なかったですか？<br>女の子を連れた、黒い騎士さんは……
+134,Japanese,detail,셰로카르테,黒騎士さんですか～？<br>それは見てないですけど……<br>女の子だったら、ほら、そこに～
+135,Japanese,detail,？？？,もぐもぐ……
+136,Japanese,detail,루리아,え……！？
+137,Japanese,detail,？？？,…………
+138,Japanese,detail,？？？,……おかわり。
+139,Japanese,detail,셰로카르테,はいは～い。<br>少々お待ちくださいね～
+140,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>ついに謎の少女との再会を果たす。</span>
+141,Japanese,detail,,<span class='scene-font-katari'>しかし、その場に黒騎士の姿はなく、</span><br><span class='scene-font-katari'>奇妙な緊張感だけが漂っていた。</span>
+142,English,synopsis,,[플레이어] and the crew arrive on the Lumacie Archipelago in pursuit of the Black Knight. Lyria's powers offer a clue to the location of both the Black Knight and her mysterious companion.
+143,English,detail,,"In pursuit of the Black Knight, the crew arrives on the Lumacie Archipelago."
+144,English,detail,Io,So? Is there supposed to be something here?
+145,English,detail,Lyria,Wow... These trees are huge! Maybe even bigger than an airship...
+146,English,detail,Io,There's nothing <span class='scene-font-italic'>but</span> trees! We're in the middle of nowhere!
+147,English,detail,Katalina,"Settle down, Io. A young lady maintains her composure!"
+148,English,detail,Io,"I mean, what's the Black Knight's deal anyway? Talking in riddles all the time!"
+149,English,detail,Rackam,"Can't say I don't share the feeling, Io..."
+150,English,detail,Rackam,Just what is she trying to trick us into doing over here?
+151,English,detail,Eugen,The best way to find out is to ask the woman herself.
+152,English,detail,Vyrn,So how do we find her? We haven't got a clue to go on.
+153,English,detail,Lyria,"Oh! I think I might know, actually!"
+154,English,detail,Lyria,My part of Leviathan's power is resonating with the part inside that young girl... She's deep within the forest.
+155,English,detail,Katalina,"So if we find the girl, we'll find the Black Knight..."
+156,English,detail,Vyrn,"All right, we've got our bearings! Let's move, [플레이어]!"
+157,English,synopsis,,"[플레이어] and the crew move through the overgrown forest. Katalina claims to know little of Lumacie, but mentions the legend of a scarlet demon who lives there."
+158,English,detail,Katalina,Ugh... This forest certainly seems to have a lot of insects...
+159,English,detail,Eugen,What'd you expect? This area is practically untamed.
+160,English,detail,Rackam,"The whole archipelago is basically the great wild, and it's no travel destination for sure. I'd barely heard of this place before we came."
+161,English,detail,Rackam,"How about you, Katalina? Hear anything about this place when you were with the empire?"
+162,English,detail,Katalina,Eek! What was that? A bug?
+163,English,detail,Katalina,Get back here! You'll be a stain on my sword when I'm through!
+164,English,detail,Rackam,Calm down! It's just a little critter. Now what do you know about Lumacie?
+165,English,detail,Katalina,Oh! Well... nothing really. I've only heard the name here and there.
+166,English,detail,Katalina,But they say Lumacie has been forgotten by the world. And supposedly... a scarlet demon calls the islands home.
+167,English,detail,Rackam,Hold on a second! Have we been roped into a demon exorcism gig?
+168,English,detail,Io,Humph... Not much different from what we've been doing!
+169,English,detail,Io,Come on! There are monsters in this forest here we can practice on. Be sure to get them all!
+170,English,synopsis,,"A mysterious woman named Rosetta appears before [플레이어] and the crew. Though her intent is unknown, they allow her to accompany them since they share the same destination."
+171,English,detail,,"A mysterious woman appears, catching [플레이어] and the crew completely off guard."
+172,English,detail,???,Why hello! Do you have a moment?
+173,English,detail,Vyrn,Whoa! Who are you? And where did you come from?
+174,English,detail,???,"No need to be frightened! I'm just a defenseless forest maiden, as you can plainly see."
+175,English,detail,,"A mysterious woman appears, catching [플레이어] and the crew completely off guard."
+176,English,detail,???,Why hello! Do you have a moment?
+177,English,detail,Vyrn,Whoa! Who are you? And where did you come from?
+178,English,detail,???,"No need to be frightened! I'm just a defenseless forest maiden, as you can plainly see."
+179,English,detail,Eugen,"For being defenseless, you've done a good job staying alive in a forest full of flesh-eating monsters!"
+180,English,detail,???,"Oh, you are <span class='scene-font-italic'>deliciously</span> sharp! I think I like you already..."
+181,English,detail,Eugen,"Hate to break it to ya, but I'm a little too old for your sweet talk."
+182,English,detail,???,"Ah, what a shame... But that makes you all the more appealing! Why, I could just gobble you right up..."
+183,English,detail,Lyria,"What should we do, [플레이어]? Eugen's going to be eaten!"
+184,English,detail,Rosetta,"My name is Rosetta, and I'm here on a teensy-tiny errand of sorts."
+185,English,detail,Rosetta,"But this forest is quite dangerous, you see. I was hoping it might be possible to place myself in your care..."
+186,English,detail,Katalina,"As much as we'd love to play bodyguard, we're in quite the hurry. I'm afraid we don't have time for detours."
+187,English,detail,Rosetta,No need to worry. We have the same destination after all.
+188,English,detail,Vyrn,Say what? How could that be?
+189,English,detail,Rosetta,"My dear lizard, would you like to hear a secret?"
+190,English,detail,Rosetta,Charming women like myself conceal a great many mysteries...
+191,English,detail,Rosetta,Now shall we depart? You don't have time to waste. Trust me... I know.
+192,English,synopsis,,"Rosetta's knowledge of Lyria's secret sets the crew on edge. Before they can press her for more answers, monsters begin to attack."
+193,English,detail,Rosetta,Hm... So you're [플레이어]? Fascinating...
+194,English,detail,Lyria,"What's with this lady? She keeps staring at you, [플레이어]..."
+195,English,detail,Rosetta,"And you must be Lyria, yes? Cute as a button, just as I thought you'd be!"
+196,English,detail,Lyria,Huh? Oh... Thanks! I guess...
+197,English,detail,Rosetta,Look at you... As fresh and innocent as the morning dew.
+198,English,detail,Rosetta,Hard to believe you're one of the empire's top secrets...
+199,English,detail,Vyrn,What! Are y-you with the empire then?
+200,English,detail,Rosetta,"Hardly. But this skydom is under the influence of the empire, yes?"
+201,English,detail,Rosetta,I wonder if there's anyone in Phantagrande truly out of Erste's reach.
+202,English,detail,Katalina,"If that's the case, then everyone may be connected to them. Friend and foe alike..."
+203,English,detail,Rosetta,"Exactly! Why, if I didn't know any better, I'd say there's someone here with a particularly deep connection..."
+204,English,detail,Rosetta,"Isn't that right, Eugen?"
+205,English,detail,Eugen,...!
+206,English,detail,Rackam,Now wait just a second! What are you getting at?
+207,English,detail,Rosetta,"Ah, who can say? I'm sure you'll find out for yourselves sooner or later."
+208,English,detail,Monster,Grrr...
+209,English,detail,Rosetta,"For now, however, it looks like you'll need to give these monsters your undivided attention!"
+210,English,synopsis,,"Katalina's question about Rosetta's errand is met with a mischievous smile from the mysterious maiden. Without revealing her purpose, Rosetta continues deeper into the forest with the crew."
+211,English,detail,Rosetta,"[플레이어]! You're much more skilled than you appear, I see. I think I'll stick close to you!"
+212,English,detail,Lyria,No! I stick close to [플레이어]! You stay away!
+213,English,detail,Rosetta,"Now, now, is somebody jealous? How utterly adorable."
+214,English,detail,Lyria,Humph...
+215,English,detail,Io,"Come on... If you don't quit it, you're both gonna get left behind!"
+216,English,detail,Rosetta,"You shouldn't be so hasty, my dear. You must affect a more... ladylike air."
+217,English,detail,Katalina,"Rosetta, I hate to ask this out of nowhere..."
+218,English,detail,Rosetta,"Oh? Is it about my age? I know you're curious, but even between ladies that's a big no-no..."
+219,English,detail,Katalina,No! It's not about that!<br>Although... I'd be lying if I said I wasn't curious...
+220,English,detail,Katalina,Ahem... Back to my real question though.
+221,English,detail,Katalina,"You said you're here on an errand, correct?"
+222,English,detail,Katalina,"Could you tell us what it is? I mean, as long as it's all right to share."
+223,English,detail,Rosetta,"Oh, about my errand? It's an important question to ask. And it shows you're being cautious..."
+224,English,detail,Katalina,Well then?
+225,English,detail,Rosetta,"No, no! I cannot say. Do I need to repeat myself? A woman must have her mysteries!"
+226,English,detail,Rackam,What's the hold up back here? Io and the others are about to leave you two behind!
+227,English,detail,Rosetta,"Now then, shall we go? We wouldn't want to get lost in a place like this!"
+228,English,synopsis,,"Katalina talks privately with [플레이어] about Rosetta's mysterious behavior. Still unsure of her motive, they decide to proceed with caution."
+229,English,detail,,Katalina motions for [플레이어] to come near and begins to speak in a hushed voice.
+230,English,detail,Katalina,"[플레이어], did you see what I saw? About Rosetta..."
+231,English,detail,Katalina,"When we first met, the monsters kept their distance from her. As if bowing at her feet..."
+232,English,detail,Katalina,"On top of that, she hid herself cleverly enough to surprise us. So what's your take on all this?"
+233,English,sel1_txt,,The monsters were crouching to attack her!
+234,English,sel2_txt,,"Well, she <span class='scene-font-italic'>is</span> a charmer..."
+235,English,detail,Katalina,I suppose that makes sense... I still get the feeling there's something not right about her though.
+236,English,detail,Katalina,"But if that's true, then who is she? And what does she want?"
+237,English,detail,Katalina,"I guess you're as clueless as I am... Whatever the case, I think it's wise to keep an eye on her going forward."
+238,English,synopsis,,"Deep in the forest, Rackam sees a sign for the Knickknack Shack. Lyria's powers indicate that the Black Knight may be in the same direction, so [플레이어] and the others set off down the path."
+239,English,detail,Rackam,Hm? What's that over there?
+240,English,detail,Io,What's the matter? You see something?
+241,English,detail,Rackam,If my eyes aren't playing tricks on me... it's a sign for the Knickknack Shack.
+242,English,detail,Io,In the middle of the forest?
+243,English,detail,Io,"You sure you don't need to get your eyes checked, gramps?"
+244,English,detail,Rackam,"Hey! I'm still as spry as a fox, thank you very much!"
+245,English,detail,Rackam,"You see it too, right, Vyrn?"
+246,English,detail,Vyrn,Hm... There's definitely something over there! Couldn't tell you what it is though.
+247,English,detail,Lyria,"Hey, Rackam! Can you point it out to me?"
+248,English,detail,Rackam,Hm? It's over there. Beyond those trees.
+249,English,detail,Lyria,Over there? I can feel Leviathan resonating with something from that direction.
+250,English,detail,Lyria,The Black Knight and the girl she was travelling with might be over there...
+251,English,detail,Rackam,The Black Knight paying Siero a visit? That sounds like bad news. Hopefully it's nothing.
+252,English,detail,Eugen,This is the Black Knight we're talking about. It's not gonna be nothing.
+253,English,detail,Rackam,"Tch... You're right. Let's go, [플레이어]! Onward!"
+254,English,synopsis,,[플레이어] and the others rush to the Knickknack Shack where a giant monster has suddenly appeared.
+255,English,detail,Monster,Groooar!
+256,English,detail,Rackam,What's a huge monster like that doing in front of the shop? Looks like this one's no joke!
+257,English,detail,Rosetta,"Oh, how gallant! I must say, I'm quite the fan of this side of you, Rackam."
+258,English,detail,Eugen,It doesn't matter how gallant you are if you don't have the strength to pull through when it counts!
+259,English,detail,Rosetta,"So true, so true. I'd love to see more though... More of that strength of yours!"
+260,English,synopsis,,"[플레이어] and the others arrive at the Knickknack Shack to find the mysterious girl from before quietly eating alone. However, the Black Knight is nowhere to be found."
+261,English,detail,,"After defeating the monster, [플레이어] and the others hurry toward the Knickknack Shack."
+262,English,detail,Sierokarte,"Welcome, welcome!"
+263,English,detail,Sierokarte,"Hm? Well, if it isn't [플레이어] and the crew!"
+264,English,detail,Rackam,Wait... Siero? What're you doing on Lumacie!
+265,English,detail,Sierokarte,"Because wherever you go, the Knickknack Shack always has your back! You might wanna jot that down!"
+266,English,detail,Io,"Weird jokes aside, are you okay? You didn't see any strange folks in black come by, did you?"
+267,English,detail,Sierokarte,"I wouldn't call her strange, but a customer's come by who's practically eaten me out of house and home!"
+268,English,detail,Sierokarte,But she'll probably get her fill any minute now—
+269,English,detail,Rosetta,"Here you go, Siero! You were waiting for this, right?"
+270,English,detail,Sierokarte,Oh my! Rosetta! Did [플레이어]'s crew escort you here?
+271,English,detail,Katalina,"W-wait just a minute! I mean, what's going on here?"
+272,English,detail,Katalina,"Sierokarte and Rosetta know each other, but how exactly?"
+273,English,detail,Sierokarte,When you put it that way... that's a real toughie of a question!
+274,English,detail,Rosetta,We've known each other for quite a while. I don't think I can sum it up more easily than that.
+275,English,detail,Lyria,"But, Siero! You really haven't seen a black knight come through here? With a young girl?"
+276,English,detail,Sierokarte,"A black knight, you say? Can't say I've seen one... But if it's a girl you're looking for, take a glance over there!"
+277,English,detail,???,"Yum, yum..."
+278,English,detail,Lyria,Huh?
+279,English,detail,???,...
+280,English,detail,???,"Seconds, please..."
+281,English,detail,Sierokarte,"Oh, certainly! I'll be back in two shakes of a lamb's tail!"
+282,English,detail,,[플레이어] and the crew cross paths with the mysterious girl once more.
+283,English,detail,,"But with the Black Knight nowhere to be found, a sense of unease settles over them."

@@ -1,0 +1,441 @@
+,city,state,name,address
+0,American Fork,UT,Walmart Supercenter,949 W Grassland Dr
+1,American Fork,UT,Smith's,1550 E 3500 N
+2,American Fork,UT,Fresh Market,135 E Main St
+3,American Fork,UT,Walmart Supercenter,585 N State St
+4,American Fork,UT,Walmart Supercenter,4689 W Cedar Hills Dr
+5,American Fork,UT,Walmart Neighborhood Market,1707 West State Street
+6,American Fork,UT,Macey's,931 W State Rd
+7,American Fork,UT,Smith's,210 E 700 S
+8,American Fork,UT,Ridley's,5353 W 11000 N
+9,American Fork,UT,Macey's,760 E Main St
+10,American Fork,UT,Kohler's,300 E Main St
+11,American Fork,UT,Daily Bread,1464 W 40 S
+12,American Fork,UT,Rain International,825 E 1180 S #310
+13,American Fork,UT,La Chiquita Supermarket,400 east
+14,American Fork,UT,Tabitha's Way,920 E State Rd Ste C
+15,American Fork,UT,Don Ramon Market,not_available
+16,American Fork,UT,Vyne Fresh,1325 S 500 E Ste 319
+17,American Fork,UT,Walmart Grocery Pickup,1707 W State Rd
+18,American Fork,UT,Family Storehouse Food Storage,456 E State Rd
+19,American Fork,UT,Herbs For Health,399 E State Rd #2
+20,American Fork,UT,Macey's,3981 Wasatch Boulevard Olympus Hills Shopping Center
+21,Eagle Mountain,UT,Ridley's Market,not_available
+22,Bountiful,UT,Smith's,555 S 200 W
+23,Bountiful,UT,Smith's,614 W 2600 S
+24,Bountiful,UT,Dick's Fresh Market,2280 S Orchard
+25,Bountiful,UT,Natural Grocers,55 W 500 S
+26,Bountiful,UT,Winegar's Supermarket,3371 Orchard Dr
+27,Bountiful,UT,Take Two Nutrition,1430 S 500 W
+28,Bountiful,UT,Smith's Grocery Pickup and Delivery,614 West 2600 South
+29,Bountiful,UT,Fresh Market,535 S 200 W
+30,Bountiful,UT,Fresh Market,535 W 500 S
+31,Centerville,UT,Walmart Supercenter,221 W Parrish Ln
+32,Centerville,UT,Dick's Fresh Market,84 W Parrish Ln
+33,Centerville,UT,Fresh Market,not_available
+34,Clearfield,UT,Walmart Supercenter,1632 N 2000 W
+35,Clearfield,UT,Smith's,2353 N Main St
+36,Clearfield,UT,Walmart Supercenter,2228 W 1700 S
+37,Clearfield,UT,Smith's,217 N 2000 W
+38,Clearfield,UT,Smith's,951 W 1700 S
+39,Clearfield,UT,Kents Market,not_available
+40,Clearfield,UT,Macey's,2062 W 1800 N
+41,Clearfield,UT,Winegar's Supermarket,1080 W 300 N
+42,Clearfield,UT,Macey's,580 S State St
+43,Coalville,UT,Nena's,47 Main St.
+44,Coalville,UT,Griffith's Food Towne,50 N Main St
+45,Draper,UT,Harmons Grocery,125 E 13800 S
+46,Draper,UT,Harmons Grocery,672 E 11400 S
+47,Draper,UT,Smith's,212 E 12300 S
+48,Draper,UT,Walmart Neighborhood Market,1360 Draper Pkwy
+49,Draper,UT,Fresh Market,12300 S.
+50,Draper,UT,Honey Bee Produce Company,not_available
+51,Draper,UT,Macey's,1212 E Draper Pkwy
+52,Duchesne,UT,Als Food Town,not_available
+53,Dugway,UT,Dugway PG Commissary,BLDG. 5114 SECOND STREET
+54,Dutch John,UT,Flaming Gorge Resort,1100 Flaming Gorge Ldg
+55,Farmington,UT,Smith's,1316 N Highway 89
+56,Farmington,UT,Harmons,200 N Station Pkwy
+57,Farmington,UT,Sitka Vending,1123 Fairway Cir
+58,Grantsville,UT,Soelbergs Market,213 E Main St
+59,Heber City,UT,Kamas Food Town,145 W 200 S
+60,Heber City,UT,Smith's,550 N Main St
+61,Heber City,UT,Walmart Supercenter,1274 S Us 189
+62,Heber City,UT,Natural Grocers,989 S. Main Street
+63,Heber City,UT,The Store- Midway,not_available
+64,Heber City,UT,Lee’s Marketplace,890 S Main St
+65,Heber City,UT,Real Foods Market,not_available
+66,Kaysville,UT,Smith's,1370 W 200 N
+67,Kaysville,UT,Bowman's Market,326 N Main St
+68,Kaysville,UT,Smith's,1170 E Gentile St
+69,Kaysville,UT,Arce Market La Favorita,53 N Fort Ln
+70,Kaysville,UT,Fresh Market,200 N Main St.
+71,Kaysville,UT,Fresh Market,not_available
+72,Layton,UT,Walmart Supercenter,745 W Hill Field Rd
+73,Layton,UT,Walmart Neighborhood Market,1356 E Highway 193
+74,Layton,UT,Fresh Market,910 N Fairfield Rd
+75,Layton,UT,Hill AFB Commissary,7451 6th St
+76,Layton,UT,Harvest Moon Healthfoods,not_available
+77,Layton,UT,Gluten Free Foods,400 W 1596 N
+78,Layton,UT,Thai Market,1986 N Hill Field Rd #7A
+79,Layton,UT,Big Lots,1030 N Main St
+80,Lehi,UT,Walmart Supercenter,136 W State Road 73
+81,Lehi,UT,Harmons Grocery,3450 N Triumph Blvd
+82,Lehi,UT,Smith's,689 N Redwood Rd
+83,Magna,UT,Smith's,8055 W 3500 S
+84,Magna,UT,Rancho Market,8177 W 3500 S
+85,Magna,UT,Reams,7235 W 3500 S
+86,Magna,UT,Fresh Market,not_available
+87,Magna,UT,Walmart Neighborhood Market,3555 S. 8400 W.
+88,Midvale,UT,WinCo Foods,7020 S 700 W
+89,Midvale,UT,Trader Joe's,6989 S 1300 E
+90,Midvale,UT,Smith's,980 E Fort Union Blvd
+91,Midvale,UT,Harmons Grocery,7755 S 700 E
+92,Midvale,UT,Walmart Supercenter,7250 Union Park Ave
+93,Midvale,UT,Good Earth Natural Foods,7905 S 700 E
+94,Midvale,UT,Macey's,7850 S 1300 E
+95,Midvale,UT,All Seasons Market,8767 S 700 E
+96,Midvale,UT,Fresh Market,not_available
+97,Midvale,UT,Brazilian Flavors,6546 S State St
+98,Midvale,UT,Sevillo Fine Foods,7000 S Cottonwood St
+99,Midvale,UT,Assosiated Fresh Market,not_available
+100,Midvale,UT,The Water Store,not_available
+101,Midvale,UT,Smokeland,7948 S State
+102,Morgan,UT,Ridley's,not_available
+103,Orem,UT,WinCo Foods,895 N 980 W
+104,Orem,UT,Smith's,45 S State St
+105,Orem,UT,El Mexicano Market,450 N State St
+106,Orem,UT,Macey's,880 N State St
+107,Orem,UT,Bollywood Market,186 W Center St
+108,Orem,UT,Super Hispano,192 W Center St
+109,Orem,UT,Real Foods Market,420 W 800 N
+110,Orem,UT,Eden Valley Farms,1145 N State St
+111,Orem,UT,Three Sisters Indian Market,not_available
+112,Orem,UT,Trader Joe's,440 East Park Avenue
+113,Orem,UT,Walmart Supercenter,1355 Sandhill Rd
+114,Orem,UT,Sprouts Farmers Market,1375 S State Street
+115,Orem,UT,Good Earth Natural Foods,500 S State St
+116,Park City,UT,Fresh Market,1800 Park Ave.
+117,Park City,UT,The Market at Park City,1500 Snow Creek Dr
+118,Park City,UT,Mountain Town Olive Oil,613 Main Street
+119,Park City,UT,Park City Grocery Express,2375 Doc Holiday Dr
+120,Park City,UT,copps produce,Main St
+121,Park City,UT,Stacey’s Grocery Services,1725 W Uintah
+122,Randolph,UT,Randolph Country Store,468 S Main St
+123,Riverton,UT,Walmart Supercenter,13502 Hamilton View Rd
+124,Riverton,UT,Peterson's Marketplace,1784 W 12600 S
+125,Riverton,UT,Walmart Neighborhood Market,1202 West 12600 South
+126,Riverton,UT,Walmart Grocery Pickup,1202 W 12600 S
+127,Roosevelt,UT,IGA Davis Jubilee,750 E 200 N
+128,Roy,UT,Harmons Grocery,5370 S 1900 W
+129,Roy,UT,Ocean Mart,5651 S 1900 W
+130,Roy,UT,WinCo Foods,6060 S 3500 W
+131,Roy,UT,Winegar's Supermarket,3440 W 4800 S
+132,Roy,UT,Kent's Market,3535 W 5600 S
+133,Sandy,UT,Walmart Supercenter,11328 S Jordan Gtwy
+134,Sandy,UT,Reams,10650 S 700 E
+135,Sandy,UT,House of Cards Inc,33 W 10600 S
+136,Tooele,UT,Walmart Supercenter,99 W 1280 N
+137,Tooele,UT,Lucky's,not_available
+138,Tooele,UT,Soelbergs Market,6727 N Sr36 Hwy
+139,Tooele,UT,Macey's,972 N Main St
+140,Tooele,UT,Albertsons,740 N Main St
+141,Vernal,UT,Smith's,1080 W Highway 40
+142,Vernal,UT,Walmart Supercenter,1851 W Highway 40
+143,Vernal,UT,IGA Davis Jubilee,575 W Main St
+144,Vernal,UT,Basin  Clean & Home Survival,54 N Vernal Ave
+145,West Jordan,UT,Walmart Supercenter,5675 W 6200 S
+146,West Jordan,UT,Harmons Grocery,4872 W 6200 S
+147,West Jordan,UT,Smith's,5710 W 7800 S
+148,West Jordan,UT,Harmons,not_available
+149,Wendover,UT,Daves Supermart,100 wendover blvd
+150,West Jordan,UT,Walmart Supercenter,7671 S 3800 W
+151,West Jordan,UT,Smith's,7061 S Redwood Rd
+152,West Jordan,UT,Ream's,3665 Bennion Blvd.
+153,West Jordan,UT,Lucky,6936 S Redwood Rd
+154,West Jordan,UT,La Cantera Market,3078 W 7800 S
+155,Woods Cross,UT,Clem's,"1881 Redwood Rd, Woods Cross, UT 84087"
+156,Woods Cross,UT,Harmons,2000 North Station Parkway
+157,Woods Cross,UT,Flexpak,1894 W 2425 S
+158,West Jordan,UT,Macey's,7859 S 3200 W
+159,West Jordan,UT,Smith's,1820 W 9000 S
+160,West Jordan,UT,Smith's,4080 W 9000 S
+161,West Jordan,UT,Ream’s Food Stores,2640 W 9000 S
+162,West Jordan,UT,WiO Diet,8100 S 1300 W Ste A
+163,Sandy,UT,Smith's,2039 E 9400 S
+164,Sandy,UT,Smith's,10305 S 1300 E
+165,Sandy,UT,Ream's,8725 S Highland Dr
+166,Sandy,UT,Fresh Market,1860 E 9400 S
+167,Sandy,UT,Smith's,3470 Bengal Blvd
+168,Sandy,UT,Smith's Grocery Pickup and Delivery,3470 E Bengal Blvd
+169,Sandy,UT,Walmart Supercenter,9151 South Quarry Blvd
+170,South Jordan,UT,Sprouts Farmers Market,11519 S 4000 W
+171,South Jordan,UT,Walmart Supercenter,3590 W. South Jordan Pkwy
+172,South Jordan,UT,Harmons Grocery,11453 S Parkway Plaza Dr
+173,South Jordan,UT,Smith's,5448 W Daybreak Pkwy
+174,South Jordan,UT,Smith's,1634 W South Jordan Pkwy
+175,South Jordan,UT,Natural Grocers,10622 S Redwood Rd
+176,South Jordan,UT,Harmons Grocery,10507 S Redwood Rd
+177,South Jordan,UT,Dhanya Spices & Groceries,1098 S Jordan Pkwy #109
+178,South Jordan,UT,Apna Baazar,10482 S Redwood Rd
+179,Herriman,UT,WinCo Foods,"Anthem Park Blvd. &, Mountain View Corridor Trail"
+180,Herriman,UT,Smith's,5560 W 13400 S
+181,Herriman,UT,Walmart Neighborhood Market,5056 W 13400 S
+182,Herriman,UT,Harmons,13330 S Kestrel Range Rd
+183,Orem,UT,Day's Market,3121 N Canyon Rd
+184,Orem,UT,Harmons Grocery,870 E 800 N
+185,Orem,UT,Walmart Neighborhood Market,2255 N University Parkway
+186,Orem,UT,Buy Low Market,2250 N University Pkwy
+187,Orem,UT,"Food For Health International, LLC",825 E 800 N
+188,Park City,UT,Whole Foods Market,6598 N Landmark Drive
+189,Park City,UT,Smith's,1725 Uinta Way
+190,Park City,UT,Walmart Supercenter,6545 Landmark Dr
+191,Park City,UT,Fresh Market,3151 Kilby Rd
+192,Park City,UT,Park City Grocery Express,"900 Bitner Rd, Park City, UT 84098"
+193,Park City,UT,Park City Grocery Express,900 Bitner Rd
+194,Park City,UT,Ioulia Greek Olive Oil Co.,7596 Stagecoach Dr
+195,Salt Lake City,UT,Jade Market,353 W 200 S
+196,Salt Lake City,UT,The Store,not_available
+197,Salt Lake City,UT,La Superbodega Warehouse And Market,556 W 600 S
+198,Salt Lake City,UT,AJ Market,270 S Main St
+199,Salt Lake City,UT,Smart Foodservice Warehouse Stores,370 West Paxton Avenue
+200,Salt Lake City,UT,City Mart,641 W North Temple Ste 30
+201,Salt Lake City,UT,Trader Joe's,634 East 400 South
+202,Salt Lake City,UT,Smith's,876 E 800 S
+203,Salt Lake City,UT,Whole Foods Market,544 South 700 East
+204,Salt Lake City,UT,Smith's,455 S 500 E
+205,Salt Lake City,UT,Sprouts Farmers Market,216 S 700 East
+206,Salt Lake City,UT,Natural Grocers,645 E 400 S Ste A
+207,Salt Lake City,UT,Smith's,873 E South Temple
+208,Salt Lake City,UT,London Market & Bakery,"439 E 900 S, Salt Lake City, UT 84111"
+209,Salt Lake City,UT,Oriental Food Market,667 S 700 E
+210,Salt Lake City,UT,Harmons,135 E 100 S
+211,Salt Lake City,UT,Smith's,402 E 6th Ave
+212,Salt Lake City,UT,Neighbors Market,44 N State St
+213,Salt Lake City,UT,Smith's,828 S 900 W
+214,Salt Lake City,UT,Super Europa Market,not_available
+215,Salt Lake City,UT,The Community Co-Op,1726 S 700 W
+216,Salt Lake City,UT,Gonzalez Market,1220 S Redwood Rd
+217,Salt Lake City,UT,SuperMercaro,1179 S Navajo St
+218,Salt Lake City,UT,"Muir Enterprises, Inc.",3575 W 900 S
+219,Salt Lake City,UT,Campos' Market,900 W 800 S
+220,Salt Lake City,UT,Fresh Market,1638 S 900 E
+221,Salt Lake City,UT,Dave's Shop N Go,1700 E 1700 S
+222,Salt Lake City,UT,Harmons Emigration Market,1706 E 1300 S
+223,Salt Lake City,UT,Natural Grocers,1033 E 2100 S
+224,Salt Lake City,UT,southwest market,not_available
+225,Salt Lake City,UT,Harmons Grocery,3270 S 1300 E
+226,Salt Lake City,UT,Smith's,922 E 2100 S
+227,Salt Lake City,UT,Whole Foods Market,1131 E. Wilmington Ave.
+228,Salt Lake City,UT,A Fresh Market South Salt Lake,not_available
+229,Salt Lake City,UT,Vitaminerals,1434 E 3045 S
+230,Salt Lake City,UT,Walmart Grocery Pickup,3701 S Highland Dr
+231,Salt Lake City,UT,Namaste,741 E 3300 S
+232,Salt Lake City,UT,Rancho Markets,898 E 3300 S
+233,Salt Lake City,UT,Real Foods Market,2209 S Highland Dr
+234,Salt Lake City,UT,Salt Lake Homeopathy,1121 E 3900 S Ste C140
+235,Salt Lake City,UT,Blackhouse Vapor Company,2148 South 900 East #3
+236,Salt Lake City,UT,Wild Oats,1131 E Wilmington Ave
+237,Salt Lake City,UT,Smith's,845 E 4500 S
+238,Salt Lake City,UT,Sprouts Farmers Market,6284 S State Street
+239,Salt Lake City,UT,Shiraz Market,135 East 4370 South
+240,Salt Lake City,UT,Utah Co-Op,291 E 4500 S
+241,Salt Lake City,UT,Macey's,5632 S 900 E
+242,Salt Lake City,UT,Walmart Supercenter,2705 E Parleys Way
+243,Salt Lake City,UT,Dan's Foods,1360 S Foothill Dr
+244,Salt Lake City,UT,Fresh Market,2040 S 2300 E
+245,Salt Lake City,UT,Smith's,3215 S Valley St
+246,Salt Lake City,UT,Harmon’s Grocery,not_available
+247,Salt Lake City,UT,Fresh Market,2300 East 3900 South
+248,Salt Lake City,UT,Dan's Foods,3981 S Wasatch Blvd
+249,Salt Lake City,UT,Dan's Marketplace,not_available
+250,Salt Lake City,UT,South East Asian Market,422 E 900 S
+251,Salt Lake City,UT,freshmarket,400 e 200 s
+252,Salt Lake City,UT,Walmart Supercenter,350 Hope Ave
+253,Salt Lake City,UT,WinCo Foods,2193 S Main St
+254,Salt Lake City,UT,Japan - Sage Market,1515 S Main St
+255,Salt Lake City,UT,Main Street Quality Meats,2685 S Main St
+256,Salt Lake City,UT,La Pequeñita,2740 S State St
+257,Salt Lake City,UT,Honeyville Farms,389 W 1830 S Ste 500
+258,Salt Lake City,UT,Wing Fong Mart,3370 S State St #5
+259,Salt Lake City,UT,Ream'S Food Stores,160 E Claybourne Ave
+260,Salt Lake City,UT,Cali's Natural Foods,389 W 1700 S Ste C
+261,Salt Lake City,UT,Ream's,2783 S State St
+262,Salt Lake City,UT,Qaderi Sweets & Spicez,1785 S State St
+263,Salt Lake City,UT,Smith's,1174 W 600 N
+264,Salt Lake City,UT,Lucky,729 N Redwood Rd
+265,Salt Lake City,UT,La Vaquita,Bodwell St.
+266,Salt Lake City,UT,Viva Market,855 W North Temple
+267,Salt Lake City,UT,Walmart Supercenter,4627 S 900 E
+268,Salt Lake City,UT,Sprouts Farmers Market,"1785 E Murray Holladay Rd, #A"
+269,Salt Lake City,UT,Walmart Pickup,5596 S Van Winkle Expy
+270,Salt Lake City,UT,Macey's,4530 S Highland Dr
+271,Salt Lake City,UT,European Tastees,4700 S 900 E #51
+272,Salt Lake City,UT,The Store,2050 E 6200 S
+273,Salt Lake City,UT,Harmons Grocery,5454 S Redwood Rd
+274,Salt Lake City,UT,Smith's,4643 S 4000 W
+275,Salt Lake City,UT,Walmart Neighborhood Market,4570 S 4000 W
+276,Salt Lake City,UT,Walmart Grocery Pickup and Delivery,5469 S Redwood Rd
+277,Salt Lake City,UT,Neighborhood Market,not_available
+278,Salt Lake City,UT,Stan's Market,4195 W Kearns Blvd
+279,Salt Lake City,UT,Pacific Mart,4095 W 5415 S
+280,Salt Lake City,UT,Big Lots,4041w 5415 S
+281,Salt Lake City,UT,Fresh Market,1825 W 4700 S
+282,Salt Lake City,UT,Ream's,2600 W 4700 S
+283,Salt Lake City,UT,Against the Grain,2292 W 5400 S
+284,Salt Lake City,UT,1st Oriental,4616 S
+285,West Valley City,UT,Smith's,4065 S Redwood Rd
+286,West Valley City,UT,Lucky’s,not_available
+287,West Valley City,UT,Super Saver,1585 W 3500 S
+288,West Valley City,UT,Powerful African Market,3500 South 2778 West
+289,West Valley City,UT,Kim Thành Supermarket,3086 S Redwood Rd
+290,West Valley City,UT,Randall's Market,3235 W 4100 S
+291,West Valley City,UT,Bountiful Baskets Valley Fair Mall,2700 west 3500 south
+292,West Valley City,UT,"Ridgecrest Herbals, Inc.",3683 W 2270 S Ste A
+293,West Valley City,UT,Jubilee Foods,3765 S Constitution Blvd
+294,West Valley City,UT,Jubilee Grocery Store,3850 S
+295,West Valley City,UT,Viva Market,1824 W 3500 S
+296,West Valley City,UT,Fresh Market,3555 W 3500 S
+297,West Valley City,UT,WinCo Foods,2572 S 5600 W
+298,West Valley City,UT,Smith's,5620 W 4100 S
+299,West Valley City,UT,Harmons Grocery,3955 W 3500 S
+300,West Valley City,UT,Thai Lao Market,3376 S 5600 W
+301,Salt Lake City,UT,Whole Foods Market,6930 S. Highland Drive
+302,Salt Lake City,UT,Dan's Foods,2029 E Fort Union Blvd
+303,Salt Lake City,UT,Ream's Food Store,2396 E Fort Union Blvd
+304,Salt Lake City,UT,Smith's,665 W 5300 S
+305,West Valley City,UT,Walmart Supercenter,3180 S 5600 W
+306,West Valley City,UT,Win co,not_available
+307,Brigham City,UT,Walmart Supercenter,1200 S Commerce Way
+308,Brigham City,UT,Smith's,156 S Main St
+309,Brigham City,UT,Kent's Marketplace,260 N Main St
+310,Brigham City,UT,Honeyville Farms,1080 N Main St Ste 101
+311,Corinne,UT,Sara Lee Bakery,2200 West 4700 South
+312,Corinne,UT,Ridley's Supermarket,74 S 100 E
+313,Corinne,UT,Kents Marketplace,300 E Main St
+314,Eden,UT,Smith's,2434 N 400 E
+315,Eden,UT,Walmart Supercenter,534 N Harrisville Rd
+316,Eden,UT,Natural Grocers,270 12th St
+317,Eden,UT,Smith's,1485 Harrison Blvd
+318,Eden,UT,Valley Market,not_available
+319,Eden,UT,Harmons Grocery,37 N Harrisville Rd
+320,Eden,UT,Viva Market,916a E 700 S St
+321,Hyrum,UT,Ridley's Food and Drug,780 E Main St
+322,Hyrum,UT,Ridley's South Cache Market,"780 E Main St, Hyrum, UT 84319"
+323,Logan,UT,Walmart Supercenter,1550 N Main St
+324,Logan,UT,Walmart Supercenter,1150 S 100 W
+325,Logan,UT,Smith's,175 East 442 N
+326,Logan,UT,Smith's,750 N Main St
+327,Logan,UT,Macey's,50 N Highway 165
+328,Logan,UT,Lee's Marketplace,555 E 1400 N
+329,Logan,UT,Lee's Marketplace,850 S Main St
+330,Logan,UT,Island Market,400 E Center St
+331,Logan,UT,Big Lots,1617 N Main St
+332,Logan,UT,Natural Grocers,1075 N Main St Ste 110
+333,Logan,UT,Macey's,49 E 400 N
+334,Logan,UT,Cox Honeyland,1780 S State Highway 89
+335,Ogden,UT,WinCo Foods,205 W 12th St
+336,Ogden,UT,Smith's,4275 Harrison Blvd
+337,Ogden,UT,Walmart Supercenter,1959 Wall Ave
+338,Ogden,UT,Macey's,325 36th St
+339,Ogden,UT,carl's super saver store,not_available
+340,Ogden,UT,Rancho Market,not_available
+341,Ogden,UT,Fresh Market,3945 Washington Blvd
+342,Ogden,UT,Good Earth Natural Food,1050 W Riverdale Rd
+343,Ogden,UT,Easy Shop Corporation,251 17th St
+344,Ogden,UT,Steve & Irina's Down To Earth,341 27th St
+345,Ogden,UT,Fresh Market,2012 Harrison Blvd
+346,Ogden,UT,Walmart Neighborhood Market,1710 E Skyline Dr
+347,Ogden,UT,Fresh Market,5691 Harrison Blvd
+348,Ogden,UT,H.M. Health Foods,1735 E Skyline Dr Ste 2
+349,Ogden,UT,Associated Foods,1850 West 2530 North
+350,Ogden,UT,Walmart Supercenter,4848 S 900 W
+351,Price,UT,Walmart Supercenter,255 S Highway 55
+352,Price,UT,Smith's,1075 E Main St
+353,Price,UT,Fresh Market,760 W Price River Dr
+354,Blanding,UT,Southway Mini Mart,not_available
+355,Green River,UT,City Market,not_available
+356,Moab,UT,City Market,425 S Main St
+357,Moab,UT,Village Market,702 S Main St
+358,Moab,UT,Moonflower Market,1-99 E 100 N
+359,Provo,UT,Smith's,350 N Freedom Blvd
+360,Provo,UT,Macey's,1400 N State St
+361,Provo,UT,Fresh Market,560 W Center St
+362,Provo,UT,Allen's Super Save,655 E 300 S
+363,Provo,UT,Asian Market,not_available
+364,Provo,UT,Lia's Polynesian Market,604 N Freedom Blvd
+365,Provo,UT,Community Action Services & Food Bank,815 S Freedom Blvd
+366,Provo,UT,Chao's Trading Co.,77 N University Ave
+367,Provo,UT,Rancho Market,1700 N State St
+368,Delta,UT,Delta Jubilee,377 W Main St
+369,Ephraim,UT,Walmart Supercenter,777 N Main St
+370,Ephraim,UT,Kent's Market,475 S Main St
+371,Eureka,UT,Taylor's General Store,285 W. Main St.
+372,Fairview,UT,Fountain Green General Store & Shep's Grill,84 S State Street
+373,Fillmore,UT,Duane's Food Town,375 S Main St
+374,Gunnison,UT,Gunnison Market,520 S Main St.
+375,Mona,UT,Mt. Nebo Market,965 N Main St
+376,Moroni,UT,Norbest Outlet Store,306 W 300 S
+377,Mount Pleasant,UT,Terrels,not_available
+378,Payson,UT,Walmart Supercenter,1052 Turf Farm Rd
+379,Payson,UT,Macey's,not_available
+380,Payson,UT,Stokes Fresh Food Market,not_available
+381,Payson,UT,Smith's,632 S 100 W
+382,Payson,UT,Payson Market,586 N Main St
+383,Payson,UT,Macey's,110 N 400 E St
+384,Salina,UT,Barretts Food Town,93 N State St
+385,Spanish Fork,UT,Walmart Supercenter,1206 N. Canyon Creek Parkway
+386,Spanish Fork,UT,Macey's,187 E 1000 N
+387,Spanish Fork,UT,Walmart Supercenter,660 S 1750 W
+388,Spanish Fork,UT,Smith's,1117 W 400 S
+389,Spanish Fork,UT,Walmart Neighborhood Market,898 S 2550 E
+390,Spanish Fork,UT,Ream's,759 E 400 S
+391,Spanish Fork,UT,Good Earth Natural Foods,863 N 700 E
+392,Spanish Fork,UT,Allen's Super Save,340 S Main St
+393,Spanish Fork,UT,El Torito,not_available
+394,Spanish Fork,UT,Nu Harvest Foods,3465 W 6400 S
+395,Richfield,UT,Walmart Supercenter,10 E 1300 S
+396,Richfield,UT,Fresh Market,250 S Main St
+397,Beaver,UT,Mike's Food Town,270 N Main St
+398,Cedar City,UT,Walmart Supercenter,1330 S Providence Center Dr
+399,Cedar City,UT,Smith's,633 S Main St
+400,Cedar City,UT,Lin's Market,150 N Main St
+401,Cedar City,UT,Arabic and Indian Foods,535 S Main St Ste 14
+402,Cedar City,UT,Alicias Tamales,1500 N Main St
+403,Cedar City,UT,Food Mart,not_available
+404,Cedar City,UT,Spices of India,565 S Main St #14
+405,Enterprise,UT,Carter's Market,150 E Main St
+406,Glendale,UT,Terry’s Food & Drug,not_available
+407,Greenville,UT,Todds Market,not_available
+408,Hurricane,UT,Walmart Supercenter,180 N 3400 W
+409,Hurricane,UT,Lin's Market,1120 W State St
+410,Hurricane,UT,Farmer's Market,not_available
+411,Hurricane,UT,Crystal Springs,950 N Old Highway 91
+412,Ivins,UT,Red Mountain Market,374 S 200 E
+413,Kanab,UT,Glazier's Family Market,264 S 100 E
+414,Kanab,UT,Honey's Marketplace,260 E 300 S
+415,Panguitch,UT,General Store,Route 12 near Bryce Canyon City
+416,Panguitch,UT,Heather's Liquor Agency,48 N Main St
+417,Parowan,UT,Parowan Market,740 W 200 S
+418,Parowan,UT,Western Family,800-1598 W 200 S
+419,Springdale,UT,Sol Foods Downtown Market,995 Zion Park Blvd
+420,Springdale,UT,Happy Camper Market,95 Zion Park Boulevard #1
+421,Saint George,UT,Albertsons,745 N Dixie Dr
+422,Saint George,UT,Harmons Grocery,1189 E 700 S
+423,Saint George,UT,Smith's,20 N Bluff St
+424,Saint George,UT,Smith's Marketplace,565 S Mall Dr
+425,Saint George,UT,Lin's Market,1930 W Sunset Blvd Ste 108
+426,Saint George,UT,3 Amigos Market,325 N Bluff St
+427,Saint George,UT,Sari Sari Store,175 W 900 S
+428,Saint George,UT,Premium Oil Company - Texaco,181 North Bluff St.
+429,Saint George,UT,Mahrak Asian Store,440 W Saint George Blvd Ste 2
+430,Saint George,UT,Redmond Heritage Farm Store,695 S 100 W
+431,Saint George,UT,Sunset Gas and Market Place,929 W Sunset Blvd
+432,Saint George,UT,Boomers Discount Markets,855 S Bluff St
+433,Teasdale,UT,Taft Travel Plaza,not_available
+434,Tropic,UT,Clarke's Country Market,141 N Main
+435,Washington,UT,Walmart Supercenter,625 W Telegraph St
+436,Washington,UT,Albertsons,915 Redcliffs Dr
+437,Washington,UT,Lin's Market,2928 East Mall Dr.
+438,Washington,UT,Natural Grocers,712 W Telegraph St
+439,Saint George,UT,Walmart Supercenter,2610 Pioneer Rd

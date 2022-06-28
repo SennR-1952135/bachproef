@@ -1,0 +1,153 @@
+,year,country,city
+0,2017,Singapore,Singapore City
+1,2017,China,Shantou
+2,2017,Japan,Nagoya
+3,2017,China;United States,Guangzhou;Los Angeles
+4,2017,Singapore;Japan,Singapore City;Kanazawa
+5,2017,United States;Austria,Charlottesville;Vienna
+6,2017,China;China,Guangzhou;Qingdao
+7,2017,South Korea,Ulsan
+8,2017,China,Shijiazhuang
+9,2016,China,Beijing
+10,2016,United States;United States;United States,Albuquerque;Los Alamos;Los Alamos
+11,2016,China,Beijing
+12,2016,Japan,Kobe
+13,2016,United Kingdom,London
+14,2016,China,Urumqi
+15,2016,China,Jinan
+16,2016,Japan;Japan,Suita;Fukuoka
+17,2016,China;United States,Guangzhou;Bethesda
+18,2016,United States,Philadelphia
+19,2016,United States,Bethesda
+20,2016,China,Taiyuan
+21,2016,Spain,Hospitalet de Llobregat
+22,2016,United States;United States;United States,Boston;Chevy Chase;Cambridge
+23,2016,China,Shijiazhuang
+24,2016,China;China,Shanghai;Shanghai
+25,2016,China,Shijiazhuang
+26,2016,Japan,Chiba
+27,2016,Hong Kong,Pokfulam
+28,2016,China;China,Guangzhou;Guangzhou
+29,2016,United States,Atlanta
+30,2015,Switzerland;Switzerland,Basel;Basel
+31,2015,United Kingdom;United States;United States,London;Los Alamos;Los Alamos
+32,2015,China,Zhengzhou
+33,2015,China,Beijing
+34,2015,China,Beijing
+35,2015,China,Taiyuan
+36,2015,United States;Japan,Santa Monica;Tokyo
+37,2015,United States,Cambridge
+38,2015,China,Shijiazhuang
+39,2015,Taiwan,Taoyuan
+40,2015,China,Zhengzhou
+41,2015,United States,Philadelphia
+42,2015,China;China;China,Tianjin;Tianjin;Shantou
+43,2015,China,Liaocheng
+44,2015,Germany;Germany,Freiburg im Breisgau;Freiburg im Breisgau
+45,2015,China,Shenyang
+46,2015,United States,San Francisco
+47,2015,United States;United States,Boston;Columbus
+48,2014,China,Beijing
+49,2014,China,Beijing
+50,2014,China,Shijiazhuang
+51,2014,United States;United States,New York;New York
+52,2014,United States;United States,Boston;Cambridge
+53,2014,China,Zhengzhou
+54,2014,China;China,Shihezi;Wuhan
+55,2014,Australia,Adelaide
+56,2014,China,Guangzhou
+57,2014,China,Zhengzhou
+58,2014,United States;United States,Boston;Cambridge
+59,2014,United States,Cambridge
+60,2014,China,Kunming
+61,2014,Japan,Fukuoka
+62,2014,Japan,Osakasayama
+63,2014,Japan,Kumamoto
+64,2014,United States;United States,Boston;Cambridge
+65,2014,Germany,Heidelberg
+66,2014,Singapore;United States,Singapore City;Los Angeles
+67,2014,United States,Los Angeles
+68,2014,China,Beijing
+69,2013,United States;United States,Los Angeles;Davis
+70,2013,United States,Cambridge
+71,2013,China,Beijing
+72,2013,Germany,Kiel
+73,2013,China,Beijing
+74,2013,China;China,Shiyan;Wuhan
+75,2013,Japan,Kyoto
+76,2013,China,Guangzhou
+77,2013,Japan,Kumamoto
+78,2013,United States,New York
+79,2013,United States;United States;United States,Boston;Baltimore;Baltimore
+80,2013,United States,Pittsburgh
+81,2013,United Kingdom,London
+82,2012,United States;United States;United States,Boston;Boston;Cambridge
+83,2012,Hong Kong,
+84,2012,United States;United States,Boston;Cambridge
+85,2012,Japan,Sendai
+86,2012,Japan;Japan,Tokyo;Tokyo
+87,2012,United States,Hanover
+88,2012,United States,Los Angeles
+89,2012,United States,San Diego
+90,2012,Japan,Kumamoto
+91,2012,Hong Kong,
+92,2012,Hong Kong,Pokfulam
+93,2011,United States;United States;Japan,Philadelphia;Philadelphia;Osaka
+94,2011,United Kingdom,London
+95,2011,United States,Philadelphia
+96,2011,China,Chongqing
+97,2011,China,Beijing
+98,2011,Taiwan;Taiwan,Taipei;Taipei
+99,2011,China,Hangzhou
+100,2011,United Kingdom,Hinxton
+101,2011,Germany,Freiburg im Breisgau
+102,2011,China;United States,Jinan;Tucson
+103,2011,France;Brazil,Lyon;Rio de Janeiro
+104,2011,China,Beijing
+105,2011,Japan;Japan,Chuo-ku;Chuo-ku
+106,2010,France;France,Lyon;Lyon
+107,2010,Hong Kong,Pokfulam
+108,2009,China;China,Guangzhou;Guangzhou
+109,2009,United States;United States;United States,Boston;Boston;Cambridge
+110,2009,United States,Bethesda
+111,2009,Taiwan,Taipei
+112,2009,Iran;Iran,Tehran;Tehran
+113,2009,Brazil,Sao Paulo
+114,2008,China,Shantou
+115,2008,United States,Tuskegee
+116,2008,Netherlands,Utrecht
+117,2008,United States,Baltimore
+118,2008,China,Beijing
+119,2008,China,Shanghai
+120,2008,China;China,Kunming;Beijing
+121,2008,Japan,Tokyo
+122,2008,United States,Baltimore
+123,2007,China,Beijing
+124,2007,Hong Kong,Pokfulam
+125,2007,Japan,Tokyo
+126,2007,Japan,Tokyo
+127,2007,Japan,Okayama
+128,2006,China,Beijing
+129,2006,South Korea,Suwon
+130,2006,United States,Boston
+131,2006,China,Beijing
+132,2006,United States,Bethesda
+133,2005,United States,Philadelphia
+134,2005,United States;Thailand,Denver;Hatyai
+135,2005,China,Beijing
+136,2004,Japan;Japan,Kawaguchi;Tokyo
+137,2004,Austria,Innsbruck
+138,2004,United States,Piscataway
+139,2003,United States,Boston
+140,2003,United States,Piscataway
+141,2003,Japan,Kyoto
+142,2003,United States,Philadelphia
+143,2003,United States,Philadelphia
+144,2003,China,Beijing
+145,2002,China,Beijing
+146,2002,Japan,Otsu
+147,1999,Japan,Tokyo
+148,1998,Japan;Japan;United States,Nagoya;Kyoto;Seattle
+149,1996,Japan,Morioka
+150,1994,United States,New Brunswick
+151,1976,United States,Philadelphia

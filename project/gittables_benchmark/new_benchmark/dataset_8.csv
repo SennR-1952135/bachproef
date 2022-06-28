@@ -1,0 +1,54 @@
+,name,description,type
+0,Identifier,Unique identifier of the dataset. This identifier has to be unique inside the whole catalogue.,String
+1,Title,"Name assigned to the dataset as it will be published.
+
+It must be clear, precise but general enough to include the distributions it contains. It is recommended not to exceed 100 characters, in most cases.",String
+2,Description,"Descriptions of the contents of the datasets, in a clear and precise way.
+
+It is recommended not to exceed 500 characters, in most cases.",String
+3,Author,"Authority responsible of dataset publication.
+
+It is recommended the adoption of a controlled vocabulary of the organizations of the country or national administration in charge of the catalogue. Also a way of expressing hiearchy should be defined (ie.: using dots or ""-"" to separate hierarchical levels, express them ascending or descending way, etc.)",String
+4,Author e-mail,Responsibile authority of dataset publication e-mail.,String
+5,Point of contact,Area or person acting as a point of contact that can bring relevant information of the dataset to a user. This should be te closest point of contact to the operation and maintainment of the dataset.,String
+6,Point of contact e-mail,E-mail of the area or person acting as a point of contact that can bring relevant information of the dataset to a user.,String
+7,Primary or original source,Original or primary sources of data published in the dataset. It should be used when the publisher authority of the dataset it is not the one producing the data originally.,String
+8,Collaborators,"Entities, organizations or additional persons that are or were responsible of collecting, creating or contributing in any way in developing the data asset. Values should be separated by commas "","".",String
+9,Distributions,"List of distributions contained in the dataset and their metadata. Each distribution is an object (""{}"") where its metadata is described following ""Distribution"" class metadata fields.",Array
+10,Themes,"Theme/s or categories of which this dataset has data about.
+
+A dataset can be classified with one or multiple themes, so this metadata field is a list of themes or categories. The available list of themes to use here is the theme taxonomy defined by the authority behind the catalogue. The ids of the themes must be used here (see ""id"" of Theme class). Labels and descriptions of the themes, must not be used.",Array
+11,Date of creation or publication,"Date of creation or publication of the dataset. It's written following ISO-8601 format, using either the complete forme (date and time) or only the date part.",String
+12,Date of last modification or update of data or metadata,"Date of last modification or update of any data or metadata in the dataset. It's written following ISO-8601 format, using either the complete forme (date and time) or only the date part.",String
+13,Date of last modification or update of data,"Date of last modification or update of any data in the dataset. It's written following ISO-8601 format, using either the complete forme (date and time) or only the date part.",String
+14,Date of last modification or update of metadata,"Date of last modification or update of any metadata in the dataset. It's written following ISO-8601 format, using either the complete forme (date and time) or only the date part.",String
+15,Updating frequency,"Frequency in which responsibles update the dataset.
+
+It is recommended to use normalized periods following ISO-8601 format, adding the value “eventual” for datasets that are updated in a non regular basis. See annex ""Frequencies specification under ISO-8601"".",String
+16,Landing page,"URL of the webpage where dataset, its resources, reports or any additional information of it can be accessed.",String
+17,Tags,"Words describing title or content of the resource.
+
+It is neccesary that tags are well written, in plural and keeping an eye of previous tags. Tags are useful por users search. The longer and homogeneous is the list of tags, their efficiency will be better. See annex of “Guidelines for tags selection”.",Array
+18,Temporal coverage,"Time period covered by the dataset.
+
+The time period has an initial date and an end date, separated by ""/"", written in ISO 8601 format using only date part or date & time depending on the precission needed. Optionally, a single date can be specified (instead of two) and this one will be interpreted as an initial date, while the end date will remain unspecified (useful for datasets that are chronologically updated).",String
+19,License,"License under wich this dataset and its distributions are available to use. This should be a link to the selected license defined in the web or the specific strings that acts as a title as it appears in the Open Definition list of licenses (https://licenses.opendefinition.org/).
+
+It is recommended using ""Creative Commons 4.0"" as it covers data and contents, and is available in English and Spanish. A distribution specifying a different license, overwrites the license of this dataset.",String
+20,Languages,"Language(s) for metadata in this dataset. There are 2 ISO standards that can be used in this field:
+
+(a) ISO 639-1 (2 letters as ""en"" or ""es"")
+(b) ISO 639-2/T (3 letters as ""eng"" or ""esp"" - this is the most recommended one)
+
+1 or more languages can be defined in the list. (Link to ISO standards: https://www.loc.gov/standards/iso639-2/php/code_list.php)",Array
+21,Spatial coverage,"Is the spatial area covered by the dataset. This can be expressed using very different standards. It is recommended to develop a guide of territorial and administrative units specific to the country that manages the catalogue, where official codes are used to express spatial coverage.
+
+A certain region or place. Can have different values:
+
+a) of countries, provinces, departments, counties, municipalities or cities, under the recommendations of the guide of territorial and administrative units of the country that is managing the catalogue.
+b) an area of coordinates (or bounding box) represented by latitude / longitude in this order: minimum longitude, minimum latitude, maximum longitude, maximum latitude.
+c) a geographical point represented by latitude / longitude.
+d) if the geographical reference is not included in the official guide of territorial and administrative units of the country, can be referenced using a geonames URI from geonames.org as: http://sws.geonames.org/6255146",Array or String
+22,"Hierarchy, order or jurisdictional level","Classifies a dataset by hierarchy, order or jurisdictional level. Indicates type and scope of legal jurisdiction behind dataset publication.
+
+Values of this metadata can be ""national"" or ""territorial"" (covering national level as one case, and all sub-national levels as the other case), or belong to an alternative controlled vocabulary defined by the country or organization responsible for the open data policy (ie.: ""federal"", ""provincial"" o ""municipal"").",String

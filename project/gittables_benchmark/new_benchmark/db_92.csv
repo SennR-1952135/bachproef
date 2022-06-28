@@ -1,0 +1,112 @@
+,name,owner,description,language
+0,dacara,SoltauFintel,SQL tool,Java
+1,jrelex,tomazst,Desktop application to explore database data using relations,Java
+2,marklogic-data-hub,marklogic,The MarkLogic Data Hub: documentation ==>,Java
+3,react-java-goos,jiangxy,配合React通用后台的小工具，自动生成后端接口,Java
+4,SimpleDB,mohitreddy1996,Basic Database Management System from skeleton code in JAVA. Testing done using JUnit.,Java
+5,flyway,flyway,Flyway by Redgate • Database Migrations Made Easy.,Java
+6,juhakudb,juhaku,Spring DATA like Android ORM Library for SQLite dabaseses,Java
+7,mysql-db-sync,arvindsasikumar,Synchronises two MySQL databases,Java
+8,javaminibase-graphdb,haichao-yu,This is a graph DBMS based on Java Minibase,Java
+9,dbms,berkerol,"Database Management System for storing integers, reals and strings in text files",Java
+10,disslibrary,krempelra,This is the core library of my dissertation it provides two mode Projection tools,Java
+11,employee-management-system,diksha-bhatia,Java Project.,Java
+12,obevo,goldmansachs,Obevo is a database deployment tool that handles enterprise scale schemas and complexity,Java
+13,DBPatcher,endeavourhealth,Database (SQL) patching tool for Endeavour Health projects,Java
+14,Database-Management,JuiMin,Works from a course completed on databases and data management,Java
+15,SimpleDB,iamxpy,UC Berkeley's Database class CS186: Implement A Simple Database Management System,Java
+16,DataBase-Management-System,AmrHendy,"A database management system (DBMS) is a computer software application that interacts with the user, other applications, and the database itself to capture and analyze data. A general-purpose DBMS is designed to allow the definition, creation, querying, update, and administration of databases.",Java
+17,devcrops-dbreverse-maven-plugin,devcrops-official,Maven plugin that allows you to make a database dbreverse and version it on a git repository.,Java
+18,hsqldb-reading-notes,Dectinc,Reading notes of HSQLDB,Java
+19,CricWorld,arf111,,Java
+20,Payroll-System,sakshamyadav,High School Software Design and Development Project - Payroll System,Java
+21,CustomerInfo,ahmedsabrymohamed,"This app uses firebase to make company branches mangement system to store the information of the coustomers for each branch and minuplate them (Update,Delete,Insert).",Java
+22,Healthcare-Management-System,iankurgarg,"Healthcare management system. Database Management on oracle. Using a java based CLI with oracle SQL based backend. A health care management system with multiple roles of sick patients, normal patients & health care supporters along with alert/notifications system for ensuring engagement of patients.",Java
+23,Database-design-simplified-android,Mayu001,"This project is all about how any record/Data can be added,fetched,updated & deleted from the Database in simplest and effective way.",Java
+24,sqlserver-copy-java,rstreet85,"A Java utility to copy data from a SQL Server table, save it to CSV files, and upload to another SQL Server database.",Java
+25,Library_Management_System,ShreyaRao09,Library Management System implemented using Java Swing and MySQL,Java
+26,PL1_codes,Dhananjay8,SPPU Semester 5 (2016-17),Java
+27,SPJUA-Query-Evaluator,sanjaymanickam,Implemented a SQL Query Engine with efficient JOIN and probabilistic data structures to support TPC-H queries and data set.,Java
+28,School_Library_DBMS,pranshupranjal,"This project was made using Netbeans IDE, MySQL",Java
+29,HelpAtEase,20Aditya,"This app allows two types of users namely for an NGO and the other for volunteers.  The NGO can upload their events on the app along with the required details which are further available to the interested volunteers. If a certain event makes them interested and they want to volunteer for it then they can register for that event. After registering for the event, now the details ofthe volunteer are avaialble at the NGO side for the respective events. All the details of the volunteer which mostly includes contact information is available to the NGO.",Java
+30,mysql-backup4j,SeunMatt,"mysql-backup4j is a library for programmatically exporting mysql databases and sending the zipped dump to email, Amazon S3, Google Drive or any other cloud storage of choice",Java
+31,Database-Management-System,kexu935,A database management system with similar but simpler interface than Sqlite3,Java
+32,csv2DBTable,avirupdebnath,parsing a csv file in java and putting the values obtained from the csv file to a table,Java
+33,MongoDB_Connector,dani832m,"Creates a simple connection to a MongoDB Collection, which can retrieve and insert data in different ways.",Java
+34,RentaCar_jdbc,lsuarez96,Proyecto de base de datos en java y pgsql,Java
+35,DatabaseApplication,jnakshansh,This is simple Database Application using Java,Java
+36,hibernate-orm-example,lsuarez96,example of database management with hibernate framework,Java
+37,sicapet,monycky, 🐈 java and database system implemented for Sicapet - implemented for university work ,Java
+38,Flight-database,cecilycao,A project from CSE414 Database system from UW,Java
+39,SauronDB,lenrar,An extended fork of SimpleDB (http://www.cs.bc.edu/~sciore/simpledb/).,Java
+40,DatabaseInsights,ankanch,A web project to visualize Database,Java
+41,Database-Design,VarunMehrotra,"Implemented a rudimentary Database Design based on SQL, called VroomBase. VroomBase support actions on a single table at a time, no joins or nested queries.",Java
+42,csv-db-maven-plugin,tyborgplusplus,,Java
+43,TinySQL_Interpreter,may1sharma,Interpreter for TinySQL grammar Database Management System,Java
+44,Customer-Behavior-Analysis,aksh2106,Customer Behavior Analysis using Neo4j NoSQL Database and Java,Java
+45,Register-your-customers-interactively,RITUait,"An Android Application that takes data interactively from user and saves it in database , then Lists whole Customer Information in Custom Listview with static images(without picasso library) with facility of Edit and Delete button .",Java
+46,Java,furkantekke,Java Examples,Java
+47,RailwayManagementSystem,shanestaret,The final project for CIS 245 at MCCC. This is a simulation of a railway management system.,Java
+48,BCNF-Decomposition,ak1132,A driver program to decompose a relation with violating functional dependencies into BCNF,Java
+49,Library-Management-System-JAVA,OSSpk,📚 A sophisticated Library Management System designed in Java while following the concepts of decoupled layers (entities) and minimal code in interface (GUI).,Java
+50,Music-Database-Desktop,Bennyhwanggggg,Song-Album-Artist Database Record Desktop Application,Java
+51,MedicalInfo,aritradey97,"An app which tells the users the people having the blood group which is asked by the user.It gives the list of people's name, place and medical history, with a particular blood group asked by the user.This app can be a boon to the people and health centers who are in desperate need of blood donors.",Java
+52,CollegeDataBaseApp,aritradey97,"It is an app which enables student-teacher communication as well as student-student communication in an improved manner.It enables the students to share documents,chat and discuss, give quiz tests, submit assignments and make video blogs. The teacher is the admin of the group and he/she has to login through the admin portal to set up the quizes and assignments.",Java
+53,Android-MySQL-Connector,BoardiesITSolutions,Native MySQL Connector for Android,Java
+54,AndroidStudio-SQLite,RXL-neeraj-kumar,"The following app implements SQLite database to add users details. View the details once saved and modify, delete operations.",Java
+55,SAB_Proj,nikolapeja6,"School project for the SAB (Softverski Alati Baza podataka, en. Database Software Tools) course at the School of Electrical Engineering, University of Belgrade.",Java
+56,StormSQL,nidhitvaishnav,"Given project is a command line Database management system which supports DDL, DML, and VDL commands. It supports DDL commands like create database, create table, drop table, DML commands like insert, delete and update, VDL commands like select.",Java
+57,AndroidEasySQL-Library,p32929,An Easier & Lazier approach to SQL database for Android,Java
+58,DBManager,LeCuay,Database Managing with Java was never this easy!,Java
+59,database-and-information-systems,v-zion,All the matter regarding CS 387 (IIT Bombay),Java
+60,Nustana-Android,saifullah73,Food Ordering android app,Java
+61,Football-Team-Management-Team,reddevil111296,Simple Database Management System for a Football Team using JAVA swings for the front end and MYSQL Server for the backend.,Java
+62,LibraryModule,5AbhishekSaxena,,Java
+63,Roomer,satyamnaithani,Roomer is an online Hotel Booking Web Application. It also consist the Roomer-Enterprise where one can upload his/her hotel rooms which can be booked by the customers. Session Handling is maintained properly hence multiple users can access the website by just creating an account and signing in.,Java
+64,SQL,LINNI2017,,Java
+65,Analysis-For-Pizza-Delivery-Shop,rahulverma0209,,Java
+66,C-ParGRES,UFFeScience,ParGRES for Cloud,Java
+67,CS3223,yunpengn,Database Systems Implementation @ NUS SoC,Java
+68,Deber-idea,shenhuanet,An idea plugin to help you quickly debugging the Android Database.,Java
+69,AnalyX,shubhamvishu,A dekstop application that helps in data analysis with implementation of MYSQL database,Java
+70,GoTo,EasyDanger,A web application to suggest parking locations based on events a user plans to attend.,Java
+71,dbms-proj-getwin,abhigupta768,This repository contains the code for the database management system and e-commerce website developed for Getwin Electro Pneumatic Corporation.,Java
+72,DBMS_Front,Anirudh-Swaminathan,This is an android application for displaying the working of the DBMS project.,Java
+73,SQL-DBMS,NukemBro,An SQL Database Management System created for CSCE-315 in Spring of 2018,Java
+74,sqlcrud,jdlopez,SQL automatic CRUD action+views library for Java applications,Java
+75,pro-multi_database_manager,darkerror96,Multi Database Manager as Java Swing Application,Java
+76,DBMS,ArchitGargPro,"Android application for college database management and creation with required basic operations (Add, Delete, Update and View entries)",Java
+77,android_dbinspector,infinum,Android library for viewing and sharing in app databases.,Java
+78,Weather-forecasting-and-warning-,rahulverma0209,,Java
+79,Base-de-Datos-2,FreddieAbad,"Matter, Summaries and Source Code (Java, Javascript, MongoDB, Oracle, PostgreSQL) generated in Database.",Java
+80,dbgit,databasegit,Database code and data version control using GIT.,Java
+81,gradle-database,vincenzopalazzo,"The simple gradle plugin for the operations with database (create, drop, insert) with gradle",Java
+82,Rookie-Job-Application-Web,WJ930417,This project build a job application website called Rookie based on the database management techniques.,Java
+83,spring-boot-liquibase-h2db,satyendrakumarsingh,Spring Boot Liquibase Integration with H2DB(In Memory Database),Java
+84,CyRes,siddsrivastava,CyRes is a publication manager - made as a one stop platform for any researcher ,Java
+85,liquibase,liquibase,Main Liquibase Source,Java
+86,Fake-News-Detection-using-CrowdSourcing,saiteja-talluri,Web App for crowdsourcing the verification of spurious news articles.,Java
+87,DatabaseConnection,SaturnHafen,,Java
+88,Dictionary,NemesLaszlo,RMI and Simple Java Database example and prectise,Java
+89,practicals.java,MohapatraShibu,,Java
+90,ExemplarQueries,mutandon,Exemplar queries is a new query paradigm. This library is able to use Freebase to process exemplar queries at run-time. ,Java
+91,cs5200-fall2019-rastogi,rastogi-s,DataBase ,Java
+92,liquibase-poc,viveksb007,Liquibase testing with Spring Boot,Java
+93,Coaching-Institute-Management-System,iamPrashSri,,Java
+94,Hotel-Management-Database,harini-venkatesan,This is a final project for CS166 - Database Management Systems at UC Riverside.,Java
+95,Bank-Management-System,chandandas27,A Database project on Bank Management System using JavaFX and MySQL,Java
+96,car-service-and-repair-management-system,rutvik5,A relational database application for supporting a chain of car repair and service centers by a company,Java
+97,CourseGo-Original,Hippopotomonstrosesquippedaliophobia,CourseGo's is a student database management system built to handle delicate student information and grades.,Java
+98,CourseGoo,Hippopotomonstrosesquippedaliophobia,Remake of an older java application with current skills in Java.,Java
+99,database,android-promise,Manage sqlite databases in android with ease,Java
+100,Clothing-Store-Automation,alprn42,An detailed automation programme with DB.,Java
+101,Normalizer-2,kpranjal2047,Database Normalization using Java,Java
+102,Library-Management-System,harshiiash,Java based Project,Java
+103,e-Recruiter-App,Mpak1996,,Java
+104,databasefx,databasefx,"Open source, free, cross platform database management tool.",Java
+105,r2dbc-migrate,nkonev,R2DBC database migration tool & library,Java
+106,EasiestSqlLibrary,p32929,The Easiest and Laziest approach to Android SQL Database,Java
+107,Rel,DaveVoorhis,"Rel is a desktop database management system that implements Date & Darwen's ""Tutorial D"" database language.",Java
+108,SimpleDataBase,moon1ock,SimpleDB (c),Java
+109,DBMS-Project,achint740,Covid-19 Management System DBMS Project,Java
+110,openjfx-database,GZYangKui,The openjfx-database repo has moved to:,Java

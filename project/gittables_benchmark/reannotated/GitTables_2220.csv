@@ -1,0 +1,8 @@
+,class
+0,ChangeNoteCommand
+1,CreateNoteCommand
+2,NoteChanged
+3,NoteCreated
+4,MainTests
+5,NoteChanged
+6,NoteCreated

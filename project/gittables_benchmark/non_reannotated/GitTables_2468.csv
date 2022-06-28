@@ -1,0 +1,21 @@
+,code,name,type
+0,01,Gastos de personal,Purchase
+1,02,"Gastos por trabajo, suministros y servicios",Purchase
+2,03,Arrendamientos,Purchase
+3,04,Gastos de Activos Fijos,Purchase
+4,05,Gastos de Representación,Purchase
+5,06,Otras Deducciones Admitidas,Purchase
+6,07,Gastos Financieros,Purchase
+7,08,Gastos Extraordinarios,Purchase
+8,09,Compras y Gastos que forman parte del Costo de Venta,Purchase
+9,10,Adquisiciones de Activos,Purchase
+10,101,Facturas que generan crédito fiscal y/o sustentan costos y gasto,Sale
+11,102,Facturas a consumidores finales (sin valor de crédito fiscal),Sale
+12,103,Notas de credito factura,Sale Refund
+13,104,Nota de debito factura,Sale
+14,11,Gastos de Seguro,Purchase
+15,111,Registro de proveedores informales,Purchase
+16,113,Registro de gastos menores,Purchase
+17,114,Registro regímenes especiales de tributación,Sale
+18,115,Comprobantes gubernamentales ,Sale
+19,BAN1,Banco Popular 54789122,Bank and Checks

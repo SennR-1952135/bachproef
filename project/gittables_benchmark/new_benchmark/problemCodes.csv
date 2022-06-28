@@ -1,0 +1,28 @@
+,code,description,order
+0,A,Laboratory Accident,9
+1,V,Sample results rejected due to QC criteria,4
+2,B,Chemical Matrix Interference,11
+3,BB,Torn Filter Pad,12
+4,C,Instrument Failure,1
+5,D,Insufficient Sample,13
+6,DD,Sample Size Not Reported,14
+7,E,Sample Received After Holding Time,7
+8,FF,"Poor Replication Between Pads, Mean reported",15
+9,GG,Sample Analyzed After Holding Time,8
+10,I,Suspect Value Has Been Verified Correct,16
+11,J,Incorrect Sample Fraction For Analysis,17
+12,JJ,Volume Filtered Not Recorded (assumed),18
+13,NN,Particulates Found in Filtered Sample,19
+14,P,Provisional Data,10
+15,QQ,Part Exceeds Whole Value Yet Difference Is Within Analytical Precision,20
+16,SS,"Sample Rejected, High Suspended Sediment Concentration",21
+17,VV,Station Was Not Sampled Due To Bad Field Conditions,22
+18,X,Sample Not Preserved Properly,6
+19,AA,Field Accident,3
+20,F,Post-Calibration failure likely due to equipment damage after sampling; data appear normal,2
+21,R,Sample Contaminated,5
+22,NQ,PART EXCEEDS WHOLE VALUE AND DIFFERENCE IS NOT WITHIN ANALYTICAL PRECISION,23
+23,IQ,CANNOT DETERMINE IF PART EXCEEDS WHOLE VALUE AND WHETHER OR NOT DIFFERENCE IS WITHIN ANALYTICAL PRECISION,24
+24,NV,NEGATIVE CALCULATED VALUE IS VALID GIVEN PRECISION OF MEASURED WATER QUALITY PARAMETERS; ACTUAL CALCULATED CONCENTRATION LIKELY IS LOW; POSSIBLY LESS THAN PQLS OF MEASURED WATER QUALITY PARAMETERS,25
+25,RR,No Sample Received,0
+26,Q,ANALYTE PRESENT; REPORTED VALUE IS ESTIMATED; CONC IS BELOW THE RANGE FORQUANTITATION,0

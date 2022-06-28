@@ -1,0 +1,263 @@
+,company,country,sales
+0,ICBC,China,134.8
+1,JPMorgan Chase,United States,108.2
+2,Exxon Mobil,United States,420.7
+3,HSBC Holdings,United Kingdom,104.9
+4,Royal Dutch Shell,Netherlands,467.2
+5,PetroChina,China,308.9
+6,Bank of China,China,98.1
+7,Wells Fargo,United States,91.2
+8,Chevron,United States,222.6
+9,Apple,United States,164.7
+10,Gazprom,Russia,144.0
+11,BP,United Kingdom,370.9
+12,Citigroup,United States,90.7
+13,Petrobras,Brazil,144.1
+14,BNP Paribas,France,126.2
+15,Total,France,240.5
+16,Sinopec-China Petroleum,China,411.7
+17,Mitsubishi UFJ Financial,Japan,59.0
+18,Bank of America,United States,100.1
+19,ENI,Italy,163.7
+20,Statoil,Norway,126.8
+21,Commonwealth Bank,Australia,47.8
+22,Ita̼ Unibanco Holding,Brazil,70.5
+23,Banco Santander,Spain,108.8
+24,Westpac Banking Group,Australia,43.9
+25,Royal Bank of Canada,Canada,38.3
+26,Sumitomo Mitsui Financial,Japan,47.3
+27,Bank of Communications,China,43.5
+28,National Australia Bank,Australia,49.2
+29,Rosneft,Russia,68.8
+30,Lukoil,Russia,116.3
+31,ANZ,Australia,37.5
+32,Banco do Brasil,Brazil,69.0
+33,TD Bank Group,Canada,30.6
+34,ConocoPhillips,United States,58.4
+35,Mizuho Financial,Japan,32.8
+36,Bank of Nova Scotia,Canada,27.6
+37,BBVA-Banco Bilbao Vizcaya,Spain,52.1
+38,Standard Chartered,United Kingdom,26.9
+39,China Merchants Bank,China,28.4
+40,Tesco,United Kingdom,102.8
+41,Cnooc,Hong Kong-China,39.2
+42,Hon Hai Precision,Taiwan,132.1
+43,Ecopetrol,Colombia,39.0
+44,US Bancorp,United States,22.2
+45,Hitachi,Japan,116.8
+46,Reliance Industries,India,70.3
+47,Phillips 66,United States,166.1
+48,Bank of Montreal,Canada,20.9
+49,Repsol YPF,Spain,77.7
+50,Suncor Energy,Canada,38.8
+51,PTT PCL,Thailand,89.9
+52,Soci̩t̩ G̩n̩rale,France,107.8
+53,Occidental Petroleum,United States,24.3
+54,UniCredit Group,Italy,54.2
+55,Oil & Natural Gas,India,28.9
+56,TNK-BP Holding,Russia,43.3
+57,Canadian Imperial Bank,Canada,17.1
+58,BG Group,United Kingdom,19.3
+59,Wesfarmers,Australia,59.0
+60,Surgutneftegas,Russia,23.4
+61,Bank of New York Mellon,United States,15.1
+62,Valero Energy,United States,139.2
+63,Dell,United States,56.9
+64,JX Holdings,Japan,129.5
+65,Carrefour,France,101.3
+66,Seven & I Holdings,Japan,58.9
+67,Marathon Petroleum,United States,76.5
+68,Standard Bank Group,South Africa,21.0
+69,Hess,United States,37.7
+70,SEB,Sweden,14.4
+71,Svenska Handelsbanken,Sweden,11.5
+72,Sumitomo Mitsui Trust,Japan,15.4
+73,Natixis,France,19.2
+74,Apache,United States,17.1
+75,Toshiba,Japan,73.7
+76,Swedbank,Sweden,10.9
+77,Anadarko Petroleum,United States,13.4
+78,Woolworths,Australia,56.4
+79,DBS Group,Singapore,8.8
+80,Danske Bank,Denmark,22.6
+81,Canadian Natural Resources,Canada,14.7
+82,Husky Energy,Canada,22.5
+83,Deutsche Bank,Germany,55.0
+84,OMV Group,Austria,56.3
+85,KBC Group,Belgium,21.7
+86,Kroger,United States,96.8
+87,Inpex,Japan,14.3
+88,Marathon Oil,United States,15.6
+89,Indian Oil,India,70.8
+90,SK Innovation,South Korea,65.1
+91,Lloyds Banking Group,United Kingdom,75.6
+92,FirstRand,South Africa,8.4
+93,Barclays,United Kingdom,55.7
+94,SK Holdings,South Korea,106.3
+95,Royal Bank of Scotland,United Kingdom,42.1
+96,Macy's,United States,27.7
+97,Las Vegas Sands,United States,11.1
+98,Cenovus Energy,Canada,16.9
+99,Ahold,Netherlands,43.3
+100,Hewlett-Packard,United States,118.7
+101,Raiffeisen Bank International,Austria,13.9
+102,Intesa Sanpaolo,Italy,47.7
+103,Cr̩dit Agricole,France,51.2
+104,National Bank of Canada,Canada,7.1
+105,Lotte Shopping,South Korea,22.2
+106,TJX Cos,United States,25.9
+107,Sysco,United States,43.4
+108,Woodside Petroleum,Australia,6.4
+109,Tatneft,Russia,13.0
+110,Kyocera,Japan,14.4
+111,EOG Resources,United States,11.7
+112,J Sainsbury,United Kingdom,35.7
+113,Kasikornbank,Thailand,6.0
+114,Murphy Oil,United States,28.6
+115,TE Connectivity,Switzerland,13.2
+116,Fujitsu,Japan,54.0
+117,Quanta Computer,Taiwan,34.4
+118,Falabella,Chile,11.5
+119,CIC Group,France,15.5
+120,Cencosud,Chile,19.1
+121,Wm Morrison Supermarkets,United Kingdom,28.8
+122,Novatek,Russia,6.9
+123,Grupo P̣o de A̤̼car,Brazil,24.9
+124,Kohl's,United States,19.3
+125,HollyFrontier,United States,20.1
+126,Galp Energia,Portugal,24.4
+127,George Weston,Canada,32.8
+128,PKN Orlen,Poland,38.8
+129,Commerzbank,Germany,25.5
+130,MOL Hungarian Oil,Hungary,24.6
+131,Erste Group Bank,Austria,15.5
+132,Idemitsu Kosan,Japan,52.1
+133,Metro Group,Germany,88.0
+134,Lenovo Group,China,29.6
+135,Genting,Malaysia,5.6
+136,Magnit,Russia,14.4
+137,Marks & Spencer,United Kingdom,15.9
+138,S-Oil,South Korea,30.8
+139,Formosa Petrochemical,Taiwan,30.2
+140,Tesoro,United States,33.0
+141,Devon Energy,United States,9.5
+142,Safeway,United States,44.2
+143,Chesapeake Energy,United States,12.3
+144,Pgnig Group,Poland,8.8
+145,Noble Energy,United States,4.2
+146,Agilent Technologies,United States,6.9
+147,LG Display,South Korea,26.1
+148,Bank Hapoalim,Israel,5.1
+149,SJM Holdings,Hong Kong-China,10.3
+150,Asustek Computer,Taiwan,15.2
+151,NEC,Japan,36.7
+152,Isetan Mitsukoshi Holdings,Japan,15.0
+153,Dexia,Belgium,26.6
+154,Bank of Yokohama,Japan,3.6
+155,Galaxy Entertainment,Hong Kong-China,7.3
+156,Nordstrom,United States,12.1
+157,SM Investments,Philippines,5.3
+158,Whole Foods Market,United States,12.2
+159,Canara Bank,India,6.7
+160,Rexel,France,17.7
+161,Jeronimo Martins,Portugal,14.0
+162,Banque Nationale de Belgique,Belgium,2.4
+163,Finatis,France,54.9
+164,Murata Manufacturing,Japan,7.1
+165,Bank of Ireland,Ireland,8.2
+166,Avnet,United States,25.2
+167,Chiba Bank,Japan,2.4
+168,Santos,Australia,3.4
+169,Sears Holdings,United States,39.9
+170,Banca MPS,Italy,12.1
+171,Talisman Energy,Canada,7.3
+172,KazMunaiGas Exploration,Kazakhstan,5.3
+173,Arrow Electronics,United States,20.4
+174,National Bank of Greece,Greece,10.4
+175,Flextronics International,Singapore,24.7
+176,Aozora Bank,Japan,1.6
+177,Keyence,Japan,2.6
+178,Continental Resources,United States,2.6
+179,Bharat Petroleum,India,36.7
+180,Delhaize Group,Belgium,29.2
+181,Bank of Greece,Greece,5.4
+182,Innolux,Taiwan,16.3
+183,Canadian Oil Sands,Canada,3.7
+184,Colruyt,Belgium,10.5
+185,Tullow Oil,United Kingdom,2.4
+186,Cosmo Oil,Japan,37.6
+187,MGM Resorts,United States,9.2
+188,Shoprite Holdings,South Africa,10.1
+189,El Puerto de Liverpool,Mexico,5.0
+190,EnCana,Canada,5.2
+191,Samsung SDI,South Korea,5.1
+192,GS Holdings,South Korea,8.7
+193,Metro Inc,Canada,12.1
+194,Ingram Micro,United States,37.8
+195,Hindustan Petroleum,India,32.6
+196,Delta Electronics,Taiwan,5.8
+197,Wynn Resorts,United States,5.2
+198,Showa Shell Sekiyu,Japan,30.3
+199,Bank Leumi,Israel,4.7
+200,Essar Energy,United Kingdom,16.7
+201,Pegatron,Taiwan,29.8
+202,Oil & Gas Development,Pakistan,1.8
+203,Amphenol,United States,4.3
+204,Supervalu,United States,34.8
+205,Thai Oil,Thailand,14.6
+206,AU Optronics,Taiwan,13.0
+207,Jabil Circuit,United States,17.6
+208,Caesars Entertainment,United States,8.6
+209,Caltex Australia,Australia,24.2
+210,Empire,Canada,17.4
+211,Denbury Resources,United States,2.5
+212,Pioneer Natural Resources,United States,3.2
+213,Melco Crown Entertainment,Hong Kong-China,4.1
+214,TPK Holding,Taiwan,5.9
+215,Samsung Electro-Mechanics,South Korea,7.0
+216,Hoya,Japan,4.4
+217,Crown Ltd,Australia,2.8
+218,Concho Resources,United States,1.8
+219,Petronas Dagangan,Malaysia,9.6
+220,X5 Retail Group,Russia,15.8
+221,Compal Electronics,Taiwan,23.1
+222,Neste Oil,Finland,23.7
+223,Crescent Point Energy,Canada,2.0
+224,Wistron,Taiwan,22.2
+225,Plains Exploration,United States,2.6
+226,CVR Energy,United States,8.6
+227,TDK,Japan,9.8
+228,Western Refining,United States,9.5
+229,Oil India,India,1.9
+230,Pacific Rubiales Energy,Canada,3.9
+231,Tech Data,United States,25.4
+232,Hellenic Petroleum,Greece,13.8
+233,Lawson,Japan,5.9
+234,OPAP,Greece,5.2
+235,JC Penney,United States,13.0
+236,PBF Energy,United States,20.1
+237,DIA,Spain,13.4
+238,Saras,Italy,15.7
+239,J Front Retailing,Japan,11.6
+240,Takashimaya,Japan,10.6
+241,Acer,Taiwan,14.8
+242,Grupa Lotos,Poland,10.2
+243,Inventec,Taiwan,13.9
+244,Cabot Oil & Gas,United States,1.2
+245,Gemalto,Netherlands,2.9
+246,Southwestern Energy,United States,2.7
+247,Dragon Oil,United Arab Emirates,1.2
+248,Range Resources,United States,1.5
+249,Metcash,Australia,12.8
+250,Kesko,Finland,12.8
+251,Motor Oil,Greece,12.8
+252,WPG Holdings,Taiwan,12.2
+253,Hikvision,China,0.8
+254,Whiting Petroleum,United States,2.2
+255,Dillard's,United States,6.8
+256,EQT,United States,1.6
+257,BIM Birlelik Magazalar,Turkey,5.5
+258,Omron,Japan,7.5
+259,EFG International,Switzerland,1.3
+260,Cimarex Energy,United States,1.6
+261,San-Ai Oil,Japan,11.2

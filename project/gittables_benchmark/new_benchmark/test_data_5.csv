@@ -1,0 +1,135 @@
+,year,species,category,type
+0,2009,Homo sapiens,Transcription,transcription profiling by array assay
+1,2010,Homo sapiens,DNA accessibility,DNase-seq
+2,2010,Homo sapiens,DNA methylation,RRBS
+3,2010,Homo sapiens,Transcription,RNA-seq
+4,2011,Homo sapiens,3D chromatin structure,5C
+5,2011,Homo sapiens,DNA accessibility,DNase-seq
+6,2011,Homo sapiens,DNA accessibility,FAIRE-seq
+7,2011,Homo sapiens,DNA accessibility,MNase-seq
+8,2011,Homo sapiens,DNA binding,Histone ChIP-seq
+9,2011,Homo sapiens,DNA binding,RNA binding protein
+10,2011,Homo sapiens,DNA binding,TF ChIP-seq
+11,2011,Homo sapiens,DNA methylation,DNA methylation profiling by array assay
+12,2011,Homo sapiens,DNA methylation,RRBS
+13,2011,Homo sapiens,Genotyping,DNA-PET
+14,2011,Homo sapiens,Genotyping,comparative genomic hybridization by array
+15,2011,Homo sapiens,Proteomics,protein sequencing by tandem mass spectrometry assay
+16,2011,Homo sapiens,RNA binding,RIP-chip
+17,2011,Homo sapiens,RNA binding,RIP-seq
+18,2011,Homo sapiens,RNA binding,Switchgear
+19,2011,Homo sapiens,Transcription,RNA-PET
+20,2011,Homo sapiens,Transcription,RNA-seq
+21,2011,Homo sapiens,Transcription,transcription profiling by array assay
+22,2011,Mus musculus,DNA accessibility,DNase-seq
+23,2011,Mus musculus,DNA binding,Histone ChIP-seq
+24,2011,Mus musculus,DNA binding,TF ChIP-seq
+25,2011,Mus musculus,Transcription,RNA-seq
+26,2012,Homo sapiens,3D chromatin structure,5C
+27,2012,Homo sapiens,3D chromatin structure,ChIA-PET
+28,2012,Homo sapiens,DNA accessibility,DNase-seq
+29,2012,Homo sapiens,DNA accessibility,FAIRE-seq
+30,2012,Homo sapiens,DNA binding,Histone ChIP-seq
+31,2012,Homo sapiens,DNA binding,TF ChIP-seq
+32,2012,Homo sapiens,DNA methylation,RRBS
+33,2012,Homo sapiens,Proteomics,protein sequencing by tandem mass spectrometry assay
+34,2012,Homo sapiens,Replication timing,Repli-chip
+35,2012,Homo sapiens,Replication timing,Repli-seq
+36,2012,Homo sapiens,Transcription,RNA-PET
+37,2012,Homo sapiens,Transcription,RNA-seq
+38,2012,Homo sapiens,Transcription,transcription profiling by array assay
+39,2012,Mus musculus,Replication timing,Repli-chip
+40,2012,Mus musculus,Transcription,RNA-seq
+41,2012,Mus musculus,DNA accessibility,DNase-seq
+42,2012,Mus musculus,DNA binding,Histone ChIP-seq
+43,2012,Mus musculus,DNA binding,TF ChIP-seq
+44,2012,Mus musculus,Transcription,RNA-seq
+45,2013,Homo sapiens,Transcription,RNA-seq
+46,2013,Mus musculus,DNA accessibility,DNase-seq
+47,2014,Homo sapiens,DNA binding,Histone ChIP-seq
+48,2014,Homo sapiens,DNA binding,TF ChIP-seq
+49,2014,Homo sapiens,DNA methylation,MRE-seq
+50,2014,Homo sapiens,DNA methylation,MeDIP-seq
+51,2014,Homo sapiens,Transcription,RNA-seq
+52,2014,Mus musculus,DNA binding,Histone ChIP-seq
+53,2014,Mus musculus,DNA binding,TF ChIP-seq
+54,2014,Mus musculus,DNA methylation,MRE-seq
+55,2014,Mus musculus,DNA methylation,MeDIP-seq
+56,2014,Mus musculus,Transcription,RNA-seq
+57,2014,Homo sapiens,3D chromatin structure,ChIA-PET
+58,2014,Homo sapiens,DNA binding,Histone ChIP-seq
+59,2014,Homo sapiens,DNA binding,TF ChIP-seq
+60,2014,Homo sapiens,RNA binding,iCLIP
+61,2014,Homo sapiens,Transcription,Knockdown RNAseq
+62,2014,Homo sapiens,Transcription,RNA-seq
+63,2014,Mus musculus,DNA binding,Histone ChIP-seq
+64,2014,Mus musculus,DNA methylation,whole-genome shotgun bisulfite sequencing
+65,2014,Mus musculus,Transcription,RNA-seq
+66,2014,other,RNA binding,RNA Bind-n-Seq
+67,2015,Homo sapiens,Transcription,RNA-seq
+68,2015,Mus musculus,Transcription,RNA-seq
+69,2015,Homo sapiens,DNA accessibility,DNase-seq
+70,2015,Homo sapiens,DNA accessibility,genetic modification followed by DNase-seq
+71,2015,Homo sapiens,DNA methylation,whole-genome shotgun bisulfite sequencing
+72,2015,Homo sapiens,RNA binding,eCLIP
+73,2015,Homo sapiens,RNA binding,iCLIP
+74,2015,Homo sapiens,Replication timing,Repli-chip
+75,2015,Homo sapiens,Transcription,Knockdown RNAseq
+76,2015,Homo sapiens,Transcription,RNA-seq
+77,2015,Homo sapiens,Transcription,microRNA counts
+78,2015,Mus musculus,DNA accessibility,DNase-seq
+79,2015,Mus musculus,DNA binding,Histone ChIP-seq
+80,2015,Mus musculus,DNA methylation,whole-genome shotgun bisulfite sequencing
+81,2015,Mus musculus,Transcription,RNA-seq
+82,2015,Mus musculus,Transcription,microRNA counts
+83,2015,other,RNA binding,RNA Bind-n-Seq
+84,2016,Homo sapiens,DNA accessibility,DNase-seq
+85,2016,Homo sapiens,DNA binding,Histone ChIP-seq
+86,2016,Homo sapiens,3D chromatin structure,ChIA-PET
+87,2016,Homo sapiens,3D chromatin structure,HiC
+88,2016,Homo sapiens,DNA accessibility,ATAC-seq
+89,2016,Homo sapiens,DNA accessibility,DNase-seq
+90,2016,Homo sapiens,DNA accessibility,genetic modification followed by DNase-seq
+91,2016,Homo sapiens,DNA binding,Histone ChIP-seq
+92,2016,Homo sapiens,DNA binding,RNA binding protein
+93,2016,Homo sapiens,DNA binding,TF ChIP-seq
+94,2016,Homo sapiens,DNA methylation,whole-genome shotgun bisulfite sequencing
+95,2016,Homo sapiens,Genotyping,comparative genomic hybridization by array
+96,2016,Homo sapiens,Genotyping,genotyping by high throughput sequencing assay
+97,2016,Homo sapiens,RNA binding,RIP-seq
+98,2016,Homo sapiens,RNA binding,eCLIP
+99,2016,Homo sapiens,RNA binding,iCLIP
+100,2016,Homo sapiens,Transcription,Knockdown RNAseq
+101,2016,Homo sapiens,Transcription,RNA-seq
+102,2016,Homo sapiens,Transcription,microRNA counts
+103,2016,Mus musculus,DNA accessibility,ATAC-seq
+104,2016,Mus musculus,DNA accessibility,DNase-seq
+105,2016,Mus musculus,DNA binding,Histone ChIP-seq
+106,2016,Mus musculus,DNA binding,TF ChIP-seq
+107,2016,Mus musculus,DNA methylation,whole-genome shotgun bisulfite sequencing
+108,2016,Mus musculus,Transcription,RNA-seq
+109,2016,Mus musculus,Transcription,microRNA counts
+110,2016,other,RNA binding,RNA Bind-n-Seq
+111,2017,Homo sapiens,DNA binding,Histone ChIP-seq
+112,2017,Homo sapiens,DNA binding,TF ChIP-seq
+113,2017,Homo sapiens,3D chromatin structure,HiC
+114,2017,Homo sapiens,DNA accessibility,ATAC-seq
+115,2017,Homo sapiens,DNA accessibility,DNase-seq
+116,2017,Homo sapiens,DNA binding,Histone ChIP-seq
+117,2017,Homo sapiens,DNA binding,RNA binding protein
+118,2017,Homo sapiens,DNA binding,TF ChIP-seq
+119,2017,Homo sapiens,DNA methylation,DNA methylation profiling by array assay
+120,2017,Homo sapiens,Genotyping,genotyping by high throughput sequencing assay
+121,2017,Homo sapiens,RNA binding,eCLIP
+122,2017,Homo sapiens,Replication timing,Repli-seq
+123,2017,Homo sapiens,Transcription,Knockdown RNAseq
+124,2017,Homo sapiens,Transcription,RNA-seq
+125,2017,Homo sapiens,Transcription,microRNA counts
+126,2017,Mus musculus,DNA accessibility,ATAC-seq
+127,2017,Mus musculus,DNA accessibility,DNase-seq
+128,2017,Mus musculus,Transcription,RNA-seq
+129,2017,Mus musculus,Transcription,microRNA counts
+130,2017,other,RNA binding,RNA Bind-n-Seq
+131,2017,Homo sapiens,DNA binding,Histone ChIP-seq
+132,2017,Homo sapiens,DNA binding,TF ChIP-seq
+133,2017,Mus musculus,Transcription,RNA-seq

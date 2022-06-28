@@ -1,0 +1,8 @@
+,name
+0,account.invoice stock user
+1,account.invoice.line stock user
+2,account.invoice.tax stock user
+3,account.journal stock user
+4,account.fiscalyear stock user
+5,account.account stock manager
+6,stock.history stock manager

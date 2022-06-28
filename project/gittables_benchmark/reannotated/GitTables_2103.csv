@@ -1,0 +1,7 @@
+,name
+0,subscription.document.fields
+1,subscription.subscription user
+2,subscription.subscription.history user
+3,subscription.document user
+4,res.partner.user
+5,ir.cron.user

@@ -1,0 +1,144 @@
+,year,country,city
+0,2013,United States;United States,New Haven;New Haven
+1,2013,United States,Cambridge
+2,2013,United States;United States,Cambridge;Cambridge
+3,2013,Japan;Japan,Wako;Kobe
+4,2013,South Korea,Yusong
+5,2013,United States,Austin
+6,2013,United Kingdom,Oxford
+7,2013,United Kingdom;Israel,London;Rehovot
+8,2013,United States,Seattle
+9,2013,United States;United States;United States,Cincinnati;Cincinnati;Atlanta
+10,2012,United States;China,Cambridge;
+11,2012,United States,Cambridge
+12,2012,United States;United States,New York;New York
+13,2012,Israel,Rehovot
+14,2012,United States,Miami
+15,2012,Israel,Rehovot
+16,2012,United Kingdom,Hinxton
+17,2012,United States;United States;United States,Boston;Boston;Cambridge
+18,2012,Netherlands;Netherlands,Utrecht;Utrecht
+19,2012,Israel,Haifa
+20,2012,United States,Stanford
+21,2012,Netherlands,Utrecht
+22,2012,Canada;Canada,Vancouver;Vancouver
+23,2012,United States,Palo Alto
+24,2012,Israel;Israel;Israel,Haifa;Haifa;Haifa
+25,2012,United States,Mountain View
+26,2012,United States;United States,Seattle;Philadelphia
+27,2012,Canada;United States,London;
+28,2012,United States,Cambridge
+29,2012,Canada,Vancouver
+30,2012,United States;United States,Cold Spring Harbor;Stony Brook
+31,2012,Germany,Saarbrucken
+32,2012,United Kingdom,Hinxton
+33,2012,United Kingdom,Hinxton
+34,2012,Belgium,3000 Leuven
+35,2012,United Kingdom;United Kingdom,London;London
+36,2012,China;China,Shenzhen;Nanjing
+37,2012,China;United States,Shenzhen;Cambridge
+38,2012,United States,New York
+39,2012,United Kingdom,Oxford
+40,2012,United States;United States,San Diego;San Diego
+41,2012,Israel,Rehovot
+42,2012,United States,St. Louis
+43,2012,United States,Cambridge
+44,2012,United States,Pasadena
+45,2012,Germany,Neuherberg
+46,2012,United States;United States,Seattle;Chapel Hill
+47,2012,Finland;Sweden;Finland,Helsinki;Stockholm;Helsinki
+48,2012,Sweden;Sweden,Stockholm;Stockholm
+49,2011,United States,Stanford
+50,2011,United States,Palo Alto
+51,2011,United States,New Haven
+52,2011,Israel,Rehovot
+53,2011,Sweden;Sweden,Uppsala;Uppsala
+54,2011,Canada,Vancouver
+55,2011,Japan,Suita
+56,2011,United States;United States,San Francisco;Cambridge
+57,2011,Israel,Rehovot
+58,2011,United Kingdom,Cambridge
+59,2011,Sweden,Stockholm
+60,2011,United States,Baltimore
+61,2011,United States,Waltham
+62,2011,United States,Urbana
+63,2011,United States,Baltimore
+64,2011,United States,Stanford
+65,2011,United Kingdom,Hull
+66,2011,United Kingdom,London
+67,2011,United States;United States,Cold Spring Harbor;Houston
+68,2011,United States,Fullerton
+69,2011,United States,Cambridge
+70,2011,United Kingdom;United Kingdom,Oxford;Hinxton
+71,2011,United Kingdom,London
+72,2011,Sweden;Sweden,Uppsala;Uppsala
+73,2011,United States,Palo Alto
+74,2010,Germany,Berlin
+75,2010,United States,Baltimore
+76,2010,United States,Bethesda
+77,2010,United States,Menlo Park
+78,2010,Singapore;United States;United States,Singapore City;Cambridge;Cambridge
+79,2010,United States;United States,West Roxbury;Boston
+80,2010,United States,Seattle
+81,2010,United Kingdom;United Kingdom,Cambridge;Cambridge
+82,2009,United States,New York
+83,2009,United States,Cambridge
+84,2009,Japan,Tsukuba
+85,2009,United States;United States,San Diego;San Diego
+86,2009,United States;United States,Cambridge;Cambridge
+87,2009,United States,Cambridge
+88,2009,United States,Seattle
+89,2009,United States,Boston
+90,2009,United Kingdom,Cambridge
+91,2009,United States,Los Angeles
+92,2009,Canada,Calgary
+93,2009,United States,Menlo Park
+94,2008,Canada,Vancouver
+95,2008,United States;United States,Cambridge;Cambridge
+96,2008,Germany,Heidelberg
+97,2008,United States,Cambridge
+98,2008,United States,Bethesda
+99,2008,United States,Seattle
+100,2008,United Kingdom,Keele
+101,2008,Australia,Brisbane
+102,2008,United States,Pasadena
+103,2008,United States,New Haven
+104,2008,Israel,Rehovot
+105,2008,United States,New Haven
+106,2008,Israel,Rehovot
+107,2008,United States,Cambridge
+108,2008,Israel,Rehovot
+109,2008,,
+110,2007,United States,Columbia
+111,2007,Germany,Dortmund
+112,2007,United States,Stanford
+113,2007,Japan,Kobe
+114,2007,Japan;China,Kahoku District;Jinan
+115,2007,France,Jouy-en-Josas
+116,2006,United States;United States,Newark;New York
+117,2006,Canada,Halifax
+118,2006,Japan,Kobe
+119,2006,United States,Seattle
+120,2006,United States,Albany
+121,2005,United States,Houston
+122,2005,Israel,Rehovot
+123,2004,Sweden,Uppsala
+124,2004,United States,Louisville
+125,2004,United States,New York
+126,2002,United States,New Haven
+127,2002,United States,Cambridge
+128,2002,United States,Los Angeles
+129,2002,Germany,Munich
+130,2002,United States,Houston
+131,2001,Japan;United States,Nagoya;Los Angeles
+132,2001,Finland,Helsinki
+133,2001,United States,Cambridge
+134,2000,United States,Los Angeles
+135,1999,Germany,Munich
+136,1999,United States,Los Angeles
+137,1997,Australia,Canberra
+138,1996,United States,Los Angeles
+139,1992,United States,Philadelphia
+140,1983,United Kingdom,Cambridge
+141,1977,United States,Frederick
+142,1977,United Kingdom,Cambridge

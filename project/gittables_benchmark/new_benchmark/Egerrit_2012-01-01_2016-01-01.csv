@@ -1,0 +1,182 @@
+,product,component,status
+0,Egerrit,Editor UI,NEW
+1,Egerrit,Editor UI,NEW
+2,Egerrit,General,NEW
+3,Egerrit,Editor UI,NEW
+4,Egerrit,Dashboard,NEW
+5,Egerrit,General,NEW
+6,Egerrit,Editor UI,NEW
+7,Egerrit,Editor UI,NEW
+8,Egerrit,Editor UI,NEW
+9,Egerrit,General,NEW
+10,Egerrit,Dashboard,NEW
+11,Egerrit,Editor UI,NEW
+12,Egerrit,General,NEW
+13,Egerrit,Dashboard,NEW
+14,Egerrit,Releng,NEW
+15,Egerrit,Releng,NEW
+16,Egerrit,Releng,NEW
+17,Egerrit,Releng,NEW
+18,Egerrit,General,NEW
+19,Egerrit,Releng,NEW
+20,Egerrit,Releng,NEW
+21,Egerrit,Test,NEW
+22,Egerrit,Editor UI,NEW
+23,Egerrit,Editor UI,NEW
+24,Egerrit,Editor UI,NEW
+25,Egerrit,Editor UI,NEW
+26,Egerrit,Editor UI,NEW
+27,Egerrit,Editor UI,NEW
+28,Egerrit,Editor UI,ASSIGNED
+29,Egerrit,General,RESOLVED
+30,Egerrit,Releng,RESOLVED
+31,Egerrit,Releng,RESOLVED
+32,Egerrit,Releng,RESOLVED
+33,Egerrit,Releng,RESOLVED
+34,Egerrit,Releng,RESOLVED
+35,Egerrit,Editor UI,RESOLVED
+36,Egerrit,Releng,RESOLVED
+37,Egerrit,General,RESOLVED
+38,Egerrit,Editor UI,RESOLVED
+39,Egerrit,Editor UI,RESOLVED
+40,Egerrit,General,RESOLVED
+41,Egerrit,Editor UI,RESOLVED
+42,Egerrit,Dashboard,RESOLVED
+43,Egerrit,Editor UI,RESOLVED
+44,Egerrit,Editor UI,RESOLVED
+45,Egerrit,Editor UI,RESOLVED
+46,Egerrit,Dashboard,RESOLVED
+47,Egerrit,Editor UI,RESOLVED
+48,Egerrit,Editor UI,RESOLVED
+49,Egerrit,Dashboard,RESOLVED
+50,Egerrit,Editor UI,RESOLVED
+51,Egerrit,General,RESOLVED
+52,Egerrit,Editor UI,RESOLVED
+53,Egerrit,General,RESOLVED
+54,Egerrit,Editor UI,RESOLVED
+55,Egerrit,Editor UI,RESOLVED
+56,Egerrit,Editor UI,RESOLVED
+57,Egerrit,Editor UI,RESOLVED
+58,Egerrit,Dashboard,RESOLVED
+59,Egerrit,Editor UI,RESOLVED
+60,Egerrit,Editor UI,RESOLVED
+61,Egerrit,General,RESOLVED
+62,Egerrit,Editor UI,RESOLVED
+63,Egerrit,General,RESOLVED
+64,Egerrit,Editor UI,RESOLVED
+65,Egerrit,Core,RESOLVED
+66,Egerrit,General,RESOLVED
+67,Egerrit,Editor UI,RESOLVED
+68,Egerrit,Editor UI,RESOLVED
+69,Egerrit,Editor UI,RESOLVED
+70,Egerrit,Editor UI,RESOLVED
+71,Egerrit,General,RESOLVED
+72,Egerrit,Core,RESOLVED
+73,Egerrit,Core,RESOLVED
+74,Egerrit,Editor UI,RESOLVED
+75,Egerrit,Editor UI,RESOLVED
+76,Egerrit,Dashboard,RESOLVED
+77,Egerrit,Dashboard,RESOLVED
+78,Egerrit,Dashboard,RESOLVED
+79,Egerrit,Editor UI,RESOLVED
+80,Egerrit,Editor UI,RESOLVED
+81,Egerrit,Editor UI,RESOLVED
+82,Egerrit,Editor UI,RESOLVED
+83,Egerrit,Editor UI,RESOLVED
+84,Egerrit,Editor UI,RESOLVED
+85,Egerrit,Editor UI,RESOLVED
+86,Egerrit,Editor UI,RESOLVED
+87,Egerrit,Editor UI,RESOLVED
+88,Egerrit,Editor UI,RESOLVED
+89,Egerrit,Core,RESOLVED
+90,Egerrit,Dashboard,RESOLVED
+91,Egerrit,Editor UI,RESOLVED
+92,Egerrit,General,RESOLVED
+93,Egerrit,Dashboard,RESOLVED
+94,Egerrit,Editor UI,RESOLVED
+95,Egerrit,General,RESOLVED
+96,Egerrit,General,RESOLVED
+97,Egerrit,General,RESOLVED
+98,Egerrit,Dashboard,RESOLVED
+99,Egerrit,Editor UI,RESOLVED
+100,Egerrit,Editor UI,RESOLVED
+101,Egerrit,Releng,RESOLVED
+102,Egerrit,Releng,RESOLVED
+103,Egerrit,Dashboard,RESOLVED
+104,Egerrit,Editor UI,RESOLVED
+105,Egerrit,Core,RESOLVED
+106,Egerrit,Editor UI,RESOLVED
+107,Egerrit,General,RESOLVED
+108,Egerrit,Editor UI,RESOLVED
+109,Egerrit,Releng,RESOLVED
+110,Egerrit,Editor UI,RESOLVED
+111,Egerrit,General,RESOLVED
+112,Egerrit,Editor UI,RESOLVED
+113,Egerrit,General,RESOLVED
+114,Egerrit,Editor UI,RESOLVED
+115,Egerrit,General,RESOLVED
+116,Egerrit,Editor UI,RESOLVED
+117,Egerrit,Editor UI,RESOLVED
+118,Egerrit,General,RESOLVED
+119,Egerrit,Dashboard,RESOLVED
+120,Egerrit,Dashboard,RESOLVED
+121,Egerrit,General,RESOLVED
+122,Egerrit,Dashboard,RESOLVED
+123,Egerrit,Editor UI,RESOLVED
+124,Egerrit,General,RESOLVED
+125,Egerrit,Core,RESOLVED
+126,Egerrit,Releng,RESOLVED
+127,Egerrit,Releng,RESOLVED
+128,Egerrit,Dashboard,RESOLVED
+129,Egerrit,Dashboard,RESOLVED
+130,Egerrit,General,RESOLVED
+131,Egerrit,General,RESOLVED
+132,Egerrit,General,RESOLVED
+133,Egerrit,Editor UI,RESOLVED
+134,Egerrit,Editor UI,RESOLVED
+135,Egerrit,Releng,RESOLVED
+136,Egerrit,Editor UI,RESOLVED
+137,Egerrit,Editor UI,RESOLVED
+138,Egerrit,Core,VERIFIED
+139,Egerrit,Editor UI,VERIFIED
+140,Egerrit,Dashboard,VERIFIED
+141,Egerrit,Dashboard,VERIFIED
+142,Egerrit,Dashboard,VERIFIED
+143,Egerrit,Dashboard,VERIFIED
+144,Egerrit,Dashboard,VERIFIED
+145,Egerrit,Dashboard,VERIFIED
+146,Egerrit,Editor UI,VERIFIED
+147,Egerrit,Dashboard,VERIFIED
+148,Egerrit,Dashboard,VERIFIED
+149,Egerrit,Dashboard,VERIFIED
+150,Egerrit,Editor UI,VERIFIED
+151,Egerrit,Editor UI,VERIFIED
+152,Egerrit,Dashboard,VERIFIED
+153,Egerrit,Editor UI,VERIFIED
+154,Egerrit,Dashboard,VERIFIED
+155,Egerrit,Editor UI,VERIFIED
+156,Egerrit,Editor UI,VERIFIED
+157,Egerrit,Dashboard,VERIFIED
+158,Egerrit,Dashboard,VERIFIED
+159,Egerrit,Editor UI,VERIFIED
+160,Egerrit,Editor UI,VERIFIED
+161,Egerrit,Editor UI,VERIFIED
+162,Egerrit,Editor UI,VERIFIED
+163,Egerrit,Dashboard,VERIFIED
+164,Egerrit,Core,VERIFIED
+165,Egerrit,Core,VERIFIED
+166,Egerrit,General,VERIFIED
+167,Egerrit,Editor UI,VERIFIED
+168,Egerrit,Editor UI,VERIFIED
+169,Egerrit,Editor UI,VERIFIED
+170,Egerrit,Editor UI,VERIFIED
+171,Egerrit,Editor UI,VERIFIED
+172,Egerrit,General,CLOSED
+173,Egerrit,Editor UI,CLOSED
+174,Egerrit,Editor UI,CLOSED
+175,Egerrit,Dashboard,CLOSED
+176,Egerrit,Editor UI,CLOSED
+177,Egerrit,Editor UI,CLOSED
+178,Egerrit,Editor UI,CLOSED
+179,Egerrit,General,CLOSED
+180,Egerrit,Editor UI,CLOSED

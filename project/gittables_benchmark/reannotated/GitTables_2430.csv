@@ -1,0 +1,38 @@
+,code,name
+0,102.02.01,Transferencias bancarias moneda extranjera
+1,105.01.01,Clientes nacionales
+2,105.01.02,Clientes nacionales (PoS)
+3,107.05.01,Mercancías Enviadas - No Facturas
+4,108.01.01,Estimación de cuentas incobrables nacional
+5,108.02.01,Estimación de cuentas incobrables extranjero
+6,115.01.01,Inventario
+7,115.02.01,Materia prima y materiales
+8,115.03.01,Producción en proceso
+9,115.04.01,Productos terminados
+10,115.05.01,Mercancías en tránsito
+11,115.06.01,Mercancías en poder de terceros
+12,118.01.01,IVA acreditable pagado
+13,119.01.01,IVA pendiente de pago
+14,120.01.01,Anticipo a proveedores nacional
+15,120.02.01,Anticipo a proveedores extranjero
+16,201.01.01,Proveedores nacionales
+17,205.06.01,Mercancías Recibidas - No Facturas
+18,206.01.01,Anticipo de cliente nacional
+19,206.02.01,Anticipo de cliente extranjero
+20,206.05.01,Otros anticipos de clientes
+21,208.01.01,IVA trasladado cobrado
+22,209.01.01,IVA trasladado no cobrado
+23,216.03.01,Impuestos retenidos de ISR por arrendamiento
+24,216.04.01,Impuestos retenidos de ISR por servicios profesionales
+25,216.10.10,Impuestos retenidos de IVA
+26,216.10.20,Impuestos retenidos de iva efectivamente pagados
+27,302.01.01,Patrimonio
+28,304.01.01,Utilidad de ejercicios anteriores
+29,305.01.01,Utilidad del ejercicio
+30,401.01.01,Ventas y/o servicios gravados a la tasa general
+31,501.01.01,Costo de venta
+32,601.84.01,Otros gastos generales
+33,701.01.01,Pérdida cambiaria
+34,702.01.01,Utilidad cambiaria
+35,811.01.01,Utilidad o pérdida fiscal en venta y/o baja de activo fijo
+36,899.01.99,Base Imponible de Impuestos en Base a Flujo de Efectivo

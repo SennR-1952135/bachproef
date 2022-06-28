@@ -1,0 +1,35 @@
+,year,country,city
+0,2012,United States,Pasadena
+1,2009,France,Paris
+2,2009,United States,Moss Landing
+3,2009,France;France,Paris;Paris
+4,2009,France;France,Paris;Paris
+5,2008,United Kingdom,Coventry
+6,2008,France,Roscoff
+7,2008,United States;France,Rockville;Paris
+8,2008,France,Roscoff
+9,2008,France;France;Belgium,Paris;Paris;Liege
+10,2008,United States,St. Louis
+11,2008,United States;United States,San Diego;Piscataway
+12,2008,France;France,Paris;Paris
+13,2007,United States,San Diego
+14,2007,Germany;Germany,Potsdam;Potsdam
+15,2007,France,Banyuls-sur-Mer
+16,2006,Australia;France,Melbourne;Paris
+17,2006,France,Banyuls-sur-Mer
+18,2006,United Kingdom,London
+19,2006,United Kingdom,Edinburgh
+20,2005,France,Paris
+21,2005,Germany,Potsdam
+22,2005,United States,Dallas
+23,2005,France,Roscoff
+24,2005,France,Roscoff
+25,2005,Australia,Melbourne
+26,2005,Japan,Nagoya
+27,2004,France,Roscoff
+28,2003,United States,Rockville
+29,2003,Australia,Melbourne
+30,2002,United States,Hanover
+31,2002,France,Evry
+32,2002,,
+33,1994,France,Montpellier

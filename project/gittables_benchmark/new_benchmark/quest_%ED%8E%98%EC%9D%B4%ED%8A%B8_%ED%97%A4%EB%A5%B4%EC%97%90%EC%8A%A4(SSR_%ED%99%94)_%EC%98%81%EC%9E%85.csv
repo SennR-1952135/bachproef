@@ -1,0 +1,157 @@
+,language,type,name,origin
+0,Japanese,synopsis,,<span class='scene-font-place'>アルスター島</span>の復興を進めてきたヘルエス。だが彼女は[플레이어]一行を呼び出し、その旅に加わりたいと話す。ヘルエスは議会が元王女である自分に頼りすぎていることを懸念し、それを正すために島を出ようとしていた。以前の恩義を返すためにも[플레이어]に同行したいというヘルエスを一同は仲間として受け入れるのだった。
+1,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達は以前、旅の途中で</span><br><span class='scene-font-katari'>島を荒らす魔物達に悩む</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>を訪れた。</span>
+2,Japanese,detail,,<span class='scene-font-katari'> [플레이어]一行の協力を受け、</span><br><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>は</span><br><span class='scene-font-katari'>無事平和を取り戻したのだった。</span>
+3,Japanese,detail,,<span class='scene-font-katari'>その時に知り合った、</span><br><span class='scene-font-katari'>魔物によって滅んだ王国の王女に</span><br><span class='scene-font-katari'>[플레이어]は呼び出された。</span>
+4,Japanese,detail,ヘルエス,よく来てくれました、皆さん。<br>ご足労に感謝します。
+5,Japanese,detail,ルリア,いえ！<br>またヘルエスさんに会えて嬉しいです。<br>あれから島の復興は進んでますか？
+6,Japanese,detail,ヘルエス,ええ。幸いなことに<br>かつてアイルスト王国があった頃と<br>遜色ない賑わいを見せています。
+7,Japanese,detail,ビィ,そりゃあ良かった！<br>……で、オイラ達に何の用なんだ？<br>また魔物退治か？
+8,Japanese,detail,ヘルエス,いえ……貴方がたに頼みたいのは、<br>全く別のことです。
+9,Japanese,detail,ヘルエス,私を貴方がたの旅へ<br>同行させて頂きたい。
+10,Japanese,detail,ルリア,ええっ！？ どうしてですか？<br>ヘルエスさんはこの島の人達に<br>頼りにされているのに……
+11,Japanese,detail,ルリア,ヘルエスさんが<br>いなくなってしまったら、<br>島の人達が困るんじゃ……？
+12,Japanese,detail,ヘルエス,正に、それこそが<br>私が島を出たい理由なのです。
+13,Japanese,detail,ビィ,んん？ どういうことだ？
+14,Japanese,detail,ヘルエス,この<span class='scene-font-place'>アルスター島</span>は長く<br>アイルスト王家によって<br>統治されてきました。
+15,Japanese,detail,ヘルエス,我が父コノール王の失策により、<br>アイルスト王国は<br>魔物によって滅ぼされたわけですが……
+16,Japanese,detail,ヘルエス,その後、復興に当たって<br>街や村から有力者を集め方針を話し合う<br>議会を作ったのです。
+17,Japanese,detail,ルリア,だから、お城が会議所って<br>呼ばれるようになったんですね！
+18,Japanese,detail,ヘルエス,ええ、ここが島の中心として<br>利便性が高い場所にあることは<br>間違いありませんから。
+19,Japanese,detail,ヘルエス,話を戻しましょう。王家の跡継ぎが<br>国を治めるに足る器を持たない場合、<br>脅かされるのは国民です。
+20,Japanese,detail,ヘルエス,父の行いによりそれを悟った<br>私と弟は王政を排し、<br>議会を主導してきました。
+21,Japanese,detail,ヘルエス,ですが議会は発足したばかりで<br>経験不足。故にか、皆が私を<br>あまりにも頼りすぎてしまう。
+22,Japanese,detail,ビィ,でもさ、それは当然じゃねぇか？<br>国だなんてドデカいもの、いきなり<br>どうにかしろって言われてもさ。
+23,Japanese,detail,ヘルエス,勿論、最初はそれで良いのです。<br>誰しも始めは手本を求めるもの。
+24,Japanese,detail,ヘルエス,しかし、いつまでも<br>そのままにはしておけません。
+25,Japanese,detail,ヘルエス,彼等も実務能力は充分です。<br>後は経験を積み、判断力を養うだけ。<br>そのために、却って私は邪魔なのです。
+26,Japanese,detail,ビィ,う～ん、厳しいけど<br>島の人のためってことか……
+27,Japanese,detail,ヘルエス,ええ。<br>私が手を離す時が来た、<br>ただそれだけのことです。
+28,Japanese,detail,ヘルエス,貴方がたなら信頼が置ける。<br>それに以前の恩義を返したい。<br>私を旅に同行させて頂けませんか？
+29,Japanese,sel1_txt,,<span class='scene-font-katari'>いいよ、一緒に行こう</span>
+30,Japanese,sel2_txt,,<span class='scene-font-katari'>もっと安全な場所がいいんじゃない？</span>
+31,Japanese,detail,ヘルエス,感謝します、[플레이어]殿。<br>いや……[플레이어]殿。
+32,Japanese,detail,ヘルエス,槍の腕には自信があります。<br>空の果てを目指す貴方がたの<br>力となりましょう。
+33,Japanese,detail,ヘルエス,ふふ……
+34,Japanese,detail,ヘルエス,実は、他国の依頼で行く<br>遠征以外で島を離れるのは<br>初めてです。
+35,Japanese,detail,ルリア,そうだったんですか？
+36,Japanese,detail,ヘルエス,ええ。<br>柄にもなく、気分が高揚します。
+37,Japanese,detail,ビィ,確かに……オイラ達は<br>星晶獣とも戦うしなぁ。
+38,Japanese,detail,ヘルエス,私の技量が貴方がたに劣る、と？<br>ならばそれは実戦で確かめて下さい。
+39,Japanese,detail,ルリア,ヘルエスさんはとっても<br>頼りになりますけど、どうして<br>そんなに騎空団にこだわるんですか？
+40,Japanese,detail,ヘルエス,……私は、貴方がたの自由さに<br>感銘を受けたのです。私は任務以外で<br>島を出たことがありませんから。
+41,Japanese,detail,ヘルエス,私も、一度は貴方がたのように<br>自由に生きてみたい。<br>そんな風に思ったのです。
+42,Japanese,detail,ヘルエス,……折れてくれますか、<br>[플레이어]殿。<br>あなたの寛容に感謝します。
+43,Japanese,detail,ヘルエス,解らぬことも多々あるでしょう。<br>ご指導ご鞭撻を<br>よろしくお願いいたします。
+44,Japanese,detail,,<span class='scene-font-katari'>こうして、亡国の王女</span><br><span class='scene-font-katari'>ヘルエスが騎空団に加わった。</span>
+45,Japanese,detail,,<span class='scene-font-katari'>頼りになる仲間として、</span><br><span class='scene-font-katari'>彼女は[플레이어]達の旅を</span><br><span class='scene-font-katari'>支えてくれることだろう。</span>
+46,Japanese,synopsis,,旅の途中、<span class='scene-font-place'>アルスター島</span>へ立ち寄るヘルエスと[플레이어]一行。復興が進む街並みを満足そうに眺めているヘルエスの前に、突然、近衛兵達が押し寄せてくる。元上官であるヘルエスに一目会いたいがために自らの持ち場を離れた兵士達に対して、厳しく難詰するヘルエス。ヘルエスは兵士達の腕を確かめる為、稽古をつける。
+47,Japanese,detail,,<span class='scene-font-katari'>旅の途中、</span><span class='scene-font-place'>アルスター島</span><span class='scene-font-katari'>へ</span><br><span class='scene-font-katari'>立ち寄る[플레이어]一行。</span>
+48,Japanese,detail,,<span class='scene-font-katari'>ヘルエスは、復興が進む街並みを</span><br><span class='scene-font-katari'>満足そうに眺めていた。</span>
+49,Japanese,detail,ヘルエス,素晴らしい……<br>街中に活気が満ち溢れています。
+50,Japanese,detail,ルリア,そうですね！<br>前に私達が来たときよりも、<br>人でいっぱいです！
+51,Japanese,detail,ヘルエス,やはり、私とセルエルが<br>この国を離れて正解でした。
+52,Japanese,detail,ビィ,へへっ……そんなこと言って<br>本当は寂しいんじゃねぇのか？
+53,Japanese,detail,ヘルエス,……ん？<br>何が寂しいのです？
+54,Japanese,detail,ビィ,だってヘルエス達が治めてた国だぜ？<br>自分達がいなくても順調ってのは、<br>寂しくねぇのか？
+55,Japanese,detail,,<span class='scene-font-katari'>ビィの言葉を受けたヘルエスは、</span><br><span class='scene-font-katari'>意外そうな表情を浮かべた後、</span><br><span class='scene-font-katari'>優しく微笑んだ。</span>
+56,Japanese,detail,ヘルエス,ふふ……<br>そんなことはありません。
+57,Japanese,detail,ヘルエス,むしろ、貴方がたと旅に出たことが<br>正しかったと証明され、<br>胸のつかえが取れた気分です。
+58,Japanese,detail,ビィ,そんなもんかぁ？<br>まぁ、とにかくヘルエスが<br>嬉しそうで良かったぜ！
+59,Japanese,detail,,<span class='scene-font-katari'>その時、一行に向かって</span><br><span class='scene-font-katari'>兵士達が押し寄せてきた。</span>
+60,Japanese,detail,近衛兵１,あっ……ヘルエス様！<br>こちらにいらしたんですか！
+61,Japanese,detail,近衛兵２,何故我々にひと声をかけて<br>くださらないんですか！
+62,Japanese,detail,ルリア,わわわっ！<br>兵士さんがたくさん来ました！
+63,Japanese,detail,ヘルエス,……驚かせて申し訳ありません。<br>これらは元々、私の直属の<br>近衛隊の兵士でして……
+64,Japanese,detail,ヘルエス,それより貴様達……<br>持ち場はどうしたのです？
+65,Japanese,detail,近衛兵１,えっ？ 持ち場……ですか？<br>少しぐらい離れても問題ありません！
+66,Japanese,detail,近衛兵２,あの頃と違って、<br>街も平和になりました！<br>魔物なんて街の外にしか……
+67,Japanese,detail,ヘルエス,この大馬鹿者！！！<br>任務を途中で放棄するとは何事ですか？
+68,Japanese,detail,ヘルエス,勝手な自己判断で持ち場を離れるなと<br>あれほど教えたはずですが……<br>貴様達は何も学んでいないようですね。
+69,Japanese,detail,ヘルエス,街に……街に魔物の侵入を許して、<br>後悔してからでは遅いのですよ？
+70,Japanese,detail,近衛兵１,……は、はいっ。<br>申し訳ありません……
+71,Japanese,detail,ヘルエス,私は貴様達を腑抜けに<br>育てた覚えはありません……
+72,Japanese,detail,ヘルエス,その様な体たらくで、<br>国家の守りが務まると<br>お思いですか？
+73,Japanese,detail,近衛兵２,い、いえ！
+74,Japanese,detail,ヘルエス,平和になったのは良いことですが、<br>それを維持するためには<br>心と体を律することが肝要。
+75,Japanese,detail,ヘルエス,貴様達の腕が鈍っていないか、<br>私が直々に試してさしあげましょう！
+76,Japanese,detail,近衛兵１,よろしくお願いします！
+77,Japanese,detail,ヘルエス,良い機会です。<br>お付き合いください、<br>[플레이어]殿！
+78,English,synopsis,,"While overseeing the restoration of Alster Island, Heles calls for [플레이어]'s crew. When they arrive, she asks if she can join their ranks, stating that her continued presence on the island would hinder the progress of the new government."
+79,English,detail,,During their travels [플레이어] and company once stopped at Alster Island. There they discovered a society suffering from frequent monster attacks.
+80,English,detail,,The crew wasted no time in quelling the threat and brought peace back to the island.
+81,English,detail,,"Now they've returned to that very place, summoned by the princess whose kingdom was destroyed by the monsters."
+82,English,detail,Heles,Let me start by expressing my gratitude to all of you for coming here.
+83,English,detail,Lyria,"Not at all! We're happy to see you again, Heles. How's the rebuilding going?"
+84,English,detail,Heles,It's going well. The island is nearly as prosperous as it was back when the Irestill Kingdom still held firm.
+85,English,detail,Vyrn,That's great news! But why did you call us here? Are there more monsters to deal with?
+86,English,detail,Heles,No... I have an entirely different request for you this time.
+87,English,detail,Heles,I wish to accompany you on your journey.
+88,English,detail,Lyria,"What? But why? Heles, your people need you here as their princess!"
+89,English,detail,Lyria,"If you go, won't it leave the citizens of Alster with no one to turn to?"
+90,English,detail,Heles,It would. And that is the very reason I wish to leave this island.
+91,English,detail,Vyrn,Wha? What do you mean?
+92,English,detail,Heles,Alster Island has long been ruled by the Irestill royal family.
+93,English,detail,Heles,"But it was the negligence of my father, King Connor, that resulted in the destruction of Irestill Kingdom."
+94,English,detail,Heles,"As part of the reconstruction effort, we decided to rebuild the government as well, and installed a council composed of local leaders from across the land."
+95,English,detail,Lyria,"Oh, that's why the castle is called the Great Court, right?"
+96,English,detail,Heles,Precisely. The castle's location at the center of the island is the ideal location for the seat of government.
+97,English,detail,Heles,"But returning to the topic at hand. If the throne's successor doesn't possess the faculty to rule the kingdom, then it's the people who will suffer."
+98,English,detail,Heles,"Father exemplified this, so my brother and I renounced our claim to the throne and relinquished all control to the Great Court."
+99,English,detail,Heles,"But the Great Court has only just been created, and its members lack experience. Everyone is overly reliant on me..."
+100,English,detail,Vyrn,"Well, duh! Of course they rely on you! Your country is huge—and you guys just changed your whole government!"
+101,English,detail,Heles,I realize we're in the beginning stages. Even the most talented budding politicians would need an example under these circumstances.
+102,English,detail,Heles,But I can't let the country stagnate and remain in its current form.
+103,English,detail,Heles,The Great Court has plenty of ability. All they need is more experience with decision-making. And that makes me a hindrance.
+104,English,detail,Vyrn,"Um, that's kind of drastic, but if it's for the sake of the people..."
+105,English,detail,Heles,Yes. It's time for me to step away. There is nothing more to say on the matter.
+106,English,detail,Heles,I feel that I can trust you. And I owe you a debt of honor for what you did before. So will you take me with you on your journey?
+107,English,sel1_txt,,Sure! We'd love to have you!
+108,English,sel2_txt,,Shouldn't you be somewhere safer?
+109,English,detail,Heles,"Thank you, [플레이어]. Oh, sorry... Captain."
+110,English,detail,Heles,I'm confident in my abilities. Surely my spear will aid you in your journey to the end of the sky.
+111,English,detail,Heles,Haha...
+112,English,detail,Heles,"To be honest, I haven't actually ever left this island, unless you count political conferences and the like."
+113,English,detail,Lyria,Really?
+114,English,detail,Heles,"Yes... It's very unlike me to act this way, but I'm actually extremely excited to be leaving!"
+115,English,detail,Vyrn,"That's right... We do fight primal beasts and stuff, you know?"
+116,English,detail,Heles,Are you implying that I lack skill compared to you? Very well... Let us find out in open combat.
+117,English,detail,Lyria,"No, that's okay! We know how skilled you are. I guess it's just... Why do you want to be in our crew so badly?"
+118,English,detail,Heles,Your freedom has left a deep impression on me. Especially since I've never left the island of my own will.
+119,English,detail,Heles,"I'd like to experience that freedom, if only for a short time. That's why I want to join your crew!"
+120,English,detail,Heles,"Please accept my allegiance, [플레이어]. I truly appreciate your generosity."
+121,English,detail,Heles,"I have a lot to learn, so please teach me all you can."
+122,English,detail,,"Thus Heles, the princess of a ruined kingdom, joins the crew."
+123,English,detail,,"She quickly becomes a trusted ally of [플레이어] and the others, as they continue their journey across the sky."
+124,English,synopsis,,"While visiting Alster Island, Heles and the crew are approached by some of Heles's former royal guard. She scolds them for abandoning their posts and then tests their skills in a mock fight."
+125,English,detail,,"At Heles's request, the crew stops by Alster Island to check on its reconstruction progress."
+126,English,detail,,"She walks through the streets, surveying the rebuilding efforts with satisfaction."
+127,English,detail,Heles,Wonderful... The town is bustling once again!
+128,English,detail,Lyria,It sure is! There are way more people here than the last time we visited!
+129,English,detail,Heles,It seems that Seruel and I were right to leave the country.
+130,English,detail,Vyrn,"Heh-heh... Maybe, but doesn't it make you a little sad?"
+131,English,detail,Heles,Huh? Why would I be sad?
+132,English,detail,Vyrn,"Well, this is the country you and your brother used to rule, right? Isn't it a bummer that it's doing so well without you?"
+133,English,detail,,"Heles looks a little surprised at first, but then she smiles warmly."
+134,English,detail,Heles,Haha... Of course not!
+135,English,detail,Heles,"Actually, I'm happy that joining your crew was the right choice. I can rest easy now!"
+136,English,detail,Vyrn,"You don't say! Well, as long as you're happy!"
+137,English,detail,,The crew is suddenly approached by a group of guards.
+138,English,detail,Royal Guard 1,Your Highness! There you are!
+139,English,detail,Royal Guard 2,Why didn't you inform us that you'd be visiting?
+140,English,detail,Lyria,Wow! That's a lot of soldiers!
+141,English,detail,Heles,"I'm sorry to surprise you, Lyria. These soldiers were once members of my personal guard."
+142,English,detail,Heles,What are you troops doing away from your post?
+143,English,detail,Royal Guard 1,"Oh, our posts? It's fine for us to leave from time to time!"
+144,English,detail,Royal Guard 2,"The town is much more peaceful nowadays! No monsters ever come in, and—"
+145,English,detail,Heles,You irresponsible fools! Shirking your duty like that is a punishable offence!
+146,English,detail,Heles,"How dare you abandon your assignments! I thought I taught you better, but it seems that you learned nothing."
+147,English,detail,Heles,"If monsters attack the town, your apologies won't bring anyone's children back!"
+148,English,detail,Royal Guard 1,"Yes, ma'am... My deepest apologies..."
+149,English,detail,Heles,I don't recall training such fools to be my guardsmen...
+150,English,detail,Heles,Do you think you can protect the kingdom if you act so carelessly?
+151,English,detail,Royal Guard 2,"No, ma'am!"
+152,English,detail,Heles,"It's good that the kingdom is peaceful now, but it takes tireless effort to safeguard that peace!"
+153,English,detail,Heles,I'd better test you to make sure your fighting skills aren't as rusty as your sense of duty!
+154,English,detail,Royal Guard 1,"Yes, ma'am!"
+155,English,detail,Heles,"This is a good chance to test ourselves as well! Please help me, [플레이어]!"

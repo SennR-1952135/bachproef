@@ -1,0 +1,42 @@
+,sex,age,origin
+0,,18.0,Astrocyte
+1,,18.0,Astrocyte
+2,,18.5,Astrocyte
+3,,18.1,Astrocyte
+4,,18.5,Astrocyte
+5,,18.5,Astrocyte
+6,,8.0,Astrocyte
+7,,13.0,Astrocyte
+8,,16.0,Astrocyte
+9,,21.0,Astrocyte
+10,,22.0,Astrocyte
+11,,35.0,Astrocyte
+12,,47.0,Astrocyte
+13,,51.0,Astrocyte
+14,,53.0,Astrocyte
+15,,60.0,Astrocyte
+16,,63.0,Astrocyte
+17,,63.0,Astrocyte
+18,,59.0,Astrocyte
+19,,59.0,Astrocyte
+20,,64.0,Astrocyte
+21,,65.0,Astrocyte
+22,,21.0,Astrocyte
+23,,22.0,Astrocyte
+24,,53.0,Astrocyte
+25,,53.0,Astrocyte
+26,,25.0,Neuron
+27,,22.0,Oligodendrocyte
+28,,63.0,Oligodendrocyte
+29,,63.0,Oligodendrocyte
+30,,47.0,Oligodendrocyte
+31,,63.0,Oligodendrocyte
+32,,45.0,Myeloid
+33,,51.0,Myeloid
+34,,63.0,Myeloid
+35,,47.0,Endothelial
+36,,13.0,Endothelial
+37,,45.0,Whole cortex
+38,,63.0,Whole cortex
+39,,25.0,Whole cortex
+40,,53.0,Whole cortex

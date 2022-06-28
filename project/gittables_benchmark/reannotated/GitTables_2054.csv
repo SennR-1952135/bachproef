@@ -1,0 +1,12 @@
+,class,description
+0,BlogMLFormatter,"The length of the statement  ""            Dictionary<string' string> authors = doc.Root.Element(ns + ""authors"").Elements(ns + ""author"").ToDictionary(x => x.Attribute(""id"").Value' x => x.Element(ns + ""title"").Value); "" is 173."
+1,BlogMLFormatter,"The length of the statement  ""            Dictionary<string' string> categories = doc.Root.Element(ns + ""categories"").Elements(ns + ""category"").ToDictionary(x => x.Attribute(""id"").Value' x => x.Element(ns + ""title"").Value); "" is 181."
+2,WordpressFormatter,"The length of the statement  ""                    string newFile = Path.Combine(targetFolderPath' entry.SelectSingleNode(""wp:post_id""' namespaceManager).InnerText + "".xml""); "" is 123."
+3,DasBlogFormatter,"The following statement contains a magic number: content = content.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[5].Value);"
+4,DasBlogFormatter,"The following statement contains a magic number: content = content.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[5].Value);"
+5,BlogEngineFormatter,"The following statement contains a magic number: content.InnerText = content.InnerText.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[6].Value);"
+6,BlogEngineFormatter,"The following statement contains a magic number: content.InnerText = content.InnerText.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[6].Value);"
+7,WordpressFormatter,"The following statement contains a magic number: content = content.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[5].Value);"
+8,WordpressFormatter,"The following statement contains a magic number: content = content.Replace(match.Groups[2].Value' ""/posts/files/"" + match.Groups[5].Value);"
+9,GhostFormatter,The following statement contains a magic number: var epoch = new DateTime(1970' 1' 1' 0' 0' 0' DateTimeKind.Utc);
+10,GhostFormatter,The following statement contains a magic number: timeStampString = timeStampString.Substring(0' timeStampString.Length - 3);

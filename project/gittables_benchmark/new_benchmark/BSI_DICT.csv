@@ -1,0 +1,24 @@
+,status,type,code,notes
+0,-4,N,"""indexes"",""adni_bsi_idx=RID,VISCODE,ENTRY,RECNO"",""notnullcols"",""ID,RID,SITEID,VISCODE,ENTRY,USERID,USERDATE,RECNO""",1
+1,-4,N,,-4
+2,-4,N,,-4
+3,-4,T,,-4
+4,-4,N,,-4
+5,-4,N,,-4
+6,-4,T,,-4
+7,-4,S,,-4
+8,-4,N,,-4
+9,-4,D,,-4
+10,-4,N,,-4
+11,-4,N,,-4
+12,-4,N,,-4
+13,-4,N,,-4
+14,-4,N,,-4
+15,-4,N,,-4
+16,-4,N,,-4
+17,-4,T,,-4
+18,-4,N,"1=OK; 2=less reliable, still a reasonable measure; 3=Borderline / unreliable, measure affected to some degree, still of some value; 4=Rejected <ef><bf><bd> measure not reliable at all.  Suggest is not used for analysis; 5=Non disease related pathology affecting measure, suggest is removed from analysis",-4
+19,-4,N,0=Vent not accepted; 1=Vent accepted,-4
+20,-4,N,,-4
+21,-4,T,,-4
+22,-4,N,,-4

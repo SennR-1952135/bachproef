@@ -1,0 +1,151 @@
+,company,city,state,classification
+0,PwC,Tampa,FL,0.0
+1,Smith Hanley Associates,Bridgewater,NJ,1.0
+2,L.A. Care Health Plan,Los Angeles,CA,0.0
+3,Sprout Social,Chicago,IL,0.0
+4,,Santa Monica,CA,1.0
+5,Smith Hanley Associates,Moline,IL,0.0
+6,CA Technologies,San Diego,CA,0.0
+7,USAA,San Antonio,TX,0.0
+8,GCP Applied Technologies,Cambridge,MA,0.0
+9,GE Digital,San Ramon,CA,0.0
+10,Clarity Insights,,,0.0
+11,USAA,San Antonio,TX,0.0
+12,,ton,MA,
+13,Smith Hanley Associates,New York,NY,0.0
+14,Dell,Austin,TX,0.0
+15,LexisNexis Legal & Professional,Raleigh,NC,0.0
+16,Smith Hanley Associates,Pittsburgh,PA,0.0
+17,Senior Whole Health,Cambridge,MA,0.0
+18,Crossfire Consulting,Center Valley,PA,0.0
+19,IMVU,Redwood City,CA,0.0
+20,Amazon,Seattle,WA,0.0
+21,Esri,Redlands,CA,0.0
+22,GE Digital,San Ramon,CA,0.0
+23,Hulu,Santa Monica,CA,0.0
+24,Stripe,San Francisco,CA,0.0
+25,Proofpoint,Sunnyvale,CA,0.0
+26,, Jose,CA,
+27,iHerb,,,0.0
+28,PROS,Houston,TX,0.0
+29,"23andMe, Inc.",Mountain View,CA,0.0
+30,Workday,Pleasanton,CA,0.0
+31,Jo-Ann Stores,Hudson,OH,0.0
+32,Domo,American Fork,UT,0.0
+33,Cisco Systems,San Jose,CA,1.0
+34,Smith Hanley Associates,Chicago,IL,0.0
+35,Bose,Framingham,MA,1.0
+36,Priceline.com,Norwalk,CT,0.0
+37,Dell,Austin,TX,0.0
+38,Dell,Round Rock,TX,0.0
+39,,sa,OK,
+40,Apple,Santa Clara,CA,0.0
+41,Quicken Loans,Detroit,MI,0.0
+42,VanderHouwen,Beaverton,OR,0.0
+43,Publishers Clearing House,Jericho,NY,0.0
+44,Beyond Finance,Boston,MA,0.0
+45,Deloitte,Arlington,VA,0.0
+46,The Cadmus Group,Washington,DC,0.0
+47,Progrexion Marketing,Salt Lake City,UT,0.0
+48,Fooda,Chicago,IL,0.0
+49,Health Catalyst,Salt Lake City,UT,0.0
+50,National Grid USA,Waltham,MA,0.0
+51,A Place for Mom,Seattle,WA,0.0
+52,Koch Industries,Arlington,TX,0.0
+53,Eventbrite,Nashville,TN,0.0
+54,Katerra,Atlanta,GA,0.0
+55,Cratejoy,Austin,TX,0.0
+56,Planned Systems International,Arlington,VA,0.0
+57,Craftsy,New York,NY,1.0
+58,Amazon,Cambridge,MA,0.0
+59,HUNTER Technical Resources,Plano,TX,0.0
+60,"PKW Associates, Inc",Windsor Mill,MD,0.0
+61,Central Intelligence Agency,Washington,DC,0.0
+62,Amazon,Cambridge,MA,0.0
+63,Schneider Electric,Andover,MA,0.0
+64,HUNTER Technical Resources,Plano,TX,0.0
+65,UNC Health Care,Chapel Hill,NC,0.0
+66,TextRecruit,San Jose,CA,0.0
+67,Navstar,Reston,VA,1.0
+68,Hollister Staffing,Boston,MA,0.0
+69,Ford Motor Company,Dearborn,MI,0.0
+70,Amazon,Seattle,WA,0.0
+71,Dataminr,New York,NY,0.0
+72,Pluralsight,Boston,MA,0.0
+73,,,,0.0
+74,Attune Insurance,New York,NY,0.0
+75,National Renewable Energy Lab,Golden,CO,0.0
+76,Two Sigma,New York,NY,1.0
+77,ServiceChannel,New York,NY,0.0
+78,Expedia,Bellevue,WA,0.0
+79,Vettery,New York,NY,0.0
+80,, Francisco,CA,
+81,Proofpoint,Draper,UT,0.0
+82,Knowles,Itasca,IL,1.0
+83,MultiCare Health System,Mount Vernon,IA,1.0
+84,,tin,TX,
+85,SeatGeek,New York,NY,0.0
+86,7Park Data,New York,NY,0.0
+87,Hollister Staffing,Boston,MA,0.0
+88,Newsela,New York,NY,0.0
+89,Walmart eCommerce,Sunnyvale,CA,0.0
+90,Oscar Insurance,New York,NY,0.0
+91,Affirm,San Francisco,CA,0.0
+92,Postmates,Bellevue,WA,0.0
+93,,Berkeley,CA,0.0
+94,Vitamin T,Chicago,IL,0.0
+95,Domo,Salt Lake City,UT,0.0
+96,Remind,San Francisco,CA,0.0
+97,Opendoor,San Francisco,CA,0.0
+98,Coach,New York,NY,0.0
+99,Crescent Solutions,Las Vegas,NV,0.0
+100,Walmart eCommerce,Sunnyvale,CA,0.0
+101,,,,
+102,UPMC,Pittsburgh,PA,1.0
+103,Backcountry,Park City,UT,0.0
+104,Toptal,,,0.0
+105,Vertical Knowledge,Cleveland,OH,1.0
+106,PETCO,San Diego,CA,0.0
+107,Kforce,Framingham,MA,0.0
+108,Kforce,Atlanta,GA,0.0
+109,Thumbtack,San Francisco,CA,1.0
+110,Pure Storage,Mountain View,CA,0.0
+111,Remind,San Francisco,CA,0.0
+112,Novetta,Herndon,VA,1.0
+113,IntraEdge,Phoenix,AZ,0.0
+114,"Axelon, Inc.",Plano,TX,0.0
+115,Grammarly,San Francisco,CA,0.0
+116,Walmart eCommerce,San Bruno,CA,0.0
+117,Arbor,Baltimore,MD,0.0
+118,PTP,Gold River,CA,0.0
+119,Convoy,Seattle,WA,0.0
+120,Stripe,San Francisco,CA,0.0
+121,Chubb Corp,Whitehouse Station,NJ,0.0
+122,,ver,CO,
+123,Global Executive Solutions Group,Fayetteville,AR,0.0
+124,Principal Financial Group,Des Moines,IA,0.0
+125,Quantlab,Houston,TX,0.0
+126,Fabergent USA,Harrisburg,PA,0.0
+127,Apex Systems,Carlsbad,CA,0.0
+128,Monsanto Company,Saint Louis,MO,0.0
+129,Franklin Templeton Investments,,,0.0
+130,Jane Street,New York,NY,0.0
+131,IBM,,,0.0
+132,Domo,Salt Lake City,UT,0.0
+133,Twitter,San Francisco,CA,0.0
+134,Sitecore,Sausalito,CA,0.0
+135,Limeade,Bellevue,WA,0.0
+136,Tuft & Needle,Mesa,AZ,1.0
+137,National Grid USA,Waltham,MA,0.0
+138,Altamira Technologies,Alexandria,VA,0.0
+139,Udemy,San Francisco,CA,0.0
+140,IntraEdge,Phoenix,AZ,0.0
+141,Newsela,New York,NY,0.0
+142,TrueMotion,Boston,MA,1.0
+143,Vertical Knowledge,Cleveland,OH,1.0
+144,IBM,Dallas,TX,0.0
+145,Uber,Pittsburgh,PA,0.0
+146,NBCNEWS.com,New York,NY,1.0
+147,Epiworks,Champaign,IL,0.0
+148,BCForward,Indianapolis,IN,0.0
+149,Capital Group,San Antonio,TX,0.0

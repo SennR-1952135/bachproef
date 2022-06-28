@@ -1,0 +1,184 @@
+,name,description,class
+0,Global_Observation_Date,,Misc
+1,Global_Location_Visit_Clinic,,Misc
+2,Global_Location_Visit_Outreach,,Misc
+3,Global_Location_Visit,,Misc
+4,ANC_No_Of_Visit_1,,Misc
+5,ANC_No_Of_Visit_2,,Misc
+6,ANC_No_Of_Visit_3,,Misc
+7,ANC_No_Of_Visit_4,,Misc
+8,ANC_No_Of_Visit_5,,Misc
+9,ANC_No_Of_Visit_6,,Misc
+10,ANC_No_Of_Visit_7,,Misc
+11,ANC_No_Of_Visit_8,,Misc
+12,ANC_No_Of_Visit_9,,Misc
+13,ANC_No_Of_Visit_10,,Misc
+14,ANC_No_Of_Visit,,Misc
+15,ANC_Gravida,,Misc
+16,ANC_Gravida_Abnormal,,Abnormal
+17,ANC_Parity,,Misc
+18,ANC_Abortions,,Misc
+19,ANC_Live_Births,,Misc
+20,ANC_Still_Births,,Misc
+21,ANC_Neonatal_Deaths,,Misc
+22,ANC_LMP,,Misc
+23,ANC_EDD,,Misc
+24,ANC_ Caesaren_Section,,Misc
+25,ANC_Complications,,Misc
+26,ANC_Previous_Pregnancies,,Misc
+27,ANC_Gestation_Date_in_Weeks,,Misc
+28,ANC_Gestation_by_fundal_height_in weeks,,Misc
+29,ANC-WEIGHT,,Misc
+30,ANC_HEIGHT,,Misc
+31,ANC_BMI,,Misc
+32,ANC_BMI_Abnormal,,Abnormal
+33,Systolic,,Misc
+34,Systolic Abnormal,,Abnormal
+35,Diastolic,,Misc
+36,Diastolic Abnormal,,Abnormal
+37,Pulse,,Misc
+38,Pulse Abnormal,,Abnormal
+39,RR,,Misc
+40,RR Abnormal,,Abnormal
+41,ANC_SPO2,,Misc
+42,ANC_SPO2_Abnormal,,Abnormal
+43,ANC_Fetal_Heart_Rate,,Misc
+44,ANC_Fetal_Heart_Rate_Abnormal,,Abnormal
+45,ANC_Pallor_None,,Misc
+46,ANC_Pallor_Moderate,,Misc
+47,ANC_Pallor_Severe,,Misc
+48,ANC_Pallor,,Misc
+49,ANC_Feet,,Misc
+50,ANC_Face,,Misc
+51,ANC_Whole_Body,,Misc
+52,ANC_Edema,,Misc
+53,Any other sign One,,Misc
+54,Any other sign Two,,Misc
+55,ANC_Any_other_sign,,Misc
+56,ANC_A+,,Misc
+57,ANC_A-,,Misc
+58,ANC_B+,,Misc
+59,ANC_B-,,Misc
+60,ANC_O+,,Misc
+61,ANC_O-,,Misc
+62,ANC_AB+,,Misc
+63,ANC_AB-,,Misc
+64,ANC_Blood_Group,,Misc
+65,ANC_Blood_Sugar,,Misc
+66,Blood Sugar Abnormal,,Abnormal
+67,ANC_Hemoglobin,,Misc
+68,ANC_Hemoglobin_Abnormal,,Abnormal
+69,ANC_Positive,,Misc
+70,ANC_Negative,,Misc
+71,ANC_Not_done,,Misc
+72,ANC_VDRL,,Misc
+73,ANC_HIV,,Misc
+74,ANC_0,,Misc
+75,ANC_+,,Misc
+76,ANC_++,,Misc
+77,ANC_+++,,Misc
+78,ANC_++++,,Misc
+79,ANC_Urine_Albumin,,Misc
+80,ANC_Urine_LCE,,Misc
+81,ANC_Spe_Comp_Severe anemia,,Misc
+82,ANC_Spe_Comp_Bleeding_vaginum,,Misc
+83,ANC_Spe_Comp_PIH,,Misc
+84,ANC_Spe_Comp_Fetal distress,,Misc
+85,ANC_Spe_Comp_Syphilis,,Misc
+86,ANC_Spe_Comp_HIV,,Misc
+87,ANC_Spe_Comp_TB,,Misc
+88,ANC_Spe_Comp_Malaria,,Misc
+89,ANC_Spe_Comp_Diabetes,,Misc
+90,ANC_Spe_Comp_Breech,,Misc
+91,ANC_Spe_Comp_Twins,,Misc
+92,ANC_Spe_Comp_Inverted nipples,,Misc
+93,ANC_Spe_Comp_Gestation_weeks_mov,,Misc
+94,ANC_Any_Complications,,Misc
+95,Confirmation of pregnancy,,Misc
+96,Wants termination of pregnancy,,Misc
+97,Medical Abortion with complication,,Misc
+98,Labour Pains,,Misc
+99,Labour Pains referred,,Misc
+100,Baby Delivered,,Misc
+101,Baby delivered-Follow-up,,Misc
+102,PNC-1 Complications,,Misc
+103,PNC-2 Complications,,Misc
+104,PNC-3 Complications,,Misc
+105,Wants Contraception,,Misc
+106,DMPA First,,Misc
+107,DMPA Subsequent,,Misc
+108,DMPA Complications,,Misc
+109,Oral Contraceptives,,Misc
+110,Infertility,,Misc
+111,Menstrual Disorders,,Misc
+112,Menstrual Disorder-Menorrhagia_Irregular_Intermenstrual Bleeding,,Misc
+113,Reproductive Tract Infection,,Misc
+114,Pelvic Inflammatory Disease,,Misc
+115,Anaemia,,Misc
+116,Diabetes,,Misc
+117,Hypertension,,Misc
+118,Diabetes and Hypertension,,Misc
+119,Suspected TB,,Misc
+120,Confirmed TB Sputum Positive Cat 1,,Misc
+121,Confirmed TB sputum Negative Cat 1,,Misc
+122,Confirmed TB Sputum Positive Cat 2,,Misc
+123,Confirmed TB sputum negative Cat 2,,Misc
+124,Extra-pulmonary TB Cat 1,,Misc
+125,Extra-pulmonary TB Cat 2,,Misc
+126,Leprosy,,Misc
+127,Confirmed Malaria Falciparum,,Misc
+128,Confirmed Malaria Vivax,,Misc
+129,Confirmed Malaria Mixed,,Misc
+130,Clinical Malaria,,Misc
+131,Enteric Fever,,Misc
+132,Diarrhea with severe dehydration,,Misc
+133,Diarrhea with some dehydration,,Misc
+134,Diarrhea with no dehydration,,Misc
+135,Dysentry,,Misc
+136,Acute Otitis Media,,Misc
+137,Chronic ear infection,,Misc
+138,Lower Respiratory Tract Infection,,Misc
+139,URI,,Misc
+140,Asthma,,Misc
+141,Chronic Bronchitis,,Misc
+142,Chronic Lung disease,,Misc
+143,Skin Disease - Impetigo,,Misc
+144,Skin Disease - Scabies,,Misc
+145,Skin Disease - Tinea,,Misc
+146,Skin disease- Dermatitis,,Misc
+147,Skin Disease - Others,,Misc
+148,Skin diseases-Fungal,,Misc
+149,Injury with stitches,,Misc
+150,Injury without stiches,,Misc
+151,Myalgia-non specific bodyache,,Misc
+152,Gastritis,,Misc
+153,Osteoarthritis,,Misc
+154,Cataract,,Misc
+155,Cataract Surgery,,Misc
+156,Rheumatic Heart Disease-RHD,,Misc
+157,UTI,,Misc
+158,Malnutrition Diagnosis,,Misc
+159,Pelivic Inflammatory disease,,Misc
+160,ANC_Any_Other_Problems,,Misc
+161,ANC_Compliance_to_IFAMVMMCa_Poor,,Misc
+162,ANC_Compliance_to_IFAMVMMCa_Fair,,Misc
+163,ANC_Compliance_to_IFAMVMMCa_None,,Misc
+164,ANC_Compliance_to_IFAMVMMCa,,Misc
+165,Fees_Amount,,Misc
+166,Fees_Purpose_OPD,,Misc
+167,Fees_Purpose_IPD,,Misc
+168,Fees_Purpose_Lab_Test,,Misc
+169,Fees_Purpose_Delivery,,Misc
+170,Fees_Purpose_Other,,Misc
+171,Fees_Purpose,,Misc
+172,Fees-Amount_Waivered,,Misc
+173,GLOBAL_FollowUpDate,,Misc
+174,GLOBAL_Doctors_Name_1,,Misc
+175,GLOBAL_Doctors_Name_2,,Misc
+176,GLOBAL_Doctors_Name_3,,Misc
+177,GLOBAL_Doctors_Name_4,,Misc
+178,GLOBAL_Doctors_Name_5,,Misc
+179,GLOBAL_Doctors_Name,,Misc
+180,GLOBAL_Nurse_Name1,,Misc
+181,GLOBAL_Nurse_Name2,,Misc
+182,GLOBAL_Nurse_Name,,Misc

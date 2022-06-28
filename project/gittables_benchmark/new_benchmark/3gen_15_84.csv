@@ -1,0 +1,95 @@
+,year,country,city
+0,2013,United States,Milwaukee
+1,2012,Japan,Tokyo
+2,2012,New Zealand,Auckland
+3,2012,United Kingdom,London
+4,2012,United States;United States,Boston;
+5,2012,United Kingdom,Oxford
+6,2012,United States;United States;United Kingdom,Houston;Los Angeles;Dundee
+7,2012,United States,Cleveland
+8,2012,United States,Santa Cruz
+9,2012,Malaysia,Sintok
+10,2012,United Kingdom,London
+11,2012,United States;United States,Stanford;Palo Alto
+12,2012,United States,New York
+13,2012,United States,New York
+14,2012,United States,Albuquerque
+15,2012,United States;United States;United States,Boston;New York;New York
+16,2011,United States,Chicago
+17,2011,United States,Stanford
+18,2011,Italy,Padua
+19,2011,United States,Ann Arbor
+20,2011,United States,Baltimore
+21,2011,United States;United States,New York;New York
+22,2011,United States,Boston
+23,2011,United States,Baltimore
+24,2011,United Kingdom,Leeds
+25,2011,United States,Baltimore
+26,2011,United States,Baltimore
+27,2011,United States,New York
+28,2011,United States,Ann Arbor
+29,2011,United States;United States,Baltimore;Baltimore
+30,2011,United States,Los Angeles
+31,20110606,France,Sophia Antipolis
+32,2011,United States,Baltimore
+33,2011,United Kingdom,Sheffield
+34,2011,United States;United States;United States,Boston;Boston;Boston
+35,2010,United States,New York
+36,2010,Australia,Sydney
+37,2010,United States,Baltimore
+38,2010,United States,Palo Alto
+39,2010,United States,Houston
+40,2010,United States,Baltimore
+41,2010,United States,Seattle
+42,2010,United States,Urbana
+43,2010,United Kingdom,Nottingham
+44,2010,United States,Buffalo
+45,2010,United States,New York
+46,2009,Cuba;Cuba,Santa Clara;Clara
+47,2009,France,Evry
+48,2009,New Zealand,Auckland
+49,2009,United States,Cambridge
+50,2009,United States,Chicago
+51,2009,United States,Milwaukee
+52,2009,United States,San Diego
+53,2009,United States,San Diego
+54,2009,Germany,Heidelberg
+55,2009,United States,Baltimore
+56,2009,United States,Charlottesville
+57,2008,United States,Chicago
+58,2008,New Zealand,Auckland
+59,2008,United States;United States,Baltimore;Baltimore
+60,2008,Germany,Heidelberg
+61,2008,United States;United States,Seattle;Seattle
+62,2007,Italy,Padua
+63,2007,United States,Charlottesville
+64,2007,New Zealand,Auckland
+65,2007,United States,Seattle
+66,2007,United States,New York
+67,2006,France,Evry
+68,2006,United States;United States,Cambridge;Boston
+69,2006,United States;United States,Baltimore;Baltimore
+70,2005,United States,Los Angeles
+71,2005,United States,St. Louis
+72,2005,United States;United States,Baltimore;Baltimore
+73,2004,United States,San Diego
+74,2004,Japan;Japan,Kobe;Kodaira
+75,2004,United States,St. Louis
+76,2004,United States,Seattle
+77,2004,United States,Charlottesville
+78,2004,United States,Baltimore
+79,2003,United States,Los Angeles
+80,2003,United States,New Haven
+81,2003,United States,Stanford
+82,2003,United States,Cambridge
+83,2002,United States,Cleveland
+84,2002,United States,Berkeley
+85,2002,Netherlands,Amsterdam
+86,2001,United States;United States,Bethesda;Bethesda
+87,2001,United States,Cambridge
+88,Nov-Dec,United States,Baltimore
+89,1998,United States,Providence
+90,1997,United States,St. Louis
+91,1997,United States;United States,St. Louis;St. Louis
+92,1970,United Kingdom,Cambridge
+93,1960,United Kingdom,London

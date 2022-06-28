@@ -1,0 +1,205 @@
+,year,country,city
+0,2012,Germany,Osnabruck
+1,2012,Finland,Turku
+2,2012,Japan,Suita
+3,2012,United Kingdom,London
+4,2011,Germany,Bochum
+5,2011,Japan,Suita
+6,2011,Japan,Sapporo
+7,2011,Denmark,Copenhagen
+8,2011,Japan,Kyoto
+9,2011,United States;Japan,East Lansing;Wako
+10,2011,Japan,Kyoto
+11,2011,United Kingdom,Manchester
+12,2011,Germany,Osnabruck
+13,2010,Finland,Turku
+14,2010,United States,Davis
+15,2010,Japan;Japan,Wako;Sapporo
+16,2010,Germany,Heidelberg
+17,2010,Sweden,Umea
+18,2010,Taiwan,Taipei
+19,2010,Israel;United Kingdom,Tel Aviv-Yafo;Cambridge
+20,2010,Japan,Suita
+21,2009,Japan,Sapporo
+22,2009,Netherlands,Leiden
+23,2009,Croatia,Zagreb
+24,2009,Germany,Munich
+25,2009,Japan,Kyoto
+26,2009,United States,Los Angeles
+27,2009,Argentina,Rosario
+28,2009,Japan,Kurume
+29,2009,Finland,Turku
+30,2009,United Kingdom,Norwich
+31,2009,United States,Lubbock
+32,2009,Spain,Zaragoza
+33,2008,Japan,Suita
+34,2008,Taiwan,Taipei
+35,2008,Norway,Stavanger
+36,2008,Japan,Suita
+37,2008,Germany,Osnabruck
+38,2008,Switzerland,Neuchatel
+39,2008,Germany,Munich
+40,2008,Germany,Munich
+41,2008,Germany;Germany,Braunschweig;Bochum
+42,2007,United Kingdom,Manchester
+43,2007,United Kingdom,Manchester
+44,2007,Germany,Koln
+45,2007,United States,Chevy Chase
+46,2007,Japan,Fukuoka
+47,2007,Japan,Sapporo
+48,2007,France,Gif-sur-Yvette
+49,2007,Germany,Munich
+50,2007,Finland,Turku
+51,2007,Taiwan;United States,Taipei;Davis
+52,2006,Netherlands,Leiden
+53,2006,Japan;China,Suita;Urumqi
+54,2006,Japan,Yamaguchi
+55,2006,France,Paris
+56,2006,Japan,Kizugawa
+57,2006,Switzerland,Bern
+58,2006,Japan,Suita
+59,2006,United Kingdom,Norwich
+60,2006,Germany,Bayreuth
+61,2006,United States,Madison
+62,2006,Japan,Suita
+63,2005,United States,Tempe
+64,2005,Japan,Suita
+65,2005,Japan;Japan,Kawaguchi;Sapporo
+66,2005,United States,Ithaca
+67,2005,Switzerland,Bern
+68,2005,Japan,Suita
+69,2005,France,Versailles
+70,2005,Spain,Sevilla
+71,2004,Japan,Suita
+72,2004,Germany,Marburg
+73,2004,France,Paris
+74,2004,Japan,Suita
+75,2004,Japan,Sapporo
+76,2004,United States,Athens
+77,2004,France,Gif-sur-Yvette
+78,2004,United States,Berkeley
+79,2004,Germany,Koln
+80,2004,United States,Lubbock
+81,2004,United States,Upton
+82,2004,Japan,Suita
+83,2003,Italy;France,Rome;Gif-sur-Yvette
+84,2003,Switzerland,Bern
+85,2003,Germany,Osnabruck
+86,2003,France,Paris
+87,2003,United Kingdom,Manchester
+88,2003,Denmark,Copenhagen
+89,2003,Argentina;Germany,Rosario;Tubingen
+90,2003,France,Versailles
+91,2003,Argentina,Rosario
+92,2003,United States;Japan,Berkeley;Tokyo
+93,2003,,
+94,2002,Japan;Japan,Ikoma;Kyoto
+95,2002,Germany,Munich
+96,2002,France,Gif-sur-Yvette
+97,2002,Japan,Sendai
+98,2002,Japan,Ikoma
+99,2002,Italy,Pavia
+100,2002,France,Versailles
+101,2002,Germany,Gatersleben
+102,2002,Italy,Florence
+103,2002,United States,Berkeley
+104,2002,Spain,Madrid
+105,2001,Germany,Berlin
+106,2001,United States,West Lafayette
+107,2001,Japan;Japan,Tokyo;Kawaguchi
+108,2001,France,Versailles
+109,2001,United States,Madison
+110,2001,Germany,Berlin
+111,2001,Japan,Suita
+112,2001,United States,Davis
+113,2001,Japan,Ikoma
+114,2001,Germany,Planegg
+115,2001,Japan,Suita
+116,2001,United States,Chicago
+117,2000,Japan,Suita
+118,2000,United States;Sweden,West Lafayette;Uppsala
+119,2000,Spain,Murcia
+120,2000,United States;Sweden,West Lafayette;Uppsala
+121,2000,Japan,Suita
+122,2000,Japan,Mishima District
+123,2000,Japan,Suita
+124,2000,Switzerland,Zurich
+125,2000,United States,New Brunswick
+126,1999,United States,Ithaca
+127,1999,United States,Long Beach
+128,1999,United States,Madison
+129,1999,Japan,Ikoma
+130,1999,Japan;Japan,Suita;Tokyo
+131,1999,United States,Tucson
+132,1999,United States,New Brunswick
+133,1999,Japan,Fukuyama
+134,1998,Germany,Munich
+135,1998,Spain,Zaragoza
+136,1998,Japan;Japan,Sapporo;Kyoto
+137,1998,Spain,Zaragoza
+138,1998,United States,New Brunswick
+139,1998,Germany,Bochum
+140,1998,United States;United States,New York;Athens
+141,1998,Switzerland,Geneva
+142,1998,Germany,Kassel
+143,1997,Spain,Sevilla
+144,Jun,Japan,Suita
+145,1997,France,Versailles
+146,1997,Japan,Nagoya
+147,1997,Switzerland,Zurich
+148,1997,Germany,Heidelberg
+149,1996,France,Paris
+150,1996,France,Saint Paul lez Durance
+151,1996,France,Versailles
+152,1995,United States,East Lansing
+153,1995,United States,Ithaca
+154,1995,Japan,Okazaki
+155,1995,United States,Tempe
+156,1994,Switzerland,Zurich
+157,1994,United States;United States;United States;United States,Portland;Madison;Upton;Madison
+158,1994,United States,Upton
+159,1994,Italy,Milan
+160,1994,Germany,Osnabruck
+161,1994,United States,New York
+162,1994,United States,Ithaca
+163,1994,United States,New York
+164,1994,Japan,Higashihiroshima
+165,Mar,Germany,Munich
+166,1994,France,Paris
+167,1993,Switzerland,"Zurich ZH,"
+168,1993,Germany,Freiburg im Breisgau
+169,1993,Germany,Munich
+170,1993,United Kingdom,Manchester
+171,1993,Germany,Hamburg
+172,1993,Japan,Okazaki
+173,1993,France,Versailles
+174,1993,France,Versailles
+175,1992,Japan,Nagoya
+176,1992,Denmark,Copenhagen
+177,1992,Japan,Kyoto
+178,1992,Germany,Hannover
+179,1992,Germany;,Wurzburg;
+180,1991,United States,Boston
+181,1991,Germany,Neuherberg
+182,1991,United States,Lubbock
+183,1991,Canada,Guelph
+184,1991,United States;Australia,Berkeley;Melbourne
+185,1991,France,Versailles
+186,1990,Germany,Hamburg
+187,1990,United States,Ithaca
+188,1987,,
+189,1987,Italy,Milan
+190,1986,Japan,Kyoto
+191,1985,Japan,Tsukuba
+192,1984,United Kingdom,Cambridge
+193,1984,United States,Upton
+194,1984,,
+195,1984,United States,Durham
+196,1983,Japan,Tottori
+197,1982,,
+198,1982,United States,Durham
+199,1981,Japan,Tottori
+200,1980,Japan,Tottori
+201,1977,United Kingdom,London
+202,1962,United States,Berkeley
+203,1962,United States,Wilmington

@@ -1,0 +1,62 @@
+,category,type,year,name,gender
+0,c,IP,1990.0,Bill O'Brien,male
+1,c,canonical,1992.0,Bill O'Brien,male
+2,c,canonical,1990.0,Christopher Chope,male
+3,c,canonical,1990.0,Christopher Chope,male
+4,c,performative,1990.0,Christopher Chope,male
+5,c,IP,1990.0,Christopher Chope,male
+6,c,canonical,1990.0,Christopher Chope,male
+7,c,IP,1991.0,Christopher Chope,male
+8,c,IP,1991.0,Christopher Chope,male
+9,c,performative,,,male
+10,c,canonical,1992.0,Michael Morris,male
+11,c,IP,1992.0,Michael Morris,male
+12,c,canonical,1992.0,Michael Morris,male
+13,c,IP,1990.0,Nigel Spearing,male
+14,c,canonical,1990.0,Nigel Spearing,male
+15,c,performative,1991.0,Nigel Spearing,male
+16,c,canonical,1991.0,Nigel Spearing,male
+17,c,IP,1992.0,Nigel Spearing,male
+18,c,IP,1990.0,Roger Freeman,male
+19,c,IP,1990.0,Tony Marlow,male
+20,c,canonical,1991.0,Tony Marlow,male
+21,c,IP,1990.0,David Mellor,male
+22,c,canonical,1990.0,David Mellor,male
+23,c,canonical,1990.0,David Mellor,male
+24,c,canonical,1990.0,David Mellor,male
+25,c,canonical,1990.0,David Mellor,male
+26,c,canonical,1991.0,David Mellor,male
+27,c,canonical,1991.0,David Mellor,male
+28,c,IP,1991.0,David Mellor,male
+29,c,canonical,1991.0,David Mellor,male
+30,c,canonical,1992.0,David Mellor,male
+31,c,IP,1992.0,David Mellor,male
+32,c,performative,1992.0,David Mellor,male
+33,c,canonical,1990.0,Margaret Thatcher,female
+34,c,canonical,1990.0,Margaret Thatcher,female
+35,c,canonical,1990.0,Margaret Thatcher,female
+36,c,IP,1990.0,Margaret Thatcher,female
+37,c,canonical,1990.0,Margaret Thatcher,female
+38,c,canonical,1990.0,Margaret Thatcher,female
+39,c,canonical,1990.0,Margaret Thatcher,female
+40,c,canonical,,,female
+41,c,canonical,1990.0,Margaret Thatcher,female
+42,c,canonical,1990.0,Margaret Thatcher,female
+43,c,canonical,1990.0,Margaret Thatcher,female
+44,c,canonical,1990.0,Margaret Thatcher,female
+45,c,canonical,1990.0,Margaret Thatcher,female
+46,c,canonical,1990.0,Margaret Thatcher,female
+47,c,IP,1990.0,Margaret Thatcher,female
+48,c,IP,1990.0,Margaret Thatcher,female
+49,c,IP,1990.0,Margaret Thatcher,female
+50,c,IP,1990.0,Margaret Thatcher,female
+51,c,IP,1990.0,Margaret Thatcher,female
+52,c,canonical,1990.0,Margaret Thatcher,female
+53,c,IP,1990.0,Margaret Thatcher,female
+54,c,IP,1990.0,Margaret Thatcher,female
+55,c,IP,1991.0,Margaret Thatcher,female
+56,c,canonical,1991.0,Margaret Thatcher,female
+57,c,canonical,1991.0,Margaret Thatcher,female
+58,c,canonical,1992.0,Paul Flynn,male
+59,c,IP,,,
+60,c,canonical,,,

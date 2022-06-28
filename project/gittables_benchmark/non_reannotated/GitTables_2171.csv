@@ -1,0 +1,32 @@
+,name,type
+0,Rue Marx Dormoy,route
+1,Chaussures Marvin,shoe_store point_of_interest store establishment
+2,UNIVERSLAM éditions,point_of_interest establishment
+3,Résidences étudiante,point_of_interest establishment
+4,Les Routiers,bar restaurant food point_of_interest establishment
+5,Procity Immobilier Marx Dormoy,real_estate_agency point_of_interest establishment
+6,Optical Createur,health point_of_interest store establishment
+7,Sok Cheng,point_of_interest store establishment
+8,Ly Hélène,point_of_interest store establishment
+9,Trajkovic Goran,point_of_interest establishment
+10,Pizza One,meal_takeaway restaurant food point_of_interest establishment
+11,PMF Peausseries et Megisseries de France,point_of_interest establishment
+12,Restaurant Rime,restaurant food point_of_interest establishment
+13,Labo - Optik,health point_of_interest store establishment
+14,Tabac La Comète,point_of_interest establishment
+15,NATURALIA,grocery_or_supermarket food point_of_interest store establishment
+16,Khelif Faicel,general_contractor point_of_interest establishment
+17,Rodrigues Mathieu Annabelle,health point_of_interest establishment
+18,Ocampo Gutierrez Ocampo Luis Enrique,general_contractor point_of_interest establishment
+19,Paris,locality political
+20,Opron Valerie,point_of_interest establishment
+21,Le Week - End,point_of_interest establishment
+22,Saga Des Marques,clothing_store point_of_interest store establishment
+23,La Lunetterie De Paris,point_of_interest establishment
+24,Service Social Départemental Polyvalent Du 18ème,point_of_interest establishment
+25,Laiterie la Chapelle,food point_of_interest store establishment
+26,Salle de prière,mosque place_of_worship point_of_interest establishment
+27,bhadra kali,hindu_temple place_of_worship point_of_interest establishment
+28,Association Atouts Cours,point_of_interest establishment
+29,Sarl Pb Tel,point_of_interest store establishment
+30,OPTI Senior: Opticiens mobiles en EHPAD,health point_of_interest store establishment

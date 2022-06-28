@@ -1,0 +1,495 @@
+,rank,company,industry
+0,3,Berkshire Hathaway,Investment Services
+1,4,JPMorgan Chase,Major Banks
+2,5,Wells Fargo,Major Banks
+3,7,Bank of America,Major Banks
+4,9,Apple,Computer Hardware
+5,11,AT&T,Telecommunications services
+6,12,Citigroup,Major Banks
+7,13,Exxon Mobil,Oil & Gas Operations
+8,14,General Electric,Conglomerates
+9,17,Wal-Mart Stores,Discount Stores
+10,18,Verizon Communications,Telecommunications services
+11,19,Microsoft,Software & Programming
+12,24,Alphabet,Software & Programming
+13,31,Comcast,Broadcasting & Cable
+14,32,Johnson & Johnson,Medical Equipment & Supplies
+15,36,UnitedHealth Group,Managed Health Care
+16,41,General Motors,Auto & Truck Manufacturers
+17,43,IBM,Computer Services
+18,46,Procter & Gamble,Household/Personal Care
+19,47,Pfizer,Pharmaceuticals
+20,48,HSBC Holdings,Major Banks
+21,49,Goldman Sachs Group,Investment Services
+22,54,Intel,Semiconductors
+23,58,Cisco Systems,Communications Equipment
+24,60,Morgan Stanley,Investment Services
+25,64,Ford Motor,Auto & Truck Manufacturers
+26,67,Walt Disney,Broadcasting & Cable
+27,68,Prudential,Life & Health Insurance
+28,69,Prudential Financial,Life & Health Insurance
+29,70,Oracle,Software & Programming
+30,73,Boeing,Aerospace & Defense
+31,83,Amazon.com,Internet & Catalog Retail
+32,84,PepsiCo,Beverages
+33,86,Coca-Cola,Beverages
+34,87,United Technologies,Conglomerates
+35,96,US Bancorp,Major Banks
+36,97,American Express,Consumer Financial Services
+37,100,Merck,Pharmaceuticals
+38,107,Charter Communications,Broadcasting & Cable
+39,113,Dow Chemical,Diversified Chemicals
+40,114,Home Depot,Home Improvement Retail
+41,115,Lloyds Banking Group,Major Banks
+42,119,Facebook,Computer Services
+43,122,Barclays,Major Banks
+44,123,Rio Tinto,Diversified Metals & Mining
+45,128,Capital One Financial,Consumer Financial Services
+46,131,Amgen,Biotechs
+47,134,Gilead Sciences,Biotechs
+48,136,Honeywell International,Conglomerates
+49,143,AbbVie,Pharmaceuticals
+50,147,PNC Financial Services,Regional Banks
+51,152,Lockheed Martin,Aerospace & Defense
+52,153,Time Warner,Broadcasting & Cable
+53,154,Duke Energy,Electric Utilities
+54,158,Express Scripts,Healthcare Services
+55,159,United Parcel Service,Air Courier
+56,160,Aetna,Managed Health Care
+57,163,Bank of New York Mellon,Major Banks
+58,170,Qualcomm,Semiconductors
+59,172,British American Tobacco,Tobacco
+60,173,Visa,Consumer Financial Services
+61,175,MetLife,Diversified Insurance
+62,176,AstraZeneca,Pharmaceuticals
+63,177,Altria Group,Tobacco
+64,179,Costco Wholesale,Discount Stores
+65,181,Philip Morris International,Tobacco
+66,182,Union Pacific,Railroads
+67,183,Delta Air Lines,Airline
+68,186,National Grid,Natural Gas Utilities
+69,187,Legal & General Group,Life & Health Insurance
+70,188,McKesson,Pharmaceuticals
+71,194,FedEx,Air Courier
+72,195,GlaxoSmithKline,Pharmaceuticals
+73,197,3M,Conglomerates
+74,199,Aflac,Life & Health Insurance
+75,200,Allstate,Diversified Insurance
+76,203,BT Group,Telecommunications services
+77,204,NextEra Energy,Electric Utilities
+78,205,BlackRock,Investment Services
+79,208,Aviva,Life & Health Insurance
+80,209,Cigna,Managed Health Care
+81,210,Phillips 66,Oil & Gas Operations
+82,211,Valero Energy,Oil & Gas Operations
+83,215,McDonald's,Restaurants
+84,220,EI du Pont de Nemours,Diversified Chemicals
+85,224,Fiat Chrysler Automobiles,Auto & Truck Manufacturers
+86,227,Target,Discount Stores
+87,229,Danaher,Conglomerates
+88,231,General Dynamics,Aerospace & Defense
+89,232,Reynolds American,Tobacco
+90,234,Bristol-Myers Squibb,Pharmaceuticals
+91,237,Exelon,Electric Utilities
+92,241,Kroger,Food Retail
+93,242,Abbott Laboratories,Pharmaceuticals
+94,243,HCA Holdings,Healthcare Services
+95,247,American Airlines Group,Airline
+96,248,BB&T,Regional Banks
+97,251,Thermo Fisher Scientific,Precision Healthcare Equipment
+98,261,Diageo,Beverages
+99,263,Liberty Global,Broadcasting & Cable
+100,269,United Continental Holdings,Airline
+101,270,Carnival,Hotels & Motels
+102,271,HP,Computer Hardware
+103,274,State Street,Investment Services
+104,280,PG&E,Electric Utilities
+105,281,Cardinal Health,Pharmaceuticals
+106,283,Dominion Resources,Electric Utilities
+107,285,Raytheon,Aerospace & Defense
+108,287,Marathon Petroleum,Oil & Gas Operations
+109,291,Archer Daniels Midland,Food Processing
+110,295,Imperial Tobacco Group,Tobacco
+111,297,Northrop Grumman,Aerospace & Defense
+112,298,LyondellBasell Industries,Diversified Chemicals
+113,303,Charles Schwab,Investment Services
+114,308,WPP,Advertising
+115,315,AmerisourceBergen,Pharmaceuticals
+116,318,Discover Financial Services,Consumer Financial Services
+117,325,SunTrust Banks,Regional Banks
+118,328,Anglo American,Diversified Metals & Mining
+119,338,Hartford Financial Services,Diversified Insurance
+120,339,Southwest Airlines,Airline
+121,341,Principal Financial Group,Life & Health Insurance
+122,342,Fannie Mae,Investment Services
+123,343,Ameriprise Financial,Investment Services
+124,346,Celgene,Biotechs
+125,351,Tyson Foods,Food Processing
+126,353,Reckitt Benckiser Group,Household/Personal Care
+127,354,CSX,Railroads
+128,355,Freddie Mac,Investment Services
+129,356,Lincoln National,Life & Health Insurance
+130,357,Kinder Morgan,Oil Services & Equipment
+131,359,BP,Oil & Gas Operations
+132,360,Chevron,Oil & Gas Operations
+133,365,BAE Systems,Aerospace & Defense
+134,367,Edison International,Electric Utilities
+135,370,Starbucks,Restaurants
+136,371,Centrica,Natural Gas Utilities
+137,378,Monsanto,Specialized Chemicals
+138,382,Progressive,Property & Casualty Insurance
+139,387,Texas Instruments,Semiconductors
+140,391,Consolidated Edison,Electric Utilities
+141,393,DISH Network,Broadcasting & Cable
+142,395,American Electric,Electric Utilities
+143,400,Norfolk Southern,Railroads
+144,401,TJX Cos,Department Stores
+145,403,American International Group,Diversified Insurance
+146,404,Sempra Energy,Natural Gas Utilities
+147,405,International Airlines,Airline
+148,406,SSE,Electric Utilities
+149,407,eBay,Internet & Catalog Retail
+150,409,Old Mutual,Investment Services
+151,414,General Mills,Food Processing
+152,419,Vodafone,Telecommunications services
+153,424,Sysco,Food Retail
+154,425,International Paper,Paper & Paper Products
+155,427,Kimberly-Clark,Household/Personal Care
+156,433,Corning,Communications Equipment
+157,438,Humana,Managed Health Care
+158,439,Emerson Electric,Electrical Equipment
+159,444,Aon,Insurance Brokers
+160,445,IntercontinentalExchange,Investment Services
+161,446,Stryker,Medical Equipment & Supplies
+162,451,Las Vegas Sands,Casinos & Gaming
+163,452,Xcel Energy,Electric Utilities
+164,453,Fifth Third Bancorp,Regional Banks
+165,458,Marsh & McLennan,Insurance Brokers
+166,459,CBS,Broadcasting & Cable
+167,465,Illinois Tool Works,Other Industrial Equipment
+168,467,Marriott International,Hotels & Motels
+169,470,Thomson Reuters,Printing & Publishing
+170,472,Colgate-Palmolive,Household/Personal Care
+171,480,PPL,Electric Utilities
+172,481,Waste Management,Environmental & Waste
+173,482,Micron Technology,Semiconductors
+174,486,Compass Group,Restaurants
+175,495,Schlumberger,Oil Services & Equipment
+176,497,M&T Bank,Regional Banks
+177,499,Applied Materials,Semiconductors
+178,500,Royal Bank of Scotland,Major Banks
+179,503,Caterpillar,Heavy Equipment
+180,505,Ecolab,Specialized Chemicals
+181,507,Omnicom Group,Advertising
+182,518,Loews,Diversified Insurance
+183,519,ConocoPhillips,Oil & Gas Operations
+184,520,Baxter International,Medical Equipment & Supplies
+185,521,Praxair,Specialized Chemicals
+186,530,Simon Property Group,Real Estate
+187,532,British Sky Broadcasting,Broadcasting & Cable
+188,533,Cummins,Heavy Equipment
+189,535,Standard Chartered,Major Banks
+190,537,Cognizant Technology,Computer Services
+191,538,Viacom,Broadcasting & Cable
+192,546,Regions Financial,Regional Banks
+193,548,CenturyLink,Telecommunications services
+194,555,Associated British Foods,Food Processing
+195,556,Standard Life,Life & Health Insurance
+196,566,DTE Energy,Electric Utilities
+197,569,Best Buy,Computer & Electronics Retail
+198,576,Northern Trust,Regional Banks
+199,577,CME Group,Investment Services
+200,580,American Tower,Real Estate
+201,588,Tesco,Food Retail
+202,589,MGM Resorts,Casinos & Gaming
+203,590,Dollar Tree,Discount Stores
+204,595,Constellation Brands,Beverages
+205,596,Royal Caribbean Cruises,Hotels & Motels
+206,597,Air Products & Chemicals,Specialized Chemicals
+207,600,KeyCorp,Regional Banks
+208,608,Dell Technologies,Computer Hardware
+209,612,Dollar General,Discount Stores
+210,630,Whirlpool,Household Appliances
+211,631,Paccar,Heavy Equipment
+212,637,Delphi Automotive,Auto & Truck Parts
+213,638,Bunge,Food Processing
+214,640,Mylan,Pharmaceuticals
+215,646,VMware,Software & Programming
+216,649,Fidelity National Information,Business & Personal Services
+217,654,Molson Coors Brewing,Beverages
+218,656,Stanley Black & Decker,Household/Personal Care
+219,657,Nucor,Iron & Steel
+220,662,DaVita,Healthcare Services
+221,675,Kellogg,Food Processing
+222,683,Weyerhaeuser,Real Estate
+223,686,Level 3 Communications,Telecommunications services
+224,687,Franklin Resources,Investment Services
+225,695,Reinsurance Group of America,Diversified Insurance
+226,696,Tesoro,Oil & Gas Operations
+227,701,Adobe Systems,Software & Programming
+228,707,Textron,Conglomerates
+229,709,Republic Services,Environmental & Waste
+230,716,Halliburton,Oil Services & Equipment
+231,722,Occidental Petroleum,Oil & Gas Operations
+232,723,J Sainsbury,Food Retail
+233,725,Sherwin-Williams,Home Improvement Retail
+234,726,NVIDIA,Semiconductors
+235,728,VF,Apparel/Accessories
+236,729,Yum Brands,Restaurants
+237,731,Prologis,Real Estate
+238,732,Goodyear,Auto & Truck Parts
+239,733,Liberty Interactive,Internet & Catalog Retail
+240,734,Coca-Cola European Partners,Beverages
+241,735,Ross Stores,Apparel/Footwear Retail
+242,737,Macy's,Department Stores
+243,739,Parker-Hannifin,Other Industrial Equipment
+244,741,Annaly Capital Management,Real Estate
+245,757,Western Digital,Computer Storage Devices
+246,759,Rolls-Royce Holdings,Aerospace & Defense
+247,766,Hilton,Hotels & Motels
+248,768,Lennar,Construction Services
+249,770,Anadarko Petroleum,Oil & Gas Operations
+250,772,AutoZone,Specialty Stores
+251,782,Discovery Communications,Broadcasting & Cable
+252,785,Huntington Bancshares,Regional Banks
+253,790,CarMax,Specialty Stores
+254,808,DR Horton,Construction Services
+255,813,FirstEnergy,Electric Utilities
+256,818,General Growth Properties,Real Estate
+257,821,LabCorp,Healthcare Services
+258,826,Eastman Chemical,Specialized Chemicals
+259,827,O'Reilly Automotive,Specialty Stores
+260,828,L Brands,Apparel/Footwear Retail
+261,829,First Republic Bank,Regional Banks
+262,831,EOG Resources,Oil & Gas Operations
+263,837,TD Ameritrade Holding,Investment Services
+264,843,American Financial Group,Diversified Insurance
+265,848,Boston Scientific,Medical Equipment & Supplies
+266,857,Ameren,Electric Utilities
+267,858,Symantec,Software & Programming
+268,866,Mohawk Industries,Furniture & Fixtures
+269,874,Entergy,Electric Utilities
+270,876,JM Smucker,Food Processing
+271,878,Kingfisher,Home Improvement Retail
+272,879,Lear,Auto & Truck Parts
+273,888,Devon Energy,Oil & Gas Operations
+274,889,Hormel Foods,Food Processing
+275,893,Avalonbay Communities,Real Estate
+276,902,Alliance Data Systems,Business & Personal Services
+277,904,Genuine Parts,Specialty Stores
+278,910,Raymond James Financial,Investment Services
+279,912,Invesco,Investment Services
+280,919,Vornado Realty,Real Estate
+281,929,Salesforce.com,Software & Programming
+282,934,Tesla,Auto & Truck Manufacturers
+283,937,CMS Energy,Electric Utilities
+284,947,WR Berkley,Property & Casualty Insurance
+285,952,Baker Hughes,Oil Services & Equipment
+286,956,Hershey,Food Processing
+287,957,CenterPoint Energy,Natural Gas Utilities
+288,966,Public Storage,Real Estate
+289,968,Comerica,Regional Banks
+290,972,Fiserv,Software & Programming
+291,973,Ventas,Real Estate
+292,974,CBRE Group,Real Estate
+293,976,Markel,Diversified Insurance
+294,977,Fidelity National Financial,Property & Casualty Insurance
+295,979,Leucadia National,Conglomerates
+296,983,Electronic Arts,Software & Programming
+297,986,Amphenol,Electronics
+298,987,Regeneron Pharmaceuticals,Biotechs
+299,990,Universal Health,Healthcare Services
+300,996,Netflix,Internet & Catalog Retail
+301,998,Gap,Apparel/Footwear Retail
+302,1000,Dr Pepper Snapple Group,Beverages
+303,1001,Cincinnati Financial,Diversified Insurance
+304,1005,Harris,Communications Equipment
+305,1019,Kohl's,Department Stores
+306,1021,WW Grainger,Electrical Equipment
+307,1025,Arrow Electronics,Electronics
+308,1032,E-Trade Financial,Investment Services
+309,1039,Rockwell Automation,Other Industrial Equipment
+310,1040,Henry Schein,Medical Equipment & Supplies
+311,1042,Intuit,Software & Programming
+312,1044,London Stock Exchange,Investment Services
+313,1047,Zoetis,Pharmaceuticals
+314,1051,Alleghany,Property & Casualty Insurance
+315,1052,Crown Castle International,Telecommunications services
+316,1056,Newmont Mining,Diversified Metals & Mining
+317,1057,AES,Electric Utilities
+318,1058,Oneok,Oil Services & Equipment
+319,1059,Schroders,Investment Services
+320,1061,Quest Diagnostics,Healthcare Services
+321,1064,Boston Properties,Real Estate
+322,1067,Analog Devices,Semiconductors
+323,1072,Roper Industries,Other Industrial Equipment
+324,1073,Host Hotels & Resorts,Real Estate
+325,1075,Interpublic Group,Advertising
+326,1079,Campbell Soup,Food Processing
+327,1085,Investec,Investment Services
+328,1089,Whole Foods Market,Food Retail
+329,1097,Mondi,Paper & Paper Products
+330,1100,Land Securities Group,Real Estate
+331,1102,Clorox,Household/Personal Care
+332,1104,Assurant,Diversified Insurance
+333,1108,Zions Bancorp,Regional Banks
+334,1109,National Oilwell Varco,Oil Services & Equipment
+335,1116,T Rowe Price,Investment Services
+336,1121,Celanese,Diversified Chemicals
+337,1125,HCP,Real Estate
+338,1129,Phoenix Group Holdings,Life & Health Insurance
+339,1131,Alaska Air Group,Airline
+340,1133,Apache,Oil & Gas Operations
+341,1139,Wm Morrison Supermarkets,Food Retail
+342,1147,Intuitive Surgical,Medical Equipment & Supplies
+343,1152,Ball,Containers & Packaging
+344,1158,Brown-Forman,Beverages
+345,1161,SVB Financial Group,Regional Banks
+346,1162,Genworth Financial,Diversified Insurance
+347,1163,Cerner,Healthcare Services
+348,1164,Foot Locker,Apparel/Footwear Retail
+349,1166,Interactive Brokers Group,Investment Services
+350,1167,Monster Beverage,Beverages
+351,1168,Dover,Conglomerates
+352,1176,Advance Auto Parts,Specialty Stores
+353,1178,Paychex,Business & Personal Services
+354,1179,Rockwell Collins,Aerospace & Defense
+355,1183,American Water Works,Diversified Utilities
+356,1184,Motorola Solutions,Communications Equipment
+357,1185,United Rentals,Rental & Leasing
+358,1187,Harley-Davidson,Recreational Products
+359,1188,Hess,Oil & Gas Operations
+360,1197,Pentair,Other Industrial Equipment
+361,1203,Xerox,Business Products & Supplies
+362,1204,Tenet Healthcare,Healthcare Services
+363,1205,SCANA,Electric Utilities
+364,1211,Smith & Nephew,Medical Equipment & Supplies
+365,1214,PVH,Apparel/Accessories
+366,1216,Avnet,Electronics
+367,1218,NRG Energy,Electric Utilities
+368,1221,New York Community,Thrifts & Mortgage Finance
+369,1227,CA,Software & Programming
+370,1231,Mosaic,Specialized Chemicals
+371,1235,Alexion Pharmaceuticals,Biotechs
+372,1238,Manpower,Business & Personal Services
+373,1241,Masco,Construction Materials
+374,1242,Torchmark,Life & Health Insurance
+375,1245,RSA Insurance Group,Property & Casualty Insurance
+376,1247,KLA-Tencor,Semiconductors
+377,1265,Darden Restaurants,Restaurants
+378,1272,CIT Group,Consumer Financial Services
+379,1275,Bed Bath & Beyond,Specialty Stores
+380,1277,Marathon Oil,Oil & Gas Operations
+381,1278,East West Bancorp,Regional Banks
+382,1284,PulteGroup,Construction Services
+383,1285,Signature Bank,Regional Banks
+384,1288,AutoNation,Specialty Stores
+385,1293,LKQ,Auto & Truck Parts
+386,1294,Equity Residential,Real Estate
+387,1298,Edwards Lifesciences,Medical Equipment & Supplies
+388,1300,Bunzl,Business & Personal Services
+389,1305,Marks & Spencer,Department Stores
+390,1306,Pioneer Natural Resources,Oil & Gas Operations
+391,1312,Nordstrom,Department Stores
+392,1314,GKN,Auto & Truck Parts
+393,1318,Vedanta Resources,Diversified Metals & Mining
+394,1327,Illumina,Biotechs
+395,1330,Alcoa,Aluminum
+396,1334,Juniper Networks,Communications Equipment
+397,1335,United Utilities,Diversified Utilities
+398,1339,Wyndham Worldwide,Hotels & Motels
+399,1342,JetBlue Airways,Airline
+400,1343,Agilent Technologies,Electronics
+401,1354,CR Bard,Medical Equipment & Supplies
+402,1357,Frontier Communications,Telecommunications services
+403,1359,Crown Holdings,Containers & Packaging
+404,1363,Johnson Matthey,Diversified Chemicals
+405,1364,UGI,Natural Gas Utilities
+406,1366,JB Hunt Transport,Trucking
+407,1368,Next,Apparel/Footwear Retail
+408,1371,Xilinx,Semiconductors
+409,1375,Mead Johnson Nutrition,Household/Personal Care
+410,1385,Fluor,Construction Services
+411,1389,Noble Energy,Oil & Gas Operations
+412,1397,Old Republic International,Property & Casualty Insurance
+413,1401,Tractor Supply,Specialty Stores
+414,1410,Expeditors International,Air Courier
+415,1415,Pinnacle West,Electric Utilities
+416,1419,Verisk Analytics,Business & Personal Services
+417,1420,Sealed Air,Containers & Packaging
+418,1422,British Land,Real Estate
+419,1426,Equifax,Business & Personal Services
+420,1429,Rite Aid,Drug Retail
+421,1440,Coach,Apparel/Accessories
+422,1450,Fastenal,Home Improvement Retail
+423,1452,Hanesbrands,Apparel/Accessories
+424,1453,Penske Automotive,Specialty Stores
+425,1461,Citrix Systems,Software & Programming
+426,1465,ITV,Broadcasting & Cable
+427,1480,Ingredion,Food Processing
+428,1489,Scripps Networks Interactive,Broadcasting & Cable
+429,1491,Waters,Precision Healthcare Equipment
+430,1498,Ametek,Electrical Equipment
+431,1504,Maxim Integrated Products,Semiconductors
+432,1514,News Corp,Broadcasting & Cable
+433,1519,Hertz Global Holdings,Rental & Leasing
+434,1526,Whitbread,Hotels & Motels
+435,1535,NiSource,Natural Gas Utilities
+436,1541,Continental Resources,Oil & Gas Operations
+437,1552,Ensco,Oil Services & Equipment
+438,1565,Staples,Specialty Stores
+439,1573,Church & Dwight,Household/Personal Care
+440,1583,Westlake Chemical,Diversified Chemicals
+441,1586,Concho Resources,Oil & Gas Operations
+442,1592,Avis Budget Group,Rental & Leasing
+443,1598,CNO Financial Group,Life & Health Insurance
+444,1600,World Fuel Services,Specialty Stores
+445,1605,Tech Data,Electronics
+446,1607,EasyJet,Airline
+447,1612,Alliant Energy,Electric Utilities
+448,1615,NetApp,Computer Storage Devices
+449,1620,People's United Financial,Thrifts & Mortgage Finance
+450,1637,Jabil Circuit,Electronics
+451,1638,Sears Holdings,Department Stores
+452,1639,Smiths Group,Conglomerates
+453,1644,Vertex Pharmaceuticals,Biotechs
+454,1651,BorgWarner,Auto & Truck Parts
+455,1658,SL Green Realty,Real Estate
+456,1669,American Equity Investment,Life & Health Insurance
+457,1671,Michael Kors Holdings,Apparel/Accessories
+458,1680,Moody's,Business & Personal Services
+459,1688,CST Brands,Specialty Stores
+460,1693,EQT,Oil & Gas Operations
+461,1702,Wynn Resorts,Casinos & Gaming
+462,1706,Calpine,Electric Utilities
+463,1711,Kansas City Southern,Railroads
+464,1722,Huntsman,Diversified Chemicals
+465,1733,Supervalu,Food Retail
+466,1734,NASDAQ OMX Group,Investment Services
+467,1736,Severn Trent,Diversified Utilities
+468,1737,PBF Energy,Oil & Gas Operations
+469,1746,Affiliated Managers Group,Investment Services
+470,1775,Jacobs Engineering,Construction Services
+471,1778,Mattel,Household/Personal Care
+472,1798,InterContinental Hotels,Hotels & Motels
+473,1812,VeriSign,Software & Programming
+474,1813,Antofagasta,Diversified Metals & Mining
+475,1822,Chesapeake Energy,Oil & Gas Operations
+476,1862,JC Penney,Department Stores
+477,1864,G4S,Security Systems
+478,1867,Two Harbors Investment,Real Estate
+479,1881,Burberry Group,Apparel/Accessories
+480,1894,Reliance Steel,Iron & Steel
+481,1897,Babcock International Group,Business & Personal Services
+482,1901,BOK Financial,Regional Banks
+483,1904,Microchip Technology,Semiconductors
+484,1907,Amdocs,Software & Programming
+485,1915,Murphy USA,Specialty Stores
+486,1941,US Steel,Iron & Steel
+487,1946,Thomas Cook Group,Business & Personal Services
+488,1949,Synovus Financial,Regional Banks
+489,1950,Western Union,Business & Personal Services
+490,1951,Pearson,Printing & Publishing
+491,1972,HollyFrontier,Oil & Gas Operations
+492,1990,Inchcape,Specialty Stores
+493,1998,Akamai Technologies,Computer Services

@@ -1,0 +1,19 @@
+,description,name,type
+0,R-ISR 10%,10% Honorarios por Servicios Independientes,percent
+1,C-EXENTA,ITBIS Exento en compras,percent
+2,V-ITBIS 8%,ITBIS 8% Ventas,percent
+3,C-ITBIS 8%,ITBIS 8% Compras,percent
+4,V-ITBIS 11%,ITBIS 11% Ventas,percent
+5,C-ITBIS 11%,ITBIS 11% Compras,percent
+6,V-EXENTA,ITBIS Exento en ventas,percent
+7,C-ITBIS 18%,ITBIS 18% Compras,percent
+8,CS-ITBIS 18%,ITBIS 18% Compras Servicios,percent
+9,IMP-ITBIS 18%,ITBIS 18% Compras Importaciones,percent
+10,R-ISR 2%,2% Otras Retenciones (Norma 07-2007),percent
+11,R-ITBIS 18%,18% ITBIS Retenido,percent
+12,V-ITBIS 18%,ITBIS 18% Ventas,percent
+13,C-ITBIS 18% Incluido,ITBIS 18% Compras Includo,percent
+14,CS-ITBIS 18% Incluido,ITBIS 18% Compras Servicios Incluido,percent
+15,TELE-ISC,ISC Telecomunicacones,percent
+16,TELE-CDT,CDT Telecomunicacones,percent
+17,R-Alquileres 10%,10% Retencion por alquileres,percent

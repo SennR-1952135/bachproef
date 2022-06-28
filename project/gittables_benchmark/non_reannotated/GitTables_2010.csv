@@ -1,0 +1,10 @@
+,name
+0,hr.holidays.user
+1,hr.holidays.employee
+2,hr.holidays.status employee
+3,hr.holidays.status manager
+4,hr.holidays.ramain.user
+5,resource_calendar_leaves_user
+6,calendar.event.hr.user
+7,calendar.event.type.manager
+8,calendar.attendee.hr.user

@@ -1,0 +1,149 @@
+,year,country,city
+0,2012,Spain,Hospitalet de Llobregat
+1,2011,United Kingdom,Dundee
+2,2011,United States;United States,Cambridge;Cambridge
+3,2011,China,Ningbo
+4,2011,China,Beijing
+5,2011,United States,Gainesville
+6,2011,Japan;United States,Minato;New Haven
+7,2011,United States,Palo Alto
+8,2011,United States,Columbus
+9,2011,Spain,Hospitalet de Llobregat
+10,2011,United Kingdom,Oxfordshire
+11,2011,France;France,Nice;Nantes
+12,2011,Spain,Hospitalet de Llobregat
+13,2011,China,Nanjing
+14,2011,United States,Columbus
+15,2011,United States,Chevy Chase
+16,2011,United States,Stanford
+17,2010,Spain,Barcelona
+18,2010,Spain,Hospitalet de Llobregat
+19,2010,India,Varanasi
+20,2010,United States,Philadelphia
+21,2010,United States,Chapel Hill
+22,2010,Spain,Valencia
+23,2010,United States,Los Angeles
+24,2010,Australia,Newcastle
+25,2010,Spain;Portugal,Hospitalet de Llobregat;Porto
+26,2010,United States,New Haven
+27,2010,China,Chengdu
+28,2010,United States,Columbus
+29,2010,Switzerland,Lausanne
+30,2010,Italy;Italy,Milan;Ferrara
+31,2010,Switzerland,Basel
+32,2010,United States,Minneapolis
+33,2010,United States,Stanford
+34,2010,United States,New Haven
+35,2010,United States;United States,Boston;Cambridge
+36,2010,United States,Stanford
+37,2010,United States,Baltimore
+38,2010,United States;United States;United States,San Diego;San Diego;San Diego
+39,2010,United States,Philadelphia
+40,2010,Canada;Belgium;Canada,Quebec;Ghent;Quebec
+41,2010,Israel,Rehovot
+42,2010,Germany,Bonn
+43,2010,United States,New Haven
+44,2010,Japan;Japan,Suita;Kawaguchi
+45,2010,United States,Worcester
+46,2010,United States,Chevy Chase
+47,2010,United States;United States,Cambridge;Cambridge
+48,2010,United States;United States,Cambridge;Cambridge
+49,2010,United States,Cambridge
+50,2010,United States,Columbus
+51,2010,United States,Columbus
+52,2010,Italy,Naples
+53,2010,United States,Minneapolis
+54,2010,China,Nanjing
+55,2010,Spain,Hospitalet de Llobregat
+56,2010,Canada;Canada,Vancouver;Vancouver
+57,2009,Italy,Genova
+58,2009,United States,Dallas
+59,2009,Singapore,Singapore City
+60,2009,United States,San Francisco
+61,2009,United States,Columbus
+62,2009,United States;United States,St. Louis;Minneapolis
+63,2009,United States;United States,San Francisco;San Francisco
+64,2009,United States,Piscataway
+65,2009,United States,Atlanta
+66,2009,China;,Harbin;
+67,2009,United States,Columbus
+68,2009,United States,Chicago
+69,2009,United Kingdom,Hinxton
+70,2009,Australia,Brisbane
+71,2009,Germany,Aachen
+72,2009,United States,Houston
+73,2009,United States;United States,Cambridge;Cambridge
+74,2009,Spain,Madrid
+75,2009,Australia,Brisbane
+76,2009,Canada;Canada,Quebec;Quebec
+77,2009,United Kingdom,Keele
+78,2008,Denmark,Aarhus
+79,2008,United States,Cambridge
+80,2008,Germany,Wurzburg
+81,2008,Denmark;Denmark,Copenhagen;Horsholm
+82,2008,Taiwan,Taipei
+83,2008,United States,Houston
+84,2008,United States,Albany
+85,2008,Germany,Essen
+86,2008,Italy;United States,Ferrara;Houston
+87,2008,United States,Atlanta
+88,2008,Sweden;United States,Stockholm;Jupiter
+89,2008,United States,Houston
+90,2008,Belgium;Belgium,3000 Leuven;Ghent
+91,2008,Denmark,Horsholm
+92,2008,United States,Atlanta
+93,2008,United Kingdom,Keele
+94,2008,United States,Durham
+95,2008,United States,Lexington
+96,2008,United States,Carlsbad
+97,2008,United States,Baltimore
+98,2007,United States,Columbus
+99,2007,United States,New York
+100,2007,United States,New York
+101,2007,United States,Stanford
+102,2007,United Kingdom,Cambridge
+103,2007,United States,Waltham
+104,2007,United States,Memphis
+105,2007,United States,Chevy Chase
+106,2007,United States,Chapel Hill
+107,2007,United Kingdom,Oxford
+108,2007,United States,Cambridge
+109,2007,United States;United States,San Francisco;San Francisco
+110,2007,United States,Chevy Chase
+111,2007,China,Harbin
+112,2007,United States,Chevy Chase
+113,2007,Japan,Tokushima
+114,2007,United States,Columbus
+115,2007,Germany,Halle
+116,2007,Spain,Madrid
+117,2007,United States,Philadelphia
+118,2006,United States,Richardson
+119,2006,France,Paris
+120,2006,United States,San Diego
+121,2006,Belgium,Liege
+122,2006,United States,Philadelphia
+123,2006,United States,Los Angeles
+124,2006,United States,Santa Cruz
+125,2006,United States,Cambridge
+126,2006,China,Beijing
+127,2006,United States,New Haven
+128,2006,Netherlands,Amsterdam
+129,2006,Germany,Gottingen
+130,2006,Germany,Erlangen
+131,2005,United States,New York
+132,2005,,
+133,2005,United States,Baltimore
+134,2004,United States,Cold Spring Harbor
+135,2004,United States,Santa Cruz
+136,2004,United States,Philadelphia
+137,2004,Japan,Suita
+138,2004,India;United States,Hyderabad;Columbia
+139,2003,United States,San Francisco
+140,2003,United States;United States,Amherst MA;Natick
+141,2002,United Kingdom,Southampton
+142,2002,United States,Philadelphia
+143,2002,France,Toulouse
+144,2002,Taiwan,Kaohsiung
+145,2001,,
+146,1997,United States,Amherst MA
+147,1996,France,Toulouse

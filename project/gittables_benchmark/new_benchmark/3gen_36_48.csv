@@ -1,0 +1,184 @@
+,year,country,city
+0,2007,Italy;Sweden,Milan;Stockholm
+1,2007,United States;United States;United States,"Washington, D.C.;;Richmond"
+2,2007,United States,Bethesda
+3,2007,Netherlands,Utrecht
+4,2007,United Kingdom,Cardiff
+5,2007,United States,Bethesda
+6,2007,United States;United States,Deerfield;Indianapolis
+7,2007,Italy,Turin
+8,2007,United States,Houston
+9,2007,United Kingdom,Cardiff
+10,2007,United States;United States,Belmont;Boston
+11,2007,Brazil;Brazil,Porto Alegre;Porto Alegre
+12,2007,United States;United States,New York;New York
+13,2007,United States;Japan,San Diego;Takatsuki
+14,2007,France;Australia;Australia,Paris;Sydney;Sydney
+15,2007,United States,New York
+16,2007,Japan,Okayama
+17,2007,Japan,Fukuoka
+18,2007,Germany,Mannheim
+19,2007,United Kingdom,London
+20,2007,United Kingdom,Belfast
+21,2007,Greece,Larisa
+22,2007,France,
+23,2007,Finland;Finland,Helsinki;Helsinki
+24,2007,Finland,Helsinki
+25,2007,United States,Chicago
+26,2007,United States,Seattle
+27,2007,Sweden;Sweden,Stockholm;Uppsala
+28,2007,Germany,Gottingen
+29,2007,Iran,Tehran
+30,2007,France;France;France,Creteil;Creteil;Creteil
+31,2007,United Kingdom,Hull
+32,2007,Germany;Germany,Berlin;Berlin
+33,2007,United States,Baltimore
+34,2007,Germany,Wurzburg
+35,2007,United States;China;China,New York;Shanghai;Shanghai
+36,2007,United States;United States,Baltimore;Bethesda
+37,2007,Israel,Petah Tiqwa
+38,2006,Spain,Santander
+39,2006,Japan,Tokyo
+40,2006,Spain;Spain,Madrid;Madrid
+41,2006,United States;United States,Pittsburgh;Pittsburgh
+42,2006,Germany,Munich
+43,2006,United Kingdom,Edinburgh
+44,2006,Germany,Gottingen
+45,2006,United States,Philadelphia
+46,2006,Taiwan,Hualien
+47,2006,Taiwan,Zhunan
+48,2006,United States,San Antonio
+49,2006,United States;United States,New York;Bethesda
+50,2006,United Kingdom,Oxford
+51,2006,United States,Bethesda
+52,2006,United States,Worcester
+53,2006,United States;United States,Augusta;Baltimore
+54,2006,United Kingdom,Edinburgh
+55,2006,United States,Philadelphia
+56,2006,China;China,Shanghai;Shanghai
+57,2006,Japan,Kagoshima
+58,2006,Taiwan,Taipei
+59,2006,United States,Chapel Hill
+60,2006,China;China,Shanghai;Shanghai
+61,2006,Italy,Brescia
+62,2006,Switzerland,Basel
+63,2006,United States,Bethesda
+64,2006,United States;United States;United States,New York;New York;New York
+65,2006,Germany,Munich
+66,2006,United Kingdom,Cardiff
+67,2006,Japan;United States,Tokyo;Baltimore
+68,2006,United States,Bethesda
+69,2006,United States,New York
+70,2006,United Kingdom,Cardiff
+71,2005,United States;United States,Boston;Cambridge
+72,2005,Japan;United States,Otsu;Baltimore
+73,2005,Japan,Tokyo
+74,2005,United States,Los Angeles
+75,2005,United States,Baltimore
+76,2005,Taiwan,Taichung
+77,2005,United States;Israel,Stanford;Ramal Aviv
+78,2005,United States,Los Angeles
+79,2005,United States,New York
+80,2005,United Kingdom,Aberdeen
+81,2005,Spain,Barcelona
+82,2005,United States,Iowa City
+83,2005,Australia;Germany,Perth;Bonn
+84,2005,France;France,Paris;Paris
+85,2005,United Kingdom,Oxford
+86,2005,Japan,Wako
+87,2005,United States,Bethesda
+88,2005,United States,Buffalo
+89,2005,United Kingdom,Cardiff
+90,2005,Denmark,Aarhus
+91,2005,United Kingdom,London
+92,2005,United States,Baltimore
+93,2005,United States,Evanston
+94,2005,Slovenia,Ljubljana Polje
+95,2005,United States,San Diego
+96,2005,Israel;Israel,Jerusalem;Jerusalem
+97,2005,Brazil,Sao Paulo
+98,2005,Canada,London
+99,2005,United Kingdom,London
+100,2005,Brazil,Sao Paulo
+101,2005,Australia,Brisbane
+102,2005,Taiwan;Taiwan,Taichung;Taichung
+103,2005,China;China,Suzhou;Shanghai
+104,2005,Israel,Haifa
+105,2005,France,Neuilly-sur-Seine
+106,2005,United Kingdom,Belfast
+107,2005,Finland;Germany,Helsinki;Helsinki
+108,2005,United Kingdom;United Kingdom,Oxford;Oxford
+109,2004,United States,New York
+110,2004,United Kingdom,Harlow
+111,2004,Finland;Finland,Abo;Turku
+112,2004,Japan,Tsukuba
+113,2004,Japan;Japan,Nagoya;Toyoake
+114,2004,Japan,Kodaira
+115,2004,United Kingdom;United Kingdom,Edinburgh;Edinburgh
+116,2004,Canada,Montreal
+117,2004,Japan,Fukuoka
+118,2004,Israel,Tel Aviv-Yafo
+119,2004,Italy,Brescia
+120,2004,United States,Bethesda
+121,2004,United Kingdom,Cardiff
+122,2004,Japan,Okayama
+123,2004,United Kingdom,Edinburgh
+124,2004,France;France,Paris;Colombes
+125,2004,United Kingdom,Cardiff
+126,2004,United States,Stanford
+127,2004,Israel;Israel,Jerusalem;Jerusalem
+128,2004,United States;United States,New York;New York
+129,2004,United Kingdom,Cardiff
+130,2004,Germany;Germany,Gunzburg;Ulm
+131,2004,United States,Kenilworth
+132,2004,United States,Boston
+133,2004,United Kingdom;United Kingdom,Harlow;Hoddesdon
+134,2003,United States,Chapel Hill
+135,2003,United States;United States,Boston;Boston
+136,2003,United States,New York
+137,2003,United Kingdom,London
+138,2003,United States,Bethesda
+139,2003,Germany,Berlin
+140,2003,United States,Kenilworth
+141,2003,United States;United States,Los Angeles;San Antonio
+142,2003,Japan,Otsu
+143,2003,Singapore,Singapore City
+144,2003,Japan,Kawasaki
+145,2003,Japan,Fukuoka
+146,2002,Germany,Lübeck
+147,2002,Brazil,Rio de Janeiro
+148,2002,United States;China,New Haven;Beijing
+149,2002,Germany,Bonn
+150,2002,United States;United States,New York;New York
+151,2002,Italy;United States;Chile;United States;United States;United Kingdom,Milan;New York;Santiago;San Francisco;New York;Oxford
+152,2002,United States,Chicago
+153,2002,United States;United States,Richmond;Richmond
+154,2001,Switzerland,Basel
+155,2001,Israel,Beer Sheba
+156,2001,United States,Bethesda
+157,2001,United States,Pittsburgh
+158,2001,France;France,Colombes;Colombes
+159,2001,Japan,Shimotsuga District
+160,2000,United States,Baltimore
+161,2000,Canada,Toronto
+162,2000,United States,San Diego
+163,2000,Germany,Munich
+164,1999,Sweden,Stockholm
+165,1999,United States;Brazil,Baltimore;Rio de Janeiro
+166,1999,United Kingdom;United Kingdom,Aberdeen;Aberdeen
+167,1999,United Kingdom,Oxford
+168,1999,Canada,Toronto
+169,1999,United States,Bethesda
+170,1999,Japan,Tsukuba
+171,1998,Japan,Hamamatsu
+172,1998,Germany,Wurzburg
+173,1998,United States,Bethesda
+174,1997,Japan,Tsukuba
+175,1996,United States,Richmond
+176,1995,United States,Irvine
+177,1994,France,Paris
+178,1994,United States;United States,New Haven;
+179,1989,Germany,Wiesloch
+180,1987,France,Paris
+181,1967,,
+182,1964,United States,Midland

@@ -1,0 +1,37 @@
+,name,type,description
+0,addedlines,long,"Number of lines added in this file by this commit (only in this file, not the whole commit)."
+1,author_bot,boolean,True if the given author is identified as a bot.
+2,author_domain,keyword,Domain associated to the author in SortingHat profile.
+3,author_id,keyword,Author Id from SortingHat.
+4,author_name,keyword,Author name.
+5,author_org_name,keyword,Organization name.
+6,author_user_name,keyword,Author user name.
+7,author_uuid,keyword,Author UUID from SortingHat.
+8,committer,keyword,Committer name as it appears in commit (including e-mail).
+9,committer_date,date,Date when committer made this commit.
+10,date,date,Author date (when the original author made the commit).
+11,eventtype,keyword,COMMIT.
+12,file_dir_name,keyword,"Path in which the file is located, not including file name."
+13,file_ext,keyword,File extension.
+14,file_name,keyword,File name with extension.
+15,file_path_list,keyword,List of split path parts.
+16,fileaction,keyword,Action performed by the commit over the file.
+17,filepath,keyword,Complete file path.
+18,files,long,Number of files touched by the same commit this file is included in.
+19,filetype,keyword,"Code or Other, based on file extension."
+20,git_author_domain,keyword,"Domain extracted from author email included within the commit, if any."
+21,grimoire_creation_date,date,Author date (when the original author made the commit).
+22,hash,keyword,Commit hash.
+23,id,keyword,Commit hash.
+24,message,text,Commit message split by terms.
+25,message.keyword,keyword,Commit message as a single String.
+26,metadata__enriched_on,date,Date when the item was enriched.
+27,metadata__timestamp,date,Date when the item was stored in RAW index.
+28,metadata__updated_on,date,Date when the item was updated in its original data source.
+29,owner,keyword,Owner (code author) name as it appears in commit (including e-mail).
+30,perceval_uuid,keyword,Perceval UUID.
+31,project,keyword,Project.
+32,project_1,keyword,Project (if more than one level is allowed in project hierarchy).
+33,removedlines,long,"Number of lines removed in this file by this commit (only in this file, not the whole commit)."
+34,repository,keyword,Repository name.
+35,uuid,keyword,Item unique identifier. Same as '_id'

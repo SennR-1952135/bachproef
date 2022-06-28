@@ -1,0 +1,93 @@
+,year,country,city
+0,2016,China,Xuzhou
+1,2016,China,Shenzhen
+2,2015,China,Shenzhen
+3,2015,Japan,Toyama
+4,2015,Chile,Valdivia
+5,2014,United States,Boston
+6,2014,China,Dalian
+7,2014,Netherlands,Utrecht
+8,2014,China,Shanghai
+9,2014,China,Jingdezhen
+10,2013,Greece,Athens
+11,2013,United States,Bloomington
+12,2013,United Kingdom,London
+13,2013,Hong Kong;Hong Kong,;Pokfulam
+14,2013,Taiwan,Taipei
+15,2013,China;United States,Beijing;San Diego
+16,2013,Switzerland,Zurich
+17,2012,Hong Kong;China,Hong Kong;Guangzhou
+18,2012,Italy,Monterotondo Scao
+19,2012,United States,Ann Arbor
+20,2012,United States,Hanover
+21,2012,China,Shanghai
+22,2012,United States,Tuskegee
+23,2011,Australia,Geelong
+24,2011,Germany,Gottingen
+25,2011,Singapore,Singapore City
+26,2011,United States,Houston
+27,2011,United Kingdom,London
+28,2011,Pakistan,Islamabad
+29,2011,China,Shanghai
+30,2010,China;China,Shanghai;Shanghai
+31,2010,Finland;Finland,Helsinki;Helsinki
+32,2010,Netherlands,Wageningen
+33,2010,United States,San Diego
+34,2010,Germany,Munster
+35,2009,United States,Birmingham
+36,2009,United States,San Diego
+37,2009,China;Germany,Xi'an;Munster
+38,2009,United States,West Lafayette
+39,2009,United States,West Lafayette
+40,2009,Israel,Tel Aviv-Yafo
+41,2009,United Kingdom,Cambridge
+42,2009,China,Shanghai
+43,2008,Finland,Helsinki
+44,2008,Japan,Nagoya
+45,2008,United States,Cambridge
+46,2008,Spain;Spain,Valencia;Valencia
+47,2008,United Kingdom,London
+48,2008,United States,Los Angeles
+49,2008,United States,San Diego CA
+50,2007,United Kingdom,London
+51,2007,United States,Buffalo
+52,2007,United States,Minneapolis
+53,2007,Italy,Padua
+54,2006,Singapore,Singapore City
+55,2006,United States,San Diego CA
+56,2006,Sweden,Umea
+57,2006,Japan,Ikoma
+58,2006,United States,San Francisco
+59,2006,Germany,Neuherberg
+60,2005,United States,Provo
+61,2005,United States,Princeton
+62,2005,United States,Raleigh
+63,2005,Japan,Nagoya
+64,2005,Spain,Valencia
+65,2004,Germany,Neuherberg
+66,2004,United States,San Francisco
+67,2004,United Kingdom,London
+68,2004,Japan,Wako
+69,2004,United States,Palo Alto
+70,2004,Ireland,Dublin
+71,2004,Israel,Tel Aviv-Yafo
+72,2004,United States,Chevy Chase
+73,2004,Israel,Tel Aviv-Yafo
+74,2004,United States,Los Angeles
+75,2003,United States,Newark
+76,2003,United States,Los Angeles
+77,2003,United States,Boston
+78,2003,Germany,Berlin
+79,2003,United States,Houston
+80,2002,Canada,Vancouver
+81,2001,United States,Kalamazoo
+82,2001,Japan;Japan,Tokyo;Tokyo
+83,2001,France,Toulouse
+84,2000,United States;United States,Seattle;Seattle
+85,2000,United Kingdom,Manchester
+86,2000,United Kingdom,Cambridge
+87,1997,United States,Bethesda
+88,1995,United States,Berkeley
+89,1994,Japan,Kumamoto
+90,1993,France,Bordeaux
+91,1990,United States,Bethesda

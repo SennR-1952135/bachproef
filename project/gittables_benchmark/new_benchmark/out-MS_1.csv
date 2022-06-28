@@ -1,0 +1,428 @@
+,city,state,name,address
+0,Ashland,MS,Websters,not_available
+1,Batesville,MS,Walmart Supercenter,205 House Carlson Dr
+2,Batesville,MS,Kroger,110 Keating Rd
+3,Batesville,MS,Piggly Wiggly,122 US-51
+4,Batesville,MS,Save-A-Lot,220 Hwy 6 W
+5,Batesville,MS,Save A Lot,220 Highway 6 W
+6,Batesville,MS,Piggly Wiggly,hwy 6
+7,Blue Mountain,MS,Food Giant,not_available
+8,Blue Mountain,MS,Walmart,822 City Ave S
+9,Byhalia,MS,Piggly Wiggly,19 Fuller St
+10,Byhalia,MS,Piggly Wiggly,not_available
+11,Clarksdale,MS,Walmart Supercenter,1000 S State St
+12,Clarksdale,MS,Save A Lot,535 E 2nd St
+13,Clarksdale,MS,Hooker Grocery,316 John Lee Hooker Ln
+14,Clarksdale,MS,Macau 88 Quic Pic,1541 Cheyenne St
+15,Clarksdale,MS,Save-A-Lot,535 E Second St
+16,Clarksdale,MS,Eighth Street Grocery,not_available
+17,Coldwater,MS,Walmart Supercenter,5219 Highway 51 N
+18,Dundee,MS,Hays,Midland Heights
+19,Falkner,MS,Shopezy,Hwy 15
+20,Hernando,MS,Kroger,2380 Mount Pleasant Rd
+21,Hernando,MS,Walmart Supercenter,2600 Mcingvale Rd
+22,Hernando,MS,WIC Center,1939 Oak Tree Cv
+23,Hernando,MS,Walmart Grocery Pickup,2600 McIngvale Rd
+24,Holly Springs,MS,Walmart Supercenter,950 Mackie Dr
+25,Holly Springs,MS,Save-A-Lot,Hwy 7 South
+26,Holly Springs,MS,Save A Lot,not_available
+27,Horn Lake,MS,Walmart Supercenter,4150 Goodman Road West
+28,Horn Lake,MS,Walmart Neighborhood Market,2401 Goodman Rd W
+29,Horn Lake,MS,Kroger,7251 Interstate Dr
+30,Horn Lake,MS,Kroger,3926 Goodman Rd W
+31,Horn Lake,MS,"Super Mercado ""El Sol""",2510 Goodman Rd W
+32,Horn Lake,MS,Fortuna Supermercado,7058 Highway 51 N
+33,Marks,MS,Lexico,215 Pecan St
+34,New Albany,MS,Walmart Supercenter,202 Park Plaza Dr
+35,New Albany,MS,Reed's Market,300 W Bankhead St
+36,New Albany,MS,The Vintage Market,127 W Bankhead St Apt A
+37,New Albany,MS,Piggly Wiggly,500-682 W Bankhead St
+38,New Albany,MS,Stokes,400-408 Mississippi 15
+39,Olive Branch,MS,Kroger,7427 Goodman Rd
+40,Olive Branch,MS,Walmart Supercenter,7950 Craft Goodman Frontage Rd
+41,Olive Branch,MS,ALDI,6626 Goodman Rd
+42,Olive Branch,MS,Super Suppers,5960 Getwell Rd
+43,Olive Branch,MS,Kroger Grocery Pickup and Delivery,3095 Goodman Rd E
+44,Olive Branch,MS,Michael's Discount Grocery,not_available
+45,Oxford,MS,Walmart Supercenter,2530 Jackson Ave W
+46,Oxford,MS,Kroger,2013 University Ave
+47,Oxford,MS,3-Way Grocery & Deli,1500 Old Highway 7 N
+48,Oxford,MS,Larson's Big Star/Cash Saver,1936 University Ave
+49,Oxford,MS,Bargain Basket,not_available
+50,Senatobia,MS,Kaye's Food,150 Norfleet Dr
+51,Southaven,MS,Walmart Supercenter,6811 Southcrest Pkwy
+52,Southaven,MS,Superlo Foods,not_available
+53,Southaven,MS,Kroger,465 Stateline Rd W
+54,Southaven,MS,ALDI,7051 Sleepy Hollow Dr
+55,Southaven,MS,Sunbeam Bakery Store,821 Stateline Rd E
+56,Southaven,MS,Super Mercado El Rey,8565 US-51
+57,Southaven,MS,Spice Market Of India,1215 Main Street
+58,Southaven,MS,WIC Food Center,8791 Northwest Dr
+59,Tunica,MS,Piggly Wiggly,1084 Highway 61
+60,Tunica,MS,Jeffcoats Grocery,not_available
+61,Tunica,MS,Piggly Wiggly,PO Box 336
+62,Greenville,MS,Walmart Supercenter,1831 Highway 1 S
+63,Greenville,MS,Kroger,1778 Highway 1 S
+64,Greenville,MS,Bings country market,not_available
+65,Greenville,MS,Supervalu Foods,W Reed Rd.
+66,Greenville,MS,Delta Vapors,1422 S Main St
+67,Anguilla,MS,Stop & Shop,not_available
+68,Cleveland,MS,Walmart Supercenter,710 N Davis Ave
+69,Cleveland,MS,Kroger,602 N Davis Ave
+70,Cleveland,MS,Vowell's Marketplace,207 N Davis Ave
+71,Cleveland,MS,Save-A-Lot,403 South St
+72,Indianola,MS,Walmart Supercenter,633 Highway 82 W
+73,Indianola,MS,Sunflower Food Store,not_available
+74,Isola,MS,SuperValu Foods,1st St
+75,Rosedale,MS,Piggly Wiggly,not_available
+76,Tupelo,MS,Walmart Supercenter,2270 W Main St
+77,Tupelo,MS,Kroger,960 W Main St
+78,Tupelo,MS,Walmart Neighborhood Market,316 S Gloster Street
+79,Tupelo,MS,Check Out Counter,not_available
+80,Tupelo,MS,Todd's Big Star,W. Main St
+81,Tupelo,MS,Kroger-Barnes Crossing,not_available
+82,Tupelo,MS,Better Buy,not_available
+83,Tupelo,MS,Palmer's,not_available
+84,Tupelo,MS,Walmart Supercenter,3929 N Gloster St
+85,Tupelo,MS,Kroger,930 Barnes Crossing Rd
+86,Tupelo,MS,ALDI,3990 N Gloster St
+87,Tupelo,MS,Save-A-Lot,119 City Market Dr
+88,Amory,MS,Walmart Supercenter,1515 Highway 278 E
+89,Amory,MS,Piggly Wiggly,105 Highway 6 N
+90,Amory,MS,Piggly Wiggly,not_available
+91,Baldwyn,MS,Food Giant,218 Hwy 145
+92,Belden,MS,Wild Bills At Sherman,not_available
+93,Booneville,MS,Walmart Supercenter,300 Walmart Cir
+94,Booneville,MS,Piggly Wiggly,not_available
+95,Booneville,MS,Save-A-Lot,212 Walmart Cir
+96,Burnsville,MS,Dollar Wise Discount Grocery,not_available
+97,Corinth,MS,Walmart Supercenter,2301 S Harper Rd
+98,Corinth,MS,Kroger,104 Highway 72 W
+99,Corinth,MS,Gardner's Supermarket,1802 Highway 72 E
+100,Corinth,MS,ALDI,1825 S Harper Rd
+101,Corinth,MS,Roger's Supermarket,410 Cass Street
+102,Corinth,MS,Rogers,not_available
+103,Fulton,MS,Walmart Supercenter,100 Interchange Dr
+104,Fulton,MS,Dorsey Food Mart,3130 Hwy 178 Wes
+105,Fulton,MS,Food Giant,1401 S Adams St
+106,Fulton,MS,Walmart Neighborhood Market,2795 Hwy 371 S
+107,Houston,MS,Walmart,660 E Madison St
+108,Houston,MS,Save A Lot,945 E Madison St
+109,Houston,MS,Grocer's Pride,not_available
+110,Iuka,MS,Walmart,1110 Battleground Dr
+111,Nettleton,MS,Piggly Wiggly,7195 Will Robbins Hwy
+112,Okolona,MS,Todd's Okolona Food Center,not_available
+113,Pontotoc,MS,Walmart Supercenter,100 Mccord Rd
+114,Pontotoc,MS,Piggly Wiggly,W. Oxford St
+115,Pontotoc,MS,Save A Lot,168 Highway 15 N
+116,Pontotoc,MS,Walmart Grocery Pickup,100 McCord Rd
+117,Pontotoc,MS,Save-A-Lot,168 Hwy 15 N
+118,Rienzi,MS,Benjamin Grocery And Hay,289 Highway 45
+119,Rienzi,MS,Suitor's Meat Company,95 County Road 516
+120,Grenada,MS,Walmart Supercenter,1655 Sunset Dr
+121,Grenada,MS,Spain's,318 2nd St
+122,Grenada,MS,Grocery Basket,1770 Commerce St
+123,Grenada,MS,B Grocery,32320-32336 State Hig. 8
+124,Grenada,MS,Discount Grocery,not_available
+125,Grenada,MS,Save-A-Lot,1234 Sunset Dr
+126,Bruce,MS,Dollar General,727 MS-9
+127,Calhoun City,MS,Piggly Wiggly,595 East Veterans Avenue
+128,Charleston,MS,Family Dollar,310 W Main St
+129,Coffeeville,MS,The Grocery List,not_available
+130,Greenwood,MS,Walmart Supercenter,2202 Highway 82 W
+131,Greenwood,MS,Market Place,410 W Park Ave
+132,Greenwood,MS,Big Star,206 Cotton St
+133,Greenwood,MS,Save-A-Lot,719 W Park Ave
+134,Greenwood,MS,Freds grocery Store,not_available
+135,Greenwood,MS,Big Star,2606 Highway 82 E
+136,Greenwood,MS,Big Lots,701 W Park Ave
+137,Water Valley,MS,Larson Cash Saver,not_available
+138,Winona,MS,Supervalu Foods,not_available
+139,Bentonia,MS,Poli Supermarkt,Marconi Strasse
+140,Bentonia,MS,Rameys Grocery Store,130 Edwards Cir
+141,Brandon,MS,Kroger,1811 W Government St
+142,Brandon,MS,Walmart Supercenter,5520 Highway 80 E
+143,Brandon,MS,Walmart Supercenter,5341 Highway 25
+144,Brandon,MS,Kroger,143 Fresh and Friendly Drive
+145,Brandon,MS,King's Corner Grocery,200 Applewood Ln
+146,Brandon,MS,Piggly Wiggly,not_available
+147,Brandon,MS,Piggly Wiggly - Brandon,1574 West Government Street
+148,Brandon,MS,Cash Saver,not_available
+149,Braxton,MS,Vowell's Market Place,not_available
+150,Canton,MS,Kroger,115 Colony Crossing Way
+151,Canton,MS,Walmart Supercenter,244 Feather Lane
+152,Canton,MS,Piggly Wiggly,1150 East Peace St
+153,Canton,MS,Save-A-Lot,1050 E Peace St
+154,Canton,MS,Piggly Wiggly - Canton,110 East Academy Street
+155,Brandon,MS,Kroger,1070 Spillway Cir
+156,Brandon,MS,Kroger,1070 Highway 51
+157,Brandon,MS,Kroger,7045 Old Canton Rd
+158,Brandon,MS,Kroger,110 Promenade Blvd
+159,Brandon,MS,We Go Shop  Mississippi,750 Avignon Drive Ste.5
+160,Brandon,MS,Saigon Asian Market,115 Village Sq
+161,Carthage,MS,Walmart Supercenter,905 Highway 16 W
+162,Carthage,MS,Piggly Wiggly,not_available
+163,Carthage,MS,Bryan's Grocery (Doolittle),2707 Mississippi 488
+164,Clinton,MS,Walmart Supercenter,950 Highway 80 E
+165,Clinton,MS,Kroger,107 Highway 80 E
+166,Clinton,MS,Walmart Supercenter,2711 Greenway Dr
+167,Clinton,MS,Corner Market,Northside Dr
+168,Clinton,MS,Frank's Produce,6031 Clinton Blvd
+169,Clinton,MS,Grocery Depot,Northside Drive
+170,Conehatta,MS,Piggly Wiggly,16851 Hwy 21 South
+171,Crystal Springs,MS,Ramey's Grocery Store,509 W Marion Ave
+172,Crystal Springs,MS,Save-A-Lot,160 Trade Center Lane
+173,Crystal Springs,MS,Piggly Wiggly,not_available
+174,Crystal Springs,MS,Kib's Super Market,E. Georgetown Street
+175,Crystal Springs,MS,Piggly Wiggly,28064 Highway 28
+176,Crystal Springs,MS,Walmart Supercenter,527 Lake St
+177,Durant,MS,Ingels,Emory Rd
+178,Ethel,MS,Walmart Supercenter,220 Veterans Memorial Dr
+179,Ethel,MS,Sunflower,not_available
+180,Florence,MS,Monterey Grocery,1324 Monterey Rd
+181,Florence,MS,Kroger,1167 Highway 49 S
+182,Florence,MS,IGA/Ramey's,not_available
+183,Florence,MS,Bridges Quickie No. 1,1451 Highway 469 S
+184,Forest,MS,Walmart Supercenter,1309 Highway 35 S
+185,Goodman,MS,Piggly Wiggly - Pickens,"740 Highway 51,Highway 51"
+186,Lorman,MS,mac's fresh grocery,not_available
+187,Lorman,MS,Piggly Wiggly,not_available
+188,Mc Cool,MS,Sunflower,Inv 580
+189,Madison,MS,Walmart Supercenter,127 Grandview Blvd
+190,Madison,MS,The Fresh Market,"1000 Highland Colony Pkwy, Ste 1001"
+191,Magee,MS,Walmart Supercenter,1625 Simpson Hwy #49
+192,Magee,MS,Piggly Wiggly,339 Simpson Highway 149
+193,Magee,MS,Walmart Grocery Pickup,1625 Simpson Hwy 49
+194,Mount Olive,MS,Collins Asian Mart,3623 Highway 49 Ste 70
+195,Natchez,MS,Walmart Supercenter,314 Sgt. S. Prentiss
+196,Natchez,MS,Walmart Supercenter,4283 Carter St
+197,Natchez,MS,Natchez Market,61 North
+198,Natchez,MS,Natchez Market,not_available
+199,Natchez,MS,Vidalia Market,not_available
+200,Natchez,MS,Super Market Operations,116 Lower Woodville Rd
+201,Natchez,MS,Southside Market,31 Sgt. S Prentiss Dr.
+202,Raleigh,MS,"Sullivan's Grocery Raleigh, MS",263 Magnolia Dr
+203,Raymond,MS,Sunflower,122 Port Gibson St
+204,Ridgeland,MS,Walmart Supercenter,815 S Wheatley St
+205,Ridgeland,MS,Mac's Fresh Market,398 Highway 51
+206,Taylorsville,MS,Piggy Wiggly,not_available
+207,Taylorsville,MS,Grocery Depot,hwy 37
+208,Taylorsville,MS,Piggly Wiggly,221 Welcome Street
+209,Terry,MS,Walmart Supercenter,131 Handley Boulevard
+210,Terry,MS,Kroger,6745 S Siwell Rd
+211,Terry,MS,Vowells Market Place,5777 Terry Rd
+212,Utica,MS,Sunflower,247 Cayuga St
+213,Vicksburg,MS,Kroger,3408 Pemberton Square Blvd
+214,Vicksburg,MS,Walmart Supercenter,2150 Iowa Blvd
+215,Vicksburg,MS,Super Junior,4300 Nailor Rd
+216,Vicksburg,MS,Piggly Wiggly,not_available
+217,Vicksburg,MS,Exito Express,Cr 13 Calle 37
+218,Vicksburg,MS,Super Junior,1095 Oak Ridge Road
+219,Yazoo City,MS,Save-A-Lot,110 N Jerry Clower Blvd Suite F
+220,Yazoo City,MS,Save A Lot,110 N Jerry Clower Blvd Ste F
+221,Jackson,MS,Organo Gold,1756 S Gallatin St
+222,Jackson,MS,Save-A-Lot,2441 Bailey Ave
+223,Jackson,MS,Corner Market,not_available
+224,Jackson,MS,Star Grocery,1723 Bailey Ave
+225,Jackson,MS,Save-A-Lot,2875 W McDowell Rd
+226,Jackson,MS,Food Depot,not_available
+227,Jackson,MS,Save A Lot,2875 McDowell Road Ext
+228,Jackson,MS,Ambica Bazaar,2672 Highway 80 W
+229,Jackson,MS,Save-A-Lot,1411 Ellis Ave
+230,Jackson,MS,Save-A-Lot,835 Cooper Rd
+231,Jackson,MS,Kroger,4910 I 55 N
+232,Jackson,MS,Whole Foods Market,4500 I-55 North
+233,Jackson,MS,McDade's Market,1200 E Northside Dr
+234,Jackson,MS,Piggly Wiggly,225 Meadowbrook Rd
+235,Jackson,MS,Mr. Chen's,5465 I 55 N
+236,Jackson,MS,Oriental Supermarket And Restaurant,not_available
+237,Jackson,MS,Save-A-Lot,5465 I-55 North
+238,Pearl,MS,McDade's Market,653 Duling Ave
+239,Pearl,MS,Kroger,201 Lonnie T Jenkins Dr
+240,Pearl,MS,Walmart Supercenter,200 Marketplace Drive
+241,Pearl,MS,Aladdin Mediterranean Grocery,Lakeland Dr
+242,Pearl,MS,Save-A-Lot,3111 Highway 80 E Ste D
+243,Pearl,MS,Save-A-Lot,3111 Hwy 80 E Ste D
+244,Jackson,MS,Food Depot,NorthSide Dr
+245,Jackson,MS,Sysco Foods,not_available
+246,Jackson,MS,McDade's Market,2526 Robinson St
+247,Meridian,MS,Walmart Supercenter,2400 Highway 19 N
+248,Meridian,MS,Walmart Supercenter,1733 2nd St S
+249,Meridian,MS,Walmart Neighborhood Market,3310-a Highway 39 North
+250,Meridian,MS,Cashsaver,1700 N Frontage Rd
+251,Meridian,MS,Winn-Dixie,5100 Highway 39 N
+252,Meridian,MS,Big Lots,832 Highway 19 N Ste 580
+253,Meridian,MS,Save A Lot,832 Hwy 19 N Suite 570
+254,Meridian,MS,Walmart Grocery Pickup,3310-A Highway 39 North
+255,Meridian,MS,Meridian Fruit & Produce,2915 5th St
+256,Meridian,MS,M&B Grocery,1802 26th Ave
+257,Meridian,MS,Piggly Wiggly,9095 Collinsville Rd
+258,Meridian,MS,Meridian NAS Commissary,431 Allen Road
+259,Meridian,MS,Flowers' Discount Bakery Store,5536 Highway 19 N
+260,Buckatunna,MS,Rameys,1155-1167 Azalea Dr
+261,Buckatunna,MS,Walmart Grocery Pickup,1350 Azalea Dr
+262,Buckatunna,MS,Rameys,not_available
+263,Buckatunna,MS,Save-A-Lot,907 Herbert Mart Shpg Ctr - Highway 45
+264,Decatur,MS,Big G,39 7th Street
+265,Enterprise,MS,Piggly Wiggly,323 Erwin Rd
+266,Enterprise,MS,piggly wiggly,not_available
+267,Louisville,MS,Vowell's Market Place,403 S Church Ave
+268,Louisville,MS,Walmart Supercenter,159 Highway 15 S
+269,Newton,MS,Walmart Supercenter,231 Eastside Dr
+270,Newton,MS,Piggly Wiggly,110 Northside Plz
+271,Philadelphia,MS,Walmart Supercenter,1002 W Beacon St
+272,Philadelphia,MS,Piggly Wiggly,100 Choctaw Town Center
+273,Hattiesburg,MS,Walmart Supercenter,6072 U S Highway 98
+274,Hattiesburg,MS,Walmart Supercenter,5901 U S Highway 49
+275,Hattiesburg,MS,Corner Market,University Mall Shopping Center
+276,Hattiesburg,MS,Walmart Supercenter,36 Byrd Blvd
+277,Hattiesburg,MS,Winn-Dixie,2800 Lincoln Rd
+278,Hattiesburg,MS,Winn-Dixie,4400 Hardy St
+279,Hattiesburg,MS,Target,6143 U S Highway 98 Ste 80
+280,Hattiesburg,MS,Corner Market,116 S Main St
+281,Hattiesburg,MS,Corner Market,5266 Old Highway 11
+282,Hattiesburg,MS,Sunflower,1900 Hardy St
+283,Hattiesburg,MS,Suenos Tienda Mexicana,300 E Central Ave
+284,Hattiesburg,MS,Del's Grocery,2107 Oak Grove Rd
+285,Hattiesburg,MS,Big Star,810 James St
+286,Hattiesburg,MS,Eastabuchie Store,not_available
+287,Hattiesburg,MS,Side Door Cafe,not_available
+288,Hattiesburg,MS,E & B Discount Grocery,5395 Old Highway 42
+289,Hattiesburg,MS,B&K Seafood & International Market,4600 Hardy St #15
+290,Hattiesburg,MS,Corner Market,7123 U.S. 98
+291,Bay Springs,MS,Piggly Wiggly,9 Bay Ave
+292,Brooklyn,MS,ALDI,Carnes Hill
+293,Carriere,MS,Claiborne Hill,2308 U.S. 11 N
+294,Carriere,MS,Winn-Dixie,1701 Highway 43 N
+295,Columbia,MS,Walmart Supercenter,1001 Highway 98 Byp
+296,Columbia,MS,Piggly Wiggly,not_available
+297,Columbia,MS,Save-A-Lot,924 Hwy 13 S
+298,Columbia,MS,Save A Lot,924 Highway 13 S
+299,Columbia,MS,Winn-Dixie,771 Highway 98 Byp
+300,Heidelberg,MS,Bob's Grocrey,not_available
+301,Laurel,MS,Walmart Supercenter,1621 Highway 15 N
+302,Laurel,MS,Kroger,2340 Highway 15 N
+303,Laurel,MS,Saeed Dba King Grocery,not_available
+304,Laurel,MS,Piggly Wiggly,300-398 N 15th Ave
+305,Laurel,MS,Winn-Dixie,170 Leontyne Price Blvd
+306,Laurel,MS,Grocery Depot,125 Leontyne Price Blvd
+307,Laurel,MS,Big Lots,1910 Highway 15 N
+308,Laurel,MS,Saverite,becon st
+309,Laurel,MS,David's Grocery,959 Lower Myrick Rd
+310,Leakesville,MS,Piggly Wiggly Supermarket,816 Main St
+311,Lucedale,MS,Greer's Hurley Market,7100 Hwy 614
+312,Lucedale,MS,Walmart Supercenter,11228 Old 63 S
+313,Lucedale,MS,Wayne Lees's Grocery And Market,1209 Old Hwy 63 S
+314,Lucedale,MS,Super-Sav,7000 Mississippi 614
+315,Lucedale,MS,Save-A-Lot,4278 Main St
+316,Lumberton,MS,Ramey's,not_available
+317,Lumberton,MS,"Campbell Commodities, Inc",24 Talowah Ed
+318,Lumberton,MS,Greers,1221 S Main St
+319,Picayune,MS,Walmart Supercenter,235 Frontage Rd
+320,Picayune,MS,Shoppers Value Foods,801 US-11
+321,Picayune,MS,Warehouse Discount Grocery,S. Main St.
+322,Poplarville,MS,The Savage Store Discount Grocery,not_available
+323,Poplarville,MS,Piggly Wiggly,30278 Highway 21
+324,Richton,MS,Sunflower,Front St
+325,Gulfport,MS,Walmart Neighborhood Market,1733 East Pass Road
+326,Gulfport,MS,Rouse’s Market,1444 E Pass Rd
+327,Gulfport,MS,Winn-Dixie,109 N Cleveland Ave
+328,Gulfport,MS,Save-A-Lot,1225 Pass Rd
+329,Gulfport,MS,Lucky 7 Food Mart,2821 Hewes Ave
+330,Gulfport,MS,Thai Asia Market,12100 Highway 49
+331,Gulfport,MS,costa latina,not_available
+332,Gulfport,MS,Froogel's Foods,25 Hardy Court Shopping Ctr
+333,Gulfport,MS,Walmart Neighborhood Market,11333 Highway 49
+334,Gulfport,MS,Walmart Supercenter,9350 Highway 49
+335,Gulfport,MS,Winn-Dixie,11312 Highway 49
+336,Gulfport,MS,Necos market place,Cable bridge rd
+337,Gulfport,MS,Food Giant,12057 Highway 49
+338,Bay Saint Louis,MS,Walmart Supercenter,460 Highway 90
+339,Bay Saint Louis,MS,Froogel's,not_available
+340,Diamondhead,MS,Rouses Market,4407 E Aloha Dr
+341,Biloxi,MS,Walmart Neighborhood Market,2050 Pass Road
+342,Biloxi,MS,Walmart Supercenter,2681 Ct Switzer Sr Dr
+343,Biloxi,MS,Winn-Dixie,1515 Bienville Blvd
+344,Biloxi,MS,Keesler AFB Commissary,508 Larcher Blvd
+345,Biloxi,MS,Broome's Inc,1801 Government St
+346,Biloxi,MS,Andy's Food Mart,295 Oak St
+347,Biloxi,MS,Winn-Dixie,2384 Pass Rd
+348,Biloxi,MS,Lee's Marketplace,917 Division St
+349,Biloxi,MS,Walmart Supercenter,3615 Sangani Blvd
+350,Biloxi,MS,Walmart Neighborhood Market,10290 D'iberville Rd
+351,Biloxi,MS,Walmart Neighborhood Market,1820-a Popps Ferry Rd
+352,Biloxi,MS,Winn-Dixie,10511 Diberville Blvd
+353,Biloxi,MS,Cruthirds Country Corner,10500 Daisy Vestry Rd
+354,Biloxi,MS,Big Ridge Grocery,16312 Big Oak Dr
+355,Biloxi,MS,Saigon Oriental,10090 Central Ave Ste D
+356,Biloxi,MS,Winn-Dixie,D'iberville Blvd
+357,Biloxi,MS,Walmart Grocery Pickup,1820-A Popps Ferry Rd
+358,Gautier,MS,Jerry Lees,Highway 90
+359,Long Beach,MS,Walmart Supercenter,1617 E Beach Blvd
+360,Mc Henry,MS,Big Level Grocery,not_available
+361,Moss Point,MS,Piggly Wiggly,not_available
+362,Moss Point,MS,Walmart Supercenter,4253 Denny Ave
+363,Moss Point,MS,Family Frozen Foods,5703 Telephone Rd
+364,Moss Point,MS,Save-A-Lot,3501 Denny Ave
+365,Moss Point,MS,Dollar General,17007 Highway 613
+366,Moss Point,MS,Big Lots,4201 Denny Ave
+367,Moss Point,MS,Four Seasons Produce,4224 Main St
+368,Moss Point,MS,Mary's Grocery,9216 Forts Lake Rd
+369,Moss Point,MS,Save-A-lot,denny avenue
+370,Moss Point,MS,Wayne Lee's,1317 Telephone Rd
+371,Moss Point,MS,Piggly Wiggly,7831 Hwy 613
+372,Moss Point,MS,Save A Lot,not_available
+373,Ocean Springs,MS,Walmart Supercenter,3911 Bienville Blvd
+374,Ocean Springs,MS,Walmart Neighborhood Market,6412 Washington Ave
+375,Ocean Springs,MS,Walmart Grocery Pickup,6412 Washington Avenue
+376,Ocean Springs,MS,Vaporio,4010 Bienville Blvd. Ste. C
+377,Ocean Springs,MS,Infinity & Beyond Health Food Store,914 Bechtel Blvd
+378,Vancleave,MS,Greer's Vancleave Market,11628 Highway 57
+379,Pascagoula,MS,Jerry Lee's Grocery,Sunset St.
+380,Wiggins,MS,Piggly Wiggly,530 Central Ave W
+381,Wiggins,MS,Walmart Supercenter,1053 Frontage Dr E
+382,Wiggins,MS,Campbell's Lots,not_available
+383,Brookhaven,MS,Walmart Supercenter,960 Brookway Blvd
+384,Brookhaven,MS,Sullivan's Grocery,not_available
+385,Brookhaven,MS,Piggly Wiggly - Brookhaven Hwy,"215 North,Highway 51"
+386,Brookhaven,MS,Piggly Wiggly - Brookhaven,364 West Monticello St.
+387,Brookhaven,MS,Save A Lot,840 Brookway Blvd
+388,Bude,MS,Sullivan's Grocery,40 Hwy 184 E
+389,Gloster,MS,Piggly Wiggly,169 North 1st Street
+390,Liberty,MS,Blalocks,Broken St
+391,Mccomb,MS,McComb Market,not_available
+392,Mccomb,MS,Kroger,1617 Delaware Ave
+393,Mccomb,MS,Walmart Supercenter,1608 Veterans Blvd
+394,Mccomb,MS,Sunflower,1220 Lasalle St
+395,Summit,MS,Piggly Wiggly,605 S Laurel St
+396,Tylertown,MS,Piggly Wiggly,5044 Plaza Dr
+397,Woodville,MS,Treppendahls,not_available
+398,Columbus,MS,Walmart Supercenter,1913 Highway 45 N
+399,Columbus,MS,Kroger,1829 Highway 45 N
+400,Columbus,MS,Piggly Wiggly,3610 New Hope Rd
+401,Columbus,MS,sunflower,not_available
+402,Columbus,MS,Food Giant,201 Alabama St
+403,Columbus,MS,Save-A-Lot,511 N 18th Ave
+404,Columbus,MS,Southern Family Markets,939 Alabama St
+405,Columbus,MS,Fairway Ice,802 Moss St
+406,Columbus,MS,Sunflower,225 Alabama St
+407,Columbus,MS,sunflower,not_available
+408,Columbus,MS,Steens Superette,2647 Steens Rd
+409,Columbus,MS,Columbus AFB Commissary,323 Similer Blvd
+410,Aberdeen,MS,Hamilton Market,40124 Hamilton Rd
+411,Aberdeen,MS,Food Giant,105 Highway 145 N
+412,Ackerman,MS,SuperValu,W Mabus Ave
+413,Ackerman,MS,Frugal Pantry,not_available
+414,Eupora,MS,Piggly Wiggly,not_available
+415,Kilmichael,MS,Greenlee's Shoprite,not_available
+416,Maben,MS,Piggly Wiggly,15 Horton St.
+417,Starkville,MS,Walmart Neighborhood Market,105 Market Street
+418,Starkville,MS,Walmart Supercenter,1010 Highway 12 W
+419,Starkville,MS,Kroger,826 Highway 12 W
+420,Starkville,MS,Asian Market,210B Mississippi 12
+421,Starkville,MS,Tienda Hispana La Villeta,210 Highway 12 W
+422,West Point,MS,Walmart Supercenter,5509 Highway 45 Alt S
+423,West Point,MS,Kroger,411 W Main St Ste A
+424,West Point,MS,Grocery 3,not_available
+425,West Point,MS,Sunflower Food Store,539 E Main St
+426,West Point,MS,Save A Lot,411 West Main St

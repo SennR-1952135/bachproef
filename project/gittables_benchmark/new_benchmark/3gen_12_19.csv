@@ -1,0 +1,82 @@
+,year,country,city
+0,2013,United States,Cambridge
+1,2012,United States;United States,Baltimore;
+2,2012,United States;United States,Boston;Cambridge
+3,2012,United States;United States;United States;United States,Boston;Boston;Boston;Cambridge
+4,2012,United States;United States,Boston;Cambridge
+5,2012,United States;United States,Cambridge;Boston
+6,2012,United States;United States,Cambridge;Boston
+7,2012,United States,Houston
+8,2012,Japan,Wako
+9,2012,Canada;United States;United States;United States,Winnipeg;Boston;Boston;Cambridge
+10,2012,United States,New York
+11,2012,United States;United States,New York;Cambridge
+12,2012,Singapore;Singapore,Singapore City;Singapore City
+13,2012,United States;United States,Cambridge;Cambridge
+14,2012,Germany,Wurzburg
+15,2012,United Kingdom,Hinxton
+16,2012,Netherlands;Netherlands,Rotterdam;Rotterdam
+17,2012,Japan,Wako
+18,2012,United States,Baltimore
+19,2011,United States,Baltimore
+20,2011,United States;United States;United States,Boston;Boston;Cambridge
+21,2011,Norway;Norway,Oslo;Oslo
+22,2011,United States,Cambridge
+23,2011,United States,Cambridge
+24,2011,United States,Rochester
+25,2011,United States;United States,Boston;Atlanta
+26,2011,United Kingdom;United States,Cambridge;Cambridge
+27,2011,United States;United States,New York;Cambridge
+28,2011,United Kingdom,Hinxton
+29,2011,United States,Cambridge
+30,2011,Switzerland;United Kingdom;United States;United States,"Geneva;Cambridge;Newark;Washington, D.C."
+31,2011,United States,Santa Cruz
+32,2011,United Kingdom,Hinxton
+33,2011,United Kingdom,Manchester
+34,2010,South Korea,Seoul
+35,2010,United States,Winston Salem
+36,2010,France,Gif-sur-Yvette
+37,2010,United States,Boston
+38,2010,United Kingdom,Dundee
+39,2009,United States,Boston
+40,2009,United States;United States,Cambridge;Cambridge
+41,2009,,
+42,2009,United States,Seattle
+43,2009,Israel,Rehovot
+44,2008,United Kingdom,London
+45,2008,Spain;United States,Madrid;New Haven
+46,2008,Canada,Vancouver
+47,2007,United States,New Orleans
+48,2007,United States,Philadelphia
+49,2007,United States,Pittsburgh
+50,2007,United States,Bethesda
+51,2007,Mexico,Monterrey
+52,2007,Germany,Frankfurt am Main
+53,2007,Israel,Haifa
+54,2007,Germany;Austria,Munich;Salzburg
+55,2007,United States,New York
+56,2007,United States;United States,Seattle;Seattle
+57,2006,United States;United Kingdom,Bethesda;Hinxton
+58,2006,South Korea,Youngdeungpo
+59,2006,United States,Baltimore
+60,2006,Australia;Australia,Melbourne;Parkville
+61,2006,United States,Cambridge
+62,2006,South Korea,Youngdeungpo
+63,2005,United States,Research Triangle Park
+64,2005,Spain,Madrid
+65,2005,United Kingdom,London
+66,2005,,
+67,2004,United States,Bethesda
+68,2004,China,Xi'an
+69,2004,Germany,Leipzig
+70,2003,,
+71,2003,United States,Berkeley
+72,2002,Canada,Montreal
+73,2002,United Kingdom,London
+74,2001,United States,Los Angeles
+75,2001,United States,Bethesda
+76,2000,United States,Baltimore
+77,1999,Japan;Japan,Sapporo;Tokyo
+78,1999,Netherlands,Rotterdam
+79,1998,Netherlands,Amsterdam
+80,1998,Japan,Kitakyushu

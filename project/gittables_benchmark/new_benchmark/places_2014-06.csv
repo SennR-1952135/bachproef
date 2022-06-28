@@ -1,0 +1,221 @@
+,name,duration,category
+0,Home,37109,Home
+1,Floyd's 99 Barbershop,2039,Salon / Barbershop
+2,Home,1865,Home
+3,Russell House Tavern,4494,Gastropub
+4,Broadway Marketplace,156,Grocery Store
+5,Home,6737,Home
+6,Harvard Yard,1351,College Quad
+7,Totto Ramen Boston,1818,Ramen / Noodle House
+8,Place in Allston,128,
+9,Home,330,Home
+10,Tory Row,5419,American Restaurant
+11,Home,13060,Home
+12,Home,29734,Home
+13,Starbucks,477,Coffee Shop
+14,Proximate,3776,Tech Startup
+15,Proximate,8161,Tech Startup
+16,Home,18571,Home
+17,Home,22122,Home
+18,Home,30720,Home
+19,Starbucks,265,Coffee Shop
+20,Proximate,8432,Tech Startup
+21,Home,4354,Home
+22,Proximate,6784,Tech Startup
+23,Home,1165,Home
+24,Proximate,11806,Tech Startup
+25,Home,18366,Home
+26,Home,30178,Home
+27,Broadway Marketplace,544,Grocery Store
+28,FSG Social Impact Advisors,4474,Work
+29,Cambridge Innovation Center,4866,Building
+30,Border Cafe,2359,Mexican Restaurant
+31,Maxwell Dworkin,2712,College Academic Building
+32,Proximate,18454,Tech Startup
+33,Home,15688,Home
+34,Home,34243,Home
+35,Home,2977,Home
+36,Home,1323,Home
+37,Home,24207,Home
+38,Shake Shack,569,Burger Joint
+39,Home,13114,Home
+40,Home,35020,Home
+41,Harvard Alumni Association,4999,University
+42,Proximate,7163,Tech Startup
+43,Border Cafe,3683,Mexican Restaurant
+44,Proximate,4567,Tech Startup
+45,Home,16125,Home
+46,The Boathouse,9447,Pub
+47,Home,663,Home
+48,Home,52516,Home
+49,Place in Cambridge,265,
+50,CambridgeSide Galleria,3406,Mall
+51,CambridgeSide Galleria,377,Mall
+52,CambridgeSide Galleria,202,Mall
+53,Place in East Cambridge,266,
+54,ArtBar,3345,Bar
+55,The Liberty Hotel,663,Hotel
+56,Boston Public Garden,259,Garden
+57,Max Brenner,3924,Dessert Shop
+58,Trader Joe's,1103,Grocery Store
+59,MBTA Bus Stop | Massachusetts Ave. & Newbury St.,960,Bus Station
+60,Home,11093,Home
+61,Home,42994,Home
+62,Frankel Home,18527,Home
+63,Home,20997,Home
+64,Home,75953,Home
+65,CVS/pharmacy,1280,Drugstore / Pharmacy
+66,Home,7786,Home
+67,Home,29079,Home
+68,Spangler Center,1306,Student Center
+69,CVS/pharmacy,496,Drugstore / Pharmacy
+70,Proximate,6985,Tech Startup
+71,Home,1236,Home
+72,Proximate,4927,Tech Startup
+73,Proximate,15579,Tech Startup
+74,Home,20030,Home
+75,Home,32704,Home
+76,Maxwell Dworkin,1123,College Academic Building
+77,Tory Row,6993,American Restaurant
+78,Border Cafe,2988,Mexican Restaurant
+79,Maxwell Dworkin,12228,College Academic Building
+80,Wagamama,6072,Ramen / Noodle House
+81,Home,20176,Home
+82,Home,39742,Home
+83,Proximate,539,Tech Startup
+84,Science Center Plaza,407,Plaza
+85,Proximate,13220,Tech Startup
+86,Home,307,Home
+87,City Hall Plaza,1897,Plaza
+88,Place in Dock Square,385,
+89,Home,9846,Home
+90,Place in Dock Square,1751,
+91,Place in Powelton,694,
+92,Union Station,76,Train Station
+93,Union Station,981,Train Station
+94,Laura's Home,43938,Home
+95,Whole Foods Market,1127,Grocery Store
+96,Laura's Home,9832,Home
+97,Laura's Home,58089,Home
+98,Safeway,1613,Grocery Store
+99,Laura's Home,24400,Home
+100,Laura's Home,51898,Home
+101,Place in Burleith,214,
+102,Place in Cloisters,380,
+103,Loft,654,Women's Store
+104,H&M,2871,Clothing Store
+105,Sequoia,8349,American Restaurant
+106,Whole Foods Market,267,Grocery Store
+107,Laura's Home,14898,Home
+108,Laura's Home,46929,Home
+109,Chadwicks,8489,American Restaurant
+110,Sequoia,11375,American Restaurant
+111,Place in Cookes Park,5339,
+112,Laura's Home,10759,Home
+113,Laura's Home,38701,Home
+114,"WMATA Bus Stop #1001805 (31, 32, 36)",1469,Bus Line
+115,NTN24,1006,Office
+116,Eat at National Place,1808,Food Court
+117,NTN24,15961,Office
+118,Trader Joe's,1442,Grocery Store
+119,Laura's Home,18405,Home
+120,Laura's Home,30769,Home
+121,CVS/pharmacy,1824,Drugstore / Pharmacy
+122,NTN24,5226,Office
+123,NTN24,9873,Office
+124,Union Station,738,Train Station
+125,Place in East End,1418,
+126,Place in Uptown,1623,
+127,Place in Toledo,551,
+128,Place in Elkhart,296,
+129,Place in Porter County,2107,
+130,Place in Gateway Center IV,220,
+131,Place in Indian Boundary Line (1816-1833),1215,
+132,Place in Ogilvie Transportation Center,1315,
+133,Fitzsimmons Home,1761,Home
+134,Place in Walmart,1387,
+135,Marshalls,1182,
+136,Fitzsimmons Home,26505,Home
+137,Fitzsimmons Home,27576,Home
+138,Place in Evanston,249,
+139,Place in Ryan Field,6753,
+140,Place in Westfield Old Orchard,5366,
+141,Fitzsimmons Home,3694,Home
+142,Place in Batavia,1179,
+143,Fitzsimmons Home,25612,Home
+144,Fitzsimmons Home,48085,Home
+145,Place in Geneva,241,
+146,Potbelly Sandwich Shop,1244,Sandwich Place
+147,Fitzsimmons Home,8982,Home
+148,Fogo de Chão,4458,Brazilian Restaurant
+149,Chicago O'Hare International Airport (ORD),5087,Airport
+150,John F. Kennedy International Airport (JFK),600,Airport
+151,Aeropuerto Internacional Rafael Nuñez (CTG),1533,Airport
+152,Hotel Caribe,741,Hotel
+153,Sofitel Santa Clara,7197,Hotel
+154,Place in San Diego,291,
+155,Sofitel Santa Clara,3210,Hotel
+156,Café del Mar,3411,Lounge
+157,Krioyo,2915,Seafood Restaurant
+158,Place in Parque de Bolivar,511,
+159,Hotel Caribe,3834,Hotel
+160,Sofitel Santa Clara,11458,Hotel
+161,La Casa de Socorro,5209,Caribbean Restaurant
+162,Sofitel Santa Clara,17376,Hotel
+163,Place in Centro,410,
+164,Hotel Caribe,9488,Hotel
+165,Hotel Caribe,57796,Hotel
+166,Sofitel Santa Clara,17170,Hotel
+167,Hotel Caribe,7061,Hotel
+168,Hotel Caribe,32275,Hotel
+169,Hotel Caribe,12775,Hotel
+170,Hotel Caribe,949,Hotel
+171,Pablo Botero's Home,3060,Home
+172,Plaza De Bolívar,1023,Park
+173,Plaza San Pedro Claver,467,Plaza
+174,Centro Histórico de Cartagena / Ciudad Amurallada,828,Historic Site
+175,Plaza Santo Domingo,3288,Plaza
+176,Hotel Movich,7763,Hotel
+177,Velez Home,8485,Home
+178,Hotel Charleston Santa Teresa Cartagena de Indias,3694,Hotel
+179,Pablo Botero's Home,3275,Home
+180,Pablo Botero's Home,38765,Home
+181,Place in Castillogrande,587,
+182,Place in Castillogrande,366,
+183,Place in Bocagrande,383,
+184,Castillo de San Felipe de Barajas,2648,Castle
+185,Castillo de San Felipe de Barajas,642,Castle
+186,Castillo de San Felipe de Barajas,908,Castle
+187,Castillo de San Felipe de Barajas,2822,Castle
+188,Falabella,2478,Department Store
+189,Centro Histórico de Cartagena / Ciudad Amurallada,461,Historic Site
+190,Crepes & Waffles Centro,5423,Ice Cream Shop
+191,Falabella,3216,Department Store
+192,Place in Centro,69,
+193,Crepes & Waffles Centro,12718,Ice Cream Shop
+194,Place in Centro,539,
+195,Pablo Botero's Home,2609,Home
+196,Pablo Botero's Home,29301,Home
+197,Marina Santacruz,3989,Harbor / Marina
+198,Gente de Mar Club Resort,18634,Resort
+199,Pablo Botero's Home,7019,Home
+200,Demente,3211,Tapas Restaurant
+201,Centro Histórico de Cartagena / Ciudad Amurallada,6757,Historic Site
+202,Pablo Botero's Home,4845,Home
+203,Pablo Botero's Home,24740,Home
+204,Aeropuerto Internacional Rafael Nuñez (CTG),21945,Airport
+205,Aeropuerto Internacional Rafael Nuñez (CTG),23,Airport
+206,Aeropuerto Internacional Rafael Nuñez (CTG),1152,Airport
+207,John F. Kennedy International Airport (JFK),761,Airport
+208,John F. Kennedy International Airport (JFK),790,Airport
+209,John F. Kennedy International Airport (JFK),1711,Airport
+210,John F. Kennedy International Airport (JFK),7870,Airport
+211,Boston Logan International Airport (BOS),30,Airport
+212,Home,1412,Home
+213,Home,44076,Home
+214,Trader Joe's,2183,Grocery Store
+215,Home,36457,Home
+216,Home,31130,Home
+217,Home,29194,Home
+218,CVS/pharmacy,391,Drugstore / Pharmacy
+219,Home,21520,Home

@@ -1,0 +1,40 @@
+,country,region,area,species,notes
+0,USA,US East Coast,Gulf of Maine,Homarus americanus,"No EFH available; based on stat areas (Figure 1.1, pg. 185 recent assessment)"
+1,Canada,Canada East Coast,Western Scotian Shelf,Brosme brosme,
+2,Canada,Canada East Coast,Scotian Shelf and Bay of Fundy,Merluccius bilinearis,
+3,Canada,Canada East Coast,Canadian Atlantic Ocean,Lamna nasus,Based on tagging map in assessment
+4,Tuna-RFMO,Atlantic Ocean,Northern Atlantic,Thunnus alalunga,"North, South, Med - N/S by equator, Med by 5W"
+5,Tuna-RFMO,Atlantic Ocean,Western Atlantic,Thunnus thynnus,East and West (+Med) zones split along diagonal separator
+6,Tuna-RFMO,Atlantic Ocean,Atlantic Ocean,Thunnus obesus,Whole AoC minus Med
+7,Tuna-RFMO,Atlantic Ocean,Atlantic Ocean,Makaira nigricans,Whole AoC minus Med
+8,Tuna-RFMO,Atlantic Ocean,Western Atlantic,Istiophorus albicans,East and West (+Med) zones split along diagonal separator
+9,Tuna-RFMO,Atlantic Ocean,Western Atlantic,Katsuwonus pelamis,East and West (-Med) zones split at 30W
+10,Tuna-RFMO,Atlantic Ocean,Northern Atlantic,Xiphias gladius,"North, South, Med - N/S by equator, Med by 5W"
+11,Tuna-RFMO,Atlantic Ocean,Atlantic Ocean,Tetrapturus albidus,Whole AoC minus Med
+12,Tuna-RFMO,Atlantic Ocean,Atlantic Ocean,Thunnus albacares,Whole AoC minus Med
+13,USA,US East Coast,Gulf of Maine / Georges Bank,Sebastes fasciatus,All life stages
+14,USA,US East Coast,Gulf of Maine / Georges Bank,Hippoglossoides platessoides,All life stages
+15,USA,US East Coast,Gulf of Maine / Georges Bank,Hippoglossus hippoglossus,All life stages
+16,USA,US East Coast,Atlantic Coast,Pomatomus saltatrix,All life stages
+17,USA,US East Coast,Mid-Atlantic Coast,Centropristis striata,All life stages
+18,USA,US East Coast,Gulf of Maine / Cape Hatteras,Peprilus triacanthus,All life stages
+19,USA,US East Coast,Georges Bank,Gadus morhua,"All life stages, clipped to GB"
+20,USA,US East Coast,Gulf of Maine,Gadus morhua,"All life stages, clipped to GOM"
+21,USA,US East Coast,Northwestern Atlantic Coast,Clupea harengus,All life stages
+22,USA,US East Coast,Gulf of Maine / Georges Bank,Pollachius virens,All life stages
+23,USA,US East Coast,Northwestern Atlantic Coast,Stenotomus chrysops,All life stages
+24,USA,US East Coast,Mid-Atlantic Coast,Paralichthys dentatus,All life stages
+25,USA,US East Coast,Mid-Atlantic Coast,Spisula solidissima,All life stages
+26,USA,US East Coast,Mid-Atlantic Coast,Lopholatilus chamaeleonticeps,All life stages
+27,USA,US East Coast,Atlantic Coast,Cynoscion regalis,US EEZ East Coast
+28,USA,US East Coast,Gulf of Maine / Georges Bank,Urophycis tenuis,All life stages
+29,USA,US East Coast,Gulf of Maine / Georges Bank,Scophthalmus aquosus,"All life stages, clipped to GB/GOM"
+30,USA,US East Coast,Southern New England /Mid Atlantic,Scophthalmus aquosus,"All life stages, clipped to SNEMA"
+31,USA,US East Coast,Georges Bank,Pseudopleuronectes americanus,"All life stages, clipped to GB"
+32,USA,US East Coast,Southern New England /Mid Atlantic,Pseudopleuronectes americanus,"All life stages, clipped to SNEMA"
+33,USA,US East Coast,Cape Cod / Gulf of Maine,Limanda ferruginea,"All life stages, clipped to GOM"
+34,USA,US East Coast,Southern New England /Mid Atlantic,Limanda ferruginea,"All life stages, clipped to SNEMA"
+35,USA,US Southeast and Gulf,Atlantic Coast,Loligo pealeii,All life stages
+36,USA,US East Coast,Gulf of Maine,Melanogrammus aeglefinus,"All life stages, clipped to GOM"
+37,USA,US East Coast,Georges Bank and Mid-Atlantic Bight,Placopecten magellanicus,All life stages
+38,USA,US East Coast,Gulf of Maine,Glyptocephalus cynoglossus,All life stages

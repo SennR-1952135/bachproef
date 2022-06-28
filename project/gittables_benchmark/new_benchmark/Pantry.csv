@@ -1,0 +1,39 @@
+,type,name,category
+0,Vegetable,Peas,stew
+1,Vegetable,Corn,stew
+2,Vegetable,Diced Tomato,stew
+3,Vegetable,Kale,stew
+4,Vegetable,Zucchini,"cake,stew"
+5,Vegetable,Carrot,"cake,stew"
+6,Base,tomato paste,stew
+7,Base,chicken stock,stew
+8,Base,coconut cream,stew
+9,Oil,Olive oil,"cake,stew"
+10,Oil,Vegetable oil,"cake,stew"
+11,Oil,Butter,"cake,stew"
+12,Oil,Coconut oil,"cake,stew"
+13,Spices,Cinnamon,"cake,stew"
+14,Spices,Nutmeg,"cake,stew"
+15,Spices,Cocoa,"cake,stew"
+16,Spices,Ginger,"cake,stew"
+17,Spices,Basil,"cake,stew"
+18,Spices,Oregano,"cake,stew"
+19,Spices,Thyme,"cake,stew"
+20,Spices,Rosemary,"cake,stew"
+21,Flour,White Flour,cake
+22,Flour,Whole Wheat Flour,cake
+23,Flour,Cornmeal,cake
+24,Flour,Oats,cake
+25,Sugar,White Sugar,cake
+26,Sugar,Brown Sugar,cake
+27,Sugar,Molasses,cake
+28,Condiments,Peanut Butter,"cake,stew"
+29,Condiments,Soy Sauce,"cake,stew"
+30,Condiments,Balsamic Vinegar,"cake,stew"
+31,Condiments,Mustard,"cake,stew"
+32,Condiments,Vanilla,cake
+33,Condiments,Almond Extract,cake
+34,Condiments,Lemon Juice,"cake,stew"
+35,Eggs,Eggs,cake
+36,Base,Milk,cake
+37,Leavening,Baking Powder,cake

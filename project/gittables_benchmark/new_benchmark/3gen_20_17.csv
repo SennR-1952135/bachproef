@@ -1,0 +1,90 @@
+,year,country,city
+0,2010,Belgium;Belgium,Brussels;Louvain-la-Neuve
+1,2010,United States,"Washington, D.C."
+2,2010,United States,Los Angeles
+3,2010,United States,"Washington, D.C."
+4,2010,Taiwan,Taipei
+5,2010,United States,Ithaca
+6,2010,France;France;France,Saint Martin d'Heres;Grenoble;Paris
+7,2010,Spain,Barcelona
+8,2010,Canada,Hamilton
+9,2010,Israel;United Kingdom,Tel Aviv-Yafo;Cambridge
+10,2010,United States;United States,Huntsville;Walnut Creek
+11,2010,Japan,Tokyo
+12,2010,France,Paris
+13,2009,United States,San Antonio
+14,2009,United Kingdom,Hinxton
+15,2009,Japan;Japan,Kisarazu;Tokyo
+16,2009,France,Strasbourg
+17,2009,United States,Los Angeles
+18,2009,China,Hangzhou
+19,2009,United States,Iowa City
+20,2009,United States,Moss Landing
+21,2009,Switzerland,Fribourg
+22,2009,United States,Davis
+23,2009,Japan,Wako
+24,2009,United States,Ithaca
+25,2009,France;France;France;France,Saint Martin d'Heres;Grenoble;Paris;Saint-Genes-Champanelle
+26,2008,France;Italy,Roscoff;Naples
+27,2008,United Kingdom,Leicester
+28,2008,Australia,Parkville
+29,2008,Switzerland;Switzerland,"Zurich ZH,;Zurich"
+30,2008,Singapore;United States,Singapore City;Durham
+31,2008,Germany,Freiburg im Breisgau
+32,2008,France;France,Paris;Paris
+33,2008,France,Montpellier
+34,2008,United States,"Washington, D.C."
+35,2007,Spain,Valencia
+36,2007,United States,Cambridge
+37,2007,United States,Bethesda
+38,2007,Japan,Kisarazu
+39,2007,United States,Los Angeles
+40,2007,Japan,Hachioji
+41,2007,Germany,Bochum
+42,2007,United States;United States,Riverside;West Lafayette
+43,2007,Japan,Tokyo
+44,2007,United States,San Diego
+45,2007,Australia,Perth
+46,2007,United States,Rockville
+47,2006,United States;United States,Oak Ridge;Chattanooga
+48,2006,Germany;Russian Federation,Osnabruck;Moscow
+49,2006,Japan;Japan,Okazaki;Hayama
+50,2006,Hungary;Germany,Godollo;Freiburg im Breisgau
+51,2006,France,Banyuls-sur-Mer
+52,2006,Canada,Montreal
+53,2006,Switzerland,"Zurich ZH,"
+54,2006,,
+55,2005,Italy,Venice
+56,2005,United States,"Washington, D.C."
+57,2005,Italy;United Kingdom,Lecce;Leeds
+58,2005,United States,Burr Ridge
+59,2005,United States,Davis
+60,2005,Germany,Tubingen
+61,2004,Germany,Freiburg im Breisgau
+62,2004,United States,Bethesda
+63,2004,United States,Seattle
+64,2004,United States,Ames
+65,2004,France,Paris
+66,2004,France;France,Evry;Versailles
+67,2004,United States,Iowa City
+68,2004,Japan,Tokyo
+69,2004,Germany,Potsdam
+70,2004,United States,Ithaca
+71,2003,Japan,Okayama
+72,2003,United States,East Lansing
+73,2002,United States,Tempe
+74,2002,Canada,Vancouver
+75,2002,Israel,Jerusalem
+76,2002,Germany,Dusseldorf
+77,2002,United States,Research Triangle Park
+78,2001,Estonia;Sweden,Tartu;Stockholm
+79,2000,United Kingdom;Switzerland,Norwich;Geneva
+80,2000,Sweden,Stockholm
+81,2000,,
+82,1998,United States,New Haven
+83,1997,United States,University Park
+84,1997,Japan,Kyoto
+85,1997,United States,Bethesda
+86,1992,Denmark;Germany,Copenhagen;Munich
+87,1992,United States,Cambridge
+88,1991,United States,Lexington

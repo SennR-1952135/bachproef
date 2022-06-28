@@ -1,0 +1,184 @@
+,year,country,city
+0,2015,Germany,Bielefeld
+1,2015,United States,San Diego
+2,2015,United States,Ames
+3,2015,United States,"Washington, D.C."
+4,2015,United States,San Diego
+5,2014,United States,New York
+6,2014,Slovakia;Austria;Slovakia,Bratislava;Vienna;Bratislava
+7,2014,France,Mont-Saint-Aignan
+8,2014,South Korea,Daejeon
+9,2014,United States,Ames
+10,2014,United Kingdom,Manchester
+11,2014,Germany;Germany,Potsdam;Potsdam
+12,2014,United States,San Diego
+13,2014,Mexico,San Luis Potosí
+14,2014,Japan,Kami-gun
+15,2014,South Korea,Yusong
+16,2014,United States,Ames
+17,2014,India,Kottayam
+18,2014,United States,Los Angeles
+19,2014,United States,"Washington, D.C."
+20,2014,United States,Lincoln
+21,2014,United States,Baltimore
+22,2014,United States;United States,Cambridge;Cambridge
+23,2013,United States,Atlanta
+24,2013,Germany,Bielefeld
+25,2013,United States,Lincoln
+26,2013,United States,St. Louis
+27,2013,United States,St. Louis
+28,2013,Germany,Bielefeld
+29,2013,United Kingdom,Norwich
+30,2013,South Korea,Yusong
+31,2013,Japan;Japan,Kawaguchi;Kyoto
+32,2013,United States,"Washington, D.C."
+33,2013,United States,San Diego
+34,2013,Russian Federation;Germany,Moscow;Berlin
+35,2013,United States,Golden
+36,2013,China,Beijing
+37,2012,Germany,Erlangen
+38,2012,United States,East Lansing
+39,2012,United States,San Diego
+40,2012,United States,Berkeley
+41,2012,United States;Germany,East Lansing;Bonn
+42,2012,France,Paris
+43,2012,Germany,Koln
+44,2012,United States,Ames
+45,2012,United States,San Diego
+46,2012,United States;United States;United States,Berkeley;Bozeman;Chevy Chase
+47,2012,United States,Golden
+48,2012,United States,St. Louis
+49,2011,United States,Hayward
+50,2011,United States,Plymouth
+51,2011,France;France,Paris;Roscoff
+52,2011,United States;Spain,"Washington, D.C.;Cordoba"
+53,2011,United States,Golden
+54,2011,United States,Ames
+55,2011,United States,San Diego
+56,2010,United States,San Diego
+57,2010,United States,Golden
+58,2009,Germany,Halle
+59,2009,United States,Worcester
+60,2009,United States,Ames
+61,2009,China,Beijing
+62,2009,United Kingdom,Cambridge
+63,2009,Germany,Berlin
+64,2009,Germany,Regensburg
+65,2009,Germany,Potsdam
+66,2009,United States,New Haven
+67,2009,Germany,Potsdam
+68,2008,Germany,Regensburg
+69,2008,France,Gif-sur-Yvette
+70,2008,Germany,Potsdam
+71,2008,United States,Lincoln
+72,2008,United States,Tuscaloosa
+73,2008,United States,Berkeley
+74,2007,United Kingdom,Cambridge
+75,2007,Germany,Regensburg
+76,2007,Spain,Cordoba
+77,2007,United States,Los Angeles
+78,2007,Germany,Regensburg
+79,2007,United Kingdom,Norwich
+80,2007,China,Beijing
+81,2007,United States,San Diego
+82,2007,United States,San Diego
+83,2007,United States,Lincoln
+84,2006,Austria;Germany,Innsbruck;Regensburg
+85,2006,United States,Berkeley
+86,2006,United States,Lincoln
+87,2006,Belgium,Liege
+88,2006,Germany,Freiburg im Breisgau
+89,2005,Spain,Cordoba
+90,2005,United States,Ithaca
+91,2005,United States,Berkeley
+92,2005,Germany,Koln
+93,2005,Russian Federation;Germany,Gatchina;Berlin
+94,2005,Spain,Cordoba
+95,2005,United States,Minneapolis
+96,2004,United States,Lincoln
+97,2004,Japan,Saitama
+98,2004,United States,Golden
+99,2004,Germany,Regensburg
+100,2004,United States,Berkeley
+101,2004,,
+102,2004,India,New Delhi
+103,2003,United States,"Washington, D.C."
+104,2003,United States;United States,San Diego;St. Louis
+105,2003,Germany,Freiburg im Breisgau
+106,2003,Germany,Regensburg
+107,2003,United States,Minneapolis
+108,2002,United States,Ithaca
+109,2002,Russian Federation,Pushchino
+110,2002,Switzerland,Geneva
+111,2002,France,Paris
+112,2002,United States;Russian Federation,Houston;Moscow
+113,2002,United States,Lincoln
+114,2002,United States,Lincoln
+115,2002,United States,Lincoln
+116,2002,Germany,Regensburg
+117,2001,Germany,Regensburg
+118,2001,United States,Vermillion
+119,2001,Russian Federation;Germany,Saint Petersburg (ex Leningrad);Regensburg
+120,2001,Switzerland,Geneva
+121,2001,United States;United States,Minneapolis;
+122,2001,Germany,Regensburg
+123,2000,United States,Lincoln
+124,2000,Germany;France,Freiburg im Breisgau;Paris
+125,1999,Germany,Freiburg im Breisgau
+126,1999,Switzerland,Geneva
+127,1999,Germany,Regensburg
+128,1998,United States;United States,Minneapolis;Houston
+129,1998,United States,Durham
+130,1998,Japan,Wako
+131,1998,Japan,Tokyo
+132,1998,United States;United States,Syracuse;Baltimore
+133,1998,United Kingdom,London
+134,1997,United States,Durham
+135,1997,India,Pune MH
+136,1997,United States,Tallahassee
+137,1997,United States,Durham
+138,1996,Russian Federation,Saint Petersburg (ex Leningrad)
+139,1996,United States,Madison
+140,1996,United Kingdom,London
+141,1996,United States,Baltimore
+142,1996,United States,St. Louis
+143,1995,United States,Pittsburgh
+144,1995,United States,Minneapolis
+145,1995,France,Gif-sur-Yvette
+146,1995,United States,St. Louis
+147,1995,United States;United States,Minneapolis;Chapel Hill
+148,1994,United Kingdom,London
+149,1994,United States,Minneapolis
+150,1993,United States,Ithaca
+151,1993,Japan,Tokyo
+152,1993,United States,New Haven
+153,1993,United States,Golden
+154,1993,United States,Minneapolis
+155,1993,United States,Minneapolis
+156,1992,United States,"Washington, D.C."
+157,1992,United States,Ithaca
+158,1991,United States,Boulder
+159,1991,United States,Boulder
+160,1991,United States,Tallahassee
+161,1990,Japan,Tokyo
+162,1990,United Kingdom,Oxford
+163,1990,United States,San Diego
+164,1990,United States,Ithaca
+165,1989,United States,Ithaca
+166,1989,United States,St. Louis
+167,1989,Switzerland,Geneva
+168,1988,Switzerland,Geneva
+169,1985,United States,New Haven
+170,1980,United States,Durham
+171,1977,United States,Durham
+172,1976,United States,Cambridge
+173,1976,Canada,Halifax
+174,1976,United States;Canada,Stony Brook;Halifax
+175,1973,United States,Durham
+176,1971,United States,Cambridge
+177,1970,United Kingdom,Oxford
+178,1968,Belgium,Liege
+179,1966,United Kingdom,London
+180,1964,United Kingdom,London
+181,1960,United States,Cambridge
+182,1957,,

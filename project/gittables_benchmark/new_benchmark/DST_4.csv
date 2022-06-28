@@ -1,0 +1,166 @@
+,name,artist,type
+0,Auriok Glaivemaster,John Matson,Creature — Human Soldier
+1,Echoing Calm,Greg Staples,Instant
+2,Emissary of Hope,rk post,Creature — Spirit
+3,Hallow,Alex Horley-Orlandelli,Instant
+4,Leonin Battlemage,Stephen Tappin,Creature — Cat Wizard
+5,Leonin Shikari,Wayne England,Creature — Cat Soldier
+6,Loxodon Mystic,"Edward P. Beard, Jr.",Creature — Elephant Cleric
+7,Metal Fatigue,Arnie Swekel,Instant
+8,Pristine Angel,Scott M. Fischer,Creature — Angel
+9,Pteron Ghost,"Edward P. Beard, Jr.",Creature — Spirit
+10,Pulse of the Fields,Paolo Parente,Instant
+11,Purge,Pete Venters,Instant
+12,Ritual of Restoration,Dany Orizio,Sorcery
+13,Soulscour,Kev Walker,Sorcery
+14,Steelshaper Apprentice,Tim Hildebrandt,Creature — Human Soldier
+15,Stir the Pride,Matt Cavotta,Instant
+16,Test of Faith,Vance Kovacs,Instant
+17,Turn the Tables,Christopher Moeller,Instant
+18,Carry Away,Jim Nelson,Enchantment — Aura
+19,Chromescale Drake,Ben Thompson,Creature — Drake
+20,Echoing Truth,Greg Staples,Instant
+21,Hoverguard Observer,Kev Walker,Creature — Drone
+22,Last Word,Scott M. Fischer,Instant
+23,Machinate,Wayne England,Instant
+24,Magnetic Flux,Alan Rabinowitz,Instant
+25,Neurok Prodigy,Puddnhead,Creature — Human Wizard
+26,Neurok Transmuter,Mark Zug,Creature — Human Wizard
+27,Psychic Overload,Jeremy Jarvis,Enchantment — Aura
+28,Pulse of the Grid,Wayne England,Instant
+29,Quicksilver Behemoth,Anthony S. Waters,Creature — Beast
+30,Reshape,Jon Foster,Sorcery
+31,Retract,Matt Cavotta,Instant
+32,Second Sight,Luca Zontini,Instant
+33,Synod Artificer,Mark Zug,Creature — Vedalken Artificer
+34,Vedalken Engineer,Lars Grant-West,Creature — Vedalken Artificer
+35,Vex,Brian Snõddy,Instant
+36,Æther Snap,Kev Walker,Sorcery
+37,Burden of Greed,Vance Kovacs,Instant
+38,Chittering Rats,Tom Wänerstrand,Creature — Rat
+39,Death Cloud,Stephen Tappin,Sorcery
+40,Echoing Decay,Greg Staples,Instant
+41,Emissary of Despair,rk post,Creature — Spirit
+42,Essence Drain,Tony Szczudlo,Sorcery
+43,Greater Harvester,Daren Bader,Creature — Horror
+44,Grimclaw Bats,Tom Wänerstrand,Creature — Bat
+45,Hunger of the Nim,Puddnhead,Sorcery
+46,Mephitic Ooze,Alex Horley-Orlandelli,Creature — Ooze
+47,Murderous Spoils,Adam Rex,Instant
+48,Nim Abomination,Jim Murray,Creature — Zombie
+49,Pulse of the Dross,Paolo Parente,Sorcery
+50,Scavenging Scarab,Jeff Easley,Creature — Insect
+51,Screams from Within,Hugh Jamieson,Enchantment — Aura
+52,Scrounge,Pete Venters,Sorcery
+53,Shriveling Rot,Alex Horley-Orlandelli,Instant
+54,Barbed Lightning,Hugh Jamieson,Instant
+55,Crazed Goblin,Darrell Riche,Creature — Goblin Warrior
+56,Dismantle,Brian Snõddy,Sorcery
+57,Drooling Ogre,Brian Snõddy,Creature — Ogre
+58,Echoing Ruin,Greg Staples,Sorcery
+59,Fireball,Dave Dorman,Sorcery
+60,Flamebreak,Trevor Hairsine,Sorcery
+61,Furnace Dragon,Matthew D. Wilson,Creature — Dragon
+62,Goblin Archaeologist,Jim Nelson,Creature — Goblin Artificer
+63,Inflame,Hugh Jamieson,Instant
+64,Krark-Clan Stoker,Pete Venters,Creature — Goblin Shaman
+65,Pulse of the Forge,Paolo Parente,Instant
+66,Savage Beating,Matt Thompson,Instant
+67,Shunt,Greg Hildebrandt,Instant
+68,"Slobad, Goblin Tinkerer",Kev Walker,Legendary Creature — Goblin Artificer
+69,Tears of Rage,Pete Venters,Instant
+70,Unforge,Kev Walker,Instant
+71,Vulshok War Boar,Pete Venters,Creature — Boar Beast
+72,Ageless Entity,Jeff Miracola,Creature — Elemental
+73,Echoing Courage,Greg Staples,Instant
+74,Fangren Firstborn,Tim Hildebrandt,Creature — Beast
+75,Infested Roothold,Terese Nielsen,Creature — Wall
+76,Karstoderm,Tony Szczudlo,Creature — Beast
+77,Nourish,Scott M. Fischer,Instant
+78,Oxidize,Kev Walker,Instant
+79,Pulse of the Tangle,Wayne England,Sorcery
+80,Reap and Sow,Rob Alexander,Sorcery
+81,Rebuking Ceremony,Ittoku,Sorcery
+82,Roaring Slagwurm,David Martin,Creature — Wurm
+83,Stand Together,Luca Zontini,Instant
+84,Tangle Spider,Terese Nielsen,Creature — Spider
+85,Tanglewalker,Pete Venters,Creature — Dryad
+86,Tel-Jilad Outrider,Paolo Parente,Creature — Elf Warrior
+87,Tel-Jilad Wolf,Paolo Parente,Creature — Wolf
+88,Viridian Acolyte,D. Alexander Gregory,Creature — Elf Shaman
+89,Viridian Zealot,Kev Walker,Creature — Elf Warrior
+90,Æther Vial,Greg Hildebrandt,Artifact
+91,Angel's Feather,Alan Pollack,Artifact
+92,Arcane Spyglass,Trevor Hairsine,Artifact
+93,Arcbound Bruiser,Christopher Moeller,Artifact Creature — Golem
+94,Arcbound Crusher,Michael Sutfin,Artifact Creature — Juggernaut
+95,Arcbound Fiend,Ittoku,Artifact Creature — Horror
+96,Arcbound Hybrid,Alan Pollack,Artifact Creature — Beast
+97,Arcbound Lancer,John Avon,Artifact Creature — Beast
+98,Arcbound Overseer,Carl Critchlow,Artifact Creature — Golem
+99,Arcbound Ravager,Carl Critchlow,Artifact Creature — Beast
+100,Arcbound Reclaimer,Jon Foster,Artifact Creature — Golem
+101,Arcbound Slith,Vance Kovacs,Artifact Creature — Slith
+102,Arcbound Stinger,Darrell Riche,Artifact Creature — Insect
+103,Arcbound Worker,Darrell Riche,Artifact Creature — Construct
+104,Auriok Siege Sled,Jim Murray,Artifact Creature — Juggernaut
+105,Chimeric Egg,Michael Sutfin,Artifact
+106,Coretapper,Dany Orizio,Artifact Creature — Myr
+107,Darksteel Brute,Nottsuo,Artifact
+108,Darksteel Colossus,Carl Critchlow,Artifact Creature — Golem
+109,Darksteel Forge,Martina Pilcerova,Artifact
+110,Darksteel Gargoyle,Ron Spencer,Artifact Creature — Gargoyle
+111,Darksteel Ingot,Martina Pilcerova,Artifact
+112,Darksteel Pendant,Terese Nielsen,Artifact
+113,Darksteel Reactor,Kev Walker,Artifact
+114,Death-Mask Duplicant,Thomas M. Baxa,Artifact Creature — Shapeshifter
+115,Demon's Horn,Alan Pollack,Artifact
+116,Dragon's Claw,Alan Pollack,Artifact
+117,Drill-Skimmer,Mark Zug,Artifact Creature — Thopter
+118,Dross Golem,Adam Rex,Artifact Creature — Golem
+119,Eater of Days,Mark Tedin,Artifact Creature — Leviathan
+120,Gemini Engine,Nottsuo,Artifact Creature — Construct
+121,Genesis Chamber,Mark Tedin,Artifact
+122,Geth's Grimoire,Heather Hudson,Artifact
+123,Heartseeker,Michael Sutfin,Artifact — Equipment
+124,Juggernaut,Arnie Swekel,Artifact Creature — Juggernaut
+125,Kraken's Eye,Alan Pollack,Artifact
+126,Leonin Bola,Christopher Moeller,Artifact — Equipment
+127,Lich's Tomb,Matt Cavotta,Artifact
+128,Memnarch,Carl Critchlow,Legendary Artifact Creature — Wizard
+129,Mycosynth Lattice,Anthony S. Waters,Artifact
+130,Myr Landshaper,Greg Staples,Artifact Creature — Myr
+131,Myr Matrix,Mark Tedin,Artifact
+132,Myr Moonvessel,Dany Orizio,Artifact Creature — Myr
+133,Nemesis Mask,Adam Rex,Artifact — Equipment
+134,Oxidda Golem,Greg Staples,Artifact Creature — Golem
+135,Panoptic Mirror,Glen Angus,Artifact
+136,Razor Golem,Christopher Moeller,Artifact Creature — Golem
+137,Serum Powder,Matt Thompson,Artifact
+138,Shield of Kaldra,Donato Giancola,Legendary Artifact — Equipment
+139,Skullclamp,Luca Zontini,Artifact — Equipment
+140,Spawning Pit,Tony Szczudlo,Artifact
+141,Specter's Shroud,Greg Hildebrandt,Artifact — Equipment
+142,Spellbinder,Ron Spencer,Artifact — Equipment
+143,Spincrusher,Greg Staples,Artifact Creature — Construct
+144,Spire Golem,Daren Bader,Artifact Creature — Golem
+145,Sundering Titan,Jim Murray,Artifact Creature — Golem
+146,Surestrike Trident,Ben Thompson,Artifact — Equipment
+147,Sword of Fire and Ice,Mark Zug,Artifact — Equipment
+148,Sword of Light and Shadow,Mark Zug,Artifact — Equipment
+149,Talon of Pain,Daren Bader,Artifact
+150,Tangle Golem,Arnie Swekel,Artifact Creature — Golem
+151,Thought Dissector,Matt Cavotta,Artifact
+152,Thunderstaff,Kaja Foglio,Artifact
+153,Trinisphere,Tim Hildebrandt,Artifact
+154,Ur-Golem's Eye,Heather Hudson,Artifact
+155,Voltaic Construct,Jeff Easley,Artifact Creature — Golem Construct
+156,Vulshok Morningstar,David Martin,Artifact — Equipment
+157,Wand of the Elements,Thomas M. Baxa,Artifact
+158,Well of Lost Dreams,Jeff Miracola,Artifact
+159,Whispersilk Cloak,Luca Zontini,Artifact — Equipment
+160,Wirefly Hive,Nottsuo,Artifact
+161,Wurm's Tooth,Alan Pollack,Artifact
+162,Blinkmoth Nexus,Brian Snõddy,Land
+163,Darksteel Citadel,John Avon,Artifact Land
+164,Mirrodin's Core,Greg Staples,Land

@@ -1,0 +1,273 @@
+,city,state,name,address
+0,Amherst,NH,Walmart Supercenter,85 State Route 101a
+1,Amherst,NH,Walmart Grocery Pickup and Delivery,85 State Route 101A
+2,Amherst,NH,Shaw's,586 Nashua St
+3,Auburn,NH,Nickles Market,not_available
+4,Chester,NH,A&M Sandown Market,335 Main St
+5,Deerfield,NH,Deerfield Mart,2 Mountain View Rd
+6,Deerfield,NH,The Blue Bowl,38 North Rd
+7,Derry,NH,Walmart Supercenter,11 Ashleigh Drive
+8,Derry,NH,Shaw's,1 Orchard View Dr
+9,Derry,NH,Shaw's,55 Crystal Ave
+10,Derry,NH,Hannaford Supermarket,35 Manchester Rd
+11,Derry,NH,ALDI,30 Manchester Rd
+12,Epping,NH,Market Basket,24 Calef Hwy
+13,Epping,NH,Walmart Supercenter,35 Fresh River Rd
+14,Francestown,NH,Delay's Harvester Market,783 Forest Rd
+15,Goffstown,NH,Sully's Superette,10 N Mast St
+16,Goffstown,NH,Sonny's Market LLC,800 Turnpike Rd
+17,Hollis,NH,Market Basket,44 Northwest Blvd
+18,Hollis,NH,Brookdale Fruit Farm,38 Broad Street
+19,Hudson,NH,Shaw's,213 Daniel Webster Hwy
+20,Hudson,NH,Market Basket,261 Daniel Webster Hwy
+21,Hudson,NH,Market Basket,212 Lowell Rd #5
+22,Hudson,NH,Walmart,254 Lowell Rd
+23,Hudson,NH,Trader Joe's,262 Daniel Webster HWY
+24,Hudson,NH,Shaw's,300 Main St
+25,Hudson,NH,Gopu Indian and Asian Market,not_available
+26,Hudson,NH,Siberia Food Market,259 Main St
+27,Hudson,NH,Shree Gopu Grocery,not_available
+28,Litchfield,NH,Shaw's,570 Daniel Webster Hwy
+29,Londonderry,NH,Tedeschi Food Shops,162 Rockingham Rd
+30,Londonderry,NH,Tedeschi,not_available
+31,Merrimack,NH,Shaw's,7 Continental Blvd
+32,Merrimack,NH,Lanna Asian Market,495 Amherst St
+33,Milford,NH,Market Basket,21 Jones Rd
+34,Milford,NH,Wassy bastet,Savage rd
+35,Nashua,NH,Carniceria Zapopan,9 Water St
+36,Nashua,NH,Jake's Old Fashioned Ice Cream & Custom Cakes,57 Palm St
+37,Nashua,NH,M I N H A S Halal Meat Indian Grocery,"5 pine street ext, first floor suite 1-f, Nashua, NH 03060"
+38,Nashua,NH,Market Basket,375 Amherst St
+39,Nashua,NH,Whole Foods Market,255 Amherst Street
+40,Nashua,NH,Aldi food market,260 Amherst St
+41,Nashua,NH,Aldi,270 Amherst St
+42,New Boston,NH,Dodges Store,7 Central Sq
+43,Pelham,NH,Michael's Market,8 Stiles Rd
+44,Raymond,NH,Downtown Convenience Store,62 Main St
+45,Salem,NH,Market Basket,69 Center Street
+46,Salem,NH,Walmart Supercenter,326 N Broadway
+47,Salem,NH,Market Basket,265 S Broadway
+48,Salem,NH,Market Basket,167 S Broadway
+49,Salem,NH,McKinnon's Market & Super Butcher Shop,236 N Broadway
+50,Salem,NH,Aldi,541 S Broadway
+51,Salem,NH,Kev's Country Store,not_available
+52,Salem,NH,"Happy Daze, LLC",224 N Broadway Suite D13
+53,Windham,NH,Shaw's,43 Indian Rock Rd
+54,Windham,NH,A Simply Wholesome Life,33 Indian Rock Rd
+55,Manchester,NH,Market Basket,460 Elm St
+56,Manchester,NH,Himalayas General Store,359 Elm Street
+57,Manchester,NH,WIC,Chestnut st
+58,Manchester,NH,R&P Convenience,63 Merrimack St
+59,Manchester,NH,Himalayas,not_available
+60,Manchester,NH,Market Basket,539 Donald St
+61,Manchester,NH,Walmart Supercenter,3 Commerce Dr
+62,Manchester,NH,Bartlett Street Superette,316 Bartlett St
+63,Manchester,NH,Walmart Supercenter,725 Gold St
+64,Manchester,NH,Aldi Food Market,1111 S Willow St
+65,Manchester,NH,Price Rite,Valley st
+66,Manchester,NH,East West Foods,"2626 Brown Ave, Manchester, NH 03103"
+67,Manchester,NH,Hanafords Supermarket,201 John E Devine Dr
+68,Manchester,NH,Tedeschi Food Shops,245 Maple St
+69,Manchester,NH,A Market,125 Loring St
+70,Manchester,NH,Price Rite of Manchester,365 Lincoln Street
+71,Manchester,NH,Gosselin's Superette,706 Somerville St
+72,Manchester,NH,somerville street market,912 Somerville St
+73,Manchester,NH,Saigon Asian Market,476 Union St.
+74,Manchester,NH,Stop N Shop,south willow st
+75,Manchester,NH,Bunny's Superette,75 Webster St
+76,Manchester,NH,Hannafords,Rockingham Recreational Trail
+77,Hooksett,NH,Market Basket,30 Market Dr
+78,Hooksett,NH,Shaw's,1328 Hooksett Rd
+79,Hooksett,NH,Sully ' s,39 Allenstown Rd
+80,Hooksett,NH,Natural Choice Market,303-353 Londonderry Turnpike
+81,Bedford,NH,Whole Foods Market,121 South River Rd
+82,Bedford,NH,Trader Joe’s,not_available
+83,Bedford,NH,Ice Cream Aisle,4 Jenkins Rd
+84,Bedford,NH,Trader Joe's,2 Market Street
+85,Barnstead,NH,White Buffalo Trading Post,S Barnstead Rd
+86,Barnstead,NH,Danis,Water Street
+87,Belmont,NH,Shaw's,96 Daniel Webster Hwy
+88,Belmont,NH,Country Kitchen Thrift Store,not_available
+89,Belmont,NH,Vista Foods,376 S Main St
+90,Bristol,NH,Hannaford Supermarket,505 Pleasant St
+91,Bristol,NH,Shackett's Store,256 W Shore Rd
+92,Bristol,NH,Bristol Shop N' Save,Rt. 104
+93,Bristol,NH,Newfound Grocery,"Bridgewater, NH"
+94,Campton,NH,Campton Cupboard,1513 NH Rte. 175
+95,Canterbury,NH,XtraMart,1 Whitney Rd
+96,Center Harbor,NH,EM Heath's Supermarket,not_available
+97,Center Harbor,NH,Stop & Shop,not_available
+98,Contoocook,NH,Colonial Village,54 Park Ave
+99,Contoocook,NH,River Hill Market,189 Carter Hill Rd
+100,Franklin,NH,Hannaford Supermarket,952 Central St
+101,Hebron,NH,Walmart Supercenter,683 Tenney Mountain Hwy
+102,Hillsborough,NH,Shaw's,276 W Main St
+103,Hillsborough,NH,Kat's Corner,not_available
+104,Hillsborough,NH,JD  Foods,192 W Main St
+105,Laconia,NH,Walmart Supercenter,1458 Lake Shore Rd
+106,Laconia,NH,Shaw's,1400 Lakeshore Dr
+107,Lincoln,NH,Price Chopper,10 Lumber Yard Dr
+108,Meredith,NH,Hannaford Supermarket,38 NH Route 25 Unit 5
+109,Moultonborough,NH,General Store Tuftonboro,not_available
+110,New London,NH,Cricentifords,not_available
+111,Plymouth,NH,Market Basket,34 Ridge View Ln
+112,Plymouth,NH,Peppercorn Natural Foods,not_available
+113,Suncook,NH,Walmart Supercenter,344 Loudon Rd
+114,Suncook,NH,Shaw's,20 D'amante Dr
+115,Suncook,NH,ALDI,289 Loudon Rd
+116,Suncook,NH,Shop N' Go,188
+117,Suncook,NH,Alltown,1516 Route 3A
+118,Tilton,NH,Market Basket,29 E Main St.
+119,Tilton,NH,Walmart Supercenter,33 Sherwood Drive
+120,Warner,NH,Market Basket,30 New Hampshire 103
+121,Weare,NH,Lanctot's Grocers,425 S Stark Hwy
+122,Nottingham,NH,Liar's Paradise,118 Stage Rd
+123,Concord,NH,Market Basket,108 Fort Eddy Rd
+124,Concord,NH,Shaw's,20 Fort Eddy Rd
+125,Concord,NH,Market Basket,80 Storrs St
+126,Concord,NH,Sam's,Village St
+127,Concord,NH,Concord Cooperative Market,24 S Main St
+128,Concord,NH,Granite State Natural Foods,164 N State St
+129,Concord,NH,Tedeschi Food Shops,201 S Main St
+130,Concord,NH,Shaws Osco,not_available
+131,Concord,NH,Tedeschi Food Shops,9 Village St
+132,Concord,NH,Go Food Basket,72 Washington St
+133,Keene,NH,Walmart Photo Center,350 Winchester St
+134,Keene,NH,Market Basket,11 W Swanzey Rd
+135,Keene,NH,Price Chopper,16 Ash Brook Rd
+136,Keene,NH,Aldi,West Street
+137,Keene,NH,Jai Food Mart,151-155 Main St
+138,Keene,NH,Blueberry Fields,not_available
+139,Keene,NH,Jake's 5 Star Convenience,65 Roxbury St
+140,Keene,NH,Romy's Market,89 Marlboro St
+141,Antrim,NH,Antrim Marketplace,68-78 Main St
+142,Bennington,NH,Bennington Country Store,6 Main St
+143,Dublin,NH,Dublin General Store,1257 Main St.
+144,Hinsdale,NH,Walmart Supercenter,724 Brattleboro Rd
+145,Jaffrey,NH,Coll's Farm,Colls Farm Rd.
+146,Marlow,NH,Marlow Grocery,689 Route 10
+147,Peterborough,NH,Shaw's,135 Dublin Rd
+148,Peterborough,NH,Nature's Green Grocer,374 Union St
+149,Peterborough,NH,Monadnock Oil and Vinegar Company,43 Grove St
+150,Peterborough,NH,Roy's Market,20 Main St
+151,Peterborough,NH,Maggie's Market Place,14 Main St
+152,Peterborough,NH,Alltown,113 Grove St
+153,Rindge,NH,Market Basket,497 U.S. 202
+154,Rindge,NH,Walmart,750 Us Hwy 202
+155,West Chesterfield,NH,Riverside Grocery,913 Gulf Rd
+156,Winchester,NH,Kulick's Market,30 Warwick Rd
+157,Winchester,NH,Mr G's,not_available
+158,Littleton,NH,Shaw's,625 Meadow St
+159,Littleton,NH,Littleton Food Co-op,43 Bethlehem Rd
+160,Littleton,NH,Porfido's Market,84 Main St
+161,Littleton,NH,Walmart,615 Meadow St
+162,Berlin,NH,Berlin IGA Foodliner,16 Pleasant St
+163,Berlin,NH,Rudy's Market,not_available
+164,Bethlehem,NH,Twin Mtn Country Store,Rt 3
+165,Bethlehem,NH,Macs Market,287 Main St
+166,Colebrook,NH,Solomon's,not_available
+167,Colebrook,NH,Laperele's IGA,Hughes Rd
+168,Gorham,NH,Walmart Supercenter,561 Main St
+169,Gorham,NH,Save-A-Lot,491 Main St
+170,Jefferson,NH,Hometown Market And Grill,not_available
+171,Lancaster,NH,Shaw's,199 Main St
+172,Lisbon,NH,P&D Quick Stop Sunoco,60 N Main St # US-302
+173,Whitefield,NH,Mac's Whitefield Market,21 Jefferson Rd
+174,Alstead,NH,Shaw's,32 Ames Plaza Ln #441
+175,Alstead,NH,Walpole Village Market,Westminister St.
+176,Walpole,NH,Lisai's Market,128 Atkinson St
+177,Bath,NH,Walmart Supercenter,4901 Dartmouth College Hwy
+178,Bath,NH,Shaw's,15 Forest St
+179,Canaan,NH,George’s Deli,66 Main St
+180,Claremont,NH,Market Basket,345 Washington St Ste 8
+181,Claremont,NH,Walmart Supercenter,14 Bowen St
+182,Claremont,NH,Leo's One-Stop Market,130 Main St
+183,Cornish,NH,Price Chopper,2741 US Rte 5 N
+184,Cornish,NH,12% Solution,994 Town House Rd
+185,Enfield,NH,Rum Brook Market,Route 10
+186,Hanover,NH,Lebanon Co-op,12 Centerra Pkwy
+187,Hanover,NH,Hanover Co-op,45 S Park St
+188,Hanover,NH,Topside,West Wheelock St
+189,Hanover,NH,"Jaybar, Inc",2 Allen St
+190,Hanover,NH,Collis Market,2 N Main St
+191,Lebanon,NH,Price Chopper,370 Miracle Mile Rd
+192,Lebanon,NH,Asoan Superstore,24 Hanover St
+193,Lebanon,NH,Lebanon Village Pizza,47 Hanover St
+194,Lebanon,NH,BJ's,Plainfield Road
+195,Newport,NH,Shaw's,48 John Stark Hwy
+196,Newport,NH,Coronis Market,81 Sunapee St
+197,North Haverhill,NH,Aldrich General Store,3039 Dartmouth College Hwy
+198,Orford,NH,Patterson's,not_available
+199,West Lebanon,NH,Coop Food Stores,209 Maple St
+200,West Lebanon,NH,Walmart,285 Plainfield Rd
+201,West Lebanon,NH,Shaw's,10 Benning Dr
+202,West Lebanon,NH,White River Co-op,Pine St
+203,West Lebanon,NH,Upper Valley Food Co-Op,193 N Main St
+204,West Lebanon,NH,Yipings Asian Market,not_available
+205,West Lebanon,NH,Sterns Quality Produce,83 Pine St
+206,West Lebanon,NH,Shaw's,250 Plainfield Rd
+207,Portsmouth,NH,Walmart Supercenter,2460 Lafayette Rd
+208,Portsmouth,NH,Market Basket,1500 Lafayette Rd
+209,Portsmouth,NH,Walmart,2200 Woodbury Ave
+210,Portsmouth,NH,Market Basket,1465 Woodbury Ave
+211,Portsmouth,NH,Trader Joe's,45 Gosling Rd
+212,Portsmouth,NH,McKinnon's Market & Super Butcher Shop,2454 Lafayette Rd
+213,Portsmouth,NH,Pic N Pay,800 Islington St
+214,Portsmouth,NH,Portsmouth Health Food Center,151 Congress St
+215,Portsmouth,NH,Portsmouth NSY Commissary,167 Beaumont St
+216,Portsmouth,NH,ALDI,2024 Woodbury Ave
+217,Portsmouth,NH,Philbrick's Fresh Market,755 Lafayette Rd
+218,Portsmouth,NH,Suds N Soda Sports,365 Portsmouth Ave # ROUTE33
+219,Portsmouth,NH,Tedeschi Food Shops,642 Islington St
+220,Portsmouth,NH,Stop & Shop,Portsmouth Avenue
+221,Portsmouth,NH,Taj Mahal Groceries,2800 Lafayette Rd - Heritage Commons
+222,Portsmouth,NH,Groceries on the go,167 State Rd
+223,Portsmouth,NH,Rising Tide Natural Foods,165 State Rd
+224,Alton,NH,Hannaford Supermarket,80 Wolfeboro Hwy
+225,Alton,NH,Fiddlehead Farms Marketplace,77 Main Street
+226,Alton Bay,NH,Hunter's IGA,N Main St
+227,Alton Bay,NH,Hunter's Shop 'n Save,60 South Main Street
+228,Bartlett,NH,Grant's Shop n' Save,9 US Route 302
+229,Center Conway,NH,Walmart Supercenter,46 N South Rd
+230,Center Ossipee,NH,Valuland,not_available
+231,Center Ossipee,NH,Value Land Food Stores,266-276 New Hampshire 16B
+232,Conway,NH,Shaw's,1150 Eastman Rd
+233,Conway,NH,Conway Shurfine,234 Mountain Highway
+234,Dover,NH,Walmart Supercenter,59 Waltons Way
+235,Dover,NH,Market Basket,60 Tri City Rd.
+236,Dover,NH,Shaw's,851 Central Ave
+237,Dover,NH,Tedeschi Food Shops,2 Back River Rd
+238,Dover,NH,Janetos Superette,77 Main St
+239,Dover,NH,ALDI Grocery Delivery,828 Central Ave
+240,Dover,NH,Happy Market,6 Jenkins Court
+241,Dover,NH,tedeschi,not_available
+242,Dover,NH,Tedeschi Food Shops,530 Central Ave
+243,Dover,NH,Campus Convenience,26 Main St
+244,Dover,NH,Dover Natural Marketplace & Cafe,7 Chestnut St
+245,Durham,NH,Newberry Farms Market,72 Main St
+246,Barrington,NH,Market Basket,54 Calef Hwy
+247,Barrington,NH,Lee Circle Grocery On Wheels,not_available
+248,East Wakefield,NH,Country Goods & Groceries,3400 Province Lake Rd.
+249,Exeter,NH,Market Basket,27 Portsmouth Ave
+250,Exeter,NH,On The Vine Marketplace,75 Portsmouth Ave
+251,Exeter,NH,Shaw's,100 Shaws Ln
+252,Farmington,NH,Walmart Supercenter,116 Farmington Rd
+253,Farmington,NH,Market Basket,Milton Rd.
+254,Hampton,NH,Walmart Supercenter,700 Lafayette Road Unit #1
+255,Hampton,NH,Market Basket,838 Lafayette Rd
+256,Hampton,NH,Shaw's,33 Lafayette Rd Unit 4
+257,Hampton,NH,Hampton Natural Foods,845 Lafayette Rd
+258,Intervale,NH,The Local Grocer,3358 White Mountain Hwy
+259,Intervale,NH,Vista Bev & Market,Hurricane Mountain Rd
+260,Newfields,NH,Stop and Shop,not_available
+261,Newmarket,NH,Newmarket Mini Mart,44 Exeter Rd
+262,Newton,NH,Merrimac Town Market,2-28 School St # 2-288
+263,North Hampton,NH,Philbrick's Fresh Market,69 Lafayette Rd
+264,Plaistow,NH,Market Basket,34 Plaistow Rd
+265,Plaistow,NH,Shaw's,4 Plaistow Rd
+266,Plaistow,NH,Walmart,58 Plaistow Rd
+267,Plaistow,NH,Aldi,9 Plaistow Rd
+268,Plaistow,NH,Gluten Free For You and Me,322 Groveland St
+269,Rochester,NH,Arthur's Market,1-11 Hancock St # 1-111-11
+270,Rochester,NH,Market Basket,96 Milton Rd
+271,Seabrook,NH,Market Basket,380 Lafayette Rd

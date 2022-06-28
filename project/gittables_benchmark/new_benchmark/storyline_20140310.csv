@@ -1,0 +1,82 @@
+,type,name,duration
+0,place,Home,43194
+1,move,walking,745
+2,place,Border Cafe,3437
+3,move,walking,544
+4,place,Proximate,19935
+5,move,walking,545
+6,place,Home,18001
+7,place,Home,27686
+8,move,walking,155
+9,place,Broadway Marketplace,144
+10,move,walking,493
+11,place,Experiment Fund,8130
+12,move,walking,637
+13,place,Proximate,22580
+14,move,walking,720
+15,place,Park,4249
+16,move,walking,1057
+17,place,Home,20550
+18,place,Home,47270
+19,move,walking,828
+20,place,Proximate,12931
+21,move,walking,423
+22,move,transport,931
+23,move,walking,871
+24,place,Place in Dock Square,480
+25,move,walking,664
+26,place,Hard Rock Cafe Boston,11825
+27,move,walking,264
+28,move,transport,1248
+29,place,Home,8664
+30,place,Home,44721
+31,move,walking,790
+32,place,Grendel's Den Restaurant & Bar,1989
+33,move,walking,485
+34,place,Proximate,11534
+35,move,walking,739
+36,place,Broadway Marketplace,618
+37,move,walking,309
+38,place,Home,19518
+39,place,Home,1294
+40,place,Home,39499
+41,move,walking,604
+42,place,Proximate,4313
+43,move,walking,704
+44,place,Grendel's Den Restaurant & Bar,2086
+45,move,walking,242
+46,move,underground,2542
+47,move,walking,243
+48,place,Boston Logan International Airport (BOS),4567
+49,move,airplane,4386
+50,place,Ronald Reagan Washington National Airport (DCA),668
+51,move,transport,148
+52,place,Place in Ronald Reagan Washington National Airport,525
+53,move,walking,663
+54,place,Place in Ronald Reagan Washington National Airport,513
+55,move,underground,868
+56,move,walking,481
+57,place,NTN24,1950
+58,move,walking,1727
+59,place,Sushi Go Round,4621
+60,move,walking,441
+61,place,Walgreens,1086
+62,move,car,1184
+63,place,Laura's Home,12339
+64,place,Laura's Home,52612
+65,move,walking,2026
+66,place,Apple Store,416
+67,move,walking,445
+68,place,TJ Maxx & HomeGoods,4165
+69,move,walking,289
+70,place,Old Glory,605
+71,move,transport,720
+72,move,walking,122
+73,place,Safeway,1453
+74,move,walking,1095
+75,place,Laura's Home,22454
+76,place,Laura's Home,49484
+77,move,walking,574
+78,place,Whole Foods Market,4600
+79,move,walking,681
+80,place,Laura's Home,31062

@@ -1,0 +1,23 @@
+,gender,age,country,state,day
+0,Female,12,United States,massachusetts,Sunday
+1,Female,12,United States,,Sunday
+2,Female,11,United States,Co,Sunday
+3,Female,10,Canada,Alberta,Sunday
+4,Female,12,United States,mn,Sunday
+5,Male,13,United States,massachusetts,Sunday
+6,Female,12,United States,cailifornia,Friday
+7,Male,13,United States,California ,Friday
+8,Male,12,United States,NH,Sunday
+9,Male,15,United States,Illinois,Friday
+10,Female,11,United States,Or,Friday
+11,Female,12,United States,PA,Sunday
+12,Female,12,United States,Mn,Friday
+13,Male,13,United States,IN,Friday
+14,Male,13,United States,Wisconsin,Friday
+15,Female,15,United States,Georgia ,Sunday
+16,Female,11,United States,Virginia,Friday
+17,Female,15,United States,NJ,Friday
+18,Male,13,United States,Illinois ,Friday
+19,Male,15,United States,WA,Friday
+20,Male,14,United Kingdom,West Yorkshire,Friday
+21,Male,11,United States,Texas,Sunday

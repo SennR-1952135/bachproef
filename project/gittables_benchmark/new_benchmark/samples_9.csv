@@ -1,0 +1,289 @@
+,species,sex,notes
+0,Anopheles_coluzzii,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+1,Anopheles_coluzzii,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+2,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+3,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+4,Anopheles_coluzzii,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+5,Anopheles_coluzzii,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+6,Anopheles_coluzzii,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+7,Anopheles_coluzzii,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+8,Anopheles_coluzzii,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+9,Anopheles_coluzzii,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+10,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+11,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+12,Anopheles_coluzzii,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+13,Anopheles_coluzzii,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+14,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+15,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+16,Anopheles_coluzzii,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+17,Anopheles_coluzzii,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+18,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+19,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+20,Anopheles_coluzzii,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+21,Anopheles_coluzzii,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+22,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+23,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+24,Anopheles_funestus,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+25,Anopheles_funestus,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+26,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+27,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+28,Anopheles_funestus,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+29,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+30,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+31,blank_sample,,57 (E8) - A blank (1:10) ~0ng/ul
+32,Anopheles_funestus,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+33,Anopheles_funestus,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+34,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+35,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+36,Anopheles_funestus,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+37,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+38,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+39,blank_sample,,58 (F8) - C blank (1:10) ~0ng/ul
+40,Anopheles_funestus,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+41,Anopheles_funestus,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+42,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+43,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+44,Anopheles_funestus,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+45,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+46,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+47,blank_sample,,59 (G8) - G blank (undil) ~0ng/ul
+48,Anopheles_funestus,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+49,Anopheles_funestus,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+50,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+51,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+52,Anopheles_funestus,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+53,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+54,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+55,blank_sample,,59 (G8) - G blank (1:2) ~0ng/ul
+56,Anopheles_annularis,,VBS00001 (A1) ~0.2ng/ul
+57,blank_sample,,water
+58,Anopheles_aconitus,,VBS00053 (F2) (1:2) ~3.9ng/ul
+59,Anopheles_hyrcanus,,VBS00084 (D3) (1:2) ~6.3ng/ul
+60,Anopheles_concolor,,con.142
+61,Anopheles_nili_ss,,nils.7
+62,Anopheles_brohieri,,bro.33
+63,Anopheles_brunnipes,,bru.12
+64,Anopheles_coluzzii,,col.415
+65,Anopheles_coustani,,cou.956
+66,Anopheles_coluzzii,,col.645
+67,Anopheles_demeilloni,,dem.19
+68,Anopheles_demeilloni,,dem.32
+69,Anopheles_dureni,,dur.97.5
+70,Anopheles_funestus,,fun.13
+71,Anopheles_funestus,,fun.9
+72,Anopheles_implexus,,imp.M190
+73,Anopheles_maculipalpis,,mac.47
+74,Anopheles_moucheti,,mou.2.1
+75,Anopheles_nili,,nil.237
+76,Anopheles_paludis,,pal.10
+77,Anopheles_paludis,,pal.257
+78,Anopheles_paludis,,pal.81
+79,Anopheles_rhodesiensis,,rho.7.2
+80,Anopheles_theileri,,the.6.2
+81,Anopheles_ziemanni,,zie.1055
+82,Anopheles_tenebrosus,,ten.79
+83,Anopheles_marshallii,,mar.3.1
+84,Anopheles_brohieri,,bro.21
+85,Anopheles_funestus,,fun.3
+86,Anopheles_funestus,female,"TZ22 - A - MinElute, 9.7ng/ul"
+87,Anopheles_funestus,female,"TZ23 - A - MinElute, 4.8ng/ul"
+88,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+89,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+90,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+91,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+92,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+93,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+94,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+95,blank_sample,,Infected set - A blank (1:10) ~0.0ng/ul
+96,Anopheles_coluzzii,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+97,Anopheles_coluzzii,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+98,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+99,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+100,Anopheles_coluzzii,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+101,Anopheles_coluzzii,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+102,Anopheles_coluzzii,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+103,Anopheles_coluzzii,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+104,Anopheles_coluzzii,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+105,Anopheles_coluzzii,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+106,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+107,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+108,Anopheles_coluzzii,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+109,Anopheles_coluzzii,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+110,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+111,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+112,Anopheles_coluzzii,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+113,Anopheles_coluzzii,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+114,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+115,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+116,Anopheles_coluzzii,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+117,Anopheles_coluzzii,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+118,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+119,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+120,Anopheles_funestus,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+121,Anopheles_funestus,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+122,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+123,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+124,Anopheles_funestus,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+125,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+126,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+127,blank_sample,,57 (E8) - A blank (1:10) ~0ng/ul
+128,Anopheles_funestus,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+129,Anopheles_funestus,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+130,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+131,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+132,Anopheles_funestus,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+133,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+134,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+135,blank_sample,,58 (F8) - C blank (1:10) ~0ng/ul
+136,Anopheles_funestus,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+137,Anopheles_funestus,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+138,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+139,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+140,Anopheles_funestus,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+141,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+142,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+143,blank_sample,,59 (G8) - G blank (undil) ~0ng/ul
+144,Anopheles_funestus,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+145,Anopheles_funestus,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+146,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+147,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+148,Anopheles_funestus,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+149,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+150,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+151,blank_sample,,59 (G8) - G blank (1:2) ~0ng/ul
+152,Anopheles_annularis,,VBS00001 (A1) ~0.2ng/ul
+153,blank_sample,,water
+154,Anopheles_aconitus,,VBS00053 (F2) (1:2) ~3.9ng/ul
+155,Anopheles_hyrcanus,,VBS00084 (D3) (1:2) ~6.3ng/ul
+156,Anopheles_concolor,,con.142
+157,Anopheles_nili_ss,,nils.7
+158,Anopheles_brohieri,,bro.33
+159,Anopheles_brunnipes,,bru.12
+160,Anopheles_coluzzii,,col.415
+161,Anopheles_coustani,,cou.956
+162,Anopheles_coluzzii,,col.645
+163,Anopheles_demeilloni,,dem.19
+164,Anopheles_demeilloni,,dem.32
+165,Anopheles_dureni,,dur.97.5
+166,Anopheles_funestus,,fun.13
+167,Anopheles_funestus,,fun.9
+168,Anopheles_implexus,,imp.M190
+169,Anopheles_maculipalpis,,mac.47
+170,Anopheles_moucheti,,mou.2.1
+171,Anopheles_nili,,nil.237
+172,Anopheles_paludis,,pal.10
+173,Anopheles_paludis,,pal.257
+174,Anopheles_paludis,,pal.81
+175,Anopheles_rhodesiensis,,rho.7.2
+176,Anopheles_theileri,,the.6.2
+177,Anopheles_ziemanni,,zie.1055
+178,Anopheles_tenebrosus,,ten.79
+179,Anopheles_marshallii,,mar.3.1
+180,Anopheles_brohieri,,bro.21
+181,Anopheles_funestus,,fun.3
+182,Anopheles_funestus,female,"TZ22 - A - MinElute, 9.7ng/ul"
+183,Anopheles_funestus,female,"TZ23 - A - MinElute, 4.8ng/ul"
+184,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+185,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+186,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+187,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+188,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+189,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+190,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+191,blank_sample,,Infected set - A blank (1:10) ~0.0ng/ul
+192,Anopheles_coluzzii,male,"1 (A1) - male, RT, A (1) (1:10) ~0.55ng/ul"
+193,Anopheles_coluzzii,male,"2 (B1) - male, RT, C (1) (1:10) ~0.16ng/ul"
+194,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (undil) ~3.8ng/ul"
+195,Anopheles_coluzzii,male,"3 (C1) - male, RT, G (1) (1:2) ~1.9ng/ul"
+196,Anopheles_coluzzii,female,"7 (G1) - female, RT, A (1) (1:10) ~0.58ng/ul"
+197,Anopheles_coluzzii,female,"8 (H1) - female, RT, C (1) (1:10) ~0.28ng/ul"
+198,Anopheles_coluzzii,female,"9 (A2)- female, RT, G (1) (undil) ~5.3ng/ul"
+199,Anopheles_coluzzii,female,"9 (A2) - female, RT, G (1) (1:2) ~2.6ng/ul"
+200,Anopheles_coluzzii,unknown,"13 (E2) - EtOH, RT, A (1) (1:10) ~0.09ng/ul"
+201,Anopheles_coluzzii,unknown,"14 (F2) - EtOH, RT, C (1) (1:10) ~0.21ng/ul"
+202,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (undil) ~2.7ng/ul"
+203,Anopheles_coluzzii,unknown,"15 (G2) - EtOH, RT, G (1) (1:2) ~1.3ng/ul"
+204,Anopheles_coluzzii,male,"19 (C3) - male, 37C, A (1) (1:10) ~0.52ng/ul"
+205,Anopheles_coluzzii,male,"20 (D3) - male, 37C, C (1) (1:10) ~0.24ng/ul"
+206,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (undil) ~2.7ng/ul"
+207,Anopheles_coluzzii,male,"21 (E3) - male, 37C, G (1) (1:2) ~1.3ng/ul"
+208,Anopheles_coluzzii,female,"25 (A4) - female, 37C, A (1) (1:10) ~1.46ng/ul"
+209,Anopheles_coluzzii,female,"26 (B4) - female, 37C, C (1) (1:10) ~0.47ng/ul"
+210,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (undil) ~4.6ng/ul"
+211,Anopheles_coluzzii,female,"27 (C4) - female, 37C, G (1) (1:2) ~2.3ng/ul"
+212,Anopheles_coluzzii,unknown,"31 (G4) - EtOH, 37C, A (1) (1:10) ~0.42ng/ul"
+213,Anopheles_coluzzii,unknown,"32 (H4) - EtOH, 37C, C (1) (1:10) ~0.11ng/ul"
+214,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (undil) ~3.9ng/ul"
+215,Anopheles_coluzzii,unknown,"33 (A5) - EtOH, 37C, G (1) (1:2) ~1.9ng/ul"
+216,Anopheles_funestus,female,"37 (A6) - KP13, RT, A (1:10) ~0.98ng/ul"
+217,Anopheles_funestus,female,"38 (B6) - KP14, RT, C (1:10) ~0.49ng/ul"
+218,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (undil) ~3.9ng/ul"
+219,Anopheles_funestus,female,"39 (C6) - KP15, RT, G (1:2) ~1.9ng/ul"
+220,Anopheles_funestus,female,"40 (D6) - KP16, RT, C (1:10) ~0.85ng/ul"
+221,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (undil) ~2.7ng/ul"
+222,Anopheles_funestus,female,"41 (E6) - KP17, RT, G (1:2) ~1.3ng/ul"
+223,blank_sample,,57 (E8) - A blank (1:10) ~0ng/ul
+224,Anopheles_funestus,female,"42 (F6) - KP18, 37C, A (1:10) ~1.96ng/ul"
+225,Anopheles_funestus,female,"43 (G6) - KP19, 37C, C (1:10) ~0.50ng/ul"
+226,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (undil) ~3.2ng/ul"
+227,Anopheles_funestus,female,"44 (H6) - KP20, 37C, G (1:2) ~1.6ng/ul"
+228,Anopheles_funestus,female,"45 (A7) - KP21, 37C, C (1:10) ~0.40ng/ul"
+229,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (undil) ~4.1ng/ul"
+230,Anopheles_funestus,female,"46 (B7) - KP22, 37C, G (1:2) ~2.0ng/ul"
+231,blank_sample,,58 (F8) - C blank (1:10) ~0ng/ul
+232,Anopheles_funestus,female,"47 (C7) - TZ35, RT, A (1:10) ~1.18ng/ul"
+233,Anopheles_funestus,female,"48 (D7) - TZ36, RT, C (1:10) ~0.57ng/ul"
+234,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (undil) ~8.0ng/ul"
+235,Anopheles_funestus,female,"49 (E7) - TZ37, RT, G (1:2) ~4.0ng/ul"
+236,Anopheles_funestus,female,"50 (F7) - TZ38, RT, C (1:10) ~1.26ng/ul"
+237,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (undil) ~5.3ng/ul"
+238,Anopheles_funestus,female,"51 (G7) - TZ39, RT, G (1:2) ~2.6ng/ul"
+239,blank_sample,,59 (G8) - G blank (undil) ~0ng/ul
+240,Anopheles_funestus,female,"52 (H7) - TZ40, 37C, A (1:10) ~1.76ng/ul"
+241,Anopheles_funestus,female,"53 (A8) - TZ41, 37C, C (1:10) ~0.25ng/ul"
+242,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (undil) ~2.6ng/ul"
+243,Anopheles_funestus,female,"54 (B8) - TZ42, 37C, G (1:2) ~1.3ng/ul"
+244,Anopheles_funestus,female,"55 (C8) - TZ43, 37C, C (1:10) ~0.65ng/ul"
+245,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (undil) ~3.2ng/ul"
+246,Anopheles_funestus,female,"56 (D8) - TZ44, 37C, G (1:2) ~1.6ng/ul"
+247,blank_sample,,59 (G8) - G blank (1:2) ~0ng/ul
+248,Anopheles_annularis,,VBS00001 (A1) ~0.2ng/ul
+249,blank_sample,,water
+250,Anopheles_aconitus,,VBS00053 (F2) (1:2) ~3.9ng/ul
+251,Anopheles_hyrcanus,,VBS00084 (D3) (1:2) ~6.3ng/ul
+252,Anopheles_concolor,,con.142
+253,Anopheles_nili_ss,,nils.7
+254,Anopheles_brohieri,,bro.33
+255,Anopheles_brunnipes,,bru.12
+256,Anopheles_coluzzii,,col.415
+257,Anopheles_coustani,,cou.956
+258,Anopheles_coluzzii,,col.645
+259,Anopheles_demeilloni,,dem.19
+260,Anopheles_demeilloni,,dem.32
+261,Anopheles_dureni,,dur.97.5
+262,Anopheles_funestus,,fun.13
+263,Anopheles_funestus,,fun.9
+264,Anopheles_implexus,,imp.M190
+265,Anopheles_maculipalpis,,mac.47
+266,Anopheles_moucheti,,mou.2.1
+267,Anopheles_nili,,nil.237
+268,Anopheles_paludis,,pal.10
+269,Anopheles_paludis,,pal.257
+270,Anopheles_paludis,,pal.81
+271,Anopheles_rhodesiensis,,rho.7.2
+272,Anopheles_theileri,,the.6.2
+273,Anopheles_ziemanni,,zie.1055
+274,Anopheles_tenebrosus,,ten.79
+275,Anopheles_marshallii,,mar.3.1
+276,Anopheles_brohieri,,bro.21
+277,Anopheles_funestus,,fun.3
+278,Anopheles_funestus,female,"TZ22 - A - MinElute, 9.7ng/ul"
+279,Anopheles_funestus,female,"TZ23 - A - MinElute, 4.8ng/ul"
+280,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (carcass), A 37C (1:10) ~10.3ng/ul"
+281,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (carcass), A 37C (1:10) ~1.9ng/ul"
+282,Anopheles_gambiae,female,"office mosquito (gambiae?) + P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+283,Anopheles_gambiae,female,"office mosquito (gambiae?) - P. falciparum (gut), A 37C (1:10) ~0.0ng/ul"
+284,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+285,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) + P. berghei (whole), A 37C (1:10) ~2.0ng/ul"
+286,Anopheles_stephensi,female,"Silvain mosquito (An. stephensi) - P. berghei (whole), A 37C (1:10) ~1.4ng/ul"
+287,blank_sample,,Infected set - A blank (1:10) ~0.0ng/ul

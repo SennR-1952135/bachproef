@@ -1,0 +1,12 @@
+,product,component,status
+0,Papyrus-rt,General,UNCONFIRMED
+1,Papyrus-rt,codegen,NEW
+2,Papyrus-rt,tool,NEW
+3,Papyrus-rt,codegen,NEW
+4,Papyrus-rt,runtime,NEW
+5,Papyrus-rt,core,NEW
+6,Papyrus-rt,General,NEW
+7,Papyrus-rt,tool,ASSIGNED
+8,Papyrus-rt,releng,REOPENED
+9,Papyrus-rt,General,RESOLVED
+10,Papyrus-rt,core,CLOSED

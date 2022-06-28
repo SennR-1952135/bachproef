@@ -1,0 +1,295 @@
+,city,state,name,address
+0,Cape Neddick,ME,Village Food Market,230 Main St
+1,Eliot,ME,Walmart,2200 Woodbury Ave
+2,Eliot,ME,Trader Joe's,45 Gosling Rd
+3,Eliot,ME,ALDI,2024 Woodbury Ave
+4,Eliot,ME,India Bazaar,not_available
+5,Eliot,ME,Groceries on the go,167 State Rd
+6,Eliot,ME,Rising Tide Natural Foods,165 State Rd
+7,Kittery,ME,Portsmouth Health Food Center,151 Congress St
+8,Kittery,ME,The View at Pepperrell Cove,88 Pepperrell Rd
+9,Kittery,ME,Portsmouth NSY Commissary,167 Beaumont St
+10,North Berwick,ME,Shaw's,1364 Main St
+11,North Berwick,ME,Willow Brooke Farms,381 High St
+12,York,ME,Oceanside Store - Long Sands Beach,not_available
+13,Alfred,ME,Goodwin Mills General Store,480 Goodwins Mills Rd
+14,Alfred,ME,Alfred Country Store,3 Saco Rd
+15,Alfred,ME,B & J's Vapes,898 Main St #105
+16,Alfred,ME,Hannaford,not_available
+17,Alfred,ME,"Hannafords, waterboro, Me",not_available
+18,Biddeford,ME,Market Basket,220 Mariner Way #4005
+19,Biddeford,ME,Shaw's,4 Scammon St Ste 10
+20,Biddeford,ME,Walmart Grocery Pickup & Delivery,50 Boulder Way
+21,Biddeford,ME,Landry's Shop n Save,2 Cascade Rd
+22,Biddeford,ME,Cummings Market,RT.35
+23,Biddeford,ME,Red Rocket Gas and Grocery,141 Saco Ave
+24,Biddeford,ME,New Morning Natural Foods,230 Main St
+25,Biddeford,ME,Alltown,613 US-1
+26,Biddeford,ME,AZ's,not_available
+27,Bridgton,ME,Food City,295 Main St
+28,Brownfield,ME,Brownfield Country Market,1 Birch Ln
+29,Brunswick,ME,Walmart Supercenter,15 Tibbetts Dr
+30,Brunswick,ME,Shaw's,147 Bath Rd
+31,Brunswick,ME,Vegetable Corner,Harpswell neck road
+32,Brunswick,ME,Morning Glory Natural Foods,60 Maine St
+33,Casco,ME,Bob's Place,not_available
+34,Cornish,ME,Call's Shop 'n Save,not_available
+35,Lebanon,ME,Market Basket,96 Milton Rd
+36,Freeport,ME,Shaw's,200 Lower Main St
+37,Freeport,ME,Royal River Natural Foods,443 Route 1
+38,Fryeburg,ME,Center Lovell Market,not_available
+39,Fryeburg,ME,Bea's Marketplace,14 Portland St
+40,Fryeburg,ME,Thriftway,not_available
+41,Gorham,ME,Hannaford Supermarket,71 Colonial Drive
+42,Gorham,ME,Sawyer's Market,not_available
+43,Gorham,ME,Yogurt Aisle,not_available
+44,Gorham,ME,The C Store,37 College Ave
+45,Gray,ME,Gray Shop 'N Save,35 Portland Rd
+46,Gray,ME,Gray Supermarket,not_available
+47,Kennebunk,ME,Big Apple,6 Western Ave
+48,Kennebunk,ME,New Morning Natural Foods,3 York St
+49,Kennebunk,ME,Garden Street Market,1 Garden St
+50,Kennebunkport,ME,Bradbury Brothers Market,167 Main St
+51,Limerick,ME,Limerick Supermarket,54 Central Ave
+52,Long Island,ME,Hannigan's Island Market,76 Island Ave
+53,Naples,ME,Umbrella Factory,693 Roosevelt Trail
+54,Newfield,ME,Hilltop Boilers Maple Syrup,157 Elm St
+55,Windham,ME,Walmart Supercenter,30 Landing Rd
+56,Windham,ME,Shaw's,770 Roosevelt Trail
+57,Windham,ME,Country Kitchen Bakery Outlet,669 Roosevelt Trl
+58,Sanford,ME,Walmart Supercenter,1930 Main St
+59,Sanford,ME,Little Yellow Store,586 Quarry Rd
+60,Scarborough,ME,Walmart Supercenter,500 Gallery Blvd
+61,Scarborough,ME,Rosemont West End,40 Pine St
+62,Scarborough,ME,Shaw's,417 Payne Rd
+63,Scarborough,ME,Hong Kong Market,945 Congress St
+64,Scarborough,ME,Joe's Smoke Shop,665 Congress St
+65,Scarborough,ME,Lois' Natural Marketplace,152 US Route 1
+66,Scarborough,ME,Sonny's Variety,935 Congress St
+67,Scarborough,ME,Save-A-Lot,268 St John St
+68,Scarborough,ME,Hannaford Supermarkets,145 Pleasant Hill Rd
+69,Scarborough,ME,Shaw's,180 Waterman Dr
+70,Scarborough,ME,Vespucci's,Danforth St.
+71,Scarborough,ME,Al-Amin Halaal Market,St. John St
+72,Scarborough,ME,Maine Lobster Now,58 City Line Dr
+73,Scarborough,ME,Highland Avenue Greenhouse and Farm Market,109 Highland Ave
+74,Shapleigh,ME,One Earth,191 Emery Mills Rd
+75,Waterford,ME,Springer's General Store,1218 Waterford Rd
+76,Wells,ME,Wells Super Food Market,not_available
+77,Wells,ME,Iga,Well Center
+78,Wells,ME,Wells corner shopping center,Post rd
+79,Westbrook,ME,Market Basket,90 Rock Row
+80,Westbrook,ME,Shaw's,31 Main St
+81,Westbrook,ME,Makara's Market,1104 Brighton Ave
+82,Westbrook,ME,Register #10,7 Hannaford Dr
+83,Westbrook,ME,Tigris Market,11 Bridge St
+84,West Newfield,ME,Country Goods & Groceries,3400 Province Lake Rd.
+85,Portland,ME,Whole Foods Market,2 Somerset St
+86,Portland,ME,Trader Joe's,87 Marginal Way
+87,Portland,ME,Portland Food Co-op,290 Congress St
+88,Portland,ME,Stonewall Kitchen,182 Middle St
+89,Portland,ME,Hilltop Superette,135 Congress St
+90,Portland,ME,Maine's Pantry,1 Union Wharf
+91,Portland,ME,Veranda Asian Market,not_available
+92,Portland,ME,Discount Halal Market,44 Washington Ave
+93,Portland,ME,Halah Market,61 Washington Ave
+94,Portland,ME,Shaw's,1364 Congress St
+95,Portland,ME,Shaw's,91 Auburn St
+96,Portland,ME,Greenlaw Home,135 Regan Ln
+97,Falmouth,ME,Shaws Falmouth,251 US Route 1
+98,Falmouth,ME,Hannaford Supermarket,65 Gray Rd
+99,Falmouth,ME,Walmart,206 Us Rt 1
+100,Falmouth,ME,Waldo's General Store,178 US Route 1
+101,Falmouth,ME,Shaw's,251 US Hwy 1
+102,South Portland,ME,Drama Creek,not_available
+103,South Portland,ME,Smaha's Legion Square Market,101 Ocean St
+104,Cape Elizabeth,ME,IGA,Ocean House Road
+105,Auburn,ME,Walmart Supercenter,100 Mount Auburn Ave
+106,Auburn,ME,Shaw's,27 E Ave
+107,Auburn,ME,Bourques,550 Sabattus st
+108,Auburn,ME,Shaw's,600 Center St
+109,Auburn,ME,Borque's,Pine Street
+110,Auburn,ME,Save-A-Lot,10 East Ave
+111,Auburn,ME,Wonder Hostess,not_available
+112,Auburn,ME,Union Market,159 Oak St
+113,Andover,ME,Andover General Store And Diner,not_available
+114,Bethel,ME,Shop N Save,8 High St.
+115,Bethel,ME,Bethel Hannaford,Main st
+116,Buckfield,ME,Tiltons Market,11 Turner St
+117,Buckfield,ME,Food city,1355 Auburn Rd #5
+118,Durham,ME,Kitty Korner Store,not_available
+119,Dixfield,ME,Walmart Supercenter,258 River Rd
+120,Greene,ME,IGA,432-460 Maine 100
+121,Jay,ME,Food City,main st
+122,Mechanic Falls,ME,Hannaford Supermarket,50 Pigeon Hill Rd
+123,Mechanic Falls,ME,Future foods,5 Depot Square
+124,Minot,ME,Minot Country Store,174 Minot Ave
+125,New Gloucester,ME,The Penny Store,not_available
+126,Norway,ME,Save-A-Lot,179 Main St Suite 1
+127,Norway,ME,Save A Lot,179 Main St
+128,Norway,ME,Fare Share Market,443 Main St
+129,Oxford,ME,Walmart Supercenter,1240 Main St
+130,Weld,ME,Pasar Mini Nigella,The Weld
+131,Wilton,ME,Walmart Supercenter,615 Wilton Rd
+132,Wilton,ME,Ron's Market,144 High St
+133,Wilton,ME,Tranten's,180 Main St
+134,Wilton,ME,Food City,2-10 Post Office Ln
+135,Wilton,ME,Big Lots,634 Wilton Rd (us 2)
+136,Wilton,ME,Save-A-Lot,654 Wilton Rd
+137,Augusta,ME,Walmart Supercenter,201 Civic Center Dr
+138,Augusta,ME,IGA,Route 27
+139,Augusta,ME,Shaw's,150 Western Ave
+140,Augusta,ME,Harvest Time Natural Foods,not_available
+141,Augusta,ME,Farmingdale Seafoods,546 Maine Ave
+142,Gardiner,ME,Fuller's Market,not_available
+143,Jefferson,ME,Hussey's General Store,510 Ridge Rd
+144,Jefferson,ME,Country Corners Grocery,184 Main St
+145,Jefferson,ME,Jefferson Market,242 Waldoboro Road
+146,Mount Vernon,ME,Day's General Store,182 Main St.
+147,Palermo,ME,Tobey's Grocery,1408 Maine Route 3
+148,South China,ME,Hannaford Supermarket,Windsor rd.
+149,Bangor,ME,Walmart Supercenter,900 Stillwater Ave
+150,Bangor,ME,Shaw's,353 Main St
+151,Bangor,ME,Walmart Supercenter,24 Walton Dr
+152,Bangor,ME,Save-A-Lot,87 S Main St
+153,Bangor,ME,Danforth's Down Home Supermarket,2402 U.S. 2
+154,Bangor,ME,Paradis Shop 'n Save,397 N Main St
+155,Bangor,ME,Bangor ANGB Commissary,99 Pesch Cir Ste 420
+156,Bradley,ME,Hilltop Market,not_available
+157,Bradley,ME,Thriftway Food Center,153 Park St
+158,Bucksport,ME,Tozier's Bucksport Variety,127 Main Street
+159,Bucksport,ME,Snowman's Grocery,11-95 Duck Cove Rd
+160,Castine,ME,T & C Grocery,12 Water St.
+161,Dover Foxcroft,ME,Tradewinds Market,55 Park St Ste 2
+162,Dover Foxcroft,ME,Save A Lot,1090 W Main St
+163,Dover Foxcroft,ME,Will's Shop'n Save,22 North St
+164,Dover Foxcroft,ME,Save A Lot,not_available
+165,Dover Foxcroft,ME,Shaw's,1073 W Main St
+166,Corinth,ME,Whitney's Family Supermarket,689 Main Street
+167,Corinth,ME,Tradewinds Marketplace,689 MainSt.
+168,East Millinocket,ME,Lounsbury,not_available
+169,Greenville,ME,Indian Hill Shop 'n Save,148 Moosehead Lake Rd
+170,Guilford,ME,IGA,Walter Street
+171,Lincoln,ME,Walmart,250 W Broadway
+172,Lincoln,ME,Steaks N Stuff,14 Mechanic St
+173,Lincoln,ME,Tops Market,Military Rd
+174,Medway,ME,Lennies Superette,not_available
+175,Millinocket,ME,Save-A-Lot,820 Central St
+176,Old Town,ME,Bell's Orono IGA,6 Stillwater Ave
+177,Old Town,ME,Alton Grocery,not_available
+178,Bath,ME,Brackett's Market,185 Front St
+179,Bath,ME,Shaw's,1 Chandler Dr
+180,Bath,ME,Georgetown Country Store,769 Five Islands Rd
+181,Alna,ME,Alna Store,2 Dock Rd
+182,Boothbay,ME,Southport General Store,443 Hendricks Hill Rd
+183,Boothbay,ME,rising tide organic Market,not_available
+184,Damariscotta,ME,Rising Tide Community Market,323 Main St
+185,Damariscotta,ME,Main Street Grocery,not_available
+186,Friendship,ME,Reilly's and Son Grocery,not_available
+187,New Harbor,ME,C E Reilly & Sons grocery,not_available
+188,Wiscasset,ME,Shaw's,670 Bath Rd
+189,Wiscasset,ME,Huber's Market,Rt 1
+190,Ellsworth,ME,Walmart Supercenter,17 Myrick St
+191,Ellsworth,ME,Shaw's,175 High St
+192,Ellsworth,ME,Trade Winds Market,15 South St
+193,Ellsworth,ME,Blue Hill Co-op,70 South Street
+194,Ellsworth,ME,shop n save,not_available
+195,Ellsworth,ME,Friends & Family Market,390 State St
+196,Addison,ME,4 corners Shop N Save,not_available
+197,Gouldsboro,ME,A & B Naturals Inc.,101 Cottage St
+198,Gouldsboro,ME,Winter Harbor Food Service/IGA,101 Main St
+199,Calais,ME,Tradewind's Shop 'n Save,85 South St.
+200,Calais,ME,Hannaford,361 South St
+201,Calais,ME,Walmart Supercenter,379 South St
+202,Deer Isle,ME,Harbor View Store,5 Atlantic Ave.
+203,Deer Isle,ME,The Galley,North Deer Isle Road (Rt 15)
+204,Isle Au Haut,ME,Isle Au Haut General Store,not_available
+205,Jonesport,ME,Manaford's Market,not_available
+206,Jonesport,ME,IGA,Main Street
+207,Lubec,ME,Lyon's  IGA,82 Washington St
+208,Lubec,ME,McFadden's Grocery,259 County Rd
+209,Mount Desert,ME,Sawyer's Market,344 Main St
+210,Princeton,ME,Princeton Food Mart,123 Main Street
+211,Baileyville,ME,Woodland Thriftway,not_available
+212,Houlton,ME,Walmart,17 Ludlow Rd
+213,Houlton,ME,Hannaford Supermarket,33 Ludlow Rd
+214,Houlton,ME,Hannaford Supermarket,not_available
+215,Houlton,ME,Andy's Houlton Foodliner IGA,132 North St
+216,Ashland,ME,Ashland Food Mart,not_available
+217,Caribou,ME,Shop N Save,114 High St
+218,Caribou,ME,Save-A-Lot,42 Skyway Plaza
+219,Easton,ME,Easton Square,Station Rd
+220,Easton,ME,Country Farms Market,not_available
+221,Estcourt Station,ME,Marché Richelieu - Alimentation J.P. Labonté & Fils,451 Rue Principale
+222,Fort Fairfield,ME,Hillside IGA,207 Main St
+223,Fort Kent,ME,Paradis Shop'n Save,62 W Main St Ste 101
+224,Fort Kent,ME,Marché Bonichoix,1976 Rue Commerciale
+225,Fort Kent,ME,John's Shurfine,182 Market St
+226,Fort Kent,ME,Off The Grid Market Place,26 Market St
+227,Frenchville,ME,Paradis Shop'n Save Supermarkets (Paradis Shop'n Save),58 Main St
+228,Frenchville,ME,Gary Babin's Grocery,not_available
+229,Island Falls,ME,Oakfield Thriftway,40 River Road
+230,Island Falls,ME,Jerry's Food Store,not_available
+231,Limestone,ME,Mike's Family Market,5 Main St
+232,Madawaska,ME,La p'tite Boucherie,632 rue St-François
+233,Mars Hill,ME,Mars Hill IGA,not_available
+234,Presque Isle,ME,Walmart Supercenter,781 Main St
+235,Presque Isle,ME,Graves Shop And Save,not_available
+236,Presque Isle,ME,Steaks N Stuff,60
+237,Presque Isle,ME,Save A Lot,76 Parsons St
+238,Presque Isle,ME,Star City IGA,247 Main St
+239,Saint Francis,ME,Les Marchés Tradition,35 Principale Nord
+240,Saint Francis,ME,Marché Tradition - Coop de St-Pamphile,35 Rte Principale N
+241,Van Buren,ME,Marché Bonichoix,746 rue Principale
+242,Van Buren,ME,Marché Bonichoix,746 Rue Principale
+243,Rockland,ME,Walmart Supercenter,55 Thomaston Commons Way
+244,Rockland,ME,Shaw's,235 Camden St
+245,Rockland,ME,Main Street Markets,435 Main St
+246,Rockland,ME,#inLineAtHannaford,75 Maverick St
+247,Rockland,ME,Rockland Food Service,195 Park St
+248,Rockland,ME,Good Tern Natural Foods,750 Main St
+249,Camden,ME,French & Brawn,1 Elm St
+250,Camden,ME,Bleecker & Greer,not_available
+251,South Thomaston,ME,Thomaston Grocery,193 Main St
+252,Union,ME,The Common Market,not_available
+253,Waterville,ME,Hannaford Supermarket,190 JFK Plz
+254,Waterville,ME,Uncle Dean's Good Groceries,80 Grove St
+255,Waterville,ME,Hannaford To Go,not_available
+256,Waterville,ME,Walmart Grocery Pickup,80 Waterville Commons Dr
+257,Waterville,ME,Shaw's,251 Kennedy Memorial Dr
+258,Waterville,ME,Village Market,95 Main St
+259,Waterville,ME,Save-A-Lot,20 W Concourse
+260,Waterville,ME,Save-A-Lot,20 Concourse W
+261,Athens,ME,Athens Corner Store,8 Main Street
+262,Belfast,ME,Swan Lake Grocery,979 Swan Lake Ave
+263,Clinton,ME,Tradewinds Market,153 Hinckley Rd
+264,Clinton,ME,Dick's Market,"Main St, Clinton, ME 04927"
+265,Corinna,ME,Pl Country Market,Rte 7
+266,Dexter,ME,Hannaford Supermarket,37 Church St
+267,Dexter,ME,Buds Shop & Save Dexter,15-19 Church St
+268,Eustis,ME,Équipements D'Érablière Bhr Inc,70 ch Lachance
+269,Eustis,ME,Pines Market,975 The Arnold Trl
+270,Farmington,ME,Douin's Market,150 Mercer Rd
+271,Farmington,ME,Beal's General Store,44 N Main St
+272,Hartland,ME,Moose Lake Market,67 Main Street
+273,Jackman,ME,Mountain Country Supermarket,554 Main St
+274,Jackman,ME,Intermarché,2650 25e Avenue
+275,Jackman,ME,IGA,"188, Route 204"
+276,Jackman,ME,Metro Lac Etchemin,1575 Route 277
+277,Jackman,ME,Centre Commercial Coop,Rue de la Coop
+278,Jackman,ME,IGA Coop de Ste-Justine,188 204 Rte
+279,Jackman,ME,Metro Lac Etchemin,1575 277 Rte
+280,Jackman,ME,Marché Richelieu Alimentation Louis-Jacques Poulin,190 chemin des Bois-Francs
+281,Kingfield,ME,Mountainside Grocery,not_available
+282,Madison,ME,Walmart Grocery Pickup,60 Fairgrounds Mkt Pl
+283,Newport,ME,Walmart Supercenter,1573 Main St
+284,Newport,ME,Buds Shop 'n Save (Hannaford),44 Moosehead Trl
+285,Newport,ME,Endless Herbs,134 Main St
+286,Oquossoc,ME,IGA,2185 Main St
+287,Oquossoc,ME,Oquossoc Grocery,not_available
+288,Oquossoc,ME,The Farmer's Daughter,"Rangeley, ME"
+289,Phillips,ME,Edmund's Market,Dodge Road
+290,Pittsfield,ME,Bud's Shop 'N Save,101 Somerset Plz
+291,Searsport,ME,Toziers,not_available
+292,Skowhegan,ME,George's Banana Stand,121 North Ave
+293,Unity,ME,Edwards,not_available

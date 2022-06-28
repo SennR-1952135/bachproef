@@ -1,0 +1,506 @@
+,symbol,city,state
+0,MMM,Saint Paul,Minnesota
+1,ABT,North Chicago,Illinois
+2,ABBV,North Chicago,Illinois
+3,ACN,Dublin,Ireland
+4,ATVI,Santa Monica,California
+5,AYI,Atlanta,Georgia
+6,ADBE,San Jose,California
+7,AAP,Roanoke,Virginia
+8,AES,Arlington,Virginia
+9,AET,Hartford,Connecticut
+10,AMG,Beverly,Massachusetts
+11,AFL,Columbus,Georgia
+12,A,Santa Clara,California
+13,APD,Allentown,Pennsylvania
+14,AKAM,Cambridge,Massachusetts
+15,ALK,Seattle,Washington
+16,ALB,Baton Rouge,Louisiana
+17,AGN,Dublin,Ireland
+18,LNT,Madison,Wisconsin
+19,ALXN,Cheshire,Connecticut
+20,ALLE,Dublin,Ireland
+21,ADS,Plano,Texas
+22,ALL,Northfield Township,Illinois
+23,GOOGL,Mountain View,California
+24,GOOG,Mountain View,California
+25,MO,Richmond,Virginia
+26,AMZN,Seattle,Washington
+27,AEE,Saint Louis,Missouri
+28,AAL,Fort Worth,Texas
+29,AEP,Columbus,Ohio
+30,AXP,New York,New York
+31,AIG,New York,New York
+32,AMT,Boston,Massachusetts
+33,AWK,Voorhees,New Jersey
+34,AMP,Minneapolis,Minnesota
+35,ABC,Chesterbrook,Pennsylvania
+36,AME,Berwyn,Pennsylvania
+37,AMGN,Thousand Oaks,California
+38,APH,Wallingford,Connecticut
+39,APC,The Woodlands,Texas
+40,ADI,Norwood,Massachusetts
+41,ANTM,Indianapolis,Indiana
+42,AON,London,United Kingdom
+43,APA,Houston,Texas
+44,AIV,Denver,Colorado
+45,AAPL,Cupertino,California
+46,AMAT,Santa Clara,California
+47,ADM,Decatur,Illinois
+48,ARNC,New York,New York
+49,AJG,Itasca,Illinois
+50,AIZ,New York,New York
+51,T,Dallas,Texas
+52,ADSK,San Rafael,California
+53,ADP,Roseland,New Jersey
+54,AN,Fort Lauderdale,Florida
+55,AZO,Memphis,Tennessee
+56,AVB,Arlington,Virginia
+57,AVY,Glendale,California
+58,BHI,Houston,Texas
+59,BLL,Broomfield,Colorado
+60,BAC,Charlotte,North Carolina
+61,BK,New York,New York
+62,BCR,Murray Hill,New Jersey
+63,BAX,Deerfield,Illinois
+64,BBT,Winston Salem,North Carolina
+65,BDX,Franklin Lakes,New Jersey
+66,BBBY,Union,New Jersey
+67,BRK-B,Omaha,Nebraska
+68,BBY,Richfield,Minnesota
+69,BIIB,Weston,Massachusetts
+70,BLK,New York,New York
+71,HRB,Kansas City,Missouri
+72,BA,Chicago,Illinois
+73,BWA,Auburn Hills,Michigan
+74,BXP,Boston,Massachusetts
+75,BSX,Marlborough,Massachusetts
+76,BMY,New York,New York
+77,AVGO,San Jose,California
+78,BF-B,Louisville,Kentucky
+79,CHRW,Eden Prairie,Minnesota
+80,CA,Islandia,New York
+81,COG,Houston,Texas
+82,CPB,Camden,New Jersey
+83,COF,Tysons Corner,Virginia
+84,CAH,Dublin,Ohio
+85,HSIC,Melville,New York
+86,KMX,Richmond,Virginia
+87,CCL,Miami,Florida
+88,CAT,Peoria,Illinois
+89,CBG,Los Angeles,California
+90,CBS,New York,New York
+91,CELG,Summit,New Jersey
+92,CNC,Saint Louis,Missouri
+93,CNP,Houston,Texas
+94,CTL,Monroe,Louisiana
+95,CERN,North Kansas City,Missouri
+96,CF,Deerfield,Illinois
+97,SCHW,San Francisco,California
+98,CHTR,Stamford,Connecticut
+99,CHK,Oklahoma City,Oklahoma
+100,CVX,San Ramon,California
+101,CMG,Denver,Colorado
+102,CB,Zurich,Switzerland
+103,CHD,Ewing,New Jersey
+104,CI,Philadelphia,Pennsylvania
+105,XEC,Denver,Colorado
+106,CINF,Fairfield,Ohio
+107,CTAS,Mason,Ohio
+108,CSCO,San Jose,California
+109,C,New York,New York
+110,CFG,Providence,Rhode Island
+111,CTXS,Fort Lauderdale,Florida
+112,CLX,Oakland,California
+113,CME,Chicago,Illinois
+114,CMS,Jackson,Michigan
+115,COH,New York,New York
+116,KO,Atlanta,Georgia
+117,CTSH,Teaneck,New Jersey
+118,CL,New York,New York
+119,CMCSA,Philadelphia,Pennsylvania
+120,CMA,Dallas,Texas
+121,CAG,Omaha,Nebraska
+122,CXO,Midland,Texas
+123,COP,Houston,Texas
+124,ED,New York,New York
+125,STZ,Victor,New York
+126,GLW,Corning,New York
+127,COST,Issaquah,Washington
+128,COTY,New York,New York
+129,CCI,Houston,Texas
+130,CSRA,Falls Church,Virginia
+131,CSX,Jacksonville,Florida
+132,CMI,Columbus,Indiana
+133,CVS,Woonsocket,Rhode Island
+134,DHI,Fort Worth,Texas
+135,DHR,Washington,District of Columbia
+136,DRI,Orlando,Florida
+137,DVA,Denver,Colorado
+138,DE,Moline,Illinois
+139,DLPH,Gillingham,United Kingdom
+140,DAL,Atlanta,Georgia
+141,XRAY,York,Pennsylvania
+142,DVN,Oklahoma City,Oklahoma
+143,DLR,San Francisco,California
+144,DFS,Riverwoods,Illinois
+145,DISCA,Silver Spring,Maryland
+146,DISCK,Silver Spring,Maryland
+147,DG,Goodlettsville,Tennessee
+148,DLTR,Chesapeake,Virginia
+149,D,Richmond,Virginia
+150,DOV,Downers Grove,Illinois
+151,DOW,Midland,Michigan
+152,DPS,Plano,Texas
+153,DTE,Detroit,Michigan
+154,DD,Wilmington,Delaware
+155,DUK,Charlotte,North Carolina
+156,DNB,Short Hills,New Jersey
+157,ETFC,New York,New York
+158,EMN,Kingsport,Tennessee
+159,ETN,Dublin,Ireland
+160,EBAY,San Jose,California
+161,ECL,Saint Paul,Minnesota
+162,EIX,Rosemead,California
+163,EW,Irvine,California
+164,EA,Redwood City,California
+165,EMR,Ferguson,Missouri
+166,ENDP,Dublin,Ireland
+167,ETR,New Orleans,Louisiana
+168,EVHC,Nashville,Tennessee
+169,EOG,Houston,Texas
+170,EQT,Pittsburgh,Pennsylvania
+171,EFX,Atlanta,Georgia
+172,EQIX,Redwood City,California
+173,EQR,Chicago,Illinois
+174,ESS,Palo Alto,California
+175,EL,New York,New York
+176,ES,Springfield,Massachusetts
+177,EXC,Chicago,Illinois
+178,EXPE,Bellevue,Washington
+179,EXPD,Seattle,Washington
+180,ESRX,Cool Valley,Missouri
+181,EXR,Salt Lake City,Utah
+182,XOM,Irving,Texas
+183,FFIV,Seattle,Washington
+184,FB,Menlo Park,California
+185,FAST,Winona,Minnesota
+186,FRT,Rockville,Maryland
+187,FDX,Memphis,Tennessee
+188,FIS,Jacksonville,Florida
+189,FITB,Cincinnati,Ohio
+190,FSLR,Tempe,Arizona
+191,FE,Akron,Ohio
+192,FISV,Brookfield,Wisconsin
+193,FLIR,Wilsonville,Oregon
+194,FLS,Irving,Texas
+195,FLR,Irving,Texas
+196,FMC,Philadelphia,Pennsylvania
+197,FTI,Houston,Texas
+198,FL,New York,New York
+199,F,Dearborn,Michigan
+200,FTV,Everett,Washington
+201,FBHS,Deerfield,Illinois
+202,BEN,San Mateo,California
+203,FCX,Phoenix,Arizona
+204,FTR,Stamford,Connecticut
+205,GPS,San Francisco,California
+206,GRMN,Schaffhausen,Switzerland
+207,GD,Falls Church,Virginia
+208,GE,Fairfield,Connecticut
+209,GGP,Chicago,Illinois
+210,GIS,Golden Valley,Minnesota
+211,GM,Detroit,Michigan
+212,GPC,Atlanta,Georgia
+213,GILD,Foster City,California
+214,GPN,Atlanta,Georgia
+215,GS,New York,New York
+216,GT,Akron,Ohio
+217,GWW,Lake Forest,Illinois
+218,HAL,Houston,Texas
+219,HBI,Winston Salem,North Carolina
+220,HOG,Milwaukee,Wisconsin
+221,HAR,Stamford,Connecticut
+222,HRS,Melbourne,Florida
+223,HIG,Hartford,Connecticut
+224,HAS,Pawtucket,Rhode Island
+225,HCA,Nashville,Tennessee
+226,HCP,Long Beach,California
+227,HP,Tulsa,Oklahoma
+228,HES,New York,New York
+229,HPE,Palo Alto,California
+230,HOLX,Marlborough,Massachusetts
+231,HD,Atlanta,Georgia
+232,HON,Morristown,New Jersey
+233,HRL,Austin,Minnesota
+234,HST,Bethesda,Maryland
+235,HPQ,Palo Alto,California
+236,HUM,Louisville,Kentucky
+237,HBAN,Columbus,Ohio
+238,ITW,Glenview,Illinois
+239,ILMN,San Diego,California
+240,IR,Dublin,Ireland
+241,INTC,Santa Clara,California
+242,ICE,Atlanta,Georgia
+243,IBM,Armonk,New York
+244,IP,Memphis,Tennessee
+245,IPG,New York,New York
+246,IFF,New York,New York
+247,INTU,Mountain View,California
+248,ISRG,Sunnyvale,California
+249,IVZ,Atlanta,Georgia
+250,IRM,Boston,Massachusetts
+251,JEC,Pasadena,California
+252,JBHT,Lowell,Arkansas
+253,SJM,Orrville,Ohio
+254,JNJ,New Brunswick,New Jersey
+255,JCI,Milwaukee,Wisconsin
+256,JPM,New York,New York
+257,JNPR,Sunnyvale,California
+258,KSU,Kansas City,Missouri
+259,K,Battle Creek,Michigan
+260,KEY,Cleveland,Ohio
+261,KMB,Irving,Texas
+262,KIM,New Hyde Park,New York
+263,KMI,Houston,Texas
+264,KLAC,Milpitas,California
+265,KSS,Menomonee Falls,Wisconsin
+266,KHC,Pittsburgh,Pennsylvania
+267,KR,Cincinnati,Ohio
+268,LB,Columbus,Ohio
+269,LLL,New York,New York
+270,LH,Burlington,North Carolina
+271,LRCX,Fremont,California
+272,LEG,Carthage,Missouri
+273,LEN,Miami,Florida
+274,LVLT,Broomfield,Colorado
+275,LUK,New York,New York
+276,LLY,Indianapolis,Indiana
+277,LNC,Radnor,Pennsylvania
+278,LLTC,Milpitas,California
+279,LKQ,Chicago,Illinois
+280,LMT,Bethesda,Maryland
+281,L,New York,New York
+282,LOW,Mooresville,North Carolina
+283,LYB,Rotterdam,Netherlands
+284,MAA,Memphis,Tennessee
+285,MTB,Buffalo,New York
+286,MAC,Santa Monica,California
+287,M,Cincinnati,Ohio
+288,MNK,Dublin,Ireland
+289,MRO,Houston,Texas
+290,MPC,Findlay,Ohio
+291,MAR,Bethesda,Maryland
+292,MMC,New York,New York
+293,MLM,Raleigh,North Carolina
+294,MAS,Taylor,Michigan
+295,MA,Harrison,New York
+296,MAT,El Segundo,California
+297,MKC,Sparks,Maryland
+298,MCD,Oak Brook,Illinois
+299,MCK,San Francisco,California
+300,MJN,Glenview,Illinois
+301,MDT,Dublin,Ireland
+302,MRK,Whitehouse Station,New Jersey
+303,MET,New York,New York
+304,MTD,Columbus,Ohio
+305,KORS,New York,New York
+306,MCHP,Chandler,Arizona
+307,MU,Boise,Idaho
+308,MSFT,Redmond,Washington
+309,MHK,Amsterdam,New York
+310,TAP,Denver,Colorado
+311,MDLZ,Northfield,Illinois
+312,MON,Creve Coeur,Missouri
+313,MNST,Corona,California
+314,MCO,New York,New York
+315,MS,New York,New York
+316,MOS,Plymouth,Minnesota
+317,MSI,Schaumburg,Illinois
+318,MUR,El Dorado,Arkansas
+319,MYL,Amsterdam,Netherlands
+320,NDAQ,New York,New York
+321,NOV,Houston,Texas
+322,NAVI,Newark,Delaware
+323,NTAP,Sunnyvale,California
+324,NFLX,Los Gatos,California
+325,NWL,Sandy Springs,Georgia
+326,NFX,Houston,Texas
+327,NEM,Denver,Colorado
+328,NWSA,New York,New York
+329,NWS,New York,New York
+330,NEE,Juno Beach,Florida
+331,NLSN,New York,New York
+332,NKE,Washington County,Oregon
+333,NI,Merrillville,Indiana
+334,NBL,Houston,Texas
+335,JWN,Seattle,Washington
+336,NSC,Norfolk,Virginia
+337,NTRS,Chicago,Illinois
+338,NOC,West Falls Church,Virginia
+339,NRG,Princeton,New Jersey
+340,NUE,Charlotte,North Carolina
+341,NVDA,Santa Clara,California
+342,ORLY,Springfield,Missouri
+343,OXY,Los Angeles,California
+344,OMC,New York,New York
+345,OKE,Tulsa,Oklahoma
+346,ORCL,Redwood Shores,California
+347,PCAR,Bellevue,Washington
+348,PH,Cleveland,Ohio
+349,PDCO,Saint Paul,Minnesota
+350,PAYX,Penfield,New York
+351,PYPL,San Jose,California
+352,PNR,Worsley,United Kingdom
+353,PBCT,Bridgeport,Connecticut
+354,PEP,Purchase,New York
+355,PKI,Waltham,Massachusetts
+356,PRGO,Dublin,Ireland
+357,PFE,New York,New York
+358,PCG,San Francisco,California
+359,PM,New York,New York
+360,PSX,Houston,Texas
+361,PNW,Phoenix,Arizona
+362,PXD,Irving,Texas
+363,PBI,Stamford,Connecticut
+364,PNC,Pittsburgh,Pennsylvania
+365,RL,New York,New York
+366,PPG,Pittsburgh,Pennsylvania
+367,PPL,Allentown,Pennsylvania
+368,PX,Danbury,Connecticut
+369,PCLN,Norwalk,Connecticut
+370,PFG,Des Moines,Iowa
+371,PG,Cincinnati,Ohio
+372,PGR,Mayfield Village,Ohio
+373,PLD,San Francisco,California
+374,PRU,Newark,New Jersey
+375,PEG,Newark,New Jersey
+376,PSA,Glendale,California
+377,PHM,Atlanta,Georgia
+378,PVH,New York,New York
+379,QRVO,Greensboro,North Carolina
+380,PWR,Houston,Texas
+381,QCOM,San Diego,California
+382,DGX,Madison,New Jersey
+383,RRC,Fort Worth,Texas
+384,RTN,Waltham,Massachusetts
+385,O,San Diego,California
+386,RHT,Raleigh,North Carolina
+387,REGN,Tarrytown,New York
+388,RF,Birmingham,Alabama
+389,RSG,Phoenix,Arizona
+390,RAI,Winston Salem,North Carolina
+391,RHI,Menlo Park,California
+392,ROK,Milwaukee,Wisconsin
+393,COL,Cedar Rapids,Iowa
+394,ROP,Sarasota,Florida
+395,ROST,Pleasanton,California
+396,RCL,Miami,Florida
+397,R,Miami,Florida
+398,CRM,San Francisco,California
+399,SCG,Cayce,South Carolina
+400,SLB,Curaçao,Kingdom of the Netherlands
+401,SNI,Cincinnati,Ohio
+402,STX,Dublin,Ireland
+403,SEE,Elmwood Park,New Jersey
+404,SRE,San Diego,California
+405,SHW,Cleveland,Ohio
+406,SIG,Hamilton,Bermuda
+407,SPG,Indianapolis,Indiana
+408,SWKS,Woburn,Massachusetts
+409,SLG,New York,New York
+410,SNA,Kenosha,Wisconsin
+411,SO,Atlanta,Georgia
+412,LUV,Dallas,Texas
+413,SWN,Houston,Texas
+414,SE,Houston,Texas
+415,SPGI,New York,New York
+416,STJ,Little Canada,Minnesota
+417,SWK,New Britain,Connecticut
+418,SPLS,Framingham,Massachusetts
+419,SBUX,Seattle,Washington
+420,STT,Boston,Massachusetts
+421,SRCL,Lake Forest,Illinois
+422,SYK,Kalamazoo,Michigan
+423,STI,Atlanta,Georgia
+424,SYMC,Mountain View,California
+425,SYF,Stamford,Connecticut
+426,SYY,Houston,Texas
+427,TROW,Baltimore,Maryland
+428,TGT,Minneapolis,Minnesota
+429,TEL,Schaffhausen,Switzerland
+430,TGNA,Mc Lean,Virginia
+431,TDC,Miamisburg,Ohio
+432,TSO,San Antonio,Texas
+433,TXN,Dallas,Texas
+434,TXT,Providence,Rhode Island
+435,COO,Pleasanton,California
+436,HSY,Hershey,Pennsylvania
+437,TRV,New York,New York
+438,TMO,Waltham,Massachusetts
+439,TIF,New York,New York
+440,TWX,New York,New York
+441,TJX,Framingham,Massachusetts
+442,TMK,Mc Kinney,Texas
+443,TSS,Columbus,Georgia
+444,TSCO,Brentwood,Tennessee
+445,TDG,Cleveland,Ohio
+446,RIG,Vernier,Switzerland
+447,TRIP,Newton,Massachusetts
+448,FOXA,New York,New York
+449,FOX,New York,New York
+450,TSN,Springdale,Arkansas
+451,UDR,Highlands Ranch,Colorado
+452,ULTA,Bolingbrook,Illinois
+453,USB,Minneapolis,Minnesota
+454,UA,Baltimore,Maryland
+455,UA.C,Baltimore,Maryland
+456,UNP,Omaha,Nebraska
+457,UAL,Chicago,Illinois
+458,UNH,Minnetonka,Minnesota
+459,UPS,Atlanta,Georgia
+460,URI,Stamford,Connecticut
+461,UTX,Hartford,Connecticut
+462,UHS,King Of Prussia,Pennsylvania
+463,UNM,Chattanooga,Tennessee
+464,URBN,Philadelphia,Pennsylvania
+465,VFC,Greensboro,North Carolina
+466,VLO,San Antonio,Texas
+467,VAR,Palo Alto,California
+468,VTR,Chicago,Illinois
+469,VRSN,Dulles,Virginia
+470,VRSK,Jersey City,New Jersey
+471,VZ,New York,New York
+472,VRTX,Cambridge,Massachusetts
+473,VIAB,New York,New York
+474,V,San Francisco,California
+475,VNO,New York,New York
+476,VMC,Birmingham,Alabama
+477,WMT,Bentonville,Arkansas
+478,WBA,Deerfield,Illinois
+479,DIS,Burbank,California
+480,WM,Houston,Texas
+481,WAT,Milford,Massachusetts
+482,WFC,San Francisco,California
+483,HCN,Toledo,Ohio
+484,WDC,Irvine,California
+485,WU,Englewood,Colorado
+486,WRK,Richmond,Virginia
+487,WY,Federal Way,Washington
+488,WHR,Benton Harbor,Michigan
+489,WFM,Austin,Texas
+490,WMB,Tulsa,Oklahoma
+491,WLTW,London,United Kingdom
+492,WEC,Milwaukee,Wisconsin
+493,WYN,Parsippany,New Jersey
+494,WYNN,Las Vegas,Nevada
+495,XEL,Minneapolis,Minnesota
+496,XRX,Norwalk,Connecticut
+497,XLNX,San Jose,California
+498,XL,Hamilton,Bermuda
+499,XYL,White Plains,New York
+500,YHOO,Sunnyvale,California
+501,YUM,Louisville,Kentucky
+502,ZBH,Warsaw,Indiana
+503,ZION,Salt Lake City,Utah
+504,ZTS,Florham Park,New Jersey

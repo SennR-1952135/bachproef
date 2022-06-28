@@ -1,0 +1,81 @@
+,year,country,city
+0,2016,China,Beijing
+1,2016,United Kingdom,Edinburgh
+2,2016,United States,Bethesda
+3,2016,China,Beijing
+4,2016,United Kingdom;United Kingdom,London;London
+5,2016,China,Taiyuan
+6,2016,Qatar;Italy,Doha;Benevento
+7,2015,China,Zhengzhou
+8,2015,United States,Bethesda
+9,2015,Netherlands,Leiden
+10,2015,United States;United States,Boston;Boston
+11,2015,United Kingdom;United Kingdom;United Kingdom,London;London;London
+12,2015,China,Taiyuan
+13,2015,United States,Cambridge
+14,2015,Netherlands,Leiden
+15,2015,United States;United States,Los Angeles;Los Angeles
+16,2015,United States,San Francisco
+17,2015,United Kingdom,London
+18,2015,United Kingdom;United Kingdom,London;London
+19,2015,France,Lyon
+20,2015,United States,Atlanta
+21,2014,Germany,Giessen
+22,2014,United Kingdom,London
+23,2014,China,Beijing
+24,2014,United States,Boston
+25,2014,,
+26,2014,Germany,Heidelberg
+27,2014,Hong Kong,
+28,2014,China,Zhengzhou
+29,2014,United States;United States,Boston;Cambridge
+30,2014,United States,Cambridge
+31,2014,Taiwan,Taipei
+32,2014,United Kingdom;United Kingdom,London;London
+33,2014,Singapore;United States,Singapore City;Los Angeles
+34,2014,China,Beijing
+35,2014,United Kingdom,London
+36,2013,United States,Los Angeles
+37,2013,Japan;Japan;Japan,Nagoya;Chuo-ku;Chuo-ku
+38,2013,United States;India,New York;Varanasi
+39,2013,China,Beijing
+40,2013,United States;United States;United States,Boston;Cambridge;Cambridge
+41,2013,United States,Boston
+42,2013,Japan,Minami
+43,2013,United States;United States,Los Angeles;Los Angeles
+44,2013,Switzerland,Basel
+45,2013,Israel,Jerusalem
+46,2013,France;United States;United States;United States,Paris;New Haven;Boston;Cambridge
+47,2013,United States,Cambridge
+48,2013,United Kingdom,London
+49,2012,United States;United States,Baltimore;
+50,2012,Sweden,Stockholm
+51,2012,Canada;Canada,Vancouver;Vancouver
+52,2012,France,Lyon
+53,2012,United States;United States,Cambridge;Cambridge
+54,2012,United Kingdom,London
+55,2012,Netherlands,Leiden
+56,2012,United States,St. Louis
+57,2012,Spain;Spain,Hospitalet de Llobregat;Madrid
+58,2012,United States,Baltimore
+59,2011,United States,New York
+60,2011,United States,Baltimore
+61,2011,United States,Berkeley
+62,2011,United States,Baltimore
+63,2011,Canada;Canada,Quebec;Quebec
+64,2010,United States,Philadelphia
+65,2010,United States,Baltimore
+66,2010,United States,Boston
+67,2009,,
+68,2009,United States,Baltimore
+69,2009,United States,Rockville
+70,2009,United Kingdom,Hinxton
+71,2009,United States;United States,Baltimore;Baltimore
+72,2009,Hong Kong,Shatin
+73,2006,China,Beijing
+74,2005,Japan,Hamamatsu
+75,2004,United States,New York
+76,2004,United Kingdom,London
+77,2003,United States,Boston
+78,2002,United States,Bethesda
+79,1981,New Zealand,Christchurch

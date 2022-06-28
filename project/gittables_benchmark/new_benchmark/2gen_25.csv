@@ -1,0 +1,65 @@
+,year,country,city
+0,2013,Switzerland;Switzerland;Switzerland,Geneva;Geneva;Geneva
+1,2013,Sweden,Stockholm
+2,2013,United States;United States;United States,Cambridge;Cambridge;Cambridge
+3,2013,Switzerland;Switzerland,Geneva;Geneva
+4,2013,United Kingdom;United Kingdom,Cambridge;Hinxton
+5,2012,United States;United States;United States,Boston;Boston;Cambridge
+6,2012,United States,Chicago
+7,2012,United Kingdom;United Kingdom,London;Hinxton
+8,2012,United States,Seattle
+9,2012,United Kingdom,London
+10,2012,United States,Los Angeles
+11,2012,Netherlands,Groningen
+12,2011,Switzerland;Switzerland,Geneva;Basel
+13,2011,United States,Frederick
+14,2011,Switzerland,Geneva
+15,2011,United States,Huntsville
+16,2011,United Kingdom,London
+17,2011,United States;United States,Cambridge;Cambridge
+18,2011,Canada,Montreal
+19,2011,Switzerland;United Kingdom,Geneva;Hinxton
+20,2011,United Kingdom;United States,Oxford;Chicago
+21,2010,United States;United States,Cambridge;Cambridge
+22,2010,United States;United States,San Francisco;Bethesda
+23,2010,United Kingdom,Cambridge
+24,2010,United Kingdom;United States,London;Bethesda
+25,2010,Switzerland;United Kingdom,Geneva;Hinxton
+26,2010,Switzerland;United Kingdom,Geneva;Hinxton
+27,2010,,
+28,2010,United States,Chicago
+29,2010,United States;United States,San Diego;San Diego
+30,2010,United States,Charlottesville
+31,2009,Canada,Montreal
+32,2009,United States,San Diego
+33,2009,United States,Santa Cruz
+34,2009,United Kingdom,Hinxton
+35,2009,Canada,Montreal
+36,2009,United Kingdom,Hinxton
+37,2009,United States,Bethesda
+38,2009,United States,New York
+39,2009,United States,Boston
+40,2009,Switzerland,Lausanne
+41,2009,United Kingdom,London
+42,2009,United States,Chicago
+43,2008,United States,Durham
+44,2008,United States,Chicago
+45,2008,New Zealand,Auckland
+46,2008,United Kingdom,Hinxton
+47,2008,Iceland;United States,Reykjavik;Seattle
+48,2008,Canada,Montreal
+49,2008,United States,Durham
+50,2007,United Kingdom,Hinxton
+51,2007,United Kingdom,Cambridge
+52,2007,United States,Boston
+53,2006,United States,San Diego
+54,2006,United Kingdom,London
+55,2005,United Kingdom,Hinxton
+56,2005,United States;United States,Philadelphia;Philadelphia
+57,2005,United States,Gainesville
+58,2004,Italy,Trieste
+59,2004,United States,Santa Cruz
+60,2003,United States,Seattle
+61,1991,United States,New York
+62,1975,United States,Duarte
+63,1975,United Kingdom,London

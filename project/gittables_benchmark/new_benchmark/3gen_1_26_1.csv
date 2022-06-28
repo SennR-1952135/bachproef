@@ -1,0 +1,178 @@
+,year,country,city
+0,2001,United States,Stanford
+1,2001,United States,Cambridge
+2,2000,United States,Hayward
+3,2000,United States,Rockville
+4,2000,United States,Philadelphia
+5,2000,United States,Athens
+6,2000,United States;Brazil,University Park;Rio de Janeiro
+7,2000,United States,Seattle
+8,2000,United States,Dallas
+9,2000,Germany;France,Jena;Montpellier
+10,2000,United States,San Francisco
+11,2000,United States,San Diego
+12,2000,United States;United States,St. Louis;St. Louis
+13,2000,Canada;Canada,Ottawa;Ottawa
+14,2000,United States;United States,Cambridge;Boston
+15,2000,United Kingdom;United Kingdom,Edinburgh;Newcastle
+16,2000,United States,Chicago
+17,2000,United States,Cleveland
+18,2000,France,Evry
+19,2000,United States,Seattle
+20,2000,Germany,Berlin
+21,2000,Japan,Wako
+22,2000,United Kingdom;United Kingdom,Edinburgh;Edinburgh
+23,2000,France,Villeurbanne
+24,2000,Canada,Toronto
+25,2000,United States,Denver
+26,2000,United States,Chevy Chase
+27,2000,United Kingdom,Hinxton
+28,2000,France,Paris
+29,2000,United States,Rockville
+30,2000,,
+31,2000,United States,Rockville
+32,2000,United States,Rockville
+33,2000,United States,Berkeley
+34,2000,United States,Rockville
+35,2000,France;Italy,Paris;Napoli
+36,2000,United States,Baltimore
+37,2000,Ireland,Dublin
+38,2000,United States,Stanford
+39,2000,United States,New York
+40,2000,United Kingdom,London
+41,2000,United States,Bethesda
+42,2000,United States,New Haven
+43,2000,United Kingdom;United States,Cardiff;Madison
+44,2000,United States,Salt Lake City
+45,2000,United States,New York
+46,2000,United States,San Francisco
+47,2000,United Kingdom,London
+48,2000,Switzerland,Geneva
+49,2000,United States,Bethesda
+50,1999,United States,Rockville
+51,1999,United Kingdom,Hinxton
+52,1999,United States,St. Louis
+53,1999,United States,St. Louis
+54,1999,United Kingdom,Midlothian
+55,1999,Canada,Montreal
+56,1999,United States,Notre Dame
+57,1999,United States,Boston
+58,1999,Israel,Rehovot
+59,1999,United States,Cleveland
+60,1999,United States,Philadelphia
+61,1999,United States,Dallas
+62,1999,United States,Houston
+63,1999,Switzerland,"Zurich ZH,"
+64,1999,United States,Cleveland
+65,1999,United States,Cambridge
+66,1999,United States;United States,Baltimore;Rockville
+67,1999,United States,St. Louis
+68,1999,Germany,Leipzig
+69,1999,United States;United States,Boston;Boston
+70,1999,United States,St. Louis
+71,1999,United States;United States,College Station;Bethesda
+72,1999,,
+73,1999,,
+74,1999,United States,New York
+75,1999,United Kingdom;United States,Oxford;Bethesda
+76,1999,Netherlands,Utrecht
+77,1999,United Kingdom,London
+78,1998,United States,Stanford
+79,1998,,
+80,1998,United States,Bethesda
+81,1998,United States,Tucson
+82,1998,,
+83,1998,United States,Bethesda
+84,1998,Sweden,Uppsala
+85,1998,Japan,Tokyo
+86,1998,United States,Rockville
+87,1998,United States,Seattle
+88,1998,United States,Rockville
+89,1998,,
+90,1998,,
+91,1998,United States,Cambridge
+92,1998,Germany,Gottingen
+93,1998,United Kingdom,Edinburgh
+94,1998,Australia,Canberra
+95,1998,United States,Palo Alto
+96,1998,Japan;United States,Nishihara;Chevy Chase
+97,1998,,
+98,1998,United States,St. Louis
+99,1998,United States,Seattle
+100,1998,United States,University Park
+101,1998,United States,Thousand Oaks
+102,1998,United States,University Park
+103,1998,United States,Marshfield
+104,1998,United States,Seattle
+105,1998,United States,Seattle
+106,1997,United States,Rockville
+107,1997,United States,Rockville
+108,1997,United Kingdom,Hinxton
+109,1997,United States,Palo Alto
+110,1997,United States,Seattle
+111,1997,United States,Marshfield
+112,1997,United States,Bethesda
+113,1997,United States,St. Louis
+114,1996,,
+115,1996,Ukraine;France,Kiev;Paris
+116,1996,United States,Rockville
+117,1996,United States,Rockville
+118,1996,United States;Germany,Pasadena;Tubingen
+119,1996,United States,University Park
+120,1996,,
+121,1996,United States;United States;United States,Albuquerque;Santa Fe;Los Alamos
+122,1996,United States,Boston
+123,1995,United States,Rockville
+124,1995,United States,Duarte
+125,1995,United States,Chevy Chase
+126,1995,United States,Chicago
+127,1995,United Kingdom,Edinburgh
+128,1995,United States,Rockville
+129,1995,United States,Rockville
+130,1994,France,Paris
+131,1994,United States,Rockville
+132,1994,United States;Denmark,Santa Cruz;Lyngby
+133,1994,France,Paris
+134,1993,United Kingdom,Edinburgh
+135,1993,France,Paris
+136,1993,United States,Rockville
+137,1993,United States,Philadelphia
+138,1993,Australia,Canberra
+139,1993,United States,Bethesda
+140,1993,United States,San Diego
+141,1993,United States,Stanford
+142,1993,United States;United States,Bethesda;Rockville
+143,1993,United States,Bethesda
+144,1992,United States;United States,Livermore;Bethesda
+145,1992,United States,Bethesda
+146,1992,United States,Duarte
+147,1992,United States,Bethesda
+148,1992,Norway,Oslo
+149,1991,United States,Chapel Hill
+150,1991,United States,Philadelphia
+151,1991,United States,Wilmington
+152,1991,United States,Bethesda
+153,1990,Denmark,Aarhus
+154,1990,United States,Bethesda
+155,1989,United States,Santa Barbara
+156,1989,United Kingdom,Edinburgh
+157,1989,United States,Berkeley
+158,1988,United States;United States,Cambridge;Cambridge
+159,1987,United Kingdom,Brighton
+160,1987,Australia,Sydney
+161,1987,United States,Bethesda
+162,1987,United Kingdom,Edinburgh
+163,1987,United States,Wilmington
+164,1986,United States,Pasadena
+165,1985,United States,Duarte
+166,1984,United States,Fort Collins
+167,1983,United States,San Diego
+168,1983,United States,Denver
+169,1982,United Kingdom,Cambridge
+170,1981,United States,Marquette
+171,1979,Australia,Canberra
+172,1977,,
+173,1977,United Kingdom,Cambridge
+174,1977,,
+175,1971,Italy,Rome
+176,1967,Germany,Jülich

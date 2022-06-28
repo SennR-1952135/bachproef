@@ -1,0 +1,22 @@
+,name
+0,survey.survey public
+1,survey.page public
+2,survey.question public
+3,survey.label public
+4,survey.user_input public
+5,survey.user_input_line public
+6,survey.stage public
+7,survey.survey user
+8,survey.page user
+9,survey.question user
+10,survey.label user
+11,survey.user_input user
+12,survey.user_input_line user
+13,survey.stage user
+14,survey.survey manager
+15,survey.page manager
+16,survey.question manager
+17,survey.label manager
+18,survey.user_input manager
+19,survey.user_input_line manager
+20,survey.stage manager

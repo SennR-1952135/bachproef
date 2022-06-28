@@ -1,0 +1,460 @@
+,type,name,duration
+0,place,Home,37109
+1,move,walking,1105
+2,place,Floyd's 99 Barbershop,2039
+3,move,walking,1119
+4,place,Home,1865
+5,move,walking,1002
+6,place,Russell House Tavern,4494
+7,move,walking,871
+8,place,Broadway Marketplace,156
+9,move,walking,219
+10,place,Home,6737
+11,move,walking,693
+12,place,Harvard Yard,1351
+13,move,walking,120
+14,move,transport,1508
+15,move,walking,239
+16,place,Totto Ramen Boston,1818
+17,move,walking,1052
+18,place,Place in Allston,128
+19,move,walking,2478
+20,place,Home,330
+21,move,walking,542
+22,place,Tory Row,5419
+23,move,walking,945
+24,place,Home,13060
+25,place,Home,29734
+26,move,walking,243
+27,place,Starbucks,477
+28,move,walking,727
+29,place,Proximate,3776
+30,move,walking,184
+31,place,Proximate,8161
+32,move,walking,632
+33,place,Home,18571
+34,move,running,451
+35,move,walking,150
+36,move,running,210
+37,move,walking,180
+38,move,running,180
+39,move,walking,150
+40,move,running,180
+41,move,walking,272
+42,place,Home,22122
+43,place,Home,30720
+44,move,walking,315
+45,place,Starbucks,265
+46,move,walking,636
+47,place,Proximate,8432
+48,move,walking,609
+49,place,Home,4354
+50,move,walking,808
+51,place,Proximate,6784
+52,move,walking,786
+53,place,Home,1165
+54,move,walking,613
+55,place,Proximate,11806
+56,move,walking,741
+57,place,Home,18366
+58,place,Home,30178
+59,move,walking,212
+60,place,Broadway Marketplace,544
+61,move,transport,1372
+62,place,FSG Social Impact Advisors,4474
+63,move,walking,2949
+64,place,Cambridge Innovation Center,4866
+65,move,transport,1042
+66,move,walking,124
+67,place,Border Cafe,2359
+68,move,walking,449
+69,place,Maxwell Dworkin,2712
+70,move,walking,307
+71,place,Proximate,18454
+72,move,walking,668
+73,place,Home,15688
+74,place,Home,34243
+75,place,Home,2977
+76,move,walking,1912
+77,place,Home,1323
+78,place,Home,24207
+79,move,walking,926
+80,place,Shake Shack,569
+81,move,walking,969
+82,place,Home,13114
+83,place,Home,35020
+84,move,walking,894
+85,place,Harvard Alumni Association,4999
+86,move,walking,591
+87,place,Proximate,7163
+88,move,walking,543
+89,place,Border Cafe,3683
+90,move,walking,553
+91,place,Proximate,4567
+92,move,walking,633
+93,place,Home,16125
+94,move,walking,784
+95,place,The Boathouse,9447
+96,move,walking,736
+97,place,Home,663
+98,place,Home,52516
+99,move,walking,813
+100,place,Place in Cambridge,265
+101,move,walking,1802
+102,place,CambridgeSide Galleria,3406
+103,move,walking,220
+104,place,CambridgeSide Galleria,377
+105,move,walking,222
+106,place,CambridgeSide Galleria,202
+107,move,walking,399
+108,place,Place in East Cambridge,266
+109,move,walking,401
+110,place,ArtBar,3345
+111,move,walking,1011
+112,place,The Liberty Hotel,663
+113,move,walking,674
+114,place,Boston Public Garden,259
+115,move,walking,1102
+116,place,Max Brenner,3924
+117,move,walking,273
+118,place,Trader Joe's,1103
+119,move,walking,342
+120,place,MBTA Bus Stop | Massachusetts Ave. & Newbury St.,960
+121,move,transport,764
+122,place,Home,11093
+123,place,Home,42994
+124,move,walking,438
+125,move,transport,1746
+126,place,Frankel Home,18527
+127,move,transport,1572
+128,move,walking,127
+129,place,Home,20997
+130,place,Home,75953
+131,move,walking,679
+132,place,CVS/pharmacy,1280
+133,move,walking,701
+134,place,Home,7786
+135,place,Home,29079
+136,move,walking,1041
+137,place,Spangler Center,1306
+138,move,walking,1059
+139,place,CVS/pharmacy,496
+140,move,walking,811
+141,place,Proximate,6985
+142,move,walking,803
+143,place,Home,1236
+144,move,walking,682
+145,place,Proximate,4927
+146,move,walking,1630
+147,place,Proximate,15579
+148,move,walking,737
+149,place,Home,20030
+150,place,Home,32704
+151,move,walking,1126
+152,place,Maxwell Dworkin,1123
+153,move,walking,531
+154,place,Tory Row,6993
+155,move,walking,204
+156,place,Border Cafe,2988
+157,move,walking,586
+158,place,Maxwell Dworkin,12228
+159,move,walking,765
+160,place,Wagamama,6072
+161,move,walking,905
+162,place,Home,20176
+163,place,Home,39742
+164,move,walking,742
+165,place,Proximate,539
+166,move,walking,366
+167,place,Science Center Plaza,407
+168,move,walking,440
+169,place,Proximate,13220
+170,move,walking,639
+171,place,Home,307
+172,move,walking,681
+173,move,transport,871
+174,move,walking,1002
+175,place,City Hall Plaza,1897
+176,move,walking,848
+177,place,Place in Dock Square,385
+178,move,walking,274
+179,move,transport,883
+180,move,walking,830
+181,place,Home,9846
+182,move,walking,553
+183,move,transport,811
+184,move,walking,522
+185,place,Place in Dock Square,1751
+186,move,transport,8844
+187,move,transport,13766
+188,place,Place in Powelton,694
+189,move,transport,12558
+190,move,walking,245
+191,place,Union Station,76
+192,move,walking,126
+193,place,Union Station,981
+194,move,transport,1541
+195,move,walking,161
+196,place,Laura's Home,43938
+197,move,walking,744
+198,place,Whole Foods Market,1127
+199,move,walking,611
+200,place,Laura's Home,9832
+201,place,Laura's Home,58089
+202,move,walking,1118
+203,place,Safeway,1613
+204,move,walking,1181
+205,place,Laura's Home,24400
+206,place,Laura's Home,51898
+207,move,walking,1150
+208,place,Place in Burleith,214
+209,move,walking,962
+210,place,Place in Cloisters,380
+211,move,walking,160
+212,place,Loft,654
+213,move,walking,339
+214,place,H&M,2871
+215,move,walking,1390
+216,place,Sequoia,8349
+217,move,walking,2237
+218,place,Whole Foods Market,267
+219,move,walking,633
+220,place,Laura's Home,14898
+221,place,Laura's Home,46929
+222,move,walking,713
+223,move,car,948
+224,place,Chadwicks,8489
+225,move,walking,484
+226,place,Sequoia,11375
+227,move,walking,732
+228,place,Place in Cookes Park,5339
+229,move,transport,632
+230,place,Laura's Home,10759
+231,place,Laura's Home,38701
+232,move,walking,521
+233,place,"WMATA Bus Stop #1001805 (31, 32, 36)",1469
+234,move,transport,1803
+235,move,walking,1179
+236,place,NTN24,1006
+237,move,walking,797
+238,place,Eat at National Place,1808
+239,move,walking,516
+240,place,NTN24,15961
+241,move,walking,1688
+242,place,Trader Joe's,1442
+243,move,transport,682
+244,move,walking,422
+245,place,Laura's Home,18405
+246,place,Laura's Home,30769
+247,move,walking,635
+248,place,CVS/pharmacy,1824
+249,move,transport,1562
+250,move,walking,362
+251,place,NTN24,5226
+252,move,walking,941
+253,place,NTN24,9873
+254,move,walking,395
+255,move,transport,527
+256,place,Union Station,738
+257,place,Place in East End,1418
+258,move,transport,29379
+259,place,Place in Uptown,1623
+260,move,transport,1092
+261,move,transport,17425
+262,place,Place in Toledo,551
+263,move,transport,15592
+264,place,Place in Elkhart,296
+265,move,transport,4285
+266,place,Place in Porter County,2107
+267,move,transport,6046
+268,place,Place in Gateway Center IV,220
+269,move,walking,120
+270,move,walking,332
+271,place,Place in Indian Boundary Line (1816-1833),1215
+272,place,Place in Ogilvie Transportation Center,1315
+273,move,transport,4483
+274,place,Fitzsimmons Home,1761
+275,move,transport,453
+276,place,Place in Walmart,1387
+277,move,walking,155
+278,move,transport,288
+279,place,Marshalls,1182
+280,move,transport,444
+281,place,Fitzsimmons Home,26505
+282,place,Fitzsimmons Home,27576
+283,move,transport,6308
+284,move,walking,281
+285,place,Place in Evanston,249
+286,move,walking,683
+287,place,Place in Ryan Field,6753
+288,move,transport,996
+289,place,Place in Westfield Old Orchard,5366
+290,move,transport,4918
+291,place,Fitzsimmons Home,3694
+292,move,transport,775
+293,move,walking,221
+294,place,Place in Batavia,1179
+295,move,transport,348
+296,move,walking,360
+297,move,transport,1082
+298,place,Fitzsimmons Home,25612
+299,place,Fitzsimmons Home,48085
+300,move,transport,450
+301,place,Place in Geneva,241
+302,move,transport,352
+303,place,Potbelly Sandwich Shop,1244
+304,move,walking,165
+305,move,transport,509
+306,place,Fitzsimmons Home,8982
+307,move,car,4711
+308,place,Fogo de Chão,4458
+309,move,car,983
+310,move,walking,121
+311,move,walking,452
+312,place,Chicago O'Hare International Airport (ORD),5087
+313,move,airplane,7654
+314,place,John F. Kennedy International Airport (JFK),600
+315,move,transport,1830
+316,move,airplane,48722
+317,place,Aeropuerto Internacional Rafael Nuñez (CTG),1533
+318,move,transport,1178
+319,place,Hotel Caribe,741
+320,move,transport,873
+321,place,Sofitel Santa Clara,7197
+322,move,walking,157
+323,place,Place in San Diego,291
+324,move,walking,251
+325,place,Sofitel Santa Clara,3210
+326,move,walking,878
+327,place,Café del Mar,3411
+328,move,walking,577
+329,place,Krioyo,2915
+330,move,walking,376
+331,place,Place in Parque de Bolivar,511
+332,move,walking,1379
+333,move,transport,852
+334,place,Hotel Caribe,3834
+335,move,transport,414
+336,place,Sofitel Santa Clara,11458
+337,move,transport,519
+338,place,La Casa de Socorro,5209
+339,move,transport,381
+340,move,walking,159
+341,place,Sofitel Santa Clara,17376
+342,move,walking,613
+343,place,Place in Centro,410
+344,move,walking,428
+345,move,transport,462
+346,place,Hotel Caribe,9488
+347,place,Hotel Caribe,57796
+348,move,walking,3543
+349,place,Sofitel Santa Clara,17170
+350,move,transport,588
+351,move,walking,242
+352,place,Hotel Caribe,7061
+353,place,Hotel Caribe,32275
+354,move,walking,1095
+355,place,Hotel Caribe,12775
+356,move,walking,330
+357,place,Hotel Caribe,949
+358,move,transport,324
+359,place,Pablo Botero's Home,3060
+360,move,transport,1223
+361,place,Plaza De Bolívar,1023
+362,place,Plaza San Pedro Claver,467
+363,move,walking,558
+364,place,Centro Histórico de Cartagena / Ciudad Amurallada,828
+365,move,walking,2535
+366,place,Plaza Santo Domingo,3288
+367,move,walking,24
+368,place,Hotel Movich,7763
+369,move,walking,248
+370,place,Velez Home,8485
+371,move,walking,1195
+372,place,Hotel Charleston Santa Teresa Cartagena de Indias,3694
+373,move,walking,312
+374,move,transport,671
+375,place,Pablo Botero's Home,3275
+376,place,Pablo Botero's Home,38765
+377,move,walking,243
+378,place,Place in Castillogrande,587
+379,move,walking,152
+380,place,Place in Castillogrande,366
+381,move,walking,1147
+382,place,Place in Bocagrande,383
+383,move,walking,1081
+384,move,transport,821
+385,place,Castillo de San Felipe de Barajas,2648
+386,move,walking,96
+387,place,Castillo de San Felipe de Barajas,642
+388,move,walking,271
+389,place,Castillo de San Felipe de Barajas,908
+390,move,walking,278
+391,place,Castillo de San Felipe de Barajas,2822
+392,move,walking,570
+393,place,Falabella,2478
+394,move,walking,2305
+395,place,Centro Histórico de Cartagena / Ciudad Amurallada,461
+396,place,Crepes & Waffles Centro,5423
+397,move,walking,1647
+398,place,Falabella,3216
+399,move,walking,250
+400,move,transport,227
+401,place,Place in Centro,69
+402,move,walking,1027
+403,place,Crepes & Waffles Centro,12718
+404,move,walking,309
+405,place,Place in Centro,539
+406,move,transport,537
+407,place,Pablo Botero's Home,2609
+408,place,Pablo Botero's Home,29301
+409,move,transport,818
+410,place,Marina Santacruz,3989
+411,move,transport,3407
+412,move,walking,170
+413,place,Gente de Mar Club Resort,18634
+414,move,transport,3262
+415,move,walking,422
+416,move,transport,543
+417,place,Pablo Botero's Home,7019
+418,move,walking,503
+419,move,transport,1111
+420,move,walking,568
+421,place,Demente,3211
+422,move,walking,693
+423,place,Centro Histórico de Cartagena / Ciudad Amurallada,6757
+424,move,walking,543
+425,move,transport,605
+426,place,Pablo Botero's Home,4845
+427,place,Pablo Botero's Home,24740
+428,move,transport,834
+429,place,Aeropuerto Internacional Rafael Nuñez (CTG),21945
+430,place,Aeropuerto Internacional Rafael Nuñez (CTG),23
+431,place,Aeropuerto Internacional Rafael Nuñez (CTG),1152
+432,move,transport,17640
+433,place,John F. Kennedy International Airport (JFK),761
+434,place,John F. Kennedy International Airport (JFK),790
+435,move,walking,268
+436,move,transport,511
+437,move,walking,257
+438,move,walking,346
+439,place,John F. Kennedy International Airport (JFK),1711
+440,place,John F. Kennedy International Airport (JFK),7870
+441,move,transport,4473
+442,move,walking,252
+443,place,Boston Logan International Airport (BOS),30
+444,move,walking,197
+445,move,transport,1186
+446,place,Home,1412
+447,place,Home,44076
+448,move,walking,1914
+449,place,Trader Joe's,2183
+450,move,walking,1770
+451,place,Home,36457
+452,place,Home,31130
+453,move,walking,2084
+454,place,Home,29194
+455,move,walking,1318
+456,place,CVS/pharmacy,391
+457,move,walking,763
+458,place,Home,21520

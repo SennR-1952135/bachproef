@@ -1,0 +1,6 @@
+,name
+0,account.analytic.plan
+1,account.analytic.plan.line
+2,account.analytic.plan.instance
+3,account.analytic.plan.instance.line
+4,account.analytic.plan.line.invoice

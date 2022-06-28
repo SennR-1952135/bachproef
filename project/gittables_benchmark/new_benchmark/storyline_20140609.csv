@@ -1,0 +1,92 @@
+,type,name,duration
+0,place,Home,75953
+1,move,walking,679
+2,place,CVS/pharmacy,1280
+3,move,walking,701
+4,place,Home,7786
+5,place,Home,29079
+6,move,walking,1041
+7,place,Spangler Center,1306
+8,move,walking,1059
+9,place,CVS/pharmacy,496
+10,move,walking,811
+11,place,Proximate,6985
+12,move,walking,803
+13,place,Home,1236
+14,move,walking,682
+15,place,Proximate,4927
+16,move,walking,1630
+17,place,Proximate,15579
+18,move,walking,737
+19,place,Home,20030
+20,place,Home,32704
+21,move,walking,1126
+22,place,Maxwell Dworkin,1123
+23,move,walking,531
+24,place,Tory Row,6993
+25,move,walking,204
+26,place,Border Cafe,2988
+27,move,walking,586
+28,place,Maxwell Dworkin,12228
+29,move,walking,765
+30,place,Wagamama,6072
+31,move,walking,905
+32,place,Home,20176
+33,place,Home,39742
+34,move,walking,742
+35,place,Proximate,539
+36,move,walking,366
+37,place,Science Center Plaza,407
+38,move,walking,440
+39,place,Proximate,13220
+40,move,walking,639
+41,place,Home,307
+42,move,walking,681
+43,move,transport,871
+44,move,walking,1002
+45,place,City Hall Plaza,1897
+46,move,walking,848
+47,place,Place in Dock Square,385
+48,move,walking,274
+49,move,transport,883
+50,move,walking,830
+51,place,Home,9846
+52,move,walking,553
+53,move,transport,811
+54,move,walking,522
+55,place,Place in Dock Square,1751
+56,move,transport,8844
+57,move,transport,13766
+58,place,Place in Powelton,694
+59,move,transport,12558
+60,move,walking,245
+61,place,Union Station,76
+62,move,walking,126
+63,place,Union Station,981
+64,move,transport,1541
+65,move,walking,161
+66,place,Laura's Home,43938
+67,move,walking,744
+68,place,Whole Foods Market,1127
+69,move,walking,611
+70,place,Laura's Home,9832
+71,place,Laura's Home,58089
+72,move,walking,1118
+73,place,Safeway,1613
+74,move,walking,1181
+75,place,Laura's Home,24400
+76,place,Laura's Home,51898
+77,move,walking,1150
+78,place,Place in Burleith,214
+79,move,walking,962
+80,place,Place in Cloisters,380
+81,move,walking,160
+82,place,Loft,654
+83,move,walking,339
+84,place,H&M,2871
+85,move,walking,1390
+86,place,Sequoia,8349
+87,move,walking,2237
+88,place,Whole Foods Market,267
+89,move,walking,633
+90,place,Laura's Home,14898

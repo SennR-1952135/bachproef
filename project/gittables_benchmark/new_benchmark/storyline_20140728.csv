@@ -1,0 +1,128 @@
+,type,name,duration
+0,place,Laura's Home,31350
+1,move,walking,455
+2,move,bus,1292
+3,move,walking,362
+4,place,"NTN24-Washington, DC",545
+5,move,walking,1625
+6,place,Busboys and Poets,7578
+7,move,walking,385
+8,place,Ben's Chili Bowl,1906
+9,move,walking,1782
+10,place,"NTN24-Washington, DC",3106
+11,move,walking,785
+12,place,"NTN24-Washington, DC",5019
+13,move,walking,273
+14,place,Le Bar @ Sofitel DC,7489
+15,move,walking,331
+16,place,"NTN24-Washington, DC",296
+17,move,walking,1987
+18,place,Trader Joe's,1615
+19,move,bus,1039
+20,move,walking,360
+21,place,Laura's Home,16823
+22,place,Laura's Home,29352
+23,move,walking,300
+24,move,bus,1778
+25,move,walking,430
+26,place,"NTN24-Washington, DC",287
+27,move,walking,310
+28,place,Place in Chinatown,139
+29,move,walking,245
+30,place,Starbucks,329
+31,move,walking,191
+32,place,Place in Chinatown,229
+33,move,walking,514
+34,place,Red Apron Butchery,9142
+35,move,walking,377
+36,place,Proof,2975
+37,move,walking,913
+38,place,"NTN24-Washington, DC",799
+39,move,walking,289
+40,place,Starbucks,12844
+41,move,walking,217
+42,place,Le Bar @ Sofitel DC,8270
+43,move,bus,2038
+44,move,walking,399
+45,place,Laura's Home,14030
+46,place,Laura's Home,29526
+47,move,walking,361
+48,move,bus,1351
+49,move,walking,363
+50,place,"NTN24-Washington, DC",1589
+51,move,walking,2652
+52,place,Busboys and Poets,6366
+53,move,walking,1462
+54,place,Franklin Square Park,2760
+55,move,walking,275
+56,place,US Post Office - MLK,355
+57,move,walking,2209
+58,place,Busboys and Poets,10117
+59,move,walking,1698
+60,place,"NTN24-Washington, DC",1278
+61,move,walking,315
+62,place,"WMATA Bus Stop #1001060 (11Y, 32, 36)",506
+63,move,transport,1297
+64,move,walking,244
+65,place,Pinstripes,9694
+66,move,transport,535
+67,place,Laura's Home,11445
+68,place,Laura's Home,24206
+69,move,walking,1451
+70,place,Laura's Home,5133
+71,move,walking,549
+72,move,transport,1395
+73,move,walking,450
+74,place,"NTN24-Washington, DC",347
+75,move,walking,584
+76,place,Starbucks,9862
+77,move,walking,197
+78,place,Franklin Square Park,2886
+79,move,walking,164
+80,place,"NTN24-Washington, DC",282
+81,move,walking,2838
+82,place,"NTN24-Washington, DC",25577
+83,move,car,1056
+84,place,Laura's Home,8766
+85,place,Laura's Home,34036
+86,move,walking,382
+87,place,"WMATA Bus Stop #1001805 (31, 32, 36)",474
+88,move,bus,1508
+89,move,walking,365
+90,place,Starbucks,4599
+91,move,walking,1332
+92,place,Farragut Square,3708
+93,move,walking,680
+94,place,"NTN24-Washington, DC",16075
+95,move,walking,1011
+96,place,Chinatown Express,3321
+97,move,walking,1388
+98,place,"WMATA Bus Stop #1001060 (11Y, 32, 36)",918
+99,move,bus,1691
+100,move,walking,364
+101,place,Laura's Home,14551
+102,place,Laura's Home,39471
+103,move,walking,2827
+104,place,Mintwood Place,4924
+105,move,walking,3011
+106,place,Starbucks,11847
+107,move,walking,428
+108,place,Banana Republic,485
+109,move,walking,185
+110,place,Pizzeria Paradiso,5762
+111,move,car,559
+112,place,Laura's Home,16900
+113,place,Laura's Home,42369
+114,move,transport,1172
+115,place,Capt. White's Seafood City,5975
+116,move,walking,1026
+117,place,Place in District of Columbia,267
+118,move,walking,572
+119,move,underground,721
+120,move,walking,667
+121,place,Masa 14,5569
+122,move,car,658
+123,move,walking,484
+124,place,Whole Foods Market,1038
+125,move,walking,678
+126,place,Laura's Home,25207

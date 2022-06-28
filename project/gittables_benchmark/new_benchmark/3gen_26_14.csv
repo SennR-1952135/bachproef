@@ -1,0 +1,89 @@
+,year,country,city
+0,2009,Australia;Australia,Perth;Perth
+1,2009,United Kingdom,Nottingham
+2,2009,Italy,Florence
+3,2008,Italy,Naples
+4,2008,Italy;Italy,Rozzano;Rome
+5,2008,Belgium,Edegem
+6,2008,United States,San Antonio
+7,2008,United Kingdom,Edinburgh
+8,2007,United States,Baltimore
+9,2007,Belgium,Edegem
+10,2007,Iran;Iran,Tehran;Tehran
+11,2007,United Kingdom;United Kingdom,Edinburgh;Edinburgh
+12,2007,South Korea,Ulsan
+13,2007,Italy,Siena
+14,2007,Canada,Quebec
+15,2007,United States,Farmington
+16,2007,France,Paris
+17,2007,United States;United States,Boston;Cambridge
+18,2006,Belgium,Antwerpen
+19,2006,Australia;Australia;Australia,Perth;Perth;Perth
+20,2006,United States;United States,St. Louis;St. Louis
+21,2006,United States,Boston
+22,2005,United States;United States;United States,Boston;Boston;Cambridge
+23,2005,United States,Houston
+24,2005,Italy,Siena
+25,2005,South Korea,Seoul
+26,2005,United States;United States,Boston;Boston
+27,2005,United Kingdom,Aberdeen
+28,2005,United States,Cambridge
+29,2005,Italy,Florence
+30,2004,France,Paris
+31,2004,New Zealand,Auckland
+32,2004,United Kingdom,Aberdeen
+33,2004,Belgium,Antwerpen
+34,2004,Australia;Australia,Woolloongabba;Brisbane
+35,2004,United Kingdom,Aberdeen
+36,2004,Italy,Florence
+37,2004,Netherlands;Netherlands,Leiden;Amsterdam
+38,2004,United States,Bethesda MD
+39,2003,United States;United States,San Antonio;San Antonio
+40,2003,United States,Boston
+41,2003,Japan,Osaka
+42,2003,United States,San Antonio
+43,2003,United Kingdom,London
+44,2002,New Zealand,Dunedin
+45,2002,United Kingdom,Aberdeen
+46,2002,New Zealand,Auckland
+47,2002,United States;United States;United States,St. Louis;St. Louis;Tampa
+48,2002,Portugal,Azores
+49,2002,United States;United States,St. Louis;St. Louis
+50,2002,Spain,Barcelona
+51,2002,United Kingdom,Harlow
+52,2002,United States,San Antonio
+53,2002,United States;United States,St. Louis;St. Louis
+54,2002,United Kingdom,Manchester
+55,2002,United Kingdom,Southampton
+56,2002,Canada,Quebec
+57,2001,United States,Baltimore
+58,2001,Belgium,Antwerpen
+59,2001,Spain,Madrid
+60,2001,United Kingdom,Aberdeen
+61,2001,Canada,
+62,2000,United Kingdom,Liverpool
+63,2000,United States,Rochester Hills/Detroit
+64,2000,United Kingdom,Aberdeen
+65,2000,United Kingdom,Oxford
+66,2000,United Kingdom,Belfast
+67,2000,United Kingdom,Aberdeen
+68,1999,United Kingdom,Southampton
+69,1998,United Kingdom,Aberdeen
+70,1997,New Zealand;New Zealand,Auckland;Auckland
+71,1997,United States,San Antonio
+72,1995,Spain,Madrid
+73,1994,United Kingdom,Belfast
+74,1994,United Kingdom,Liverpool
+75,1994,,
+76,1992,United States;United States,Stony Brook;New York
+77,1992,Canada,Montreal
+78,1991,United Kingdom,Edinburgh
+79,1991,United States,New York
+80,1988,United States,Minneapolis
+81,1985,France,Angers
+82,1984,United States,Los Angeles
+83,1983,United States,Rochester
+84,1983,United Kingdom,Edinburgh
+85,1982,New Zealand;New Zealand,Dunedin;Dunedin
+86,1981,United Kingdom,Southampton
+87,1977,United States,New York

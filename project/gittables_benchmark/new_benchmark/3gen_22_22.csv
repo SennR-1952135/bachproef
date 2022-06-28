@@ -1,0 +1,50 @@
+,year,country,city
+0,2012,United States,Boston
+1,2012,United States,Scottsdale
+2,2012,United States,Scottsdale
+3,2012,United States,Boston
+4,2012,United States,New York
+5,2012,United Kingdom,London
+6,2011,United States;United States,Boston;Boston
+7,2011,China,Nanjing
+8,2011,United States,Madison
+9,2011,United States;United States,Boston;Cambridge
+10,2011,China,Shanghai
+11,2011,United Kingdom;United States,Cambridge;Cambridge
+12,2011,France;France;France,Toulouse;Nice;Paris
+13,2011,,
+14,2011,United States,St. Louis
+15,2011,China;United States,Hangzhou;Boston
+16,2011,United States,Bethesda
+17,2011,Denmark,Copenhagen
+18,2010,United States;United States,Buffalo;Buffalo
+19,2010,Canada;Canada,Toronto;Toronto
+20,2010,United Kingdom,London
+21,2010,United States,Rochester
+22,2009,United States;United States,Stanford;Palo Alto
+23,2009,Italy,Milan
+24,2009,Germany;Germany;United States,Heidelberg;Heidelberg;Boston
+25,2009,Japan;Japan,Kitakyushu;Chuo-ku
+26,2009,Switzerland,Bern
+27,2009,United States,New York
+28,2008,United States,Los Angeles
+29,2008,United States,Durham
+30,2008,United States,Houston
+31,2007,United States,Houston
+32,2007,United States,Bethesda
+33,2007,United States,Scottsdale
+34,2007,United Kingdom,Cambridge
+35,2006,United States,New York
+36,2006,United States,New York
+37,2006,Germany,Wolfenbuttel
+38,2005,United States,Cambridge
+39,2005,United States;United States,Boston;Boston
+40,2004,Denmark,Lyngby
+41,2004,United States,Ann Arbor
+42,2004,Australia,Melbourne
+43,2004,United States,Boston
+44,2003,United Kingdom,Leeds
+45,2003,United States;United States,Tampa;Tampa
+46,2003,United States,Bethesda
+47,2002,United States,Bethesda
+48,2001,United States,Denver

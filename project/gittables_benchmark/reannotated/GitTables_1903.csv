@@ -1,0 +1,6 @@
+,description
+0,(Ljava/lang/Object;Ljava/util/function/Predicate;Ljava/lang/Class;)V
+1,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractPredicateLikeAssert;
+2,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractPredicateLikeAssert;
+3,(Ljava/lang/Iterable;)Lorg/assertj/core/api/AbstractPredicateLikeAssert;
+4,(Ljava/lang/Iterable;)Lorg/assertj/core/api/AbstractPredicateLikeAssert;

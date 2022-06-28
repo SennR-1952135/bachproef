@@ -1,0 +1,16 @@
+,type
+0,HubConnectionWrapper
+1,HubConnectionWrapper
+2,HubConnectionWrapper
+3,HubConnectionWrapper
+4,HubConnectionWrapper
+5,HubProxyWrapper
+6,HubProxyWrapper
+7,HubProxyWrapper
+8,HubProxyWrapper
+9,HubProxyWrapper
+10,HubProxyWrapper
+11,SubscriptionWrapper
+12,SubscriptionWrapper
+13,StateChangeWrapped
+14,StateChangeWrapped

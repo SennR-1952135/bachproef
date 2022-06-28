@@ -1,0 +1,281 @@
+,brand,category,name
+0,De Cecco,makarna,Gnocchi
+1,De Cecco,makarna,Pennerigatemakarna
+2,Barilla,makarna,Academiafusilliburgu
+3,Barilla,makarna,Academiasadekesme
+4,De Cecco,makarna,Pappardellemakarna
+5,Banetti,makarna,Sebzeçeşnilibardak
+6,Arbella,makarna,Domatessosluçabuk
+7,Pastavilla,makarna,Mezzanellimakarna
+8,Mutlu Makarna,makarna,Nya
+9,Reeva,makarna,Danaetiaromalı
+10,De Cecco,makarna,Rigatoni
+11,Veronelli,makarna,Cheesemushroommakarna
+12,Banetti,makarna,Sebzeçeşnilipoşet
+13,Un Do Tre,makarna,Danaetlitortellini
+14,Şarköy Çiftlik,makarna,Tambuğdayunlu
+15,De Cecco,makarna,Fettuccinemakarna
+16,Mutlu Makarna,makarna,Ellini
+17,Reeva,makarna,Tavuketiaromalı
+18,De Cecco,makarna,Linguine
+19,Istiklal Yolu,makarna,Siyezmakarnası
+20,Yayla,süper gıdalar,Gurmeteff
+21,Duru Bulgur,bulgur,Iriklipilavlıkbulgur
+22,Şekeroğlu,bulgur,Çiğköfteseti
+23,Yayla,bulgur,Gurmefityeşil
+24,Yayla,mercimek,Gurmebelugamercimek
+25,Yayla,bulgur,Gurmefirikbulgur
+26,Yayla,süper gıdalar,Gurmebeyazkinoa
+27,Ipek,bulgur,Köftelikbulgur
+28,Yayla,bulgur,Gurmefitnohutlu
+29,Anadolu Lezzetleri,bulgur,Karakılçıkköftelikbulgur
+30,Noba,bakliyat,Barbunya
+31,Noba,bakliyat,Dermasonfasulye
+32,Yayla,bulgur,Gurmefitkarışık
+33,Duru Bulgur,bulgur,Ohutlubulgur
+34,Yayla,bulgur,Gurmefitdomatesli
+35,Yayla,bulgur,Gurmefitbiberli
+36,Duru Bulgur,bulgur,Antarlıbulgur
+37,Duru Bulgur,bulgur,Ercimeklibulgur
+38,Anadolu Lezzetleri,pirinç,Sarıköygönenbaldo
+39,Anadolu Lezzetleri,mercimek,Yozgatsultaniyeşil
+40,Monteida,zeytinyağı,Erkenhasatsızma
+41,Yudum,zeytinyağı,Egemdensızmazeytinyağı
+42,Olitalia,sıvı yağ,Üzümçekirdeğiyağı
+43,Zade,zeytinyağı,Natürelsızmazeytinyağı
+44,Zade,sıvı yağ,Yerfıstığıyağı
+45,Zade,zeytinyağı,Kimyonkırmızıbiber
+46,Teofarm,zeytinyağı,Natürelsızmazeytinyağı
+47,Tariş,zeytinyağı,Kidoniasızmazeytinyağı
+48,Kırlangıç,zeytinyağı,
+49,Zade,zeytinyağı,Karabibersarımsakbiberiye
+50,Kırlangıç,zeytinyağı,Natürelbirincizeytinyağı
+51,Komili,zeytinyağı,Taşbaskızeytinyağı
+52,Tariş,zeytinyağı,Kuzeyegesızma
+53,Avofarm,sıvı yağ,Avokadoyağı
+54,Kırlangıç,zeytinyağı,Rivierazeytinyağı
+55,Zade,zeytinyağı,Portakallimonaromalı
+56,Tariş,zeytinyağı,Natürelbirincizeytinyağı
+57,Zade,sıvı yağ,Ayçiçekyağıteneke
+58,Tariş,zeytinyağı,Ilkelsızma
+59,Tariş,zeytinyağı,Kuzeyegesızma
+60,Reyondan,aktar,
+61,Müsan,baharat,Acıtozbiber
+62,Bağdat,baharat,Tacodünyalezzetleri
+63,Reyondan,aktar,
+64,Purelife,"tuz, baharat, harç",Himalayabaharatçeşnili
+65,Purelife,"tuz, baharat, harç",Tuzdeğirmen
+66,Bağdat,baharat,Biberiyeselection
+67,Arifoğlu,baharat,Karabibertanedeğirmen
+68,Arifoğlu,baharat,Pulbiber
+69,Arifoğlu,baharat,Haşhaşmavi
+70,Migros,baharat,Sofradaöğütmehimalaya
+71,Arifoğlu,baharat,Karabiber
+72,Reyondan,aktar,
+73,Migros,baharat,Sofradaöğütmedeniz
+74,Arifoğlu,baharat,Garammasalabaharat
+75,Bağdat,baharat,Zencefilselection
+76,Arifoğlu,baharat,Karabiberöğütülmüş
+77,Bağdat,baharat,Nanetuzluklucam
+78,Efsina,"tuz, baharat, harç",Himalayatuzu(Granül)
+79,Bağdat,baharat,Etçeşnisideğirmen
+80,Yayla,çorba,Pratikçorbakinoalı
+81,Yayla,çorba,Pratikçorbachialı
+82,Yayla,çorba,Pratikçorbagurme
+83,Zel,çorba,Kemiksuluişkembe
+84,Bizim,çorba,Mutfakanalıkızlı
+85,Bizim,çorba,Mutfakkemiksuyuna
+86,Bizim,çorba,Mutfakkarabuğdayçorbası
+87,Knorr,çorba,Camkavanozişkembe
+88,Bizim,çorba,Mutfakkinoalımercimek
+89,Zel,çorba,Iliklikemiksulu
+90,Bizim,çorba,Mutfakmaşçorbası
+91,Aptamil,çorba,Mekremalıdomates
+92,Tat,çorba,Gurmekremalışehriyeli
+93,Bizim,çorba,Mutfakmercimekçorbası
+94,Bizim,çorba,Mutfakkemiksuyuna
+95,Tat,çorba,Gurmekremalısebze
+96,Tat,çorba,Gurmekremalımantar
+97,Knorr,çorba,Dövmebuğdaylıdomates
+98,Bizim,çorba ve bulyonlar,Mutfaketsuyu
+99,Zel,çorba ve bulyonlar,Tavuksuyu
+100,Arı,"bar, kaplamalılar",Fındıklıkrokan
+101,Pd Foods,"bar, kaplamalılar",Limonlukakaoluve
+102,Miskos,"bar, kaplamalılar",Yerfıstıklıkrokan
+103,Loacker,gofret,Granpasticceriabitter
+104,Miskos,"bar, kaplamalılar",Susamlıkrokan
+105,Lindt,çikolata,Lindorextradark
+106,Lindt,"bar, kaplamalılar",Riegelnocciolattebar
+107,Lindt,çikolata,Darkçikolata
+108,Reyondan,kuru meyve,
+109,Ritter Sport,çikolata,Darkwholehazelnut
+110,Lindt,çikolata,Bademlisütlüçikolata
+111,Anadolu Lezzetleri,kuruyemiş,Yusufelicevizli-Fındıklı
+112,Lindt,çikolata,Excellencemintintense
+113,Koska,şekerleme,Meyvelilokumdraje
+114,Lati Lokum,şekerleme,Rmabisküviarası
+115,Godiva,çikolata,Masterpiecesbitterçikolata
+116,Eti,çikolata,Ahenkbolsütlü
+117,Massara,bisküvi,Ballısusamlıçıtır
+118,Hacı Şeker,şekerleme,Bonibondraje
+119,Lindt,çikolata,Excellencedark
+120,Anneden,hazır yemek,Erikhoşafı
+121,Anneden,hazır yemek,Üzümhoşafı
+122,Tada,hazır yemek,Etlikurufasulye
+123,Tada,hazır yemek,Düğünçorbası
+124,Tada,hazır yemek,Ankaratava
+125,Tada,hazır yemek,Etdönerdürüm
+126,Migros,hazır yemek,Evlezzetleriyoğurtlu
+127,Tada,hazır yemek,Salsasoslutavuk
+128,Tada,hazır yemek,Tereyağlıçayelifasulyesi
+129,Yayla,hazır yemek,Yemekhazırfirikli
+130,Migros,hazır yemek,Evlezzetleriızgara
+131,Migros,hazır yemek,Evlezzetleribulgur
+132,Migros,hazır yemek,Evlezzetleriızgara
+133,Migros,hazır yemek,Evlezzetlerikarnıyarık
+134,Tada,hazır yemek,Tavuklufajitadürüm
+135,Migros,hazır yemek,Evlezzetleriezogelin
+136,Tada,hazır yemek,Etlinohut
+137,Tat,hazır yemek,Fasulyepilaki
+138,Yayla,hazır yemek,Yemekhazırkremalı
+139,Yayla,hazır yemek,Yemekhazıryayla
+140,Viru,konserve,Enginarkalbi
+141,Demko,salça,Soyulmuşdomates
+142,Talia,konserve,Giardinera(Karışıkturşu)
+143,Ipek,salça,Angolddomates
+144,Berrak,konserve,Karışıkturşu
+145,Melis,konserve,Renklibiberturşusu
+146,Reyondan,konserve,
+147,Melis,konserve,Közlenmişbiber
+148,Tat,konserve,Uskumrufiletopilaki
+149,Berrak,konserve,Biberiyeturşusu
+150,Berrak,konserve,Zenginkarışıkturşu
+151,Dolco,konserve,Meksikafasulyesi
+152,Superfresh,konserve,Tonbalığılight
+153,Berrak,konserve,Dilimliközlenmişbiber
+154,Pınar,konserve,Lighttonbalığı
+155,Talia,konserve,Lahanaturşusu
+156,Tat,konserve,Uskumrufiletosade
+157,Melis,konserve,Közlenmişdilmlijalapeno
+158,Tukaş,konserve,Fasulyehaşlama
+159,Sera,konserve,Çağlaturşusu
+160,Jack Daniels,sos,Barbeküglazetatlı
+161,Fersan,sos,Condimentobıancosirke
+162,Heinz,sos,Acıketçap
+163,Fersan,sos,Maltsirkesi
+164,Fersan,sos,Detoxhindistancevizli
+165,Kühne,sos,Greyfurtluelmasirkesi
+166,Kühne,sos,Balzamiksirke
+167,Maille,sos,Dijonhardal
+168,Knorr,sos,Arrabbiataacılıdomatesli
+169,Kühne,sos,Barbeküsos
+170,Doğanay,sos,Narelimonsosu
+171,Pınar,sos,Ketçap
+172,Doğanay,sos,Üzümsirkesicam
+173,Vertmont,sos,Akçaağaçşurubu
+174,Pınar,sos,Ketçapacılı
+175,Knorr,sos,Domateslibolonezmakarna
+176,Jack Daniels,sos,Barbeküsosorjinal
+177,Teptip,sos,Hindistancevizisütü
+178,Kühne,sos,Balzamiklisalatasosu
+179,Ferfresh,sos,Konsantrebeyazsirke
+180,Istiklal Yolu,un,Garikliunu
+181,Doğalsan,un,Ekşihamurmayalı
+182,Doğalsan,un,Ekşimayalıkarşık
+183,Doğalsan,un,Ekşimayalıtrabzon
+184,Doğalsan,un,Siyezekmeğiun
+185,Söke,un,Baklavalıkveböreklik
+186,Eriş,un,Unbaklavalıkböreklik
+187,Doğalsan,un,Dinkelunu
+188,Söke,un,Köyekmeğikarışımı
+189,Söke,un,Kepekliun
+190,Doğalsan,un,Ekşimayalıalman
+191,Söke,un,Ruşeymliunkarışımı
+192,Doğalsan,un,Siyezunu
+193,Söke,un,Çavdarlıunkarışımı
+194,Doğalsan,un,Karabuğdayekmeğiun
+195,Sinangil,un,Köyekmekunu
+196,Doğalsan,un,Çavdarunu
+197,Eriş,un,Un
+198,Sinangil,un,Tahılekmekunu
+199,Eriş,un,Unbaklavalıkböreklik
+200,Takita,şeker,Kahverengiküpşeker
+201,Migros,şeker,Şekillişeker
+202,Takita,şeker,Kahverengitozşeker
+203,Migros,şeker,Sarmaesmerküp
+204,Great Mountain,şeker,Hindistancevizişekeri
+205,Irmak,şeker,Kahverengiküpşeker
+206,Doğuş,şeker,Tozşeker
+207,Torku,şeker,Tozşeker
+208,Migros,şeker,Esmerküpşeker
+209,Irmak,şeker,Kristaltozşeker
+210,Torku,şeker,Şekertanesitoz
+211,Migros,şeker,Pudraşekeri
+212,Irmak,şeker,Tozşeker
+213,Torku,şeker,Şekertanesitoz
+214,Migros,şeker,Teklisarmaküp
+215,Irmak,şeker,Kahverengitozşeker
+216,Irmak,şeker,Tozşeker
+217,Migros,şeker,Kahverengişekillişeker
+218,Torku,şeker,Küpşeker
+219,Torku,şeker,Şekerküpüküp
+220,Feast,dondurulmuş gıda,Mısır
+221,Exotic,dondurulmuş gıda,Freshfrozennar
+222,Exotic,dondurulmuş gıda,Freshfrozenportakal
+223,Feast,dondurulmuş hamur işleri,Pizzagurmesucuklu
+224,Börekse,dondurulmuş hamur işleri,Ispanaklıpeynirlimini
+225,Feast,dondurulmuş gıda,Dondurulmuşminicheesecake
+226,Glutensiz Ada,dondurulmuş hamur işleri,Lahmacun
+227,Feast,dondurulmuş hamur işleri,Pizzagurmemeksika
+228,Glutensiz Ada,dondurulmuş hamur işleri,Pizza
+229,Börekse,dondurulmuş hamur işleri,Peynirliminibörek
+230,Feast,dondurulmuş gıda,Limonlucheesecake
+231,Dr.Oetker,dondurulmuş hamur işleri,Ristorantepizzamista
+232,Pınar,dondurulmuş gıda,Miskethindiköfte
+233,Feast,dondurulmuş hamur işleri,Karışıkpizza
+234,Pınar,dondurulmuş hamur işleri,Peynirlitepsibörek
+235,Feast,dondurulmuş gıda,Patatesligarnitür
+236,Feast,dondurulmuş gıda,Vişne
+237,Veggy,dondurulmuş gıda,Vegburger
+238,Pınar,dondurulmuş hamur işleri,Paçangaböreği
+239,Feast,dondurulmuş gıda,Ispanak
+240,Melba,"galeta, grissini, gevrek",Toastkıtırekmek
+241,Ege,tatlı,Porsiyonkasekadayıf
+242,Arslanoğlu,tatlı,Şekerpare
+243,Kenton,"hamur, pasta malzemeleri",Tatlışefikurabiye
+244,Kenton,"hamur, pasta malzemeleri",Tatlışefiglazür
+245,Kenton,"hamur, pasta malzemeleri",Tatlışefikuvertür
+246,Kenton,tatlı,Manolyatatlısımuzlu
+247,Pakmaya,"hamur, pasta malzemeleri",Kakaolupastajeli
+248,Kenton,tatlı,Trileçe
+249,Dr.Oetker,tatlı,Eğlencelikakaolupuding
+250,Asil Fırın,kuru pasta,Dolguluelmalıcookie
+251,Asil Fırın,kuru pasta,Dolguluvişnelicookie
+252,Tsanos,"galeta, grissini, gevrek",Zerdeçalvekişnişli
+253,Tsanos,"galeta, grissini, gevrek",Kuinoavebiberiyeli
+254,Tsanos,"galeta, grissini, gevrek",Pancarlıgrissini
+255,Pakmaya,"hamur, pasta malzemeleri",Pastasüsüsütlü
+256,Roggen,"unlu mamül, tatlı",Haferbrotyulaflı
+257,Kenton,"hamur, pasta malzemeleri",Tatlışefidonut
+258,Kenton,"hamur, pasta malzemeleri",Tatlışefişeker
+259,Kenton,"hamur, pasta malzemeleri",Tatlışeficupcake
+260,Bigjoy,aktif yaşam ürünleri,Sportsçilekaromalı
+261,Qnt,aktif yaşam ürünleri,Proteiniçerençikolata
+262,Bigjoy,aktif yaşam ürünleri,Sudacollagenkuru
+263,Qnt,aktif yaşam ürünleri,Metapureçikolataaromalı
+264,Simon Levelt,"ekolojik, biyolojik ürün",Organikkahveendonezya
+265,Simon Levelt,"ekolojik, biyolojik ürün",Organikkahveetiyopya
+266,Bjorg,"ekolojik, biyolojik ürün",Organiktamtaneli
+267,Rummo,"ekolojik, biyolojik ürün",Organikkepeklipenne
+268,Balviten,glutensiz ürünler,Glutensiznişastalıpilavlık
+269,Diablo,şekersiz tatlandırıcılı ürünler,Tatlandırıcılıkremadolgulu
+270,Schar,glutensiz ürünler,Gltnsızkıtırdilimler
+271,Simon Levelt,"ekolojik, biyolojik ürün",Espressoçekirdekkahve
+272,Qnt,aktif yaşam ürünleri,Metapurebeyazçikolata
+273,Balviten,glutensiz ürünler,Glutensizdüşükprotein
+274,Takita,şekersiz tatlandırıcılı ürünler,Şekersizhamurtatlıları
+275,Balviten,glutensiz ürünler,Glutensizdüşükprotein
+276,Söke,glutensiz ürünler,Glutensizkakaolukek
+277,Splenda,şekersiz tatlandırıcılı ürünler,Toztatlandırıcı
+278,Splenda,şekersiz tatlandırıcılı ürünler,
+279,Optimum Nutrition,aktif yaşam ürünleri,Aromalısporgıdası

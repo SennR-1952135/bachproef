@@ -1,0 +1,74 @@
+,year,country,city
+0,2006,United Kingdom,Colchester
+1,2005,United Kingdom,Colchester
+2,2005,United States,Ames
+3,2005,United States;United States,Urbana;Urbana
+4,2005,Italy,Ancona
+5,2005,Spain,Palma
+6,2005,Germany;United States,Jülich;Urbana
+7,2005,Belgium,Ghent
+8,2005,United States;United States,"Champaign;Washington, D.C."
+9,2004,United States,Pullman
+10,2004,United States;United States,New Brunswick;Piscataway
+11,2004,United States,Urbana
+12,2004,United States,Urbana
+13,2004,United States,Urbana
+14,2004,Argentina;United States,Buenos Aires;Hayward
+15,2004,United States,Urbana
+16,2004,Canada,Toronto
+17,2004,United States,Gainesville
+18,2003,Australia,Canberra
+19,2003,United States,Urbana
+20,2003,United States,St. Louis
+21,2003,United Kingdom,Colchester
+22,2003,Japan,Tsukuba
+23,2002,China,Beijing
+24,2002,Russian Federation,Saint Petersburg (ex Leningrad)
+25,2002,United States,Urbana
+26,2002,,
+27,2002,United Kingdom,Silsoe
+28,2002,Germany,Koln
+29,2002,United States,Davis
+30,2002,Canada,Toronto
+31,2002,United States,"Washington, D.C."
+32,2001,United States,Pullman
+33,2001,Russian Federation,Saint Petersburg (ex Leningrad)
+34,2001,Japan,Higashiosaka
+35,2001,Australia,Canberra
+36,2001,United Kingdom,Leicester
+37,2001,,
+38,2001,Australia,Canberra
+39,2001,United Kingdom;United Kingdom,Coventry;Colchester
+40,2000,United States,Berkeley
+41,2000,United Kingdom,Colchester
+42,1999,United Kingdom;United Kingdom,Chelmsford;Colchester
+43,1999,France,Saint Paul lez Durance
+44,1999,United Kingdom,Harpenden
+45,1999,Germany,Braunschweig
+46,1999,Australia,Melbourne
+47,1998,Germany,Berlin
+48,1998,Australia,Canberra
+49,1997,Australia,Melbourne
+50,1997,United States,Edgewater
+51,1996,United Kingdom,Colchester
+52,1995,United Kingdom,Colchester
+53,1995,United Kingdom;United Kingdom,Chelmsford;Colchester
+54,1995,Australia,Melbourne
+55,1995,United States,Phoenix
+56,1995,United Kingdom,Edinburgh
+57,1994,Australia,Canberra
+58,1994,United Kingdom,Colchester
+59,1993,United States;United Kingdom,Upton;Colchester
+60,1992,Australia,Melbourne
+61,1991,United Kingdom,Colchester
+62,1991,United Kingdom,Colchester
+63,1990,United States,Gainesville
+64,1987,United Kingdom,York
+65,1987,Australia,Melbourne
+66,1985,Australia,Kingston
+67,1984,United States;United States,"Washington, D.C.;Urbana"
+68,1982,United Kingdom,Aberystwyth
+69,1981,United States,Upton
+70,1980,Australia,Canberra
+71,1980,United States,Durham
+72,1970,Australia,Melbourne

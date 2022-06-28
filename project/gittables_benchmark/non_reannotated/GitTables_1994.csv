@@ -1,0 +1,11 @@
+,class,description
+0,ProxyFactory,Cyclomatic complexity of the method is 8
+1,Interceptor,The method has 5 parameters. Parameters: proxy' targetMethod' trace' genericTypeArgs' args
+2,InvocationInfo,The method has 5 parameters. Parameters: proxy' targetMethod' trace' genericTypeArgs' args
+3,ProxyFactory,The method has 5 parameters. Parameters: baseType' baseInterfaces' typeBuilder' interceptorField' defaultConstructor
+4,Runner,"The length of the statement  ""                _results.Add(new TestResult(Identifier' assembly' """"' 0' ""Error while preparing runner""' TestState.Panic' getMessage(ex) + Environment.NewLine + ex.FileName + Environment.NewLine + ex.FusionLog)); "" is 196."
+5,Runner,"The length of the statement  ""                _results.Add(new TestResult(Identifier' assembly' """"' 0' ""Error while preparing runner""' TestState.Panic' getMessage(ex) + Environment.NewLine + ex.FileName + Environment.NewLine + ex.FusionLog)); "" is 196."
+6,Runner,"The length of the statement  ""                _results.Add(new TestResult(Identifier' assembly' """"' 0' ""Error while preparing runner""' TestState.Panic' getMessage(ex) + Environment.NewLine + ex.FileName + Environment.NewLine + ex.FusionLog)); "" is 196."
+7,Runner,"The length of the statement  ""                _results.Add(new TestResult(Identifier' assembly' """"' 0' ""Error while preparing runner""' TestState.Panic' getMessage(ex))); "" is 123."
+8,Runner,"The length of the statement  ""            stackLines.AddRange(ex.StackTrace.Split(new string[] { Environment.NewLine }' StringSplitOptions.RemoveEmptyEntries).Select(x => new StackLine(x))); "" is 148."
+9,ProxyObjectReference,"The constructor ""ProxyObjectReference"" calls a virtual method ""CreateProxyType""."

@@ -1,0 +1,204 @@
+,language,type,name,origin
+0,English,synopsis,,"Inspired by their father's letter, a young dreamer seeks the end of the sky. But on preparing to depart, a warship appears in the village along with a mysterious girl seeking aid."
+1,English,detail,,"In a world abandoned by the gods, a lone dragon remained."
+2,English,detail,,"Bahamut, ruler of creation through destruction, sought to refine the realm the gods left behind into a richer, more bountiful place."
+3,English,detail,,But the arrival of invaders from beyond the sky—the Astrals—brought an end to his plans.
+4,English,detail,,The Astrals used creatures of terrible power known as primal beasts to bring the sky under their control. Long did the skies belong to the stars.
+5,English,detail,,But the skydwellers bided their time and learned from their foes. Eventually they fought to take back the skies in a conflict that would come to be known as the War.
+6,English,detail,,"And here we find the Sky Realm, now a world of fragmented lands floating in a sea of clouds."
+7,English,detail,,"A new tale is about to begin here, spanning the skies and the stars alike..."
+8,English,detail,Vyrn,"Say, are you serious about leavin' the village?"
+9,English,detail,Vyrn,"Sure, your dad wrote about the end of the sky in his letter, but getting there might as well be impossible..."
+10,English,sel1_txt,,I know we can reach it!
+11,English,sel2_txt,,I have a plan.
+12,English,detail,Vyrn,Oh! You mean with the Sky Map? The thingy the Astrals put together centuries ago?
+13,English,detail,Vyrn,"If we had something like that, we could go anywhere! But you know that map's just something out of a fairy tale..."
+14,English,detail,Vyrn,"Real or not, there's no stopping you once you've made up your mind. Beats hanging around this sleepy village anyway!"
+15,English,detail,Vyrn,Huh?<br>Whoa! Hang on a minute! What was that?
+16,English,detail,Vyrn,That's... a battleship! What's it doing here in the middle of nowhere?
+17,English,detail,Vyrn,No way! What's going on here? I just heard something explode!
+18,English,detail,???,...
+19,English,sel1_txt,,I just saw a flash over by the forest...
+20,English,detail,Vyrn,What do you think it was? A part of the ship?
+21,English,detail,Vyrn,Hoo boy... What if that sets the whole forest on fire?
+22,English,sel1_txt,,We'd better check it out!
+23,English,detail,Vyrn,Whatever fell from that battleship should be over... here.
+24,English,detail,???,Eek!
+25,English,detail,Mysterious Girl,Ouch...
+26,English,detail,Mysterious Girl,...!
+27,English,detail,Vyrn,Who's the girl? Never seen her around here before.
+28,English,sel1_txt,,Are you okay? You're not hurt are you?
+29,English,detail,Mysterious Girl,P-please! S-save me!
+30,English,detail,Vyrn,H-hey... That's a big request to spring on someone!
+31,English,detail,Gruff Voice,You there! Halt!<br>Drop your sword! Hands in the air!
+32,English,detail,Mysterious Girl,Gasp!
+33,English,detail,,"Soldiers in pursuit of the girl show up. Their armor suggests they are with the villainous Erste Empire, which employs military might to force kingdoms throughout the skies to their knees."
+34,English,detail,Vyrn,Who are you guys? Are you trying to pick a fight?
+35,English,detail,Imperial Soldier,"If your life means anything to you, you'll cooperate and hand over that girl."
+36,English,detail,,The soldiers' hostile intentions terrifies the girl.
+37,English,detail,Mysterious Girl,N-no!
+38,English,detail,Imperial Soldier,You heard me! Hand her over! You don't want to force my hand.
+39,English,sel1_txt,,She asked for our help!
+40,English,sel2_txt,,Like we can trust you!
+41,English,detail,Vyrn,That's right! We can't just do what you say when she's shakin' like a leaf over here!
+42,English,detail,Imperial Soldier,"So that's how we're gonna play it, huh? Don't say I didn't warn you!"
+43,English,detail,,...!
+44,English,synopsis,,"Two elite soldiers are pursuing the mysterious girl named Lyria. The knight Katalina tries to protect her, while Captain Pommern attempts to do harm to the girl and young dreamer alike."
+45,English,detail,Imperial Soldier,Argh! Why you little...
+46,English,detail,,...
+47,English,detail,Vyrn,"Betcha weren't expecting that, huh? You can only dream of matching my pal's sword skills!"
+48,English,detail,Imperial Soldier,Curses... This isn't over!
+49,English,detail,Vyrn,A friend of his? Stay sharp!
+50,English,detail,Knight,Lyria! Are you all right?
+51,English,detail,Mysterious Girl,Katalina! I... I...
+52,English,detail,Knight,Thank goodness she hasn't been injured. Have you two been protecting her?
+53,English,detail,Vyrn,"I guess you could say that! They were after us too, so we just did what came naturally."
+54,English,detail,Mysterious Girl,"You should have seen it, Katalina! This hero saved me! It was so... heroic!"
+55,English,detail,Knight,"Is that so? Well, I'm just glad you're safe."
+56,English,detail,Vyrn,"So, um... Who are you guys exactly?"
+57,English,detail,Vyrn,Doesn't seem like you're friends with those jerks from earlier.
+58,English,detail,Katalina,"Ah, yes, how rude of me. My name is Katalina Aryze."
+59,English,detail,Katalina,And this is Lyria. I can't thank you enough for saving her.
+60,English,detail,Katalina,"If you don't mind, could you tell me your name as well?"
+61,English,detail,Vyrn,And I'm Vyrn! Where'd you two come from? Were those soldiers after you?
+62,English,detail,Lyria,"W-where? Well, uh..."
+63,English,detail,Katalina,That's right...<br>We... were being chased.
+64,English,detail,Katalina,"Which is why we need to get out of here before more of them show up, and—"
+65,English,detail,???,Lieutenant Katalina!
+66,English,detail,???,"I do say. Did I give the order for you to stop and smell the roses out here, Lieutenant?"
+67,English,detail,Katalina,"C-Captain Pommern! Terribly sorry, sir. I'll return Lyria to the ship immediatel—"
+68,English,detail,Pommern,"Enough of these lies! You're the one who spirited her away from the ship, are you not?"
+69,English,detail,Pommern,I do say! To defy the mighty Erste Empire requires profound bravery... and profound <span class='scene-font-italic'>stupidity</span>.
+70,English,detail,Katalina,...
+71,English,detail,Pommern,You knew the classified nature of the girl's existence when we placed her in your protection.
+72,English,detail,Pommern,"Which means you must surely be aware of the gravity of your actions, yes?"
+73,English,detail,Pommern,We need that girl to command the primals. To assist in her escape demands a grave punishment indeed!
+74,English,detail,Katalina,Captain... I simply thought it too dangerous for us to attempt using the power of the primal beasts.
+75,English,detail,Katalina,The primals are a legacy of the Astrals... Terrifying weapons that set the skies ablaze during the War.
+76,English,detail,Katalina,There's still much we don't know about them. To wield their power is—
+77,English,detail,Pommern,Don't change the subject!
+78,English,detail,Pommern,I do say... I've had quite enough of your insipid drivel. It's time to do what we came here for.
+79,English,detail,Pommern,Bweheheh... Who will weep for this pathetic backwater burg? No one! We shall destroy it!
+80,English,detail,Vyrn,Excuse me?
+81,English,detail,Pommern,"I'll rid this place of anyone who opposes us! For I do say, the power to control the primals belongs to the Empire!"
+82,English,detail,Pommern,Release the Hydra!
+83,English,detail,Imperial Soldier,Sir!
+84,English,detail,Katalina,The Hydra? It can't be!
+85,English,detail,Pommern,"It can, Lieutenant! And all so that you may take <span class='scene-font-italic'>proper</span> responsibility for your actions!"
+86,English,detail,Imperial Soldier,Use the Hydra! Spread out in formation to keep them from running!
+87,English,detail,Hydra,Groooar!
+88,English,detail,Vyrn,Where'd this crazy monster come from! Did that beard-twirlin' doofus bring it with him?
+89,English,detail,Lyria,Katalina!
+90,English,detail,Katalina,"You really intend to burn this island to the ground, don't you?"
+91,English,detail,Katalina,Is that how far the Empire's willing to go to use Lyria's power as their own?
+92,English,detail,Pommern,"I believe we've explained this before, Lieutenant. With her power as a foundation, the Empire will rule the skies."
+93,English,detail,Pommern,We came to this island to research its primal shrine...
+94,English,detail,Pommern,But what we found instead was <span class='scene-font-italic'>betrayal most foul!</span>
+95,English,detail,Lyria,"Katalina, I'm sorry... This is all because I asked you to take me outside..."
+96,English,detail,Katalina,"Lyria, I promised to show you the outside world. And no matter what happens, I'll stand by that promise."
+97,English,detail,Hydra,Grrr!
+98,English,detail,<span class='nickname'></span>,...!
+99,English,detail,Vyrn,Hold on... You're not actually thinking about tangling with that thing!
+100,English,sel1_txt,,We have to save them!
+101,English,sel2_txt,,It's now or never!
+102,English,detail,Pommern,I do say! It seems none of you are willing to accept reality!
+103,English,detail,Pommern,Hydra! Dispose of this miserable little moppet!
+104,English,detail,Pommern,May the tot serve as a fitting example of what happens when you defy the Empire!
+105,English,detail,Hydra,Groooar!
+106,English,detail,<span class='nickname'></span>,...!
+107,English,detail,<span class='nickname'></span>,...
+108,English,detail,Vyrn,"Whoa! <span class='nickname'></span>!<br>H-hang in there, buddy!"
+109,English,detail,Pommern,Bweheheh! How utterly pitiful!
+110,English,detail,Katalina,"An innocent civilian, and a child at that... Pommern! Just how far have you fallen!"
+111,English,detail,Vyrn,"Hey, <span class='nickname'></span>! Stop kidding around! Say something! Anything!"
+112,English,detail,Lyria,Everything's... all right...
+113,English,detail,Pommern,I do say! What is this light?
+114,English,detail,Vyrn,Look... The shrine's primal crystal is reacting... What is she doing?
+115,English,detail,Pommern,Oh ho... We heard the shrine here was special...
+116,English,detail,Pommern,B-but what in the skies is this?
+117,English,detail,Lyria,Don't worry now...
+118,English,detail,Lyria,<span class='nickname'></span>... I bestow my power on you!
+119,English,synopsis,,Lyria reveals how she pried <span class='nickname'></span> from the jaws of death by synchronizing their life forces after the young hero suffered a near-fatal wound at the claws of Captain Pommern's Hydra. <span class='nickname'></span> and Lyria's souls are now permanently intertwined.
+120,English,detail,Lyria,Primeval dragon...
+121,English,detail,Lyria,Child of flames and darkness...
+122,English,detail,Lyria,Thy name is...
+123,English,detail,Lyria,Bahamut!
+124,English,detail,Bahamut,Roooar!
+125,English,detail,Hydra,Gwaarrgh...
+126,English,detail,Pommern,What? It can't be! How could my beloved Hydra be annihilated with a single attack!
+127,English,detail,Pommern,"No! No, no, no! It can't be! I refuse to believe it!"
+128,English,detail,Vatass,...
+129,English,detail,Vyrn,"Hey! Now's our chance! Let's get outta here, <span class='nickname'></span>!"
+130,English,detail,Katalina,"This way, <span class='nickname'></span>! We have to get those wounds treated immediately!"
+131,English,detail,,"Thanks to Lyria's mysterious powers, <span class='nickname'></span> was able to summon a primal beast and defeat the Hydra."
+132,English,detail,,"The group takes advantage of the confusion to slip away. With Katalina acting as a guide, they escape the forest."
+133,English,detail,Vyrn,Huff... Huff... I think we managed to lose the beard-twirlin' doofus...
+134,English,detail,Vyrn,That primal beast... You said its name is Bahamut? You managed to awaken a primal?
+135,English,detail,Vyrn,I thought the Astrals were the only ones who could control them.
+136,English,detail,Vyrn,"Besides, weren't the primals all wiped out hundreds of years ago during the War?"
+137,English,detail,Katalina,Lyria's power makes it possible. She's the only one who can control them... besides the Astrals.
+138,English,detail,Lyria,...
+139,English,detail,Katalina,And it would appear that's not all she can do...
+140,English,detail,,The deep flesh wounds from the Hydra's claws have vanished from <span class='nickname'></span>.
+141,English,detail,Katalina,Are you okay? Any pain or discomfort?
+142,English,sel1_txt,,I seem to be fine.
+143,English,sel2_txt,,Nothing feels strange.
+144,English,detail,Lyria,Katalina... <span class='nickname'></span> risked life and limb to save me...
+145,English,detail,Lyria,"But as a result, <span class='nickname'></span> suffered horribly. Seeing <span class='nickname'></span>'s vital flame begin to flicker and weaken, I decided to link our beings..."
+146,English,detail,Lyria,To repay <span class='nickname'></span> in kind!
+147,English,detail,Katalina,What!
+148,English,detail,Lyria,That's right. From now on our souls are permanently intertwined...
+149,English,detail,Lyria,<span class='nickname'></span> and I now share the same life force.
+150,English,detail,Lyria,I hope you're not mad... It was my only choice.
+151,English,sel1_txt,,Thanks for saving me!
+152,English,detail,Lyria,...
+153,English,detail,Lyria,"By the way, I didn't summon that primal just by myself."
+154,English,detail,Lyria,"Bahamut seems to have appeared to protect you, <span class='nickname'></span>... To lend you strength."
+155,English,detail,Vyrn,No way... That's incredible! I always knew <span class='nickname'></span> was something special!
+156,English,detail,Imperial Soldier,"Hey, I've found them! They're over here!"
+157,English,detail,Vyrn,"Rats... Didn't take long for his cronies to show up. Are you good to go, <span class='nickname'></span>?"
+158,English,detail,Katalina,You escaped the grim reaper once today. Don't overwork yourself. I'll back you up this time.
+159,English,detail,Vyrn,"Are you sure? I mean, aren't you working for them?"
+160,English,detail,Katalina,"You heard the story, didn't you? I betrayed the Empire and helped Lyria escape."
+161,English,detail,Katalina,I'll save the rest for later.<br>Now get ready! They're here!
+162,English,synopsis,,"Concluding that they'll be captured if they linger any longer, <span class='nickname'></span> and the new-found crew jump on a small airship and leave behind the island of Zinkenstill. Together with the enigmatic Lyria, <span class='nickname'></span> begins a journey to the end of the sky."
+163,English,detail,Katalina,"Ngh... If we stay here, it's only a matter of time before they back us into a corner."
+164,English,detail,Katalina,We've no choice but to leave the island! Come! I prepared a small ship ahead of time for our escape!
+165,English,detail,Vyrn,"Looks like your dream of skyfaring's coming true faster than we thought, <span class='nickname'></span>! Better brace yourself!"
+166,English,sel1_txt,,I'm ready for anything!
+167,English,sel2_txt,,Shouldn't you brace yourself Vyrn?
+168,English,detail,Vyrn,Ha ha! You sure know how to roll with the punches. Just like your dad!
+169,English,detail,Vyrn,Ha ha! Who do you think you're talkin' to?
+170,English,detail,Vyrn,"If anyone here was born to fly, it's me!"
+171,English,detail,Lyria,"Hey, Katalina. Vyrn and <span class='nickname'></span> seem like best friends, don't you think?"
+172,English,detail,Katalina,They do indeed.
+173,English,detail,Katalina,"It's strange, but... I can't help but feel a sense of calm when I see Vyrn flying there so innocently."
+174,English,detail,Lyria,"You've always liked cute little animals, right, Katalina?"
+175,English,detail,Katalina,Yes... But this is no time to daydream!
+176,English,detail,Katalina,Let's go. The ship's this way!
+177,English,sel1_txt,,Got it!
+178,English,detail,Vyrn,"Our time to shine's arrived at last, <span class='nickname'></span>!"
+179,English,detail,Lyria,"I guess it's a new beginning for us both then, <span class='nickname'></span>!"
+180,English,detail,,The gang boards a small imperial airship and sets sail from <span class='nickname'></span>'s secluded island home.
+181,English,detail,,"Hurtling towards a seemingly boundless sea of golden clouds, they're overcome not with fear, but with a sense of hope."
+182,English,detail,Vyrn,The sky! We're flying through the sky!
+183,English,detail,Vyrn,"Hey, Katalina! Where are we headed in this thing?"
+184,English,detail,Katalina,"Good question... You're headed for the end of the sky, right, <span class='nickname'></span>?"
+185,English,detail,Katalina,"That must mean Estalucia, the legendary island where the Astrals are said to live. Making it there won't be easy."
+186,English,detail,Vyrn,"Oh really! Tell us somethin' we <span class='scene-font-italic'>don't</span> know! Right, <span class='nickname'></span>?"
+187,English,detail,Katalina,"I see... Then our first order of business is to cross the Grim Basin, which divides the skydoms."
+188,English,detail,Katalina,That fits my plan. We can't stay here in Phantagrande Skydom after all. Not while it's under the influence of the Empire.
+189,English,detail,Lyria,But the sky's so vast... Are they really going to come after us?
+190,English,detail,Katalina,I'm certain they will... But you needn't worry. The sky is boundless!
+191,English,detail,Katalina,"Once we're outside Phantagrande, the Empire shouldn't be able to chase us."
+192,English,detail,Vyrn,Sounds like we're in for the long haul!
+193,English,detail,Katalina,"Indeed. To the end of the sky... We may be playing things by ear, but I can't help but feel a little excited."
+194,English,detail,Katalina,First things first. We need to get our supplies in order.
+195,English,detail,Katalina,"If we head to a large town, there should be a general store that caters to airship crews."
+196,English,detail,Katalina,Our closest options are Port Breeze and the Valtz Duchy... There's bound to be someone there who can provide what we need.
+197,English,detail,Lyria,I can't believe it... I'm on a journey to a new world!
+198,English,detail,Lyria,"With Katalina, Vyrn, <span class='nickname'></span>, and maybe even more people we'll meet along the way."
+199,English,detail,Vyrn,We'll probably make plenty of new friends! I can't wait to see who we run into!
+200,English,detail,Vyrn,"So let's get this adventure to the end of the sky started, <span class='nickname'></span>!"
+201,English,detail,,"<span class='nickname'></span>'s soul now one with Lyria's, the time has come to bid farewell to home."
+202,English,detail,,"As though sent by <span class='nickname'></span>'s father from the other side of the infinite sky, a gentle blue breeze blows across the young voyager's hair."

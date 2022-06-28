@@ -1,0 +1,321 @@
+,country,genre,director,type
+0,USA,"Comedy, Drama, Romance","Phillip Davis, Peter Johnson",movie
+1,USA,Thriller,Abram Hammer,movie
+2,USA,Horror,Brandon Prewitt,movie
+3,USA,Comedy,Jessica Bauman,movie
+4,USA,"Biography, Comedy, Family","Donovan Korzen, Marley Korzen, Shelby Korzen",movie
+5,USA,Family,Tim Kelly,movie
+6,USA,Comedy,Sean Lackey,movie
+7,USA,Mystery,Anna Paone,movie
+8,USA,"Comedy, Drama, Romance",Kerem Sanga,movie
+9,USA,Horror,Scott Kenyon Barker,movie
+10,USA,"Comedy, Family",Steve Royall,movie
+11,USA,"Action, Comedy, Horror",Roni Jonah,movie
+12,USA,Drama,Robert Roblin,movie
+13,USA,"Drama, Thriller",Louis Mandylor,movie
+14,USA,"Comedy, Music, Romance",Rita Merson,movie
+15,USA,"Comedy, Drama, Musical","Kaitlyn Busbee(co-director), Sean Christopher Lewis(co-director)",movie
+16,USA,Drama,,movie
+17,USA,"Comedy, Romance",David Wain,movie
+18,USA,"Fantasy, Horror, Sci-Fi",James Pronath,movie
+19,USA,Horror,BuAli Shah,movie
+20,USA,"Crime, Drama, Romance","A.M. Greene, Cheryl Brown",movie
+21,USA,"Comedy, Romance",Tim Story,movie
+22,USA,Horror,Lisa Menzel,movie
+23,USA,Comedy,,movie
+24,USA,"Biography, Drama",Tara Miele,movie
+25,USA,"Drama, Romance",Stephen Cone,movie
+26,USA,"Comedy, Drama",Shawn Levy,movie
+27,USA,"Crime, Drama, Thriller",Steve Anderson,movie
+28,USA,Family,Tom Marshall,movie
+29,USA,"Comedy, Drama",,movie
+30,USA,"Crime, Drama, Family",Kenneth Castillo,movie
+31,USA,"Comedy, Mystery, Romance, Thriller",Josephine Decker,movie
+32,USA,Drama,Jimmy Cuong Duong,movie
+33,USA,Horror,John M. Ware,movie
+34,USA,Sci-Fi,Lloyd Griffin,movie
+35,USA,"Crime, Drama, Thriller",Hilarion Banks,movie
+36,USA,Horror,Jakob Bilinski,movie
+37,USA,"Drama, Thriller",Marco Saverio,movie
+38,USA,"Horror, Mystery, Thriller",RJ Cusyk,movie
+39,USA,Family,Laura Ann Heaton Gray,movie
+40,USA,Comedy,P.R. Tooke,movie
+41,USA,Drama,Taylor Hayden,movie
+42,USA,"Action, Comedy",Chris Gallo,movie
+43,USA,Drama,Wade Gasque,movie
+44,USA,"Horror, Thriller",Marcus J. Mosley,movie
+45,USA,"Horror, Thriller",Matt Boatright-Simon,movie
+46,USA,Comedy,Levi Robinson,movie
+47,USA,Adventure,Diana Bigham,movie
+48,USA,"Comedy, Drama",Genia Starcev,movie
+49,USA,Drama,Rob Horwitz,movie
+50,USA,"Sci-Fi, Thriller",Bradley King,movie
+51,USA,Drama,Oren Moverman,movie
+52,USA,Sci-Fi,Carlos Etzio Roman,movie
+53,USA,"Drama, Romance",Ali Afshari,movie
+54,USA,"Action, Horror, Thriller",Brian K. Williams,movie
+55,USA,"Drama, Sci-Fi",Daniel Ziegler,movie
+56,USA,"Action, Drama, Mystery","Micah Parkerson, Willie Robbins",movie
+57,USA,Drama,"Randall LaRue, Andrew Ramirez",movie
+58,USA,"Comedy, Drama",David Abreu,movie
+59,USA,,Don Baret,movie
+60,USA,Drama,Timothy Torabpour,movie
+61,USA,"Action, Adventure, Drama, Thriller",Stephen Folker,movie
+62,"USA, Spain","Comedy, Drama",Eric Boadella,movie
+63,"USA, France","Action, Crime, Thriller",Paco Cabezas,movie
+64,USA,"Drama, Sci-Fi",Chad Bargren,movie
+65,USA,Horror,Tom Holland,movie
+66,"Germany, USA","Action, Adventure, Drama, Family",Jo Kastner,movie
+67,USA,"Comedy, Romance",Johnee Gange,movie
+68,USA,Comedy,Chris Dickerson,movie
+69,USA,Western,Malcolm King-Fontana,movie
+70,USA,"Animation, Action, Comedy",Brent Triplett,movie
+71,USA,"Comedy, Romance",Chris Rock,movie
+72,USA,Thriller,Steve Rahaman,movie
+73,USA,Drama,Chica Walker,movie
+74,USA,Music,Blue Leach,movie
+75,USA,Reality-TV,Lewis Friedman,movie
+76,USA,Thriller,Gledys Howard,movie
+77,"UK, China, USA","Drama, Sci-Fi, Thriller",Wally Pfister,movie
+78,"USA, Sweden",Drama,Jacob Brown,movie
+79,"USA, China, Hong Kong","Action, Adventure, Sci-Fi",Michael Bay,movie
+80,"USA, UK",Horror,Drew Stewart,movie
+81,USA,"Action, Drama",Dominique Draper,movie
+82,"UK, USA","Horror, Mystery, Thriller",Michael G. Bartlett,movie
+83,USA,Drama,Andres Medina,movie
+84,USA,Horror,Charles Band,movie
+85,USA,"Comedy, Family",Gary T. Smith,movie
+86,USA,"Comedy, Romance",Alan Ginsberg,movie
+87,USA,"Comedy, Music, Musical",Trey Cartwright,movie
+88,USA,Comedy,Jake Hull,movie
+89,USA,Drama,Ananda Ferrari Ossanai,movie
+90,USA,"Short, Crime, Drama","E.C Illa, Konee Rok",movie
+91,USA,"Horror, Sci-Fi, Thriller","Michael Cramer, Troy Scoughton Jr.(co-director)",movie
+92,"Canada, USA","Documentary, Drama",Noémie Gilbert,movie
+93,USA,Drama,Emilio Roso,movie
+94,USA,"Comedy, Drama, Family",Jared Isham,movie
+95,USA,Comedy,Robert Erniso,movie
+96,USA,"Comedy, Drama, Horror",Kevin Smith,movie
+97,USA,Drama,Catherine Taormina,movie
+98,USA,Comedy,Michael Scipioni,movie
+99,USA,Comedy,Joshua Courtade,movie
+100,USA,Animation,Morgan Miller,movie
+101,"USA, France","Drama, Horror, Mystery, Romance, Thriller",David Lynch,movie
+102,"France, USA","Drama, Horror, Mystery, Thriller",David Lynch,movie
+103,USA,"Mystery, Sci-Fi, Thriller",David M. Altrogge,movie
+104,USA,"Comedy, Horror, Mystery",Eric Becker,movie
+105,USA,Comedy,Emmbre Perry,movie
+106,"France, Belgium, Algeria, USA",Drama,Rachid Bouchareb,movie
+107,USA,"Comedy, Romance",Max Nichols,movie
+108,USA,"Comedy, Drama",Matt Lawrence,movie
+109,USA,"Crime, Drama, Thriller",Alex R. Johnson,movie
+110,USA,"Comedy, Drama, Family",Clara Mamet,movie
+111,USA,"Short, Reality-TV",Tiauna Jackson,movie
+112,USA,Family,Richard Brandes,movie
+113,USA,"Drama, Music",Richie Adams,movie
+114,USA,Drama,Sebastian Encinas,movie
+115,USA,"Biography, Drama, Sport, War",Angelina Jolie,movie
+116,USA,Drama,Matan Grunseit,movie
+117,USA,Drama,Joshua Martin,movie
+118,USA,"Comedy, Drama",Nathan Silver,movie
+119,USA,Drama,Danzell Calhoun,movie
+120,USA,"Comedy, Drama, History",David Spital,movie
+121,"USA, Brazil, Kenya","Drama, Music, Romance",Mickaela Grace,movie
+122,USA,Drama,Malcolm M. Joor,movie
+123,USA,"Drama, Family, History",Tim Savage,movie
+124,USA,"Comedy, Drama",Owen Williams,movie
+125,"USA, Iran, Jordan","Action, Drama, War",Ash Kohan,movie
+126,USA,Horror,"Lien Mya Nguyen, Chris Rennirt",movie
+127,USA,"Drama, Thriller",Ricky Fosheim,movie
+128,"USA, India","Crime, Drama, Romance, Thriller",Raj Amit Kumar,movie
+129,"USA, Russia","Horror, Mystery, Thriller",Levan Gabriadze,movie
+130,USA,Drama,"Desmond Elliot, Bethels Agomuoh",movie
+131,USA,Thriller,"Anna Roscher, Jeff Stenzel",movie
+132,USA,Thriller,"Amariah Olson, Obin Olson",movie
+133,USA,"Short, Mystery",Wanly Florexile,movie
+134,USA,"Comedy, Drama, Family",Mark Hernandez,movie
+135,USA,"Comedy, Drama",Donche' Brock,movie
+136,USA,"Action, Crime, Drama",Eric B. Ramsey,movie
+137,USA,"Action, Drama",Henderson Maddox,movie
+138,USA,Music,Nathan Grubbs,movie
+139,USA,"Action, Horror, Thriller",Simeon Rice,movie
+140,USA,"Crime, Drama, News",Eric Stacey,movie
+141,USA,"Horror, Thriller",Victor Thomas Di Tommaso,movie
+142,USA,"Biography, Drama",Gina M. Garcia,movie
+143,USA,Thriller,Michael G. Barrett,movie
+144,"Brazil, USA","Documentary, Short, Biography",Yuri Machado,movie
+145,USA,Musical,Daphne Danielle,movie
+146,USA,"Drama, Horror",William Hellfire,movie
+147,USA,Drama,Desmond Weems,movie
+148,USA,,,movie
+149,"Belgium, USA","Drama, Music",Kriss Munsya,movie
+150,USA,Thriller,"Sharry Flaherty, Greg Van Cott",movie
+151,"USA, Romania, Netherlands","Adventure, Comedy, Family",Lucian Alexandrescu,movie
+152,"USA, Spain","Horror, Thriller","Justin Benson, Gregg Bishop, Todd Lincoln, Aaron Moorhead, Marcel Sarmiento, Nacho Vigalondo",movie
+153,USA,"Comedy, Drama, Family","Kim Swink, Chris Spencer",movie
+154,USA,"Drama, Family, History","Anna Marshall, Abigail Marshall",movie
+155,USA,Comedy,Kevin J. O'Neill,movie
+156,USA,"Comedy, Horror, Romance",Melissa Tracy,movie
+157,"USA, UK","Action, Comedy, Drama, Fantasy, Horror, Mystery, Thriller",Mark Waters,movie
+158,USA,Horror,Scott Shaw,movie
+159,USA,"Comedy, Musical",David Carey,movie
+160,USA,"Drama, Romance","Candy J. Beard, Daniel Beard",movie
+161,USA,Horror,Jake Helgren,movie
+162,USA,"Animation, Adventure, Comedy",Mike Nawrocki,movie
+163,USA,"Short, Drama",Davon Stallworth,movie
+164,"Russia, USA",Drama,Angelina Nikonova,movie
+165,USA,Thriller,Robert Elkins,movie
+166,USA,"Drama, Horror, Mystery",Joseph Ciminera,movie
+167,"USA, UK, France, Germany","Crime, Drama, Mystery, Thriller",Rob Thomas,movie
+168,USA,"Comedy, Drama, Romance",Stephen Savage,movie
+169,USA,"Action, Adventure, Comedy","Ryker Dabir, Jay Paul",movie
+170,USA,"Drama, Horror, Thriller",Michael Kenneth Fahr,movie
+171,USA,Drama,Brian Naydol,movie
+172,USA,Drama,Victor Crowl,movie
+173,USA,"Comedy, Horror",Garrett Benach,movie
+174,USA,Thriller,"Stephen Moore, Greg Van Cott",movie
+175,USA,Drama,Saeed Khoze,movie
+176,USA,"Drama, Music","Kevin Domer, Charles Mattingly, Charlie Myers",movie
+177,USA,"Drama, Mystery, Thriller",Jason Thomas Scott,movie
+178,USA,"Action, Fantasy, Sci-Fi",Matthew Van Howe,movie
+179,USA,"Short, Comedy",Paul Armstrong,movie
+180,USA,Horror,"Laurence Holloway, Richard Stoudt",movie
+181,USA,"Drama, Horror, Mystery",Walter Boholst,movie
+182,USA,Drama,Derrick J. Johnson,movie
+183,USA,Drama,Daniel Cowen,movie
+184,USA,"Comedy, Music, Musical",Jenn Page,movie
+185,USA,"Comedy, Fantasy, Horror",Dylan Greenberg,movie
+186,USA,"Comedy, Romance",Anthony Cook,movie
+187,USA,Drama,"Trina Montreuil Brown, Lamarcus Tinker",movie
+188,USA,Comedy,Steven Brill,movie
+189,USA,Romance,Tawd B. Dorenfeld,movie
+190,USA,Comedy,Justin Monticello,movie
+191,"UK, USA, Italy","Comedy, Drama, Musical, Romance","Max Giwa, Dania Pasquini",movie
+192,USA,Drama,Eric McGinty,movie
+193,USA,"Comedy, Drama",Raz Cunningham,movie
+194,USA,Drama,Mark Jackson,movie
+195,USA,Thriller,Giovanni Capitello,movie
+196,USA,"Comedy, Drama, Romance",Alex Beh,movie
+197,USA,,,movie
+198,USA,Comedy,John Strelec,movie
+199,USA,"Drama, Mystery, Thriller",David Hefner,movie
+200,"Japan, USA",Comedy,Kôji Maeda,movie
+201,USA,Horror,Thomas Banuelos,movie
+202,USA,Drama,Ramasses Head,movie
+203,USA,"Crime, Thriller",Jeff Scott Taylor,movie
+204,USA,Action,"Cirio H. Santiago, Jim Wynorski",movie
+205,USA,,"Cristina Bocchialini, Ayman El Gazwy",movie
+206,USA,"Comedy, Horror, Sci-Fi",Eric Michael Kochmer,movie
+207,USA,Drama,Brandon Nease,movie
+208,"USA, Canada","Fantasy, Thriller",Kevin Carraway,movie
+209,USA,"Action, Drama, Romance",Rob Diamond,movie
+210,USA,"Comedy, Horror, Sci-Fi",Jeremy Zierau,movie
+211,USA,Musical,Toby Hubner,movie
+212,USA,"Comedy, Drama",Sean Weiner,movie
+213,USA,"Drama, Music",Kevin Pickman,movie
+214,USA,Drama,Chase Lisbon,movie
+215,USA,Comedy,Mark Stacey White,movie
+216,USA,"Comedy, Romance","Simon Helberg, Jocelyn Towne",movie
+217,USA,"Drama, Horror, Mystery","Danny Lane, Alex Evan Meyers, Danny Lane",movie
+218,USA,"Adventure, Comedy, Romance",James Stiles,movie
+219,USA,Comedy,"Jon Javere, David K. Drew",movie
+220,USA,Thriller,Antwan Smith,movie
+221,USA,"Comedy, Drama","Joe Flanders, Patrick Fogarty",movie
+222,USA,"Comedy, Drama",Shira Piven,movie
+223,"USA, France",Drama,Abel Ferrara,movie
+224,USA,Horror,BC Fourteen,movie
+225,USA,Thriller,Brad Hodge,movie
+226,USA,"Drama, Romance",Daniel Armando,movie
+227,USA,"Comedy, Horror",Jarrod Knowles,movie
+228,USA,Drama,Lee Bumgarner,movie
+229,USA,Horror,Bronson Mosley,movie
+230,USA,"Comedy, Drama, Romance",Thomas Hennessy,movie
+231,USA,Drama,Jerry Smart,movie
+232,USA,Drama,"Tim Gagliardo(co-director), Donavon Warren(co-director)",movie
+233,USA,"Comedy, Drama, Romance",Lili Matta,movie
+234,USA,Drama,"Stephen Poole, Stephen Poole",movie
+235,USA,"Short, Drama",Daniel Rester,movie
+236,USA,"Drama, Sport",Thomas Carter,movie
+237,"Tonga, USA","Adventure, Comedy, Drama",Alex Bernstein,movie
+238,"Canada, USA","Comedy, Drama",Lukas Huffman,movie
+239,USA,Drama,James Clauer,movie
+240,USA,"Comedy, Drama",Messiah Amaram,movie
+241,USA,"Drama, Family",Chris Dowling,movie
+242,USA,Drama,Chip Rossetti,movie
+243,USA,"Comedy, Drama",Scott Brignac,movie
+244,USA,"Horror, Thriller",Christian E. Christiansen,movie
+245,USA,Thriller,Matt Jenkins,movie
+246,USA,Thriller,Johnny Ramey,movie
+247,USA,"Comedy, Drama, Mystery",Noah Baumbach,movie
+248,USA,"Drama, Music",Damien Chazelle,movie
+249,"USA, Chile","Fantasy, Horror",Jorge Olguín,movie
+250,"France, USA","Drama, Mystery, Thriller",Gregg Araki,movie
+251,USA,Comedy,Jake Myers,movie
+252,USA,"Drama, Horror, Thriller",John W. Yost,movie
+253,USA,"Comedy, Drama",Ryan Fox,movie
+254,USA,"Biography, Drama","Hector Felix, Jon Primo",movie
+255,USA,"Comedy, Fantasy, Horror",Alex Amadei,movie
+256,USA,Drama,Josh Hodgins,movie
+257,USA,Horror,Arthur Leo Collins,movie
+258,USA,Musical,Paul D. Hannah,movie
+259,USA,Drama,Brittany Larimore,movie
+260,USA,"Crime, Drama, Thriller",John Meredith,movie
+261,USA,"Comedy, Drama, Romance",Christopher W. Hurst,movie
+262,USA,Horror,Anthony Commodore,movie
+263,USA,Drama,Elliot Loewenstein,movie
+264,USA,"Drama, Thriller, Western",Nicholas Barton,movie
+265,USA,"Biography, Drama",Jean-Marc Vallée,movie
+266,USA,"Comedy, Crime, Drama",Lawrence Michael Levine,movie
+267,USA,Comedy,"Matt Hamilton, Scott Hamilton",movie
+268,USA,"Adventure, Drama, Thriller",Frank Hall Green,movie
+269,USA,"Short, Drama",Hunter Cone,movie
+270,USA,"Comedy, Drama, Sci-Fi",Brian McGuire,movie
+271,"USA, Canada",Action,Dimitri Logothetis,movie
+272,USA,"Animation, Adventure, Comedy","Tony Tang, Mychal Simka",movie
+273,USA,"Comedy, Drama, Fantasy",Terence Krey,movie
+274,USA,"Drama, Fantasy, Mystery, Romance",Akiva Goldsman,movie
+275,USA,"Comedy, Drama",Zach Braff,movie
+276,USA,Family,Tyler Maddox,movie
+277,USA,"Comedy, Drama",Colin Theys,movie
+278,USA,Horror,Ryan Scott Weber,movie
+279,USA,"Horror, Thriller","Ken Comito, Melanie Comito, Victoria King, Josh Spiegel",movie
+280,USA,Horror,Rashaan Russell,movie
+281,"USA, Canada","Comedy, Drama, Romance",Titus Heckel,movie
+282,USA,Drama,Trevor Glindomrong,movie
+283,USA,Romance,Fro Rojas,movie
+284,USA,"Horror, Thriller",,movie
+285,USA,Sci-Fi,"Michael Colburn, Veronica Pierce",movie
+286,USA,"Drama, Thriller",Jens Josephs,movie
+287,USA,Drama,Ashleigh Coffelt,movie
+288,USA,"Fantasy, Thriller",Kurtz Frausun,movie
+289,USA,"Comedy, Drama",Logan Hinson,movie
+290,USA,Horror,William Victor Schotten,movie
+291,USA,"Comedy, Drama, Romance",Ralph Arend,movie
+292,"USA, UK, Canada","Action, Adventure, Sci-Fi, Thriller",Bryan Singer,movie
+293,USA,Drama,Ryan Piers Williams,movie
+294,USA,Sci-Fi,Austin Barbetto,movie
+295,USA,"Comedy, Drama, Romance",Alex Chu,movie
+296,"China, USA, Hong Kong","Action, Comedy, Drama",Wen Jiang,movie
+297,"Japan, Thailand, Indonesia, USA",Drama,Kiki Sugino,movie
+298,USA,"Horror, Thriller",Derek Mungor,movie
+299,USA,"Drama, Horror, Thriller",Matt Latham,movie
+300,USA,Action,"Stephen Stix Josey, Donald Martin",movie
+301,USA,"Action, Drama",Kendall Womblin,movie
+302,USA,"Comedy, Drama",Matt Mercer,movie
+303,USA,Drama,George C. Wolfe,movie
+304,USA,"Comedy, Drama",Paula J. Terry,movie
+305,USA,"Drama, Romance, Thriller","Alexandra Cuerdo, Chelsea Mayer",movie
+306,USA,"Comedy, Drama",Andrew T. Betzer,movie
+307,"South Africa, Ireland, USA","Action, Drama, Romance, Sci-Fi, Western",Jake Paltrow,movie
+308,"Japan, USA","Animation, Action, Comedy","Shigeharu Takahashi, Shinji Ushiro, Mark Risley",movie
+309,USA,Music,ZZ Top,movie
+310,"USA, Finland","Crime, Drama",Juha Wuolijoki,movie
+311,USA,Thriller,Garitt Knotts,movie
+312,USA,"Crime, Drama, Mystery",Conor Allyn,movie
+313,USA,Drama,Sanelle Sibanda,movie
+314,USA,Drama,Dominic DeLay,movie
+315,USA,"Action, Adventure, Comedy, Horror, Sci-Fi, Thriller",Jordan Rubin,movie
+316,USA,"Comedy, Horror",Robert Elkins,movie
+317,USA,Horror,Paul Rivera,movie
+318,USA,"Action, Horror, Thriller",Jeffrey Reyes,movie
+319,USA,Drama,Kevin Lasit,movie

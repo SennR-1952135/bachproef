@@ -1,0 +1,22 @@
+,classification,description,name,status
+0,Active travel,"Schemes to encourage staff and visitors to walk, cycle or use public transport to travel to a site, leading to reduced vehicle use, reduced air pollution, and health benefits associated with exercise.",Active staff travel,Green
+1,Anaesthetic gases,Reducing carbon intensity of anaesthetic gas use (including nitrous oxide) e.g. reduced flow rates and reliance on nitrous oxide or nitrous oxide scrubbing technology.,Reducing waste anaesthetic gases (non-ambulance),Green
+2,Onsite Generation,Replacement of fossil fuel boiler with one fired by biomass. The nature of the biomass (primary material or waste) and the source of supply should also be taken into account.,Biomass boilers,Green
+3,Plant Efficiency,"The range of opportunities to improve existing boiler efficiency (e.g. burner replacement, optimisation, heat recovery systems like stack economisers, flash steam or condensate recovery, improving controls).",Boiler plant optimisation,Green
+4,Automation & Control,Optimisation and/or recalibration of an existing BMS system to ensure it is properly maintained and functioning effectively (e.g. incorrect set up could lead to manual override and poor building management).,Building Management System (BMS) - optimisation of existing systems,Green
+5,Automation & Control,"A BMS is a computer-based control system that allows energy-using services to be centrally managed, notably heating, ventilation and air conditioning (HVAC) and sometimes lighting.",Building Management System (BMS) - new systems,Green
+6,Electrical Efficiency,,High efficiency chillers,Red
+7,Onsite Generation,Installation of a Combined heat and power (CHP) system that simultaneously generates usable heat and power (usually electricity) through a single process.,Combined Heat and Power (CHP),Green
+8,District Heating & Cooling,The export of energy generated on site (e.g. by oversized CHP systems) for use by external organisations.,District heating,Green
+9,User Behaviours & Culture,"Training drivers to be more fuel efficient and safe, increasing MPG and in turn reducing fuel costs emissions and number of accidents.",Driver training for fuel efficiency and safety,Green
+10,Home insulation,"Home insulation targeted to reduce admissions by 20% for people in fuel poverty, plus additional benefits for health and environment outside the NHS.",Reducing fuel poverty through referrals for home insulation,Green
+11,Electrical Efficiency,"Use of lighting controls to reduce lighting in areas that do not need to be fully lit at all times (e.g. passive infrared sensors, photoelectric, dimming controls, zonal switching)",Lighting - controls,Green
+12,Electrical Efficiency,"Measures to reduce the impact of IT and office equipment (e.g. Enable energy saving features, purchase equipment with the Energy Star logo).",Optimising office electrical equipment,Green
+13,Medicines waste,"Medicines waste comes in several forms including over-prescribing in acute settings, when trying a patient on a new medication and from repeat prescription requests as well as patient non-compliance.",Reducing medicine waste,Green
+14,Reablement,,Reablement,Red
+15,Rapid Response and Supported Discharge Teams,"Introduction of a Rapid Assessment, Interface and Discharge service, including improved A&E response and ward referral times.",Rapid Response and Supported Discharge Teams,Red
+16,Solar Hot Water,Installation of a Solar Hot Water system.,Solar - thermal,Green
+17,Automation & Control,Review heating set points and reduce by 1 degree Celsius wherever possible.,Temperature set points - '1 degree C',Green
+18,Travel Planning,"Improving access to services through improved local planning arrangements including public transport, pedestrian and cycle routes as well as campaigns to reduce vehicles engines running outside hospitals reduces air pollution and carbon emissions.",Travel planning,Green
+19,Electrical Efficiency,Installation of VSDs to fan and pump motors. By implementing this technology a close match may be achieved between the motor speed and the output requirements.,Variable speed drives,Green
+20,Models of Care,Public Heath/NHS-led independent taskforce/agency established to work with food industry to gradually reduce sugar intake via soft drinks,Sugar reduction in soft drinks,Green

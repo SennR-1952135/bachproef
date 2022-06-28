@@ -1,0 +1,25 @@
+,type,name,duration
+0,place,Home,28250
+1,move,transport,1323
+2,place,Boston Logan International Airport (BOS),3731
+3,place,Place in Logan International Airport,586
+4,move,transport,6321
+5,move,walking,330
+6,move,transport,1561
+7,move,walking,120
+8,move,transport,240
+9,move,walking,499
+10,place,NTN24,901
+11,move,walking,567
+12,place,District Taco,3362
+13,move,walking,554
+14,place,NTN24,9764
+15,move,walking,245
+16,place,Staples,472
+17,move,walking,308
+18,place,NTN24,13389
+19,move,transport,1608
+20,move,walking,395
+21,place,Whole Foods Market,384
+22,move,walking,572
+23,place,2440 39th St NW,10826

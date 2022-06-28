@@ -1,0 +1,25 @@
+,description,name,type
+0,"near-surface (usually, 10 meters) eastward component of wind.",uas,real
+1,"near-surface (usually, 10 meters) northward component of wind.",vas,real
+2,eastward component of wind at 50 m,ua50m,real
+3,northward component of wind at 50 m,va50m,real
+4,eastward component of wind at 100 m,ua100m,real
+5,northward component of wind at 100 m,va100m,real
+6,unset,rsdsdiff,real
+7,surface solar irradiance for UV calculations,rsds,real
+8,"near-surface (usually, 10 meters) wind speed.",sfcWindmax,real
+9,50m wind speed,wind50max,real
+10,100m wind speed,wind100max,real
+11,near surface (10m) wind gust,wsgsmax,real
+12,50m wind gust,wsgsmax50,real
+13,100m wind gust,wsgsmax100,real
+14,unset,rsdsdiffmax,real
+15,surface solar irradiance for UV calculations,rsdsmax,real
+16,unset,rsdsdiffmin,real
+17,surface solar irradiance for UV calculations,rsdsmin,real
+18,,sfcWindmin,real
+19,,wind50min,real
+20,,wind100min,real
+21,"surface pressure (not mean sea-level pressure), 2-D field to calculate the 3-D pressure field from hybrid coordinates",ps,real
+22,"near-surface (usually, 2 meter) air temperature",tas,real
+23,cloud area fraction,clt,real

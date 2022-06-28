@@ -1,0 +1,401 @@
+,city,state,name,address
+0,Henderson,NV,VONS,45 E Horizon Ridge Pkwy
+1,Henderson,NV,Albertsons,575 College Dr
+2,Boulder City,NV,Smith's,830 S Boulder Hwy
+3,Boulder City,NV,Walmart Supercenter,300 E Lake Mead Pkwy
+4,Boulder City,NV,Albertsons,190 N Boulder Hwy
+5,Boulder City,NV,Albertsons,1008 Nevada Way
+6,Boulder City,NV,Cuevas Meat Market,530 S Boulder Hwy
+7,Boulder City,NV,Groceries,not_available
+8,Henderson,NV,Walmart Supercenter,540 Marks St
+9,Henderson,NV,Sprouts Farmers Market,515 N Stephanie St
+10,Henderson,NV,Walmart Neighborhood Market,1401 American Pacific Dr
+11,Henderson,NV,Joshan Filipino Oriental Market,6325 E Russell Rd #105
+12,Henderson,NV,Mabuhay Asian Market,565 Marks St Ste 140
+13,Henderson,NV,Quick Mart,not_available
+14,Henderson,NV,Whole Foods Market,100 S. Green Valley Pkwy
+15,Henderson,NV,Albertsons,201 S Stephanie St
+16,Henderson,NV,Smith's,1000 N Green Valley Pkwy
+17,Henderson,NV,Sprouts Farmers Market,635 S Green Valley Pkwy
+18,Henderson,NV,Smith's,55 S Valle Verde Dr
+19,Henderson,NV,F&E KT,not_available
+20,Henderson,NV,GLAZIER'S FOOD MARKETPLACE INC.,514 Beneficial Pl
+21,Henderson,NV,WinCo Foods,80 N Stephanie St
+22,Henderson,NV,Smith's,4600 E Sunset Rd
+23,Henderson,NV,Trader Joe's,2716 N Green Valley Pkwy
+24,Henderson,NV,Natural Grocers,1660 W Sunset Rd
+25,Henderson,NV,La Bonita,not_available
+26,Henderson,NV,Kim Ngoc Asian Grocery,"Green Valley Plaza, 2600 N Green Valley Pkwy, Henderson, NV 89014-2112"
+27,Moapa,NV,Moapa Paiute Travel Plaza / Chevron Gas,I-15 Exit 75
+28,Mesquite,NV,Walmart Supercenter,1120 W Pioneer Blvd
+29,Mesquite,NV,Smith's,350 N Sandhill Blvd
+30,Mesquite,NV,"Dixie Nutrition, Mesquite",300 N Sandhill Blvd Ste F
+31,Mesquite,NV,The Ranch Market,not_available
+32,Laughlin,NV,Walmart Supercenter,2840 Highway 95
+33,Laughlin,NV,Safeway,1751 Highway 95
+34,Laughlin,NV,Smith's,1775 Lakeside Dr
+35,Laughlin,NV,Walmart Supercenter,5210 S. Hwy 95
+36,Laughlin,NV,Safeway,4823 S Highway 95
+37,Laughlin,NV,Smith's,4747 S Highway 95
+38,Laughlin,NV,Smart & Final Extra!,2250 Highway 95
+39,North Las Vegas,NV,Smart & Final,365 W. Craig Rd.
+40,North Las Vegas,NV,Smith's,2255 Las Vegas Blvd N
+41,North Las Vegas,NV,El Super,2021 E. Lake Mead
+42,North Las Vegas,NV,Carniceria Guadalajara,955 W Craig Rd
+43,North Las Vegas,NV,Sto Nino Filipino Asian Market,955 W Craig Rd Ste 114
+44,North Las Vegas,NV,La Bonita,2021 Civic Center Dr
+45,North Las Vegas,NV,La Bonita,2672 Las Vegas Blvd N
+46,North Las Vegas,NV,Buy Low Market,1061 W Owens Ave
+47,North Las Vegas,NV,Mariana's Supermarkets,2325 E Cheyenne Ave
+48,North Las Vegas,NV,Smith's,5564 Camino Al Norte
+49,North Las Vegas,NV,Natural Grocers,6305 Simmons St
+50,North Las Vegas,NV,Smith's,4700 W Ann Rd
+51,North Las Vegas,NV,Albertsons,3010 W Ann Rd
+52,North Las Vegas,NV,Walmart Neighborhood Market,5545 Simmons St
+53,North Las Vegas,NV,Sprouts Farmers Market,6150 N. Decatur Blvd
+54,North Las Vegas,NV,King Ranch Market,Decatur Blvd
+55,North Las Vegas,NV,Albertsons liquor Department,not_available
+56,North Las Vegas,NV,Walmart Supercenter,1807 W Craig Rd
+57,North Las Vegas,NV,Walmart Supercenter,3950 W Lake Mead Blvd
+58,North Las Vegas,NV,Smith's,3013 W Craig Rd
+59,North Las Vegas,NV,Albertsons,4850 W Craig Rd
+60,Overton,NV,Lin's Market,350 N Moapa Valley Blvd
+61,Henderson,NV,Albertsons,2910 Bicentennial Pkwy
+62,Pahrump,NV,Walmart Supercenter,300 S Highway 160
+63,Pahrump,NV,Smith's,601 S Hwy 160
+64,Pahrump,NV,Albertsons Pharmacy,200 S Hwy 160
+65,Pahrump,NV,LJ's Market,not_available
+66,Pahrump,NV,Smith's Grocery Pickup and Delivery,601 S Highway 160
+67,Tonopah,NV,Raley's,1201 S. Main St.
+68,Tonopah,NV,Scolari's Food & Drug,Hwy 95 Air Force Rd
+69,Henderson,NV,Walmart Supercenter,2310 E Serene Ave
+70,Henderson,NV,Smith's,10616 S Eastern Ave
+71,Henderson,NV,Sprouts Farmers Market,1140 E Silverado Ranch Blvd
+72,Henderson,NV,Trader Joe's,10345 S Eastern Ave
+73,Henderson,NV,Smith's,9750 S Maryland Pkwy
+74,Henderson,NV,Albertsons,9725 S Maryland Pkwy
+75,Henderson,NV,VONS,2511 Anthem Village Dr
+76,Henderson,NV,Walmart Neighborhood Market,490 E Silverado Ranch Blvd
+77,Henderson,NV,Smart & Final,10050 S. Eastern Ave. Suite 100
+78,Henderson,NV,CVS pharmacy,2501 Anthem Village Dr
+79,Henderson,NV,Kababayan Ko,9560 S Eastern Ave
+80,Henderson,NV,Bahay Kubo Asian Food Mart,not_available
+81,Henderson,NV,Deliver Las Vegas,not_available
+82,Henderson,NV,VONS,2667 Windmill Pkwy
+83,Henderson,NV,Water Store,2647 Windmill Pkwy
+84,Henderson,NV,Walmart Grocery Pickup and Delivery,7445 S Eastern Ave
+85,Henderson,NV,Asian Seafood Market,8826 S Eastern Ave
+86,North Las Vegas,NV,Smith's,2255 E Centennial Pkwy
+87,North Las Vegas,NV,Walmart Neighborhood Market,5940 Losee Rd
+88,North Las Vegas,NV,Smith's Clicklist,not_available
+89,North Las Vegas,NV,Walmart Supercenter,6464 N Decatur Blvd
+90,North Las Vegas,NV,Smith's,6855 Aliante Pkwy
+91,Las Vegas,NV,Mariana's Supermarkets,574 N Eastern Ave
+92,Las Vegas,NV,Smith's,3602 E Bonanza Rd
+93,Las Vegas,NV,Sister's Oriental Market,not_available
+94,Las Vegas,NV,Cardenas Markets,2400 E Bonanza Rd
+95,Las Vegas,NV,La Bonita,2405 E Ogden Ave
+96,Las Vegas,NV,Smart & Final,2305 Bonanza Road
+97,Las Vegas,NV,BJ Performance Consulting and Training,5030 Paradise Rd
+98,Las Vegas,NV,Fremont Family Market And Deli,611-20 Fremont St
+99,Las Vegas,NV,Walmart Supercenter,4505 W Charleston Blvd
+100,Las Vegas,NV,Smith's,850 S Rancho Dr
+101,Las Vegas,NV,El Super,4610 W Sahara Ave
+102,Las Vegas,NV,Smith's,4840 W Desert Inn Rd
+103,Las Vegas,NV,Rani's World Foods,4505 W Sahara Ave
+104,Las Vegas,NV,SF Supermarket,5115 Spring Mountain Rd Ste 168
+105,Las Vegas,NV,Mariana's Supermarkets,3631 W Sahara Ave
+106,Las Vegas,NV,Smart & Final Extra!,4439 W. Charleston Blvd.
+107,Las Vegas,NV,El Super,4610 West Sahara Avenue
+108,Las Vegas,NV,Vons Food and Drug,4616 W Sahara Ave
+109,Las Vegas,NV,Smith's,not_available
+110,Las Vegas,NV,Smith's,6130 W Tropicana Ave
+111,Las Vegas,NV,Sprouts Farmers Market,4020 S Rainbow Blvd
+112,Las Vegas,NV,168 Market,3459 S Jones Blvd
+113,Las Vegas,NV,Smith's,4001 S Decatur Blvd
+114,Las Vegas,NV,Albertsons,5975 W Tropicana Ave
+115,Las Vegas,NV,SF Las Vegas Superstore,4801 Spring Mountain Rd
+116,Las Vegas,NV,99 Ranch Market,4215 Spring Mountain Rd
+117,Las Vegas,NV,La Bonita,4120 S Rainbow Blvd
+118,Las Vegas,NV,Peace Ethiopian Market & Restaurant,4850 W Flamingo Rd
+119,Las Vegas,NV,International Marketplace,5000 S Decatur Blvd
+120,Las Vegas,NV,Western Oriental Super Market,3899 Spring Mountain Rd
+121,Las Vegas,NV,Auntee M's Market & Delo,4275 Arville St
+122,Las Vegas,NV,24 Hour Store,4275 Arville St Ste A
+123,Las Vegas,NV,Cereal llc,4952 S Rainbow Blvd Ste 217
+124,Las Vegas,NV,Bangkok Market,4825 W Flamingo Rd #15 & 16
+125,Las Vegas,NV,Mediterranean Market,not_available
+126,Las Vegas,NV,Los Compadres Meat Market,3655 S Decatur Blvd
+127,Las Vegas,NV,Smith's,2540 S Maryland Pkwy
+128,Las Vegas,NV,Smith's,4965 E Sahara Ave
+129,Las Vegas,NV,Walmart Neighborhood Market,1400 S Lamb Blvd
+130,Las Vegas,NV,Cardenas Markets,2545 S Eastern Ave
+131,Las Vegas,NV,Albertsons,1760 E Charleston Blvd
+132,Las Vegas,NV,Rainbow's End Las Vegas Natural Foods,1100 E Sahara Ave
+133,Las Vegas,NV,Value Market,1510 E Sahara Ave
+134,Las Vegas,NV,La Mexicana,1120 E Charleston Blvd
+135,Las Vegas,NV,Rainbow's End,1100 E Sahara Ave Ste 120
+136,Las Vegas,NV,A-Mart,953 E Sahara Ave
+137,Las Vegas,NV,7 Eleven,Martin Luther King
+138,Las Vegas,NV,Cardenas Markets,4700 Meadows Ln
+139,Las Vegas,NV,Walmart Neighborhood Market,6310 W Charleston Blvd
+140,Las Vegas,NV,Mariana’s Supermarket,Jones
+141,Las Vegas,NV,Kings Ranch Market,not_available
+142,Las Vegas,NV,Marketon,840 N Decatur Blvd
+143,Las Vegas,NV,Walmart Neighborhood Market,5850 W Craig Rd
+144,Las Vegas,NV,Smith's,3160 N Rainbow Blvd
+145,Las Vegas,NV,Walmart,3041 N Rainbow Blvd
+146,Las Vegas,NV,Smart & Final Extra!,1941 North Decatur Blvd.
+147,Las Vegas,NV,La Bonita,6000 W Cheyenne Ave
+148,Las Vegas,NV,Walmart Neighborhood Market,6151 W Lake Mead Blvd
+149,Las Vegas,NV,Smith's,1421 N Jones Blvd
+150,Las Vegas,NV,La Isleña Market,2405 N Rainbow Blvd
+151,Las Vegas,NV,Sari Sari Oriental Market,3119 N Rancho Dr
+152,Las Vegas,NV,Seafood City,3890 S Maryland Pkwy
+153,Las Vegas,NV,Albertsons,1300 E Flamingo Rd
+154,Las Vegas,NV,VONS,1131 E Tropicana Ave
+155,Las Vegas,NV,VONS,1155 E Twain Ave
+156,Las Vegas,NV,India Market & Cafe,1435 E Tropicana Ave
+157,Las Vegas,NV,"L.A. Price Market (International, Mediterranean/European Grocery)",4972 S Maryland Pkwy Ste 8
+158,Las Vegas,NV,Aladdin Market,not_available
+159,Las Vegas,NV,watermill express,"Maryland Pkwy, Henderson, NV 89052"
+160,Las Vegas,NV,Albertsons,5881 E Charleston Blvd
+161,Las Vegas,NV,Smith's,450 N Nellis Blvd
+162,Las Vegas,NV,Walmart,201 N Nellis Blvd
+163,Las Vegas,NV,Cardenas Markets,4421 E Bonanza Rd
+164,Las Vegas,NV,Marketon,755 N Nellis Blvd
+165,Las Vegas,NV,Los Compadres,not_available
+166,Las Vegas,NV,Cabana Food Market,3965 E. Owens Ave
+167,Las Vegas,NV,Liborio,930 N Lamb Blvd
+168,Las Vegas,NV,Walmart Supercenter,7200 Arroyo Crossing Pkwy
+169,Las Vegas,NV,Smith's Food & Drug,8525 W Warm Springs Rd
+170,Las Vegas,NV,Walmart Photo Center,6973 Blue Diamond Rd
+171,Las Vegas,NV,VONS,7405 S Durango Dr
+172,Las Vegas,NV,Sprouts Farmers Market,7375 S. Rainbow Blvd.
+173,Las Vegas,NV,Walmart Grocery Pickup and Delivery,6973 Blue Diamond Road
+174,Las Vegas,NV,Euro Delicacies,not_available
+175,Las Vegas,NV,CLB Global Services,7315 Larix Rd
+176,Las Vegas,NV,Asian Market,7537 S Rainbow Blvd
+177,Las Vegas,NV,Nellis AFB Commissary,4200 Mountain Home St
+178,Las Vegas,NV,Walmart Neighborhood Market,6570 E Lake Mead Blvd
+179,Las Vegas,NV,Albertsons,6885 E Lake Mead Blvd
+180,Las Vegas,NV,Liborio Market 12,3258 Las Vegas Blvd N
+181,Las Vegas,NV,Walmart Supercenter,3615 S Rainbow Blvd
+182,Las Vegas,NV,Whole Foods Market,8855 West Charleston Blvd.
+183,Las Vegas,NV,Smith's,9851 W Charleston Blvd
+184,Las Vegas,NV,Albertsons,1001 S Rainbow Blvd
+185,Las Vegas,NV,Smith's,8555 W Sahara Ave
+186,Las Vegas,NV,Sprouts Farmers Market,"10000 W Sahara Ave, Ste 180"
+187,Las Vegas,NV,VONS,8540 W Desert Inn Rd
+188,Las Vegas,NV,Albertsons,2550 S Fort Apache Rd
+189,Las Vegas,NV,Smart & Final Extra!,8485 W. Sahara Ave.
+190,Las Vegas,NV,Max Market,8450 W Sahara Ave Ste 117
+191,Las Vegas,NV,Tindahan,103 fort apache st
+192,Las Vegas,NV,The Lakes Mini Market,2934 Lake East Dr
+193,Las Vegas,NV,Water U Love,3665 S Fort Apache Rd Ste 103
+194,Las Vegas,NV,Drive Up & Go,not_available
+195,Las Vegas,NV,sunflower Farmers Market,not_available
+196,Las Vegas,NV,Walmart Supercenter,6005 S Eastern Ave
+197,Las Vegas,NV,Whole Foods Market,6689 Las Vegas Blvd.
+198,Las Vegas,NV,Albertsons,7271 S Eastern Ave
+199,Las Vegas,NV,Marketon,2475 E Tropicana Ave
+200,Las Vegas,NV,Veg-In-Out Market,2301 E Sunset Rd
+201,Las Vegas,NV,Mariana's Supermarkets,4151 S Eastern Ave
+202,Las Vegas,NV,Artisanal Foods,2275 E Sunset Rd
+203,Las Vegas,NV,Walmart Supercenter,3075 E Tropicana Ave
+204,Las Vegas,NV,Sprouts Farmers Market,3365 E Tropicana Ave
+205,Las Vegas,NV,Smith's,3850 E Flamingo Rd
+206,Las Vegas,NV,Albertsons,2885 E Desert Inn Rd
+207,Las Vegas,NV,Walmart Supercenter,5198 Boulder Hwy
+208,Las Vegas,NV,Albertsons,2835 S Nellis Blvd
+209,Las Vegas,NV,Smart & Final Extra!,3750 E. Flamingo Rd.
+210,Las Vegas,NV,Cardenas Markets,4500 E Tropicana Ave
+211,Las Vegas,NV,La Bonita,2500 E Desert Inn Rd
+212,Las Vegas,NV,Marketon,3736 E Desert Inn Rd
+213,Las Vegas,NV,Laos Asia Market,3050 E Desert Inn Rd
+214,Las Vegas,NV,The Drop,2770 E Flamingo Rd ste b
+215,Las Vegas,NV,Mediterranean Country Market,not_available
+216,Las Vegas,NV,E's pilipino Market,3310 S Nellis Blvd
+217,Las Vegas,NV,Brazil Store,2585 E Flamingo Rd
+218,Las Vegas,NV,Albertsons,5500 Boulder Hwy
+219,Las Vegas,NV,Smith's,2385 E Windmill Ln
+220,Las Vegas,NV,Smith's,8180 Las Vegas Blvd S
+221,Las Vegas,NV,VONS,475 E Windmill Ln
+222,Las Vegas,NV,Viet My Asian Market,8810 S Maryland Pkwy #105
+223,Las Vegas,NV,Smith's,8050 S Rainbow Blvd
+224,Las Vegas,NV,WinCo Foods,7501 W Washington Ave
+225,Las Vegas,NV,Target,4100 Blue Diamond Rd
+226,Las Vegas,NV,Smith's,7130 N Durango Dr
+227,Las Vegas,NV,Smith’s Marketplace,9710 Skye Canyon Park Dr
+228,Las Vegas,NV,Walmart Supercenter,8060 W Tropical Pkwy
+229,Las Vegas,NV,Smith's,10600 Southern Highlands Pkwy
+230,Las Vegas,NV,Trader Joe's,2315 Summa Dr Ste 100
+231,Las Vegas,NV,Smith's,2211 N Rampart Blvd
+232,Las Vegas,NV,Trader Joe's,7575 W Washington
+233,Las Vegas,NV,Whole Foods Market,7250 W. Lake Mead Blvd.
+234,Las Vegas,NV,Albertsons,1650 N Buffalo Dr
+235,Las Vegas,NV,Sprouts Farmers Market,7530 W Lake Mead Blvd
+236,Las Vegas,NV,Town Center Grocer,1571 N Buffalo Dr
+237,Las Vegas,NV,Walmart Neighborhood Market,10440 W Cheyenne Ave
+238,Las Vegas,NV,Albertsons,7151 W Craig Rd
+239,Las Vegas,NV,Albertsons,8350 W Cheyenne Ave
+240,Las Vegas,NV,Trader Joe's,5639 Centennial Center Blvd
+241,Las Vegas,NV,Albertsons,7075 W Ann Rd
+242,Las Vegas,NV,WinCo Foods,6101 N Decatur Blvd
+243,Las Vegas,NV,Centinella Market,5071 N Rainbow Blvd
+244,Las Vegas,NV,Fresh And Easy,Jones
+245,Las Vegas,NV,Albertsons,8410 Farm Rd
+246,Las Vegas,NV,Sprouts Farmers Market,8441 Farm Rd
+247,Las Vegas,NV,VONS,6450 Sky Pointe Dr
+248,Las Vegas,NV,Glacier Water Vendor,Durango
+249,Las Vegas,NV,Albertsons,1940 Village Center Circle
+250,Las Vegas,NV,Albertsons,10250 W Charleston Blvd
+251,Las Vegas,NV,Albertsons,11720 W Charleston Blvd
+252,Las Vegas,NV,Albertsons,7350 S Rainbow Blvd
+253,Las Vegas,NV,Albertsons,4800 Blue Diamond Rd
+254,Las Vegas,NV,Sprouts Farmers Market,"771 S Rainbow Blvd, # 130"
+255,Las Vegas,NV,Watermill Express,not_available
+256,Las Vegas,NV,Jones Market Eastern European,3301 S Jones Blvd
+257,Las Vegas,NV,Smith's,10100 W Tropicana Ave
+258,Las Vegas,NV,Albertsons,4055 S Durango Dr
+259,Las Vegas,NV,Albertsons,10140 W Flamingo Rd
+260,Las Vegas,NV,Smith's,9350 W Flamingo Rd
+261,Las Vegas,NV,Smith's,4015 S Buffalo Dr
+262,Las Vegas,NV,Walmart Grocery Pickup and Delivery,5200 S Fort Apache Rd
+263,Las Vegas,NV,Rons Market Eastern European Meat & Deli,6085 S Fort Apache Rd #140
+264,Las Vegas,NV,Urban Eats,not_available
+265,Las Vegas,NV,Albertsons,6730 N Hualapai Way
+266,Las Vegas,NV,Glacier Water Vendor,not_available
+267,Las Vegas,NV,Durango Market,6955 N Durango Dr #1114
+268,Las Vegas,NV,7 11,Spring mountain
+269,Las Vegas,NV,Albertsons,7975 Blue Diamond Rd
+270,Ely,NV,Ridley Family Market,1689 Great Basin Blvd
+271,Ely,NV,Andersons Food Town,1101 E. Aultman
+272,Eureka,NV,Raine's Market,not_available
+273,Dayton,NV,Smith's,2200 US Highway 50 E
+274,Dayton,NV,Grocery Outlet,7 Dayton Village Parkway
+275,Fallon,NV,Walmart Supercenter,2333 Reno Hwy
+276,Fallon,NV,Safeway,890 W Williams Ave
+277,Fallon,NV,Fallon NAS Commissary,4755 Pasture Rd Bldg 340
+278,Fallon,NV,Better Daze LLC,not_available
+279,Fernley,NV,Walmart Supercenter,1550 Newlands Dr E
+280,Fernley,NV,Raley's,1400 US Highway 95A North
+281,Fernley,NV,Grocery Outlet,1305 Chisholm Trail
+282,Fernley,NV,Raleys,1400 US Highway 95A N
+283,Fernley,NV,Scolari's,not_available
+284,Gardnerville,NV,Walmart Supercenter,1511 Grant St
+285,Gardnerville,NV,Raley's,1363 Highway 395 North
+286,Gardnerville,NV,Wa She Shu Travel Plaza,1001 US Highway 395 N
+287,Gardnerville,NV,Smith's,1341 US Highway 395 N
+288,Gardnerville,NV,Grocery Outlet,"1329 Us Highway 395n, Ste.12-3"
+289,Hawthorne,NV,Safeway,1095 Hwy 95
+290,Lovelock,NV,Safeway,400 Dartmouth Ave
+291,Mc Dermitt,NV,Quinn River Mercantile,not_available
+292,Minden,NV,Carson Country Market,not_available
+293,Minden,NV,Lira's Supermarket,1681 Lucerne St
+294,Sparks,NV,Safeway,2858 Vista Blvd
+295,Sparks,NV,Smith's,1255 Baring Blvd
+296,Sparks,NV,Sprouts Farmers Market,125 Disc Dr
+297,Sparks,NV,Raley's,2895 North McCarran Blvd.
+298,Sparks,NV,Grocery Outlet,2020 Oddie Boulevard
+299,Sparks,NV,FoodMaxx,565 E Prater Way
+300,Sparks,NV,Asia Market,Prater
+301,Sparks,NV,Scolari's Food & Drug Co,950 Holman Way
+302,Sparks,NV,HK Market,2124 Greenbrae Dr
+303,Sparks,NV,Winco,not_available
+304,Sparks,NV,Saag Market,780 15th Street
+305,Sparks,NV,Ralston Foods,1055 E Greg St
+306,Sparks,NV,Pauls Market,2156 Oppio St
+307,Sparks,NV,A1 Indian Market,not_available
+308,Sun Valley,NV,Walmart Supercenter,5065 Pyramid Way
+309,Sun Valley,NV,Scolari's Food & Drug Co,5430 Sun Valley Blvd
+310,Sparks,NV,Raley's,2389 Wingfield Hills Road
+311,Sparks,NV,Grocery Outlet Bargain Market,1300 Disc Dr
+312,Sparks,NV,Save Mart,9750 Pyramid Lakes Hwy
+313,Wellington,NV,Bridgeport MCMWTC Commissary,1003 Champagne Ave
+314,Winnemucca,NV,Walmart Supercenter,3010 Potato Rd
+315,Winnemucca,NV,Grocery Outlet,880 Hanson St
+316,Winnemucca,NV,Grocery Outlet,880 Hanson Street
+317,Winnemucca,NV,Khoury's,1066-1098 Nevada 294
+318,Winnemucca,NV,Raley’s,1125 W Winnemucca Blvd
+319,Yerington,NV,Raley's,176 West Goldfield Avenue
+320,Yerington,NV,Scolari's,not_available
+321,Zephyr Cove,NV,Safeway,212 Elks Point Rd
+322,Stateline,NV,Raley's,"4000 Lake Tahoe Blvd., #6"
+323,Incline Village,NV,Raley's,930 Tahoe Blvd.
+324,Incline Village,NV,Village Market,770 Mays Blvd
+325,Incline Village,NV,La Tienda Latina,785 Southwood Blvd #1
+326,Reno,NV,Great Basin Food Coop,240 Court St
+327,Reno,NV,midway east sidr,not_available
+328,Reno,NV,Whole Foods Market,6139 S. Virginia Street
+329,Reno,NV,Walmart Supercenter,2425 E 2nd St
+330,Reno,NV,Trader Joe's,5035 S McCarran Blvd
+331,Reno,NV,WinCo Foods,9750 S Virginia St
+332,Reno,NV,Walmart Supercenter,4855 Kietzke Ln
+333,Reno,NV,Save Mart,195 W. Plumb Ln
+334,Reno,NV,Asian Mart,115 E Moana Ln
+335,Reno,NV,Marketon,1500 S Wells Ave Reno
+336,Reno,NV,Smart & Final Extra!,365 East Plumb Lane
+337,Reno,NV,Save Mart,4995 Kietzke Ln.
+338,Reno,NV,Natural Grocers,4819 Kietzke Ln
+339,Reno,NV,168 Asian Market,not_available
+340,Reno,NV,Scolari's Food & Drug Co,3310 S McCarran Blvd
+341,Reno,NV,Grocery Outlet,3800 S Kietzke Lane #130
+342,Reno,NV,Smart Foodservice Warehouse Stores,115 Kietzke Lane
+343,Reno,NV,Raley's,3310 South McCarran Boulevard
+344,Reno,NV,International Supermarket,225 Gentry Way
+345,Reno,NV,Daily market,75 patriot blvd
+346,Reno,NV,Nutrishop,5280 Longley Ln Ste 200
+347,Reno,NV,Turmeric,9333 Double R Blvd #400
+348,Reno,NV,Sak 'n Save Food Store,1000 E Plumb Ln
+349,Reno,NV,Walmart Supercenter,5260 W 7th St
+350,Reno,NV,Raley's,701 Keystone Ave.
+351,Reno,NV,Save Mart,525 Keystone Ave
+352,Reno,NV,Safeway,5150 Mae Anne Ave
+353,Reno,NV,Save Mart,10500 N. Mccarran
+354,Reno,NV,Pack Pit Stop,"1664 N Virginia St, #56"
+355,Reno,NV,Reno Asian Supermarket,803 W 5th St
+356,Reno,NV,Smith's,175 Lemmon Dr
+357,Reno,NV,Walmart Supercenter,250 Vista Knoll Parkway
+358,Reno,NV,Raley's,1075 N. Hills Blvd.
+359,Reno,NV,Grocery Outlet Bargain Market,200 Lemmon Dr Ste 101
+360,Reno,NV,Scolari's Food & Drug Co,200 Lemmon Dr
+361,Reno,NV,Raley's,1441 Mayberry Drive
+362,Reno,NV,Skyline Market,2995 Skyline Blvd
+363,Reno,NV,Raley's,4788 Caughlin Parkway
+364,Reno,NV,Raley's,not_available
+365,Reno,NV,Scolari's Food & Drug Co,4788 Caughlin Pkwy
+366,Reno,NV,Food Source,4047 S Virginia St
+367,Reno,NV,Raley's,18144 Wedge Parkway
+368,Reno,NV,Walmart Supercenter,155 Damonte Ranch Pkwy
+369,Reno,NV,Smith's,750 S Meadows Pkwy
+370,Reno,NV,Sprouts Farmers Market,587 S Meadows Pkwy
+371,Reno,NV,WinCo Foods,2855 Northtowne Ln
+372,Reno,NV,Raley's,1630 Robb Drive
+373,Reno,NV,Aladdins Bazaar,not_available
+374,Reno,NV,Raley's,1690 Robb Dr
+375,Reno,NV,Scolari's Food & Drug Co,6225 Sharlands Ave
+376,Carson City,NV,Walmart Supercenter,3200 Market St
+377,Carson City,NV,Smith's,599 E William St
+378,Carson City,NV,Walmart Supercenter,3770 Us Highway 395 S
+379,Carson City,NV,Raley's,3701 S. Carson St.
+380,Carson City,NV,Trader Joe's,3790 US Hwy 395 S
+381,Carson City,NV,Save Mart,3620 N. Carson St.
+382,Carson City,NV,Grocery Outlet,1831 North Carson Street
+383,Carson City,NV,Save Mart,4348 S. Carson St.
+384,Carson City,NV,Hacienda Market & Grill,2270 E William St
+385,Carson City,NV,Kam's Kettle Cooked Foods Inc,204 W Spear St #3286
+386,Carson City,NV,Smart Foodservice Warehouse Stores,222 Fairview Dr Ste 100
+387,Carson City,NV,Smart Foodservice Warehouse Stores,222 Fairview Drive Suite 100
+388,Carson City,NV,FoodMaxx,"3325 Highway 50 East,"
+389,Elko,NV,Smith's,1740 Mountain City Hwy
+390,Elko,NV,Khoury's marketplace,568 Spring Valley Pkwy
+391,Elko,NV,Walmart Supercenter,2944 Mountain City Hwy
+392,Elko,NV,Our Grocery Store,not_available
+393,Elko,NV,Raley’s,2505 Mountain City Hwy
+394,Elko,NV,Raley's,2505 Mountain City Hwy.
+395,Elko,NV,Albertsons,2582 Idaho St
+396,Battle Mountain,NV,Midway Market,not_available
+397,Wells,NV,Roys Grocery Market,647 Humboldt Ave
+398,West Wendover,NV,Smith's,1855 W Wendover Blvd
+399,West Wendover,NV,Daves Supermart,100 wendover blvd

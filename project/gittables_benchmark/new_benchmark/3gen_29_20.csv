@@ -1,0 +1,81 @@
+,year,country,city
+0,2008,United States,New York
+1,2008,United Kingdom,Belfast
+2,2008,United States;United States,New York;New York
+3,2008,Iran;United Kingdom,Tehran;Glasgow
+4,2008,Canada,Toronto
+5,2008,Australia;Australia,Brisbane;Brisbane
+6,2007,United States,Los Angeles
+7,2007,Japan,Sendai
+8,2007,United States,Stanford
+9,2007,United States,Bethesda
+10,2007,United States,New York
+11,2007,United States,Houston
+12,2007,United States,Bethesda
+13,2007,Sweden;Sweden,Vaxjo;Lund
+14,2007,Greece,Athens
+15,2007,United Kingdom,London
+16,2006,United States,Lubbock
+17,2006,United States;United States,Bethesda;Baltimore
+18,2006,United States,New York
+19,2006,,
+20,2005,Sweden,Stockholm
+21,2005,,
+22,2005,United States,Stanford
+23,2005,United States,Bethesda
+24,2005,United States,New York
+25,2004,Canada,Hamilton
+26,2004,Japan,Sapporo
+27,2004,Iran,Tehran
+28,2004,Sweden,Stockholm
+29,2003,United Kingdom,Cambridge
+30,2003,United Kingdom;United States;United Kingdom,Aberdeen;Bethesda;Aberdeen
+31,2003,Germany,Berlin
+32,2003,United States;United States,Los Angeles;Los Angeles
+33,2003,China,Huainan
+34,2003,,
+35,2003,Canada;Hong Kong,Hamilton;Pokfulam
+36,2002,United Kingdom,Birmingham
+37,2002,Portugal,Porto
+38,2002,United States,New York
+39,2002,Germany,Wurzburg
+40,2002,United States,Bethesda
+41,2002,United States,Rochester
+42,2002,United States,Bethesda
+43,2002,United States;United States,Houston;Houston
+44,2002,United States,New York
+45,2002,United States,Rochester
+46,2001,Sweden;Sweden,Lund;Lund
+47,2001,Israel,Petah Tiqwa
+48,2001,Australia,Brisbane
+49,2001,United Kingdom,Bristol
+50,2001,United States;United States,Bethesda;Bethesda
+51,2001,United States;United States,Berkeley;San Francisco
+52,2001,United States,New York
+53,2000,Italy;Italy,Padua;Padua
+54,2000,United States,Bethesda
+55,2000,Australia,Sydney
+56,2000,United States;United States,;Kansas City
+57,2000,Germany;Germany,Bayreuth;Bayreuth
+58,1999,United States;United States,;Nashville
+59,1999,Sweden,Lund
+60,1999,Sweden;Sweden,Stockholm;Stockholm
+61,1999,United Kingdom,Coventry
+62,1998,United States,Bethesda
+63,1998,United States,Boston
+64,1998,United States,Bethesda
+65,1998,United Kingdom,Bristol
+66,1998,United States,Cleveland
+67,1997,Spain,Donostia-San Sebastian
+68,1997,United States,New York
+69,1997,United Kingdom;United Kingdom,Liverpool;Leeds
+70,1997,,
+71,1997,Austria;Austria,Vienna;Vienna
+72,1997,United Kingdom,Bristol
+73,1995,United States,Seattle
+74,1994,United States,New York
+75,1994,United States,Boston
+76,1993,United Kingdom,Sheffield
+77,1991,United States,Rochester
+78,1989,United States,Houston
+79,1984,Australia,Shenton Park

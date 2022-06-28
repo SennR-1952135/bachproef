@@ -1,0 +1,6 @@
+,description
+0,(Ljava/lang/Object;Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;
+1,(Ljava/lang/String;Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;
+2,(Ljava/lang/Object;Ljava/lang/Class;)V
+3,(Ljava/lang/Throwable;Ljava/lang/Class;)V
+4,(Ljava/lang/String;Ljava/lang/Class;)V

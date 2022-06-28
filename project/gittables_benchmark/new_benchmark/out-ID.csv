@@ -1,0 +1,275 @@
+,city,state,name,address
+0,Pocatello,ID,Walmart Supercenter,4240 Yellowstone Ave
+1,Pocatello,ID,Fred Meyer,800 Yellowstone Ave
+2,Pocatello,ID,WinCo Foods,1030 Yellowstone Ave
+3,Pocatello,ID,Smith's,4845 Yellowstone Ave
+4,Pocatello,ID,Ridley's Market Place,not_available
+5,Pocatello,ID,Ridley's Marketplace,1000 Pocatello Creek Rd
+6,Pocatello,ID,Nel's Bi-Lo Market,333 N 15th Ave
+7,Pocatello,ID,Albertsons,330 E Benton St
+8,Pocatello,ID,Persian Bazzar,905 S 5th Ave
+9,Pocatello,ID,Pocatello Co-Op,515 N Main St
+10,Pocatello,ID,Trading Post Grocery Store,not_available
+11,American Falls,ID,Ken's Food Market,500-524 Tyhee Ave
+12,Bancroft,ID,Mike's Market,105 E Main
+13,Blackfoot,ID,Ridley's,not_available
+14,Blackfoot,ID,Walmart Supercenter,565 Jensen Grove Dr
+15,Blackfoot,ID,Stop N Shop,409 S Main St
+16,Blackfoot,ID,Sinclair,985 S Broadway St
+17,Blackfoot,ID,Broulims,570 S State St
+18,Challis,ID,Sawtooth Station,not_available
+19,Challis,ID,Garden Creek Farms Co-Pack,999 Garden Creek Road
+20,Inkom,ID,Bisharat's Market,not_available
+21,Mackay,ID,Atkinsons' Market,451 4th St E
+22,Mackay,ID,Village Market,100 N Main St
+23,Malad City,ID,Thomas Market,170 S Main St
+24,Montpelier,ID,Jensen Market,120 N 8th St
+25,Montpelier,ID,Broulims,130 S 4th St
+26,Preston,ID,Stokes Thriftway,not_available
+27,Preston,ID,Weston Market,42 East Depot st.
+28,Soda Springs,ID,Truby's Health Mart,113 Main St
+29,Soda Springs,ID,Broulims,89 W 2nd S
+30,Stanley,ID,Mountain Village Merc,5 Eva Falls Avenue
+31,Twin Falls,ID,Walmart Supercenter,252 Cheney Dr W
+32,Twin Falls,ID,Fred Meyer,705 Blue Lakes Blvd
+33,Twin Falls,ID,WinCo Foods,1569 Blue Lakes Blvd N
+34,Twin Falls,ID,Smart Foodservice Warehouse Stores,1777 Canyon Crest Drive
+35,Twin Falls,ID,Smith's,1913 Addison Ave E
+36,Twin Falls,ID,Albertsons,1221 Addison Ave E
+37,Twin Falls,ID,Countryside Market,2794 Addison Ave E
+38,Twin Falls,ID,Fredmeyers,Blue Lakes Blvd N
+39,Twin Falls,ID,Swensens Markets,991 Washington St S
+40,Twin Falls,ID,Fred Meyer Grocery Pickup and Delivery,705 Blue Lakes Blvd N
+41,Twin Falls,ID,Grocery Outlet,2318 Addison Avenue East
+42,Twin Falls,ID,Swensens,115 Addison Ave
+43,Twin Falls,ID,Asian Market,412 Addison Ave W
+44,Bellevue,ID,Albertsons,911 N Main St
+45,Bellevue,ID,Atkinsons' Market,93 E Croy St
+46,Bellevue,ID,Atkinsons' Market,757 N Main St
+47,Bellevue,ID,Natural Grocers,710 N Main St
+48,Buhl,ID,Ridley's Family Markets,705 Highway 30
+49,Buhl,ID,Duane's Market,339 Main St
+50,Buhl,ID,Co-op Food,"The Parade, Castleford"
+51,Buhl,ID,Don's Thriftway,115 9th Ave N
+52,Burley,ID,Walmart Supercenter,385 N Overland Ave
+53,Burley,ID,Smith's,937 E Main St
+54,Burley,ID,Stoke's,500 Overland Ave
+55,Burley,ID,albertsons,1310 Pomerelle Ave
+56,Gooding,ID,Ridley's Food and Drug,1427 Main St
+57,Gooding,ID,M&W Gooding Market,501-599 Main St
+58,Heyburn,ID,Swensens-Paul,113 East Ellis Street
+59,Heyburn,ID,Sun Valley Potato,375 w 100 s
+60,Jerome,ID,Walmart Supercenter,2680 S Lincoln Ave
+61,Jerome,ID,Ridley's Family Market,1016 S Lincoln Ave
+62,Jerome,ID,La Campesina Market,1323 S Lincoln Ave
+63,Rupert,ID,Ridley's,310 Oneida St
+64,Idaho Falls,ID,Walmart Supercenter,500 S Utah Ave
+65,Idaho Falls,ID,Fred Meyer,1555 Northgate Mile
+66,Idaho Falls,ID,Walmart Supercenter,1201 S 25th E
+67,Idaho Falls,ID,WinCo Foods,333 N Woodruff Ave
+68,Idaho Falls,ID,Albertsons,1705 W Broadway St
+69,Idaho Falls,ID,Broulims,2730 E Sunnyside Rd
+70,Idaho Falls,ID,Albertsons,1901 S 25th E
+71,Idaho Falls,ID,Albertsons,590 E 17th St
+72,Idaho Falls,ID,Natural Grocers,1270 E 17th St
+73,Idaho Falls,ID,Smith's,400 S Woodruff Ave
+74,Idaho Falls,ID,Smart Foodservice Warehouse Stores,1240 Lindsay Blvd
+75,Idaho Falls,ID,"Divinia Water, Inc.",149 Chestnut St
+76,Idaho Falls,ID,Prepared Pantry,2 N Landmark Ln
+77,Idaho Falls,ID,My Thrifty Thrift Store,not_available
+78,Idaho Falls,ID,Glenwood Inc.,4491 N Haroldsen Dr
+79,Idaho Falls,ID,Del Monte Foods,1840 N Boulevard
+80,Idaho Falls,ID,Eagle Eye Produce,1095 N Woodruff Ave
+81,Idaho Falls,ID,Tops Friendly Markets!,East 38th
+82,Idaho Falls,ID,Broulims,1855 W Broadway St
+83,Ashton,ID,Dave's Jubilee,not_available
+84,Driggs,ID,Broulims,240 S Main St
+85,Driggs,ID,Barrels & Bins,not_available
+86,Island Park,ID,Food Roundup,125-199 Madison Ave
+87,Rexburg,ID,Walmart Supercenter,1450 North 2nd East
+88,Rexburg,ID,Broulims,150 N State St
+89,Rexburg,ID,Albertsons,490 N 2nd E
+90,Rexburg,ID,Broulims,124 W Main St
+91,Rexburg,ID,"Las Ll's Imports, Inc.",not_available
+92,Rexburg,ID,MC Market,First Floor of The Manwaring Center
+93,Saint Anthony,ID,Broulims,540-574 N 3rd E
+94,Victor,ID,Victor Valley Market & Deli,5 South Main Street
+95,Salmon,ID,Saveway,200-298 N Challis St
+96,Salmon,ID,Discounts Unlimited,501 S Challis St
+97,Lewiston,ID,Walmart Supercenter,306 5th St
+98,Lewiston,ID,Albertsons,400 Bridge St
+99,Lewiston,ID,Rick's Family Foods,1401 13th St
+100,Lewiston,ID,Rosauer's,1001-1045 Bryden Ave
+101,Lewiston,ID,Albertsons,1024 21st St
+102,Lewiston,ID,URM Cash And Carry,1846 G St
+103,Lewiston,ID,Larry's P & Chicken,not_available
+104,Lewiston,ID,Hay's Produce,701 Bridge St
+105,Lewiston,ID,Grocery Outlet,117 Thain Road
+106,Lewiston,ID,Grocery Outlet Bargain Market,117 Thain Rd
+107,Lewiston,ID,Safeway,2330 Nez Perce Dr
+108,Lewiston,ID,A&B Foods,Thain Road
+109,Cottonwood,ID,Cash N Carry,401-499 Foster St
+110,Cottonwood,ID,Rieners Grocery And Drug,U.S. 95 Bus
+111,Grangeville,ID,Harvest Foods,not_available
+112,Kamiah,ID,Harvest Foods,508 3rd St
+113,Orofino,ID,FRONTIER FOODS,218 College Ave
+114,Orofino,ID,Glenwood IGA Foodliner,1130 Michigan Avenue
+115,Bruneau,ID,Hammett Valley Trading Post,"Old Highway 30, Hammett, ID 83627"
+116,Caldwell,ID,Albertsons,415 Cleveland Blvd
+117,Caldwell,ID,WinCo Foods,2020 Caldwell Blvd
+118,Caldwell,ID,Albertsons,2500 Blaine St
+119,Caldwell,ID,Walmart Neighborhood Market,622 E. Ustick Road
+120,Caldwell,ID,Albertsons,not_available
+121,Caldwell,ID,Smart Foodservice Warehouse Stores,2710 Sundance Rd.
+122,Caldwell,ID,Wonder Bread Hostess,2603 Sundance Rd #E
+123,Caldwell,ID,Bakery Outlet,"3506 Cleveland Blvd, Caldwell, ID 83605"
+124,Caldwell,ID,Grocery Outlet,4907 Cleveland Blvd.
+125,Caldwell,ID,Walmart Supercenter,5108 Cleveland Blvd
+126,Caldwell,ID,Paul's Market,425 N 10th Ave
+127,Caldwell,ID,Walmart Neighborhood Market,175 S Middleton Rd
+128,Caldwell,ID,Walmart Grocery Pickup,175 S Middleton Rd
+129,Cascade,ID,Albertsons,132 E Lake St
+130,Cascade,ID,Ridleys,411 Deinhard Ln
+131,Cascade,ID,D-9 Grocer,102 S. Main St.
+132,Cascade,ID,Albertsons,1001 2nd St
+133,Council,ID,Meadows Valley Market,"220 Virginia St, New Meadows, ID 83654"
+134,Eagle,ID,Albertsons,7100 W State St
+135,Eagle,ID,Walmart Supercenter,7319 W State St
+136,Eagle,ID,WinCo Foods,3032 E State St
+137,Eagle,ID,Albertsons,250 S Eagle Rd
+138,Eagle,ID,Fred Meyer,1400 W Chinden Blvd
+139,Eagle,ID,Albertsons,640 Hwy 16
+140,Eagle,ID,Prepared Pantry,"1117 E Plaza Dr, Eagle, ID 83616"
+141,Eagle,ID,Star Merc,10336 Idaho 44
+142,Fruitland,ID,Walmart Supercenter,1775 E Idaho Ave
+143,Fruitland,ID,Red Apple Store,301-399 SW 5th St
+144,Fruitland,ID,PanaderÃ­a Estrella,192 SW 2nd Ave
+145,Homedale,ID,Albertsons,20 E Wyoming Ave
+146,Homedale,ID,mitchels wilder market,5th st
+147,Kuna,ID,Albertsons,700 E Avalon St
+148,Meridian,ID,Albertsons Market Street,not_available
+149,Meridian,ID,Fred Meyer,1850 E Fairview Ave
+150,Meridian,ID,Walmart Supercenter,4051 E Fairview Ave
+151,Meridian,ID,Albertsons,3301 W Cherry Ln
+152,Meridian,ID,WinCo Foods,1050 S Progress Ave
+153,Meridian,ID,Albertsons Market Street,3499 E Fairview Ave
+154,Meridian,ID,Walmart Supercenter,795 West Overland Road
+155,Meridian,ID,Albertsons,20 E Fairview Ave
+156,Meridian,ID,Food To Store,1500 N Locust Grove Rd
+157,Meridian,ID,Pauls,not_available
+158,Meridian,ID,Smart Foodservice Warehouse Stores,1560 N Hickory Ave
+159,Middleton,ID,Produce O' Plenty & More,23404 Kingsbury Rd
+160,Meridian,ID,Walmart Supercenter,5001 N. Ten Mile Rd.
+161,Meridian,ID,Trader Joe's,2986 N. Eagle RD.
+162,Meridian,ID,Albertsons,4700 N Eagle Rd
+163,Meridian,ID,Rosauers,2986 N Eagle Rd
+164,Mountain Home,ID,Walmart Supercenter,2745 American Legion Blvd
+165,Mountain Home,ID,Albertsons,528 N Main St
+166,Mountain Home,ID,Mountain Home AFB Commissary,615 Gunfighter Ave
+167,Mountain Home,ID,Paul's Market,not_available
+168,Nampa,ID,Albertsons,715 12th Ave S
+169,Nampa,ID,Fred Meyer,50 2nd St S
+170,Nampa,ID,Lone Star Market,135 Lone Star Rd
+171,Nampa,ID,Vic's Family Pharmacy - Midland Blvd,118 S Midland Blvd
+172,Nampa,ID,Paul's Market,not_available
+173,Parma,ID,M&W Foods,not_available
+174,Parma,ID,M & W Markets,424 Main St
+175,Payette,ID,Albertsons,405 S Main St
+176,Weiser,ID,ridley's,652 E 1st St
+177,Nampa,ID,Walmart Supercenter,2100 12th Ave Rd
+178,Nampa,ID,Albertsons,2400 12th Ave Rd
+179,Nampa,ID,WinCo Foods,1175 S Happy Valley Rd
+180,Nampa,ID,Walmart Supercenter,5875 E Franklin Rd
+181,Nampa,ID,Winco Foods,1175 N Happy Valley Rd
+182,Boise,ID,Trader Joe's,300 S Capitol Blvd
+183,Boise,ID,WinCo Foods,110 E Myrtle St
+184,Boise,ID,Albertsons,1650 W State St
+185,Boise,ID,Whole Foods Market,401 S. Broadway Avenue
+186,Boise,ID,Boise Co-op,888 W Fort St
+187,Boise,ID,Smart Foodservice Warehouse Stores,1700 W. Shoreline Drive
+188,Boise,ID,Albertsons,3614 W State St
+189,Boise,ID,The Kratom Connection,1412 W Sherman St
+190,Boise,ID,Fred Meyer,5425 W Chinden Blvd
+191,Boise,ID,Walmart Neighborhood Market,3233 N. Cole Rd.
+192,Boise,ID,Idaho Capital Asian Market,not_available
+193,Boise,ID,Walmart Grocery Pickup,3233 N Cole Rd
+194,Boise,ID,WinCo Foods,8200 W Fairview Ave
+195,Boise,ID,Albertsons,1520 N Cole Rd
+196,Boise,ID,Natural Grocers,1195 N Milwaukee St
+197,Boise,ID,Wonder Hostess Bakery Thriftshop,9225 W Chinden Blvd
+198,Boise,ID,Asia Market,9975 W Fairview Ave
+199,Boise,ID,Zacoalco Supermarket,7166 W Fairview Ave
+200,Boise,ID,Albertsons,1219 S Broadway Ave
+201,Boise,ID,Albertsons,1653 S Vista Ave
+202,Boise,ID,Fred Meyer,3527 S Federal Way
+203,Boise,ID,Albertsons,909 E Parkcenter Blvd
+204,Boise,ID,Grocery Outlet,6969 W Overland Rd.
+205,Boise,ID,Fred Meyer,5230 W Franklin Rd
+206,Boise,ID,Albertsons,5100 W Overland Rd
+207,Boise,ID,China Market,3907-3911 W Overland Rd
+208,Boise,ID,Thana's Little World Market,4109 W Overland Rd
+209,Boise,ID,Grocery Outlet,5544 W Fairview Avenue
+210,Boise,ID,Orient Market,4898 W Emerald St
+211,Boise,ID,Baghdad Market & Bakery,not_available
+212,Boise,ID,Walmart Supercenter,8300 W Overland Rd
+213,Boise,ID,Fred Meyer,10751 W Overland Rd
+214,Boise,ID,Albertsons,10565 W Lake Hazel Rd
+215,Boise,ID,Genesee Foods,2
+216,Boise,ID,Tradeviet,not_available
+217,Boise,ID,Albertsons,10500 W Overland Rd
+218,Boise,ID,Albertsons,10700 W Ustick Rd
+219,Boise,ID,Albertsons,6560 S Federal Way
+220,Athol,ID,Alpine RV Park and Country Store,17568 N Highway 95
+221,Athol,ID,Super 1 Foods,not_available
+222,Bonners Ferry,ID,Safeway,6519 Main St
+223,Bonners Ferry,ID,Super 1 Foods,6452 Main St
+224,Bonners Ferry,ID,Grocery Outlet,6355 Main Street
+225,Bonners Ferry,ID,Yoder’s Store,not_available
+226,Clark Fork,ID,BAYSIDE GROCERY,1591 Garfield Bay Rd
+227,Coeur D Alene,ID,WinCo Foods,1485 W Appleway Ave
+228,Coeur D Alene,ID,Super One Foods,240 W Hayden Ave
+229,Coeur D Alene,ID,Fred Meyer,560 W Kathleen Ave
+230,Coeur D Alene,ID,Walmart Grocery Pickup and Delivery,6405 W Pointe Parkway
+231,Coeur D Alene,ID,Albertsons,220 Ironwood Dr
+232,Coeur D Alene,ID,Walmart Supercenter,550 W Honeysuckle Ave
+233,Coeur D Alene,ID,Super 1 Foods,805 E Polston Ave
+234,Coeur D Alene,ID,Super 1 Foods,U.S. 95
+235,Coeur D Alene,ID,Albertsons,161 W Prairie Ave
+236,Coeur D Alene,ID,Walmart Supercenter,3050 E Mullan Ave
+237,Coeur D Alene,ID,Grocery Outlet,410 W Neider Avenue
+238,Coeur D Alene,ID,Peterson's Family Foods,1211 E Sherman Ave
+239,Coeur D Alene,ID,Safeway,1001 N 4th St
+240,Coeur D Alene,ID,Franz Bakery Outlet,1220 N Government Way
+241,Coeur D Alene,ID,Oriental Gifts & Food,4270 W Riverbend Ave
+242,Coeur D Alene,ID,Trading Co.,1501 E Seltice Way
+243,Coeur D Alene,ID,Safeway,121 W Neider Ave
+244,Coeur D Alene,ID,Handy Mart 2 & Bargain Groceries,811 N 4th St
+245,Coeur D Alene,ID,Grocery Department,not_available
+246,Coeur D Alene,ID,Smart Foodservice Warehouse Stores,208 East Appleway Avenue
+247,Coeur D Alene,ID,Frontier Grocery,2707 W Seltice Way
+248,Coeur D Alene,ID,cosco,not_available
+249,Oldtown,ID,Safeway,121 W Walnut St
+250,Oldtown,ID,Super 1 Foods,41 Old Diamond Mill Rd
+251,Genesee,ID,Genesee Food Center,"216 Chestnut  W,"
+252,Harrison,ID,Harrison Trading Post,101 S Coeur d'Alene Ave
+253,Hope,ID,Davis Grocery and Mercantile,620 Wellington Pl
+254,Kellogg,ID,Walmart Garden Center,583 Commerce Drive
+255,Kellogg,ID,Yoke's Fresh Market,117 N Hill St
+256,Kellogg,ID,Steins Market,E Mullan Ave
+257,Moscow,ID,Walmart Supercenter,2470 West Pullman Road 2
+258,Moscow,ID,Safeway,1320 S Blaine St
+259,Moscow,ID,Rosauers,411 N Main St
+260,Moscow,ID,WinCo Foods,1700 W Pullman Rd
+261,Moscow,ID,Moscow Food Co-op,121 E 5th St
+262,Moscow,ID,Phung-Mart Asian Grocery,not_available
+263,Ponderay,ID,Walmart Supercenter,476999 Highway 95
+264,Ponderay,ID,Yoke's Fresh Market,212 Bonner Mall Way
+265,Post Falls,ID,Super 1 Foods,15837 N Westwood Dr
+266,Priest River,ID,Mitchell's Harvest Foods,1222-1308 Albeni Rd
+267,Sagle,ID,Safeway,702 N Fifth Ave
+268,Sagle,ID,Winter Ridge Natural Foods,703 Lake St
+269,Sagle,ID,Super 1 Foods,500-598 Larch St
+270,Saint Maries,ID,IGA,not_available
+271,Saint Maries,ID,St Maries Harvest Foods,south hwy 3
+272,Spirit Lake,ID,Miller's Harvest Foods,Hwy 41
+273,Wallace,ID,Harvest Foods,806 Bank st.

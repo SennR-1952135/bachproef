@@ -1,0 +1,17 @@
+,description
+0,(Ljava/util/concurrent/CompletableFuture;Ljava/lang/Class;)V
+1,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+2,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+3,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+4,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+5,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+6,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+7,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+8,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+9,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+10,(Ljava/util/function/Predicate;)Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+11,(Ljava/util/function/Predicate;Ljava/lang/String;)Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+12,(Ljava/util/function/Predicate;Lorg/assertj/core/presentation/PredicateDescription;)Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+13,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+14,()Lorg/assertj/core/api/AbstractCompletableFutureAssert;
+15,()Lorg/assertj/core/api/AbstractThrowableAssert;

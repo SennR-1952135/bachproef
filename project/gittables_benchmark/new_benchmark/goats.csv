@@ -1,0 +1,37 @@
+,type,country,gender,age,education
+0,Farmer ,Australia,F,31-40,"specialization course (master, PhD degree) "
+1,Technician ,Iran (Islamic Republic of),M,41-50,"specialization course (master, PhD degree) "
+2,Farmer ,Netherlands,M,>60,high school 
+3,Veterinary ,United Kingdom,M,41-50,"specialization course (master, PhD degree) "
+4,Farmer ,United Kingdom,F,41-50,university degree 
+5,Farmer ,United States,F,51-60,university degree 
+6,Veterinary ,United States,F,51-60,"specialization course (master, PhD degree) "
+7,Farmer ,United States,F,51-60,high school 
+8,Veterinary ,Italy,M,41-50,"Formazione post universitaria (master, scuola di specializzazione o dottorato ) "
+9,Farmer ,Italy,M,21-30,Scuola secondaria: Scuola professionale per l�agricoltura
+10,Technician ,Italy,F,21-30,Laurea magistrale   
+11,Technician ,Italy,F,51-60,Laurea magistrale   
+12,Veterinary ,Italy,M,41-50,"Formazione post universitaria (master, scuola di specializzazione o dottorato ) "
+13,Farmer ,Italy,F,31-40,Laurea di primo livello  
+14,Farmer ,Italy,F,41-50,Scuola secondaria: Liceo
+15,Veterinary ,Italy,M,31-40,Laurea magistrale   
+16,Technician ,Italy,M,51-60,Laurea magistrale   
+17,Technician ,Italy,M,31-40,"Formazione post universitaria (master, scuola di specializzazione o dottorato ) "
+18,Farmer ,Italy,M,51-60,Scuola primaria  
+19,Farmer ,Italy,F,31-40,Scuola secondaria: Liceo
+20,Farmer ,Italy,F,51-60,Scuola secondaria: Liceo
+21,Technician ,Italy,M,41-50,Laurea magistrale   
+22,Veterinary ,Italy,M,31-40,Laurea magistrale   
+23,Veterinary ,Italy,M,51-60,Laurea magistrale   
+24,Farmer ,Italy,M,31-40,Scuola secondaria: Istituto agrario
+25,Farmer ,Italy,F,21-30,Scuola secondaria: Liceo
+26,Farmer ,Italy,F,31-40,Scuola secondaria: Liceo
+27,Veterinary ,Italy,M,51-60,Laurea magistrale   
+28,Farmer ,Italy,M,51-60,Scuola secondaria: Istituto agrario
+29,Technician ,Brazil,F,41-50,"Curso de p�s-gradua��o (especializa��o, mestrado, doutoramento)"
+30,Veterinary ,Portugal,M,51-60,"Curso de p�s-gradua��o (especializa��o, mestrado, doutoramento)"
+31,Veterinary ,Portugal,M,41-50,Ensino superior
+32,Farmer ,Portugal,M,51-60,"Curso de p�s-gradua��o (especializa��o, mestrado, doutoramento)"
+33,Farmer ,Portugal,M,51-60,Ensino secund�rio
+34,Veterinary ,Mexico,F,51-60,Laurea magistrale   
+35,Veterinary ,Spain,M,41-50,Laurea magistrale   

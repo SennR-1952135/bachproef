@@ -1,0 +1,258 @@
+,language,type,name,origin
+0,Japanese,synopsis,,<span>[플레이어]</span>たちが城砦都市アルビオンへと舵を切る少し前のこと──アルビオン城の貴賓室では、一人の少女が目的を遂げるため、エルステ帝国少将フュリアスと盟約を結んだ。
+1,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行が</span><br><span class='scene-font-place'>城砦都市アルビオン</span><span class='scene-font-katari'>へと</span><br><span class='scene-font-katari'>舵を切る少し前。</span>
+2,Japanese,detail,,<span class='scene-font-katari'>アルビオン市街のほぼ中心に位置する</span><br><span class='scene-font-katari'>アルビオン城の貴賓室には、</span><br><span class='scene-font-katari'>２つの影があった。</span>
+3,Japanese,detail,퓨리어스,――まったくさぁ……<br>わけわかんないなぁ、その執着の仕方！
+4,Japanese,detail,퓨리어스,君の事情はわかったけどさ。<br>何がどうしたら、<br>こんな考えになるわけ？ 教えてよ！
+5,Japanese,detail,,<span class='scene-font-katari'>フュリアスの正面に座る少女は、</span><br><span class='scene-font-katari'>穏やかに微笑むだけで答えを返さない。</span>
+6,Japanese,detail,퓨리어스,……ま、いいや。<br>そんなに興味ないしね。
+7,Japanese,detail,퓨리어스,お互い、目的が一致したから<br>手を組むってだけの話だし……
+8,Japanese,detail,퓨리어스,せいぜいボクの期待を<br>裏切らないでくれよ？
+9,Japanese,detail,,<span class='scene-font-katari'>そう言うとフュリアスは</span><br><span class='scene-font-katari'>上機嫌そうに笑う。</span>
+10,Japanese,detail,,<span class='scene-font-katari'>少女は、ただ静かに微笑むだけだった。</span>
+11,Japanese,synopsis,,和解を申し出る帝国の真意を探りながら、一行は空飛ぶ城砦都市アルビオンへと向かう。順調にグランサイファーを進める<span>[플레이어]</span>たちの前に、突如魔物が現れた。
+12,Japanese,detail,라캄,見えてきたな……<br>あれが……アルビオンか？
+13,Japanese,detail,루리아,すごーい……<br>おっきなお城が飛んでるみたい……
+14,Japanese,detail,카타리나,アルビオンは、<br>空に浮かぶ城砦都市なんだ。
+15,Japanese,detail,카타리나,中央に位置する<br>アルビオン城と、それを囲む市街地が、<br>丸ごと一塊で空を飛んでいる。
+16,Japanese,detail,비,あそこで帝国の将軍が<br>待ち構えてるってわけか……
+17,Japanese,detail,이오,ふん……<br>和解なんて、どうせ嘘っぱちよ。<br>レディは騙されたりしないんだから！
+18,Japanese,detail,로제타,どうしてアルビオンなのかしら……<br>空飛ぶ城砦都市なんて……<br>石畳の上は落ち着かないのよね。
+19,Japanese,detail,오이겐,アルビオン……アルビオンねぇ。<br>どっかで聞いたことがあるんだが……
+20,Japanese,detail,오이겐,なぁ、カタリナ。<br>アルビオンってぇと、<br>他にどんな特徴がある？
+21,Japanese,detail,카타리나,特徴、か……<br>そもそも変わった街ではあるが、<br>最大の特徴と言えば――
+22,Japanese,detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>
+23,Japanese,detail,라캄,っと！<br>どうやらコイツを倒さねぇと、<br>アルビオンには近づけなさそうだ！
+24,Japanese,detail,라캄,やるぞ！ [플레이어]！<br>蹴散らしちまえ！
+25,Japanese,synopsis,,城砦都市アルビオンへと降り立った<span>[플레이어]</span>たちに、道案内を申し出る一人の少女。カタリナを姉と慕うその少女の名はヴィーラ。ヴィーラの案内で、一行は魔物が潜む街を進むのだった──
+26,Japanese,detail,,<span class= 'scene-font-katari'> [플레이어] 일행은 </span><br><span class='scene-font-katari'> 뷔라에 소개 된 </span><br><spanclass='scene-font-katari'> 알비온 성 귀빈실을 찾는다. </span>
+27,Japanese,detail,라캄,――うしっ、係留完了っと……<br>なぁ、[플레이어]。<br>面倒な話の前に腹ごしらえでも……
+28,Japanese,detail,？？？,それなら、私がご案内致しましょうか？
+29,Japanese,detail,비,ん？ 誰だ？ 嬢ちゃん。<br>この街の人なのか？
+30,Japanese,detail,카타리나,……ヴィーラ。
+31,Japanese,detail,ヴィーラ,はい、お久しぶりです、お姉様。<br>お元気でいらっしゃいましたか？
+32,Japanese,detail,카타리나,あ、ああ……<br>ヴィーラも、変わりないようだな。
+33,Japanese,detail,루리아,お姉様ってことは……<br>カタリナのい、妹さん……！？
+34,Japanese,detail,？？？,それなら、私がご案内致しましょうか？
+35,Japanese,detail,비,ん？ 誰だ？ 嬢ちゃん。<br>この街の人なのか？
+36,Japanese,detail,카타리나,……ヴィーラ。
+37,Japanese,detail,ヴィーラ,はい、お久しぶりです、お姉様。<br>お元気でいらっしゃいましたか？
+38,Japanese,detail,카타리나,あ、ああ……<br>ヴィーラも、変わりないようだな。
+39,Japanese,detail,루리아,お姉様ってことは……<br>カタリナのい、妹さん……！？
+40,Japanese,detail,ヴィーラ,ふふふ……<br>残念ながら、そうではありません。
+41,Japanese,detail,비,なんだよ姐さん！<br>アルビオンに知り合いがいたなら<br>先に言ってくれよな！
+42,Japanese,detail,카타리나,あ、ああ……<br>そうだな、すまない……
+43,Japanese,detail,ヴィーラ,詳しい話は、<br>道々お話致しましょうか。
+44,Japanese,detail,ヴィーラ,アルビオンは<br>街中でも魔物が襲ってきますので、<br>用心して付いて来てくださいね。
+45,Japanese,detail,비,……おい、いまあの嬢ちゃん。<br>さらっと恐ろしいこと言わなかったか？
+46,Japanese,detail,카타리나,アルビオンは昔からそういう街なんだ。<br>行こう、[플레이어]。<br>街中でも気を抜くんじゃないぞ。
+47,Japanese,synopsis,,士官学校時代を懐かしむように、カタリナを褒め称えるヴィーラの思い出話に、耳を傾ける<span>[플레이어]</span>たち。そんな和やかな時間も束の間、鍛錬のためにと街に放し飼いにされた魔物達が一行に襲いかかる。
+48,Japanese,detail,비,――なるほどなぁ！<br>姐さんと嬢ちゃんは、<br>学校の先輩と後輩だったってわけか！
+49,Japanese,detail,ヴィーラ,ええ、お姉様はとっても優秀で……<br>学生の頃から、<br>強く美しいお方だったんです。
+50,Japanese,detail,카타리나,や、やめてくれ、ヴィーラ……<br>さすがに恥ずかしい……
+51,Japanese,detail,오이겐,ああ、やぁっと思い出せたぜ！<br><span class='scene-font-place'>城砦都市アルビオン</span>と言やぁ、<br>名門の士官学校で有名だったな。
+52,Japanese,detail,ヴィーラ,はい、お姉様を含め、<br>卒業生は皆、<br>各地で立派に活躍しています。
+53,Japanese,detail,ヴィーラ,街に魔物が放し飼いにされているのも、<br>常に鍛練を怠らぬためなんですよ。
+54,Japanese,detail,루리아,この街でカタリナが<br>お勉強や、剣のお稽古を<br>頑張ってたんだ……
+55,Japanese,detail,라캄,って、ぼんやりしてる場合じゃねぇぞ！<br>魔物がこっちに向かってきやがる！<br>やるぞ！ 構えろ！
+56,Japanese,synopsis,,ヴィーラこそが、城砦都市アルビオンの領主だと判明し驚愕する<span>[플레이어]</span>たち。アルビオンでは年齢に関わらず、少し変わった方法で領主が決められると言うのだ。
+57,Japanese,detail,이오,どこに居ようと魔物が現れるなんて、<br>恐ろしい街ね、ここは……
+58,Japanese,detail,비,だな……<br>さっさと帝国の連中に<br>和解の話を聞きに行こうぜ……
+59,Japanese,detail,라캄,そういやそれが本題だったな。<br>とは言っても、<br>あいつらこの街のどこに居るんだ？
+60,Japanese,detail,ヴィーラ,<span class='scene-font-place'>エルステ帝国</span>のフュリアス将軍は、<br>アルビオン城の貴賓室でお待ちですよ。
+61,Japanese,detail,비,おおう！？<br>詳しいな、嬢ちゃん！<br>お城で働いてるのか？
+62,Japanese,detail,ヴィーラ,そう……と言えばそうですね。<br>領主の執務室は、<br>アルビオン城にありますから。
+63,Japanese,detail,이오,領主ってまさか……お姉さんが！？
+64,Japanese,detail,ヴィーラ,はい、だいたい<br>６年ほど前からでしょうか……
+65,Japanese,detail,라캄,こう言っちゃなんだが……<br>６年前なんて、嬢ちゃん子供だろう？
+66,Japanese,detail,ヴィーラ,アルビオンは実力至上主義なんです。<br>だから士官学校も、<br>同学年でも年齢はバラバラなんですよ。
+67,Japanese,detail,ヴィーラ,それに……アルビオンの領主は代々、<br>少し変わった方法で決められますから。<br>……ね？ お姉様？
+68,Japanese,detail,카타리나,そう、だな……
+69,Japanese,detail,ヴィーラ,ふふふ……<br>付いて来てください。<br>貴賓室までご案内致します。
+70,Japanese,detail,ヴィーラ,もちろん、どの道も魔物が出ますので、<br>注意してくださいね。
+71,Japanese,synopsis,,アルビオンに到着してからというもの、いつもと様子の違うカタリナを心配する<span>[플레이어]</span>たち。しかし、カタリナから理由を明かされる事は無かった。
+72,Japanese,detail,카타리나,…………
+73,Japanese,detail,루리아,ねぇ、カタリナ大丈夫？<br>さっきからずっと<br>難しい顔してるけど……
+74,Japanese,detail,라캄,なんだなんだぁ？<br>カタリナお前、もしかして、<br>学校にはいい思い出のないタイプか？
+75,Japanese,detail,카타리나,いや、学校もこの街も<br>私にとって大切な場所だ……<br>しかし……
+76,Japanese,detail,로제타,……あの子が原因、かしら？
+77,Japanese,detail,카타리나,ロゼッタ！ 君は……！？
+78,Japanese,detail,로제타,知らないわよ、何も。<br>でも、貴女を見てれば一目瞭然だわ。
+79,Japanese,detail,로제타,それにアタシ……<br>あんなに可愛いけど、<br>あの子はどうも、好きになれないわ……
+80,Japanese,detail,비,おお！<br>ロゼッタの趣味も、<br>見境無しじゃなかったんだな！
+81,Japanese,detail,로제타,……トカゲの干物は、<br>よく効く薬になるそうね？
+82,Japanese,detail,비,ひぃっ！？
+83,Japanese,detail,이오,<span class='scene-font-kokoro'>（あ、なんだかロゼッタとは</span><br><span class='scene-font-kokoro'>上手くやってけそう……）</span>
+84,Japanese,detail,로제타,ともかく……あの子は底が見えないの。<br>魔物もそうだけど、<br>あの子にも用心して進みましょ。
+85,Japanese,synopsis,,ヴィーラに案内され、アルビオン城の貴賓室に訪れると、そこには上機嫌なフュリアスが待ち構えていた。<span>[플레이어]</span>たちとの争いが割に合わないという理由で和解を申し出るフュリアス。戸惑いを隠せない一行に、ヴィーラは休息を提案する──
+86,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ヴィーラに案内され、</span><br><span class='scene-font-katari'>アルビオン城の貴賓室を訪れる。</span>
+87,Japanese,detail,,<span class='scene-font-katari'>そこでは、</span><br><span class='scene-font-katari'>いやに上機嫌なフュリアスが</span><br><span class='scene-font-katari'>数人の兵を引き連れ、待ち構えていた。</span>
+88,Japanese,detail,퓨리어스,――いやぁ、まいったよ、ホント！<br>まいったまいった！
+89,Japanese,detail,퓨리어스,君達さぁ、<br>ボクらが思ってたよりもずっと強くて<br>いい加減、割に合わないんだよねぇ。
+90,Japanese,detail,카타리나,割に合わない……とは？
+91,Japanese,detail,퓨리어스,言葉通りさ！<br>なにせその機密の少女は<br>謎が多すぎる。
+92,Japanese,detail,퓨리어스,取り返して、<br>その力の全てを解明したところで、<br>利益になるかは五分ってとこだ。
+93,Japanese,detail,퓨리어스,それなら、<br>その分の労力を別の事に使った方が<br>帝国全体の確実な利益になるってわけ。
+94,Japanese,detail,,<span class='scene-font-katari'>そう軽い調子で話し、</span><br><span class='scene-font-katari'>フュリアスはおもむろに席を立つ。</span>
+95,Japanese,detail,퓨리어스,ま、そういうわけだから！<br>もう君達は晴れて自由の身だ。
+96,Japanese,detail,퓨리어스,どこだろうと<br>好きなところに行くといい。
+97,Japanese,detail,퓨리어스,じゃあね！<br>また会うことがあれば、<br>今度はお茶でも飲もうじゃないか。
+98,Japanese,detail,,<span class='scene-font-katari'>一方的に事情を告げられ、</span><br><span class='scene-font-katari'>[플레이어]は、</span><br><span class='scene-font-katari'>貴賓室から追い払われた。</span>
+99,Japanese,detail,비,ちょ、ちょっと待ってくれ……<br>オイラ、頭がついていかねぇぜ……
+100,Japanese,detail,라캄,あれだけ戦っといて、<br>こうもあっさり、<br>引き下がられたんじゃなぁ……
+101,Japanese,detail,ヴィーラ,……どうでしょう、皆様。<br>まずは宿を取ってゆっくり休み、<br>それから考えてみてはいかがですか？
+102,Japanese,detail,ヴィーラ,ちょうどお城の客室に<br>空きがありますし……
+103,Japanese,detail,비,それがいいや！<br>なぁ、[플레이어]！<br>まずはゆっくり休もうぜ！
+104,Japanese,detail,라캄,俺も賛成だ。<br>ヴィーラちゃん、案内頼むぜ！
+105,Japanese,synopsis,,帝国の申し出が信用できず、裏を探る<span>[플레이어]</span>たち。深刻な様子で思い悩むカタリナを安心させるように、ヴィーラは全て任せるようにと進言するのだった。
+106,Japanese,detail,카타리나,本当に……<br>本当にこれで全て片付いたのだろうか？
+107,Japanese,detail,로제타,さっきの小さい将軍の言ってたことが、<br>信じられない？<br>筋は通ってたと思うけど。
+108,Japanese,detail,오이겐,まぁ、なんぼ言ったって<br>連中は敵だからなぁ、<br>信用できないってのはわかるぜ。
+109,Japanese,detail,카타리나,なにか裏があるように<br>思えてならないんだ……<br>このままで終わるはずが……
+110,Japanese,detail,ヴィーラ,それは杞憂です、お姉様。
+111,Japanese,detail,카타리나,ヴィーラ……
+112,Japanese,detail,ヴィーラ,お姉様が今日まで<br>どのような旅を続けてきたか<br>聞きました……
+113,Japanese,detail,ヴィーラ,可哀想なお姉様……<br>連日の戦いでお姉様は<br>お疲れになっているんです……
+114,Japanese,detail,ヴィーラ,お姉様が心配することは、<br>何もありません。<br>全て私にお任せください……
+115,Japanese,detail,오이겐,がははははっ！<br>先輩思いな<br>いい後輩じゃねぇか、おい！
+116,Japanese,detail,ヴィーラ,ありがとうございます。
+117,Japanese,detail,마물,<span class='scene-font-5'>グオオォォッ！！</span>
+118,Japanese,detail,ヴィーラ,さぁ、この魔物を倒せば<br>客室は目の前です。
+119,Japanese,detail,ヴィーラ,もう少しですから頑張りましょうね。<br>[플레이어]さん。
+120,Japanese,synopsis,,アルビオン城の客室を管理しているシェロに促され、一行はひと時の休息を得る。──翌朝、カタリナは短い置手紙だけを残し、一行の前から姿を消したのだった。
+121,Japanese,detail,셰로카르테,――いらっしゃ～い！<br>よろず屋、<br>アルビオン城支店へようこそ～！
+122,Japanese,detail,라캄,な、なんでシェロがここに！？<br>城の客室じゃねぇのかよ？
+123,Japanese,detail,셰로카르테,どこにでも居て<br>どこにも居ない、<br>それがよろず屋ですよ～
+124,Japanese,detail,ヴィーラ,客室の管理をお任せしているんです。<br>とても頼りになるんですよ。
+125,Japanese,detail,셰로카르테,さぁさぁ、事情は聞きましたよ～<br>今日はバッチリしっかり、<br>休んじゃってくださいね～
+126,Japanese,detail,,<span class='scene-font-katari'>アルビオン城内の客室で、</span><br><span class='scene-font-katari'>[플레이어]一行は</span><br><span class='scene-font-katari'>静かな一夜を過ごす。</span>
+127,Japanese,detail,,<span class='scene-font-katari'>その翌朝、</span><br><span class='scene-font-katari'>カタリナは短い置手紙だけを残し、</span><br><span class='scene-font-katari'>一同の前から姿を消したのだった。</span>
+128,English,synopsis,,In Albion Castle a girl vows to help Major General Furias so that they may both reach their goals.
+129,English,detail,,The crew are on their way to Albion Citadel.
+130,English,detail,,"Meanwhile in Albion Castle, two people are having a secret discussion."
+131,English,detail,Furias,Good grief... I can't fathom why you won't just let it go!
+132,English,detail,Furias,"But you have your reasons, I suppose. Would you mind telling me why? Don't be shy!"
+133,English,detail,,The girl sitting before Furias gives a wry smile in response and nothing more.
+134,English,detail,Furias,Fine. It's probably stupid anyway.
+135,English,detail,Furias,"But since we both want the same thing, I see no reason not to team up with you."
+136,English,detail,Furias,"Just don't make me regret this, okay?"
+137,English,detail,,Furias is grinning ear to ear.
+138,English,detail,,The girl staring back at him keeps a gentle smile on her face.
+139,English,synopsis,,"With a curious offer from the empire to settle things peacefully, the crew travels to Albion. On their approach to the island, monsters suddenly attack the Grandcypher."
+140,English,detail,Rackam,I can see something on the horizon. Is that... Albion?
+141,English,detail,Lyria,"Oh my gosh! It's like a big, flying castle!"
+142,English,detail,Katalina,That's right. Albion is a floating fortress city.
+143,English,detail,Katalina,The castle in the center and the city outskirts that surround it all float as one.
+144,English,detail,Vyrn,And the imperial general is waiting for us there...
+145,English,detail,Io,"Humph! They want to make amends, huh? Sounds like a crock to me. A clever lady isn't fooled so easily!"
+146,English,detail,Rosetta,But why Albion? A floating fortress of stone and paved paths... I'd feel more comfortable with my feet on some soil.
+147,English,detail,Eugen,"Albion... Albion, eh?<br>Feel like I've heard the name somewhere before."
+148,English,detail,Eugen,"Katalina, what else would you say makes Albion stick out?"
+149,English,detail,Katalina,"Stick out? Well, it's a unique city to begin with, but if I had to say, it's definitely the—"
+150,English,detail,Monster,Groooar!
+151,English,detail,Rackam,Uh-oh! I don't think we're gonna get to Albion unless we get rid of this guy!
+152,English,detail,Rackam,"Come on, [플레이어]! Let's give it what for!"
+153,English,synopsis,,"Vira, an old friend of Katalina's, offers to guide [플레이어] and the crew to the town. After getting a brief warning that the city is teeming with monsters, they all set off down the path."
+154,English,detail,,"Having kicked some serious monster tail, [플레이어] and the crew touch down in Albion Citadel."
+155,English,detail,Rackam,"Whew. The anchor's set now. So, [플레이어], let's grab a bite to eat before our chat with the general."
+156,English,detail,???,"If you're looking for a restaurant, perhaps I can give you a few recommendations?"
+157,English,detail,Vyrn,Hm? Who are you? A local or something?
+158,English,detail,Katalina,Vira...
+159,English,detail,Vira,"It's been quite some time, my dearest Katalina. I hope you've been faring well?"
+160,English,detail,Katalina,"W-well, yes... And I'm glad to see you've hardly changed."
+161,English,detail,Lyria,Dearest Katalina?' Oh my gosh... Are you two sisters?
+162,English,detail,???,"If you're looking for a restaurant, perhaps I can give you a few recommendations?"
+163,English,detail,Vyrn,Hm? Who are you? A local or something?
+164,English,detail,Katalina,Vira...
+165,English,detail,Vira,"It's been quite some time, my dearest Katalina. I hope you've been faring well?"
+166,English,detail,Katalina,"W-well, yes... And I'm glad to see you've hardly changed."
+167,English,detail,Lyria,Dearest Katalina?' Oh my gosh... Are you two sisters?
+168,English,detail,Vira,"Not quite, I'm sad to say..."
+169,English,detail,Vyrn,"If you had a buddy in Albion, you could've told us, Knightalina!"
+170,English,detail,Katalina,Y-you're right. Sorry...
+171,English,detail,Vira,Not to worry. I'll explain everything on the walk into the city.
+172,English,detail,Vira,Just remember to keep your eyes open. No one is safe from a monster attack here.
+173,English,detail,Vyrn,Is it me or did she slip an eerie warning in there just now?
+174,English,detail,Katalina,"Albion's always been like that. This may be a city, [플레이어], but you have to stay on your toes."
+175,English,synopsis,,"[플레이어] and the crew learn that Vira and Katalina attended the Albion Military Academy together. Vira brags about Katalina and her shining reputation, but is interrupted when monsters begin to attack."
+176,English,detail,Vyrn,"Ah, I gotcha! So Katalina was ahead of you at the academy!"
+177,English,detail,Vira,That's right! Her skills were unsurpassed... as was her beauty.
+178,English,detail,Katalina,"S-stop it, Vira... You're embarrassing me."
+179,English,detail,Eugen,"Ah, now I remember! Albion's got one of the best military academies in the skydom!"
+180,English,detail,Vira,Indeed. The graduates go on to perform great deeds all over the world. And Katalina is no exception.
+181,English,detail,Vira,The monsters in town are a constant reminder for us to never neglect our training.
+182,English,detail,Lyria,"So this is the place you studied and trained, Katalina?"
+183,English,detail,Rackam,"Hey, what're we standing around for? The monsters are heading right for us! Get ready, guys!"
+184,English,synopsis,,[플레이어] and the crew are shocked to learn that Vira is the Lord of Albion and that the citadel has an odd tradition of choosing their lord.
+185,English,detail,Io,"A town full of monsters, huh? Talk about scary..."
+186,English,detail,Vyrn,You said it... Let's hurry up and ask the empire what this offer of theirs is all about.
+187,English,detail,Rackam,That's what we're here for after all. But where are we supposed to find them anyway?
+188,English,detail,Vira,Major General Furias awaits you in the state room of Albion Castle.
+189,English,detail,Vyrn,"Wow, you sure know what's up! You work in the castle or something?"
+190,English,detail,Vira,"Well... I suppose you could say that. The lord's office <span class='scene-font-italic'>is</span> in the castle, after all."
+191,English,detail,Io,Wait a sec... Are <span class='scene-font-italic'>you</span> the Lord of Albion?
+192,English,detail,Vira,I am indeed. For about six years now...
+193,English,detail,Rackam,Hold on there! Six years ago? You must've been a kid!
+194,English,detail,Vira,Albion is a meritocracy. You'll find students of all ages sharing the same classes at the academy.
+195,English,detail,Vira,"Oh, and they follow a rather odd tradition to decide the next lord. Isn't that right, Katalina?"
+196,English,detail,Katalina,That's right...
+197,English,detail,Vira,"Now, right this way. I'll show you to the state room."
+198,English,detail,Vira,"There are monsters along the way, of course, so do watch your step."
+199,English,synopsis,,"[플레이어] and the crew see a noticeable change in Katalina since arriving on Albion, but she is reluctant to tell why."
+200,English,detail,Katalina,...
+201,English,detail,Lyria,"Hey, Katalina. Are you okay? You seem a little tense..."
+202,English,detail,Rackam,What is it? Did all that school talk trudge up some bad memories or something?
+203,English,detail,Katalina,No... I loved school. I loved this town. It's just...
+204,English,detail,Rosetta,Perhaps it's seeing your little friend that's bothering you?
+205,English,detail,Katalina,Rosetta! How did you—
+206,English,detail,Rosetta,I didn't. I know nothing. But anyone with eyes can see it quite clearly.
+207,English,detail,Rosetta,"And as much as I love a pretty face, I'm having trouble bringing myself to like her..."
+208,English,detail,Vyrn,"Wow, Rosetta! You're less shallow than I thought!"
+209,English,detail,Rosetta,"You know... in some parts of the world, dried lizard is considered quite the delicacy."
+210,English,detail,Vyrn,Yikes!
+211,English,detail,Io,(Glad to know Rosetta and I are on the same page!)
+212,English,detail,Rosetta,"Anyway, there's something about her I can't quite put my finger on. So stay sharp around these monsters and around <span class='scene-font-italic'>her</span>."
+213,English,synopsis,,"Furias offers a truce, saying the price of fighting the crew is too high for the empire to pay. [플레이어] and the crew aren't sure what to make of the offer, so Vira suggests they sleep on it."
+214,English,detail,,silent
+215,English,detail,,Vira leads [플레이어] and the crew into the state room of Albion Castle.
+216,English,detail,,"Furias awaits them, flanked by more than a few soldiers."
+217,English,detail,Furias,"I've given up, I say! I've thrown in the towel!"
+218,English,detail,Furias,"You're so much stronger than we expected, and it's just doesn't pay to keep up the fight."
+219,English,detail,Katalina,To keep up the fight?
+220,English,detail,Furias,Exactly! Don't forget that little Miss Top Secret over there still has a few secrets we don't know.
+221,English,detail,Furias,Getting her back and figuring her out will cost us more than she's worth.
+222,English,detail,Furias,We'd do better to spend our resources elsewhere which would profit the empire as a whole.
+223,English,detail,,Furias is in high spirits as he leaps to his feet.
+224,English,detail,Furias,So there you have it! You're all free as a bird!
+225,English,detail,Furias,Take your little airship and fly wherever you please.
+226,English,detail,Furias,"So long! Let's have a nice, hot cup of tea next time we meet."
+227,English,detail,,[플레이어] and the crew are quickly escorted out of the room without so much as a chance to speak.
+228,English,detail,Vyrn,Hold on a sec... I still don't understand what happened back there.
+229,English,detail,Rackam,We gave him all that trouble and now he's backing down?
+230,English,detail,Vira,Just think it over. I'll show you to your rooms and you can sleep on it. How does that sound?
+231,English,detail,Vira,"Besides, I just happen to know where you can find some vacant rooms!"
+232,English,detail,Vyrn,"Sounds great! What do you say, [플레이어]? We deserve a nice break!"
+233,English,detail,Rackam,"I'll say! Show us the way, Vira!"
+234,English,synopsis,,"[플레이어] and the crew have trouble trusting the offer from the empire. Katalina seems worried, but Vira assures her that she's in good hands."
+235,English,detail,Katalina,Is this it? Is it really all over now?
+236,English,detail,Rosetta,You don't trust the mini major will keep his word? Not that your instincts are wrong...
+237,English,detail,Eugen,They're our enemies no matter how you slice it. Trust is out of the question.
+238,English,detail,Katalina,I can't help be feel that something's off about this. Like this isn't the end...
+239,English,detail,Vira,"Don't be silly, Katalina!"
+240,English,detail,Katalina,Vira...
+241,English,detail,Vira,I've heard tales of all your travels that eventually led you here.
+242,English,detail,Vira,You poor thing... Surely you're exhausted from fighting day after day.
+243,English,detail,Vira,But there's nothing at all for you to worry about here. Just let me take care of everything!
+244,English,detail,Eugen,Ha-ha! I bet you were the teacher's pet 'cause you're so helpful!
+245,English,detail,Vira,Thank you.
+246,English,detail,Monster,Groooar!
+247,English,detail,Vira,"Your rooms are right ahead, but we have a few monsters to take care of."
+248,English,detail,Vira,"Just a little longer until you can rest easy, [플레이어]!"
+249,English,synopsis,,"[플레이어] and the crew find Sierokarte managing the guest rooms in Albion Castle. After a good night's rest, they awake to find Katalina gone and a farewell letter in her place."
+250,English,detail,Sierokarte,"Welcome, welcome to the Albion branch of the KnickKnack Shack!"
+251,English,detail,Rackam,What're you doing here! I could've sworn this was a bedroom!
+252,English,detail,Sierokarte,Remember! I am both everywhere and nowhere!
+253,English,detail,Vira,We're having her manage the vacancies. She's quite the reliable one.
+254,English,detail,Sierokarte,"I've heard all about your troubles! You guys make sure to take it nice and easy here, okay?"
+255,English,detail,,[플레이어] and the crew spend a quiet night in Albion Castle.
+256,English,detail,,"But the next morning, they find Katalina gone with only a short farewell letter left behind."

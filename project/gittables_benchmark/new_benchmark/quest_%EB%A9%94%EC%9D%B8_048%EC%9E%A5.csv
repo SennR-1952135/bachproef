@@ -1,0 +1,397 @@
+,language,type,name,origin
+0,Japanese,synopsis,,立ち上る黒煙に、急遽村まで戻る[플레이어]一行。その道中を一行は帝国兵達に阻まれるも、あくまで黒騎士にのみ従うスツルムとドランクは、容赦なく兵達を切り伏せていく。
+1,Japanese,detail,제국병,そこの者、止まれ！<br>剣を足元に置いて両手を……
+2,Japanese,detail,제국병,ぐほっ！？
+3,Japanese,detail,슈투름,隙だらけ……<br>なってないな。<br>相変わらず帝国の軍人は笑わせてくれる。
+4,Japanese,detail,드랑크,とかなんとか言ってぇ～<br>スツルム殿、<br>全っ然表情変わってな……
+5,Japanese,detail,드랑크,あ痛っ！？
+6,Japanese,detail,이오,でも、あたし達が島に来た時は、<br>軍艦なんてなかったわよね？<br>いつの間にこの島に……
+7,Japanese,detail,라캄,来たんだろうぜ……ついさっき、な。<br>目的はまだわからねぇが……
+8,Japanese,detail,오이겐,しかし、お前ら……いいのか？<br>帝国の傭兵が、<br>こんなことしちまってよ。
+9,Japanese,detail,슈투름,帝国じゃない……<br>あたし達の雇い主は黒騎士だ。
+10,Japanese,detail,슈투름,いま……<br>エルステ帝国が黒騎士を追放したのなら、<br>エルステ帝国はあたし達の敵だ。
+11,Japanese,detail,슈투름,無駄話……してる場合じゃない。<br>お前の故郷が焼け野原になっても、<br>あたしは責任を持たないぞ。
+12,Japanese,synopsis,,村では、エルステ帝国少将フュリアス率いる帝国兵達が跋扈していた。フュリアスの蛮行に声を荒げる[플레이어]一行。対しフュリアスは自らを魔晶で変身させ、配下の兵士諸共、[플레이어]達に攻撃を仕掛けてくる。
+13,Japanese,detail,,<span class='scene-font-katari'>森を抜け、</span><br><span class='scene-font-katari'>[플레이어]が生まれ育った村に</span><br><span class='scene-font-katari'>駆けつける[플레이어]一行。</span>
+14,Japanese,detail,,<span class='scene-font-katari'>しかし、そこに村のかつての面影は無く、</span><br><span class='scene-font-katari'>のどかだった村には、</span><br><span class='scene-font-katari'>物々しい兵士達がひしめいていた。</span>
+15,Japanese,detail,퓨리어스,ほらほら、さっさと並ばせてよ！<br>的は綺麗に並んでないと、<br>意味ないだろ？
+16,Japanese,detail,퓨리어스,っていうか数少なくない？<br>しょうがないな……<br>おい、そこのお前、お前も的に……
+17,Japanese,detail,帝国兵１,お、お待ちください！<br>フュリアス将軍閣下！
+18,Japanese,detail,帝国兵１,現在も捜索は続行しているのですが、<br>森に逃げ込んだ連中の捕獲が<br>難航しており……
+19,Japanese,detail,퓨리어스,森に……？<br>じゃあ、いいよ、そいつらは。<br>そのまま森ごと焼いちゃって。
+20,Japanese,detail,帝国兵１,は……？
+21,Japanese,detail,퓨리어스,森に火をつけろって言ってんの！<br>煙に巻かれれば、<br>そのうち出て来るだろ！？
+22,Japanese,detail,퓨리어스,ああもう！<br>なんかもう、お前、もういいや！
+23,Japanese,detail,퓨리어스,いますぐこいつ縛り上げて<br>誰か森に捨ててきてよ！
+24,Japanese,detail,帝国兵２,はっ……畏まりました。
+25,Japanese,detail,퓨리어스,森に捨ててきたら、<br>そのまま森に火をつけて……
+26,Japanese,detail,퓨리어스,ああ、そうだ！<br>せっかくだし、<br>少しだけ燃やさずに残しておこうか！
+27,Japanese,detail,퓨리어스,火から逃げてきた連中は、<br>そこに集まるだろうから、<br>そこでまとめて狙い撃ちに……
+28,Japanese,detail,드랑크,いやー、<br>将軍サマは、ホント変わんないねー
+29,Japanese,detail,퓨리어스,お前……！<br>誰だっけ？ まぁ、いいや！
+30,Japanese,detail,퓨리어스,見てきなよ！ せっかくだからさぁ！<br>これから試すんだ！ 新しい力を。<br>この島と、この村で！！
+31,Japanese,detail,라캄,ちっ……<br>させるかよ……んなこと。
+32,Japanese,detail,라캄,おい、チビ将軍！<br>ポート・ブリーズじゃあ、<br>世話になったな……
+33,Japanese,detail,라캄,あの時、返しきれなかった分、<br>いまここで清算してやるよ！！
+34,Japanese,detail,퓨리어스,ああ？<br>誰だよ？ お前も……<br>ああ、くそ……うるさいなぁ！！
+35,Japanese,detail,카타리나,ロキが最後に言っていたことは、<br>恐らくこのことか……
+36,Japanese,detail,카타리나,しかし……<br>何故、完全に伝えないまでも、<br>奴は私達に忠告を残していったんだ？
+37,Japanese,detail,오이겐,考えるだけ無駄だろうぜ……<br>ああいう手合いは、<br>ただ人が混乱するのを見て楽しむんだ。
+38,Japanese,detail,퓨리어스,黙れよお前ら！！<br>お前も！ お前も！<br>あああああっ！ くそっ！ くそっ！！
+39,Japanese,detail,帝国兵２,しょ、将軍閣下！<br>落ち着いてください！
+40,Japanese,detail,퓨리어스,くっ……はぁ、はぁ……<br>う、うるさいんだよ……<br>ずっと……ずっと……
+41,Japanese,detail,이오,ね、ねぇ……<br>あいつ、どうしちゃったの？
+42,Japanese,detail,이오,前から変な奴だったけど、<br>何か様子が……
+43,Japanese,detail,퓨리어스,黙らせてやる……<br>もう誰も要らない……
+44,Japanese,detail,퓨리어스,お前も！ お前も！<br>ボクが！ この手で！<br>叩き潰してやる！！
+45,Japanese,detail,퓨리어스,くふふふ……はーはっはぁ！<br>ああ、いい眺めだ！ 最高だよ！<br>なぁ！ そう思うだろ！？
+46,Japanese,detail,帝国兵２,か、閣下……<br>あまり興奮されては、<br>魔晶の作用が……
+47,Japanese,detail,帝国兵２,がはっ！？
+48,Japanese,detail,라캄,お、おい……！<br>あいついま、<br>自分とこの兵士を……！？
+49,Japanese,detail,퓨리어스,誰が返事をしろって言った？<br>ねぇねぇねぇねぇ！ 誰が言った？<br>誰が！？ 誰が！？ ねぇ！！
+50,Japanese,detail,루리아,あ、あの力……<br>魔晶だと思うけど、<br>いままでのとは全然違う……
+51,Japanese,detail,비,明らかにヤベェ感じだぜ……<br>いままで会ったどんな奴より、<br>話が通じなさそうだ……
+52,Japanese,detail,퓨리어스,あはぁ……<br>なぁんだ……<br>君達、そんなところにいたんだ？
+53,Japanese,detail,퓨리어스,でも、君達誰だっけ？<br>ああ、いや、いいや、どうでも……
+54,Japanese,detail,퓨리어스,すぐに！ この力で！<br>君達が誰かなんて、<br>わからなくしてあげるよ！！
+55,Japanese,synopsis,,魔晶を使い暴走を続けるフュリアス。一行はフュリアスに決定的な一撃を与えるものの、フュリアスは魔晶の力で瞬く間に回復してしまう。厄介な魔晶に攻略法が見つからず絶望感に襲われる中、ビィの中には小さな決意が芽生えつつあった。
+56,Japanese,detail,,<span class='scene-font-katari'>魔晶を使い、暴走するフュリアス。</span><br><span class='scene-font-katari'>一行は激戦の末フュリアスに、</span><br><span class='scene-font-katari'>決定的な一撃を与えるが……</span>
+57,Japanese,detail,퓨리어스,は、はは……<br>すごい、すごいや！<br>全然痛くない……もう何も感じない！
+58,Japanese,detail,퓨리어스,これが魔晶の力……<br>これが本当の魔晶の力……
+59,Japanese,detail,퓨리어스,ああ、最高の気分だ！<br>皇帝陛下には感謝しなくちゃ……
+60,Japanese,detail,퓨리어스,実験段階とはいえ、<br>こんなに素晴らしいものを<br>下さるなんてね……
+61,Japanese,detail,帝国兵１,フュリアス将軍閣下！<br>魔晶の影響が危険域を示しています！<br>これ以上の連続使用は……
+62,Japanese,detail,帝国兵１,があっ！？
+63,Japanese,detail,퓨리어스,ふ、ふふ……<br>はーはっはっはぁ！！
+64,Japanese,detail,퓨리어스,何が？ 危険だって？<br>もういっぺん言ってみろよ！<br>ほら、ほらほらほら！ ほらぁ！！
+65,Japanese,detail,帝国兵２,た、退避だ！<br>総員退避！<br>いまの閣下に近づくのは……
+66,Japanese,detail,帝国兵２,がふっ！？
+67,Japanese,detail,퓨리어스,逃がさないよ……<br>誰も誰も誰も誰も誰も誰も！！
+68,Japanese,detail,라캄,くそっ……<br>あのチビ将軍、不死身かよ……！？
+69,Japanese,detail,드랑크,いんやぁ……<br>あれは間違いなく魔晶の力だね。
+70,Japanese,detail,드랑크,あんなに強力なのは、<br>僕も初めて見たけど……
+71,Japanese,detail,오이겐,魔晶の力ってこたぁ……<br>つまり、その魔晶をどうにかすりゃ、<br>あいつを止められるのか？
+72,Japanese,detail,リーシャ,裏を返せば、<br>魔晶をどうにかしないことには、<br>止められないということですね……
+73,Japanese,detail,드랑크,いや？<br>あれだったら、すぐに器のほうが<br>ダメになっちゃうだろうけど……
+74,Japanese,detail,카타리나,なに？<br>じゃあ、ある程度耐えしのげば……
+75,Japanese,detail,드랑크,でも、<br>その頃にはこの島ごと<br>空の底だろうねぇ……
+76,Japanese,detail,카타리나,やはり正面から向き合う他ないか……
+77,Japanese,detail,비,…………
+78,Japanese,detail,,<span class='scene-font-katari'>暴走するフュリアスを前に、</span><br><span class='scene-font-katari'>成す術を失う[플레이어]一行。</span>
+79,Japanese,detail,,<span class='scene-font-katari'>しかし、育ててくれた村を救うため、</span><br><span class='scene-font-katari'>ビィの中には一つの小さな決意が</span><br><span class='scene-font-katari'>芽生えつつあるのだった。</span>
+80,Japanese,synopsis,,暴走するフュリアスに帝国兵すら撤退を始める。一行は縛られたままの村人達を助けるため、スツルムとドランクに村人の救出を頼み、自分達は時間稼ぎをすべくフュリアスと相対する。
+81,Japanese,detail,帝国兵１,総員退避！<br>フュリアス将軍閣下から離れるんだ！<br>いまの閣下は危険過ぎる！
+82,Japanese,detail,帝国兵２,む、村の住人達はどうしますか！？
+83,Japanese,detail,帝国兵１,いまさら構ってられるか！<br>そんなもの放って……がはっ！？
+84,Japanese,detail,퓨리어스,逃げるっていうの？<br>このボクから？
+85,Japanese,detail,퓨리어스,くひっ、ひひひ……<br>ダメに決まってんだろ……<br>逃がさないって言ったんだからさぁ！！
+86,Japanese,detail,帝国兵２,うわああぁぁぁっ！？
+87,Japanese,detail,,<span class='scene-font-katari'>囚われた村人達をそのままに、</span><br><span class='scene-font-katari'>エルステ帝国の兵達は</span><br><span class='scene-font-katari'>命からがら散り散りに逃げて行く。</span>
+88,Japanese,detail,이오,ちょ、ちょっと！<br>村の人達の縄くらい解いてきなさいよ！
+89,Japanese,detail,카타리나,マズイな……<br>このままでは、<br>奴の格好の標的となってしまう……
+90,Japanese,detail,라캄,おい、ドランク！<br>お前らで村の奴らを<br>どこかへ逃がしてやってくれ！
+91,Japanese,detail,라캄,その間、<br>俺達があのチビ将軍を引きつけて<br>時間を稼ぐ！
+92,Japanese,detail,드랑크,えー？<br>人使いが荒いんだから……
+93,Japanese,detail,슈투름,一宿一飯の恩……<br>昨日、村に泊めてもらった礼だ。<br>やるぞ、ドランク。
+94,Japanese,detail,드랑크,あ！ 待って待って！<br>スツルム殿！ 置いてかないでよね！
+95,Japanese,detail,카타리나,あの二人が、<br>私達の言うことに<br>大人しく従うとはな……
+96,Japanese,detail,이오,胡散臭い人達だけど……<br>きっと根は悪い奴じゃないのよね。
+97,Japanese,detail,오이겐,さて……と。<br>となりゃあ、<br>オレ達もオレ達の仕事をしねぇとな。
+98,Japanese,detail,,<span class='scene-font-katari'>言い終えると共に</span><br><span class='scene-font-katari'>オイゲンが放った一撃は、</span><br><span class='scene-font-katari'>精確にフュリアスのこめかみをかすめる。</span>
+99,Japanese,detail,퓨리어스,あぁ……？
+100,Japanese,detail,오이겐,さぁ……<br>悪ぃがもっぺん遊んでもらうぜ！<br>将軍サンよぉ！！
+101,Japanese,synopsis,,村人達を避難させ、再びフュリアスと相対する一行。そんな折、ビィは自らに「マリス」を止める力があるのなら、その力で魔晶も止めることが出来るかもしれない、と提案する。しかし、それにはビィ自身が恐れる記憶の解放が伴うが、ビィはロゼッタを信じ、自らの故郷のために立ち上がる決意を固める。
+102,Japanese,detail,,<span class='scene-font-katari'>フュリアスとの戦いの最中、</span><br><span class='scene-font-katari'>器用に攻撃の嵐を掻い潜りながら、</span><br><span class='scene-font-katari'>ドランクが大手を振って駆けてくる。</span>
+103,Japanese,detail,드랑크,おーい！<br>こっち、頼まれてたの終わったよ～ん！
+104,Japanese,detail,슈투름,村の奴らは外縁の山に避難させた。<br>もうこの辺りには残ってない。
+105,Japanese,detail,카타리나,そうか……<br>しかし、やはり島から<br>避難させることは出来ないか……
+106,Japanese,detail,슈투름,無理……<br>あれだけの人数を賄える艇が無い。
+107,Japanese,detail,リーシャ,となれば……<br>やはりあの将軍を、<br>何とかしなければなりませんね……
+108,Japanese,detail,라캄,ちっ……！<br>魔晶さえなきゃあ、<br>あんな奴、なんてことはねぇんだが……
+109,Japanese,detail,비,な、なぁ……<br>それなんだけどよ……
+110,Japanese,detail,,<span class='scene-font-katari'>沈黙を貫いていたビィは、</span><br><span class='scene-font-katari'>おずおずとその手を挙げる。</span>
+111,Japanese,detail,비,オ、オイラ……<br>やっぱりあの封印を、<br>解こうと思うんだ……
+112,Japanese,detail,카타리나,なっ……！？<br>い、いや、しかし何故いま……？
+113,Japanese,detail,비,あの小っちぇ将軍の力も、<br>ユグドラシル・マリスと同じで、<br>魔晶の力なんだろ？
+114,Japanese,detail,비,もしロゼッタが言ってたように、<br>オイラに「マリス」を<br>止める力があるなら……
+115,Japanese,detail,비,それって、<br>魔晶を止められる力がある<br>ってことなんじゃねーのか？
+116,Japanese,detail,카타리나,た、確かに……<br>ロゼッタは「マリス」を<br>魔晶によるものだと説明していたが……
+117,Japanese,detail,카타리나,だが、ビィ君……<br>同時にロゼッタが言っていたことは、<br>君も気にしていただろう？
+118,Japanese,detail,카타리나,封印を解いて記憶を取り戻すことで、<br>ビィ君が<br>ビィ君でなくなってしまうなら……
+119,Japanese,detail,비,へへっ……それなんだけどよ。<br>オイラ、考えたんだ！
+120,Japanese,detail,비,きっとロゼッタはオイラに、<br>そんなことをしてくれ、って言わねぇ。
+121,Japanese,detail,비,ロゼッタも姐さんと同じ気持ちなら<br>あんなこと<br>言わなかったに決まってらぁ！
+122,Japanese,detail,비,だからきっと大丈夫だって……<br>オイラはロゼッタを信じる。
+123,Japanese,detail,비,それにここは、<br>オイラと[플레이어]の<br>故郷なんだぜ！
+124,Japanese,detail,비,故郷の危機に立ち上がらねーんじゃ、<br>騎空士の名が泣くってもんだぜ！
+125,Japanese,detail,카타리나,ビィ君……
+126,Japanese,detail,드랑크,ふふっ……<br>トカゲちゃんのくせに<br>カッコイイんだから……
+127,Japanese,detail,비,ん？<br>いまなんか言ったか？
+128,Japanese,detail,드랑크,んーん？ 何にも？<br>それより、ほら！<br>そう決めたんなら、急がないとね！
+129,Japanese,detail,라캄,うしっ！<br>んじゃ、チビ将軍を引きつけながら、<br>あの祠まで戻るぞ！
+130,Japanese,synopsis,,森を駆け、再び祠の前へと集結する[플레이어]一行。ついにビィは祠を開け、力の封印を解く。刹那の間、ビィは幻を見るが大きな変化は訪れなかった。しかし、ビィは自らに宿った力の存在を確信し、一行は魔晶による暴走を続けるフュリアスに決戦を挑む。
+131,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>改めて祠の前に集結する。</span>
+132,Japanese,detail,,<span class='scene-font-katari'>異質な力を前にビィは息を呑むが、</span><br><span class='scene-font-katari'>その後ろからは着実に、</span><br><span class='scene-font-katari'>破壊の足音が近づいていた。</span>
+133,Japanese,detail,오이겐,森に入ってだいぶ距離は稼げたが……<br>あの将軍サンはまだまだ<br>ご機嫌ナナメみてぇだなぁ、おい……
+134,Japanese,detail,드랑크,器の限界も、<br>まだしばらく先みたいだね～<br>将軍サマは見た目以上に頑丈みたいだ。
+135,Japanese,detail,,<span class='scene-font-katari'>祠の前で[플레이어]に</span><br><span class='scene-font-katari'>抱き抱えられるビィは、</span><br><span class='scene-font-katari'>祠の扉に小さな手をかける。</span>
+136,Japanese,detail,루리아,ビィさん……
+137,Japanese,detail,비,へへっ！<br>そんな不安そうな顔すんじゃねーや！<br>オイラまで不安になるじゃねーか！
+138,Japanese,detail,비,なぁ……<br>昔、この森で修行してたこと<br>[플레이어]、覚えてるよな？
+139,Japanese,detail,비,あん時は、<br>まさかこんなことになるなんて、<br>思いもしなかったぜ……
+140,Japanese,sel1_txt,,<span class='scene-font-katari'>覚悟はしてた</span>
+141,Japanese,sel2_txt,,<span class='scene-font-katari'>いまも驚いてる</span>
+142,Japanese,detail,비,マジかよ！？<br>あの頃からそんな覚悟してたなんて、<br>ちょっとオイラ、信じらんねーぜ……
+143,Japanese,detail,비,だよなっ！<br>でもまぁ……<br>島を出てからも楽しかったよな！
+144,Japanese,detail,비,この島から旅が始まって……<br>[플레이어]と一緒に、<br>色んな島に行って……
+145,Japanese,detail,비,でも、この島に帰ってきたとき、<br>やっぱり懐かしいって感じたんだよな。
+146,Japanese,detail,비,なんだかよくわかんねーオイラにも、<br>この村の奴らは優しくしてくれて……
+147,Japanese,detail,비,だから、オイラも……<br>この島を……<br>この村を守りてーって思うんだ！
+148,Japanese,detail,비,だから……<br>だから、オイラだって……<br>オイラだって……！！
+149,Japanese,detail,,<span class='scene-font-katari'>ビィが勢いよく祠の扉を開け放つと、</span><br><span class='scene-font-katari'>周囲には光が溢れる。</span>
+150,Japanese,detail,,<span class='scene-font-katari'>しかし、それは一瞬のことであり、</span><br><span class='scene-font-katari'>刹那の幻を見た[플레이어]の腕には、</span><br><span class='scene-font-katari'>いつも通りのビィが抱かれていた。</span>
+151,Japanese,detail,비,ん……
+152,Japanese,detail,비,んはっ！？<br>オ、オイラ……！？
+153,Japanese,detail,루리아,ビィさん……？
+154,Japanese,detail,카타리나,ビィ君……
+155,Japanese,detail,비,オ、オイラ……<br>いま、あの祠を開けて……
+156,Japanese,detail,,<span class='scene-font-katari'>開け放たれた祠の扉は</span><br><span class='scene-font-katari'>小さな音を立てて風に揺れる。</span>
+157,Japanese,detail,이오,ちょっと大丈夫なの？<br>何ともない？
+158,Japanese,detail,비,お、おう……<br>けど、何か妙な感じが……
+159,Japanese,detail,카타리나,そんな！？<br>や、やはりビィ君は……
+160,Japanese,detail,비,だあぁぁ！<br>違うって姐さん！
+161,Japanese,detail,비,なんかこう……<br>オイラの中に、<br>いままで無かった力を感じるんだ……
+162,Japanese,detail,オルキス,祠の中にいままで感じてた力が無い……<br>ビィの中に移った……？
+163,Japanese,detail,비,そ、そうなの……か？
+164,Japanese,detail,,<span class='scene-font-katari'>一行が首を傾げていると</span><br><span class='scene-font-katari'>木々を薙ぎ倒しながら、</span><br><span class='scene-font-katari'>禍々しい巨体が姿を現す。</span>
+165,Japanese,detail,퓨리어스,みぃぃぃつけたぁぁぁぁっ！！<br>こんなところに隠れてたワケ？
+166,Japanese,detail,퓨리어스,このボクにわざわざ探させるなんて……<br>あれ？<br>でもボク、何を探してたんだっけ……？
+167,Japanese,detail,퓨리어스,まぁ、いいや！<br>いますぐお前らも<br>ぐちゃぐちゃにしてやるよ！！
+168,Japanese,detail,라캄,けっ……<br>ほんっとーにしつこい野郎だな……<br>いけそうか？ ビィ！
+169,Japanese,detail,비,ああ！<br>いまならいけるぜ！<br>オイラ、なんとなく感じるんだ！
+170,Japanese,detail,비,いまのオイラは、<br>いままでのオイラじゃねぇ……
+171,Japanese,detail,비,でも、オイラはオイラだ！<br>それは変わらねぇ！
+172,Japanese,detail,비,だから……守り通してやろうぜ！<br>この島を……<br>オイラ達の故郷を！！
+173,Japanese,synopsis,,ついに魔晶を超え、フュリアスを止めることに成功する[플레이어]一行。フュリアスは魔晶の影響により、心身に深刻なダメージを受けていた。そこへ再びロキがフェンリルを連れて現れ、満身創痍のフュリアスを回収していく。さらなる敵の影はあるものの、一行はひとまずザンクティンゼルが救われたことに、安堵の息をつくのだった。
+174,Japanese,detail,,<span class='scene-font-katari'>三度フュリアスと相まみえた一行は、</span><br><span class='scene-font-katari'>ついにその魔晶を超え、</span><br><span class='scene-font-katari'>フュリアスに一撃を与える。</span>
+175,Japanese,detail,퓨리어스,ぐが……がはっ！？<br>ば、馬鹿な……<br>ふざけんな……！！
+176,Japanese,detail,퓨리어스,な、なんで……！？<br>くそっ！<br>ま、魔晶が反応しないだと……！？
+177,Japanese,detail,퓨리어스,げほっ、ごほっ……ぜぇ、ぜぇ……<br>嘘だ……こんなの嘘だ……
+178,Japanese,detail,퓨리어스,なんで誰も居ないんだよ！？<br>誰でもいいから、<br>早くボクを助けろぉぉぉっ！！
+179,Japanese,detail,카타리나,…………
+180,Japanese,detail,라캄,…………
+181,Japanese,detail,リーシャ,これが……<br>魔晶を使った者の末路だというの……？
+182,Japanese,detail,ロキ,そうだね。<br>でもまぁ、彼は元々問題があったかな？
+183,Japanese,detail,フェンリル,ぐるるるる……
+184,Japanese,detail,이오,あ、あんた達！？<br>いつの間に……！？
+185,Japanese,detail,퓨리어스,こ、皇帝陛下……
+186,Japanese,detail,ロキ,今回は良いものを見せてもらったよ！<br>この臨場感は、<br>さすがにお芝居じゃ味わえないよね！
+187,Japanese,detail,ロキ,やっぱり君達を<br>おもちゃに選んで正解だったな！<br>次も楽しみにしてるよ。
+188,Japanese,detail,라캄,おい、てめぇ……<br>次ってのはいったいどういうことだ？
+189,Japanese,detail,ロキ,教えない……<br>だって未来を知っているのは、<br>神様だけで十分だろう？
+190,Japanese,detail,ロキ,ただ、<br>そこに倒れてるのは回収させてもらうよ。<br>まだやりたいことがあるんだ。
+191,Japanese,detail,ロキ,じゃ、またの機会に……<br>行くよ、フェンリル。
+192,Japanese,detail,,<span class='scene-font-katari'>そう言うと光に包まれ、</span><br><span class='scene-font-katari'>ロキはフェンリル、フュリアスと共に</span><br><span class='scene-font-katari'>眩い光の中に姿を消した。</span>
+193,Japanese,detail,오이겐,……はぁ。<br>ひとまず、これで島は助かったのか？
+194,Japanese,detail,드랑크,だねぇ～！<br>お疲れ様、トカゲちゃん！
+195,Japanese,detail,비,ああもう……<br>だからオイラは<br>トカゲじゃねーっつの！！
+196,Japanese,detail,,<span class='scene-font-katari'>幾多の困難に見舞われながら、</span><br><span class='scene-font-katari'>なんとか故郷を救った</span><br><span class='scene-font-katari'>[플레이어]一行。</span>
+197,Japanese,detail,,<span class='scene-font-katari'>そしてビィが新たに自らに感じた力は、</span><br><span class='scene-font-katari'>大きな一歩となって、</span><br><span class='scene-font-katari'>一行の旅を推し進めるのだった。</span>
+198,English,synopsis,,"[플레이어] hurriedly leads the others back toward the village. Imperial soldiers stand in the way, but Sturm and Drang cut them down without hesitation—explaining that their loyalty is to the Black Knight, not the empire."
+199,English,detail,Imperial Soldier,You there! Halt! Place your weapons at your feet and your hands above—
+200,English,detail,Imperial Soldier,Gwah!
+201,English,detail,Sturm,More openings in their defense than a broken sieve. Do they even bother training these imperial fools?
+202,English,detail,Drang,"You could at least smile when you crack a joke, Sturm."
+203,English,detail,Drang,Oww!
+204,English,detail,Io,There weren't any imperials on the island when we arrived. When did they get here?
+205,English,detail,Rackam,"They must have just arrived, although I've no idea why they're here."
+206,English,detail,Eugen,Are you two okay with this? Aren't you imperial agents?
+207,English,detail,Sturm,"Not imperial agents, no. We were hired by the Black Knight."
+208,English,detail,Sturm,"If the Erste Empire has cast out the Black Knight, then the Erste Empire is our enemy."
+209,English,detail,Sturm,Enough talk. Or do you want to keep jabbering while the village burns to the ground?
+210,English,synopsis,,"The village is crawling with Erste Empire troops, led by Major General Furias. When the crew confronts Furias, he uses dark essence to transform himself, and then attacks not only [플레이어] and company, but also his own men."
+211,English,detail,,[플레이어] leads the crew out of the forest and back to the village.
+212,English,detail,,"However, the village is completely transformed and is now crawling with imperial troops."
+213,English,detail,Furias,"Quickly, line them up! I want the targets lined up in a perfect row!"
+214,English,detail,Furias,"Hmm, there don't seem to be very many of them. You there! Line up with the others!"
+215,English,detail,Imperial Soldier 1,O-one moment! General Furias!
+216,English,detail,Imperial Soldier 1,"The search is ongoing, but we're having trouble capturing the ones who fled into the forest."
+217,English,detail,Furias,Into the forest? Should be easy enough to handle them. We'll just burn the forest down with them in it!
+218,English,detail,Imperial Soldier 1,"But, General!"
+219,English,detail,Furias,I'm telling you to set fire to the forest! The smoke will drive them out!
+220,English,detail,Furias,Enough explaining myself! I've had enough of you!
+221,English,detail,Furias,Someone tie this imbecile up and throw him into the forest too!
+222,English,detail,Imperial Soldier 2,"Yes, General."
+223,English,detail,Furias,"Once you've done that, set fire to the trees."
+224,English,detail,Furias,"Ah, I have an even better idea! Make sure to leave some of the forest intact!"
+225,English,detail,Furias,"The ones running from the fire will all gather there, giving us the perfect chance to take them down all at once."
+226,English,detail,Drang,"General, your methods haven't changed."
+227,English,detail,Furias,"You! Who are you again? Ah, no matter."
+228,English,detail,Furias,Take a look! This is a great opportunity! I'm just about to test my new power on this island! On this village!
+229,English,detail,Rackam,Tch... Not if we have something to say about it!
+230,English,detail,Rackam,"Hey, General Stumpy! I haven't forgotten what happened in Port Breeze!"
+231,English,detail,Rackam,I think it's time for a little payback!
+232,English,detail,Furias,"What? I don't know who you are either. Oh, enough of this! You're confusing me!"
+233,English,detail,Katalina,"Loki said something about this, didn't he."
+234,English,detail,Katalina,"Kind of strange that he would give us a warning, don't you think?"
+235,English,detail,Eugen,No use thinking about it. That one just enjoys throwing everyone into disarray.
+236,English,detail,Furias,"Shut up, all of you! You! And you! Just stop talking! Aaaagh!"
+237,English,detail,Imperial Soldier 2,General! Calm yourself!
+238,English,detail,Furias,Gah... Huff... Huff... All this noise... It never stops!
+239,English,detail,Io,"Hey, what's up with this guy?"
+240,English,detail,Io,"He was a bit of a creep before, but now he's lost it completely."
+241,English,detail,Furias,I'm going to shut you all up! I don't need anyone anymore!
+242,English,detail,Furias,You! And you! I'm going to crush you! With my bare hands!
+243,English,detail,Furias,"Mwahahaha! Behold! Magnificent view, wouldn't you agree?"
+244,English,detail,Imperial Soldier 2,"G-General. If you get too excited, the effect of the dark essence will..."
+245,English,detail,Imperial Soldier 2,Aaargh!
+246,English,detail,Rackam,Hey! Wasn't that one of his own men?
+247,English,detail,Furias,Who told you to talk back to me! Huh! Who! Who!
+248,English,detail,Lyria,"That power... It must be from dark essence, but it's completely different from anything I've seen before."
+249,English,detail,Vyrn,This looks bad. I don't think we can talk the guy down.
+250,English,detail,Furias,Ah. Now where did you come from?
+251,English,detail,Furias,"Who were you again? Ah, no, it doesn't matter..."
+252,English,detail,Furias,Now to put an end to you with this power!
+253,English,synopsis,,"The crew manages to land what should have been a finishing blow on Furias, but he uses the power of dark essence to instantly recover. As the party despairs in the face of this terrible power, Vyrn finds a new resolve growing inside him."
+254,English,detail,,"Fueled by dark essence, Furias embarks on a rampage. At the end of the raging battle, the party strikes a seemingly decisive blow."
+255,English,detail,Furias,"Ah, yes! Amazing! This is amazing! It doesn't hurt at all! I don't feel a thing!"
+256,English,detail,Furias,This is the true power of dark essence.
+257,English,detail,Furias,I've never felt better! I owe the emperor my thanks.
+258,English,detail,Furias,"Still experimental to be sure, but I'm amazed he gave me something of such magnificence!"
+259,English,detail,Imperial Soldier 1,General Furias! The side effects of the dark essence are reaching a dangerous level! You should cease using it!
+260,English,detail,Imperial Soldier 1,Aargh!
+261,English,detail,Furias,Hahaha! Hahahahaha!
+262,English,detail,Furias,"What did you say? Dangerous? Say that again! Come on, speak!"
+263,English,detail,Imperial Soldier 2,"F-fall back! Everyone, back! Get away from the general..."
+264,English,detail,Imperial Soldier 2,Aaaargh!
+265,English,detail,Furias,No one is getting away. No-no-no-no one!
+266,English,detail,Rackam,I can't believe it. Is this guy invincible?
+267,English,detail,Drang,Nuh-uh... This is the power of dark essence.
+268,English,detail,Drang,Although I've never seen it quite so strong.
+269,English,detail,Eugen,"If the power is coming from the dark essence, then we can stop him by destroying it, right?"
+270,English,detail,Lecia,More like that's our only option now.
+271,English,detail,Drang,See that thing there holding the crystal? It looks like it won't last much longer under these conditions.
+272,English,detail,Katalina,What? So we just need to hold out a little longer?
+273,English,detail,Drang,Any longer will be enough time for him to knock this entire island from the sky!
+274,English,detail,Katalina,Then we have to fight him head on!
+275,English,detail,Vyrn,...
+276,English,detail,,"[플레이어] and the crew, faced with the rampaging Furias, are seemingly out of options."
+277,English,detail,,"However, in the face of this threat to his home, a new determination begins to grow inside Vyrn."
+278,English,synopsis,,"Even the imperial soldiers start to retreat from Furias's rampage. The party ask Sturm and Drang to free the villagers, while they fight Furias themselves in order to buy some time."
+279,English,detail,Imperial Soldier 1,Fall back! Get away from General Furias! He's too dangerous!
+280,English,detail,Imperial Soldier 2,What about the villagers?
+281,English,detail,Imperial Soldier 1,Forget them! We don't have time to free them now! Just run... Arrgh!
+282,English,detail,Furias,"Run, you say? From me?"
+283,English,detail,Furias,Hahaha! Impossible! I told you: no one is getting away!
+284,English,detail,Imperial Soldier 2,Uurgh!
+285,English,detail,,"Leaving the captured villagers behind, the troops of the Erste Empire run for their lives, many falling as they go."
+286,English,detail,Io,Hey! At least let the villagers go first!
+287,English,detail,Katalina,This is bad. They'll be sitting ducks like this!
+288,English,detail,Rackam,"Hey, Drang! You two evacuate the villagers to safety!"
+289,English,detail,Rackam,We'll keep the little tyrant busy and buy you some time!
+290,English,detail,Drang,"Put us to work, why don't you!"
+291,English,detail,Sturm,"These people gave us lodging and food last night. We owe them for that much at least. We need to help, Drang."
+292,English,detail,Drang,"Ah! Hold on, hold on! Sturm, don't leave me behind!"
+293,English,detail,Katalina,They seem to be doing what we ask for now.
+294,English,detail,Io,"They're a suspicious pair for sure, but I don't think they're bad people."
+295,English,detail,Eugen,"Well then, we need to do our part too."
+296,English,detail,,"As soon as he finishes speaking, Eugen unleashes an attack that skims Furias's forehead."
+297,English,detail,Furias,You just don't give up!
+298,English,detail,Eugen,"Too right! Time to end your evil little games, General!"
+299,English,synopsis,,"Vyrn suggests that if he has the power to stop Malice, then he may also have the power to stop the dark essence. Though he was previously hesitant to unlock any hidden memories, Vyrn decides to trust Rosetta and makes a stand for the sake of his home."
+300,English,detail,,"Amid the battle with Furias, Drang skillfully dodges the endless barrage of attacks flying about and manages to perform the task requested of him and Sturm."
+301,English,detail,Drang,Hey! We did what you asked!
+302,English,detail,Sturm,We got the villagers out into the mountains. There's no one left nearby!
+303,English,detail,Katalina,"Good. But we can't get them off the island completely, can we?"
+304,English,detail,Sturm,No. We don't have an airship large enough for that.
+305,English,detail,Lecia,In which case we have to do something about that general.
+306,English,detail,Rackam,"Dang! Without that dark essence, he'd be nothing!"
+307,English,detail,Vyrn,About that actually...
+308,English,detail,,Vyrn had remained silent but now speaks up.
+309,English,detail,Vyrn,I've decided to break the seal.
+310,English,detail,Katalina,What? Why now?
+311,English,detail,Vyrn,"The little guy's power is from dark essence, the same as Yggdrasil Malice, right?"
+312,English,detail,Vyrn,"If, like Rosetta said, I have the power to stop Malice..."
+313,English,detail,Vyrn,"Then, does that mean I also have the power to stop dark essence?"
+314,English,detail,Katalina,You might be right. Rosetta explained that Malice comes from dark essence.
+315,English,detail,Katalina,"But, Vyrn, weren't you also worried about the other things Rosetta said?"
+316,English,detail,Katalina,"If getting your memories back will change who you are, do you really want to do it?"
+317,English,detail,Vyrn,"Heh, well, I've been thinking about that."
+318,English,detail,Vyrn,Rosetta would never tell me so directly to break the seal.
+319,English,detail,Vyrn,She'd never leave me without making sure I can make my own choice!
+320,English,detail,Vyrn,So I'm sure it'll all be okay! I trust Rosetta!
+321,English,detail,Vyrn,This is my home! Mine and [플레이어]'s!
+322,English,detail,Vyrn,How can I call myself a skyfarer if I don't stand up to this threat to my home!
+323,English,detail,Katalina,Vyrn...
+324,English,detail,Drang,Hah! Pretty cool for a lizard.
+325,English,detail,Vyrn,What did you just say?
+326,English,detail,Drang,"Oh, nothing at all! Now that you've made the decision, let's go!"
+327,English,detail,Rackam,Right! Let's keep General Stumpy busy while you guys hurry back to the shrine!
+328,English,synopsis,,"Vyrn opens the doors to the shrine and sees a brief vision, but undergoes no other major changes. However, now confident in the power that's always resided inside himself, Vyrn and the rest of the crew face down the rampaging Furias one more time."
+329,English,detail,,[플레이어] and the crew gather at the shrine again.
+330,English,detail,,"Vyrn is still frightened by the power of the place, but sounds of destruction are closing in from behind."
+331,English,detail,Eugen,"We managed to give him the slip in the forest and buy us some time, but that general is still in a real bad mood."
+332,English,detail,Drang,His dark essence is still holding out as well. The guy's tougher than he looks.
+333,English,detail,,"[플레이어] holds Vyrn in front of the shrine, who in turn reaches up to open the doors."
+334,English,detail,Lyria,Vyrn...
+335,English,detail,Vyrn,Don't worry about me! You'll make me all anxious again!
+336,English,detail,Vyrn,"Say, [플레이어]. Do you remember when we used to train in this forest?"
+337,English,detail,Vyrn,Back then I never thought things would come to this...
+338,English,sel1_txt,,I was ready for it.
+339,English,sel2_txt,,I'm still surprised by it now.
+340,English,detail,Vyrn,Really? You've been expecting something like this the whole time? I don't believe that for a moment!
+341,English,detail,Vyrn,"Me too! But it was fun leaving this island, wasn't it?"
+342,English,detail,Vyrn,"Traveling the skies and going to various islands with you is an experience that'll always stay with me, [플레이어]."
+343,English,detail,Vyrn,But coming back here has made me see how much I missed home.
+344,English,detail,Vyrn,Everyone in the village has been so kind to me.
+345,English,detail,Vyrn,I want to defend this island! And everyone living on it!
+346,English,detail,Vyrn,So I'm going to do this and play my part!
+347,English,detail,,"Vyrn yanks the shrine doors open without further ado, and light spills out."
+348,English,detail,,"The light lasts only for a moment, however. And when it fades, Vyrn is still in [플레이어]'s arms—the same as ever."
+349,English,detail,Vyrn,Huh?
+350,English,detail,Vyrn,Yay! I'm still in one piece!
+351,English,detail,Lyria,Vyrn?
+352,English,detail,Katalina,Vyrn...
+353,English,detail,Vyrn,I opened up the doors... and then...
+354,English,detail,,The open doors of the shrine sway gently in the wind.
+355,English,detail,Io,"Wait, so are you okay? Nothing happened?"
+356,English,detail,Vyrn,I'm not sure. I do feel a little different.
+357,English,detail,Katalina,"Oh no! Vyrn, please tell me you're not—"
+358,English,detail,Vyrn,Relax! It's still me in here!
+359,English,detail,Vyrn,But there's something inside me. A power that wasn't there before.
+360,English,detail,Orchis,I can't feel the power that was emanating from the shrine anymore. Has it transferred into Vyrn?
+361,English,detail,Vyrn,I can't tell...
+362,English,detail,,"In the middle of the conversation, Furias smashes through the trees as he enters the clearing."
+363,English,detail,Furias,"Found you! Hiding here, were you?"
+364,English,detail,Furias,Making me search for you! Hold on! Who was I looking for again?
+365,English,detail,Furias,"Ah, no matter! I'll just squish you all! For the fun of it!"
+366,English,detail,Rackam,"This guy doesn't give up, does he! Can you fight, Vyrn?"
+367,English,detail,Vyrn,"Sure thing! I've got this! At least, it feels like I do!"
+368,English,detail,Vyrn,I'm not the same Vyrn anymore!
+369,English,detail,Vyrn,And yet I'm still me! That'll never change!
+370,English,detail,Vyrn,I'm gonna defend this island! And my home!
+371,English,synopsis,,"[플레이어] and the crew finally manage to overcome the dark essence and stop Furias. Out of nowhere, Loki and Fenrir appear again and take the wounded Furias away. Although the shadow of future enemies still looms over them, for now the party celebrates having saved Zinkenstill."
+372,English,detail,,"Facing Furias for a third time, the party finally manages to surpass his dark essence and strikes a decisive blow."
+373,English,detail,Furias,Argh! Aaaargh! I-impossible! This can't be happening!
+374,English,detail,Furias,What? Curses! The dark essence isn't responding!
+375,English,detail,Furias,Arrgh... This can't be happening... This isn't real!
+376,English,detail,Furias,Where's everyone else? Someone! Anyone! Come save me!
+377,English,detail,Katalina,...
+378,English,detail,Rackam,...
+379,English,detail,Lecia,So this is what happens to those who use dark essence.
+380,English,detail,Loki,Looks like it. Although this guy had a few issues to start with.
+381,English,detail,Fenrir,Grrrrr...
+382,English,detail,Io,You two again! Where did you come from?
+383,English,detail,Furias,Your Imperial Highness...
+384,English,detail,Loki,How thrilling this all was! The raw tension! You can't fake it!
+385,English,detail,Loki,I was right to choose you as my playthings! I look forward to your next performance.
+386,English,detail,Rackam,"Hold it! What do you mean, 'next'?"
+387,English,detail,Loki,I can't tell you that. Only the gods can see the future.
+388,English,detail,Loki,I'm taking the remnants of this poor fool back with me though. I've still got something I want to do with him.
+389,English,detail,Loki,"We'll meet again soon. Let's go, Fenrir."
+390,English,detail,,"With that, Loki, Fenrir, and Furias are surrounded in a dazzling light and then vanish."
+391,English,detail,Eugen,Phew. I think this means we saved the island. Right?
+392,English,detail,Drang,"Looks like it! Great work, you charming little lizard!"
+393,English,detail,Vyrn,Enough already! I ain't no lizard!
+394,English,detail,,"Overcoming multiple obstacles, [플레이어] and the others manage to save the island and thereby the village."
+395,English,detail,,Vyrn's newly awakened powers are also set to propel the crew onto the next exciting step of their adventure.

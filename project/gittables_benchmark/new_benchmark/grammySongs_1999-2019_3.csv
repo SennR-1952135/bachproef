@@ -1,0 +1,429 @@
+,genre,name,artist
+0,General,this is America,Childish Gambino
+1,General,this is America,Childish Gambino
+2,Pop,Joanne (where Do you Think You're Goin'?),Lady Gaga
+3,Pop,Shallow,Lady Gaga & Bradley Cooper
+4,Dance/Electronic Music,Electricity,Silk City & Dua Lipa Featuring Diplo & Mark Ronson
+5,Rock,when Bad Does Good,Chris Cornell
+6,Rock,Electric Messiah,High on Fire
+7,Rock,Masseduction,St Vincent
+8,R&B,Best Part,He.r. Featuring Daniel Caesar
+9,R&B,How Deep is your Love,Pj Morton Featuring Yebba
+10,R&B,Boo'd Up,Ella Mai
+11,Rap,Bubblin,Anderson Paak
+12,Rap,this is America,Childish Gambino
+13,Rap,God's Plan,Drake
+14,Country,Butterflies,Kacey Musgraves
+15,Country,Tequila,Dan   Shay
+16,Country,Space Cowboy,Kacey Musgraves
+17,Jazz,Don't Fence Me in,"John Daversa, Soloistregina Carter, Soloistfred Hersch, Soloistbrad Mehldau, Soloistmiguel zenón, Soloist"
+18,Gospel/Contemporary Christian Music,Never Alone,"Tori Kelly Featuring Kirk Franklin; Kirk Franklin & Victoria Kelly, Songwritersjekalyn Carr; Allen Carr & Jekalyn Carr, Songwriterskoryn Hawthornejonathan Mcreynolds Featuring Doe; Jonathan Mcreynolds & will Reagan, Songwritersbrian Courtney Wilson; Aaron w Lindsey, Alvin Richardson & Brian Courtney Wilson, Songwriters"
+19,Gospel/Contemporary Christian Music,you Say,"Lauren Daigle; Lauren Daigle, Jason Ingram & Paul Mabury, Songwriterscory Asbury; Cory Asbury, Caleb Culver & Ran Jackson, Songwritersfor King & Country; Ben Glover, Matt Hales, Stephen Blake Kanicka, Seth Mosley, Joel Smallbone, Luke Smallbone & Tedd Tjornhom, Songwritersmercyme Featuring John Reuben; David Garcia, Ben Glover, Mercyme, Solomon Olds & John Reuben, Songwriterstauren Wells; Ethan Hulse, Jordan Sapp & Tauren Wells, Songwriters"
+20,American Roots Music,The Joke,Brandi Carlile
+21,American Roots Music,The Joke,Brandi Carlile
+22,Composing/Arranging,Shallow,Lady Gaga & Bradley Cooper
+23,General,24k Magic,Bruno Mars
+24,General,That's What i Like,Bruno Mars
+25,Pop,Shape of you,Ed Sheeran
+26,Pop,Feel it Still,Portugal the Man
+27,Dance/Electronic Music,Tonite,Lcd Soundsystem
+28,Rock,you Want it Darker,Leonard Cohen
+29,Rock,Sultan’s Curse,Mastodon
+30,Rock,Run,"Dave Grohl, Taylor Hawkins, Rami Jaffee, Nate Mendel, Chris Shiflett & Pat Smear), Songwriters (Foo Fighters"
+31,R&B,That's What i Like,Bruno Mars
+32,R&B,Redbone,Childish Gambino
+33,R&B,That's What i Like,Bruno Mars
+34,Rap,Humble.,Kendrick Lamar
+35,Rap,Loyalty.,Kendrick Lamar Featuring Rihanna
+36,Rap,Humble.,Kendrick Lamar
+37,Country,Either Way,Chris Stapleton
+38,Country,Better Man,Little Big Town
+39,Country,Broken Halos,Chris Stapleton
+40,Jazz,Miles Beyond,"John Mclaughlin, Soloist"
+41,Gospel/Contemporary Christian Music,Never Have to be Alone,"Cece Winans; Dwan Hill & Alvin Love Iii, Songwriters"
+42,Gospel/Contemporary Christian Music,What a Beautiful Name,"Hillsong Worship; Ben Fielding & Brooke Ligertwood, Songwriters"
+43,American Roots Music,Killer Diller Blues,Alabama Shakes
+44,American Roots Music,If We Were Vampires,Jason Isbell and the 400 Unit
+45,Composing/Arranging,How Far I'll Go,Auli'i Cravalho
+46,General,Hello,Adele
+47,General,Hello,Adele
+48,Pop,Hello,Adele
+49,Pop,Stressed Out,Twenty One Pilots
+50,Dance/Electronic Music,Don't Let Me Down,The Chainsmokers Featuring Daya
+51,Rock,Blackstar,David Bowie
+52,Rock,Dystopia,Megadeth
+53,Rock,Blackstar,David Bowie
+54,R&B,Cranes in the Sky,Solange
+55,R&B,Angel,Lalah Hathaway
+56,R&B,Lake by the Ocean,Maxwell
+57,Rap,No Problem,Chance the Rapper Featuring Lil Wayne & 2 Chainz
+58,Rap,Hotline Bling,Drake
+59,Rap,Hotline Bling,Drake
+60,Country,My Church,Maren Morris
+61,Country,Jolene,Pentatonix Featuring Dolly Parton
+62,Country,Humble and Kind,Tim Mcgraw
+63,Jazz,I’m so Lonesome i Could Cry,"John Scofield, Soloist"
+64,Gospel/Contemporary Christian Music,God Provides,"Tamela Mann; Kirk Franklin, Songwriter"
+65,Gospel/Contemporary Christian Music,Thy will,"Hillary Scott & the Scott Family; Bernie Herms, Hillary Scott & Emily Weisband, Songwriters"
+66,American Roots Music,House of Mercy,Sarah Jarosz
+67,American Roots Music,Kid Sister,The Time Jumpers
+68,Composing/Arranging,Can't Stop the Feeling!,"Justin Timberlake, Anna Kendrick, Gwen Stefani, James Corden, Zooey Deschanel, Walt Dohrn, Ron Funches, Caroline Hjelt, Aino Jawo, Christopher Mintz-Plasse & Kunal Nayyar"
+69,General,Uptown Funk,Mark Ronson Featuring Bruno Mars
+70,General,Thinking Out Loud,"d Sheeran & Amy Wadge, Songwriters"
+71,Pop,Thinking Out Loud,Ed Sheeran
+72,Pop,Uptown Funk,Mark Ronson Featuring Bruno Mars
+73,Dance/Electronic Music,where are ü Now,Skrillex and Diplo with Justin Bieber
+74,Rock,Don't Wanna Fight,Alabama Shakes
+75,Rock,Cirice,Ghost
+76,Rock,Don't Wanna Fight,"Labama Shakes (Zac Cockrell, Heath Fogg, Brittany Howard & Steve Johnson), Songwriters"
+77,R&B,Earned it (Fifty Shades of Grey),The Weeknd
+78,R&B,Little Ghetto Boy,Lalah Hathaway
+79,R&B,Really Love,"'Angelo, Gina Figueroa & Kendra Foster, Songwriters"
+80,Rap,Alright,Kendrick Lamar
+81,Rap,Alright,"Endrick Duckworth, Kawan Prather, Mark Anthony Spears & Pharrell Williams, Songwriters"
+82,Country,Traveller,Chris Stapleton
+83,Country,Girl Crush,Little Big Town
+84,Country,Girl Crush,"Illary Lindsey, Lori Mckenna & Liz Rose, Songwriters"
+85,Jazz,Cherokee,"Christian Mcbride, Soloist"
+86,Gospel/Contemporary Christian Music,Wanna be Happy?,"Kirk Franklin; Kirk Franklin, Songwriter"
+87,Gospel/Contemporary Christian Music,Holy Spirit,"Francesca Battistelli, Artist"
+88,American Roots Music,See that My Grave is Kept Clean,Mavis Staples
+89,American Roots Music,24 Frames,"Ason Isbell, Songwriter"
+90,Composing/Arranging,Glory,"Onnie Lynn, Che Smith & John Stephens, Songwriters"
+91,General,Stay with Me (Darkchild Version),Sam Smith
+92,General,Stay with Me (Darkchild Version),Sam Smith
+93,Pop,Happy (Live),Pharrell Williams
+94,Pop,Say Something,"a Great Big World (Ian Axel & Chad Vaccarino) & Christina Aguilera, Artists"
+95,Dance/Electronic Music,Rather be,Clean Bandit Featuring Jess Glynne
+96,Rock,Lazaretto,"Jack White, Artist"
+97,Rock,The Last in Line,"Tenacious d (Jack Black & Kyle Gass), Artists"
+98,Rock,Ain't it Fun,Paramore
+99,R&B,Drunk in Love,"Beyoncé & Jay Z, Artists (Beyoncé Featuring Jay z)"
+100,R&B,Jesus Children,"Lalah Hathaway, Robert Glasper Experiment (Casey Benjamin, Mark Colenburg, Robert Glasper & Derrick Hodge) & Malcolm-Jamal Warner, Artists"
+101,R&B,Drunk in Love,
+102,Rap,i,Kendrick Lamar
+103,Rap,i,Kendrick Lamar
+104,Country,Something in the Water,"Carrie Underwood, Artist"
+105,Country,Gentle on My Mind,"The Band Perry (Kimberly Perry, Neil Perry & Reid Perry), Artists"
+106,Country,I'm not Gonna Miss you,Glen Campbell
+107,Jazz,Fingerprints,"Chick Corea, Soloist"
+108,Gospel/Contemporary Christian Music,No Greater Love,Smokie Norful
+109,Gospel/Contemporary Christian Music,Messengers,Lecrae Featuring for King & Country
+110,American Roots Music,a Feather's not a Bird,"Rosanne Cash, Artist"
+111,American Roots Music,a Feather's not a Bird,
+112,Composing/Arranging,Let it Go,Idina Menzel
+113,General,Get Lucky,Daft punk featuring Pharrell Williams & Nile Rodgers
+114,General,Royals,
+115,Pop,Royals,Lorde
+116,Pop,Get Lucky,Daft punk featuring Pharrell Williams & Nile Rodgers
+117,Dance/Electronic Music,Clarity,Zedd Featuring Foxes
+118,Rock,Radioactive,Imagine Dragons
+119,Rock,God is Dead?,Black Sabbath
+120,Rock,Cut Me some Slack,
+121,R&B,Something,Snarky Puppy with Lalah Hathaway
+122,R&B,Please Come Home,Gary Clark Jr
+123,R&B,Pusher Love Girl,
+124,Rap,Thrift Shop,Macklemore & Ryan lewis featuring Wanz
+125,Rap,Thrift Shop,
+126,Country,Wagon Wheel,Darius Rucker
+127,Country,From this Valley,The Civil Wars
+128,Country,Merry Go 'Round,
+129,Jazz,Orbits,"Wayne Shorter, Soloist"
+130,American Roots Music,Love Has Come for you,
+131,Composing/Arranging,Skyfall,
+132,General,Somebody that i Used to Know,Gotye Featuring Kimbra
+133,General,We are Young,Fun Featuring Janelle Monáe
+134,Pop,Set Fire to the Rain [live],Adele
+135,Pop,Somebody that i Used to Know,Gotye Featuring Kimbra
+136,Dance/Electronic Music,Bangarang,skrillex featuring Sirah
+137,Rock,Lonely Boy,The Black Keys
+138,Rock,Lonely Boy,The Black Keys
+139,R&B,Climax,Usher
+140,R&B,Love on Top,beyoncé
+141,R&B,Adorn,Miguel
+142,Rap,N****s in Paris,Jay-z & Kanye West
+143,Rap,N****s in Paris,"Wa. Donaldson, Songwriter) (Jay-z & Kanye West"
+144,Country,Blown Away,Carrie Underwood
+145,Country,Pontoon,Little Big Town
+146,Country,Blown Away,Carrie Underwood
+147,Jazz,Hot House,"Chick Corea, Soloists"
+148,Composing/Arranging,Safe & Sound (from the Hunger Games),
+149,General,Rolling in the Deep,Adele
+150,General,Rolling in the Deep,Adele
+151,Pop,Someone Like you,Adele
+152,Pop,Body and Soul,Tony Bennett & Amy Winehouse
+153,Dance/Electronic Music,Scary Monsters and Nice Sprites,Skrillex
+154,Rock,Walk,Foo Fighters
+155,Rock,Walk,Foo Fighters
+156,R&B,Is this Love,Corinne Bailey Rae
+157,R&B,Fool for you,Cee Lo Green & Melanie Fiona
+158,R&B,Fool for you,Cee Lo Green & Melanie Fiona
+159,Rap,Otis,Jay-z & Kanye West
+160,Rap,all of the Lights,"Kanye West, Rihanna, Kid Cudi & Fergie"
+161,Country,Mean,Taylor Swift
+162,Country,Barton Hollow,The Civil Wars
+163,Country,Mean,Taylor Swift
+164,Jazz,500 Miles High,"Chick Corea, Soloist"
+165,Composing/Arranging,i See the Light (from Tangled),Mandy Moore & Zachary Levi
+166,General,Need you Now,Lady Antebellum
+167,General,Need you Now,Lady Antebellum
+168,Pop,Bad Romance,Lady Gaga
+169,Pop,Just the Way you are,Bruno Mars
+170,Pop,"Hey, Soul Sister (Live)",Train
+171,Pop,Imagine,"Herbie Hancock, Pink, Indiaarie, Seal, Konono No 1, Jeff Beck & Oumou Sangare"
+172,Dance/Electronic Music,Only Girl (in the World),Rihanna
+173,Rock,New Fang,Them Crooked Vultures
+174,Rock,El Dorado,Iron Maiden
+175,Rock,Angry World,Neil Young
+176,R&B,Bittersweet,Fantasia
+177,R&B,There Goes My Baby,Usher
+178,R&B,Soldier of Love,Sade
+179,R&B,Fuck you,Cee Lo Green
+180,R&B,Shine,John Legend & the Roots
+181,Rap,Not Afraid,Eminem
+182,Rap,On to the Next One,Jay-z & Swizz Beatz
+183,Rap,Empire State of Mind,"Burt Keyes & Sylvia Robinson, Songwriters"
+184,Country,The House that Built Me,Miranda Lambert
+185,Country,'Til Summer Comes Around,Keith Urban
+186,Country,Need you Now,Lady Antebellum
+187,Jazz,a Change is Gonna Come,"Herbie Hancock, Soloist"
+188,General,Use Somebody,Kings of Leon
+189,General,Single Ladies (Put a Ring on it),beyoncé
+190,Pop,Halo,beyoncé
+191,Pop,Make it Mine,Jason Mraz
+192,Pop,i Gotta Feeling,The Black Eyed Peas
+193,Pop,Lucky,Jason Mraz & Colbie Caillat
+194,Dance/Electronic Music,Poker Face,Lady Gaga
+195,Rock,War Machine,Ac/Dc
+196,Rock,Dissident Aggressor,Judas Priest
+197,Rock,Use Somebody,Kings of Leon
+198,R&B,Single Ladies (Put a Ring on it),beyoncé
+199,R&B,Pretty Wings,Maxwell
+200,R&B,Blame it,Jamie Foxx & t-Pain
+201,R&B,Pearls,Indiaarie & Dobet Gnahore
+202,R&B,Single Ladies (Put a Ring on it),beyoncé
+203,Rap,D.o.a. (Death of Auto-Tune),Jay-z
+204,Rap,Crack a Bottle,"Eminem, Dr Dre & 50 Cent"
+205,Rap,Run this Town,"Jay-z), Robyn Fenty, Kanye West & Ernest Wilson, Songwriters (Athanasios Alatas, Songwriter) (Jay-Z, Rihanna & Kanye West"
+206,Country,White Horse,Taylor Swift
+207,Country,Sweet Thing,Keith Urban
+208,Country,White Horse,Taylor Swift
+209,Jazz,Dancin' 4 Chicken,"Terence Blanchard, Soloist"
+210,General,Please Read the Letter,Alison Krauss
+211,General,Viva La Vida,Coldplay
+212,Pop,Chasing Pavements,Adele
+213,Pop,Say,John Mayer
+214,Pop,Viva La Vida,Coldplay
+215,Pop,Rich Woman,Alison Krauss
+216,Dance/Electronic Music,Harder Better Faster Stronger,Daft Punk
+217,Rock,Wax Simulacra,The Mars Volta
+218,Rock,My Apocalypse,Metallica
+219,Rock,Girls in their Summer Clothes,Bruce Springsteen
+220,R&B,Superwoman,Alicia Keyss
+221,R&B,Miss Independent,Ne-Yo
+222,R&B,Stay with Me (by the Sea),John Legend
+223,R&B,Be Ok,Willi.am
+224,R&B,Miss Independent,Ne-Yo
+225,Rap,a Milli,Lil Wayne
+226,Rap,Swagga Like Us,Jay-z & Ti. Featuring Kanye West & Lil Wayne
+227,Rap,Lollipop,Lil Wayne Featuring Static Major
+228,Country,Last Name,Carrie Underwood
+229,Country,Letter to Me,Brad Paisley
+230,Country,Stay,Sugarland
+231,General,Rehab,Amy Winehouse
+232,General,Rehab,Amy Winehouse
+233,Pop,Rehab,Amy Winehouse
+234,Pop,What Goes Around...comes Around,Justin Timberlake
+235,Pop,Makes Me Wonder,Maroon 5
+236,Pop,Gone Gone Gone (Done Moved on),Alison Krauss
+237,Dance/Electronic Music,Lovestoned/i Think She Knows,Justin Timberlake
+238,Rock,The Pretender,Foo Fighters
+239,Rock,Final Six,Slayer
+240,Rock,Radio Nowhere,Bruce Springsteen
+241,R&B,No One,Alicia Keys
+242,R&B,Future Baby Mama,Prince
+243,R&B,Disrespectful,Mary j Blige
+244,R&B,Daydreamin',Lupe Fiasco Featuring Jill Scott
+245,R&B,No One,Alicia Keys
+246,Rap,Stronger,Kanye West
+247,Rap,Southside,Common Featuring Kanye West
+248,Rap,Good Life,Kanye West Featuring t-Pain
+249,Country,Before He Cheats,Carrie Underwood
+250,Country,Stupid Boy,Keith Urban
+251,Country,Before He Cheats,Carrie Underwood
+252,General,Not Ready to Make Nice,Dixie Chicks
+253,General,Not Ready to Make Nice,Dixie Chicks
+254,Pop,Ain't No Other Man,Christina Aguilera
+255,Pop,Waiting on the World to Change,John Mayer
+256,Pop,My Humps,The Black Eyed Peas
+257,Pop,For Once in My Life,Tony Bennett & Stevie Wonder
+258,Dance/Electronic Music,Sexy Back,Justin timberlake & Timbaland
+259,Rock,Dani California,Red Hot Chili Peppers
+260,Rock,Woman,Wolfmother
+261,Rock,Eyes of the Insane,Slayer
+262,Rock,Dani California,Red Hot Chili Peppers
+263,R&B,Be without you,Mary j Blige
+264,R&B,Heaven,John Legend
+265,R&B,Family Affair,"John Legend, Joss Stone with Van Hunt"
+266,R&B,Crazy,Gnarls Barkley
+267,R&B,Be without you,Mary j Blige
+268,Rap,What you Know,Ti.
+269,Rap,Ridin,Chamillionaire Featuring Krayzie Bone
+270,Rap,Money Maker,Ludacris Featuring Pharrell
+271,Country,"Jesus, Take the Wheel",Carrie Underwood
+272,Country,The Reason Why,Vince Gill
+273,Country,"Jesus, Take the Wheel",Carrie Underwood
+274,General,Boulevard of Broken Dreams,Green Day
+275,General,Sometimes you Can't Make it on your Own,"Bono, Adam Clayton, Edge, Larry Mullen Jr), Songwriters (U2"
+276,Pop,Since u Been Gone,Kelly Clarkson
+277,Pop,From the Bottom of My Heart,Stevie Wonder
+278,Pop,this Love,Maroon 5
+279,Pop,Feel Good Inc.,Gorillaz Featuring De La Soul
+280,Dance/Electronic Music,Galvanize,The Chemical Brothers Featuring q-Tip
+281,Rock,Sometimes you Can't Make it on your Own,U2
+282,Rock,B.y.o.b.,System of a Down
+283,Rock,Before i Forget,Slipknot
+284,Rock,City of Blinding Lights,"Bono, Adam Clayton, Edge, Larry Mullen Jr), Songwriter (U2"
+285,R&B,We Belong Together,Mariah Carey
+286,R&B,Ordinary People,John Legend
+287,R&B,So Amazing,beyoncé & Stevie Wonder
+288,R&B,Welcome to Jamrock,Damian Marley
+289,R&B,We Belong Together,Mariah Carey
+290,Rap,Gold Digger,Kanye West
+291,Rap,Don't Phunk with My Heart,The Black Eyed Peas
+292,Rap,Diamonds from Sierra Leone,Kanye West
+293,Country,The Connection,Emmylou Harris
+294,Country,You'll Think of Me,Keith Urban
+295,Country,Bless the Broken Road,Rascal Flatts
+296,General,Here We Go Again,Norah Jones
+297,General,Daughters,John Mayer
+298,Pop,Sunrise,Norah Jones
+299,Pop,Daughters,John Mayer
+300,Pop,Heaven,Los Lonely Boys
+301,Pop,Here We Go Again,Norah Jones
+302,Dance/Electronic Music,Toxic,Britney Spears
+303,Rock,Vertigo,U2
+304,Rock,Slither,Velvet Revolver
+305,Rock,Whiplash,motörhead
+306,Rock,Vertigo,"Bono, Adam Clayton, the Edge, Larry Mullen, Jr), Songwriter (U2"
+307,R&B,If i Ain't Got you,Alicia Keys
+308,R&B,Call My Name,Prince
+309,R&B,My Boo,Usher& Alicia Keys
+310,R&B,Cross My Mind,Jill Scott
+311,R&B,you Don't Know My Name,Alicia Keys
+312,Rap,99 Problems,Jay-z
+313,Rap,Let's Get it Started,The Black Eyed Peas
+314,Rap,Jesus Walks,Kanye West
+315,Country,Redneck Woman,Gretchen Wilson
+316,Country,Live Like you Were Dying,Tim Mcgraw
+317,Country,Live Like you Were Dying,Tim Mcgraw
+318,General,Clocks,Coldplay
+319,General,Dance with My Father,Luther Vandross
+320,Pop,Beautiful,Christina Aguilera
+321,Pop,Cry Me a River,Justin Timberlake
+322,Pop,Underneath it all,No Doubt
+323,Pop,Whenever i Say your Name,Sting & Mary j Blige
+324,Dance/Electronic Music,Come into My World,Kylie Minogue
+325,Rock,Trouble,Pink
+326,Rock,Gravedigger,Dave Matthews
+327,Rock,Disorder in the House,Bruce Springsteen
+328,Rock,Bring Me to Life,Evanescence Featuring Paul Mccoy
+329,Rock,St. Anger,Metallica
+330,Rock,Seven Nation Army,The White Stripes
+331,R&B,Dangerously in Love 2,beyoncé
+332,R&B,Dance with My Father,Luther Vandross
+333,R&B,The Closer i Get to you,beyoncé & Luther Vandross
+334,R&B,Hey Ya!,Outkast
+335,R&B,Crazy in Love,
+336,Rap,Work it,Missy Elliott
+337,Rap,Lose Yourself,Eminem
+338,Rap,Shake Ya Tailfeather,"Nelly, p Diddy & Murphy Lee"
+339,Rap,Lose Yourself,Eminem
+340,Country,Keep on the Sunny Side,June Carter Cash
+341,Country,Next Big Thing,Vince Gill
+342,Country,It's Five O'clock Somewhere,Alan Jackson & Jimmy Buffett
+343,General,Don't Know Why,Norah Jones
+344,General,Don't Know Why,Norah Jones
+345,Pop,Don't Know Why,Norah Jones
+346,Pop,your Body is a Wonderland,John Mayer
+347,Pop,Hey Baby,No Doubt
+348,Pop,The Game of Love,Carlos santana & Michelle Branch
+349,Dance/Electronic Music,Days Go by,Dirty Vegas
+350,Rock,Steve Mcqueen,Sheryl Crow
+351,Rock,The Rising,Bruce Springsteen
+352,Rock,In My Place,Coldplay
+353,Rock,all My Life,Foo Fighters
+354,Rock,Here to Stay,Korn
+355,Rock,The Rising,Bruce Springsteen
+356,R&B,He Think i Don't Know,Mary j Blige
+357,R&B,u Don't Have to Call,Usher
+358,R&B,Little Things,Indiaarie
+359,R&B,Love of My Life (an Ode to Hip Hop),Erykah Badu Featuring Common
+360,Rap,Scream A.k.a. Itchin',Missy Elliott
+361,Rap,Hot in Herre,Nelly
+362,Rap,The Whole World,Outkast Featuring Killer Mike
+363,Country,Cry,Faith Hill
+364,Country,Give My Love to Rose,Johnny Cash
+365,Country,where Were you (when the World Stopped Turning),Alan Jackson
+366,General,Walk on,U2
+367,General,Fallin',Alicia Keys
+368,Pop,I'm Like a Bird,Nelly Furtado
+369,Pop,Don't Let Me be Lonely Tonight,James Taylor
+370,Pop,Stuck in a Moment you Can't Get Out of,U2
+371,Pop,Lady Marmalade,"Christina Aguilera, Lil' Kim, Mya & Pink"
+372,Pop,all for you,Janet Jackson
+373,Rock,Get Right with God,Lucinda Williams
+374,Rock,Dig in,Lenny Kravitz
+375,Rock,Elevation,U2
+376,Rock,Crawling,Linkin Park
+377,Rock,Schism,Tool
+378,Rock,Drops of Jupiter,Train
+379,R&B,Fallin',Alicia Keys
+380,R&B,u Remind Me,Usher
+381,R&B,Fallin',Alicia Keys
+382,Rap,Get Ur Freak on,"Missy ""Misdemeanor"" Elliott"
+383,Rap,Ms. Jackson,Outkast
+384,Country,Shine,Dolly Parton
+385,Country,o Death,Ralph Stanley
+386,Country,The Lucky One,Alison Krauss & Union Station
+387,General,Beautiful Day,U2
+388,General,Beautiful Day,"Bono, Adam Clayton, Edge, Larry Mullen Jr), Songwriter (U2"
+389,Pop,i Try,Macy Gray
+390,Pop,She Walks this Earth (Soberana Rosa),Sting
+391,Pop,Cousin Dupree,Steely Dan
+392,Pop,"Is you Is, or is you Ain't (My Baby)",Bb. King & Dr. John
+393,Pop,Who Let the Dogs Out,Baha Men
+394,Rock,There Goes the Neighborhood,Sheryl Crow
+395,Rock,Again,Lenny Kravitz
+396,Rock,Beautiful Day,U2
+397,Rock,Guerrilla Radio,Rage Against the Machine
+398,Rock,Elite,Deftones
+399,Rock,With Arms Wide Open,Creed
+400,R&B,He Wasn't Man Enough,Toni Braxton
+401,R&B,Untitled (How Does it Feel),D'angelo
+402,R&B,Say My Name,Destiny's Child
+403,Rap,The Real Slim Shady,Eminem
+404,Rap,Forgot About Dre,Dr Dre Featuring Eminem
+405,Country,Breathe,Faith Hill
+406,Country,Solitary Man,Johnny Cash
+407,Country,i Hope you Dance,Lee Ann Womack
+408,General,Smooth,santana featuring Rob Thomas
+409,General,Smooth,Santana Featuring Rob Thomas
+410,Pop,i will Remember you,Sarah Mclachlan
+411,Pop,Brand New Day,Sting
+412,Pop,Maria Maria,Santana
+413,Pop,Smooth,santana featuring Rob Thomas
+414,Pop,Believe,Cher
+415,Rock,Sweet Child O' Mine,Sheryl Crow
+416,Rock,American Woman,Lenny Kravitz
+417,Rock,Put your Lights on,santana featuring Everlast
+418,Rock,Whiskey in the jar,Metallica
+419,Rock,Iron Man,Black Sabbath
+420,Rock,Scar Tissue,Red Hot Chili Peppers
+421,R&B,It's not Right but It's Okay,Whitney Houston
+422,R&B,Staying Power,Barry White
+423,Rap,My Name is,Eminem
+424,Rap,you Got Me,The roots featuring Erykah Badu
+425,Country,Man! i Feel Like a Woman!,Shania Twain
+426,Country,Choices,George Jones
+427,Country,Come on over,Shania Twain

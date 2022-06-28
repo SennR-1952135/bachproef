@@ -1,0 +1,372 @@
+,city,address,state
+0,Omaha,10020 Regency Circle,NE
+1,Overland Park,6621 West 119th Street,KS
+2,Overland Park,7401 West 91st St,KS
+3,Town and Country,1160 Town and Country Crossing,MO
+4,Tulsa,1401 E. 41st St.,OK
+5,Saint Louis,1601 S. Brentwood Blvd,MO
+6,New Orleans,5600 Magazine Street,LA
+7,Austin,"Bldg B, Ste 800",TX
+8,Albuquerque,5815 Wyoming Blvd NE,NM
+9,Ann Arbor,3135 Washtenaw Ave,MI
+10,Sacramento,4315 Arden Way,CA
+11,Roswell,1180 Upper Hembree Rd,GA
+12,Arlington,2700 Wilson Blvd,VA
+13,Pasadena,465 South Arroyo Parkway,CA
+14,Asheville,70 Merrimon Ave,NC
+15,Andover,40 Railroad St.,MA
+16,Boca Raton,1400 Glades Rd,FL
+17,Atlanta,2111 Briarcliff Rd NE,GA
+18,Bedford,170 Great Rd,MA
+19,Bee Cave,12601 Hill Country Blvd,TX
+20,Houston,4004 Bellaire Blvd,TX
+21,Bethesda,5269 River Rd,MD
+22,Orlando,8003 Turkey Lake Road,FL
+23,Aventura,21105 Biscayne Blvd,FL
+24,Mill Valley,731 East Blithedale,CA
+25,Bellingham,255 Hartford Ave,MA
+26,San Jose,1146 Blossom Hill Road,CA
+27,Bellevue,888 116th Ave NE,WA
+28,Lakewood,444 S.Wadsworth Blvd,CO
+29,Bend,2610 Highway 20,OR
+30,Tigard,7380 SW Bridgeport Rd.,OR
+31,Brighton,15 Washington Street,MA
+32,Berkeley,3000 Telegraph Ave,CA
+33,Los Angeles,11737 San Vicente Blvd,CA
+34,West Hartford,340 N. Main St.,CT
+35,Boulder,2584 Baseline Rd.,CO
+36,Baton Rouge,7529 Corporate Blvd,LA
+37,Beverly Hills,239 North Crescent Dr,CA
+38,Cambridge,115 Prospect St,MA
+39,Capitola,1710 41st Avenue,CA
+40,Cary,102B New Waverly Place,NC
+41,Campbell,1690 South Bascom Ave,CA
+42,Chevy Chase,4420 Willard Ave.,MD
+43,Denver,2375 E. 1st Ave,CO
+44,Glen Mills,West Chester Pike,PA
+45,Santa Fe,753 Cerrillos Rd,NM
+46,Golden,14357 W. Colfax Ave.,CO
+47,Coral Gables,6701 Red Road,FL
+48,New York,250 7th Ave,NY
+49,Woodmere,27249 Chagrin Blvd,OH
+50,Mount Pleasant,923 Houston Northcutt Blvd,SC
+51,Minneapolis,3060 Excelsior Blvd,MN
+52,Chapel Hill,81 South Elliot Road,NC
+53,Chandler,2955 West Ray Road,AZ
+54,Chattanooga,301 Manufacturers Rd,TN
+55,Charlottesville,1797 Hydraulic Road,VA
+56,Chicago,6020 N Cicero Ave,IL
+57,Cincinnati,2693 Edmondson Rd.,OH
+58,New York,Lower Concourse Level of the Time Warner Center,NY
+59,Vancouver,510 West 8th Avenue,BC
+60,Marietta,70 Powers Ferry Rd SE,GA
+61,Santa Rosa,390 Coddingtown Mall,CA
+62,Glendale,870 S. Colorado Blvd.,CO
+63,Denver,900 E. 11th Ave.,CO
+64,Ann Arbor,990 W. Eisenhower Parkway,MI
+65,Carmel,14598 Clay Terrace Blvd.,IN
+66,Cranston,151 Sockanosset Cross Road,RI
+67,Boston,181 Cambridge St,MA
+68,Coral Springs,810 University Drive,FL
+69,University Heights,13998 Cedar Rd.,OH
+70,Darien,150 Ledge Road,CT
+71,Wayne,821 W. Lancaster Ave,PA
+72,Dedham,300 Legacy Place,MA
+73,Deerfield,760 Waukegan Rd,IL
+74,Durham,621 Broad Street,NC
+75,Columbus,3670 W. Dublin-Granville Rd,OH
+76,Johns Creek,5945 State Bridge Rd,GA
+77,Edgewater,905 River Road,NJ
+78,Encinitas,687 S. Coast Highway 101,CA
+79,Evanston,1640 Chicago Ave,IL
+80,Evanston,1111 Chicago Ave.,IL
+81,Fairfield,350 Grasmere Avenue,CT
+82,Los Angeles,6350 West 3rd Street,CA
+83,Portland,3535 NE 15th Ave.,OR
+84,Folsom,270 Palladio Parkway,CA
+85,Cambridge,200 Alewife Brook Pkwy,MA
+86,Framingham,575 Worcester Rd,MA
+87,San Francisco,1765 California St,CA
+88,Fairfax,4501 Market Commons Dr,VA
+89,Fresno,650 W. Shaw Ave.,CA
+90,Dallas,11700 Preston Rd,TX
+91,Las Vegas,8855 West Charleston Blvd.,NV
+92,Fort Collins,2201 S College Ave,CO
+93,Fort Lauderdale,2000 N Federal Hwy,FL
+94,Fairview,105 Stacy Rd.,TX
+95,Greensboro,3202 West Friendly Avenue,NC
+96,Nashville,4021 Hillsboro Pike,TN
+97,Glastonbury,55 Welles Street,CT
+98,Glendale,331 North Glendale Ave,CA
+99,Greenwich,90 E. Putnam Ave,CT
+100,Chicago,30 West Huron St,IL
+101,Washington,2323 Wisconsin Ave N.W.,DC
+102,Washington,2201 I Street NW,DC
+103,Austin,9607 Research Blvd.,TX
+104,Hadley,327 Russell St,MA
+105,Chicago,3640 N Halsted St,IL
+106,Oakland,230 Bay Place,CA
+107,Cottonwood Heights,6930 S. Highland Drive,UT
+108,Henderson,100 S. Green Valley Pkwy,NV
+109,Hingham,Derby Street Shoppes,MA
+110,San Diego,711 University Ave,CA
+111,Hinsdale,500 E. Ogden Ave.,IL
+112,Highlands Ranch,9366 S. Colorado Blvd.,CO
+113,West Hollywood,7871 Santa Monica Blvd,CA
+114,New York,95 East Houston St,NY
+115,Highland Park,4100 Lomo Alto Dr,TX
+116,Huntington Beach,7881 Edinger Ave Suite 150,CA
+117,Portland,4301 NE Sandy Blvd,OR
+118,Boulder,1275 Alpine Ave.,CO
+119,Indianapolis,1300 E. 86th St.,IN
+120,Baltimore,Suite A,MD
+121,Seattle,2001 15th Avenue W,WA
+122,Albuquerque,2103 Carlisle Boulevard NE,NM
+123,Tustin,2847 Park Avenue,CA
+124,Jacksonville,10601 San Jose Blvd,FL
+125,Jenkintown,1575 The Fairway,PA
+126,Jericho,429 North Broadway,NY
+127,Jamaica Plain,413 Centre Street,MA
+128,Kailua,"629 Kailua Road, Suite 100",HI
+129,Chicago,1550 N. Kingsbury Street,IL
+130,Houston,2955 Kirby Dr,TX
+131,Vancouver,2285 West 4th Avenue,BC
+132,Honolulu,4211 Wai'alae Avenue,HI
+133,Gaithersburg,316 Kentlands Blvd,MD
+134,Lafayette,3502 Mt. Diablo Blvd.,CA
+135,Laguna Beach,283 Broadway St.,CA
+136,La Jolla,8825 Villa La Jolla Dr,CA
+137,Los Altos,4800 El Camino Real,CA
+138,Long Beach,6550 E. Pacific Coast Highway,CA
+139,Lexington,161 Lexington Green Circle,KY
+140,Laguna Niguel,23932 Aliso Creek Road,CA
+141,Los Gatos,15980 Los Gatos Blvd,CA
+142,Lake Grove,120 New Moriches Road,NY
+143,Chicago,3300 N. Ashland Ave,IL
+144,Dallas,2118 Abrams Road,TX
+145,Portland,2825 East Burnside St.,OR
+146,Austin,525 N Lamar Blvd.,TX
+147,Lynnwood,2800 SW 196th St. SW,WA
+148,Louisville,4944 Shelbyville Road,KY
+149,Little Rock,10700 N. Rodney Parham,AR
+150,Las Vegas,6689 Las Vegas Blvd.,NV
+151,Madison,3313 University Ave,WI
+152,Birmingham,3100 Cahaba Village Plaza,AL
+153,Vauxhall,2245 Springfield Ave.,NJ
+154,Franklin,1566 West McEwen Drive,TN
+155,Medford,2151 Mystic Valley Parkway,MA
+156,Marietta,1311 Johnson Ferry Road NE,GA
+157,New York,Between 2nd & 3rd Avenue,NY
+158,Manhasset,2101 Northern Blvd,NY
+159,Red Bank,471 State Route 35 North,NJ
+160,Milford,1686 Boston Post Road,CT
+161,Vancouver,815 Southeast 160th Avenue,WA
+162,Mill Valley,414 Miller Ave,CA
+163,Milwaukee,2305 N. Prospect Ave,WI
+164,Kahului,70 Kaahumanu Ave #B,HI
+165,Montclair,701 Bloomfield Ave,NJ
+166,Santa Monica,1425 Montana Ave.,CA
+167,Marlton,940 Route 73 North,NJ
+168,Monterey,800 Del Monte Center,CA
+169,Mason,5805 Deerfield Boulevard,OH
+170,Minnetonka,1001 Plymouth Road,MN
+171,Houston,701 Waugh Drive,TX
+172,Baltimore,1330 Smith Ave,MD
+173,Northbrook,840 Willow Road,IL
+174,Colorado Springs,3180 New Center Point,CO
+175,Newton,916 Walnut St,MA
+176,San Francisco,3950 24th Street,CA
+177,Novato,790 De Long Avenue,CA
+178,Napa,3682 Bel Aire Plaza,CA
+179,Naples,9101 Strada Place,FL
+180,Naperville,2607 W. 75th Street,IL
+181,Raleigh,8710 Six Forks Rd,NC
+182,Newtonville,647 Washington Street,MA
+183,North Wales,1210 Bethlehem Pike,PA
+184,Oakville,301 Cornwall Rd,ON
+185,Oklahoma City,6001 N. Western Ave.,OK
+186,"Thousand Oaks,",740 North Moorpark Rd,CA
+187,Tucson,7133 N Oracle Rd,AZ
+188,Upper Arlington,1555 W. Lane Ave,OH
+189,Alexandria,1700 Duke St,VA
+190,Palo Alto,774 Emerson Street,CA
+191,Paramus,300 Bergen Town Center,NJ
+192,Pasadena,at Rosemead Blvd.,CA
+193,El Segundo,760 South Sepulveda Blvd.,CA
+194,Pinecrest,11701 South Dixie Highway,FL
+195,Pembroke Pines,14956 Pines Blvd,FL
+196,Petaluma,621 E. Washington St,CA
+197,Palm Beach Gardens,11701 Lake Victoria Gardens Ave,FL
+198,Philadelphia,2001 Pennsylvania Avenue,PA
+199,Park City,1748 W Redstone Center Dr.,UT
+200,Dallas,"8190 Park Lane, Suite 351",TX
+201,Arlington,801 East Lamar Blvd.,TX
+202,Plantation,7720 Peters Rd,FL
+203,Plymouth Meeting,500 W. Germantown Pike,PA
+204,Plano,2201 Preston Rd,TX
+205,Atlanta,650 Ponce de Leon Ave NE,GA
+206,Colorado Springs,7635 North Academy Blvd,CO
+207,Boulder,2905 Pearl St,CO
+208,Princeton,3495 US Route 1 South,NJ
+209,Providence,261 Waterman St,RI
+210,Portland,1210 NW Couch St,OR
+211,West Vancouver,925 Main St,BC
+212,Washington,1440 P Street NW,DC
+213,Pittsburgh,5880 Centre Ave,PA
+214,San Francisco,450 Rhode Island St,CA
+215,Portland,2 Somerset St,ME
+216,Northridge,19340 Rinaldi Street,CA
+217,Phoenix,10810 N Tatum Blvd,AZ
+218,San Antonio,"255 E. Basse Rd, Ste. 130",TX
+219,Raleigh,3540 Wade Ave,NC
+220,San Ramon,100 Sunset Drive,CA
+221,Vancouver,1675 Robson Street,BC
+222,Rochester Hills,2918 Walton Blvd,MI
+223,Madison,222 Main St,NJ
+224,Redondo Beach,405 North Pacific Coast Hwy,CA
+225,Ridgewood,44 Godwin Ave,NJ
+226,Redwood City,1250 Jefferson Ave,CA
+227,Reston,11660 Plaza America Dr,VA
+228,Redmond,17991 NE Redmond Way,WA
+229,Reno,6139 S. Virginia Street,NV
+230,Roseville,1001 Galleria Blvd.,CA
+231,Seattle,1026 NE 64th Street,WA
+232,River Forest,7245 Lake St,IL
+233,Cambridge,340 River St,MA
+234,Rockville,11355 Woodglen Drive,MD
+235,Sarasota,1451 1st Street,FL
+236,Miami Beach,1020 Alton Road,FL
+237,Santa Barbara,3761 State Street,CA
+238,Schaumburg,750 N. Martingale Rd.,IL
+239,Phoenix,7111 E. Mayo Blvd.,AZ
+240,Atlanta,5930 Roswell Rd,GA
+241,Sebastopol,6910 McKinley St,CA
+242,Sugar Land,15900 Southwest Freeway,TX
+243,Sherman Oaks,12905 Riverside Dr,CA
+244,Sherman Oaks,4520 N. Sepulveda Blvd,CA
+245,Chicago,1101 S. Canal St,IL
+246,Santa Monica,2201 Wilshire Blvd,CA
+247,San Mateo,1010 Park Place,CA
+248,Sonoma,201 W.Napa St,CA
+249,San Francisco,399 4th Street,CA
+250,Philadelphia,929 South St,PA
+251,Tucson,3360 E. Speedway Blvd.,AZ
+252,Glen Allen,11173 West Broad Street,VA
+253,Springfield,8402 Old Keene Mill Rd,VA
+254,Mississauga,155 Square One Drive,ON
+255,San Rafael,340 Third St,CA
+256,Santa Rosa,1181 Yulupa Ave,CA
+257,Silver Spring,833 Wayne Ave,MD
+258,Troy,2880 West Maple Rd,MI
+259,Cupertino,20955 Stevens Creek Blvd,CA
+260,Santa Fe,1090 S. Saint Francis Drive,NM
+261,San Francisco,690 Stanyan Street,CA
+262,St Paul,30 South Fairview Ave,MN
+263,Santa Cruz,911 Soquel Ave,CA
+264,Salt Lake City,1131 E. Wilmington Ave.,UT
+265,Superior,303 Marshall Rd.,CO
+266,Swampscott,331 Paradise Rd,MA
+267,Boston,15 Westland Ave,MA
+268,Hillsboro,19440 NW Cornell Rd,OR
+269,Tempe,5120 S. Rural Rd,AZ
+270,Washington,4530 40th St NW Tenley Circle,DC
+271,Torrance,2655 Pacific Coast Hwy,CA
+272,Tampa,1548 North Dale Mabry Highway.,FL
+273,New York,270 Greenwich Street,NY
+274,Tarzana,18700 Ventura Blvd,CA
+275,Salt Lake City,544 South 700 East,UT
+276,Las Vegas,7250 W. Lake Mead Blvd.,NV
+277,Falls Church,7511 Leesburg Pike,VA
+278,Providence,601 N Main St,RI
+279,New York,4 Union Square South,NY
+280,New York,808 Columbus Avenue,NY
+281,Santa Clarita,24130 Valencia Blvd,CA
+282,Venice,225 Lincoln Blvd.,CA
+283,Metairie,3420 Veterans Memorial Blvd,LA
+284,Vienna,143 Maple Ave East,VA
+285,Walnut Creek,1333 Newell Ave,CA
+286,Wayland,317 Boston Post Rd,MA
+287,West Bloomfield,7350 Orchard Lake Road,MI
+288,Willowbrook,201 63rd St,IL
+289,Greenville,1140 Woodruff Road,SC
+290,Woodland Hills,21347 Ventura Blvd,CA
+291,West Des Moines,4100 University Ave,IA
+292,West Hartford,50 Raymond Rd,CT
+293,White Plains,110 Bloomingdale Road,NY
+294,Houston,11145 Westheimer Rd,TX
+295,Winston-Salem,41 Miller St,NC
+296,Los Angeles,11666 National Blvd,CA
+297,Santa Monica,500 Wilshire Blvd.,CA
+298,Wellington,2635 State Road 7,FL
+299,Wellesley,442 Washington Street,MA
+300,Woburn,400 Cambridge Rd,MA
+301,West Orange,235 Prospect Ave,NJ
+302,Atlanta,77 West Paces Ferry Rd NW,GA
+303,Winter Park,1989 Aloma Ave,FL
+304,Westport,399 Post Road West,CT
+305,Seattle,2210 Westlake Ave,WA
+306,Westminster,9229 N. Sheridan Blvd.,CO
+307,Denver,1111 S. Washington St.,CO
+308,Wheaton,151 Rice Lake Square,IL
+309,Los Angeles,1050 S. Gayley Ave,CA
+310,Houston,Suite 149,TX
+311,Wynnewood,339 East Lancaster Ave,PA
+312,Toronto,87 Avenue Rd,ON
+313,Wexford,10576 Perry Highway,PA
+314,Denver,7400 E. Hampden Ave,CO
+315,Edina,7401 France Ave S,MN
+316,Annapolis,Suite 100,MD
+317,Yonkers,1 Ridge Hill Blvd.,NY
+318,Wilmington,3804 Oleander Drive,NC
+319,San Antonio,18403 Blanco Road,TX
+320,San Francisco,1150 Ocean Ave,CA
+321,Davis,500 First Street,CA
+322,Charlotte,6610 Fairview Rd.,NC
+323,Basalt,340 Reed Street,CO
+324,Tampa,3802 Northdale Blvd.,FL
+325,Markham,3997 Highway 7,ON
+326,Boise,401 S. Broadway Street,ID
+327,Detroit,115 Mack Ave.,MI
+328,Newport Beach,415 Newport Center Drive,CA
+329,Virginia Beach,1800 Laskin Road,VA
+330,Oxnard,650 Town Center Drive,CA
+331,Columbia,Suite 300,SC
+332,Orland Park,15260 S. LaGrange Road,IL
+333,Mishawaka,4230 Grape Road,IN
+334,Tucson,5555 E. River Road,AZ
+335,Del Mar,"2600 Via De La Valle, Suite 100",CA
+336,Katy,6601 S. Fry Road,TX
+337,Littleton,5155 S. Wadsworth Blvd.,CO
+338,Kildeer,20281 N Rand Road,IL
+339,Brookline,1028 Beacon Street,MA
+340,Maple Grove,12201 Elm Creek Blvd N,MN
+341,Minneapolis,222 Hennepin Avenue,MN
+342,North Miami,12150 Biscayne Blvd,FL
+343,Danbury,5C Sugar Hollow Road,CT
+344,Fremont,3111 Mowry Avenue,CA
+345,Addison,"5100 Belt Line Road, Suite 1012",TX
+346,Lincoln,6055 O Street,NE
+347,Phoenix,4701 N. 20th Street,AZ
+348,South Weymouth,35 Pleasant Street,MA
+349,Melrose,880 Main Street,MA
+350,Charlestown,51 Austin St.,MA
+351,Lynnfield,(at MarketStreet Lynnfield),MA
+352,Savannah,Suite 101,GA
+353,Port Chester,575 Boston Post Road,NY
+354,Somerville,45 Beacon Street,MA
+355,Tallahassee,1817 Thomasville Road,FL
+356,Arlington,808 Massachusetts Avenue,MA
+357,Park Ridge,225 W. Touhy Ave,IL
+358,San Francisco,2001 Market Street,CA
+359,Frisco,261 Lusher Court,CO
+360,Brooklyn,214 3rd Street,NY
+361,New Orleans,Suite 103,LA
+362,Tulsa,9136 South Yale Avenue,OK
+363,Jackson,Exit 100,MS
+364,Austin,11920 Domain Drive,TX
+365,Centennial,Suite 119,CO
+366,Memphis,5014 Poplar Avenue,TN
+367,Flagstaff,320 S. Cambridge Lane,AZ
+368,Prescott,1112 Iron Springs Rd.,AZ
+369,Sedona,1420 West Hwy. 89A,AZ
+370,San Luis Obispo,1531 Froom Ranch Way,CA

@@ -1,0 +1,16 @@
+,name
+0,utm.tag
+1,access.mailing.contact.mm.user
+2,access.mailing.contact.subscription.mm.user
+3,access.mailing.list.mm.user
+4,utm.stage
+5,utm.campaign
+6,access.mailing.mailing.mm.user
+7,access.mailing.mailing.system
+8,mailing.trace.user
+9,access.mailing.trace.mm.user
+10,access.mailing.trace.report.mm.user
+11,access_utm_source
+12,access_ir_mail_server
+13,access.mail.blacklist.mass_mailing_user
+14,access.link.tracker.mailing

@@ -1,0 +1,268 @@
+,address,city,state,name
+0,103 Cherry St,Seattle,WA,Cherry Street Coffee
+1,,Seattle,WA,The Central Saloon
+2,103 First ave S.,Seattle,WA,J & M Cardroom
+3,114 First Ave.,Seattle,WA,New Orleans Creole Restaurant
+4,421 First Ave S,Seattle,WA,Cowgirls Inc
+5,73 Yesler,Seattle,WA,Pioneer Square Saloon
+6,109 S Washington st,Seattle,WA,Comedy Underground
+7,164 S Washington St,Seattle,WA,Fuel
+8,172 S. Washington St.,Seattle,WA,Heavens
+9,124 S Washington St.,Seattle,WA,Last Supper Club
+10,173 S Washington St,Seattle,WA,McCoy\u2019s Firehouse
+11,111 Yesler Way,Seattle,WA,Trinity
+12,407 2nd Ave,Seattle,WA,Double Header
+13,526 2nd Ave,Seattle,WA,Collins Pub
+14,528 2nd Ave,Seattle,WA,Azure
+15,166 S King St,Seattle,WA,Tiki Bobs and King St Bar
+16,171 S Jackson St,Seattle,WA,Zeitgeist Kunst and Kaffee
+17,101 Denny Way,Seattle,WA,Blush Lounge
+18,2922 1St Ave,Seattle,WA,Desert Sun Tanning Center
+19,2915 1st Ave,Seattle,WA,Allure Salon
+20,2800 1st Ave,Seattle,WA,Vela's
+21,2619 1st Ave,Seattle,WA,Cj's Eatery
+22,93 Wall St,Seattle,WA,Wax On Spa
+23,89 Wall St,Seattle,WA,Rudy's Barbershop
+24,2421 1st Ave,Seattle,WA,Cyclops
+25,2416 1St Ave,Seattle,WA,Kiko-House of Couture
+26,2328 1st Ave.,Seattle,WA,Taberna del Albardero
+27,2323 1st Ave,Seattle,WA,Ventana's
+28,2313 1st Ave,Seattle,WA,Twist Restaurant & Lounge
+29,2301 1st Ave,Seattle,WA,Salon Ciba
+30,2207 First Ave,Seattle,WA,Ohana
+31,2201 1st Ave,Seattle,WA,Queen City Grill
+32,2203 1st Ave,Seattle,WA,Frontier Room
+33,2214 1st Ave,Seattle,WA,Amber
+34,90 Blanchard St,Seattle,WA,Belltown Billiards
+35,2127 1st Ave,Seattle,WA,Gary Manuel Hair Salon
+36,2123 1st Ave Ste. B,Seattle,WA,Buffalo Deli
+37,2121 1st Ave,Seattle,WA,Cherry St. Coffee House
+38,2218 Western Ave,Seattle,WA,Venom Nightclub
+39,2018 1st Ave,Seattle,WA,Vain
+40,2001 1st Ave.,Seattle,WA,Kucumber Skin Lounge
+41,1909 1st Ave,Seattle,WA,Caf\u00e9 Lieto
+42,1919 First Ave,Seattle,WA,Sonyas
+43,1901 1st Ave,Seattle,WA,ZebraClub
+44,86 Pine St.,Seattle,WA,Inn at the Market
+45,95 Pine St,Seattle,WA,SteelHead Diner
+46,1525 1st Ave,Seattle,WA,Pike\u2019s Place Bagel Bakery
+47,1415 1st Ave,Seattle,WA,Pike Brewery
+48,108 Union St.,Seattle,WA,Caffe Ladro
+49,1201 1st Ave,Seattle,WA,Ocean Nail and Spa
+50,1225 1st Ave,Seattle,WA,Ipanema
+51,1215 1st Ave,Seattle,WA,Finerie
+52,1009 First Ave,Seattle,WA,Bookstore A Bar
+53,807 1st Ave,Seattle,WA,Contour
+54,2125 Western Ave,Seattle,WA,Twilight
+55,1501 Western Ave,Seattle,WA,Zig Zag Caf\u00e9
+56,2421 2nd Ave,Seattle,WA,Bellino Coffee
+57,2411 2nd Ave,Seattle,WA,La Vita Bella Caf\u00e9
+58,2332 2nd Ave,Seattle,WA,Rob Roy
+59,2322 2nd Ave,Seattle,WA,Rendevous
+60,2321 2nd Ave,Seattle,WA,Stylus Salon & Spa
+61,2318 2nd Ave,Seattle,WA,Karma
+62,2311 2nd Ave,Seattle,WA,Wasabi Bistro
+63,2226 2nd Ave,Seattle,WA,Lava Lounge
+64,2222 2nd Ave # A,Seattle,WA,Shorty\u2019s
+65,2219 2nd Ave,Seattle,WA,Caf\u00e9 Casbah
+66,2214 2nd Ave,Seattle,WA,Tulas
+67,2000 2nd Ave,Seattle,WA,Whiskey Bar
+68,125 Stewart St,Seattle,WA,Caf\u00e9 Darte
+69,731 Westlake Ave N,Seattle,WA,Jillian\u2019s
+70,2219 4th Ave,Seattle,WA,Spitfire
+71,2510 4th Ave,Seattle,WA,Zeitoon
+72,2504 4th Ave,Seattle,WA,Uptown Espresso
+73,405 Cedar St,Seattle,WA,Sublime
+74,2100 5th Ave,Seattle,WA,Top Pot Doughnuts
+75,2130 6th Ave,Seattle,WA,KingCat Theater
+76,Westlake Mall,Seattle,WA,Bad Reputation
+77,515 Madison,Seattle,WA,Renaissance Hotel
+78,1100 4th Ave,Seattle,WA,Jasmine
+79,1101 4th Ave.,Seattle,WA,Sazerac
+80,1112 4th Ave,Seattle,WA,W Hotel (Earth and Ocean Bar)
+81,1100 5th Ave,Seattle,WA,Tulio Ristorante
+82,1427 5th Ave suite 104,Seattle,WA,Julep Nail Parlor
+83,1415 5th Ave,Seattle,WA,Elephant and Castle
+84,1407 5th Ave,Seattle,WA,Turegon Rain
+85,1301 6th Ave,Seattle,WA,The Hilton
+86,1506 6th Ave,Seattle,WA,Taphouse Grill
+87,1500 6th AvE,Seattle,WA,NikeTown
+88,1531 7th Ave,Seattle,WA,The Roosevelt
+89,1725 Pike St  # 14,Seattle,WA,Sense Nail Spa
+90,724 Pine St,Seattle,WA,The Paramount Hotel
+91,1635 8th St,Seattle,WA,The Hyatt @ Olive 8
+92,1721 Pine St,Seattle,WA,The Hyatt
+93,3218 Eastlake Ave E,Seattle,WA,Kristos
+94,2947 Eastlake Ave E.,Seattle,WA,Eastlake Bar and Grill
+95,2245 Eastlake Ave E,Seattle,WA,Voxx Coffee
+96,1600 Melrose Avenue,Seattle,WA,Chapel Bar
+97,611 E. Pine Street,Seattle,WA,611 Supreme
+98,707 E Pine Street,Seattle,WA,Linda's Tavern
+99,700 E. Pine,Seattle,WA,Hot Mama\u2019s Pizza
+100,725 E. Pine St,Seattle,WA,Bill\u2019s Off Broadway
+101,1207 Pine St,Seattle,WA,Baltic Room
+102,1213 Pine St.,Seattle,WA,Raven Hair
+103,1319 E. Pine St,Seattle,WA,Salon Moxi
+104,1318 E Pine St,Seattle,WA,Aria Salon
+105,511 E Pike St,Seattle,WA,Kaladi Brothers Coffee
+106,421 E Pine St.,Seattle,WA,Zero Zero Hair Salon
+107,300 E Pike St,Seattle,WA,Six Arms
+108,1117 12th Ave E,Seattle,WA,Caf\u00e9 Press
+109,723 East Pike St,Seattle,WA,Salon Chemistry
+110,1130 Broadway,Seattle,WA,Garage
+111,1424 Harvard Ave,Seattle,WA,Solar Tan
+112,1000 E Pike St.,Seattle,WA,Poquito's Restaurant
+113,915 E. Pike St,Seattle,WA,Platinum records
+114,1425 10th Avenue,Seattle,WA,Moe Bar
+115,1121 Pike St.,Seattle,WA,Red X Hair Studio
+116,1112 Pike Street,Seattle,WA,Goods
+117,1100 Pike St,Seattle,WA,Tango
+118,1525 Melrose Ave,Seattle,WA,Sonic Boom
+119,1101 E Pike St,Seattle,WA,Pettirosso Coffee Shop
+120,1420 12th Ave,Seattle,WA,Barrio
+121,1429 12th Ave,Seattle,WA,La Spiga
+122,1200 E Pike St,Seattle,WA,Chao Bistro and Bar
+123,1005 East Pike St,Seattle,WA,Caf\u00e9 Vita
+124,1514 10th Ave E,Seattle,WA,Gary Manuel Aveda Institute
+125,1523 10th Ave E,Seattle,WA,EveryDay Music
+126,1422 E Pine St,Seattle,WA,Polished Boutique Spa
+127,1318 E. Pike st.,Seattle,WA,"Rock, Paper, Scissors"
+128,1424 E. Pine St,Seattle,WA,Zaw Pizza
+129,1525 E Olive Way,Seattle,WA,Amante Pizza and Pasta
+130,700 Broadway E,Seattle,WA,GLISTEN Tanning
+131,810 E. Roy St,Seattle,WA,JOE Bar
+132,312 Broadway E,Seattle,WA,Red Light Boutique
+133,231 Broadway E.,Seattle,WA,Metro Clothing Co
+134,113 Broadway E,Seattle,WA,Broadway Boutique
+135,1509 Broadway,Seattle,WA,Neighbours
+136,350 15th Ave E,Seattle,WA,Palermo Pasta and Pizza
+137,435 15th Ave E,Seattle,WA,Caf\u00e9 Ladro
+138,517 15th Ave E,Seattle,WA,Liberty
+139,411 15th Ave E,Seattle,WA,Victrola Coffee
+140,518 15th Ave E,Seattle,WA,The Bar \/ Olympic Pizza
+141,534 15th Ave,Seattle,WA,Canterbury Ale and Eats
+142,2205 Queen Anne Ave N,Seattle,WA,Caf\u00e9 Ladro
+143,2125 Queen Anne Ave N,Seattle,WA,Paragon
+144,1531 Queen Anne Ave N,Seattle,WA,Desert Sun
+145,621 1\/2 Queen Anne Ave  N,Seattle,WA,Oskar's Kitchen
+146,605 Queen Anne Ave N,Seattle,WA,Peso\u2019s Kitchen & Lounge
+147,601 Queen Anne Ave N,Seattle,WA,Toulouse Petit
+148,600 Queen Anne Ave N,Seattle,WA,Caf\u00e9 Ladro
+149,526 Queen Anne Ave N,Seattle,WA,Mecca Caf\u00e9
+150,20 Mercer St,Seattle,WA,Easy Street Records and CD\u2019s
+151,521 1st Ave N,Seattle,WA,Floyds Place
+152,105 W Mercer St,Seattle,WA,Ozzies Roadhouse
+153,701 5th N,Seattle,WA,Silver Platters
+154,3517 Fremont Ave. N,Seattle,WA,Dubliner
+155,3526 Fremont Pl N,Seattle,WA,Postmark Gelato
+156,3507 Fremont Pl N,Seattle,WA,Triangle Lounge
+157,513 N 36th St,Seattle,WA,The White Rabbit
+158,513 N 36th St,Seattle,WA,High Dive
+159,475 N 36th St,Seattle,WA,Rudy\u2019s Barber Shop
+160,456 N 36th St,Seattle,WA,Ballroom in Fremont
+161,452 N 36th St,Seattle,WA,Caf\u00e9 Ladro
+162,460 N 36th St,Seattle,WA,Norm's Eatery & Ale House
+163,206 N 36th St,Seattle,WA,George & Dragon Pub
+164,3401 Evanston Ave N,Seattle,WA,Red Door Alehouse
+165,14419 Greenwood Ave N,Seattle,WA,Diva Espresso
+166,8415 Greenwood Ave N,Seattle,WA,Neptune Coffee
+167,213 N 85th St,Seattle,WA,Gorditos
+168,8118 Greenwood Ave N,Seattle,WA,Bleachers
+169,6822 Greenwood Ave N,Seattle,WA,Olivers Twist
+170,6415 Phinney Ave N,Seattle,WA,Rudy\u2019s Barber Shop
+171,400 N 43rd,Seattle,WA,Lighthouse Roasters
+172,4301 Fremont Ave,Seattle,WA,Caf\u00e9 Vita Coffee
+173,7317 Aurora Ave,Seattle,WA,Duck Island Ale House
+174,7311 Aurora Ave N,Seattle,WA,Beth\u2019s Caf\u00e9
+175,7012 Woodlawn Ave NE,Seattle,WA,Revolutions Espresso Bakery
+176,9560 1st Ave Northeast,Seattle,WA,Silver Platters Northgate
+177,8801 Roosevelt Way NE,Seattle,WA,Cloud City Coffee
+178,6508 Roosevelt Way NE,Seattle,WA,Atlantic Crossing
+179,Roosevelt Square,Seattle,WA,Whole Foods
+180,6106 Roosevelt Way NE,Seattle,WA,Die Bierstube
+181,5300 Roosevelt Way,Seattle,WA,Dante\u2019s
+182,5611 University Way NE,Seattle,WA,Herkimer Coffee
+183,5613 University Way NE,Seattle,WA,10 Pachi Modern Salon
+184,4738 University Way NE,Seattle,WA,Rudy\u2019s Barber Shop
+185,4727 University Way NE,Seattle,WA,Shinka Tea
+186,4730 University Way NE,Seattle,WA,Seattle Sun Tan
+187,4560 University Way NE,Seattle,WA,Red Light Clothing Exchange
+188,4527 University Way NE,Seattle,WA,Lounjin
+189,4757 12th Ave NE,Seattle,WA,Chaco Canyon Organic Caf\u00e9
+190,4333 University Way NE,Seattle,WA,Earls on the Ave
+191,1312 NE 43rd St.,Seattle,WA,Kai\u2019s Bistro and Lounge
+192,4217 University Way NE,Seattle,WA,Finn Mac Cools
+193,4201 University Way NE,Seattle,WA,Caf\u00e9 on the Ave
+194,4133 University Way NE,Seattle,WA,Big Time Brewery & Alehouse
+195,4116 University Way NE,Seattle,WA,Caf\u00e9 Solstice
+196,4606 25th Ave NE,Seattle,WA,Seattle Sun Tan
+197,5101 25th Ave NE,Seattle,WA,Urbanity
+198,1309 NE 45th St,Seattle,WA,Trabant Coffee & Chai
+199,722 NE 45th St,Seattle,WA,Fusion Ultra Lounge
+200,5144 Ballard Ave NW,Seattle,WA,The Lock and Keel Tavern
+201,5306 Ballard Ave NW,Seattle,WA,Cugini Caf\u00e9
+202,5231 Ballard Ave NW,Seattle,WA,Hatties Hat Restaurant
+203,5229 Ballard Ave NW,Seattle,WA,Rudy\u2019s Barber Shop
+204,5429 Ballard Ave NW,Seattle,WA,The People\u2019s Pub
+205,5401 Ballard Ave NW,Seattle,WA,Vain
+206,5819 24th Ave NW,Seattle,WA,Jave Bean Coffee
+207,2209 NW Market St,Seattle,WA,Sonic Boom Records
+208,1545 NW Market St.,Seattle,WA,Desert Sun
+209,1722 NW Market Street,Seattle,WA,The Old Peculiar
+210,1514 NW Leary Way,Seattle,WA,Maritime Pacific Brewery
+211,1111 NW Leary Way,Seattle,WA,Wild at Heart
+212,4910 Leary Way NW,Seattle,WA,Shelter Lounge
+213,5400 Leary Way NW,Seattle,WA,Source Salon & Spa
+214,5405 Leary Ave NW,Seattle,WA,Caffe Fiori
+215,5458 Leary Ave NW,Seattle,WA,Zaw Pizza
+216,227 Yale Ave N,Seattle,WA,Caf\u00e9 Vivace
+217,422 Yale Ave N,Seattle,WA,Feirabend
+218,434 Yale Ave N,Seattle,WA,Zaw Pizza
+219,1253 Thomas,Seattle,WA,Lunchbox Experiment
+220,900 Lenora St.,Seattle,WA,2200 Condos
+221,1001 Fairview Ave,Seattle,WA,Citrus
+222,2208 N 45th St,Seattle,WA,Rain Modern Japanese Sushi
+223,2202 N 45th St,Seattle,WA,Sea Monster Lounge
+224,2121 N 45th St,Seattle,WA,Iron Bull
+225,1928 N 45th St,Seattle,WA,Murphy\u2019s Pub
+226,1723 N 45th St.,Seattle,WA,Babalu
+227,1605 N 45th St,Seattle,WA,Fuel Coffee
+228,1612 N 45th St,Seattle,WA,May
+229,45th and Stone Way,Seattle,WA,Desert Sun
+230,4559 California Ave SW,Seattle,WA,Easy Street Records
+231,201 Bellevue Square,Seattle,WA,Arden B
+232,202 Bellevue Square,Seattle,WA,Road
+233,251 Bellevue Square,Seattle,WA,Zebra Club
+234,245 Bellevue Square,Seattle,WA,Puma
+235,535 Bellevue Square,Seattle,WA,Z Tejas
+236,550 106th Ave NE #103,Seattle,WA,Rock Bottom
+237,11111 Ne 8th St. Braven,Seattle,WA,David Barton Gym
+238,700 110th Ave NE Bravern,Seattle,WA,Karen Miller
+239,700 110th Ave NE Bravern,Seattle,WA,Red Door Spa
+240,11020 NE 6th St. Bravern,Seattle,WA,Wild Ginger
+241,10500 NE 8th Street  Suite 214,Seattle,WA,Obidiah Salon
+242,5 Bellevue Way NE,Seattle,WA,Rudy\u2019s Barber Shop
+243,700 Bellevue Way NE,Seattle,WA,Earl's
+244,211 Bellevue Way NE,Seattle,WA,Max Muscle
+245,221 Bellevue Way NE,Seattle,WA,Julep Nail Salon
+246,Bellevue Sq. Walkway,Seattle,WA,Munchbar
+247,700 Bellevue Way NE,Seattle,WA,Lucky Strike
+248,700 Bellevue Way NE,Seattle,WA,The Parlor Billiards
+249,700 Bellevue Way NE,Seattle,WA,Pearls
+250,700 Bellevue Way NE,Seattle,WA,The Westin Hotel
+251,8544 122nd Ave NE,Seattle,WA,Valhalla bar & Grill
+252,222 Park Place,Seattle,WA,Lucia
+253,442 Parkplace Center,Seattle,WA,Rikki Rikki
+254,216 Park Lane,Seattle,WA,Rockstar Tan Bar
+255,218 Central Way,Seattle,WA,Time Out Sports Bar
+256,605 Market St,Seattle,WA,Gem Tattoo
+257,104 Central Way,Seattle,WA,Caf\u00e9 Lladro
+258,25 Central Way,Seattle,WA,Wax on Spa
+259,7 Lake t,Seattle,WA,The Grape Choice
+260,5 Lake Street,Seattle,WA,Seduce
+261,15 Lake St.,Seattle,WA,Vovina
+262,111 Central Way,Seattle,WA,Wilde Rover
+263,123 Lake St S,Seattle,WA,Salon Grotto
+264,88 Kirkland Ave,Seattle,WA,Kirkland Salon
+265,94 Kirkland Ave,Seattle,WA,The Shop
+266,106 Kirkland Ave,Seattle,WA,Tiki Joes

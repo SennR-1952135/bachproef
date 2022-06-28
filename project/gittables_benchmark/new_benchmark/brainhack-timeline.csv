@@ -1,0 +1,170 @@
+,country,city,continent
+0,Germany,Leipzig,Europe
+1,United States of America,Seattle,North America
+2,France,Paris,Europe
+3,Germany,Berlin,Europe
+4,United States of America,Ann Arbor,North America
+5,United States of America,Boston,North America
+6,United States of America,Miami,North America
+7,Canada,Montreal,North America
+8,United States of America,New York City,North America
+9,Brazil,Porto Alegre,South America
+10,Canada,Toronto,North America
+11,United States of America,Washington D.C.,North America
+12,United States of America,Honolulu,North America
+13,Canada,Montreal,North America
+14,United States of America,Ann Arbor,North America
+15,United States of America,Berkeley,North America
+16,United States of America,Los Angeles,North America
+17,United States of America,Miami,North America
+18,United States of America,New York City,North America
+19,United States of America,Seattle,North America
+20,Brazil,Porto Alegre,South America
+21,Mexico,Querétaro,North America
+22,France,Paris,Europe
+23,Switzerland,Lausanne,Europe
+24,Austria,Vienna,Europe
+25,United States of America,Los Angeles,North America
+26,Mexico,Queretaro,North America
+27,United States of America,Urbana,North America
+28,United States of America,Seattle,North America
+29,United States of America,New York City,North America
+30,United States of America,Madison,North America
+31,United States of America,Iowa,North America
+32,United States of America,Hanover,North America
+33,United States of America,Durham,North America
+34,United States of America,Washington D.C.,North America
+35,United States of America,Boston,North America
+36,United States of America,Bloomington,North America
+37,United States of America,Birmingham,North America
+38,United States of America,Ann Arbor,North America
+39,United States of America,Albuquerque,North America
+40,Canada,Toronto,North America
+41,Canada,Montreal,North America
+42,Canada,London,North America
+43,Switzerland,Zurich,Europe
+44,United Kingdom of Great Britain and Northern Ireland,York,Europe
+45,United Kingdom of Great Britain and Northern Ireland,Coventry,Europe
+46,Netherlands,Rotterdam,Europe
+47,France,Paris,Europe
+48,Germany,Munich,Europe
+49,Germany,Leipzig,Europe
+50,United Kingdom of Great Britain and Northern Ireland,Cambridge,Europe
+51,Spain,Bilbao,Europe
+52,Netherlands,Amsterdam,Europe
+53,Japan,Wako,Asia
+54,Singapore,Singapore,Asia
+55,China,Beijing,Asia
+56,Sweden,Stockholm,Europe
+57,Chile,Valparaíso,South America
+58,Brazil,Porto Alegre,South America
+59,United States of America,Miami,North America
+60,United States of America,San Francisco,North America
+61,United States of America,St. Louis,North America
+62,United States of America,Eugene,North America
+63,Belgium,Ghent,Europe
+64,France,Paris,Europe
+65,Canada,Vancouver,North America
+66,Canada,Toronto,North America
+67,Canada,Montreal,North America
+68,United Kingdom of Great Britain and Northern Ireland,London,Europe
+69,United States of America,Washington D.C.,North America
+70,Poland,Warsaw,Europe
+71,Germany,Leipzig,Europe
+72,France,Paris,Europe
+73,United States of America,Atlanta,North America
+74,China,Beijing,Asia
+75,France,Rennes,Europe
+76,Canada,Montreal,North America
+77,India,Hyderabad,Asia
+78,Ireland,Dublin,Europe
+79,United States of America,Ann Arbor,North America
+80,United States of America,Los Angeles,North America
+81,United States of America,New York City,North America
+82,United Kingdom of Great Britain and Northern Ireland,London,Europe
+83,Spain,San Sebastian,Europe
+84,Switzerland,Zurich,Europe
+85,Finland,Espoo,Europe
+86,France,Paris,Europe
+87,United States of America,Baltimore,North America
+88,United States of America,Bethesda,North America
+89,United States of America,Bloomington,North America
+90,United States of America,Boston,North America
+91,United States of America,Detroit,North America
+92,Canada,London,North America
+93,Germany,Leipzig,Europe
+94,Spain,Madrid,Europe
+95,Germany,Marburg,Europe
+96,United States of America,Birmingham,North America
+97,United States of America,New Haven,North America
+98,United States of America,San Francisco,North America
+99,Canada,Toronto,North America
+100,Sweden,Stockholm,Europe
+101,Germany,Magdeburg,Europe
+102,United States of America,Eugene,North America
+103,Croatia,Zagreb,Europe
+104,Belgium,Ghent,Europe
+105,United States of America,Miami,North America
+106,France,Paris,Europe
+107,Singapore,Singapore,Asia
+108,Campinas,Brazil,South America
+109,Switzerland,Zurich,Europe
+110,United States of America,Los Angeles,North America
+111,Italy,Padova,Europe
+112,Netherlands,Leiden,Europe
+113,Switzerland,Geneva,Europe
+114,Spain,San Sebastian,Europe
+115,Canada,Toronto,North America
+116,Italy,Rome,Europe
+117,United Kingdom of Great Britain and Northern Ireland,London,Europe
+118,Switzerland,Zurich,Europe
+119,Switzerland,Geneva,Europe
+120,United States of America,Austin,North America
+121,Italy,Padova,Europe
+122,United States of America,Atlanta,North America
+123,United States of America,Princeton,North America
+124,Germany,Marburg,Europe
+125,Canada,Toronto,North America
+126,Canada,London,North America
+127,France,Marseille,Europe
+128,United States of America,New York City,North America
+129,United States of America,Seattle,North America
+130,Brazil,Porto Alegre,South America
+131,United States of America,Boston,North America
+132,France,Rennes,Europe
+133,United Kingdom of Great Britain and Northern Ireland,Cambridge,Europe
+134,United States of America,New Haven,North America
+135,United States of America,Eugene,North America
+136,China,Shanghai,Asia
+137,Croatia,Zagreb,Europe
+138,Poland,Toruń,Europe
+139,United States of America,Washington D.C.,North America
+140,United States of America,Dallas,North America
+141,Sweden,Stockholm,Europe
+142,Canada,Montreal,North America
+143,Austria,Vienna,Europe
+144,Portugal,Lisbon,Europe
+145,China,Nanning,Asia
+146,Netherlands,Nijmegen,Europe
+147,United States of America,San Francisco,North America
+148,China,Beijing online,Asia
+149,Singapore,Singapore online,Asia
+150,Australia,Brisbane online,Australia
+151,Belgium,Louvain online,Europe
+152,Turkey,Ankara online,Asia
+153,Canada,Montreal online,North America
+154,Mexico,Querétaro online,North America
+155,United States of America,Austin online,North America
+156,United States of America,Bethesda online,North America
+157,Turkey,Ankara online,Asia
+158,United States of America,Pittsburgh online,North America
+159,Germany,Marburg online,Europe
+160,Canada,Ontario online,North America
+161,France,Marseille online,Europe
+162,United States of America,Princeton online,North America
+163,United States of America,NYC online,North America
+164,United States of America,DC online,North America
+165,China,Beijing online,Asia
+166,Ireland,Avoca online,Europe
+167,Croatia,Zagreb online,Europe
+168,Italy ,Padova online,Europe

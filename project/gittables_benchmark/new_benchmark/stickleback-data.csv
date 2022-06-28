@@ -1,0 +1,183 @@
+,position,species,origin
+0,55.0,actinobacterium,University of Oregon  
+1,56.0,actinobacterium,University of Oregon  
+2,57.0,actinobacterium,University of Oregon  
+3,58.0, violaccum,University of Oregon  
+4,, fluorescens,University of Oregon  
+5,60.0, cereus,University of Oregon  
+6,61.0, hydrophila,University of Oregon  
+7,62.0,metschrikouii,University of Oregon  
+8,63.0,,University of Oregon  
+9,64.0, cereus,University of Oregon  
+10,65.0,Lutiella nitroferrum or Chromobacerium violaccum,University of Oregon  
+11,66.0,actinobacterium,University of Oregon  
+12,,,University of Oregon  
+13,68.0, alginolyticus,University of Oregon  
+14,, denitrificans,University of Oregon  
+15,70.0, sp,University of Oregon  
+16,71.0, sp,University of Oregon  
+17,72.0, harvey or Sp. Ex25,University of Oregon  
+18,73.0, sp. M3-13 or megaterium,University of Oregon  
+19,,,University of Oregon  
+20,75.0,cereus,University of Oregon  
+21,76.0,cereus,University of Oregon  
+22,28.0, hydrophila,University of Oregon  
+23,29.0, hydrophila,University of Oregon  
+24,30.0, Sp.,University of Oregon  
+25,31.0, hydrophila,University of Oregon  
+26,32.0,Lutiella nitroferrum/Chromobacterium violaceum,University of Oregon  
+27,33.0,,University of Oregon  
+28,34.0,,University of Oregon  
+29,35.0,Lutiella nitroferrum/Chromobacterium violaceum,University of Oregon  
+30,36.0,,University of Oregon  
+31,37.0,,University of Oregon  
+32,38.0,,University of Oregon  
+33,39.0,sp.,University of Oregon  
+34,40.0,carboxivorans,University of Oregon  
+35,41.0,furnissii,University of Oregon  
+36,,,University of Oregon  
+37,43.0,,University of Oregon  
+38,44.0, sp.,University of Oregon  
+39,45.0, hydrophila/ salmonicida,University of Oregon  
+40,,,University of Oregon  
+41,47.0, hydrophila,University of Oregon  
+42,48.0, casselifavus,University of Oregon  
+43,,,University of Oregon  
+44,50.0, sp.,University of Oregon  
+45,51.0, delafieldii,University of Oregon  
+46,52.0,,University of Oregon  
+47,53.0, alginolyticus,University of Oregon  
+48,54.0,,University of Oregon  
+49,34.0,subtilis,University of Oregon  
+50,35.0,cereus,University of Oregon  
+51,36.0,putrefaciens,University of Oregon  
+52,37.0,sibiricum,University of Oregon  
+53,38.0,mendocina,University of Oregon  
+54,39.0,,University of Oregon  
+55,40.0,,University of Oregon  
+56,41.0,cryohalolentis,University of Oregon  
+57,42.0,subtilis,University of Oregon  
+58,43.0,subtilis,University of Oregon  
+59,44.0,,University of Oregon  
+60,45.0,,University of Oregon  
+61,46.0,odorifera,University of Oregon  
+62,47.0,mendocina,University of Oregon  
+63,48.0,,University of Oregon  
+64,,,University of Oregon  
+65,50.0,,University of Oregon  
+66,,,University of Oregon  
+67,,,University of Oregon  
+68,53.0,,University of Oregon  
+69,54.0,,University of Oregon  
+70,55.0,,University of Oregon  
+71,,,University of Oregon  
+72,57.0,,University of Oregon  
+73,58.0,,University of Oregon  
+74,,,University of Oregon  
+75,59.0,,University of Oregon  
+76,13.0,,University of Oregon  
+77,14.0,-,University of Oregon  
+78,,,University of Oregon  
+79,,,University of Oregon  
+80,15.0,-,University of Oregon  
+81,,,University of Oregon  
+82,,,University of Oregon  
+83,16.0,,University of Oregon  
+84,,,University of Oregon  
+85,,,University of Oregon  
+86,17.0,,University of Oregon  
+87,18.0,,University of Oregon  
+88,19.0,,University of Oregon  
+89,,,University of Oregon  
+90,,,University of Oregon  
+91,20.0,,University of Oregon  
+92,1.0,,University of Oregon  
+93,2.0,,University of Oregon  
+94,3.0,,University of Oregon  
+95,4.0,,University of Oregon  
+96,5.0,,University of Oregon  
+97,,,University of Oregon  
+98,,,University of Oregon  
+99,6.0,,University of Oregon  
+100,7.0,,University of Oregon  
+101,8.0,,University of Oregon  
+102,9.0,,University of Oregon  
+103,10.0,,University of Oregon  
+104,11.0,,University of Oregon  
+105,12.0,,University of Oregon  
+106,81.0,,University of Oregon  
+107,28.0,,University of Oregon  
+108,29.0,,University of Oregon  
+109,30.0,,University of Oregon  
+110,31.0,,University of Oregon  
+111,32.0,,University of Oregon  
+112,33.0,,University of Oregon  
+113,34.0,,University of Oregon  
+114,35.0,,University of Oregon  
+115,36.0,,University of Oregon  
+116,,,University of Oregon  
+117,,,University of Oregon  
+118,37.0,-,University of Oregon  
+119,,,University of Oregon  
+120,,,University of Oregon  
+121,38.0,,University of Oregon  
+122,39.0,,University of Oregon  
+123,40.0,,University of Oregon  
+124,41.0,,University of Oregon  
+125,42.0,,University of Oregon  
+126,43.0,,University of Oregon  
+127,44.0,,University of Oregon  
+128,45.0,,University of Oregon  
+129,46.0, cholerae,University of Oregon  
+130,47.0,,University of Oregon  
+131,48.0,,University of Oregon  
+132,49.0,,University of Oregon  
+133,50.0,,University of Oregon  
+134,51.0,,University of Oregon  
+135,52.0,,University of Oregon  
+136,53.0,,University of Oregon  
+137,54.0,,University of Oregon  
+138,55.0,,University of Oregon  
+139,56.0,,University of Oregon  
+140,57.0,,University of Oregon  
+141,58.0,,University of Oregon  
+142,59.0,,University of Oregon  
+143,60.0,,University of Oregon  
+144,61.0,,University of Oregon  
+145,62.0,,University of Oregon  
+146,63.0,,University of Oregon  
+147,64.0, anguillarum,University of Oregon  
+148,65.0, anguillarum,University of Oregon  
+149,66.0,,University of Oregon  
+150,67.0,,University of Oregon  
+151,68.0,,University of Oregon  
+152,69.0,,University of Oregon  
+153,,,University of Oregon  
+154,,,University of Oregon  
+155,,,
+156,,,
+157,1.0,,River Bend
+158,2.0,,River Bend
+159,3.0,,University of Oregon
+160,4.0,,River Bend
+161,5.0,,River Bend
+162,6.0,,University of Oregon
+163,7.0,,University of Oregon
+164,8.0,,River Bend
+165,9.0,,River Bend
+166,10.0,,River Bend
+167,11.0,,University of Oregon
+168,12.0,,University of Oregon
+169,13.0,,University of Oregon
+170,14.0,,University of Oregon
+171,15.0,,River Bend
+172,16.0,,University of Oregon
+173,17.0,,University of Oregon
+174,18.0,,University of Oregon
+175,19.0,,University of Oregon
+176,20.0,,University of Oregon
+177,21.0,,River Bend
+178,22.0,,River Bend
+179,23.0,,University of Oregon
+180,24.0,,University of Oregon
+181,,,

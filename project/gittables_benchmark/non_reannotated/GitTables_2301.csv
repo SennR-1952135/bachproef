@@ -1,0 +1,54 @@
+,name
+0,Factura de Inicio
+1,Factura
+2,Factura de Ventas y Servicios no Afectos o Exentos de IVA
+3,Factura Electrónica
+4,Factura no Afecta o Exenta Electrónica
+5,Liquidación Factura
+6,Liquidación Factura Electrónica
+7,Factura de Compra
+8,Factura de Compra Electrónica
+9,Nota de Débito
+10,Nota de Débito Electrónica
+11,Nota de Crédito
+12,Nota de Crédito Electrónica
+13,SRF Solicitud de Registro de Factura
+14,Factura de ventas a empresas del territorio preferencial ( Res. Ex. N° 1057
+15,Declaración de Ingreso (DIN)
+16,Declaración de Ingreso a Zona Franca Primaria
+17,Factura de Traspaso
+18,Factura de Reexpedición
+19,Boletas Venta Módulos ZF (todas)
+20,Facturas Venta Módulo ZF (todas)
+21,Ajuste aumento Tipo de Cambio (código 500)
+22,Ajuste disminución Tipo de Cambio (código 501)
+23,Boleta de Venta
+24,Boleta exenta
+25,Boleta Electrónica
+26,Boleta Exenta Electrónica
+27,Boleta de Honorarios
+28,Boleta de Honorarios Electrónica
+29,Orden de Compra
+30,Formulario Recepción
+31,Hoja Entrada Servicio
+32,Registro de Mercadería
+33,Liquidación
+34,Guía de Despacho
+35,Guía de Despacho Electrónica
+36,Factura de Exportación Electrónica
+37,Nota de Débito de Exportación Electrónica
+38,Nota de Crédito de Exportación Electrónica
+39,Nota de pedido
+40,Contrato
+41,Resolución
+42,Proceso ChileCompra
+43,Ficha ChileCompra
+44,DUS
+45,B/L (Conocimiento de embarque)
+46,AWB (Air Will Bill)
+47,MIC/DTA
+48,Carta de Porte
+49,Resolución del SNA donde califica Servicios de Exportación
+50,Pasaporte
+51,Certificado de Depósito Bolsa Prod. Chile.
+52,Vale de Prenda Bolsa Prod. Chile

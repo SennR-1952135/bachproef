@@ -1,0 +1,283 @@
+,city,state,duration
+0,Beaumont,TX,1 hour
+1,Palmdale,CA,unknown
+2,Pauncetony,PA,2 minutes
+3,Presque Isle,ME,2 mins
+4,Cullowhee,NC,hour
+5,Cullowhee,NC,hour
+6,Fort Polk,LA,5 min
+7,Verbena,AL,5 minutes
+8,West Milton,OH,10 minutes
+9,North Gower (Canada),ON,5 minutes
+10,Higgens Lake,MI,10 minutes
+11,Juneau,WI,20 seconds
+12,Van Nuys,CA,4 minutes
+13,Deland,FL,8 to 10 seconds
+14,Aiken,SC,60 seconds
+15,Huber Heights/Dayton,OH,3 min
+16,Higgins Lake,MI,10 minutes
+17,Val Caron (Canada),ON,10 mins
+18,Cordova,AK,5 HOURS
+19,West Orange,NJ,0:08
+20,New Orleans,LA,25 secounds
+21,York,ME,1 minute
+22,Charlotte,NC,
+23,Tullahoma,TN,15 minutes
+24,New Orleans,LA,10 seconds
+25,Oil City,PA,1-2 hours
+26,Davenport,IA,10 minutes
+27,Alpine,TX,45 minutes
+28,Nashville,TN,5 min.
+29,Chicago,IL,about 1 minute
+30,Rockford,IL,5 seconds
+31,Eastland,UT,1 hour
+32,Oneonta,AL,10 sec
+33,Owensboro,KY,2 to 5 SECONDS
+34,Houston,TX,45 minutes
+35,San Jose,CA,5 minutes
+36,Hopkinsville,KY,15-20 minutes
+37,La Junta,CO,20 seconds
+38,San Francisco (south of),CA,3 minutes
+39,Big Sandy,TX,90 minutes
+40,Bath,OH,45 min
+41,Memphis,TN,probably 15-20min
+42,Oak Creek,CO,20
+43,Missisauga (Canada),ON,60-90 seconds
+44,North of Colorado Springs,CO,4 to 5 seconds
+45,Oran,MO,15 seconds
+46,Fulton,MO,1 minutes
+47,Hudson,KS,One hour?
+48,Hudson,MA,45 Minutes
+49,Willow Beach,AZ,2 min
+50,Yakima,WA,40 minutes
+51,Chicago,IL,3 MINTUES
+52,New Orleans,LA,1 minute
+53,Fossil,OR,55 hours
+54,Chester,NJ,10 Minutes
+55,Deerwood,MN,2 seconds
+56,Weirton,WV,4 minutes
+57,Denton,TX,10 min
+58,Baskin,LA,5 to ten minutes
+59,Kalama,WA,4:00
+60,Spanaway,WA,unk
+61,Jamul (east of),CA,30-35 min.
+62,Independence,MO,Unknown
+63,Cuba City,IL,10 minutes
+64,Woodburn,IN,10 min
+65,Westerlo,NY,5 minuts
+66,Hattiesburg,MS,a few minutes
+67,Detroit,MI,15-20 mins.
+68,"Heber Springs, Greers Ferry Lake",AR,10 min.
+69,Chico,CA,5 mn
+70,Kelso,WA,hour
+71,Piedmont,OK,30 seconds
+72,Columbia,SC,5 minutes
+73,Denver,CO,5 min.
+74,Claremont,CA,25 minutes
+75,Toronto (Canada),ON,secconds
+76,Saskatoon (Canada),SK,2 Minutes
+77,Murfreesboro,TN,5 minutes
+78,"Sitka (North of, St. John Bay)",AK,5 min
+79,Bremen,IN,5 seconds
+80,Auburn/Montgomery (between),AL,30 minutes
+81,Cumberland,MD,30 min
+82,Elmira (Canada),ON,4 to 5 minutes
+83,Owensboro,KY,
+84,Rochester Hills,MI,5 minutes
+85,Colliers,WV,3 minutes
+86,Bridgeport (pond flowing out of Remington Arms compound),CT,about 3 hours of lost tim
+87,North Windham,ME,45 MIN.
+88,Holloman AFB,NM,1 hour
+89,Delta,UT,10 seconds
+90,King City,CA,7 to 10 Sec's
+91,Somersworth,NH,5-10 seconds
+92,Chubbuck,ID,multiple fly by
+93,Girard,OH,2 min.
+94,Canon AFB,NM,2 minutes
+95,Miami,FL,5 Mins.
+96,Gold Beach,OR,30 seconds
+97,Niagara Falls,NY,1-2 min.
+98,Redondo,WA,10 minutes
+99,Pullman/Allegan,MI,15
+100,Kent,OH,3-4 minutes
+101,Boardman,OH,60 minutes
+102,Greenville,SC,15min
+103,Glendale,AZ,45 minutes
+104,New Rochelle,NY,1 minute
+105,New Rochelle,NY,1 minute
+106,Spokane,WA,10-15 seconds
+107,Spokane,WA,10 seconds
+108,Lake Zurich,IL,two hours
+109,Mentor,OH,10 minutes
+110,East Haven,CT,1 minute
+111,Morganfield,KY,30 minutes
+112,Warren,OH,playing basketball
+113,Campbell,CA,12 seconds
+114,Lexington,KY,20 MIN
+115,Springfield,OH,30 minutes
+116,Pemberton,NJ,10-15 min
+117,Clarkston,GA,5 mins
+118,Chester,CA,2 minutes
+119,Grafton,MA,10 mins.
+120,Wilton,CT,2 minutes
+121,Windsor (Canada),ON,20 minutes
+122,Cohasset,MA,15 minutes
+123,Claremont,NC,3 hours
+124,Bridgeport,CT,5 mins.
+125,Hagerstown,MD,5 mins
+126,East Berkshire,VT,2 minutes
+127,Hagerstown,MD,1-2 min
+128,Salida,CO,5 minutes
+129,Gulf of Mexico (18 mi. from Bay County),FL,45 minutes
+130,Apple Valley/Burnsville,MN,Unknown
+131,Newark,DE,15 minutes
+132,Woodbridge,NJ,20 seconds
+133,Corning,NY,50 seconds
+134,Salem,MA,5 minutes
+135,Morgan City,LA,10 min
+136,Marfa,TX,3 menutes
+137,Bremerton,WA,5 minits
+138,Sebring,FL,3+ hours
+139,Scottsville,KY,30+ Minutes
+140,Fort Lauderdale,FL,3-5minutes
+141,New Albany,IN,1|30 min.
+142,Valencia,CA,1-2 minutes
+143,Bridgeview,IL,milliseconds
+144,Jacksonville,FL,2hrs
+145,Ottawa,IL,15 sec
+146,Hampton (Virgina Beach amusment park),VA,5 seconds
+147,Matheson (Canada),ON,3 seconds
+148,Overland Park,KS,10 seconds
+149,Evanston,IL,5 mins
+150,Carthage,MS,2 Hours
+151,Vining,MN,5 minutes
+152,Jermyn,PA,aprox. 5 seconds
+153,Live Oak,CA,5 Minutes
+154,Valley Falls,KS,3 minutes
+155,Mosinee,WI,5 to 15 min
+156,Boston,MA,5-8 minutes
+157,Council Bluffs,IA,2:00 HRS.
+158,Jackson,MS,10-15 minutes
+159,North Carolina (Highway 70),NC,1 hour
+160,Plantation,FL,3 minutes
+161,Lynden,WA,3-5 min
+162,Mishawaka,IN,5 MINUTES
+163,Benton,KY,10-20 seconds
+164,Maple Valley,WA,2hrs
+165,Bedford,VA,3 minutes
+166,Minot,ND,30 minutes
+167,Herkimer,NY,1-2 minutes
+168,New York City (Bronx),NY,5 to 10 minutes
+169,Kingston,MA,10 min
+170,Camden,NJ,5 mins
+171,New York,NY,15 minutes
+172,Hutchinson,KS,2 hours/next day 5 minute
+173,Los Angeles,CA,5 minutes
+174,Springfield,MO,20 min
+175,Columbus,GA,3 minutes
+176,South Haven,MI,15 Minutes
+177,Fort Scott,KS,5 minutes
+178,Minneapolis,MN,2to3minutes
+179,Ashland,OH,1 minute
+180,Gibralter,MI,4 hours
+181,Paulsboro,NJ,2 min
+182,Westline,PA,1 hour
+183,Ingersoll (Canada),ON,5 minutes
+184,Calera (outskirts of),AL,10-15 minutes
+185,Truckee/Lake Tahoe area,CA,15 minutets
+186,Pensacola,FL,1 minute
+187,Kingston,MA,15 min
+188,Harrisville,PA,Few minutes
+189,San Diego (Mission Bay Walk/Santa Clara Ct. M.B.),CA,3+min
+190,Bellingham,MA,5 min
+191,Live Oak,CA,5 Minutes
+192,Albany,NY,2 minutes
+193,Austin,MN,2hrs
+194,Janesville,WI,1/2hour+
+195,Shady Point,OK,1-5 minutes
+196,Roseville,MI,1 minute
+197,Erie (countryside),PA,10 minutes
+198,La Mesa,CA,2 min
+199,Rexburg,ID,4 hours
+200,Kentucky,KY,10min.
+201,Merkel,TX,5 minutes
+202,Tulsa,OK,25 minutes
+203,Commerce,TX,2 min
+204,Bells,TX,10 min.
+205,"Washington, D.C.",DC,two minutes
+206,Green Cove Springs,FL,1 hour
+207,Milo,MO,30 seconds
+208,Manistee,MI,15 minutes
+209,Madison,CT,45 minutes
+210,Ovid,CO,60 seconds
+211,Placerville,CA,3 seconds
+212,Douglasville,GA,1 hour
+213,North Miami,FL,1-2 seconds
+214,Davidson County,NC,9 min.
+215,Boulder  Creek,CA,20 minutes
+216,Niles,CA,1 min
+217,Langbank (Canada),SA,
+218,Tucson,AZ,15 minutes
+219,Oakville (Canada),ON,1 min
+220,Terrytown,LA,Half hour
+221,Colorado Springs,CO,5 to 10 minutes
+222,Ore City,TX,15 minutes
+223,Wilmington,NC,3 minutes
+224,East Liverpool,OH,0:00=1:00
+225,Bardstown,KY,5-1O Minutes
+226,Marquette,MI,5 minutes
+227,Peebles,OH,5 min.
+228,Garrison,NY,5-10 seconds
+229,Lyndhurst,NJ,2hrs
+230,Spring Lake,MI,10 minutes
+231,Mescalero Indian Reservation,NM,Two Hours
+232,Jonesboro,GA,2-3 minutes
+233,Passaic,NJ,30 minutes
+234,Aurora,OR,2 minutes
+235,Smyrna,GA,1-2 min
+236,Atlanta,GA,3-5 minutes
+237,Howard Beach,NY,About 15 to 30 seconds
+238,Bristow,OK,5 Minutes
+239,Esopus,NY,5 Seconds
+240,Jackson,MS,20-30 minutes
+241,Taylorsville,NC,3 min
+242,Athens,GA,3 minutes
+243,Philippi,WV,20 minutes
+244,Franklin,KY,5 minutes
+245,Springhill,LA,10 seconds
+246,Ft. Bragg,NC,3min
+247,Port Everglades/Fort Lauderdale,FL,6-7min
+248,Brooksville,ME,5 minutes
+249,Houston,TX,5-7 seconds
+250,Rosalia,WA,90seconds
+251,Galesburg,MI,5 minutes
+252,Dexter,MO,10 MINUTES
+253,Ventura,CA,3-4minutes
+254,Wooster,OH,10 minutes
+255,Santa Ana,CA,1 minute
+256,natchitoches,LA,60 seconds
+257,Chicago,IL,
+258,Hallsville,OH,10-15minutes
+259,Petaluma,CA,Multiple Events
+260,Virginia Beach,VA,15 Minutes
+261,"Birmingham (Wisteria Dr., .5 mi down)",AL,3:00 mins
+262,Mill Valley,CA,stell
+263,Aurora,CO,5 seconds
+264,Wewahitchka,FL,5-10 min.
+265,Santa Rosa,CA,2 hours
+266,Cotton County,OK,3-4 minutes
+267,Moosic,PA,30minutes
+268,Tula,MS,30 minutes
+269,Metarie,LA,dont know
+270,Indianapolis,IN,5 seconds
+271,Simpson,PA,10 + minutes
+272,Orange,CA,2 minutes
+273,Woodlawn,VA,10 seconds
+274,Ponce (Puerto Rico),PR,10  to 15 minutes
+275,San Diego,CA,10 seconds
+276,Pawtucket,RI,1 hour
+277,Madison,ME,30 seconds
+278,Terre Haute,IN,20 min
+279,Carbondale,PA,three days
+280,Brooklyn,TX,15 minutes
+281,Kent,WA,5:00 min

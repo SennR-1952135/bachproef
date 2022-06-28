@@ -1,0 +1,276 @@
+,organisation,position,state,industry
+0,ICAP,Statistics Analyst,ACT,Diversified Financials 
+1,Dollar General,Business Analyst,NSW,Retailing 
+2,Chesapeake Energy,"Manager, Manufacturing & Management Systems",VIC,Oil & Gas Operations 
+3,Smith & Nephew,IT Operation Manager,NSW,Health Care Equipment & Services
+4,Rolls-Royce Group,Manager - Cognos Planning,ACT,Aerospace & Defense 
+5,De La Rue Plc,Business Information Specialist,ACT,Business Services & Supplies 
+6,WPP,"Manager, Corporate Applications",NSW,Media 
+7,Sara Lee,Director,NSW,"Food, Drink & Tobacco "
+8,Advanced Micro,Information Analyst,SA,Semiconductors 
+9,Brambles,Business Solutions Manager,NSW,Business Services & Supplies 
+10,Charter Commun,Senior Analyst,NSW,Media 
+11,Home Retail Group,,VIC,Retailing 
+12,Polo Ralph Lauren,MIS Manager,NSW,Household & Personal Products 
+13,Nucor,IT Project Manager,NSW,Materials 
+14,Cablevision,,SA,Media 
+15,WR Berkley,,ACT,Insurance 
+16,Marshall & Ilsley,MIS Analyst,QLD,Banking 
+17,Brambles,,NSW,Business Services & Supplies 
+18,Edwards Lifesciences,Technical Services Manager,NSW,Health Care Equipment & Services
+19,Marshall & Ilsley,Business Analyst,QLD,Banking 
+20,G4S,Analyst Programmer,QLD,Business Services & Supplies 
+21,Nelnet,Financial Controller,QLD,Diversified Financials 
+22,J Sainsbury,Data Warehouse Technical Coordinator,NSW,Food Markets 
+23,Altera,Business Intelligence Analyst,NSW,Semiconductors 
+24,Foster's Group,Senior Manager Risk Solutions,NSW,"Food, Drink & Tobacco "
+25,Pub Svc Enterprise,IS Applications Manager,VIC,Utilities 
+26,Altera,Business Systems,NSW,Semiconductors 
+27,United Utilities,Financial Controller,NSW,Utilities 
+28,Procter & Gamble,Reporting Analyst,NSW,Household & Personal Products 
+29,Vornado Realty,"Manager, Budgeting and Reporting Systems",VIC,Diversified Financials 
+30,Public Storage,Director,WA,Diversified Financials 
+31,Charter Commun,Senior Software Analyst,NSW,Media 
+32,Kimberly-Clark,Senior Systems Analyst,VIC,Household & Personal Products 
+33,Visa,Business Analyst,NSW,Diversified Financials 
+34,Kimberly-Clark,Senior Sap Business Analyst,VIC,Household & Personal Products 
+35,BAE Systems,Business Analyst,WA,Aerospace & Defense 
+36,CVS Caremark,Senior Business Analyst,NSW,Retailing 
+37,Ecolab,Technology Development Manager,QLD,Chemicals 
+38,Ecolab,Database Administrator,QLD,Chemicals 
+39,EI du Pont de Nemours,Systems Accountant,NSW,Chemicals 
+40,Peabody Energy,IS Business Development Manager,NSW,Materials 
+41,MF Global,Financial Accountant,NSW,Diversified Financials 
+42,American Electric,,SA,Utilities 
+43,Kingfisher,,ACT,Retailing 
+44,Kingfisher,,ACT,Retailing 
+45,SLM,Manager - Applications,WA,Diversified Financials 
+46,Iron Mountain,Finance Manager,SA,Business Services & Supplies 
+47,PG&E,Senior Analyst Programmer,QLD,Utilities 
+48,McGraw-Hill Cos,Business Information Manager,NSW,Media 
+49,EMC,Business Analysis And Optimisation,NSW,Technology Hardware & Equipment
+50,Biogen Idec,,NT,Drugs & Biotechnology 
+51,Quest Diagnostics,Consultant,ACT,Health Care Equipment & Services
+52,Starbucks,I.T. Manager,NSW,"Hotels, Restaurants & Leisure "
+53,Amgen,Business Analyst,QLD,Drugs & Biotechnology 
+54,Autonomy,Business Analyst: Data Management,SA,Software & Services 
+55,AT&T,"Snr Project Leader, IT",NSW,Telecommunications Services 
+56,Dollar Tree,Database Administrator,NSW,Retailing 
+57,HCC Insurance,Company Information Analyst,NSW,Insurance 
+58,Johnson & Johnson,Database Administrator,ACT,Drugs & Biotechnology 
+59,Johnson & Johnson,,QLD,Drugs & Biotechnology 
+60,Virgin Media,Business Intelligence Consultant,WA,Media 
+61,Helmerich & Payne,Business Analyst,ACT,Oil & Gas Operations 
+62,Virgin Media,Senior Business Analyst,WA,Media 
+63,Sage Group,IS Demand Manager,NSW,Software & Services 
+64,Helmerich & Payne,Business Analyst,ACT,Oil & Gas Operations 
+65,Hertz Global Holdings,Business Analyst,NSW,Business Services & Supplies 
+66,Hertz Global Holdings,Snr Manager Business Technology,NSW,Business Services & Supplies 
+67,SLM,Accountant Systems,WA,Diversified Financials 
+68,Rolls-Royce Group,Change Management,ACT,Aerospace & Defense 
+69,FirstEnergy,Process & Systems Accountant,NSW,Utilities 
+70,Huntington Bancshs,Consultant,WA,Banking 
+71,FirstEnergy,Operational Reporting Manager,NSW,Utilities 
+72,Freddie Mac,MIS Project Manger,NSW,Diversified Financials 
+73,Freddie Mac,Snr Manager E Finance,NSW,Diversified Financials 
+74,Boston Properties,Manager Business Systems,NSW,Diversified Financials 
+75,Helmerich & Payne,Cube Developer,ACT,Oil & Gas Operations 
+76,Challenger Financial Svcs,Project Manager,NSW,Diversified Financials 
+77,Cephalon,Snr Analyst,NSW,Drugs & Biotechnology 
+78,Associated Banc-Corp,Cto,VIC,Banking 
+79,Associated Banc-Corp,CEO,VIC,Banking 
+80,Health Net,Director - Information & Data Analysis,QLD,Health Care Equipment & Services
+81,Merck & Co,Manager Planning And Financial Analysis,NSW,Drugs & Biotechnology 
+82,Inchcape,Development Application Manager,NSW,Retailing 
+83,Merck & Co,Technical Support Analyst,NSW,Drugs & Biotechnology 
+84,Merck & Co,Database Administrator,NSW,Drugs & Biotechnology 
+85,Fluor,Senior Planning Analyst,NSW,Construction 
+86,AstraZeneca,Information Systems Manager,NSW,Drugs & Biotechnology 
+87,Amphenol,Cognos Administrator,NSW,Technology Hardware & Equipment
+88,WW Grainger,Manager - Accounting Operations,VIC,Capital Goods 
+89,Macy's,Technical Services Manager,NSW,Retailing 
+90,St Jude Medical,Business Information Manager,NSW,Health Care Equipment & Services
+91,Pride International,Strategic Reports Manager,NSW,Oil & Gas Operations 
+92,Health Net,,QLD,Health Care Equipment & Services
+93,Vulcan Materials,Technical Director,VIC,Construction 
+94,Vornado Realty,Team Manger (Infrastructure),NSW,Diversified Financials 
+95,WPP,Data Warehouse Manager,NSW,Media 
+96,Raytheon,Principal Consultant,QLD,Aerospace & Defense 
+97,Sara Lee,Technical Director,NSW,"Food, Drink & Tobacco "
+98,Raytheon,BI Consultant,QLD,Aerospace & Defense 
+99,Vulcan Materials,Senior Technical Consultant,VIC,Construction 
+100,Metcash,Applications Administration Team Leader,NSW,Food Markets 
+101,SunTrust Banks,Deputy Director (DMIS),ACT,Banking 
+102,First Citizens Bcshs,Account Manager - Business Intelligence Solutions,QLD,Banking 
+103,First Citizens Bcshs,Business Manager - Cognos,QLD,Banking 
+104,Vornado Realty,,NSW,Diversified Financials 
+105,Vornado Realty,,NSW,Diversified Financials 
+106,Lorillard,Country Manager,NSW,"Food, Drink & Tobacco "
+107,Community Health Sys,,NSW,Health Care Equipment & Services
+108,Community Health Sys,,NSW,Health Care Equipment & Services
+109,HJ Heinz,,NSW,"Food, Drink & Tobacco "
+110,Scripps Networks,Account Manager,NSW,Media 
+111,Scripps Networks,Consultant,NSW,Media 
+112,Scripps Networks,,NSW,Media 
+113,Scripps Networks,,NSW,Media 
+114,Scripps Networks,,NSW,Media 
+115,PPL,Chief Information Officer,NSW,Utilities 
+116,Imperial Tobacco Group,,NSW,"Food, Drink & Tobacco "
+117,EI du Pont de Nemours,"Manager, Financial Information Systems Unit",NSW,Chemicals 
+118,MeadWestvaco,Development Manager,SA,Materials 
+119,MeadWestvaco,ReportNet Developer,SA,Materials 
+120,Altria Group,,VIC,"Food, Drink & Tobacco "
+121,Rexam,IT Project Manager,NSW,Materials 
+122,Rexam,Financial Controller,NSW,Materials 
+123,Ameren,Accountant,QLD,Utilities 
+124,Polo Ralph Lauren,IAIMS Business Analyst,NSW,Household & Personal Products 
+125,Amlin,MIS System Administrator,QLD,Insurance 
+126,Amlin,MIS Analyst,QLD,Insurance 
+127,Vulcan Materials,Director,VIC,Construction 
+128,Northrop Grumman,Activity Based Costing Specialist,QLD,Aerospace & Defense 
+129,NStar,,VIC,Utilities 
+130,Sara Lee,,NSW,"Food, Drink & Tobacco "
+131,First American,Business Intelligence Analyst,VIC,Insurance 
+132,Macy's,Business Services Manager,NSW,Retailing 
+133,Assoc British Foods,CPM Consultant,TAS,"Food, Drink & Tobacco "
+134,Anadarko Petroleum,Manager Information Technology,QLD,Oil & Gas Operations 
+135,PG&E,Mgr Financial Planning,QLD,Utilities 
+136,Antofagasta,"Team Leader, MIRU",TAS,Materials 
+137,First Citizens Bcshs,Consultant - Business Intelligence Solutions,QLD,Banking 
+138,Telephone & Data Sys,Planning & Logistics Co-Ordinator,VIC,Telecommunications Services 
+139,Oracle,Service Delivery Manager,VIC,Software & Services 
+140,Oracle,National Sales Manager,NSW,Software & Services 
+141,Oracle,Manager - ACT Region,ACT,Software & Services 
+142,Oracle,"Regional Manager, NZ",,Software & Services 
+143,Oracle,Practice Manager - BI/EP Solutions,VIC,Software & Services 
+144,Kohl's,Enterprise Planning Consultant,QLD,Retailing 
+145,Oracle,Consulting Manager,VIC,Software & Services 
+146,Oracle,National Sales,NSW,Software & Services 
+147,Oracle,C E O,VIC,Software & Services 
+148,MFA Financial,,NSW,Diversified Financials 
+149,Polo Ralph Lauren,Engineer,NSW,Household & Personal Products 
+150,Community Health Sys,Project Manager - Performance Measurement Systems,NSW,Health Care Equipment & Services
+151,Emerson Electric,A/GM Finance,NSW,Conglomerates 
+152,Whole Foods Market,Manager Of Applications And Achitecture,VIC,Food Markets 
+153,Harris,,ACT,Technology Hardware & Equipment
+154,Johnson Matthey,Director,NSW,Materials 
+155,Mirant,Senior Analyst Programmer,NSW,Utilities 
+156,Boston Scientific,Analyst Programmer,QLD,Health Care Equipment & Services
+157,Vulcan Materials,Business Development Manager,SA,Construction 
+158,CenterPoint Energy,,ACT,Utilities 
+159,Jefferies Group,"Manager, Corporate Planning",NSW,Diversified Financials 
+160,Calpine,Business Analys,NSW,Utilities 
+161,Masco,Managing Director,QLD,Construction 
+162,MGM Mirage,Sales Director,VIC,"Hotels, Restaurants & Leisure "
+163,MGM Mirage,Professional Services Director,VIC,"Hotels, Restaurants & Leisure "
+164,IntercontinentalExchange,Business Intelligence Manager,VIC,Diversified Financials 
+165,Progressive,Project Controller,TAS,Insurance 
+166,East West Bancorp,IS Manager,NSW,Banking 
+167,Rolls-Royce Group,OLAP & Datawarehouse Manager,NSW,Aerospace & Defense 
+168,Rolls-Royce Group,OLAP & Datawarehouse Manager,VIC,Aerospace & Defense 
+169,Rolls-Royce Group,Business Analyst,NSW,Aerospace & Defense 
+170,Rolls-Royce Group,Business Analyst,NSW,Aerospace & Defense 
+171,US Steel,Manager,NSW,Materials 
+172,De La Rue Plc,Technical Specialist,ACT,Business Services & Supplies 
+173,Humana,IS Program Manager,NSW,Health Care Equipment & Services
+174,First Citizens Bcshs,,QLD,Banking 
+175,Salesforce.com,Customer Analysis & Reporting Manager,NSW,Software & Services 
+176,Land Securities Group,Business Systems Manager,VIC,Diversified Financials 
+177,SunTrust Banks,"Director, Departmental Management Information System Project",ACT,Banking 
+178,Community Health Sys,Executive Manager,NSW,Health Care Equipment & Services
+179,Community Health Sys,Manager Development,NSW,Health Care Equipment & Services
+180,Community Health Sys,Project Manager,NSW,Health Care Equipment & Services
+181,De La Rue Plc,Senior Technical Specialist / Team Leader,ACT,Business Services & Supplies 
+182,Life Technologies,Project Manager,NSW,Drugs & Biotechnology 
+183,Pepco Holdings,,SA,Utilities 
+184,Xilinx,"Regional Manager ANZ, Data Management",NSW,Semiconductors 
+185,Varian Medical Systems,Systems Accountant,QLD,Health Care Equipment & Services
+186,Varian Medical Systems,Finance & Assets Officer - CP&S,QLD,Health Care Equipment & Services
+187,Rolls-Royce Group,OLAP Team Leader,ACT,Aerospace & Defense 
+188,Varian Medical Systems,Budget Contol Accountant - Works,QLD,Health Care Equipment & Services
+189,Rolls-Royce Group,Information Technology Officer,ACT,Aerospace & Defense 
+190,Freeport Copper,Portfolio Analyst,NSW,Materials 
+191,Freeport Copper,Strategy Analyst,NSW,Materials 
+192,Yahoo,Business Analyst,VIC,Software & Services 
+193,Merck & Co,Commercial Service Analyst,NSW,Drugs & Biotechnology 
+194,Merck & Co,Senior Business Analyst,NSW,Drugs & Biotechnology 
+195,Markel,Director,QLD,Insurance 
+196,Man Group,Project Manager,NSW,Diversified Financials 
+197,Man Group,,NSW,Diversified Financials 
+198,AGL Energy,SAP Administrator,NSW,Utilities 
+199,Kimberly-Clark,Acting Manager - Systems,VIC,Household & Personal Products 
+200,El Paso,Business Intelligence Team Leader,NSW,Oil & Gas Operations 
+201,Oracle,Senior Business Consultant,VIC,Software & Services 
+202,El Paso,Senior Business Intelligence Analyst,NSW,Oil & Gas Operations 
+203,United Technologies,Corporate IT Manager,NSW,Conglomerates 
+204,RR Donnelley & Sons,Business Analyst,NSW,Media 
+205,United Parcel Service,Group Business Analyst,NSW,Transportation 
+206,Eli Lilly & Co,Technology Analyst,NSW,Drugs & Biotechnology 
+207,FirstGroup,Product Specialist,NSW,Transportation 
+208,FirstGroup,Business Development Manager,NSW,Transportation 
+209,Community Health Sys,Manager Finance & Modelling,NSW,Health Care Equipment & Services
+210,Wisconsin Energy,,NSW,Utilities 
+211,Wisconsin Energy,,NSW,Utilities 
+212,Cablevision,Director,SA,Media 
+213,Air Prods & Chems,Finance Director,,Chemicals 
+214,Xilinx,,NSW,Semiconductors 
+215,Xilinx,,NSW,Semiconductors 
+216,Varian Medical Systems,,QLD,Health Care Equipment & Services
+217,Comerica,Information Delivery Manager Asia Pacific,NSW,Banking 
+218,NYSE Euronext,Systems Analyst,SA,Diversified Financials 
+219,Vedanta Resources,Senior Project Officer,QLD,Materials 
+220,De La Rue Plc,Senior Business Analyst,ACT,Business Services & Supplies 
+221,De La Rue Plc,System Administrator,ACT,Business Services & Supplies 
+222,Discovery Communications,Business Analyst,NSW,Media 
+223,Discovery Communications,Systems Analyst,NSW,Media 
+224,Sara Lee,Sales & Marketing Manager,NSW,"Food, Drink & Tobacco "
+225,WR Berkley,,ACT,Insurance 
+226,Brambles,Cognos Team Leader,NSW,Business Services & Supplies 
+227,Nelnet,Systems Accountant,QLD,Diversified Financials 
+228,Autonomy,Senior Project Officer,SA,Software & Services 
+229,De La Rue Plc,A/g Manager,ACT,Business Services & Supplies 
+230,Discovery Communications,Business Intelligence Developer,NSW,Media 
+231,Sunoco,Senior Development Analyst,WA,Oil & Gas Operations 
+232,Visa,Manager Strategic Analysis Branch,NSW,Diversified Financials 
+233,Kingfisher,,ACT,Retailing 
+234,Ford Motor,Information Delivery Manager,NSW,Consumer Durables 
+235,CareFusion,Analyst Programmer,VIC,Health Care Equipment & Services
+236,Helmerich & Payne,,ACT,Oil & Gas Operations 
+237,Virgin Media,BI Consultant,WA,Media 
+238,Foster's Group,Head Of Solutions,NSW,"Food, Drink & Tobacco "
+239,SLM,Project Accountant,WA,Diversified Financials 
+240,Wells Fargo,Regional Business Analyst,NSW,Banking 
+241,Boston Properties,Senior Management Accountant,NSW,Diversified Financials 
+242,PG&E,Mgr Financial Planning,QLD,Utilities 
+243,Merck & Co,IT Manager,NSW,Drugs & Biotechnology 
+244,Ross Stores,Information & Business Analyst,VIC,Retailing 
+245,AstraZeneca,National Marketing Manager,NSW,Drugs & Biotechnology 
+246,Progressive,Project Accountant,TAS,Insurance 
+247,Progressive,Systems Accountant,TAS,Insurance 
+248,Vornado Realty,Information Manager,NSW,Diversified Financials 
+249,Pride International,Data Manager,NSW,Oil & Gas Operations 
+250,Scripps Networks,,NSW,Media 
+251,EI du Pont de Nemours,BI Analyst,NSW,Chemicals 
+252,DSG International,,QLD,Retailing 
+253,Health Net,,QLD,Health Care Equipment & Services
+254,Intuitive Surgical,Program Manager,NSW,Health Care Equipment & Services
+255,Intuitive Surgical,Manager Mobile DB Operations,NSW,Health Care Equipment & Services
+256,Boston Scientific,Airport Systems And Project Officer,QLD,Health Care Equipment & Services
+257,Scripps Networks,,NSW,Media 
+258,Rolls-Royce Group,Business Analyst,NSW,Aerospace & Defense 
+259,Rolls-Royce Group,Business Analyst,VIC,Aerospace & Defense 
+260,StanCorp Financial,Senior Consultant,VIC,Insurance 
+261,De La Rue Plc,Senior Technical Specialist,ACT,Business Services & Supplies 
+262,RRI Energy,,,Utilities 
+263,MGM Mirage,,VIC,"Hotels, Restaurants & Leisure "
+264,Community Health Sys,Manager BI Customer Services & Support,NSW,Health Care Equipment & Services
+265,De La Rue Plc,Manager - IBIS Facility,ACT,Business Services & Supplies 
+266,Community Health Sys,Officer,NSW,Health Care Equipment & Services
+267,First American,,VIC,Insurance 
+268,Varian Medical Systems,Management Accountant,QLD,Health Care Equipment & Services
+269,Markel,Senior Consultant,QLD,Insurance 
+270,Man Group,,NSW,Diversified Financials 
+271,United Technologies,Systems Analyst,NSW,Conglomerates 
+272,Cephalon,MIS Manager,NSW,Drugs & Biotechnology 
+273,Eli Lilly & Co,Business Intelligence Analyst,NSW,Drugs & Biotechnology 
+274,Varian Medical Systems,,QLD,Health Care Equipment & Services

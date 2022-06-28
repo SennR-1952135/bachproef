@@ -1,0 +1,127 @@
+,name,type,description
+0,stop_report_after_feature,int,"Stop reporting after feature (ordered by quality, -1 means do not stop)."
+1,rt_extraction_window,float,Only extract RT around this value (-1 means extract over the whole range; a value of 500 means to extract around +/- 500 s of the expected elution). For this to work; the TraML input file needs to contain normalized RT values.
+2,rt_normalization_factor,float,The normalized RT is expected to be between 0 and 1. If your normalized RT has a different range; pass this here (e.g. it goes from 0 to 100; set this value to 100)
+3,quantification_cutoff,float,Cutoff in m/z below which peaks should not be used for quantification any more
+4,write_convex_hull,string,Whether to write out all points of all features into the featureXML
+5,add_up_spectra,int,Add up spectra around the peak apex (needs to be a non-even integer)
+6,spacing_for_spectra_resampling,float,If spectra are to be added; use this spacing to add them up
+7,uis_threshold_sn,int,S/N threshold to consider identification transition (set to -1 to consider all)
+8,uis_threshold_peak_area,int,Peak area threshold to consider identification transition (set to -1 to consider all)
+9,TransitionGroupPicker:stop_after_feature,int,"Stop finding after feature (ordered by intensity, -1 means do not stop)."
+10,TransitionGroupPicker:stop_after_intensity_ratio,float,Stop after reaching intensity ratio
+11,TransitionGroupPicker:min_peak_width,float,Minimal peak width (s); discard all peaks below this value (-1 means no action).
+12,TransitionGroupPicker:peak_integration,string,
+13,TransitionGroupPicker:background_subtraction,string,Try to apply a background subtraction to the peak (experimental). The background is estimated at the peak boundaries; either the smoothed or the raw chromatogram data can be used for that.
+14,TransitionGroupPicker:recalculate_peaks,string,Tries to get better peak picking by looking at peak consistency of all picked peaks. Tries to use the consensus (median) peak border if theof variation within the picked peaks is too large.
+15,TransitionGroupPicker:use_precursors,string,Use precursor chromatogram for peak picking
+16,TransitionGroupPicker:recalculate_peaks_max_z,float,Determines the maximal Z-Score (difference measured in standard deviations) that is considered too large for peak boundaries. If the Z-Score is above this value; the median is used for peak boundaries (default value 1.0).
+17,TransitionGroupPicker:minimal_quality,float,Only if compute_peak_quality is set; this parameter will not consider peaks below this quality threshold
+18,TransitionGroupPicker:resample_boundary,float,For computing peak quality; how many extra seconds should be sample left and right of the actual peak
+19,TransitionGroupPicker:compute_peak_quality,string,Tries to compute a quality value for each peakgroup and detect outlier transitions. The resulting score is centered around zero and values above 0 are generally good and below -1 or -2 are usually bad.
+20,TransitionGroupPicker:compute_peak_shape_metrics,string,"Calulates various peak shape metrics (e.g., tailing) that can be used for downstream QC/QA."
+21,TransitionGroupPicker:boundary_selection_method,string,Method to use when selecting the best boundaries for peaks.
+22,TransitionGroupPicker:use_consensus,string,"Use consensus peak boundaries when computing transition group picking (if false, compute independent peak boundaries for each transition)"
+23,TransitionGroupPicker:PeakPickerMRM:sgolay_frame_length,int,The number of subsequent data points used for smoothing.  This number has to be uneven. If it is not; 1 will be added.
+24,TransitionGroupPicker:PeakPickerMRM:sgolay_polynomial_order,int,Order of the polynomial that is fitted.
+25,TransitionGroupPicker:PeakPickerMRM:gauss_width,float,Gaussian width in seconds; estimated peak size.
+26,TransitionGroupPicker:PeakPickerMRM:use_gauss,string,Use Gaussian filter for smoothing (alternative is Savitzky-Golay filter)
+27,TransitionGroupPicker:PeakPickerMRM:peak_width,float,Force a certain minimal peak_width on the data (e.g. extend the peak at least by this amount on both sides) in seconds. -1 turns this feature off.
+28,TransitionGroupPicker:PeakPickerMRM:signal_to_noise,float,Signal-to-noise threshold at which a peak will not be extended any more. Note that setting this too high (e.g. 1.0) can lead to peaks whose flanks are not fully captured.
+29,TransitionGroupPicker:PeakPickerMRM:sn_win_len,float,Signal to noise window length.
+30,TransitionGroupPicker:PeakPickerMRM:sn_bin_count,int,Signal to noise bin count.
+31,TransitionGroupPicker:PeakPickerMRM:write_sn_log_messages,string,Write out log messages of the signal-to-noise estimator in case of sparse windows or median in rightmost histogram bin
+32,TransitionGroupPicker:PeakPickerMRM:remove_overlapping_peaks,string,Try to remove overlapping peaks during peak picking
+33,TransitionGroupPicker:PeakPickerMRM:method,string,Which method to choose for chromatographic peak-picking (OpenSWATH legacy; corrected picking or Crawdad).
+34,TransitionGroupPicker:PeakIntegrator:baseline_type,string,
+35,TransitionGroupPicker:PeakIntegrator:integration_type,string,
+36,DIAScoring:dia_extraction_window,float,DIA extraction window in Th.
+37,DIAScoring:dia_centroided,string,Use centroded DIA data.
+38,DIAScoring:dia_byseries_intensity_min,float,DIA b/y series minimum intensity to consider.
+39,DIAScoring:dia_byseries_ppm_diff,float,DIA b/y series minimal difference in ppm to consider.
+40,DIAScoring:dia_nr_isotopes,int,DIA nr of isotopes to consider.
+41,DIAScoring:dia_nr_charges,int,DIA nr of charges to consider.
+42,DIAScoring:peak_before_mono_max_ppm_diff,float,DIA maximal difference in ppm to count a peak at lower m/z when searching for evidence that a peak might not be monoisotopic.
+43,EMGScoring:interpolation_step,float,Sampling rate for the interpolation of the model function.
+44,EMGScoring:tolerance_stdev_bounding_box,float,Bounding box has range [minimim of data; maximum of data] enlarged by tolerance_stdev_bounding_box times the standard deviation of the data.
+45,EMGScoring:max_iteration,int,Maximum number of iterations using by Levenberg-Marquardt algorithm.
+46,EMGScoring:statistics:mean,float,Centroid position of the model.
+47,EMGScoring:statistics:variance,float,Variance of the model.
+48,Scores:use_shape_score,string,Use the shape score (this score measures the similarity in shape of the transitions using a cross-correlation)
+49,Scores:use_coelution_score,string,Use the coelution score (this score measures the similarity in coelution of the transitions using a cross-correlation)
+50,Scores:use_rt_score,string,Use the retention time score (this score measure the difference in retention time)
+51,Scores:use_library_score,string,Use the library score
+52,Scores:use_elution_model_score,string,Use the elution model (EMG) score (this score fits a gaussian model to the peak and checks the fit)
+53,Scores:use_intensity_score,string,Use the intensity score
+54,Scores:use_nr_peaks_score,string,Use the number of peaks score
+55,Scores:use_total_xic_score,string,Use the total XIC score
+56,Scores:use_sn_score,string,Use the SN (signal to noise) score
+57,Scores:use_dia_scores,string,Use the DIA (SWATH) scores
+58,Scores:use_ms1_correlation,string,Use the correlation scores with the MS1 elution profiles
+59,Scores:use_sonar_scores,string,Use the scores for SONAR scans (scanning swath)
+60,Scores:use_ms1_fullscan,string,Use the full MS1 scan at the peak apex for scoring (ppm accuracy of precursor and isotopic pattern)
+61,Scores:use_uis_scores,string,Use UIS scores for peptidoform identification
+62,nn_thresholds,list,
+63,locality_weights,list,
+64,select_transition_groups,list,
+65,segment_window_lengths,list,
+66,segment_step_lengths,list,
+67,select_highest_counts,list,
+68,variable_types,list,
+69,variable_types,list,
+70,optimal_thresholds,list,
+71,var_xcorr_coelution,string,correlation in coelution between transitions in a transition group
+72,var_xcorr_coelution_weighted,string,correlation in coelution between transitions in a transition group
+73,var_xcorr_shape,string,correlation in peak shape between transitions in a transition group
+74,var_xcorr_shape_weighted,string,correlation in peak shape between transitions in a transition group
+75,var_intensity_score,string,total intensity of a transition group
+76,sn_ratio,string,signal to noise ratio of a transition gorup
+77,var_log_sn_score,string,
+78,main_var_xx_lda_prelim_score,string,overall quality score of the transition group
+79,delta_rt,string,
+80,rt_score,string,
+81,var_norm_rt_score,string,
+82,var_elution_model_fit_score,string,
+83,initialPeakQuality,string,
+84,logSN,string,log signal to noise ratio of individual transitions
+85,peak_apex_int,string,peak height threshold for individual and background-corrected peaks
+86,peak_apices_sum,string,
+87,var_xcorr_coelution,string,correlation in coelution between transitions in a transition group
+88,var_xcorr_coelution_weighted,string,correlation in coelution between transitions in a transition group
+89,var_xcorr_shape,string,correlation in peak shape between transitions in a transition group
+90,var_xcorr_shape_weighted,string,correlation in peak shape between transitions in a transition group
+91,var_intensity_score,string,total intensity of a transition group
+92,sn_ratio,string,signal to noise ratio of a transition gorup
+93,var_log_sn_score,string,
+94,main_var_xx_lda_prelim_score,string,overall quality score of the transition group
+95,delta_rt,string,
+96,rt_score,string,
+97,var_norm_rt_score,string,
+98,var_elution_model_fit_score,string,
+99,initialPeakQuality,string,
+100,logSN,string,log signal to noise ratio of individual transitions
+101,peak_apex_int,string,peak height threshold for individual and background-corrected peaks
+102,peak_apices_sum,string,
+103,precursor_tolerance,float,Precursor tolerance when mapping (in Th)
+104,product_tolerance,float,Product tolerance when mapping (in Th)
+105,map_multiple_assays,string,Allow to map multiple assays to chromatograms and duplicate these chromatograms in the output.
+106,error_on_unmapped,string,"Treat remaining, unmapped chromatograms as an error"
+107,flag_or_filter,string,"Flag or Filter (i.e., remove) Components or transitions that do not pass the QC."
+108,report_xic,string,Embed an image of the XIC in the QC report.
+109,report_tic,string,Embed an image of the TIC in the QC report.
+110,flag_or_filter,string,"Flag or Filter (i.e., remove) Components or transitions that do not pass the QC."
+111,report_xic,string,Embed an image of the XIC in the QC report.
+112,report_tic,string,Embed an image of the TIC in the QC report.
+113,export_format,string,The export format of the plot
+114,annotate_features,bool,Annotate peaks with features
+115,format,string,An alternative format to load an experiment from
+116,zero_baseline,bool,Normalize the baseline so that the minimum intensity value is 0
+117,export_format,string,The export format of the plot
+118,annotate_features,bool,Annotate peaks with features
+119,min_points,int,The minimum number of calibrator points.
+120,max_bias,float,The maximum percent bias of any point in the calibration curve.
+121,min_correlation_coefficient,float,The minimum correlation coefficient value of the calibration curve.
+122,max_iters,int,The maximum number of iterations to find an optimal set of calibration curve points and parameters.
+123,outlier_detection_method,string,Outlier detection method to find and remove bad calibration points.
+124,use_chauvenet,string,Whether to only remove outliers that fulfill Chauvenet's criterion for outliers (otherwise it will remove any outlier candidate regardless of the criterion).
+125,optimization_method,string,Calibrator optimization method to find the best set of calibration points for each method.

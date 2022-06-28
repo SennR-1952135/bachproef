@@ -1,0 +1,75 @@
+,year,country,city
+0,2010,United States,New Haven
+1,2010,Singapore;Singapore,Singapore City;Singapore City
+2,2010,Italy;United States,Milan;Durham
+3,2010,United States,Urbana
+4,2010,United Kingdom;United Kingdom,Cambridge;London
+5,2010,United States,New Haven
+6,2010,United States,New Haven
+7,2010,United States,Columbia
+8,2010,,
+9,2010,Canada;Canada,"Ottawa ON,;Montreal"
+10,2010,Belgium;Belgium,Ghent;Ghent
+11,2010,United States;United States,Stanford;New Haven
+12,2010,United States,Bethesda
+13,2009,United States,Atlanta
+14,2009,Japan;Japan,Tokyo;Kyoto
+15,2009,United Kingdom;United Kingdom,Cambridge;Cambridge
+16,2009,United States;United States,Berkeley;San Francisco
+17,2008,Singapore,Singapore City
+18,2008,Canada;Canada,Toronto;Toronto
+19,2008,United States;United States,Berkeley;San Francisco
+20,2008,Netherlands;Netherlands,Utrecht;Utrecht
+21,2008,United States,San Francisco
+22,2008,United States;United States,Cambridge;Cambridge
+23,2008,United States,New Haven
+24,2008,United Kingdom,Manchester
+25,2007,United Kingdom;Germany,Cambridge;Heidelberg
+26,2007,Australia;United States,Adelaide;New Haven
+27,2007,United States;United States,Cambridge;Cambridge
+28,2007,Germany,Heidelberg
+29,2006,United States,New Haven
+30,2006,United States,Berkeley
+31,2006,United States,Pasadena
+32,2006,United Kingdom;United States,Cambridge;Bethesda
+33,2006,Canada,Toronto
+34,2005,United States,New Haven
+35,2005,United States,Ithaca
+36,2005,United States;United States,Boston;Boston
+37,2005,Germany,Berlin
+38,2005,United States;United States,Cambridge;Cambridge
+39,2005,Israel,Rehovot
+40,2005,United States,New York
+41,2005,United States;Israel,Berkeley;Tel Aviv-Yafo
+42,2005,United Kingdom,Hinxton
+43,2005,United States;United States,Cambridge;Cambridge
+44,2005,United Kingdom,London
+45,2005,Sweden,Stockholm
+46,2004,United States,New York
+47,2004,United States;United States,Cambridge;Cambridge
+48,2004,,
+49,2004,France,Paris
+50,2004,United States,New Haven
+51,2004,Canada,Toronto
+52,2004,United States,Bethesda
+53,2003,United States,Branford
+54,2003,United States,Pasadena
+55,2003,United States;United States,"Washington, D.C.;Berkeley"
+56,2003,United States,Cambridge
+57,2003,United States,New York
+58,2003,United States;United States,Cambridge;Cambridge
+59,2003,United States,Bethesda
+60,2002,United States,Cambridge
+61,2002,United States,Pullman
+62,2002,United States,Chicago
+63,2002,Canada,Toronto
+64,2002,United Kingdom,Brentford
+65,2001,United States;United States,Beverly;Boston
+66,2001,Japan,Kanazawa
+67,2000,United States,Eugene
+68,2000,United States,Seattle
+69,2000,United States,Boston
+70,1989,United States,Berkeley
+71,1975,United States,Urbana
+72,1975,United States,Davis
+73,1975,United States;United States,Berkeley;San Francisco

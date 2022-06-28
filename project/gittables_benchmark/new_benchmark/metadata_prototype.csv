@@ -1,0 +1,8 @@
+,format,year,description
+0,decimal0,2015,
+1,decimal0,2015,
+2,decimal0,2017,# of 3W activities in this operation
+3,decimal0,2017,# of 3W FSL (Food distribution) activities in this operation
+4,decimal0,2017,# of 3W Health activities in this operation
+5,decimal0,2017,# of 3W WASH activities in this operation
+6,decimal2,2017,"The source contains geographic spread of food security phases 1 to 4. This was translated to admin-2 areas, and subsequently aggregated to higher admin-levels using population as weights."

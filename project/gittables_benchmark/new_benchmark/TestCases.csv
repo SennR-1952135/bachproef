@@ -1,0 +1,105 @@
+,description,notes,status
+0,"Data is published, subscriber receives it (all data)","Tests will require a feed, a TP and an RDB. The test script itself can be the feed (e.g. send a specific set of messages from the test script to the TP, make sure they get to the RDB)",Done
+1,"Subscriber disconnects, is removed from the subscription queue",,Done
+2,Subscriber subscribes with .u.sub[`table;`list`of`symbols],,Done
+3,"Complex subscription e.g. ""price within 100 200, size>100""",,Done
+4,Subscriber disconnects,,Done
+5,"Data is published, it is saved in the log file",,Done
+6,"Bad update published, gets saved in error log",,Done
+7,Filtered sub file doesn't exist,,Done
+8,"RDB subscribes for all data, is bounced",,Done
+9,"RDB subscribes to a subset of syms, is bounced",,Done
+10,RDB subscribes to a subset of data using filtered functionality ,"These are similar to 2.1.1 but for this type of TP log file the TP may have multple log files, all of which should be replayed. So the set up should be:
+1. Start TP
+2. Publish some data
+3. Bounce TP
+4. Publish some more data
+5. Start RDB, ensure all expected data is replayed",Done
+11,"RDB subscribes for all data, is bounced",,Done
+12,"RDB subscribes to a subset of syms, is bounced",,Done
+13,RDB subscribes to a subset of data using filtered functionality ,As 2.2.1,Done
+14,"RDB subscribes for all data, is bounced",,Done
+15,"RDB subscribes to a subset of syms, is bounced",,Done
+16,RDB subscribes to a subset of data using filtered functionality ,,Done
+17,"As 2.3.1, except replayperiod=`period rather than `day","As 2.2.1, but we need to make sure the old TP runs as well (i.e. we haven't broken the old code)",Done
+18,"RDB subscribes for all data, is bounced",,Done
+19,"RDB subscribes to a subset of syms, is bounced",This will require TP log files to be built up. Can probably just use those generatedd as output from the 2.* tests. It might be that these tests are run subsequently to the 2.* tests as then the log files will all have been generated. Need to ensure that row counts in HDB post replay match those generated and sent to log file ,Done
+20,TP replay replays all tables to correct HDB partition,,Done
+21,TP replay replays correct subst of tables to HDB partition,,Done
+22,TP replay replays all tables to correct HDB partition,,Done
+23,TP replay replays correct subst of tables to HDB partition,,Done
+24,TP replay replays all tables to correct HDB partition,,Done
+25,TP replay replays correct subst of tables to HDB partition,,Done
+26,TP replay replays all tables to correct HDB partition,,Done
+27,TP replay replays correct subst of tables to HDB partition,"The purpose of these tests is to make sure there isn't any data loss or replication if a subscriber subscribes to data mid flow. The TP should report the correct log counts to replay, and the subsequent data should be waiting on the handle to be delivered to the consumer. ",Done
+28,"Publish batch of data to TP, stop publishing, publish second batch, RDB subscribes",,Done
+29,"Publish batch of data to TP, stop publishing, publish second batch, RDB subscribes",,Done
+30,"Turn off timer, publish data batch","Assume two tables, trade and quote. Trade uses the standard (non customised) upd function and will timestamp on the time. Quote gets it's own upd function which stamps on both the time and the global message sequence number (as defined by the TP). Ensure the table updates are interleaved",Done
+31,Tables have different upd functions,,Done
+32,Tables have different upd functions,,Done
+33,Tables have different upd functions,"Interleave good messages with bad messages (e.g. wrong type, wrong lenghth. Do this as an extension of the 5.1 tests, so we are testing error mode in conjunction with custom upd functions",Done
+34,Errors are written to error log file when in error mode. ,,Done
+35,Errors are written to error log file when in error mode. ,,Done
+36,Errors are written to error log file when in error mode. ,,Done
+37,"Period ends, sub receives endp message from STP",,Done
+38,"Period ends, sub receives endp message from STP",,Done
+39,"Period ends, sub receives endp message from STP",,Done
+40,"Period ends, STP meta table is correctly updated",,Done
+41,"Period ends, STP currlog table is correctly updated","We will need a reliable, non-disruptive way to spoof EoD to be able to test this properly",Done
+42,Trigger EoD,,Done
+43,Trigger EoD,,Done
+44,Trigger EoD,,Done
+45,Start up STP with custom logging,,Done
+46,Start up STP with custom logging,,Done
+47,"Start up STP with custom logging, roll period",,Done
+48,Check log table is formed properly,,Done
+49,Check meta table is formed properly,,Done
+50,Change the datatimezone and ensure the data is stamped in the correct timezone. ,datatimezone changes the timezone that the data is stamped in. rolltimezone changes the timezone that the TP rolls down in. rolltimeoffset changes the offset from midnight to save down at. ,Done
+51,Change the rolltimezone and ensure the TP rolls over at midnight in the correct timezone. Make sure tha the date changes to the correct date new date in the given timezone,,Done
+52,"Change the offset from midnight. Do this in conjunction with the rolltimezone change. Need to make sure this works forward and backward, and that the ""date"" rolls correctly",,Done
+53,"WDB subscribes for all data, is bounced","For each of these tests you need to play in a set amount of data to the TP and then bounce the WDB. The data before bounce should be exactly the same as the data after the bounce. It might be that it is better to run the tests with multiple WDB instances, to cover the filtered and non-filtered cases at the same time. To force the data to disk, I think you should set .wdb.numrows to 0, and probably manually invoke .wdb.savetodisk to force it to save down
+
+* Note this is very similar to test set 2.1 *",Done
+54,"WDB subscribes to a subset of syms, is bounced",,Done
+55,WDB subscribes to a subset of tables ,"These are similar to 7.1.1 but for this type of TP log file the TP may have multple log files, all of which should be replayed. So the set up should be:
+1. Start TP
+2. Publish some data
+3. Bounce TP
+4. Publish some more data
+5. Start WDB, ensure all expected data is replayed",Done
+56,"WDB subscribes for all data, is bounced",,Done
+57,"WDB subscribes to a subset of syms, is bounced",,Done
+58,WDB subscribes to a subset of tables ,As 7.2.1,Done
+59,"WDB subscribes for all data, is bounced",,Done
+60,"WDB subscribes to a subset of syms, is bounced",,Done
+61,WDB subscribes to a subset of tables ,"As 7.2.1, but we need to make sure the old TP runs as well (i.e. we haven't broken the old code)",Done
+62,"WDB subscribes for all data, is bounced",,Done
+63,"WDB subscribes to a subset of tables and syms, is bounced","These tests are going to need feed, segemented TP, CTP, and subscriber. We want to make sure that the data gets from the feed to the subscriber (which is connected to the CTP). The test process probably needs to run externally. The subscriber can be simple, should just insert into memory
+
+The first of these tests are very similar to 1.1.*",Done
+64,"Data is published, subscriber receives it (all data)",,Done
+65,"Subscriber disconnects, is removed from the subscription queue",,Done
+66,Subscriber subscribes with .u.sub[`table;`list`of`symbols],,Done
+67,"Complex subscription e.g. ""price within 100 200, size>100""",,Done
+68,Subscriber disconnects,,Done
+69,Filtered sub file doesn't exist,See 1.1.8,Done
+70,"Segmented TP should die, should cause the SCTP to also die",,Done
+71,End-of-period-message (sent from STP) is propagated to client,,Done
+72,End-of-day message (sent from STP) is propagated to client,"For these tests, given that we are using the same logging and pub/sub logic/code as in main segented TP mode, we shouldn�t have to re-test all the logic again",Done
+73,"CTP should create a log file directory and a meta file, same as standard TP. Need to bounce the CTP to ensure new log files are created. Start TP+CTP+Feed. CTP should create log file. Bounce the CTP, should create new log file",,Done
+74,CTP creates tabperiod log files. Subscriber to CTP (e.g. connect RDB to CTP) should be able to recover from them. Use equivalent of 2.3.1 for this ,,Done
+75,"When createlogs:0b, the STP process should function as normal",,Done
+76,,,Done
+77,,"I don't think we have written this functionality yet. The crux of it is that if the CTP can access the TP's log file then it should be able to pass through the subscription request and it's client should be able to recover from the main TP log file, without dropping messages or having duplicates",Done
+78,,,
+79,"At EoD, log files and meta table get rolled correctly (assuming log files are turned on)",,Done
+80,"At end of period, new log file is created, meta is updated",,Done
+81,"At EoD, new date is incremented (should be the same as the TP after EoD)",,Done
+82,,,
+83,Housekeeping process has a new zip function as part of this development. This should zip the whole directory and create a single zip file containing all the log files for the date,,
+84,measure the performance (messages per second) that the TP can handle when being sent small updates for a single table,"For each of these tests we need to use what Rob Sketch put together. We need to have a work out how many messages we can push through a TP per second (one feedhandler sending async messages, one TP, one subscriber receiving the data. ",
+85,"As 10.1.1, but TP in memory batch mode",,
+86,"As 10.1.2, but TP in default batch mode",,
+87,"As 10.1.1, but with small batch messages (e.g. 100 rows at a time)",,
+88,"As 10.2.1, but TP in memory batch mode",,
+89,"As 10.2.1, but TP in default batch mode",,

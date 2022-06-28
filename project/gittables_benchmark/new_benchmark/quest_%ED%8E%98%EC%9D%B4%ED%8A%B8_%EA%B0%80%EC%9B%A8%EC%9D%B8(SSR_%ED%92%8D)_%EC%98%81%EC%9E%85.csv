@@ -1,0 +1,145 @@
+,language,type,name,origin
+0,Japanese,synopsis,,魔物に襲われる村で<span>[플레이어]</span>一行は、村人を守る甲冑の青年ガウェインと出会う。彼の甲冑には人助けをしなければ解けない呪いがかけられており、その呪いを解くため彼は一行と旅を共にすることを決める。
+1,Japanese,detail,,<span class='scene-font-katari'>休息のため、村に立ち寄った一行。</span><br><span class='scene-font-katari'>しかし、そこには魔物の大群が</span><br><span class='scene-font-katari'>押し寄せていた。</span>
+2,Japanese,detail,,<span class='scene-font-katari'>逃げ惑う村人を庇うように</span><br><span class='scene-font-katari'>たったひとり、魔物に立ち向かうのは、</span><br><span class='scene-font-katari'>甲冑に身を包む若い騎士。</span>
+3,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>急ぎ、援護に走った――</span>
+4,Japanese,detail,カタリナ,ふぅ……<br>なんとか、魔物を退けたか。
+5,Japanese,detail,村人,……ああ、旅の方！<br>助けて下さり、ありがとうございます！<br>何とお礼をいったらよいか……
+6,Japanese,detail,カタリナ,無事でなによりです。<br>それより、さっきの騎士は……
+7,Japanese,detail,甲冑の騎士,…………
+8,Japanese,detail,ビィ,おい、兄ちゃん！<br>怪我はなかったか？<br>オマエ、なかなか強いなぁ！
+9,Japanese,detail,甲冑の騎士,……も……
+10,Japanese,detail,ビィ,……？
+11,Japanese,detail,甲冑の騎士,……よくも！<br>余計なことをしてくれたな！
+12,Japanese,detail,ビィ,んなっ！？
+13,Japanese,detail,甲冑の騎士,貴様らさえ、いなければ……<br>俺ひとりで魔物を退けられた。<br>もっと感謝されていた！ なのに……！
+14,Japanese,detail,ビィ,な、何言ってんだよ？
+15,Japanese,detail,カタリナ,感謝される……？<br>そんな理由で人助けとは<br>……呆れた奴だな。
+16,Japanese,detail,甲冑の騎士,黙れ！<br>貴様らに何が分かる……<br>……うぐッ……！
+17,Japanese,detail,ビィ,お、おい……！？<br>どっか怪我をしてるのか！？
+18,Japanese,detail,ルリア,……！<br>甲冑から、妙な力を感じます。<br>これは……
+19,Japanese,detail,甲冑の騎士,くっ……呪いだ……<br>この、呪詛のせいで、俺は……
+20,Japanese,detail,カタリナ,……何か、理由があるのか？<br>よかったら、話してくれないか。
+21,Japanese,detail,,<span class='scene-font-katari'>甲冑に身を包んだ騎士は、</span><br><span class='scene-font-katari'>ガウェインと名乗ると、その身に</span><br><span class='scene-font-katari'>課せられた呪いについて語り始めた。</span>
+22,Japanese,detail,,<span class='scene-font-katari'>その昔、自惚れから</span><br><span class='scene-font-katari'>魔導師に戦いを挑んだガウェインは、</span><br><span class='scene-font-katari'>返り討ちにあい呪詛を掛けられたと言う。</span>
+23,Japanese,detail,,<span class='scene-font-katari'>呪いを解く方法はひとつ。</span><br><span class='scene-font-katari'>人々を助け、暖かな心を知り、</span><br><span class='scene-font-katari'>高慢さを改めること――</span>
+24,Japanese,detail,,<span class='scene-font-katari'>その言葉を頼りに、</span><br><span class='scene-font-katari'>ガウェインは人助けをしながら</span><br><span class='scene-font-katari'>島々を放浪していたのだった。</span>
+25,Japanese,detail,ビィ,人を助けて<br>高慢さを改める、ねぇ……
+26,Japanese,detail,ガウェイン,感謝されれば、呪いが解ける。<br>だというのに、貴様らは、<br>余計なことを……！
+27,Japanese,detail,ビィ,オイオイ！<br>そんな言い方はないだろ！
+28,Japanese,detail,カタリナ,……おそらく君は、<br>そのままでは一生呪いを解くことは<br>できないだろうな。
+29,Japanese,detail,ガウェイン,なんだと！？
+30,Japanese,detail,カタリナ,聞くが、旅を始めて<br>少しは呪いが解ける気配があったのか？
+31,Japanese,detail,ガウェイン,…………ッ！<br>黙れッ！ 貴様らに何が分かる！<br>それ以上無駄口を叩くなら……
+32,Japanese,detail,ルリア,……あ、あの！<br>待ってください、ふたりとも！<br>私に、いい案があるんです！
+33,Japanese,detail,ルリア,ガウェインさん、もしよければ<br>私達と一緒に来ませんか？
+34,Japanese,detail,ガウェイン,……何？
+35,Japanese,detail,ルリア,えっと……私達の騎空団も、<br>世界中を旅しているんです。
+36,Japanese,detail,ルリア,もしかしたら、旅の途中で<br>ガウェインさんの呪いを解く方法が<br>見つかるかもしれませんし……
+37,Japanese,detail,ルリア,それに、強い魔物と戦う時、<br>ガウェインさんがいたら心強いなって。<br>……ね、[플레이어]？
+38,Japanese,sel1_txt,,<span class='scene-font-katari'>力を貸してほしい</span>
+39,Japanese,sel2_txt,,<span class='scene-font-katari'>あなたを助けたい</span>
+40,Japanese,detail,ガウェイン,フン……<br>そこまで言われたら、仕方ない。
+41,Japanese,detail,ガウェイン,まあこれも、人助けと思えば……<br>……いいだろう、手伝ってやる。<br>
+42,Japanese,detail,ガウェイン,俺を助けるだと！？<br>ふざけたことを……うぐッ！
+43,Japanese,detail,カタリナ,どんな呪いかは知らないが、<br>余裕があるようには見えないぞ？
+44,Japanese,detail,ガウェイン,くっ……黙れ……！<br>……くそ、やむをえん、か……
+45,Japanese,detail,ビィ,……なあ、兄ちゃん。<br>さっきから気になってたけど、<br>オマエもうひとつの条件を忘れてないか？
+46,Japanese,detail,ガウェイン,もうひとつ？
+47,Japanese,detail,ビィ,高慢さを改めろ、って方。<br>オイラとしては、そっちの方が<br>重要なんじゃないかって……
+48,Japanese,detail,ガウェイン,高慢？ ……ハッ、俺が高慢だと？<br>実力を持つものが<br>人を見下して何が悪い。
+49,Japanese,detail,ガウェイン,無駄口はよせ。<br>[플레이어]、貴様が団長か？<br>なら、騎空艇へさっさと案内しろ。
+50,Japanese,detail,カタリナ,…………<br>呪いが解けるのは、<br>当分、先になりそうだな……
+51,Japanese,detail,ビィ,むぅ……気に食わねぇけど……<br>ま、力強いのは確かか。
+52,Japanese,detail,ルリア,いっぱい良いことをして、<br>頑張って、呪いを解きましょう！
+53,Japanese,detail,,<span class='scene-font-katari'>呪詛に縛られた甲冑の騎士、</span><br><span class='scene-font-katari'>ガウェインを迎え、</span><br><span class='scene-font-katari'>一行は再び空へと舞い上がった。</span>
+54,Japanese,detail,,<span class='scene-font-katari'>果たして、呪いを解く日は来るのか。</span><br><span class='scene-font-katari'>すべては、堅く甲冑に覆われた</span><br><span class='scene-font-katari'>彼の心次第だろう。</span>
+55,Japanese,synopsis,,ガウェインの甲冑にかけられた呪いに効くという魔石の噂を聞く<span>[플레이어]</span>一行。魔石を求めて怪しげな森へと進むが、そこは奇妙な魔力に満ちており、次々と魔物が襲いかかってくる。
+56,Japanese,detail,,<span class='scene-font-katari'>呪いを解きたくば、</span><br><span class='scene-font-katari'>人を助け、高慢さを改めよ――</span>
+57,Japanese,detail,,<span class='scene-font-katari'>甲冑に呪詛を受けた騎士、</span><br><span class='scene-font-katari'>ガウェインと共に</span><br><span class='scene-font-katari'>旅を続けていた[플레이어]達。</span>
+58,Japanese,detail,,<span class='scene-font-katari'>道すがら知り合った商人から、</span><br><span class='scene-font-katari'>呪いに効く魔石があると聞いた一行は、</span><br><span class='scene-font-katari'>薄暗い森へと足を踏み入れたのだった。</span>
+59,Japanese,detail,カタリナ,うっ……これは……<br>息苦しいほどの瘴気だな……
+60,Japanese,detail,ルリア,それだけじゃない……<br>なんだか、奇妙な魔力も……
+61,Japanese,detail,ビィ,なあ、[플레이어]。<br>あの商人の言葉、<br>本当に信頼できると思うか？
+62,Japanese,detail,ビィ,この森の奥に、<br>甲冑の兄ちゃんの呪いを解く<br>魔石がある、なんてよぉ……
+63,Japanese,detail,ラカム,そもそも、通りすがりの商人が<br>呪いのことを知ってるってのも<br>なーんか、胡散臭ぇ。
+64,Japanese,detail,ラカム,やっぱり、街に行って<br>人助けをした方が……
+65,Japanese,detail,ガウェイン,ごちゃごちゃとうるさい奴らだな。
+66,Japanese,detail,ラカム,なっ……！
+67,Japanese,detail,ガウェイン,怖気づいたか？<br>フン……腰抜けめ。<br>嫌なら帰れ、俺はひとりで行く。
+68,Japanese,detail,ラカム,あのなぁ！<br>俺達はお前の呪いを心配して……
+69,Japanese,detail,魔物,グルルルゥ……！
+70,Japanese,detail,カタリナ,……！<br>やはり、出たな。<br>気をつけろ、並の魔物じゃないぞ。
+71,Japanese,detail,ガウェイン,フン……<br>この程度、肩慣らしにもならん。<br>我が斧の錆にしてくれる！
+72,English,synopsis,,"A monster attack brings the crew face-to-face with Gawain, a knight in shining armor who's protecting the village. Learning he is cursed to wear armor until his good deeds outweigh his sins, [플레이어] offers Gawain a spot on the crew."
+73,English,detail,,The party stops by a village for a well-deserved break. The large group of monsters there has other plans.
+74,English,detail,,A lone knight in armor stands to defend the panicked villagers from the monsters.
+75,English,detail,,[플레이어] and company rush to offer their assistance.
+76,English,detail,Katalina,"Whew, looks like we got rid of them."
+77,English,detail,Villager,"Ah, travelers! You've chased off the monsters! We can't thank you enough."
+78,English,detail,Katalina,As long as you're safe. As for that knight...
+79,English,detail,Armored Knight,...
+80,English,detail,Vyrn,"Hey! You're not hurt, are you? You've got some impressive moves!"
+81,English,detail,Armored Knight,You...
+82,English,detail,Vyrn,...?
+83,English,detail,Armored Knight,How dare you! You've really gone and done it now!
+84,English,detail,Vyrn,Huh?
+85,English,detail,Armored Knight,I could've defeated those monsters myself. The villagers would be thanking me instead. Humph.
+86,English,detail,Vyrn,What are you trying to say?
+87,English,detail,Katalina,"Being thanked is your reason for helping people? Well, color me shocked."
+88,English,detail,Armored Knight,"Oh, shut it! What the hell do you know? Gah!"
+89,English,detail,Vyrn,H-hey! Are you hurt or something?
+90,English,detail,Lyria,His armor... There's something strange about it...
+91,English,detail,Armored Knight,It's the curse. I have to—Agh...
+92,English,detail,Katalina,Have to what? Why don't you tell us what's going on.
+93,English,detail,,"The armored knight goes by Gawain. He tells the crew of his armor, of his curse."
+94,English,detail,,Long ago he'd been a prideful lad. He challenged a sorceress to a duel and was struck with a curse.
+95,English,detail,,"There is only one way to lift the curse. He would have to perform selfless deeds, as the only cure for a big head is a generous heart."
+96,English,detail,,"And so, with those words ringing in his ears, Gawain begins to hop from island to island on his journey of atonement."
+97,English,detail,Vyrn,So you have to reflect on your pride by helping people...
+98,English,detail,Gawain,I can break the curse if people feel like I helped them... But you had to go and mess it all up!
+99,English,detail,Vyrn,Wait a second! Do you know how you sound?
+100,English,detail,Katalina,I think you'd better get used to that curse. It's going to be there for a while.
+101,English,detail,Gawain,What?
+102,English,detail,Katalina,Do you feel like you've even come close to getting rid of it since you started this whole thing?
+103,English,detail,Gawain,"Gah! Shut up! What the hell do you know about anything? Go on, just keep running your mouth!"
+104,English,detail,Lyria,"H-hey, you two! Just hold on a minute! I think I have an idea!"
+105,English,detail,Lyria,Gawain... Why don't you come with us?
+106,English,detail,Gawain,"Wait, what?"
+107,English,detail,Lyria,"We're, um... We're skyfarers. We're traveling the world."
+108,English,detail,Lyria,We might be able to find a way to lift the curse if you come with us...
+109,English,detail,Lyria,"And think of what would happen if we ran into some big monsters. You'd be a lifesaver... Right, [플레이어]?"
+110,English,sel1_txt,,We could use a strong guy like you.
+111,English,sel2_txt,,We want to help.
+112,English,detail,Gawain,"Humph, fine. If you say so..."
+113,English,detail,Gawain,"Besides, this probably counts as a good deed... Sure, you'll have my help."
+114,English,detail,Gawain,"You? Help me? Talk some sense, will ya?"
+115,English,detail,Katalina,"I'm not sure what kind of a curse you have, but I don't really think you're in a position to say no."
+116,English,detail,Gawain,"Ack, shut up! Damn it! I... I guess I have to..."
+117,English,detail,Vyrn,"Umm... I've kinda been wanting to ask, but don't you think you're missing the point?"
+118,English,detail,Gawain,What point?
+119,English,detail,Vyrn,"Your pride. If you ask me, that's what it all comes down to."
+120,English,detail,Gawain,My pride? Hah. Are you calling me proud? It's the right of the strong to look down on the common rabble. Am I wrong?
+121,English,detail,Gawain,"Enough gum flapping. [플레이어], you're the leader, aren't you? Show me to your ship. And be quick about it."
+122,English,detail,Katalina,My money's on the curse staying around for a while.
+123,English,detail,Vyrn,"Ugh... He's a jerk, but at least we know he's tough."
+124,English,detail,Lyria,We'll do lots of good deeds and rid Gawain of his curse!
+125,English,detail,,"Bound by his curse, the armored knight Gawain joins our heroes. They set off into the sky once again."
+126,English,detail,,"Whether his freedom will ever come remains to be seen. Of course, changing his mindset is going to be the biggest hurdle."
+127,English,synopsis,,[플레이어] and company hear of a magic stone said to work on Gawain's curse. They enter an ominous forest in search of it.
+128,English,detail,,"If you want to dispel the curse, help people and change your arrogant ways."
+129,English,detail,,"A knight with cursed armor, Gawain, accompanies [플레이어] and company in their journey."
+130,English,detail,,A merchant they come across speaks of a magic stone that works on curses. The crew heads into a dark forest in search of the stone.
+131,English,detail,Katalina,Ugh... The miasma here makes it difficult to breathe...
+132,English,detail,Lyria,That's not all. I feel a bizarre magical presence too...
+133,English,detail,Vyrn,"Hey, [플레이어]. Do you think we can trust what that merchant said?"
+134,English,detail,Vyrn,A magic stone that just so happens to work on the armored guy's cursed armor seems a bit... You know...
+135,English,detail,Rackam,It seems highly suspicious that some merchant passing by knows about the curse anyway.
+136,English,detail,Rackam,Maybe we should just go to town and help people to—
+137,English,detail,Gawain,You people need to know when to shut up.
+138,English,detail,Rackam,What!
+139,English,detail,Gawain,"Are you afraid? Humph... Coward. If you're afraid, then go home. I'll do this alone if I have to."
+140,English,detail,Rackam,"C'mon now, we're worried about the curse placed on you."
+141,English,detail,Monster,Grrr!
+142,English,detail,Katalina,There they are. Be careful. Those are no ordinary monsters.
+143,English,detail,Gawain,Humph... These monsters don't even make for a good warm-up. At least they'll take the dust off my axe!

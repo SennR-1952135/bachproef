@@ -1,0 +1,68 @@
+,code,name,description
+0,CST3100,Introduction to Computer Programming,The underlying technical core of business systems is an effective and efficient implementation of program code. Through technical introducti... + Read More
+1,CST3101,Database Design Fundamentals,"Modern business systems rely on fast information storage, processing and retrieval for everyday operations and strategic decision-making. St... + Read More"
+2,ENL1100,Communications and Academic Writing,Effective communication is an integral component of success in the workplace and in lifelong learning. Students review communication theory ... + Read More
+3,MAT8003,Mathematics for Programming,"The core foundation of all computer science is mathematics. Students examine elementary discrete mathematics for computer science, knowledge... + Read More"
+4,MGT4102,Business Fundamentals,"In today's growing global economy, organizations are facing many new, diverse and competing challenges that have significant impact on their... + Read More"
+5,ACC4101,Financial Accounting,Generally accepted accounting principles are widely used as benchmarks throughout business. Students explore the role of financial accountin... + Read More
+6,CST3102,Programming,The de facto development paradigm for mobile and enterprise systems is object based. This course explores the fundamentals of object-oriente... + Read More
+7,CST3103,Data Communication and Networking,"Business decision-makers increasingly demand and rely on immediate access to accurate and secure information. Students examine the concepts,... + Read More"
+8,HLT0280,Introduction to the Canadian Healthcare System,"The Canadian healthcare system is a complex mix of jurisdictions, payment methods, delivery systems, care providers, and views of wellness a... + Read More"
+9,PHI1000,Logic and Critical Thinking,"Logic and critical-thinking skills play an important role in both daily life and ongoing academic studies. As foundational skills, they supp... + Read More"
+10,QUA2000,Statistics,"Students explore fundamental statistical concepts and use statistical software to summarize, analyze and present both descriptive and infere... + Read More"
+11,CST3104,Introduction to Mobile Application Development,"Mobile devices, such as smartphones and tablets, are omnipresent and have come to dominate the landscape of mobile computing. Students exami... + Read More"
+12,CST3105,Advanced Database Design and SQL,"Increasingly, businesses face challenges involved with handling volumes of large and complex data. The ability to effectively store, manage,... + Read More"
+13,CST3106,Internet Architecture and Web Development,"Internet-based services are a key foundation of e-Commerce systems. Students explore the infrastructure, both in terms of networking and ser... + Read More"
+14,CST3107,Operating Systems,"Operating systems come in different varieties, such as Windows, Unix, iOS, Android, etc., each with its own unique attributes, but all shari... + Read More"
+15,ESC4300,Basics of Supply Chain Management,"From a planning point of view, the need to balance demand and supply is paramount in today's business world. The basic concepts to manage a ... + Read More"
+16,MGT4701,Advanced Business Statistics,"With the unprecedented amount of data available, business analytics has become increasingly important in delivering value to businesses and ... + Read More"
+17,ACC4201,Managerial Accounting,"Managerial accounting is the process of identifying, analyzing, recording and presenting financial information that is used for internal pla... + Read More"
+18,BUS0008,Business Analytics and Advanced Business Intelligence,Business Intelligence (BI) allows organizations to leverage their ability to use available information in new and innovative ways that exten... + Read More
+19,CST3108,Data Structures and Algorithms,Data structures and algorithms form the core of all practical computer science. Students explore a variety of important data structures and ... + Read More
+20,CST3109,Business Systems Requirements Analysis,Translating client requirements into system specifications is critical to successful end products and the starting point is requirements ana... + Read More
+21,ECO4201,Macroeconomics,Macroeconomics is a social science that examines the objectives and policies that affect the whole economy.  Students explore the principles... + Read More
+22,ESC4503,Technology Integration Using SAP,"In the continuously evolving business world, there is a need for a solid framework for enterprise technology integration in business organiz... + Read More"
+23,BUS0007,Strategic Business Intelligence,"Business Intelligence systems are essential for collecting, storing, evaluating and analyzing information. Students study the principles rel... + Read More"
+24,CST3110,Enterprise Architecture,"In a strategic sense, enterprise system architects are key contributors of any business. Collaborating effectively at all levels within the ... + Read More"
+25,CST3111,Project Management for It,The role of project management in information technology (IT) revolves around product development and implementation. The content has been c... + Read More
+26,CST3112,Business Systems Design and Implementation,"Design and implementation follow requirements analysis, and often occupy a significant portion of the development process. Guided by softwar... + Read More"
+27,PSI2000,Navigating Canada's Political Landscape,"A developed knowledge of government and politics is key to an effective participation in public life.  Drawing on current events, students e... + Read More"
+28,BUS0009,Risk Management and Strategies,We live in an ever changing world where risk is part of day-to-day life. Both government and private sector strive to develop strategies to ... + Read More
+29,CST3113,Enterprise Application Development,Enterprise applications are designed to integrate with other enterprise-level software applications used within a business or organization. ... + Read More
+30,CST3114,Professional Option I: Data Analytics,Collecting and analyzing raw data to draw conclusions helps to guide organizations in the decision-making process. Students explore the stat... + Read More
+31,MGT0107,Business Technology Management,Government and private sector organizations continuously undergo major transformation with respect to technology. Technology is a major enab... + Read More
+32,SOC2000,Introduction to Sociology,When working with individuals and groups it is important to understand both the background and influences present. Students develop a famili... + Read More
+33,WKT0009,Co-Op I,The first co-op placement provides students with experiential opportunities within the field.  Students attain entry-level positions that in... + Read More
+34,WKT0010,Co-Op II,Co-op provides an experiential opportunity which is directly related to the field of study. The second work term centers on an expanded role... + Read More
+35,WKT0011,Co-Op Work Term III,Co-op provides an experiential opportunity which is directly related to the  field of study. The second work term centers on an expanded rol... + Read More
+36,WKT0010,Co-Op II,Co-op provides an experiential opportunity which is directly related to the field of study. The second work term centers on an expanded role... + Read More
+37,WKT0011,Co-Op Work Term III,Co-op provides an experiential opportunity which is directly related to the  field of study. The second work term centers on an expanded rol... + Read More
+38,BUS0010,"Business Systems Security, Audit and Control","As a result of the increasing concern for security of information, there is a growing demand for qualified auditors to perform security audi... + Read More"
+39,CST3115,Enterprise Mobile Application Development,"Enterprise mobile software offers tremendous opportunity for engagement, both by ensuring customers return to your server on a regular basis... + Read More"
+40,CST3116,Project I,"In order to practice in a professional capacity, students must fully integrate business systems development skills and knowledge. Students g... + Read More"
+41,CST3119,Professional Option II: Wearable Computing,"Wearable computers (WCs) are systems that typically comprise one or more body-mounted devices such as monitors or sensors, endowed with a mo... + Read More"
+42,CUL4000,Global Citizenship,"Informed citizens in today's world appreciate the meaning of civic life at the local, national and global level. Students reflect on and dev... + Read More"
+43,ENL4016,World Literature,Exposure to broad sources of literature promotes an open-minded perspective on today's global society and encourages an appreciation of dive... + Read More
+44,ENL4100,Creative Writing,"Whether for personal or public consumption, many people enjoy writing short fiction to express their creative energy while improving upon th... + Read More"
+45,ENL4200,New Worlds and Alternative Realities: Speculative Fiction,Speculative fiction gathers together all those works of fiction in which new worlds or alternative realities are envisioned.  Within this ca... + Read More
+46,PHI4000,Philosophy and Popular Culture,"Many facets of today's popular culture engage, directly or indirectly, with the concerns of a variety of philosophical traditions. Drawing o... + Read More"
+47,PHI4003,The Philosophy of Love and Sex,"Love and sex are central to the human condition, and have been topics of academic inquiry and controversy throughout history. Various practi... + Read More"
+48,PHI4004,"Technology,Society and the Environment","Environmental issues have come to occupy a central place in the marketplace, politics, policy, and society at large. Owing largely to the ma... + Read More"
+49,PHI4100,Survival in the Information Age: Risk and the Media,"On an almost daily basis, the media, through its various outlets - television, radio, web sites, RSS, and podcasts - reports on issues that ... + Read More"
+50,PHY4000,"Black Holes, Big Bangs and the Cosmos","The dynamic and exciting field of Cosmology outlines our current understanding of the Universe from its start, at the so-called Big Bang, th... + Read More"
+51,SOC4000,Criminology,The interdisciplinary study of social science examining the individual and social aspects of crime is known as criminology. Students work th... + Read More
+52,SOC4001,Global Perspectives,"Sociology, through its exploration of the organization of society and the connections between people and their surroundings, provides new wa... + Read More"
+53,CST3117,Project II,Possessing practical and real-world experience in project execution is a necessity for entry into the field of business systems development.... + Read More
+54,CST3118,Business Software Agents and Artificial Intelligence,An agent is anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators. A ... + Read More
+55,MGT6120,Entrepreneurship,Entrepreneurship and small business management are introduced from a Canadian perspective. Students develop the skills required to identify ... + Read More
+56,CUL4000,Global Citizenship,"Informed citizens in today's world appreciate the meaning of civic life at the local, national and global level. Students reflect on and dev... + Read More"
+57,ENL4016,World Literature,Exposure to broad sources of literature promotes an open-minded perspective on today's global society and encourages an appreciation of dive... + Read More
+58,ENL4100,Creative Writing,"Whether for personal or public consumption, many people enjoy writing short fiction to express their creative energy while improving upon th... + Read More"
+59,ENL4200,New Worlds and Alternative Realities: Speculative Fiction,Speculative fiction gathers together all those works of fiction in which new worlds or alternative realities are envisioned.  Within this ca... + Read More
+60,PHI4000,Philosophy and Popular Culture,"Many facets of today's popular culture engage, directly or indirectly, with the concerns of a variety of philosophical traditions. Drawing o... + Read More"
+61,PHI4003,The Philosophy of Love and Sex,"Love and sex are central to the human condition, and have been topics of academic inquiry and controversy throughout history. Various practi... + Read More"
+62,PHI4004,"Technology,Society and the Environment","Environmental issues have come to occupy a central place in the marketplace, politics, policy, and society at large. Owing largely to the ma... + Read More"
+63,PHI4100,Survival in the Information Age: Risk and the Media,"On an almost daily basis, the media, through its various outlets - television, radio, web sites, RSS, and podcasts - reports on issues that ... + Read More"
+64,PHY4000,"Black Holes, Big Bangs and the Cosmos","The dynamic and exciting field of Cosmology outlines our current understanding of the Universe from its start, at the so-called Big Bang, th... + Read More"
+65,SOC4000,Criminology,The interdisciplinary study of social science examining the individual and social aspects of crime is known as criminology. Students work th... + Read More
+66,SOC4001,Global Perspectives,"Sociology, through its exploration of the organization of society and the connections between people and their surroundings, provides new wa... + Read More"

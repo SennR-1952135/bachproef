@@ -1,0 +1,91 @@
+,year,country,city
+0,2005,United States,Boston
+1,2005,United States,Houston
+2,2005,United States,Boston
+3,2005,United States;United States,Seattle;Seattle
+4,2005,United States;United States,Tampa;Columbus
+5,2005,United States;United States;United States,Boston;Boston;Cambridge
+6,2005,Japan,Kanazawa
+7,2004,United States;Australia;United States,Ann Arbor;Adelaide;Cambridge
+8,2004,United States,Ann Arbor
+9,2004,Sweden;Sweden,Stockholm;Stockholm
+10,2004,Germany,Hamburg
+11,2004,Finland,Helsinki
+12,2004,Austria,Graz
+13,2004,United States,New Orleans
+14,2004,United States;United States,Atlanta;Hyattsville
+15,2004,United States,Atlanta
+16,2004,Canada,Vancouver
+17,2004,Greece,Athens
+18,2004,United States,New York
+19,2004,United States;United States,Boston;Hanover
+20,2004,Australia,Perth
+21,2004,United States,Bethesda
+22,2004,United States,Cambridge
+23,2004,United States;United States,Chapel Hill;Bethesda
+24,2004,United States,Atlanta
+25,2003,United States,Boston
+26,2003,Egypt;Egypt,Cairo;Ain Shams
+27,2003,United States,Atlanta
+28,2003,Japan,Kobe
+29,2003,United States,Hartford
+30,2003,United States,Atlanta
+31,2003,United States,Seattle
+32,2003,United States,Minneapolis
+33,2002,United States;United States;United States;United States;United States;United States;United States,Albuquerque;Indianapolis;Iowa City;Seattle;Kenilworth;Blue Bell;Seattle
+34,2002,United States,Buffalo
+35,2002,United States;United States,Wellesley;Boston
+36,2002,United States,Bethesda
+37,2002,,
+38,2002,United States,Atlanta
+39,2002,United States,Atlanta
+40,2001,Italy,Ancona
+41,2001,Australia,Sydney
+42,2001,United States,Seattle
+43,2001,United Kingdom;United Kingdom,London;London
+44,2001,United States,Atlanta
+45,2000,United States;United States,Boston;Boston
+46,2000,United Kingdom,Oxford
+47,2000,United States,"Iowa City, IA"
+48,2000,United States;United States,West Haven;New Haven
+49,1999,United States,Bethesda
+50,1999,United States;United States,Los Angeles;Los Angeles
+51,1999,United States;United States,Denver;Denver
+52,1999,Sweden,Linkoping
+53,1999,United States,Minneapolis
+54,1999,Canada,Montreal
+55,1999,France,Lyon
+56,1999,United States,Cleveland
+57,1998,United States;United States,Boston;Boston
+58,1998,United States;United States,Rochester;Rochester
+59,1997,United States,Boston
+60,1997,United States,Atlanta
+61,1997,United States,Watertown
+62,1997,Taiwan;Taiwan,Taipei;Taipei
+63,1997,United States,Boston
+64,1996,,
+65,1996,United States,Atlanta
+66,1996,United States,Cambridge
+67,1996,,
+68,1996,United States,Boston
+69,1996,United Kingdom,Oxford
+70,1995,,
+71,1995,United States,Durham
+72,1994,United States,Salt Lake City
+73,1993,United States,Bethesda
+74,1992,United States,Stanford
+75,1992,United Kingdom,Oxford
+76,1991,United States,New Haven
+77,1990,,
+78,1990,United States,New Haven
+79,1990,United States,Berkeley
+80,1989,United States,Atlanta
+81,1989,United States,Ann Arbor
+82,1988,United States,Bethesda
+83,1986,,
+84,1981,United States,Chicago
+85,1979,France,Lyon
+86,1977,United States,New York
+87,1972,United States,Boston
+88,1965,United Kingdom,London
+89,1922,United States,Chicago

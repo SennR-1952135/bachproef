@@ -1,0 +1,267 @@
+,rank,name,genre,publisher
+0,3,Mario Kart Wii,Racing,Nintendo
+1,5,Wii Sports Resort,Sports,Nintendo
+2,7,New Super Mario Bros.,Platform,Nintendo
+3,9,New Super Mario Bros. Wii,Platform,Nintendo
+4,12,Wii Play,Misc,Nintendo
+5,15,Mario Kart DS,Racing,Nintendo
+6,29,Pokemon X/Y,Role-Playing,Nintendo
+7,34,Pokemon Black / White Version,Role-Playing,Nintendo
+8,44,Halo 3,Shooter,Microsoft Game Studios
+9,50,Call of Duty: Modern Warfare 2,Shooter,Activision
+10,53,Super Smash Bros. Brawl,Fighting,Nintendo
+11,58,Super Mario Galaxy,Platform,Nintendo
+12,64,Super Smash Bros. Ultimate,Fighting,Nintendo
+13,72,The Legend of Zelda: Breath of the Wild,Action-Adventure,Nintendo
+14,80,Grand Theft Auto IV,Action,Rockstar Games
+15,81,Super Mario All-Stars,Platform,Nintendo
+16,85,Horizon: Zero Dawn,Action,Sony Interactive Entertainment
+17,91,Final Fantasy VII,Role-Playing,Sony Computer Entertainment
+18,95,Call of Duty 4: Modern Warfare,Shooter,Activision
+19,108,Grand Theft Auto V,Action,Rockstar Games
+20,111,Final Fantasy X,Role-Playing,Square
+21,112,Pokemon Black 2 and White 2,Role-Playing,Nintendo
+22,127,Pokemon Platinum Version,Role-Playing,Nintendo
+23,128,The Legend of Zelda: Ocarina of Time,Adventure,Nintendo
+24,131,Call of Duty: World at War,Shooter,Activision
+25,133,Super Mario Galaxy 2,Platform,Nintendo
+26,137,The Legend of Zelda: Twilight Princess,Adventure,Nintendo
+27,148,Uncharted 3: Drake's Deception,Action,Sony Computer Entertainment
+28,152,Uncharted 2: Among Thieves,Action,Sony Computer Entertainment
+29,153,Call of Duty 4: Modern Warfare,Shooter,Activision
+30,161,Red Dead Redemption,Action,Rockstar Games
+31,163,Final Fantasy XII,Role-Playing,Square Enix
+32,177,Metal Gear Solid 2: Sons of Liberty,Action,Konami
+33,181,Metal Gear Solid 4: Guns of the Patriots,Action,Konami
+34,185,LittleBigPlanet,Platform,Sony Computer Entertainment
+35,203,Assassin's Creed,Action,Ubisoft
+36,205,Forza Motorsport 3,Racing,Microsoft Game Studios
+37,217,Final Fantasy XIII,Role-Playing,Square Enix
+38,234,God of War III,Action,Sony Computer Entertainment
+39,244,Resident Evil 5,Action,Capcom
+40,256,Gears of War,Shooter,Microsoft Game Studios
+41,257,Gears of War 2,Shooter,Microsoft Game Studios
+42,262,Uncharted: Drake's Fortune,Action,Sony Computer Entertainment
+43,264,Fallout 3,Role-Playing,Bethesda Softworks
+44,275,Assassin's Creed,Action,Ubisoft
+45,285,Monster Hunter: World,Action,Capcom
+46,286,Gran Turismo,Racing,Sony Computer Entertainment
+47,321,Resistance: Fall of Man,Shooter,Sony Computer Entertainment
+48,325,Animal Crossing: City Folk,Simulation,Nintendo
+49,332,God of War II,Action,Sony Computer Entertainment
+50,341,Street Fighter IV,Fighting,Capcom
+51,376,World of Warcraft: Wrath of the Lich King,MMO,Blizzard Entertainment
+52,400,Monster Hunter Freedom Unite,Role-Playing,Capcom
+53,417,Banjo-Kazooie,Platform,Nintendo
+54,420,Jak and Daxter: The Precursor Legacy,Platform,Sony Computer Entertainment
+55,450,Left 4 Dead,Shooter,Valve Corporation
+56,452,Fable II,Role-Playing,Microsoft Game Studios
+57,459,Battlefield: Bad Company 2,Shooter,Electronic Arts
+58,463,Guitar Hero: On Tour,Misc,Activision
+59,505,God of War: Chains of Olympus,Action,Sony Computer Entertainment
+60,538,Mass Effect 2,Role-Playing,Electronic Arts
+61,546,Heavy Rain,Adventure,Sony Computer Entertainment
+62,555,Tom Clancy's Splinter Cell,Action,Ubisoft
+63,560,Killzone 2,Shooter,Sony Computer Entertainment
+64,561,Crysis,Shooter,Electronic Arts
+65,573,inFAMOUS,Action,Sony Computer Entertainment
+66,581,Battlefield: Bad Company 2,Shooter,Electronic Arts
+67,584,Street Fighter IV,Fighting,Capcom
+68,593,Mass Effect,Role-Playing,Microsoft Game Studios
+69,619,Metroid Prime,Shooter,Nintendo
+70,622,BioShock,Shooter,2K Games
+71,668,Call of Duty 3,Shooter,Activision
+72,674,Halo Wars,Strategy,Microsoft Game Studios
+73,729,Crisis Core: Final Fantasy VII,Role-Playing,Square Enix
+74,753,Resistance 2,Shooter,Sony Computer Entertainment
+75,767,Kirby Star Allies,Platform,Nintendo
+76,836,Resident Evil 4,Action,Capcom
+77,858,Guitar Hero III: Legends of Rock,Misc,RedOctane
+78,861,Call of Duty 3,Shooter,Activision
+79,870,Prince of Persia: The Sands of Time,Adventure,Ubisoft
+80,909,Devil May Cry,Action,Capcom
+81,955,Donkey Kong Country: Tropical Freeze,Platform,Nintendo
+82,969,Call of Duty 2,Shooter,Activision
+83,999,Onimusha: Warlords,Action,Capcom
+84,1027,Donkey Kong Country: Tropical Freeze,Platform,Nintendo
+85,1058,Call of Duty: World at War,Shooter,Activision
+86,1081,Dissidia: Final Fantasy,Fighting,Square Enix
+87,1084,Monster Hunter Tri,Role-Playing,Capcom
+88,1090,Ratchet & Clank Future: A Crack in Time,Platform,Sony Computer Entertainment
+89,1105,Star Wars: The Force Unleashed,Action,LucasArts
+90,1111,The Legend of Dragoon,Role-Playing,Sony Computer Entertainment
+91,1134,Demon's Souls,Role-Playing,Atlus
+92,1199,Crackdown,Shooter,Microsoft Game Studios
+93,1341,The Legend of Zelda: Breath of the Wild,Action-Adventure,Nintendo
+94,1363,Sonic Unleashed,Platform,Sega
+95,1382,Devil May Cry 4,Action,Capcom
+96,1412,Yoshi's Woolly World,Platform,Nintendo
+97,1420,Sonic the Hedgehog (2006),Platform,Sega
+98,1455,Call of Duty: Modern Warfare: Reflex Edition,Shooter,Activision
+99,1482,Octopath Traveler,Role-Playing,Nintendo
+100,1523,Tom Clancy's Splinter Cell: Pandora Tomorrow,Action,Ubisoft
+101,1541,Resident Evil 4: Wii Edition,Action,Capcom
+102,1563,The House of the Dead 2 & 3 Return,Shooter,Sega
+103,1565,BioShock,Shooter,2K Games
+104,1604,Metroid Prime 3: Corruption,Shooter,Nintendo
+105,1668,Star Wars Knights of the Old Republic II: The Sith Lords,Role-Playing,LucasArts
+106,1732,Grand Theft Auto: Chinatown Wars,Adventure,Rockstar Games
+107,1741,MAG: Massive Action Game,Shooter,Sony Computer Entertainment
+108,1772,Final Fantasy: Crystal Chronicles,Role-Playing,Nintendo
+109,1775,Resident Evil: The Umbrella Chronicles,Shooter,Capcom
+110,1814,Castlevania: Symphony of the Night,Platform,Konami
+111,1916,Bayonetta,Action,Sega
+112,1942,Final Fantasy IV,Role-Playing,Square Enix
+113,1951,Sonic and the Black Knight,Platform,Sega
+114,2002,Army of Two,Shooter,Electronic Arts
+115,2020,World of Warcraft,MMO,Blizzard Entertainment
+116,2030,The Elder Scrolls V: Skyrim,Role-Playing,Bethesda Softworks
+117,2057,Shadow of the Colossus,Adventure,Sony Computer Entertainment
+118,2082,Mirror's Edge,Platform,Electronic Arts
+119,2166,FIFA 18,Sports,EA Sports
+120,2204,Dante's Inferno,Action,Electronic Arts
+121,2217,Star Fox: Assault,Shooter,Nintendo
+122,2224,Prince of Persia,Adventure,Ubisoft
+123,2343,Dragon Ball Z: Budokai Tenkaichi 3,Fighting,Atari
+124,2379,Prince of Persia,Adventure,Ubisoft
+125,2398,Devil May Cry 3: Dante's Awakening Special Edition,Action,Capcom
+126,2416,MotorStorm: Pacific Rift,Racing,Sony Computer Entertainment
+127,2426,Valkyria Chronicles,Role-Playing,Sega
+128,2447,Tales of Graces f,Role-Playing,Namco Bandai
+129,2514,de Blob,Platform,THQ
+130,2547,Red Steel,Shooter,Ubisoft
+131,2554,White Knight Chronicles: International Edition,Role-Playing,Sony Computer Entertainment
+132,2602,Bayonetta,Action,Sega
+133,2665,Lost Odyssey,Role-Playing,Microsoft Game Studios
+134,2680,Resistance: Retribution,Shooter,Sony Computer Entertainment
+135,2766,Paper Mario: Color Splash,Action-Adventure,Nintendo
+136,3026,MadWorld,Action,Sega
+137,3043,Tom Clancy's Splinter Cell: Double Agent,Action,Ubisoft
+138,3075,Perfect Dark Zero,Shooter,Microsoft Game Studios
+139,3138,Harry Potter and the Half-Blood Prince,Action,Electronic Arts
+140,3206,X-Men Origins: Wolverine - Uncaged Edition,Action,Activision
+141,3214,Tales of Vesperia,Role-Playing,Namco Bandai
+142,3215,Resonance of Fate,Role-Playing,Sega
+143,3251,Star Ocean: The Last Hope International,Role-Playing,Square Enix
+144,3314,Silent Hill 3,Adventure,Konami
+145,3438,The Last Remnant,Role-Playing,Square Enix
+146,3625,New Play Control! Pikmin,Strategy,Nintendo
+147,3634,Phantasy Star Portable,Role-Playing,Sega
+148,3700,Okami,Adventure,Capcom
+149,3732,Red Steel 2,Shooter,Ubisoft
+150,3774,Metroid Prime: Trilogy,Shooter,Nintendo
+151,3831,Okami,Adventure,Capcom
+152,3834,Suikoden,Role-Playing,Konami
+153,3835,Muramasa: The Demon Blade,Role-Playing,Ignition Entertainment
+154,4069,Starlink: Battle for Atlas,Action-Adventure,Ubisoft
+155,4120,Tom Clancy's HAWX,Action,Ubisoft
+156,4146,DOOM VFR,Shooter,Bethesda Softworks
+157,4161,No More Heroes,Action,Ubisoft
+158,4169,Lunar: Silver Star Story Complete,Role-Playing,Working Designs
+159,4267,Hotel Dusk: Room 215,Adventure,Nintendo
+160,4396,Tales of Symphonia: Dawn of the New World,Role-Playing,Namco Bandai
+161,4521,Fire Emblem Warriors,Action,Nintendo
+162,4629,Fire Emblem: Radiant Dawn,Strategy,Nintendo
+163,4814,Silent Hill: Shattered Memories,Adventure,Konami
+164,4980,Crash of the Titans,Action,Sierra Entertainment
+165,4986,L.A. Noire,Adventure,Rockstar Games
+166,5044,Sid Meier's Civilization Revolution,Strategy,2K Games
+167,5209,Asura's Wrath,Action,Capcom
+168,5210,Doom (2016),Shooter,Bethesda Softworks
+169,5404,NiGHTS: Journey of Dreams,Platform,Sega
+170,5782,Bionic Commando,Adventure,Capcom
+171,5845,Vampyr,Role-Playing,Focus Home Interactive
+172,5890,Castlevania: Order of Ecclesia,Platform,Konami
+173,6165,WWE Day of Reckoning 2,Fighting,THQ
+174,6352,Golden Axe: Beast Rider,Action,Sega
+175,6438,Folklore,Role-Playing,Sony Computer Entertainment
+176,6606,Might & Magic: Clash of Heroes,Role-Playing,Ubisoft
+177,6831,Little King's Story,Strategy,Xseed Games
+178,6948,Dead Rising: Chop Till You Drop,Action,Capcom
+179,7119,Darksiders,Action,THQ
+180,7279,The Conduit,Shooter,Sega
+181,7416,Shin Megami Tensei: Devil Survivor,Role-Playing,Atlus
+182,7423,Deadly Premonition,Action,Ignition Entertainment
+183,7670,MotoGP '07,Racing,THQ
+184,7746,Grandia,Role-Playing,Sony Computer Entertainment
+185,8356,Deadly Creatures,Action,THQ
+186,8411,Afrika,Adventure,Natsume
+187,8454,NBA,Sports,Sony Computer Entertainment
+188,8765,Dragon Ball: Revenge of King Piccolo,Action,Namco Bandai
+189,9326,FIFA 07 Soccer,Sports,EA Sports
+190,9668,Disgaea PC,Role-Playing,NIS America
+191,9825,Castlevania Judgment,Fighting,Konami
+192,10382,Geist,Adventure,Nintendo
+193,10656,South Park: The Fractured But Whole,Role-Playing,Ubisoft
+194,10804,Valhalla Knights: Eldar Saga,Role-Playing,Xseed Games
+195,11394,"Snipperclips Plus: Cut It Out, Together!",Puzzle,Nintendo
+196,11445,Fatal Frame: Maiden of Black Water,Misc,Nintendo
+197,11576,Prince of Persia: Rival Swords,Action,Ubisoft
+198,11619,Thousand Arms,Role-Playing,Atlus
+199,11881,BlazBlue: Calamity Trigger Portable,Fighting,Aksys Games
+200,12630,Yooka-Laylee,Platform,Sold Out
+201,12662,F.E.A.R. 2: Project Origin,Shooter,Warner Bros. Interactive
+202,12925,Ratchet & Clank Future: Quest for Booty,Platform,Sony Computer Entertainment
+203,12996,Battle Fantasia,Fighting,Aksys Games
+204,13198,Metal Slug Advance,Shooter,SNK
+205,13661,The Witch and the Hundred Knight 2,Role-Playing,NIS America
+206,14288,Crimson Gem Saga,Role-Playing,Atlus
+207,14638,Zoo Tycoon: Complete Collection,Strategy,Microsoft Game Studios
+208,15321,Wonder Boy: The Dragon's Trap (Remake),Platform,DotEmu
+209,15501,Devil's Third,Action,Nintendo
+210,15547,Wolfenstein,Shooter,Activision
+211,15649,RollerCoaster Tycoon,Simulation,Microprose
+212,16143,Monster Boy and the Cursed Kingdom,Action-Adventure,FDG Entertainment
+213,16353,The Raven Remastered,Adventure,THQ Nordic
+214,16507,Railway Empire,Simulation,Kalypso Media
+215,16710,Override: Mech City Brawl,Action-Adventure,Modus Games
+216,16764,Submarine Titans,Strategy,Strategy First
+217,16872,Penny-Punching Princess,Misc,NIS America
+218,16968,SNK 40th Anniversary Collection,Misc,NIS America
+219,17603,Left 4 Dead,Shooter,Valve Corporation
+220,17649,Mount & Blade,Role-Playing,Paradox Interactive
+221,17899,Runner3,Platform,Nicalis
+222,18379,Space Hulk: Deathwing,Shooter,Focus Home Interactive
+223,18508,Impossible Creatures,Strategy,Microsoft Game Studios
+224,18905,Moonlighter,Role-Playing,Merge Games
+225,20401,Sid Meier's Civilization II,Strategy,Microprose
+226,20583,Delta Force 2,Shooter,NovaLogic
+227,21028,Samantha Swift and the Hidden Roses of Athena,Adventure,Mumbo Jumbo
+228,21107,Arcania: Gothic 4,Role-Playing,JoWood Productions
+229,22012,After Burner Climax,Simulation,Sega
+230,22013,After Burner Climax,Simulation,Sega
+231,22335,Alien Breed 1: Evolution,Shooter,Team17 Software
+232,22994,Archibald's Adventures,Puzzle,Unknown
+233,24548,Bionic Commando Rearmed,Platform,Capcom
+234,25715,Call of Duty Classic,Shooter,Activision
+235,30219,Extinction,Action,Maximum Games
+236,31146,flower,Adventure,Sony Computer Entertainment
+237,31404,Frogger,Action,Konami
+238,32541,Gravity Crash,Shooter,Sony Computer Entertainment
+239,38335,Monsters (Probably) Stole My Princess!,Platform,Mediatonic
+240,39157,Neighbours From Hell,Strategy,Encore
+241,43105,Robotron: 2084,Shooter,Midway Games
+242,44283,Shantae: Half-Genie Hero,Platform,WayForward Technologies
+243,48499,The Legend of Zelda Collector's Edition,Adventure,Nintendo
+244,50526,Valkyria Chronicles: Challenges from Team Edy,Role-Playing,Sega
+245,50702,Viper Racing,Racing,Sierra Entertainment
+246,51098,Water Warfare,Shooter,Hudson Entertainment
+247,52669,ACA NEOGEO BLUE'S JOURNEY,Action,Hamster Corporation
+248,53096,Bigley's Revenge,Action,Unknown
+249,53152,Blossom Tales: The Sleeping King,Adventure,FDG Entertainment
+250,53194,Bubsy: The Woolies Strike Back,Platform,Accolade
+251,53197,Bullet Witch,Action,Unknown
+252,53279,Command & Conquer: Renegade,Shooter,Electronic Arts
+253,53303,Cossacks II Battle for Europe,Strategy,GSC Game World
+254,53473,Disc Jam,Sports,High Horse Entertainment
+255,53592,Everspace,Shooter,Badland Games
+256,53718,Freedom Planet,Platform,Galaxy Trail
+257,53886,Hollow Knight,Action-Adventure,Team Cherry
+258,54207,Meme Run,Action,Unknown
+259,54301,Mulaka,Action-Adventure,Lienzo
+260,54349,Neighbours from Hell 2: On Vacation,Puzzle,Cinemaware
+261,54427,Old Man's Journey,Puzzle,Broken Rules
+262,54987,SOMA,Adventure,Frictional Games
+263,55241,The Book of Unwritten Tales 2,Adventure,THQ Nordic
+264,55252,The Council,Adventure,Bigben Interactive
+265,55424,Thumper,Music,Drool

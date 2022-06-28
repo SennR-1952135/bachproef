@@ -1,0 +1,204 @@
+,rank,company,country,sales,industry
+0,16,Ping An Insurance Group,China,106.6,Diversified Insurance
+1,24,Alphabet,United States,89.9,
+2,44,Royal Bank of Canada,Canada,35.3,Major Banks
+3,60,Morgan Stanley,United States,37.9,Investment Services
+4,62,Banco Bradesco,Brazil,70.2,Regional Banks
+5,84,PepsiCo,United States,62.8,Beverages
+6,95,Nissan Motor,Japan,105.9,Auto & Truck Manufacturers
+7,104,Hyundai Motor,South Korea,80.7,Auto & Truck Manufacturers
+8,126,Anheuser-Busch InBev,Belgium,45.6,Beverages
+9,134,Gilead Sciences,United States,30.3,Biotechs
+10,135,China Communications Construction,China,64.1,Construction Services
+11,148,Tencent Holdings,China,22.8,Computer Services
+12,151,Credit Agricole,France,18.6,Major Banks
+13,152,Lockheed Martin,United States,49.9,Aerospace & Defense
+14,170,Qualcomm,United States,23.8,Semiconductors
+15,176,AstraZeneca,United Kingdom,23.0,Pharmaceuticals
+16,178,SAP,Germany,24.4,Software & Programming
+17,183,Delta Air Lines,United States,39.6,Airline
+18,195,GlaxoSmithKline,United Kingdom,37.6,Pharmaceuticals
+19,196,Deutsche Post,Germany,63.4,Air Courier
+20,206,Continental,Germany,44.9,Auto & Truck Parts
+21,241,Kroger,United States,115.3,Food Retail
+22,257,Bank of Beijing,China,13.4,Regional Banks
+23,270,Carnival,United States,16.5,Hotels & Motels
+24,283,Dominion Resources,United States,11.4,Electric Utilities
+25,289,Peugeot,France,59.8,Auto & Truck Manufacturers
+26,292,CNP Assurances,France,30.7,Diversified Insurance
+27,294,China Huarong Asset Management,China,13.5,
+28,305,Surgutneftegas,Russia,13.9,Oil & Gas Operations
+29,314,Philips,Netherlands,27.1,Conglomerates
+30,325,SunTrust Banks,United States,8.9,Regional Banks
+31,326,Greenland Holdings Group,China,32.8,
+32,327,China Cinda Asset Management,China,13.4,
+33,346,Celgene,United States,11.0,Biotechs
+34,347,China Evergrande Group,China,32.4,
+35,348,Takeda Pharmaceutical,Japan,15.9,Pharmaceuticals
+36,360,Chevron,United States,110.5,Oil & Gas Operations
+37,372,Biogen,United States,10.5,
+38,398,Metallurgical Corp of China,China,32.4,Construction Services
+39,400,Norfolk Southern,United States,9.9,Railroads
+40,411,China Yangtze Power,China,6.5,Electric Utilities
+41,418,Glencore International,Switzerland,153.7,Diversified Metals & Mining
+42,453,Fifth Third Bancorp,United States,6.7,Regional Banks
+43,455,ENGIE,France,73.7,
+44,462,Wesfarmers,Australia,50.0,Food Retail
+45,470,Thomson Reuters,United States,11.2,Printing & Publishing
+46,484,Aegon,Netherlands,36.6,Diversified Insurance
+47,490,Tenaga Nasional,Malaysia,10.9,Electric Utilities
+48,499,Applied Materials,United States,11.8,Semiconductors
+49,525,CIC Group,France,11.7,Major Banks
+50,551,Citizens Financial Group,United States,5.8,
+51,577,CME Group,United States,3.6,Investment Services
+52,593,Woori Bank,South Korea,9.5,
+53,596,Royal Caribbean Cruises,United States,8.5,Hotels & Motels
+54,597,Air Products & Chemicals,United States,9.1,Specialized Chemicals
+55,600,KeyCorp,United States,5.4,Regional Banks
+56,619,China Eastern Airlines,China,14.8,Airline
+57,629,ThyssenKrupp Group,Germany,44.0,Conglomerates
+58,639,Capgemini,France,13.9,Computer Services
+59,641,Sodexo,France,22.5,Business & Personal Services
+60,663,Commerzbank,Germany,15.9,Major Banks
+61,689,George Weston,Canada,36.2,Food Retail
+62,698,RWE Group,Germany,48.2,Electric Utilities
+63,699,Guosen Securities,China,6.0,
+64,708,Mitsubishi Heavy Industries,Japan,36.0,Heavy Equipment
+65,729,Yum Brands,United States,11.0,Restaurants
+66,734,Coca-Cola European Partners,United Kingdom,10.1,
+67,736,CNH Industrial,United Kingdom,25.3,
+68,755,Lotte Chemical,South Korea,11.4,Specialized Chemicals
+69,756,Tohoku Electric Power,Japan,18.2,Electric Utilities
+70,764,Toyota Tsusho,Japan,71.0,Trading Companies
+71,769,Ferrovial,Spain,11.9,Other Transportation
+72,776,Freeport-mcmoran,United States,14.9,
+73,787,Carlsberg,Denmark,9.3,Beverages
+74,797,ITC,India,6.0,Tobacco
+75,798,KT Corp,South Korea,19.6,Telecommunications services
+76,819,JFE Holdings,Japan,29.4,Iron & Steel
+77,820,Netease,China,5.7,Computer Services
+78,826,Eastman Chemical,United States,8.9,Specialized Chemicals
+79,887,Zimmer Biomet,United States,7.7,
+80,891,S.f. Holding,China,8.6,
+81,894,Cencosud,Chile,15.3,Food Retail
+82,899,L3 Technologies,United States,10.5,
+83,904,Genuine Parts,United States,15.3,Specialty Stores
+84,911,Gemdale,China,7.9,Real Estate
+85,913,DSM,Netherlands,8.8,Diversified Chemicals
+86,915,Zhejiang Zheneng Electric Power,China,6.0,Electric Utilities
+87,916,Mahindra & Mahindra,India,10.7,Auto & Truck Manufacturers
+88,925,Inner Mongolia Yili,China,9.1,Food Processing
+89,931,Mercantil Servicios,Venezuela,0.37,Regional Banks
+90,936,Neste Oil,Finland,12.9,Oil & Gas Operations
+91,955,St. James's Place,United Kingdom,15.3,
+92,969,Voya Financial,United States,10.7,
+93,973,Ventas,United States,3.4,Real Estate
+94,977,Fidelity National Financial,United States,8.2,Property & Casualty Insurance
+95,978,Inpex,Japan,7.6,Oil & Gas Operations
+96,988,Mediobanca,Italy,2.6,Regional Banks
+97,999,Hankyu Hanshin Holdings,Japan,6.9,Railroads
+98,1024,Weichai Power,China,13.9,Heavy Equipment
+99,1046,Arconic,United States,12.4,
+100,1050,Yamaha Motor,Japan,13.8,Recreational Products
+101,1059,Schroders,United Kingdom,3.1,Investment Services
+102,1070,GS Holdings,South Korea,11.6,Oil & Gas Operations
+103,1089,Whole Foods Market,United States,15.8,Food Retail
+104,1090,Japan Exchange Group,Japan,1.0,Investment Services
+105,1112,Yanzhou Coal Mining,China,15.0,Diversified Metals & Mining
+106,1125,HCP,United States,2.5,Real Estate
+107,1130,Harbin Bank,China,3.8,Regional Banks
+108,1138,Keppel,Singapore,4.9,
+109,1156,CDW,United States,14.0,
+110,1158,Brown-Forman,United States,3.0,Beverages
+111,1159,Sika,Switzerland,5.8,Construction Materials
+112,1164,Foot Locker,United States,7.8,Apparel/Footwear Retail
+113,1180,Oriental Land,Japan,4.3,Hotels & Motels
+114,1182,Attijariwafa Bank,Morocco,3.3,Regional Banks
+115,1204,Tenet Healthcare,United States,19.6,Healthcare Services
+116,1206,Jiangxi Copper,China,30.3,Diversified Metals & Mining
+117,1211,Smith & Nephew,United Kingdom,4.7,Medical Equipment & Supplies
+118,1221,New York Community,United States,1.9,Thrifts & Mortgage Finance
+119,1223,LARGAN Precision,Taiwan,1.5,
+120,1226,CJ Corp,South Korea,20.6,Food Processing
+121,1227,CA,United States,4.0,Software & Programming
+122,1249,3i Group,United Kingdom,0.644,
+123,1269,Jyske Bank,Denmark,2.3,Regional Banks
+124,1287,Latam Airlines,Chile,9.0,Airline
+125,1289,Doosan,South Korea,14.3,Construction Services
+126,1290,Transocean,Switzerland,4.2,Oil Services & Equipment
+127,1291,Hua Nan Financial,Taiwan,1.8,Consumer Financial Services
+128,1292,KT&G,South Korea,3.9,Tobacco
+129,1300,Bunzl,United Kingdom,10.0,Business & Personal Services
+130,1304,Eisai,Japan,4.9,Pharmaceuticals
+131,1305,Marks & Spencer,United Kingdom,15.0,Department Stores
+132,1312,Nordstrom,United States,14.8,Department Stores
+133,1313,Pandora,Denmark,3.0,Household/Personal Care
+134,1333,AmTrust Financial Services,United States,5.6,
+135,1335,United Utilities,United Kingdom,2.4,Diversified Utilities
+136,1363,Johnson Matthey,United Kingdom,15.0,Diversified Chemicals
+137,1371,Xilinx,United States,2.3,Semiconductors
+138,1391,Bank Audi,Lebanon,4.0,Regional Banks
+139,1404,Almarai,Saudi Arabia,3.9,Food Processing
+140,1419,Verisk Analytics,United States,2.0,Business & Personal Services
+141,1444,Goodman Group,Australia,1.1,
+142,1448,China National Chemical,China,8.4,Construction Services
+143,1451,Hyundai Glovis,South Korea,13.2,Other Transportation
+144,1454,Shoprite Holdings,South Africa,9.4,Food Retail
+145,1461,Citrix Systems,United States,3.4,Software & Programming
+146,1463,Realty Income,United States,1.1,
+147,1470,Oji Holdings,Japan,13.0,Paper & Paper Products
+148,1479,Persimmon,United Kingdom,4.2,
+149,1492,SEIBU,Japan,4.7,
+150,1494,Adient,Ireland,16.6,
+151,1516,Packaging Corp of America,United States,5.8,
+152,1525,EMS-Chemie Holding,Switzerland,2.0,Specialized Chemicals
+153,1583,Westlake Chemical,United States,5.1,Diversified Chemicals
+154,1593,Sumitomo Metal Mining,Japan,7.0,Diversified Metals & Mining
+155,1604,BBVA Banco Continental,Peru,1.8,
+156,1605,Tech Data,United States,26.2,Electronics
+157,1615,NetApp,United States,5.4,Computer Storage Devices
+158,1624,Moscovskiy Oblastnoi Bank,Russia,2.6,
+159,1627,Bank of Kyoto,Japan,0.947,Regional Banks
+160,1640,Eurobank Ergasias,Greece,2.2,
+161,1649,Deutsche Pfandbriefbank,Germany,2.2,
+162,1653,ProSiebenSat1 Media,Germany,4.2,Broadcasting & Cable
+163,1660,Sysmex,Japan,2.3,
+164,1671,Michael Kors Holdings,United Kingdom,4.6,Apparel/Accessories
+165,1675,Empire,Canada,18.4,Food Retail
+166,1679,Hengan International Group,China,2.9,Household/Personal Care
+167,1684,Shaw Communications,Canada,3.8,Broadcasting & Cable
+168,1687,DSME,South Korea,11.0,Heavy Equipment
+169,1689,Molina Healthcare,United States,17.8,
+170,1690,Brilliance China Automotive Holdings,Hong Kong,0.7709999999999999,
+171,1692,Cattolica Assicurazioni,Italy,5.5,Diversified Insurance
+172,1695,Tongyang Life Insurance,South Korea,6.0,
+173,1697,SinoPac Financial,Taiwan,1.5,Consumer Financial Services
+174,1719,City Developments,Singapore,2.8,Real Estate
+175,1721,KWG Property Holding,Hong Kong,1.3,
+176,1727,Bank of Greece,Greece,1.9,Major Banks
+177,1749,Taiwan Business Bank,Taiwan,0.934,Regional Banks
+178,1758,Korea Zinc,South Korea,5.0,
+179,1761,Tenneco,United States,8.6,
+180,1762,Cullen/Frost Bankers,United States,1.1,
+181,1784,Frasers Centrepoint,Singapore,2.7,
+182,1806,Keiyo Bank,Japan,0.627,Regional Banks
+183,1821,Popular,Puerto Rico,1.9,Regional Banks
+184,1828,Indian Overseas Bank,India,3.5,Regional Banks
+185,1852,NH Investment & Securities,South Korea,1.5,
+186,1864,G4S,United Kingdom,10.2,Security Systems
+187,1869,Hellenic Petroleum,Greece,7.4,Oil & Gas Operations
+188,1878,Lanxess,Germany,8.5,Diversified Chemicals
+189,1893,Leidos,United States,7.0,
+190,1897,Babcock International Group,United Kingdom,6.1,Business & Personal Services
+191,1902,Jazz Pharmaceuticals,Ireland,1.5,
+192,1920,Aroundtown Property Holdings,Germany,1.1,
+193,1921,GOME Electrical Appliances Holding,Hong Kong,11.5,
+194,1941,US Steel,United States,10.3,Iron & Steel
+195,1948,Arab Banking,Bahrain,1.7,Regional Banks
+196,1953,Motherson Sumi Systems,India,6.1,
+197,1960,Group 1 Automotive,United States,10.9,
+198,1963,Associated Banc-Corp,United States,1.2,
+199,1971,Tian An China Investments,Hong Kong,0.244,
+200,1972,HollyFrontier,United States,10.6,Oil & Gas Operations
+201,1976,First Horizon National,United States,1.4,
+202,1985,Konica Minolta Business Solutions,Japan,8.9,

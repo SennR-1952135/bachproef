@@ -1,0 +1,236 @@
+,name,code,description,language,status
+0,Numeracy,NUMERACY,Numeracy,,Live
+1,Geometry,Num:C1,Geometry,,Live
+2,Number sense,Num:C2,Number sense,,Live
+3,Linear math,Num:C3,Linear math,,Live
+4,Measurement,Num:C4,Measurement,,Live
+5,Statistics,Num:C5,Statistics,,Live
+6,Spatial relations vocabulary,Num:C1:SC1,Spatial relations vocabulary,,Live
+7,2D Shapes/Patterns,Num:C1:SC2,2D Shapes/Patterns,,Live
+8,3D Objects,Num:C1:SC3,3D Objects,,Live
+9,Counting,Num:C2:SC1,Counting,,Live
+10,Sequence,Num:C2:SC2,Sequence,,Live
+11,Place value,Num:C2:SC3,Place value,,Live
+12,Addition/subtraction,Num:C3:SC1,Addition/subtraction,,Live
+13,Multiplication,Num:C3:SC2,Multiplication,,Live
+14,Division,Num:C3:SC3,Division,,Live
+15,Multiplication/Division,Num:C3:SC4,Multiplication/Division,,Live
+16,Mutilple operations,Num:C3:SC5,Mutilple operations,,Live
+17,Word problems,Num:C3:SC6,Word problems,,Live
+18,Meaning of fractions,Num:C3:SC7,Meaning of fractions,,Live
+19,Compares fractions,Num:C3:SC8,Compares fractions,,Live
+20,Division/Multiplication,Num:C3:SC9,Division/Multiplicatio,,Live
+21,Length,Num:C4:SC1,Length,,Live
+22,Weight,Num:C4:SC2,Weight,,Live
+23,Volume,Num:C4:SC3,Volume,,Live
+24,Money,Num:C4:SC4,Money,,Live
+25,Time,Num:C4:SC5,Time,,Live
+26,Measurement of geometry/shapes,Num:C4:SC6,Measurement of geometry/shapes,,Live
+27,Angles,Num:C4:SC7,Angles,,Live
+28,Collect data,Num:C5:SC1,Collect data,,Live
+29,Data interpretation,Num:C5:SC2,Data interpretation,,Live
+30,Graphical representation,Num:C5:SC3,Graphical representation,,Live
+31,"Development of vocabulary - Same, different, Top, Bottom, On, Under, Inside, Outside, Above, big, small, Below, Near, Far, Before, After, thick, thin, light, heavy, empty, full, less, more, few,many",Num:C1:SC1:MC1,"Development of vocabulary - Same, different, Top, Bottom, On, Under, Inside, Outside, Above, big, small, Below, Near, Far, Before, After, thick, thin, light, heavy, empty, full, less, more, few,many",,Live
+32,"Distinguish Lines (Straight, vertical, horizontal)",Num:C1:SC2:MC1,"Distinguish Lines (Straight, vertical, horizontal)",,Live
+33,"Draw Lines (Straight, vertical, horizontal)",Num:C1:SC2:MC2,"Draw Lines (Straight, vertical, horizontal)",,Live
+34,make patterns with lines,Num:C1:SC2:MC3,make patterns with lines,,Live
+35,"Identify simple, symmetrical shapes in patterns",Num:C1:SC2:MC4,"Identify simple, symmetrical shapes in patterns",,Live
+36,Identify geometrical patterns based on symmetry,Num:C1:SC2:MC5,Identify geometrical patterns based on symmetry,,Live
+37,Compare shapes,Num:C1:SC2:MC6,Compare shapes,,Live
+38,Understand angles through objects/shapes,Num:C1:SC2:MC7,Understand angles through objects/shapes,,Live
+39,"Identify, classify, draw different Angles : acute, obtuse, and right angles",Num:C1:SC2:MC8,"Identify, classify, draw different Angles : acute, obtuse, and right angles",,Live
+40,Sort 2D shapes,Num:C1:SC2:MC9,Sort 2D shapes,,Live
+41,"Observe, Identify (by names), Draw 2D shapes",Num:C1:SC2:MC10,"Observe, Identify (by names), Draw 2D shapes",,Live
+42,"Identify and draw 2D shapes, cut 2D shapes",Num:C1:SC2:MC11,"Identify and draw 2D shapes, cut 2D shapes",,Live
+43,Make shapes using Tangrams; tile an area using shapes,Num:C1:SC2:MC12,Make shapes using Tangrams; tile an area using shapes,,Live
+44,Make shapes using Tangrams; tile an area using shapes,Num:C1:SC2:MC13,Make shapes using Tangrams; tile an area using shapes,,Live
+45,Drawing circles using compass,Num:C1:SC2:MC14,Drawing circles using compass,,Live
+46,Identify symmetry in shapes,Num:C1:SC2:MC15,Identify symmetry in shapes,,Live
+47,"Sequence in patterns using colors, size in shapes, lines, objects - find, describe",Num:C1:SC2:MC16,"Sequence in patterns using colors, size in shapes, lines, objects - find, describe",,Live
+48,"Sequence in patterns using colors, size in shapes, lines, objects - find, complete",Num:C1:SC2:MC17,"Sequence in patterns using colors, size in shapes, lines, objects - find, complete",,Live
+49,"Sequence in patterns using colors, sizes - extend",Num:C1:SC2:MC18,"Sequence in patterns using colors, sizes - extend",,Live
+50,one to one correspondance in shapes,Num:C1:SC2:MC19,one to one correspondance in shapes,,Live
+51,"Explores intuitively the reflections through inkblots, paper cutting and paper folding.",Num:C1:SC2:MC20,"Explores intuitively the reflections through inkblots, paper cutting and paper folding.",,Live
+52,"Explores intuitively rotations and
+reflections of familiar 2-D shapes",Num:C1:SC2:MC21,"Explores intuitively rotations and
+reflections of familiar 2-D shapes",,Live
+53,Describe properties intuitively,Num:C1:SC2:MC22,Describe properties intuitively,,Live
+54,"Describes and match various 2-D shapes:counting their sides, corners and diagonals, radius and diameter of a circle etc",Num:C1:SC2:MC23,"Describes and match various 2-D shapes:counting their sides, corners and diagonals, radius and diameter of a circle etc",,Live
+55,Understand area and perimeter intuitively,Num:C1:SC2:MC24,Understand area and perimeter intuitively,,Live
+56,"Identify and complete patterns with Colors, shapes",Num:C1:SC3:MC1,"Identify and complete patterns with Colors, shapes",,Live
+57,Distinguish objects from surroundings based on size and shape,Num:C1:SC3:MC2,Distinguish objects from surroundings based on size and shape,,Live
+58,Identify and observe 3D objects by names,Num:C1:SC3:MC3,Identify and observe 3D objects by names,,Live
+59,Draw 3D objects,Num:C1:SC3:MC4,Draw 3D objects,,Live
+60,Make objects (cubes) using nets etc.,Num:C1:SC3:MC5,Make objects (cubes) using nets etc.,,Live
+61,"Make objects (cylinders, cones) using nets etc.",Num:C1:SC3:MC6,"Make objects (cylinders, cones) using nets etc.",,Live
+62,Symmetry in 3D shapes,Num:C1:SC3:MC7,Symmetry in 3D shapes,,Live
+63,Order containers based on capacities/size,Num:C1:SC3:MC8,Order containers based on capacities/size,,Live
+64,Observes and describes the way shapes affect movements like rolling and sliding,Num:C1:SC3:MC9,Observes and describes the way shapes affect movements like rolling and sliding,,Live
+65,Understand volume of solid body,Num:C1:SC3:MC10,Understand volume of solid body,,Live
+66,Compare light/heavy objects,Num:C1:SC3:MC11,Compare light/heavy objects,,Live
+67,Compares two or more objects by their weight,Num:C1:SC3:MC12,Compares two or more objects by their weight,,Live
+68,Trace 2-D outlines of 3-D shapes,Num:C1:SC3:MC13,Trace 2-D outlines of 3-D shapes,,Live
+69,Identifies objects by observing their shadows,Num:C1:SC3:MC14,Identifies objects by observing their shadows,,Live
+70,"Read 3D objects; Draws intuitively the plan, elevation and side view of simple objects.",Num:C1:SC3:MC15,"Read 3D objects; Draws intuitively the plan, elevation and side view of simple objects.",,Live
+71,Gets the feel of perspective while drawing a 3-D object in 2-D.,Num:C1:SC3:MC16,Gets the feel of perspective while drawing a 3-D object in 2-D.,,Live
+72,Observe and make collections of objects,Num:C2:SC1:MC1,Observe and make collections of objects,,Live
+73,Count objects upto 20,Num:C2:SC1:MC2,Count objects upto 20,,Live
+74,Ordering (using objects) upto 20,Num:C2:SC1:MC3,Ordering (using objects) upto 20,,Live
+75,Use objects for one to one correspondance,Num:C2:SC1:MC4,Use objects for one to one correspondance,,Live
+76,collections of objects matching to numbers,Num:C2:SC1:MC5,collections of objects matching to numbers,,Live
+77,understand eqality of sets with equal number of objects,Num:C2:SC1:MC6,understand eqality of sets with equal number of objects,,Live
+78,Counting from any number - upto 99,Num:C2:SC1:MC7,Counting from any number - upto 99,,Live
+79,Counting in different ways - starting from any number upto 1000,Num:C2:SC1:MC8,Counting in different ways - starting from any number upto 1000,,Live
+80,"Map quantities to numbers: Use real objects, claps, etc. to count",Num:C2:SC1:MC9,"Map quantities to numbers: Use real objects, claps, etc. to count",,Live
+81,"Decode 0-9, 10-99",Num:C2:SC1:MC10,"Decode 0-9, 10-99",,Live
+82,Decode Upto 99,Num:C2:SC1:MC11,Decode Upto 99,,Live
+83,Decode upto 1000,Num:C2:SC1:MC12,Decode upto 1000,,Live
+84,Decode upto 1000,Num:C2:SC1:MC13,Decode upto 1000,,Live
+85,Decode upto 1000,Num:C2:SC1:MC14,Decode upto 1000,,Live
+86,compare using numbers: 0 to 20,Num:C2:SC2:MC1,compare using numbers: 0 to 20,,Live
+87,Form the greatest and smallest two digit numbers with and without repetition of digits upto 100,Num:C2:SC2:MC2,Form the greatest and smallest two digit numbers with and without repetition of digits upto 100,,Live
+88,Compare numbers upto 1000,Num:C2:SC2:MC3,Compare numbers upto 1000,,Live
+89,Form the greatest and smallest three digit numbers with and without repetition of digits upto 1000,Num:C2:SC2:MC4,Form the greatest and smallest three digit numbers with and without repetition of digits upto 1000,,Live
+90,"Ascending & descending order,skip counting, additive reasoning upto 100",Num:C2:SC2:MC5,"Ascending & descending order,skip counting, additive reasoning upto 100",,Live
+91,"whole part relationship, stable order, order irrelevance upto 100",Num:C2:SC2:MC6,"whole part relationship, stable order, order irrelevance upto 100",,Live
+92,Indicates and identifies the position of an object in a line,Num:C2:SC2:MC7,Indicates and identifies the position of an object in a line,,Live
+93,"Sequencing, additive reasoning and skip counting upto 1000",Num:C2:SC2:MC8,"Sequencing, additive reasoning and skip counting upto 1000",,Live
+94,Understand patterns in odd and even numbers,Num:C2:SC2:MC9,Understand patterns in odd and even numbers,,Live
+95,Partition a number in different ways,Num:C2:SC2:MC10,Partition a number in different ways,,Live
+96,identify pattens in square numbers and triangular numbers,Num:C2:SC2:MC11,identify pattens in square numbers and triangular numbers,,Live
+97,relates sequences of odd numbers between consecutive square numbers,Num:C2:SC2:MC12,relates sequences of odd numbers between consecutive square numbers,,Live
+98,Idenitfy numbers on a mental number line,Num:C2:SC2:MC13,Idenitfy numbers on a mental number line,,Live
+99,Use vocabulary of tens and ones,Num:C2:SC3:M1,Use vocabulary of tens and ones,,Live
+100,"Understand tens and ones upto 99 by grouping objects, drawing into tens and ones",Num:C2:SC3:M2,"Understand tens and ones upto 99 by grouping objects, drawing into tens and ones",,Live
+101,Understand tens and ones upto 99: count and group objects,Num:C2:SC3:M3,Understand tens and ones upto 99: count and group objects,,Live
+102,Comparison of numbers using place value,Num:C2:SC3:M4,Comparison of numbers using place value,,Live
+103,Expansion (expand a number with respect to place values) upto 99,Num:C2:SC3:M5,Expansion (expand a number with respect to place values) upto 99,,Live
+104,Expansion of numbers upto 1000,Num:C2:SC3:M6,Expansion of numbers upto 1000,,Live
+105,upto 1000,Num:C2:SC3:M7,upto 1000,,Live
+106,Beyond 1000,Num:C2:SC3:M8,Beyond 1000,,Live
+107,Estimation of sum/difference and compare with numbers,Num:C3:SC1:MC1,Estimation of sum/difference and compare with numbers,,Live
+108,Estimation of sum/difference,Num:C3:SC1:MC2,Estimation of sum/difference,,Live
+109,Estimation of sum/difference/product,Num:C3:SC1:MC3,Estimation of sum/difference/product,,Live
+110,Estimation of sum/difference/product/quotient and verification by approximation,Num:C3:SC1:MC4,Estimation of sum/difference/product/quotient and verification by approximation,,Live
+111,Through objects,Num:C3:SC1:MC5,Through objects,,Live
+112,Use addition/subtraction symbols,Num:C3:SC1:MC6,Use addition/subtraction symbols,,Live
+113,Through representations of 1s and 10s,Num:C3:SC1:MC7,Through representations of 1s and 10s,,Live
+114,Write numbers vertically (without grouping),Num:C3:SC1:MC8,Write numbers vertically (without grouping),,Live
+115,Understand 0 using addition/subtraction,Num:C3:SC1:MC9,Understand 0 using addition/subtraction,,Live
+116,Add subtract using column addition without grouping (using place value),Num:C3:SC1:MC10,Add subtract using column addition without grouping (using place value),,Live
+117,Write numbers vertically (without grouping),Num:C3:SC1:MC11,Write numbers vertically (without grouping),,Live
+118,"Two digit numbers, addition upto 99 (grouping)",Num:C3:SC1:MC12,"Two digit numbers, addition upto 99 (grouping)",,Live
+119,addition and subtraction upto 1000 (grouping),Num:C3:SC1:MC13,addition and subtraction upto 1000 (grouping),,Live
+120,addition and subtraction upto 1000 (grouping) using place value,Num:C3:SC1:MC14,addition and subtraction upto 1000 (grouping) using place value,,Live
+121,Write numbers vertically (with grouping),Num:C3:SC1:MC15,Write numbers vertically (with grouping),,Live
+122,"Use operations to find total change, multiple costs and unit costs",Num:C3:SC1:MC16,"Use operations to find total change, multiple costs and unit costs",,Live
+123,Addition as inverse of subtraction - get to 0 using addition/subtraction using objects,Num:C3:SC1:MC17,Addition as inverse of subtraction - get to 0 using addition/subtraction using objects,,Live
+124,"Mental maths; Single digit,",Num:C3:SC1:MC18,"Mental maths; Single digit,",,Live
+125,"Mental maths; Single digit, multiples of 10",Num:C3:SC1:MC19,"Mental maths; Single digit, multiples of 10",,Live
+126,Mental Maths : Two digits numbers,Num:C3:SC1:MC20,Mental Maths : Two digits numbers,,Live
+127,Doubles two digit number mentally,Num:C3:SC1:MC21,Doubles two digit number mentally,,Live
+128,Add and subtract multiples of 10s and 100s mentally,Num:C3:SC1:MC22,Add and subtract multiples of 10s and 100s mentally,,Live
+129,Complete multiplication facts by adding partial products ( 7 x 6 = 5 x 6 + 2 x 6),Num:C3:SC1:MC23,Complete multiplication facts by adding partial products ( 7 x 6 = 5 x 6 + 2 x 6),,Live
+130,Determine sum and difference of weights,Num:C3:SC1:MC24,Determine sum and difference of weights,,Live
+131,"Understand meaning of multiplication (as repeated addition, combination of units, etc.)",Num:C3:SC2:MC1,"Understand meaning of multiplication (as repeated addition, combination of units, etc.)",,Live
+132,Understand symbols,Num:C3:SC2:MC2,Understand symbols,,Live
+133,Use multiplication facts in situations,Num:C3:SC2:MC3,Use multiplication facts in situations,,Live
+134,Multiplication of 2 digits,Num:C3:SC2:MC4,Multiplication of 2 digits,,Live
+135,"Multiplication of 2 digits, 3 digits",Num:C3:SC2:MC5,"Multiplication of 2 digits, 3 digits",,Live
+136,Understand role of place value in multiplication,Num:C3:SC2:MC6,Understand role of place value in multiplication,,Live
+137,"Mathematical tables of 2,3,4,5,10 (understand, learn)",Num:C3:SC2:MC7,"Mathematical tables of 2,3,4,5,10 (understand, learn)",,Live
+138,"Mathematical tables upto 10 (understand, learn, write)",Num:C3:SC2:MC8,"Mathematical tables upto 10 (understand, learn, write)",,Live
+139,Multiply 10's and 100's,Num:C3:SC2:MC9,Multiply 10's and 100's,,Live
+140,Meaning of division in the context of equal grouping and sharing by objects,Num:C3:SC3:MC1,Meaning of division in the context of equal grouping and sharing by objects,,Live
+141,Relate division with mulitplication through examples,Num:C3:SC3:MC2,Relate division with mulitplication through examples,,Live
+142,drawing dots,Num:C3:SC3:MC3,drawing dots,,Live
+143,grouping,Num:C3:SC3:MC4,grouping,,Live
+144,inverse of multiplication,Num:C3:SC3:MC5,inverse of multiplication,,Live
+145,repeated subtraction,Num:C3:SC3:MC6,repeated subtraction,,Live
+146,divide by 10s and 100s,Num:C3:SC3:MC7,divide by 10s and 100s,,Live
+147,multiplication tables,Num:C3:SC3:MC8,multiplication tables,,Live
+148,Use informal and standard division algorithm,Num:C3:SC3:MC9,Use informal and standard division algorithm,,Live
+149,Identify patterns in multiples of 9 in multiplication and division,Num:C3:SC4:MC1,Identify patterns in multiples of 9 in multiplication and division,,Live
+150,Identify patterns in multiplication with and dividing by 10,Num:C3:SC4:MC2,Identify patterns in multiplication with and dividing by 10,,Live
+151,Explain the meaning of factors and multiples,Num:C3:SC4:MC3,Explain the meaning of factors and multiples,,Live
+152,"Estimate products and quotients and verify using approximation; adding partial products, multiplication in mind",Num:C3:SC4:MC4,"Estimate products and quotients and verify using approximation; adding partial products, multiplication in mind",,Live
+153,Learn and use the rules,Num:C3:SC5:MC1,Learn and use the rules,,Live
+154,"Apply add/subtract/multiply operations operations in solving length, weight and volume problems",Num:C3:SC5:MC2,"Apply add/subtract/multiply operations operations in solving length, weight and volume problems",,Live
+155,"Four operations using length, volume, weight",Num:C3:SC5:MC3,"Four operations using length, volume, weight",,Live
+156,Use addition and subtraction problems is different situations presented in pictures and stories,Num:C3:SC6:MC1,Use addition and subtraction problems is different situations presented in pictures and stories,,Live
+157,frame problems for addition and subtraction facts,Num:C3:SC6:MC2,frame problems for addition and subtraction facts,,Live
+158,Frame word problems,Num:C3:SC6:MC3,Frame word problems,,Live
+159,"Understand fractions and decimals in context of time, distance, weight",Num:C3:SC7:MC1,"Understand fractions and decimals in context of time, distance, weight",,Live
+160,"Notations of fractions, Identify symbols : 1/2, 1/4 and 3/4",Num:C3:SC7:MC2,"Notations of fractions, Identify symbols : 1/2, 1/4 and 3/4",,Live
+161,"Identifies and explains half, one fourth and three - fourths, etc. Understand fraction as part of a collection etc.",Num:C3:SC7:MC3,"Identifies and explains half, one fourth and three - fourths, etc. Understand fraction as part of a collection etc.",,Live
+162,Apply quantities to fractions,Num:C3:SC7:MC4,Apply quantities to fractions,,Live
+163,"understand equivalence of 1/2 and 2/4, 2/2 , 3/3, 4/4 and 1",Num:C3:SC7:MC5,"understand equivalence of 1/2 and 2/4, 2/2 , 3/3, 4/4 and 1",,Live
+164,find fractional part of a collection,Num:C3:SC7:MC6,find fractional part of a collection,,Live
+165,use decimal fractions for length,Num:C3:SC7:MC7,use decimal fractions for length,,Live
+166,convert fraction to decimal and vise versa,Num:C3:SC7:MC8,convert fraction to decimal and vise versa,,Live
+167,"Estimates the degree of closeness of a fraction to known fractions(1/4,1/2,3/4)",Num:C3:SC8:MC1,"Estimates the degree of closeness of a fraction to known fractions(1/4,1/2,3/4)",,Live
+168,Identify equivalent fractions,Num:C3:SC8:MC2,Identify equivalent fractions,,Live
+169,"Measurement with non standard metric - seriate length, non standard units",Num:C4:SC1:MC1,"Measurement with non standard metric - seriate length, non standard units",,Live
+170,"Measurement with standard metric, standard units",Num:C4:SC1:MC2,"Measurement with standard metric, standard units",,Live
+171,Measurement with non standard units,Num:C4:SC1:MC3,Measurement with non standard units,,Live
+172,"Estimate length, verify in standard units",Num:C4:SC1:MC4,"Estimate length, verify in standard units",,Live
+173,Learn to use a ruler,Num:C4:SC1:MC5,Learn to use a ruler,,Live
+174,"Understanding the Metric system : relate cm and metre, convert cm to metre and vice versa",Num:C4:SC1:MC6,"Understanding the Metric system : relate cm and metre, convert cm to metre and vice versa",,Live
+175,Solve problems involving length and distance,Num:C4:SC1:MC7,Solve problems involving length and distance,,Live
+176,Estimates length of an object and distance between two given locations.,Num:C4:SC1:MC8,Estimates length of an object and distance between two given locations.,,Live
+177,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",Num:C4:SC1:MC9,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",,Live
+178,Compare two or more objects by their weight and appreciate the need for a balance,Num:C4:SC2:MC1,Compare two or more objects by their weight and appreciate the need for a balance,,Live
+179,Compare weights by using a balance,Num:C4:SC2:MC2,Compare weights by using a balance,,Live
+180,Measurement with non standard units,Num:C4:SC2:MC3,Measurement with non standard units,,Live
+181,Appreciate the conservation of weight,Num:C4:SC2:MC4,Appreciate the conservation of weight,,Live
+182,"Measurement with standard metric, standard units",Num:C4:SC2:MC5,"Measurement with standard metric, standard units",,Live
+183,weigh objects using balance and standard units; estimate weight of an object and verify using a balance,Num:C4:SC2:MC6,weigh objects using balance and standard units; estimate weight of an object and verify using a balance,,Live
+184,Determines sums and differences of weights,Num:C4:SC2:MC7,Determines sums and differences of weights,,Live
+185,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",Num:C4:SC2:MC8,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",,Live
+186,Measurement with non standard metric,Num:C4:SC3:MC1,Measurement with non standard metric,,Live
+187,"Estimate volume, compare capacity",Num:C4:SC3:MC2,"Estimate volume, compare capacity",,Live
+188,Measure volume using non standard measures,Num:C4:SC3:MC3,Measure volume using non standard measures,,Live
+189,"Measurement with standard metric, standard units",Num:C4:SC3:MC4,"Measurement with standard metric, standard units",,Live
+190,Measurement with non standard units,Num:C4:SC3:MC5,Measurement with non standard units,,Live
+191,Appreciate the conservation of volume,Num:C4:SC3:MC6,Appreciate the conservation of volume,,Live
+192,Measures volumes of given liquid using containers marked with standard units.,Num:C4:SC3:MC7,Measures volumes of given liquid using containers marked with standard units.,,Live
+193,Determines sums and differences of volumes.,Num:C4:SC3:MC8,Determines sums and differences of volumes.,,Live
+194,Estimates the volume of a liquid contained in a vessel and verifies by measuring.,Num:C4:SC3:MC9,Estimates the volume of a liquid contained in a vessel and verifies by measuring.,,Live
+195,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",Num:C4:SC3:MC10,"Relates commonly used larger and smaller units of length, weight and volume and converts one to the other.",,Live
+196,Converts fractional larger unit into complete smaller units.,Num:C4:SC3:MC11,Converts fractional larger unit into complete smaller units.,,Live
+197,"Distinguish between events occuring in time : earlier and later, long and short duration; compute time intervals",Num:C4:SC5:MC1,"Distinguish between events occuring in time : earlier and later, long and short duration; compute time intervals",,Live
+198,Learn about parts of a calendar: Familiar with days of the week and months in a year,Num:C4:SC5:MC2,Learn about parts of a calendar: Familiar with days of the week and months in a year,,Live
+199,Read a calendar to find a day and date,Num:C4:SC5:MC3,Read a calendar to find a day and date,,Live
+200,Read time in the clock,Num:C4:SC5:MC4,Read time in the clock,,Live
+201,Sequence events chronologically,Num:C4:SC5:MC5,Sequence events chronologically,,Live
+202,Compute number of weeks in a year,Num:C4:SC5:MC6,Compute number of weeks in a year,,Live
+203,Correlate number of days in a year with the number of days in a month; understand leap year,Num:C4:SC5:MC7,Correlate number of days in a year with the number of days in a month; understand leap year,,Live
+204,Reads clock time to the nearest hours and minutes.,Num:C4:SC5:MC8,Reads clock time to the nearest hours and minutes.,,Live
+205,"Expresses time, using the terms,_a.m.��_ and _p.m.��_",Num:C4:SC5:MC9,"Expresses time, using the terms,_a.m.��_ and _p.m.��_",,Live
+206,Find approximate time elapsed by forward counting,Num:C4:SC5:MC10,Find approximate time elapsed by forward counting,,Live
+207,Computes the number of days between two dates.,Num:C4:SC5:MC11,Computes the number of days between two dates.,,Live
+208,use addition to subtraction to find time intervals,Num:C4:SC5:MC12,use addition to subtraction to find time intervals,,Live
+209,Determine area and perimeter of single geometrical figures,Num:C4:SC6:MC1,Determine area and perimeter of single geometrical figures,,Live
+210,Learn to represent angles numerically,Num:C4:SC6:MC2,Learn to represent angles numerically,,Live
+211,"Identify money, handle small amounts of money",Num:C4:SC4:MC1,"Identify money, handle small amounts of money",,Live
+212,"Identify money, handle small amounts of money",Num:C4:SC4:MC2,"Identify money, handle small amounts of money",,Live
+213,"Conversion of rupee to paise, make rate cards and bills",Num:C4:SC4:MC3,"Conversion of rupee to paise, make rate cards and bills",,Live
+214,Conversion of rupee to paise,Num:C4:SC4:MC4,Conversion of rupee to paise,,Live
+215,Application of money in estimation of addition and subtraction,Num:C4:SC4:MC5,Application of money in estimation of addition and subtraction,,Live
+216,Addition as inverse of subtraction - get to 0 using money,Num:C4:SC4:MC6,Addition as inverse of subtraction - get to 0 using money,,Live
+217,Add and subtract using small amounts of money mentally,Num:C4:SC4:MC7,Add and subtract using small amounts of money mentally,,Live
+218,Add/subtract using money (upto 50),Num:C4:SC4:MC8,Add/subtract using money (upto 50),,Live
+219,"addition and subtraction of money upto 1000 (grouping), estimate total and total cost",Num:C4:SC4:MC9,"addition and subtraction of money upto 1000 (grouping), estimate total and total cost",,Live
+220,"Multiplication of 2 digits, 3 digits",Num:C4:SC4:MC10,"Multiplication of 2 digits, 3 digits",,Live
+221,Apply add/subtract/multiply operations in solving money problems,Num:C4:SC4:MC11,Apply add/subtract/multiply operations in solving money problems,,Live
+222,Four operations using money,Num:C4:SC4:MC12,Four operations using money,,Live
+223,Understand fractions and decimals in context of money,Num:C4:SC4:MC13,Understand fractions and decimals in context of money,,Live
+224,Use decimal fractions for money,Num:C4:SC4:MC14,Use decimal fractions for money,,Live
+225,"Identifies right angles in environment. Classifies angles into right, acute and obtuse angles. Represents right angle, acute angle an obtuse angle by drawing and tracing.",Num:C4:SC7:MC1,"Identifies right angles in environment. Classifies angles into right, acute and obtuse angles. Represents right angle, acute angle an obtuse angle by drawing and tracing.",,Live
+226,Collect and represent data,Num:C5:SC1:MC1,Collect and represent data,,Live
+227,Collect and represent data,Num:C5:SC1:MC2,Collect and represent data,,Live
+228,Draw inferences from data,Num:C5:SC2:MC1,Draw inferences from data,,Live
+229,Draw inferences,Num:C5:SC2:MC2,Draw inferences,,Live
+230,"Collect and represent data -tally mark, pictograph",Num:C5:SC3:MC1,"Collect and represent data -tally mark, pictograph",,Live
+231,Collect and represent data - bar graph,Num:C5:SC3:MC2,Collect and represent data - bar graph,,Live
+232,"Collect and represent data - pictograph, bar graph",Num:C5:SC3:MC3,"Collect and represent data - pictograph, bar graph",,Live

@@ -1,0 +1,14 @@
+,name
+0,to.affiliate.code.manager
+1,to.affiliate.code.portal
+2,to.affiliate.commission.user
+3,to.affiliate.commission.line.user
+4,to.affiliate.commission.portal
+5,to.affiliate.payment.user
+6,to.affiliate.payment.portal
+7,ir.sequence.portal
+8,to.affiliate.commission.rule.manager
+9,to.affiliate.commission.rule.line.manager
+10,to.affiliate.referrer.analysis.user
+11,to.report.affiliate.referrer.analysis.user
+12,product.pricelist.item.manager

@@ -1,0 +1,205 @@
+,year,country,city
+0,1999,Israel;Israel,Jerusalem;Ra'ananna
+1,1999,Israel;Israel,Jerusalem;Ra'ananna
+2,1998,Israel;Israel,Jerusalem;Ra'anana
+3,1998,Turkey,Istanbul
+4,1998,United States,New York
+5,1998,United States,Kansas City
+6,1998,United Kingdom,Liverpool
+7,1998,Denmark,Copenhagen
+8,1998,United States,Bethesda
+9,1998,Israel;Israel,Jerusalem;Jerusalem
+10,1998,Italy,Rome
+11,1998,United States,Columbia
+12,1998,United Kingdom,London
+13,1998,France;France;United Kingdom,Paris;Paris;London
+14,1998,United States,Baltimore
+15,1998,France,Paris
+16,1998,United States,San Francisco
+17,1998,United Kingdom,London
+18,1998,United Kingdom,London
+19,1998,Saudi Arabia,Riyadh
+20,1998,United States,New York
+21,1998,Denmark,Copenhagen
+22,1998,,
+23,1998,Germany,Erlangen
+24,1998,Switzerland,Basel
+25,1998,United States,San Antonio
+26,1998,United States,Galveston
+27,1998,United States;United States,Seattle;Seattle
+28,1998,,
+29,1998,Germany,Erlangen
+30,1998,United Kingdom,Oxford
+31,1998,United States,Bethesda
+32,1998,United States,San Francisco
+33,1997,United States,Nashville
+34,1997,,
+35,1997,Denmark,Copenhagen
+36,1997,United States;Germany,Los Angeles;Munich
+37,1997,,
+38,1997,United States,San Francisco
+39,1997,Italy,Milan
+40,1997,United States,Cincinnati
+41,1997,France,Lyon
+42,1997,United States;United States,Los Angeles;Los Angeles
+43,1997,Japan,Suita
+44,1997,United States,Bethesda
+45,1997,Greece,Athens
+46,1997,United States,San Francisco
+47,1997,United States,San Francisco
+48,1997,France,Paris
+49,1997,France,Paris
+50,1997,France,Paris
+51,1997,,
+52,1997,United States,Bethesda
+53,1997,United States,Seattle
+54,1997,United States,Southborough
+55,1997,United States,New Haven
+56,1997,Germany,Erlangen
+57,1996,Germany,Planegg
+58,1996,United States,New York
+59,1996,United Kingdom,Liverpool
+60,1996,,
+61,1996,United States,Berkeley
+62,1996,United States,San Francisco
+63,1996,United States,New York
+64,1996,United States,New York
+65,1996,,
+66,1996,Belgium;Belgium,Brussels;Brussels
+67,1996,Italy,Ferrara
+68,1996,Denmark,Aarhus
+69,1996,United Kingdom,Oxford
+70,1996,United States,San Francisco
+71,1996,Uganda,Kampala
+72,1996,Italy,Sassari
+73,1996,Italy,Aviano
+74,1996,United States,Baltimore
+75,1996,Denmark,Copenhagen
+76,1996,United States,Pittsburgh
+77,1996,United States,Baltimore
+78,1996,Italy,Sassari
+79,1996,United States,Newark
+80,1996,United States,Bethesda
+81,1996,United States,New York
+82,1996,United States,Stanford
+83,1995,United States,Atlanta
+84,1995,United States,San Francisco
+85,1995,United Kingdom,London
+86,1995,United Kingdom,London
+87,1995,,
+88,1995,Italy,Florence
+89,1995,United States,Berkeley
+90,1995,United States,Chicago
+91,1995,United States,Boston
+92,1995,United States,New York
+93,1995,Greece;United Kingdom,Athens;London
+94,1995,France,Paris
+95,1995,United States,New York
+96,1995,France,Paris
+97,1995,Zimbabwe,Harare
+98,1995,United States,Bethesda
+99,1995,Sweden,Stockholm
+100,1995,United Kingdom,Oxford
+101,1995,United States,San Francisco
+102,1995,United States,New York
+103,1995,Denmark,Odense
+104,1995,United Kingdom,London
+105,1995,United States,Boston
+106,1994,United States,Bethesda
+107,1994,Australia,Sydney
+108,1994,Argentina,La Plata
+109,1994,Australia,Sydney
+110,1994,Israel,Jerusalem
+111,1994,Saudi Arabia,Riyadh
+112,1994,Germany,Heidelberg
+113,1994,Italy,Florence
+114,1994,Italy,
+115,1994,United States;United States;United States;United States;United States,Los Angeles;Chicago;Baltimore;Los Angeles;Pittsburgh
+116,1994,United States,New York
+117,1993,Switzerland,Lausanne
+118,1993,Japan,Nankoku
+119,1993,Israel;Israel,Petah Tiqwa;Ramal Aviv
+120,1993,France,Paris
+121,1993,Uganda,Kampala
+122,1993,,
+123,1992,France,Paris
+124,1992,United Kingdom,London
+125,1992,Germany,Planegg
+126,1991,United Kingdom,Manchester
+127,1991,United States,Dallas
+128,1991,United States,Atlanta
+129,1991,United States;United States,New Orleans;Minneapolis
+130,1991,United Kingdom,Oxford
+131,1991,United States,Salt Lake City
+132,1990,United States,New York
+133,1990,United States,Atlanta
+134,1990,United Kingdom,London
+135,1990,Sweden,Lund
+136,1990,United States,Bethesda
+137,1990,United States,New York
+138,1989,Colombia,Bogota
+139,1989,Israel,Petah Tiqwa
+140,1989,United States,Los Angeles
+141,1989,United States,Bethesda
+142,1988,Switzerland,Basel
+143,1988,United States,Cincinnati
+144,1988,Sweden,Lund
+145,1988,Saudi Arabia,Riyadh
+146,1988,United States,Bethesda
+147,1987,United States,Iowa City
+148,1986,United Kingdom;United Kingdom,London;London
+149,1985,United States,Los Angeles
+150,1985,Belgium,Antwerpen
+151,1985,United States,San Francisco
+152,1984,Greece,Athens
+153,1984,United Kingdom,London
+154,1984,United States,Bethesda
+155,1984,United States;United States;United States,Cincinnati;Cincinnati;
+156,1983,Switzerland;United States,Lausanne;Bethesda
+157,1981,,
+158,1981,United States,St. Louis
+159,1981,,
+160,1980,United States,Minneapolis
+161,1980,United States,New York
+162,1979,United States;United States,Buffalo;Tucson
+163,1979,,
+164,1978,United Kingdom,London
+165,1978,Norway;Norway,Oslo;Bergen
+166,1977,,
+167,1976,,
+168,1976,United States,New York
+169,1975,United States,Rochester
+170,1975,Canada,Winnipeg
+171,1975,United States,New York
+172,1973,Uganda,Kampala
+173,1973,Hungary,Szeged
+174,1973,Algeria,Algiers
+175,1972,,
+176,1972,Uganda;United States,Kampala;Minneapolis
+177,1972,Uganda;United Kingdom,Kampala;Oxford
+178,1971,United States,Boston
+179,1971,Uganda;Uganda,Kampala;Kampala
+180,1969,United States;United States,New York;New York
+181,1969,Tanzania,Dar Es Salaam
+182,1967,United Kingdom,Southampton
+183,1967,United States,Bethesda
+184,1965,Uganda,Kampala
+185,1965,United States,Rochester
+186,1964,United Kingdom,London
+187,1962,,
+188,1962,,
+189,1960,United States,New York
+190,1959,United States;United States,"Washington, D.C.;Kalamazoo"
+191,1958,,
+192,1958,,
+193,1957,,
+194,1957,,
+195,1954,Sweden,Lund
+196,1953,,
+197,1950,,
+198,1940,Sweden,Stockholm
+199,1932,Russia,
+200,1932,United States,Rochester
+201,1902,Poland,
+202,1872,Austria,Vienna
+203,1869,,

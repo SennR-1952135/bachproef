@@ -1,0 +1,23 @@
+,name
+0,project.project
+1,project.project
+2,account.analytic.account
+3,account.analytic.account
+4,project.task.type user
+5,project.task
+6,project.task.work
+7,report.project.task.user
+8,base.res.partner user
+9,project.task on partners
+10,project.project on partners
+11,project.task salesman
+12,project.task.type salesman
+13,project.task.history salesman
+14,project.project salesman
+15,account.analytic.line project
+16,project.task.history project
+17,project.task.history project
+18,project.task.history project
+19,project.resource_calendar manager
+20,project.project_category
+21,project.project_category

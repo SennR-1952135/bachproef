@@ -1,0 +1,38 @@
+,year,species,notes
+0,2000,reticulate sculpins�(Cottus perplexus),
+1,2012,guppy (Poecilia reticulata),"Data from home tank depth extracted, but excluded as wrong/non-independent behavioural variable"
+2,2002,desert spider (Stegodyphus lineatus),Treatment level proportional data only
+3,2008,Erigone dentipalpis; Erigone arctica,Data for tiptoe duration not presented in a extractable way; F statistics across species not extracted.
+4,2006,spearhead bluet (Coenagrion hastulatum),Data for spatial distribution (predator response) not extracted as measured in holding containers and non-independent from dietary treatments
+5,1999,three-spined stickleback (Gasterosteus aculeatus),"Only reduction in courtship effort in response to predator extracted as a measure of predator response, rest excluded as courtship behaviour only"
+6,2015,wood frog (Lithobates sylvaticus),Data for 'distance from cue' not extracted for non-alarm cue assay
+7,2014,wood frog (Lithobates sylvaticus),Only data from experiment 2 extracted
+8,1990,Diplonychus indicus (synonym Diplonychus rusticus),"Data for percentage time resting (total, surface and underwater), swimming rate, diving rate, percentage time swimming, feeding hits per hour and feeding attempts per hour presented without errors"
+9,1997,calcareous tubeworm (Serpula vermicularis),
+10,2002,banded killifish (Fundulus diaphanus),"Stated no effect of nutritional state and F value, data for 6 distinct groups may be optained from authors"
+11,2008,green frog (Rana clamitans),"Data presented is not in an extractable format; Data for no cue treatments should not be extracted, as time spend in experimental container was not standardised across trials, so not classifiable as a novel environment experiment. "
+12,2006,bluehead wrasse (Thalassoma bifasciatum),"Data for critical swimming speed and capacity not extracted, t-value for predator threat"
+13,2017,Carpetan rock lizard (Iberolacerta cyreni),Data converted to PC and binomial before analysis
+14,2004,Rhithropanopeus harrisii tridentatus,
+15,1999,zebrafish (Danio rerio),Data as mann whitney u test stats only
+16,2014,whitetail damselfish (Pomacentrus chrysurus),
+17,2001,red-backed salamander (Plethodon cinereus),
+18,2006,trinket snake (Coelognathus helena),Data from multiple treatment levels compared to unsupplemented group as control. Data for type of anti-predator response used not extracted as not clear how to relate to risk
+19,2005,Azure dragonfly (Coenagrion puella),No exact sample sizes
+20,2007,broad-bodied chaser (Libellula depressa),No exact sample sizes
+21,2011,mourning dove (Zenaida macroura),Data from high and low condition groups compared to intermediate as control
+22,2011,Madagascar hissing cockroach (Gromphadorhina portentosa),"Most data as PCAs, PCA for risk taking across 3 assays not extracted"
+23,2016,yellow fever mosquito (Aedes aegypti),Data from low 3x food concentration environments compared to highest concentration as control
+24,2002,minute pirate bug (Orius sauteri),
+25,2010,North Sea houting (Coregonus oxyrinchus),
+26,2002,African mantis (Sphodromantis lineola),Tracking not extracted as not considered interaction with the novel object. Strick rate not extracted where rate was zero for both groups.
+27,2007,large whirligig beetle (Dineutes discolor),No exact sample sizes
+28,2003,seven-spot ladybird (Coccinella septempunctata),Data from Figures 3 and 6 not extracted as data format is unclear; Issue with group ID to be resolved
+29,1997,walleye pollock (Theragra chalcogramma),
+30,1998,sablefish (Anoplopoma fimbria),
+31,1999,Hogna helluo; shore spider (Pardosa milvina),
+32,2004,three-spined stickleback (Gasterosteus aculeatus),"Only data fo time spent over complex area when complex area had higher food was extracted, as clearly related to preference for feeding area in novel environment). Data for foraging and prey capture not extracted as zero for all control feeding groups."
+33,2000,graybelly salamander (Eurycea multiplicata),Data for variables in the predator absent treatment groups not extracted as home environment feeding behaviour not considered a risk-taking trait
+34,2014,zebrafish (Danio rerio),No error estimates. Sample sizes are ambiguous
+35,2012,Ward's damsel (Pomacentrus wardi),Pooled n/means/se taken directly from published dataset
+36,2012,Erigone dentipalpis,"Juvenile dispersal not extracted, as dispersal measured within high and low food holding chambers (non-independent)"

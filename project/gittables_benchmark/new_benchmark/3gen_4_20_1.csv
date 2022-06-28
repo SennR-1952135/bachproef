@@ -1,0 +1,63 @@
+,year,country,city
+0,2015,Netherlands,Amsterdam
+1,2015,Netherlands;Italy,Leiden;Rome
+2,2015,Japan,Tokyo
+3,2014,Germany,Karlsruhe
+4,2014,China,Beijing
+5,2014,United States;Canada;Canada,Bloomington;Toronto;Toronto
+6,2014,Germany,Bonn
+7,2013,United States;United States,;Palo Alto
+8,2013,United Kingdom,London
+9,2013,Spain,Valencia
+10,2011,Italy;Italy,Turin;Turin
+11,2011,Spain,Valencia
+12,2011,United States;United States,Boston;Cambridge
+13,2011,Belgium,Louvain-la-Neuve
+14,2011,Australia;Australia;Australia,Sydney;Brisbane;Sydney
+15,2010,China,Beijing
+16,2010,United Kingdom,Cambridge
+17,2010,Australia;Australia;Australia,Sydney;Brisbane;Sydney
+18,2010,United States;United States,Boston;Cambridge
+19,2010,Netherlands,Utrecht
+20,2010,United States,San Antonio
+21,2010,United States,St. Louis
+22,2010,Italy,Turin
+23,2010,United States,Los Angeles
+24,2009,Italy;Italy,Turin;Turin
+25,2009,United Kingdom,Cambridge
+26,2009,United States,St. Louis
+27,2009,United Kingdom,Oxford
+28,2009,China,Beijing
+29,2009,United States,New York
+30,2009,United Kingdom;United Kingdom,Cambridge;Cambridge
+31,2008,Italy,Verona
+32,2008,Switzerland;Switzerland,Lausanne;Lausanne
+33,2008,Spain;Spain;United States,Tarragona;Zaragoza;Berkeley
+34,2008,United States,Seattle
+35,2007,United States;United States,Los Angeles;San Antonio
+36,2007,United States,Bloomington
+37,2007,Italy;Germany;United States,Turin;Bielefeld;Bloomington
+38,2006,Sweden,Stockholm
+39,2006,Netherlands,Amsterdam
+40,2006,Germany,Bremen
+41,2006,United States,Ann Arbor
+42,2006,Italy;United Kingdom,Siena;Oxford
+43,2006,United Kingdom;Italy,London;Vercelli
+44,2005,Hungary;Hungary,Budapest;Budapest
+45,2005,United States,Evanston
+46,2005,Spain,Valencia
+47,2005,Spain,Esporlas
+48,2005,United States,San Antonio
+49,2005,United Kingdom,Cambridge
+50,2005,United Kingdom,Oxford
+51,2003,United Kingdom,York
+52,2002,United States,San Antonio
+53,2002,France,Caen
+54,2001,United States;United States,St. Louis;St. Louis
+55,2000,United States;United Kingdom,Boston;Newcastle
+56,2000,United States;United Kingdom,Boston;Newcastle
+57,Nov,Canada,Toronto
+58,1998,Norway,Trondheim
+59,1998,United Kingdom,London
+60,1995,United States,Milwaukee
+61,1977,United States,St. Louis

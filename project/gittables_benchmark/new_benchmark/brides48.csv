@@ -1,0 +1,181 @@
+,age,city,religion
+0,48,"Sangli, Maharashtra, India",Hindu
+1,48,"Anand, Gujarat, India",Christian
+2,48,"Indore, Madhya Pradesh, India",
+3,48,"Mumbai, Maharashtra, India",Hindu
+4,48,"Mumbai, Maharashtra, India",Hindu
+5,48,"Oklahoma City, Oklahoma",Hindu
+6,48,"Chennai, Tamil Nadu, India",Hindu
+7,48,"Bardhaman, West Bengal, India",Hindu
+8,48,"Banbury, Oxfordshire",Hindu
+9,48,"Painaw / Idukki, Kerala, India",Christian
+10,48,"Bangalore, Karnataka, India",Hindu
+11,48,"Ahmednagar, Maharashtra, India",Hindu
+12,48,"Ahmedabad, Gujarat, India",Hindu
+13,48,"Mumbai, Maharashtra, India",Hindu
+14,48,Others,Hindu
+15,48,"Mumbai, Maharashtra, India",Hindu
+16,48,"Mumbai, Maharashtra, India",Christian
+17,48,"Bangalore, Karnataka, India",Christian
+18,48,"Allahabad, Uttar Pradesh, India",Hindu
+19,48,"Mumbai, Maharashtra, India",Christian
+20,48,"Dehradun, Uttaranchal, India",Hindu
+21,48,"Mumbai, Maharashtra, India",Christian
+22,48,,Hindu
+23,48,"Pune, Maharashtra, India",Hindu
+24,48,"Bangalore, Karnataka, India",Hindu
+25,48,"Bangalore, Karnataka, India",Christian
+26,48,"Rest of Gujarat, Gujarat, India",Hindu
+27,48,Others,Hindu
+28,48,"Chennai, Tamil Nadu, India",Christian
+29,48,"Mumbai, Maharashtra, India",Parsi
+30,48,Others,Hindu
+31,48,"Mumbai, Maharashtra, India",Hindu
+32,48,,Hindu
+33,48,"Gorakhpur, Uttar Pradesh, India",Sikh
+34,48,"Jamnagar, Gujarat, India",Hindu
+35,48,,Hindu
+36,48,"Mumbai, Maharashtra, India",Hindu
+37,48,"Indore, Madhya Pradesh, India",Muslim
+38,48,"Vadodara, Gujarat, India",Hindu
+39,48,"Bangalore, Karnataka, India",Hindu
+40,48,"Ludington, Michigan",Muslim
+41,48,"California, Pennsylvania",Hindu
+42,48,,Hindu
+43,48,"Delhi, Delhi, India",Hindu
+44,48,"Delhi, Delhi, India",Hindu
+45,48,"California, Pennsylvania",Hindu
+46,48,"Delhi, Delhi, India",Hindu
+47,48,,Hindu
+48,48,,Hindu
+49,48,,Hindu
+50,48,,Hindu
+51,48,"Bangalore, Karnataka, India",Hindu
+52,48,"Tirunelveli, Tamil Nadu, India",Hindu
+53,48,"Chennai, Tamil Nadu, India",Christian
+54,48,"Mumbai, Maharashtra, India",Hindu
+55,48,,Hindu
+56,48,"Kolkata, West Bengal, India",Hindu
+57,48,"Noida, Uttar Pradesh, India",Muslim
+58,48,"Mumbai, Maharashtra, India",Christian
+59,48,,Hindu
+60,48,"Mumbai, Maharashtra, India",Christian
+61,48,"Nasik, Maharashtra, India",Hindu
+62,48,,Christian
+63,48,"Navi Mumbai, Maharashtra, India",Hindu
+64,48,"Mangalore, Karnataka, India",Hindu
+65,48,,Muslim
+66,48,"Trichy, Tamil Nadu, India",Hindu
+67,48,,Christian
+68,48,"Mumbai, Maharashtra, India",Hindu
+69,48,"Islamabad, Islamabad",Muslim
+70,48,"Mumbai, Maharashtra, India",Hindu
+71,48,"Mumbai, Maharashtra, India",Christian
+72,48,"Mumbai, Maharashtra, India",Christian
+73,48,,Hindu
+74,48,"Bangalore, Karnataka, India",Hindu
+75,48,"Bangalore, Karnataka, India",Hindu
+76,48,"Rest of Punjab, Punjab, India",Sikh
+77,48,"Sydney, New South Wales",Christian
+78,48,"Delhi, Delhi, India",Hindu
+79,48,"Ooty, Tamil Nadu, India",Christian
+80,48,Illinois,Others
+81,48,"Delhi, Delhi, India",Sikh
+82,48,,Muslim
+83,48,"Kolkata, West Bengal, India",Hindu
+84,48,"Mumbai, Maharashtra, India",Hindu
+85,48,,Spiritual
+86,48,"Mumbai, Maharashtra, India",Hindu
+87,48,,Hindu
+88,48,"Mumbai, Maharashtra, India",Hindu
+89,48,,Hindu
+90,48,,Christian
+91,48,"Bangalore, Karnataka, India",Muslim
+92,48,,Hindu
+93,48,"Ahmednagar, Maharashtra, India",Parsi
+94,48,"Palakkad, Kerala, India",Hindu
+95,48,"Delhi, Delhi, India",Jain
+96,48,"Raigad, Maharashtra, India",Hindu
+97,48,"Raigad, Maharashtra, India",Hindu
+98,48,"Delhi, Delhi, India",Hindu
+99,48,"Mississauga, Ontario",Hindu
+100,48,"Laval, Quebec",Sikh
+101,48,"Delhi, Delhi, India",Christian
+102,48,"Chennai, Tamil Nadu, India",Hindu
+103,48,,Hindu
+104,48,"Bangalore, Karnataka, India",Hindu
+105,48,"Mumbai, Maharashtra, India",Hindu
+106,48,"Delhi, Delhi, India",Sikh
+107,48,"Pune, Maharashtra, India",Jain
+108,48,"Nasik, Maharashtra, India",Hindu
+109,48,"Ajmer, Rajasthan, India",Hindu
+110,48,"Bangalore, Karnataka, India",Christian
+111,48,"Delhi, Delhi, India",Hindu
+112,48,"Valsad, Gujarat, India",Hindu
+113,48,"Dubai, Dubai",Hindu
+114,48,"Bangalore, Karnataka, India",Christian
+115,48,"Delhi, Delhi, India",Others
+116,48,"Rest of Delhi, Delhi, India",Hindu
+117,48,"Delhi, Delhi, India",Hindu
+118,48,"Bangalore, Karnataka, India",Hindu
+119,48,"Delhi, Delhi, India",Hindu
+120,48,Others,Christian
+121,48,"Mumbai, Maharashtra, India",Christian
+122,48,"Rest of West Bengal, West Bengal, India",Hindu
+123,48,"Mumbai, Maharashtra, India",Hindu
+124,48,"Mumbai, Maharashtra, India",Hindu
+125,48,"Gwalior, Madhya Pradesh, India",Hindu
+126,48,"Mumbai, Maharashtra, India",Christian
+127,48,,Hindu
+128,48,"Delhi, Delhi, India",Hindu
+129,48,"Chandigarh, Chandigarh, India",Hindu
+130,48,"Ahmedabad, Gujarat, India",Hindu
+131,48,"Vadodara, Gujarat, India",Hindu
+132,48,"Coimbatore, Tamil Nadu, India",Hindu
+133,48,Others,Christian
+134,48,"Mumbai, Maharashtra, India",Hindu
+135,48,"Bangalore, Karnataka, India",Hindu
+136,48,"Melbourne, Victoria",Hindu
+137,48,"Mumbai, Maharashtra, India",Others
+138,48,"Pune, Maharashtra, India",Hindu
+139,48,"Mumbai, Maharashtra, India",Hindu
+140,48,Others,Christian
+141,48,"Bangalore, Karnataka, India",Hindu
+142,48,"Pune, Maharashtra, India",Hindu
+143,48,"Mumbai, Maharashtra, India",Christian
+144,48,Others,Others
+145,48,,Hindu
+146,48,"Gwalior, Madhya Pradesh, India",Hindu
+147,48,Others,Christian
+148,48,"Mumbai, Maharashtra, India",Hindu
+149,48,"Pune, Maharashtra, India",Jain
+150,48,"Cuddalore, Tamil Nadu, India",Hindu
+151,48,"Lonavala, Maharashtra, India",Hindu
+152,48,"Delhi, Delhi, India",Hindu
+153,48,"Hyderabad, Andhra Pradesh, India",Hindu
+154,48,"Bangalore, Karnataka, India",Christian
+155,48,"Chennai, Tamil Nadu, India",Muslim
+156,48,"Melbourne, Victoria",Christian
+157,48,"Bangalore, Karnataka, India",Hindu
+158,48,"Bangalore, Karnataka, India",Hindu
+159,48,"Mumbai, Maharashtra, India",Christian
+160,48,"Mumbai, Maharashtra, India",Hindu
+161,48,"Chennai, Tamil Nadu, India",Christian
+162,48,"Mumbai, Maharashtra, India",Hindu
+163,48,Others,Sikh
+164,48,"Madurai, Tamil Nadu, India",Hindu
+165,48,"Patiala, Punjab, India",Hindu
+166,48,Pennsylvania,Christian
+167,48,"Mumbai, Maharashtra, India",Hindu
+168,48,"Bangalore, Karnataka, India",Hindu
+169,48,Others,Hindu
+170,48,"Mumbai, Maharashtra, India",Hindu
+171,48,"Mumbai, Maharashtra, India",Buddhist
+172,48,"Coimbatore, Tamil Nadu, India",Hindu
+173,48,"Kolkata, West Bengal, India",Hindu
+174,48,Others,Christian
+175,48,Others,Hindu
+176,48,"Delhi, Delhi, India",Hindu
+177,48,"Hubli, Karnataka, India",Muslim
+178,48,,Christian
+179,48,,Hindu

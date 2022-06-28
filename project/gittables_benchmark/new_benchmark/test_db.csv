@@ -1,0 +1,207 @@
+,name,description,year
+0,ACANA,fast heuristic anchor based pairwise alignment,2005
+1,AlignMe,Alignments for membrane protein sequences,2013
+2,Bioconductor,Dynamic programming,2008
+3,(BioPerl OR dpAlign) ,Dynamic programming,2003
+4,(BLASTZ OR LASTZ) ,Seeded pattern-matching,20042009
+5,CUDAlign,DNA sequence alignment of unrestricted size in single or multiple GPUs,2011-2015
+6,DNADot,Web-based dot-plot tool,1998
+7,DOTLET,Java-based dot-plot tool,1998
+8,FEAST,Posterior based local extension with descriptive evolution model,2010
+9,G-PAS,GPU-based dynamic programming with backtracking,2011
+10,GapMis,GapMis is a tool for pairwise sequence alignment with a single gap,2012
+11,(GGSEARCH OR GLSEARCH) ,"Global:Global (GG), Global:Local (GL) alignment with statistics",2007
+12,JAligner,Open source Java implementation of Smith-Waterman,2005
+13,K Sync,"Protein sequence to structure alignment that includes secondary structure, structural conservation, structure-derived sequence profiles, and consensus alignment scores",2003
+14,LALIGN,"Multiple, non-overlapping, local similarity (same algorithm as SIM)",1991 (algorithm)
+15,NW-align,Standard Needleman-Wunsch dynamic programming algorithm,2012
+16,mAlign,modelling alignment; models the information content of the sequences,2004
+17,matcher,Waterman-Eggert local alignment (based on LALIGN),1999
+18,MCALIGN2,explicit models of indel evolution,2006
+19,MUMmer,suffix tree based,2004
+20,needle,Needleman-Wunsch dynamic programming,1999
+21,Ngila,logarithmic and affine gap costs and explicit models of indel evolution,2007
+22,parasail,"C/C++/Python SIMD dynamic programming library for SSE, AVX2",2015
+23,Path,Smith-Waterman on protein back-translation graph (detects frameshifts at protein level),2009
+24,PatternHunter,Seeded pattern-matching,2002?2004
+25,ProbA,Stochastic partition function sampling via dynamic programming,2002
+26,PyMOL,"""align"" command aligns sequence & applies it to structure",2007
+27,REPuter,suffix tree based,2001
+28,SABERTOOTH,Alignment using predicted Connectivity Profiles,2009
+29,Satsuma,Parallel whole-genome synteny alignments,2010
+30,SEQALN,Various dynamic programming,1996
+31,(SIM GAP NAP LAP) OR ((SIM OR GAP OR NAP OR LAP),Local similarity with varying gap treatments,1990-6
+32,SIM,Local similarity,1991
+33,SPA Super,Fast pairwise global alignment,2002
+34,SSEARCH,Local (Smith-Waterman) alignment with statistics,1981 (Algorithm)
+35,Sequences Studio,Java applet demonstrating various algorithms from [19],1997 (reference book)
+36,SWIFT suit,Fast Local Alignment Searching,20052008
+37,stretcher,Memory-optimized Needleman-Wunsch dynamic programming,1999
+38,tranalign,Aligns nucleic acid sequences given a protein alignment,2002
+39,UGENE,"Opensource Smith-Waterman for SSE/CUDA, Suffix array based repeats finder & dotplot",2010
+40,water,Smith-Waterman dynamic programming,1999
+41,wordmatch,k-tuple pairwise match,1998
+42,YASS,Seeded pattern-matching,2004?2011
+43,ABA,A-Bruijn alignment,2004
+44,ALE,manual alignment�; some software assistance,1994 (latest version 2007)
+45,AMAP,Sequence annealing,2006
+46,anon ,"fast, optimal alignment of three sequences using linear gap costs",2000
+47,BAli-Phy,Tree+Multi alignment�; Probabilistic/Bayesian�; Joint Estimation,2005 (latest version 2015)
+48,Base-By-Base,Java-based multiple sequence alignment editor with integrated analysis tools,2004
+49,CHAOS DIALIGN,Iterative alignment,2003
+50,ClustalW,Progressive alignment,1994
+51,CodonCode Aligner,Multi alignment; ClustalW & Phrap support,2003 (latest version 2009)
+52,Compass,COmparison of Multiple Protein sequence Alignments with assessment of Statistical Significance,2009
+53,DECIPHER,Progressive/iterative alignment,2014
+54,(DIALIGN-TX OR DIALIGN-T),Segment-based method,2005 (latest version 2008)
+55,(DIALIGN OR DIALIGN-T) ,Segment-based method,2005 (latest version 2008)
+56,DNA Alignment,Segment-based method for intraspecific alignments,2005 (latest version 2008)
+57,DNA Baser Sequence Assembler,Multi alignment; Automatic batch alignment,2006 (latest version 2014)
+58,EDNA,Energy Based Multiple Sequence Alignment for DNA Binding Sites,2013
+59,FSA,Sequence annealing,2008
+60,Geneious,Progressive/Iterative alignment; ClustalW plugin,2005 (latest version 2009)
+61,Kalign,Progressive alignment,2005
+62,MAFFT,Progressive/iterative alignment,2005
+63,MARNA,Multiple Alignment of RNAs,2005
+64,MAVID,Progressive alignment,2004
+65,MSA,Dynamic programming,1989 (modified 1995)
+66,MSAProbs,Dynamic programming,2010
+67,MULTALIN,Dynamic programming/clustering,1988
+68,Multi-LAGAN,Progressive dynamic programming alignment,2003
+69,MUSCLE,Progressive/iterative alignment,2004
+70,Opal,Progressive/iterative alignment,2007
+71,Pecan,Probabilistic/consistency,2008
+72,Phylo,A human computing framework for comparative genomics to solve multiple alignment,2010
+73,Praline,Progressive/iterative/consistency/homology-extended alignment with pre-profiling and secondary structure prediction,1999 (latest version 2009)
+74,PicXAA,non-progressive/maximum expected accuracy alignment,2010
+75,POA,Partial order/hidden Markov model,2002
+76,Probalign,Probabilistic/consistency with partition function probabilities,2006
+77,ProbCons,Probabilistic/consistency,2005
+78,PROMALS3D,Progressive alignment/hidden Markov model/Secondary structure/3D structure,2008
+79,PRRN PRRP,Iterative alignment (especially refinement),1991 and later
+80,PSAlign,Alignment preserving non-heuristic,2006
+81,RevTrans,"Combines DNA and Protein alignment, by back translating the protein alignment to DNA.",2003 (newest version 2005)
+82,SAGA,Sequence alignment by genetic algorithm,1996 (new version 1998)
+83,SAM,Hidden Markov model,1994 (most recent version 2002)
+84,Se-Al,Manual alignment,2002
+85,StatAlign,Bayesian co-estimation of alignment and phylogeny (MCMC),2008
+86,Stemloc,Multiple alignment and secondary structure prediction,2005
+87,T-Coffee,More sensitive progressive alignment,2000 (newest version 2008)
+88,UGENE,"Supports multiple alignment with MUSCLE, KAlign, Clustal and MAFFT plugins",2010 (newest version 2012)
+89,VectorFriends,"VectorFriends Aligner, MUSCLE plugin, and ClustalW plugin",2013
+90,GLProbs,Adaptive pair-Hidden Markov Model based approach,2013
+91,ACT Artemis,Synteny and comparative genomics,
+92,BarraCUDA,"A GPGPU accelerated Burrows-Wheeler transform (FM-index) short read alignment program based on BWA, supports alignment of indels with gap openings and extensions.",
+93,BBMap,"Uses a short kmers to rapidly index genome; no size or scaffold count limit. Higher sensitivity and specificity than Burrows-Wheeler aligners, with similar or greater speed. Performs affine-transform-optimized global alignment, which is slower but more accurate than Smith-Waterman. Handles Illumina, 454, PacBio, Sanger, and Ion Torrent data. Splice-aware; capable of processing long indels and RNA-seq. Pure Java; runs on any platform. Used by the Joint Genome Institute.",2010
+94,BFAST,"Explicit time and accuracy tradeoff with a prior accuracy estimation, supported by indexing the reference sequences. Optimally compresses indexes. Can handle billions of short reads. Can handle insertions, deletions, SNPs, and color errors (can map ABI SOLiD color space reads). Performs a full Smith Waterman alignment.",2009
+95,BLASTN,"BLAST's nucleotide alignment program, slow and not accurate for short reads, and uses a sequence database (EST, sanger sequence) rather than a reference genome.",
+96,BLAT,Made by Jim Kent. Can handle one mismatch in initial alignment step.,2002
+97,Bowtie,"Uses a Burrows-Wheeler transform to create a permanent, reusable index of the genome; 1.3 GB memory footprint for human genome. Aligns more than 25 million Illumina reads in 1 CPU hour. Supports Maq-like and SOAP-like alignment policies",2009
+98,HIVE-hexagon,Uses a hash table and bloom matrix to create and filter potential positions on the genome. For higher efficiency uses cross-similarity between short reads and avoids realigning non unique redundant sequences. It is faster than bowtie and bwa and allows indels and divergent sensitive alignments on viruses and bacteria as well as more conservative eukaryotic alignments.,2014
+99,BWA,Uses a Burrows-Wheeler transform to create an index of the genome. It's a bit slower than bowtie but allows indels in alignment.,2009
+100,BWA-PSSM,"A probabilistic short read aligner based on the use of position specific scoring matrices (PSSM). The aligner is adaptable in the sense that it can take into account the quality scores of the reads and models of data specific biases, such as those observed in Ancient DNA, PAR-CLIP data or genomes with biased nucleotide compositions.[28]",2014
+101,CASHX,Quantify and manage large quantities of short-read sequence data. CASHX pipeline contains a set of tools that can be used together or as independent modules on their own. This algorithm is very accurate for perfect hits to a reference genome.,
+102,Cloudburst,Short-read mapping using Hadoop MapReduce,
+103,CUDA-EC,Short-read alignment error correction using GPUs.,
+104,CUSHAW,A CUDA compatible short read aligner to large genomes based on Burrows-Wheeler transform.,2012
+105,CUSHAW2,"Gapped short-read and long-read alignment based on maximal exact match seeds. This aligner supports both base-space (e.g. from Illumina, 454, Ion Torrent and PacBio sequencers) and ABI SOLiD color-space read alignments.",2014
+106,CUSHAW2-GPU,GPU-accelerated CUSHAW2 short-read aligner.,
+107,CUSHAW3,Sensitive and Accurate Base-Space and Color-Space Short-Read Alignment with Hybrid Seeding,2012
+108,drFAST,"Read mapping alignment software that implements cache obliviousness to minimize main/cache memory transfers like mrFAST and mrsFAST, however designed for the SOLiD sequencing platform (color space reads). It also returns all possible map locations for improved structural variation discovery.",
+109,ELAND,Implemented by Illumina. Includes ungapped alignment with a finite read length.,
+110,ERNE,Extended Randomized Numerical alignEr for accurate alignment of NGS reads. It can map bisulfite-treated reads.,
+111,GASSST,Finds global alignments of short DNA sequences against large DNA banks,2011
+112,GEM,"High-quality alignment engine (exhaustive mapping with substitutions and indels). More accurate and several times faster than BWA or Bowtie 1/2. Many standalone biological applications (mapper, split mapper, mappability, and other) provided.",2012
+113,Genalice MAP,Ultra fast and comprehensive NGS read aligner with high precision and small storage footprint.,
+114,Geneious Assembler,"Fast, accurate overlap assembler with the ability to handle any combination of sequencing technology, read length, any pairing orientations, with any spacer size for the pairing, with or without a reference genome.",
+115,GensearchNGS,"Complete framework with user-friendly GUI to analyse NGS data. It integrates a proprietary high quality alignment algorithm as well as plug-in capability to integrate various public aligner into a framework allowing to import short reads, align them, detect variants and generate reports. It is geared towards re-sequencing projects, namely in a diagnostic setting.",
+116,(GMAP OR GSNAP) ,"Robust, fast short-read alignment. GMAP: longer reads, with multiple indels and splices (see entry above under Genomics analysis); GSNAP: shorter reads, with a single indel or up to two splices per read. Useful for digital gene expression, SNP and indel genotyping. Developed by Thomas Wu at Genentech. Used by the National Center for Genome Resources (NCGR) in Alpheus.",
+117,GNUMAP,"Accurately performs gapped alignment of sequence data obtained from next-generation sequencing machines (specifically that of Solexa/Illumina) back to a genome of any size. Includes adaptor trimming, SNP calling and Bisulfite sequence analysis.",2009
+118,iSAAC,"iSAAC has been designed to take full advantage of all the computational power available on a single server node. As a result iSAAC scales well over a broad range of hardware architectures, and alignment performance improves with hardware capabilities",
+119,LAST,"LAST uses adaptative seeds and copes more efficiently with repeat-rich sequences (e.g. genomes). For example: it can align reads to genomes without repeat-masking, without becoming overwhelmed by repetitive hits.",2011
+120,MAQ,Ungapped alignment that takes into account quality scores for each base.,
+121,(mrFAST OR FAST) ,Gapped (mrFAST) and ungapped (mrsFAST) alignment software that implements cache obliviousness to minimize main/cache memory transfers. They are designed for the Illumina sequencing platform and they can return all possible map locations for improved structural variation discovery.,
+122,MOM,MOM or maximum oligonucleotide mapping is a query matching tool that captures a maximal length match within the short read.,
+123,MOSAIK,Fast gapped aligner and reference-guided assembler. Aligns reads using a banded Smith-Waterman algorithm seeded by results from a k-mer hashing scheme. Supports reads ranging in size from very short to very long.,
+124,MPscan,"Fast aligner based on a filtration strategy (no indexing, use q-grams and Backward Nondeterministic DAWG Matching)",2009
+125,(Novoalign OR NovoalignCS),"Gapped alignment of single end and paired end Illumina GA I & II, ABI Colour space & ION Torrent reads.. High sensitivity and specificity, using base qualities at all steps in the alignment. Includes adapter trimming, base quality calibration, Bi-Seq alignment, and option to report multiple alignments per read.",
+126,NextGENe,"NextGENe? software has been developed specifically for use by biologists performing analysis of next generation sequencing data from Roche Genome Sequencer FLX, Illumina GA/HiSeq, Life Technologies Applied BioSystems? SOLiD? System, PacBio and Ion Torrent platforms.",
+127,NextGenMap,"Flexible and fast read mapping program (twice as fast as BWA), achieves a mapping sensitivity comparable to Stampy. Internally uses a memory efficient index structure (hash table) to store the positions of all 13-mers present in the reference genome. Mapping regions where pairwise alignments are required are dynamically determined for each read. Uses fast SIMD instructions (SSE) to accelerate the alignment calculations on the CPU. If available, alignments are computed on the GPU (using OpenCL/CUDA) resulting in an additional runtime reduction of 20 - 50%.",2013
+128,Omixon,"The Omixon Variant Toolkit includes highly sensitive and highly accurate tools for detecting SNPs and indels. It offers a solution to map NGS short reads with a moderate distance (up to 30% sequence divergence) from reference genomes. It poses no restrictions on the size of the reference, which, combined with its high sensitivity, makes the Variant Toolkit well-suited for targeted sequencing projects and diagnostics.",
+129,PALMapper,"PALMapper, efficiently computes both spliced and unspliced alignments at high accuracy. Relying on a machine learning strategy combined with a fast mapping based on a banded Smith-Waterman-like algorithm it aligns around 7 million reads per hour on a single CPU. It refines the originally proposed QPALMA approach.",
+130,Partek,"Partek? Flow software has been developed specifically for use by biologists and bioinformaticians. It supports un-gapped, gapped and splice-junction alignment from single and paired-end reads from Illumina, Life technologies Solid TM, Roche 454 and Ion Torrent raw data (with or without quality information). It integrates powerful quality control on FASTQ/Qual level and on aligned data. Additional functionality include trimming and filtering of raw reads, SNP and InDel detection, mRNA and microRNA quantification and fusion gene detection.",
+131,PASS,"Indexes the genome, then extends seeds using pre-computed alignments of words. Works with base space as well as color space (SOLID) and can align genomic and spliced RNA-seq reads.",
+132,PerM,"Indexes the genome with periodic seeds to quickly find alignments with full sensitivity up to four mismatches. It can map Illumina and SOLiD reads. Unlike most mapping programs, speed increases for longer read lengths.",
+133,PRIMEX,Indexes the genome with a k-mer lookup table with full sensitivity up to an adjustable number of mismatches. It is best for mapping 15-60bp sequences to a genome.,2003
+134,QPalma,"Is able to take advantage of quality scores, intron lengths and computation splice site predictions to perform and performs an unbiased alignment. Can be trained to the specifics of a RNA-seq experiment and genome. Useful for splice site/intron discovery and for gene model building. (See PALMapper for a faster version).",
+135,RazerS,No read length limit. Hamming or edit distance mapping with configurable error rates. Configurable and predictable sensitivity (runtime/sensitivity tradeoff). Supports paired-end read mapping.,
+136,cREAL,"REAL is an efficient, accurate, and sensitive tool for aligning short reads obtained from next-generation sequencing. The programme can handle an enormous amount of single-end reads generated by the next-generation Illumina/Solexa Genome Analyzer. cREAL is a simple extension of REAL for aligning short reads obtained from next-generation sequencing to a genome with circular structure.",
+137,REAL,"REAL is an efficient, accurate, and sensitive tool for aligning short reads obtained from next-generation sequencing. The programme can handle an enormous amount of single-end reads generated by the next-generation Illumina/Solexa Genome Analyzer. cREAL is a simple extension of REAL for aligning short reads obtained from next-generation sequencing to a genome with circular structure.",
+138,RMAP,Can map reads with or without error probability information (quality scores) and supports paired-end reads or bisulfite-treated read mapping. There are no limitations on read length or number of mismatches.,
+139,rNA,A randomized Numerical Aligner for Accurate alignment of NGS reads,
+140,RTG Investigator,"Extremely fast, tolerant to high indel and substitution counts. Includes full read alignment. Product includes comprehensive pipelines for variant detection and metagenomic analysis with any combination of Illumina, Complete Genomics and Roche 454 data.",
+141,Segemehl,"Can handle insertions, deletions and mismatches. Uses enhanced suffix arrays.",2009
+142,SeqMap,Up to 5 mixed substitutions and insertions/deletions. Various tuning options and input/output formats.,
+143,Shrec,Short read error correction with a Suffix trie data structure.,
+144,SHRiMP,Indexes the reference genome as of version 2. Uses masks to generate possible keys. Can map ABI SOLiD color space reads.,2009 - 2011
+145,SLIDER,"Slider is an application for the Illumina Sequence Analyzer output that uses the ""probability"" files instead of the sequence files as an input for alignment to a reference sequence or a set of reference sequences.",
+146,SOAP,"SOAP: Robust with a small (1-3) number of gaps and mismatches. Speed improvement over BLAT, uses a 12 letter hash table. SOAP2: using bidirectional BWT to build the index of reference, and it is much faster than the first version. SOAP3: GPU-accelerated version that could find all 4-mismatch alignments in tens of seconds per one million reads. SOAP3-dp, also GPU accelerated, supports arbitrary number of mismatches and gaps according to affine gap penalty scores.",
+147,SOAP2,"SOAP: Robust with a small (1-3) number of gaps and mismatches. Speed improvement over BLAT, uses a 12 letter hash table. SOAP2: using bidirectional BWT to build the index of reference, and it is much faster than the first version. SOAP3: GPU-accelerated version that could find all 4-mismatch alignments in tens of seconds per one million reads. SOAP3-dp, also GPU accelerated, supports arbitrary number of mismatches and gaps according to affine gap penalty scores.",
+148,SOAP3,"SOAP: Robust with a small (1-3) number of gaps and mismatches. Speed improvement over BLAT, uses a 12 letter hash table. SOAP2: using bidirectional BWT to build the index of reference, and it is much faster than the first version. SOAP3: GPU-accelerated version that could find all 4-mismatch alignments in tens of seconds per one million reads. SOAP3-dp, also GPU accelerated, supports arbitrary number of mismatches and gaps according to affine gap penalty scores.",
+149,SOAP3-dp,"SOAP: Robust with a small (1-3) number of gaps and mismatches. Speed improvement over BLAT, uses a 12 letter hash table. SOAP2: using bidirectional BWT to build the index of reference, and it is much faster than the first version. SOAP3: GPU-accelerated version that could find all 4-mismatch alignments in tens of seconds per one million reads. SOAP3-dp, also GPU accelerated, supports arbitrary number of mismatches and gaps according to affine gap penalty scores.",
+150,SOCS,For ABI SOLiD technologies. Significant increase in time to map reads with mismatches (or color errors). Uses an iterative version of the Rabin-Karp string search algorithm.,
+151,SSAHA,Fast for a small number of variants.,
+152,SSAHA2,Fast for a small number of variants.,
+153,Stampy,"For Illumina reads. High specificity, and sensitive for reads with indels, structural variants, or many SNPs. Slow, but speed increased dramatically by using BWA for first alignment pass).",2010
+154,SToRM,"For Illumina or ABI SOLiD reads, with SAM native output. Highly sensitive for reads with many errors, indels (full from 0 to 15, extended support otherwise). Uses spaced seeds (single hit) and a very fast SSE/SSE2/AVX2/AVX-512 banded alignment filter. For fixed-length reads only, authors recommend SHRiMP2 otherwise.",2010
+155,Subread,"Superfast and accurate read aligners. Subread can be used to map both gDNA-seq and RNA-seq reads. Subjunc detects exon-exon junctions and maps RNA-seq reads. They employ a novel mapping paradigm called ""seed-and-vote"".",
+156,Subjunc,"Superfast and accurate read aligners. Subread can be used to map both gDNA-seq and RNA-seq reads. Subjunc detects exon-exon junctions and maps RNA-seq reads. They employ a novel mapping paradigm called ""seed-and-vote"".",
+157,Taipan,de-novo Assembler for Illumina reads,
+158,UGENE,"Visual interface both for Bowtie and BWA, as well as an embedded aligner",
+159,VelociMapper,FPGA-accelerated reference sequence alignment mapping tool from TimeLogic. Faster than Burrows-Wheeler transform-based algorithms like BWA and Bowtie. Supports up to 7 mismatches and/or indels with no performance penalty. Produces sensitive Smith-Waterman gapped alignments.,
+160,XpressAlign,"FPGA based sliding window short read aligner which exploits the embarrassingly parallel property of short read alignment. Performance scales linearly with number of transistors on a chip (i.e. performance guaranteed to double with each iteration of Moore's Law without modification to algorithm). Low power consumption is useful for datacentre equipment. Predictable runtime. Better price/performance than software sliding window aligners on current hardware, but not better than software BWT-based aligners currently. Can cope with large numbers (>2) of mismatches. Will find all hit positions for all seeds. Single-FPGA experimental version, needs work to develop it into a multi-FPGA production version.",
+161,ZOOM,"100% sensitivity for a reads between 15 - 240bp with practical mismatches. Very fast. Support insertions and deletions. Works with Illumina & SOLiD instruments, not 454.",
+162,Tophat,,
+163,Cufflinks,,
+164,SOAPsplice,,
+165,PASSion,,
+166,MapSplice,,
+167,SpliceMap,,
+168,HMMSplicer,,
+169,TrueSight,,
+170,GEM,,
+171,SplitSeek,,
+172,Supersplat,,
+173,X-Mate,,
+174,RNASEQR,,
+175,MapAI,,
+176,SAMMate,,
+177,IsoformEx,,
+178,RUM,,
+179,SpliceSeq,,
+180,PASTA,,
+181,ContextMap,,
+182,SeqSaw,,
+183,ABMMapper,,
+184,MapNext,,
+185,STAR,,
+186,GSNAP,,
+187,QPalma,,
+188,PALMapper,,
+189,CRAC,,
+190,OLEgo,,
+191,Subread,,
+192,OSA,,
+193,FineSplice,,
+194,Batman,,
+195,BiQ Analyzer,,
+196,BiQ Analyzer HT,,
+197,Bis-SNP,,
+198,Bismark,,
+199,BS-Seq,,
+200,GSNAP,,
+201,MethMarker,,
+202,Methpipe,,
+203,MethylCoder,,
+204,MetMap,,
+205,SwDMR,,

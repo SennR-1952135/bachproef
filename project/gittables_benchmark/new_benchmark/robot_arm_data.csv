@@ -1,0 +1,391 @@
+,name,type,notes
+0,xArm,collaborative,
+1,IRB14000 YUMI,collaborative,"cost is an estimate, 40k is for 2 arms"
+2,Gofa,collaborative,cost is estimate based on article saying 25-35k
+3,Swifti,collaborative,cost is estimate based on article saying 25-35k
+4,OUR-1,collaborative,
+5,I5,collaborative,
+6,Eva,collaborative,cost is 4990 british pounds
+7,Eva-0,collaborative,
+8,Racer 5.6,collaborative,
+9,Racer 5.8,collaborative,
+10,Racer 3,collaborative,
+11,Aura,collaborative,
+12,Cobotta,collaborative,
+13,S-5,collaborative,
+14,Panda 3,collaborative,
+15,Panda 5,collaborative,
+16,Catbot,collaborative,
+17,Elephant 5,collaborative,
+18,Amor,collaborative,"35k euro, from website"
+19,CR-35iA,collaborative,
+20,CR-4iA,collaborative,
+21,CR-7iA,collaborative,
+22,CR-7iA/L,collaborative,
+23,CR-14iA/L,collaborative,
+24,CR-15iA,collaborative,
+25,CRX-10iA,collaborative,
+26,CRX-10iA/L,collaborative,
+27,P-Rob 2R-24,collaborative,
+28,P-Rob 2R-48,collaborative,
+29,Emika,collaborative,"10.5k eruos, listed elsewhere"
+30,Dexter,collaborative,
+31,Elfin 3,collaborative,
+32,Elfin 5,collaborative,
+33,Elfin 10,collaborative,
+34,HCR-3,collaborative,
+35,HCR-5,collaborative,
+36,HCR-12,collaborative,
+37,Nextage,collaborative,"29kg might be whole robot, 60k for whole robot"
+38,Jaco 7,collaborative,
+39,Jaco 6,collaborative,
+40,Jaco 4,collaborative,
+41,Mico 6,collaborative,
+42,Mico 4,collaborative,
+43,Gen3 LWR,collaborative,
+44,Gen2 LWR,collaborative,
+45,LBR iiwa 7 R800,collaborative,
+46,LBR iiwa 14 R820,collaborative,
+47,LBR iisy,collaborative,
+48,Indy7,collaborative,
+49,Indy12,collaborative,
+50,Indy-RP2,collaborative,
+51,Indy3,collaborative,
+52,Indy5,collaborative,
+53,Indy10,collaborative,
+54,CORO,collaborative,
+55,Speedy 12,collaborative,
+56,Speedy 6,collaborative,
+57,KR-5-SI,collaborative,
+58,PAVP6,collaborative,
+59,OB7,collaborative,
+60,Baxter,collaborative,"mass is estimate, 75 kg is 2 arms + base"
+61,Sawyer,collaborative,
+62,Pulse 75,collaborative,18990 euro
+63,Pulse 90,collaborative,22490 euro
+64,TX2-40,collaborative,
+65,TX2-60,collaborative,
+66,TX2-60L,collaborative,
+67,TX2-90,collaborative,
+68,TX2-90L,collaborative,
+69,TX2-90XL,collaborative,
+70,TM5-700,collaborative,
+71,TM5-900,collaborative,
+72,TM12,collaborative,
+73,TM14,collaborative,
+74,UR3,collaborative,
+75,UR5,collaborative,
+76,UR10,collaborative,
+77,UR3e,collaborative,
+78,UR5e,collaborative,
+79,UR10e,collaborative,
+80,HC10,collaborative,
+81,HC10DT,collaborative,
+82,HC20XP,collaborative,
+83,KR810,collaborative,25k Euros
+84,KR1205,collaborative,35k Euros
+85,KR1805,collaborative,40k Euros (estimate)
+86,M069,collaborative,
+87,M1509,collaborative,
+88,M1013,collaborative,
+89,M0617,collaborative,
+90,IRB120,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+91,IRB1200-5,industrial,
+92,IRB1200-7,industrial,
+93,IRB140,industrial,found this price online somewhere
+94,IRB1410,industrial,
+95,IRB1520ID,industrial,
+96,IRB1600-6,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+97,IRB1500-10,industrial,
+98,IRB1600ID,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+99,IRB2400-7,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+100,IRB2400-20,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+101,IRB260,industrial,
+102,IRB2600-12,industrial,
+103,IRB2600-20,industrial,
+104,IRB4400,industrial,
+105,IRB460,industrial,Estimate from web
+106,IRB4600-20,industrial,
+107,IRB4600-60,industrial,
+108,IRB6600,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+109,IRB6620,industrial,
+110,IRB6640,industrial,
+111,IRB6650S-125,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+112,IRB6650S-200,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+113,IRB6660-pm 100,industrial,
+114,IRB6660-pm 205,industrial,
+115,IRB6660-pt,industrial,
+116,IRB6700,industrial,
+117,IRB7600,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+118,IRB7600 150,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+119,IRB7600 500,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+120,IRB8700 550,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+121,IRB8700 800,industrial,Estimate from robotraders.co.uk sale of 'new' robot
+122,Viper s650,industrial,
+123,Viper s850,industrial,
+124,Viper s1300,industrial,
+125,Viper s1700D,industrial,
+126,C8,industrial,
+127,C8L,industrial,
+128,C8XL,industrial,
+129,S5,industrial,
+130,S5L,industrial,
+131,C4,industrial,
+132,C4L,industrial,
+133,ARC Mate 7-7c,industrial,total estimate based on a blog
+134,ARC Mate 7wp,industrial,total estimate based on a blog
+135,ARC Mate 7h,industrial,total estimate based on a blog
+136,ARC Mate 7l-7lc,industrial,total estimate based on a blog
+137,ARC Mate 4s-4sc,industrial,total estimate based on a blog
+138,ARC Mate 4sh,industrial,total estimate based on a blog
+139,ARC Mate 0iB,industrial,total estimate based on a blog
+140,ARC Mate 12S,industrial,
+141,ARC Mate 12,industrial,
+142,ARC Mate 7l,industrial,total estimate based on a blog
+143,ARC Mate 8l,industrial,
+144,ARC Mate 10m,industrial,total estimate based on a blog
+145,ARC Mate 10ms,industrial,total estimate based on a blog
+146,ARC Mate 20,industrial,total estimate based on a blog
+147,ARC Mate 12l,industrial,total estimate based on a blog
+148,ARC Mate 20m,industrial,total estimate based on a blog
+149,ARC Mate 35m,industrial,
+150,M-710iC 12l,industrial,
+151,M-710iC 20l,industrial,
+152,M-710iC 45m,industrial,
+153,M-710iC 50h,industrial,
+154,M-710iC 50s,industrial,
+155,M-710iC 50,industrial,
+156,M-710iC 70,industrial,
+157,R-1000iA 80h,industrial,
+158,R-1000iA 80f,industrial,
+159,R-1000iA 100f,industrial,
+160,Toploader M-20iA/20T,industrial,
+161,Toploader M-20iA/20MT,industrial,
+162,Toploader M-20iA/35MT,industrial,
+163,Toploader M-710iC/50T,industrial,
+164,Toploader M-710iC/70T,industrial,
+165,Toploader R-200iB/200T,industrial,
+166,R-2000iC 125L,industrial,R2000 and M900 series go 90-130 scaled by payload
+167,R-2000iC 165F,industrial,R2000 series go 90-130 scaled by payload
+168,R-2000iC 165R,industrial,R2000 series go 90-130 scaled by payload
+169,R-2000iC 210F,industrial,R2000 series go 90-130 scaled by payload
+170,R-2000iC 210R,industrial,R2000 series go 90-130 scaled by payload
+171,R-2000iB 100H,industrial,R2000 series go 90-130 scaled by payload
+172,R-2000iB 100P,industrial,R2000 series go 90-130 scaled by payload
+173,R-2000iB a50U,industrial,R2000 series go 90-130 scaled by payload
+174,R-2000iB 170CF,industrial,R2000 series go 90-130 scaled by payload
+175,R-2000iB 175L,industrial,R2000 series go 90-130 scaled by payload
+176,R-2000iB 185L,industrial,R2000 series go 90-130 scaled by payload
+177,R-2000iB 210FS,industrial,R2000 series go 90-130 scaled by payload
+178,R-2000iB 210WE,industrial,R2000 series go 90-130 scaled by payload
+179,R-2000iB 220U,industrial,R2000 series go 90-130 scaled by payload
+180,R-2000iB 220US,industrial,R2000 series go 90-130 scaled by payload
+181,R-2000iB 250F,industrial,R2000 series go 90-130 scaled by payload
+182,M-900iB 280,industrial,
+183,M-900iB 280L,industrial,
+184,M-900iB 360,industrial,
+185,M-900iB 400L,industrial,
+186,M-900iB 700,industrial,
+187,M-900iA 150P,industrial,
+188,M-900iA 200P,industrial,
+189,M-2000iA 900L,industrial,m2000 range goes 150-400 based on payload
+190,M-2000iA 1200,industrial,m2000 range goes 150-400 based on payload
+191,M-2000iA 1700L,industrial,m2000 range goes 150-400 based on payload
+192,M-2000iA 2300,industrial,m2000 range goes 150-400 based on payload
+193,M-410iC 185,industrial,
+194,M-410iC 315,industrial,
+195,M-410iB 140H,industrial,
+196,M-410iB 450,industrial,
+197,M-410iB 700,industrial,
+198,M-430iA 2P,industrial,
+199,M-430iA 2PH,industrial,
+200,M-430iA 4FH,industrial,
+201,Paint Mate 200iA 200iA,industrial,
+202,Paint Mate 200iA 200iA/5L,industrial,
+203,P-50iB 15,industrial,
+204,P-50iB 10L,industrial,
+205,P-250iB 15,industrial,
+206,P-350iA,industrial,
+207,P-500iA,industrial,
+208,P-700iA,industrial,
+209,P-1000iA,industrial,
+210,RS003N,industrial,
+211,RS005N,industrial,
+212,RS005L,industrial,
+213,RS006L,industrial,
+214,RS010N,industrial,
+215,RS010L,industrial,
+216,RS015X,industrial,
+217,RS020N,industrial,
+218,RS030N,industrial,
+219,RS050N,industrial,
+220,RS080N,industrial,
+221,BX100S,industrial,
+222,BX100N,industrial,
+223,BX100L,industrial,
+224,BX130X,industrial,
+225,BX165N,industrial,
+226,BX165L,industrial,
+227,BX200L,industrial,
+228,BX250L,industrial,
+229,BX300L,industrial,
+230,BT200L,industrial,
+231,KF121,industrial,
+232,KJ264 F,industrial,
+233,KJ264 S,industrial,
+234,KJ264 W,industrial,
+235,KJ314,industrial,
+236,CP180L,industrial,
+237,CP300L,industrial,
+238,CP500L,industrial,
+239,RD080N,industrial,
+240,ZD130S,industrial,
+241,ZD250S,industrial,
+242,MC004N,industrial,
+243,MS005N,industrial,
+244,KR 3 R540 ,industrial,
+245,KR 6 R700 five,industrial,
+246,KR 6 R700 six,industrial,
+247,KR 6 R900 five,industrial,
+248,KR 6 R900 six,industrial,
+249,KR 10 R900,industrial,
+250,KR 10 R1100 five,industrial,
+251,KR 10 R1100 six,industrial,
+252,KR 6 R900 six,industrial,
+253,KR 6 R900 six HM-SC,industrial,
+254,KR 5 arc,industrial,
+255,KR 6-2,industrial,
+256,KR 16-2,industrial,
+257,KR 20-3,industrial,
+258,KR 5-2 ARC HW,industrial,
+259,KR 16 ARC HW,industrial,
+260,KR 16-2 F,industrial,
+261,KR 16-2 KS-F,industrial,
+262,KR 16 L6-2 KS,industrial,
+263,KR 16-2 CR,industrial,
+264,KR 30-3,industrial,
+265,KR 30 L16-2,industrial,
+266,KR 40 PA,industrial,
+267,KR 60-3 1,industrial,
+268,KR 60-3 2,industrial,
+269,KR 60-3 3,industrial,
+270,KR 30-3 F,industrial,
+271,KR 30-4 KS-F,industrial,
+272,KR 30-4 KS,industrial,
+273,KR 30-3 CR,industrial,
+274,KR 30 HA,industrial,
+275,KR 60-3 F 1,industrial,
+276,KR 60-3 F 2,industrial,
+277,KR 60-3 F 3,industrial,
+278,KR 60-4 KS-F,industrial,
+279,KR 60-4 KS 1,industrial,
+280,KR 60-4 KS 2,industrial,
+281,KR 60-4 KS 3,industrial,
+282,KR 60 L16-2 KS,industrial,
+283,KR 60 HA 1,industrial,
+284,KR 60 HA 2,industrial,
+285,KR 60 HA 3,industrial,
+286,KR 120 R2100 nano F,industrial,
+287,KR 120 R1800 nano,industrial,
+288,KR 160 R1570 nano,industrial,
+289,KR 90 R2700 pro,industrial,
+290,KR 120 R2500 pro,industrial,
+291,KR 90 R3100 EXTRA,industrial,
+292,KR 120 R2900 EXTRA,industrial,
+293,KR 150 R2700 EXTRA,industrial,
+294,KR 180 R2500 EXTRA,industrial,
+295,KR 210 R2700 EXTRA,industrial,
+296,KR 90 R3100 EXTRA F-HP,industrial,
+297,KR 120 R2900 EXTRA F-HP,industrial,
+298,KR 120 R3200 PA,industrial,
+299,KR 150 R2700 EXTRA F-HP,industrial,
+300,KR 180 R2500 EXTRA F-HP,industrial,
+301,KR 150 R3100 PRIME,industrial,
+302,KR 180 R2900 PRIME,industrial,
+303,KR 210 R2700 PRIME,industrial,
+304,KR 240 R2500 PRIME,industrial,
+305,KR 240 R2700 PRIME,industrial,
+306,KR 90 R3700 PRIME K,industrial,
+307,KR 120 R3500 PRIME K,industrial,
+308,KR 150 R3300 PRIME K,industrial,
+309,KR 150 R3100 PRIME K,industrial,
+310,KR 210 R2900 PRIME K,industrial,
+311,KR 180 R3200 PA,industrial,
+312,KR 210 R2700 PRIME F,industrial,
+313,KR 240 R3200 PA,industrial,
+314,KR 210 R3100 ULTRA,industrial,
+315,KR 240 R2900 ULTRA,industrial,
+316,KR 270 R2700 ULTRA,industrial,
+317,KR 300 R2500 ULTRA,industrial,
+318,KR 210 R3100 ULTRA F,industrial,
+319,KR 120 R3900 ULTRA K,industrial,
+320,KR 150 R3700 ULTRA K,industrial,
+321,KR 180 R3500 ULTRA K-HP,industrial,
+322,KR 210 R3300 ULTRA K,industrial,
+323,KR 240 R3100 ULTRA K,industrial,
+324,KR 270 R2900 ULTRA K,industrial,
+325,KR 240 R2900 ULTRA F,industrial,
+326,KR 270 R2700 ULTRA F,industrial,
+327,KR 300 R2500 ULTRA F,industrial,
+328,KR 240 R3330,industrial,
+329,KR 280 R3080,industrial,
+330,KR 360 R2830,industrial,
+331,Meca500,industrial,price from website
+332,R12-5,industrial,price from website
+333,R12-6,industrial,price from website
+334,R17-5,industrial,price from website
+335,R17-6,industrial,price from website
+336,R17HPL,industrial,price from website
+337,R17HS,industrial,price from website
+338,F5,industrial,
+339,TV800,industrial,
+340,HP20D,industrial,
+341,MH50,industrial,
+342,MH50-20,industrial,
+343,MH50-35,industrial,
+344,MH5S,industrial,
+345,MH5LS,industrial,
+346,MH6-10,industrial,
+347,MH6D,industrial,
+348,MH6S,industrial,
+349,MH6S-10,industrial,
+350,MPK2,industrial,
+351,MPK2F-5,industrial,
+352,MPK50,industrial,
+353,SDA5F,industrial,
+354,GP25,industrial,
+355,GP12,industrial,
+356,GP7,industrial,
+357,GP8,industrial,
+358,MotoMini,industrial,
+359,PUMA 560,research,
+360,WAM 4,research,"listed with ""high precision"" package"
+361,WAM 7,research,"listed with ""high precision"" package"
+362,SARA,research,
+363,LWR III,research,ca 2003
+364,LWR II,research,ca 2000
+365,LWR I,research,ca 1995
+366,KIT Arm,research,
+367,MER,research,
+368,MSL,research,
+369,MGS,research,
+370,LWA 4P,research,
+371,LWA 4P-2,research,
+372,LWA 4D,research,"estimate is power cube derived, 2 large, 2 medium, 1 small, 1 ball wrist"
+373,PR2,research,"cost is delta between full robot and 1 arm version, full robot 220kg"
+374,VP-5243,industrial,
+375,VP-6242,industrial,
+376,VS-050,industrial,
+377,VS-060,industrial,
+378,VS-068,industrial,
+379,VS-087,industrial,
+380,VS-6556,industrial,
+381,VS-6577,industrial,
+382,VM-6083,industrial,
+383,VM-60B1,industrial,
+384,VS-050S2,industrial,
+385,TV800,industrial,
+386,TV1000,industrial,
+387,TV1000H,industrial,
+388,duAro2,industrial,"listed price and mass was for dual arm system, so both were divided in half"
+389,Dorna Arm,industrial,dorna.ai

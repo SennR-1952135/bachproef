@@ -1,0 +1,44 @@
+,year,country,city
+0,2015,China,Taiyuan
+1,2015,United States,Cambridge
+2,2015,United States;United States,Boston;Boston
+3,2014,China,Beijing
+4,2014,United States,New York
+5,2014,France;France;France,Villejuif;Saint-Aubin;Villejuif
+6,2014,Singapore;United States,Singapore City;Los Angeles
+7,2014,China,Beijing
+8,2014,United States,New York
+9,2013,United States,Research Triangle Park
+10,2013,Japan,Tokyo
+11,2013,United States;United States,Boston;Cambridge
+12,2013,Japan,Tokyo
+13,2013,United States,Los Angeles
+14,2013,United States,New York
+15,2013,Japan,Nagakute
+16,2013,United Kingdom,London
+17,2012,United States;United States;United States,Boston;Boston;Cambridge
+18,2012,United States;United States,Baltimore;
+19,2012,Taiwan;Denmark;United States,Taipei;Copenhagen;Boston
+20,2012,United States;United States,Boston;Cambridge
+21,2012,United States,San Francisco
+22,2012,United States,Hanover
+23,2012,Japan,Tokyo
+24,2012,United States,San Diego
+25,2011,France,Montpellier
+26,2011,Japan;Japan,Chuo-ku;Chuo-ku
+27,2010,Japan,Fukuoka
+28,2010,Norway;Belgium;Belgium,Oslo;3000 Leuven;Ghent
+29,2010,United States,Baltimore
+30,2010,South Korea,Youngdeungpo
+31,2009,United States,Bethesda
+32,2009,Japan,Tokyo
+33,2009,Japan,Tokyo
+34,2008,Japan,Chuo-ku
+35,2008,Japan,Tokyo
+36,2005,Switzerland,Basel
+37,2005,United States,Bethesda
+38,2004,Japan,Sapporo
+39,2003,United States,Boston
+40,2003,Japan,Chiba
+41,2001,United States,San Francisco
+42,1999,Japan,Matsumoto

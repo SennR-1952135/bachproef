@@ -1,0 +1,359 @@
+,type,name,duration
+0,place,Home,33701
+1,move,walking,640
+2,place,Grendel's Den Restaurant & Bar,3501
+3,move,walking,788
+4,place,Proximate,3668
+5,move,walking,759
+6,place,Grendel's Den Restaurant & Bar,3293
+7,move,walking,310
+8,place,MBTA Harvard Station,245
+9,move,transport,264
+10,move,walking,362
+11,place,Tatte Bakery & Café,159
+12,move,walking,133
+13,move,transport,450
+14,move,walking,1372
+15,place,Home,10578
+16,move,walking,804
+17,place,Wagamama,12801
+18,move,walking,998
+19,place,Home,4270
+20,place,Home,27901
+21,move,walking,953
+22,place,Henrietta's Table,5158
+23,move,walking,999
+24,place,Proximate,19793
+25,move,walking,837
+26,place,Harvard Alumni Association,3650
+27,move,walking,547
+28,place,Harvard Yard,1108
+29,move,walking,641
+30,place,Home,24814
+31,place,Home,50968
+32,move,transport,678
+33,place,The Home Depot,3034
+34,move,walking,880
+35,place,Bed Bath & Beyond,2744
+36,move,transport,995
+37,place,Home,9930
+38,move,walking,320
+39,place,Broadway Marketplace,356
+40,move,walking,275
+41,place,Home,16221
+42,place,Home,39250
+43,move,walking,1086
+44,move,running,180
+45,move,walking,92
+46,place,Michaels,732
+47,move,walking,1644
+48,place,Home,1825
+49,move,walking,765
+50,place,Orinoco,3784
+51,move,walking,1216
+52,place,Home,35828
+53,place,Home,40052
+54,move,walking,759
+55,place,Experiment Fund,5093
+56,move,walking,999
+57,place,Home,26888
+58,move,walking,752
+59,place,CVS/pharmacy,288
+60,move,walking,705
+61,place,Home,10865
+62,place,Home,32749
+63,move,walking,995
+64,place,Proximate,5677
+65,move,walking,673
+66,place,Border Cafe,4776
+67,move,walking,556
+68,place,Proximate,18924
+69,move,walking,698
+70,place,Home,21353
+71,place,Home,42938
+72,move,walking,792
+73,place,The Red House Restaurant,3266
+74,move,walking,709
+75,place,Proximate,16498
+76,move,walking,666
+77,place,Home,21532
+78,place,Home,39768
+79,move,walking,284
+80,move,transport,1899
+81,place,Cramer,6426
+82,move,transport,1489
+83,move,walking,184
+84,place,Costco Wholesale,2359
+85,move,transport,2753
+86,place,Home,11698
+87,move,walking,250
+88,place,Broadway Marketplace,202
+89,move,walking,249
+90,place,Home,18840
+91,place,Home,36129
+92,move,walking,851
+93,place,Proximate,5562
+94,move,walking,645
+95,place,Border Cafe,6566
+96,move,walking,574
+97,place,Proximate,15633
+98,move,walking,663
+99,place,Home,19778
+100,place,Home,40274
+101,move,walking,806
+102,place,Border Cafe,2638
+103,move,walking,709
+104,place,Proximate,9121
+105,move,walking,580
+106,place,Home,582
+107,move,walking,437
+108,move,walking,352
+109,place,Home,18745
+110,place,Home,35955
+111,move,walking,1156
+112,place,Experiment Fund,3353
+113,move,walking,762
+114,place,Home,804
+115,move,walking,1724
+116,place,Michaels,586
+117,move,walking,873
+118,move,transport,436
+119,move,walking,737
+120,place,Home,40013
+121,place,Home,29844
+122,move,walking,652
+123,place,Proximate,13116
+124,move,walking,1224
+125,place,Grendel's Den Restaurant & Bar,2639
+126,move,walking,695
+127,place,Proximate,18627
+128,move,walking,1218
+129,place,Legal Sea Foods - Charles Square,5712
+130,move,walking,1148
+131,place,Home,11525
+132,place,Home,33473
+133,place,Darwin's Ltd.,3209
+134,move,transport,2992
+135,place,Panera Bread,2654
+136,move,walking,152
+137,move,transport,1324
+138,place,The Pulse Network,9876
+139,move,transport,851
+140,place,Cramer,629
+141,move,transport,3040
+142,move,walking,307
+143,place,Home,9792
+144,move,walking,640
+145,place,Cafe Gato Rojo,661
+146,move,walking,401
+147,place,Orinoco,6306
+148,move,walking,1044
+149,place,Home,9052
+150,place,Home,29993
+151,move,walking,484
+152,place,Proximate,19119
+153,move,walking,584
+154,place,Border Cafe,2794
+155,move,walking,543
+156,place,Proximate,8862
+157,move,walking,845
+158,place,Home,15838
+159,move,walking,1451
+160,place,Dillon House,2656
+161,move,walking,1507
+162,place,Proximate,3240
+163,move,walking,620
+164,place,Border Cafe,2869
+165,move,walking,698
+166,place,Proximate,310
+167,move,walking,656
+168,place,Home,866
+169,move,walking,830
+170,place,Proximate,4083
+171,move,walking,1576
+172,place,Proximate,5542
+173,move,walking,727
+174,place,Dickson Bros. True Value,10851
+175,move,walking,302
+176,move,transport,456
+177,place,Home,12669
+178,place,Home,31878
+179,move,walking,580
+180,place,Place in Old Cambridge,740
+181,move,walking,521
+182,place,Proximate,6093
+183,move,walking,816
+184,move,transport,2162
+185,move,walking,302
+186,place,The Pulse Network,5678
+187,move,transport,1666
+188,move,walking,330
+189,place,Place in Babson Park,3995
+190,move,transport,3141
+191,move,walking,396
+192,place,Home,12877
+193,move,walking,671
+194,place,CVS/pharmacy,669
+195,move,walking,629
+196,place,Home,13258
+197,place,Home,46138
+198,move,walking,648
+199,place,Place in Old Cambridge,382
+200,move,walking,616
+201,place,FedEx Office Print & Ship Center,646
+202,move,walking,1091
+203,place,Darwin's Ltd.,510
+204,move,walking,218
+205,place,Home,3096
+206,move,walking,444
+207,place,Harvard Memorial Hall,287
+208,move,walking,254
+209,place,Home,16407
+210,move,walking,936
+211,place,The Boathouse,12063
+212,move,walking,333
+213,place,CVS/pharmacy,746
+214,move,walking,553
+215,place,Place in Old Cambridge,288
+216,move,walking,404
+217,place,Home,339
+218,place,Home,35471
+219,move,walking,824
+220,place,Peet's Coffee & Tea,478
+221,move,walking,278
+222,place,Tory Row,2658
+223,move,walking,1296
+224,place,Home,11827
+225,move,walking,187
+226,place,Darwin's Ltd.,2518
+227,move,walking,168
+228,place,Home,30695
+229,place,Home,32612
+230,move,walking,245
+231,place,Starbucks,738
+232,move,walking,776
+233,place,Proximate,9711
+234,move,walking,1034
+235,place,Home,41284
+236,place,Home,43666
+237,move,walking,1827
+238,place,Boston Marriott Cambridge,5607
+239,move,walking,2377
+240,place,Home,32923
+241,place,Home,27550
+242,move,transport,694
+243,place,Spangler Center,2298
+244,move,walking,1178
+245,move,transport,902
+246,move,walking,155
+247,place,Amtrak South Station,4153
+248,move,transport,27657
+249,move,walking,421
+250,place,Place in East End,263
+251,move,transport,272
+252,move,walking,975
+253,place,NTN24,2572
+254,move,transport,898
+255,place,Laura's Home,16412
+256,place,Laura's Home,61139
+257,move,walking,4189
+258,place,Place in Franklin McPherson Square,149
+259,move,walking,271
+260,place,Place in Franklin McPherson Square,147
+261,move,walking,1054
+262,place,NTN24,19451
+263,place,NTN24,3744
+264,move,transport,756
+265,place,Laura's Home,30381
+266,move,walking,393
+267,place,Bruegger's Bagels,2414
+268,move,transport,1431
+269,move,walking,372
+270,place,Cosi,11107
+271,move,walking,185
+272,place,NTN24,26490
+273,move,transport,630
+274,move,walking,218
+275,place,Daikaya,3646
+276,move,walking,454
+277,move,transport,1365
+278,place,Laura's Home,2817
+279,place,Laura's Home,41621
+280,move,walking,547
+281,place,Town Hall,4189
+282,move,walking,2019
+283,place,Place in Cookes Park,144
+284,move,walking,1294
+285,place,Kramerbooks & Afterwords Cafe,14733
+286,move,walking,1308
+287,place,ChurchKey,7783
+288,move,walking,3494
+289,place,Place in Cloisters,263
+290,move,walking,1091
+291,place,CVS/pharmacy,457
+292,move,walking,711
+293,place,Laura's Home,6749
+294,place,Laura's Home,47768
+295,move,walking,2551
+296,place,Exxon,512
+297,move,walking,2247
+298,place,Laura's Home,4708
+299,move,walking,701
+300,place,Whole Foods Market,3294
+301,move,walking,551
+302,place,Laura's Home,24067
+303,place,Laura's Home,46794
+304,move,walking,745
+305,place,Glover Park Ace Hardware,1136
+306,move,walking,574
+307,place,Laura's Home,193
+308,move,walking,469
+309,place,Dumplings & Beyond,1990
+310,move,walking,791
+311,place,Starbucks,10158
+312,move,walking,547
+313,place,CVS/pharmacy,740
+314,move,walking,612
+315,place,Laura's Home,21651
+316,place,Laura's Home,86400
+317,place,Laura's Home,35588
+318,move,transport,1124
+319,move,walking,150
+320,move,transport,661
+321,move,walking,455
+322,place,Union Station,1043
+323,move,walking,136
+324,place,Place in East End,596
+325,move,transport,6509
+326,place,Place in Powelton,255
+327,move,transport,21890
+328,move,walking,344
+329,move,transport,1456
+330,move,walking,673
+331,place,Home,15523
+332,place,Home,32042
+333,move,walking,816
+334,place,Crema Cafe,4026
+335,move,walking,491
+336,place,Darwin's Ltd.,3330
+337,move,walking,371
+338,place,BonChon Chicken,3108
+339,move,walking,291
+340,place,Experiment Fund,8605
+341,move,walking,337
+342,place,Experiment Fund,12865
+343,move,walking,226
+344,place,Orinoco,6451
+345,move,walking,811
+346,place,Home,12631
+347,place,Home,34045
+348,move,walking,247
+349,place,Starbucks,205
+350,move,walking,444
+351,place,Proximate,18787
+352,move,walking,601
+353,place,Home,32071
+354,place,Home,46342
+355,move,running,1679
+356,move,walking,1364
+357,place,Home,37016

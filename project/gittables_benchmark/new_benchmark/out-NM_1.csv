@@ -1,0 +1,303 @@
+,city,state,name,address
+0,Belen,NM,Walmart Supercenter,1 I 25 Bypass
+1,Belen,NM,Clariant Cargo  and  Device Protection,101 Christine Drive
+2,Bernalillo,NM,Walmart Supercenter,460 Nm Highway #528
+3,Bernalillo,NM,Smith's,1000 Rio Rancho Dr SE
+4,Bernalillo,NM,Albertsons Market,4300 Ridgecrest Dr
+5,Bernalillo,NM,Walmart Neighborhood Market,not_available
+6,Bernalillo,NM,Albertsons Market,7800 Enchanted Hills Blvd NE
+7,Bernalillo,NM,Walmart Neighborhood Market,1115 Nm Highway 528 Se
+8,Bernalillo,NM,Frontier Mart,3677 Corrales Rd
+9,Bernalillo,NM,NB3 FOODS LLC,51 Jemez Dam Rd Ste 110A
+10,Bernalillo,NM,St Felix Pantry,Barbara Loop
+11,Casa Blanca,NM,Dancing Eagle Supermarket,Indn Service Route 22
+12,Cerrillos,NM,Lone Butte General Store,3778-3790 New Mexico 14
+13,Cuba,NM,Bashas',Hwy 57 & Indian Service Rd. 9
+14,Edgewood,NM,Walmart Supercenter,66 State Road #344
+15,Edgewood,NM,Smith's,2B State Road 344
+16,Edgewood,NM,Moriarty Foods,"Moriarty, NM"
+17,Grants,NM,Walmart Supercenter,1000 Robert Rd
+18,Grants,NM,John Brooks Milan Supermarket,1415 West Highway 66
+19,Grants,NM,Smith's,700 E Roosevelt Ave
+20,Jemez Pueblo,NM,Trail House Grocery,Mile Marker 11 Hwy 4
+21,Los Lunas,NM,Walmart Supercenter,2250 Main St Nw
+22,Los Lunas,NM,Albertsons Market,2351 Main St SE
+23,Los Lunas,NM,Smith's,2580 Main St NE
+24,Los Lunas,NM,Giant,not_available
+25,Pena Blanca,NM,Romero's Market,701-717 New Mexico 22
+26,Corrales,NM,Albertsons Market,10131 Coors Blvd NW
+27,Corrales,NM,Walmart Supercenter,10224 Coors Byp Nw
+28,Corrales,NM,Sprouts Farmers Market,"10701 Corrales Rd NW, Ste 2"
+29,Albuquerque,NM,Silver Street Market,not_available
+30,Albuquerque,NM,Smith's,320 Yale Blvd SE
+31,Albuquerque,NM,Smith's,406 Yale Blvd SE
+32,Albuquerque,NM,Hi Lo Market,2513 4th St NW
+33,Albuquerque,NM,El Super,4201 Central Ave NW
+34,Albuquerque,NM,La Montanita Co-op,2400 Rio Grande Blvd NW
+35,Albuquerque,NM,Abq Health Pantry,119 San Pasquale Ave SW
+36,Albuquerque,NM,Lowe's,Coronado Fwy
+37,Albuquerque,NM,Old Town Olive,1919 Old Town Rd NW Ste 7
+38,Albuquerque,NM,Smith's,200 Tramway Blvd SE
+39,Albuquerque,NM,Trader Joe's,2200 Uptown Loop NE
+40,Albuquerque,NM,Walmart Neighborhood Market,1820 Unser Blvd NW
+41,Albuquerque,NM,Sprouts Farmers Market,5112 Lomas Blvd NE
+42,Albuquerque,NM,Walmart Supercenter,400 Eubank Blvd Ne
+43,Albuquerque,NM,Whole Foods Market,2103 Carlisle Blvd. Ne
+44,Albuquerque,NM,Walmart Supercenter,2266 Wyoming Blvd Ne
+45,Albuquerque,NM,Smith's,6001 Lomas Blvd NE
+46,Albuquerque,NM,Smith's,3701 Constitution Ave NE
+47,Albuquerque,NM,Walmart Supercenter,301 San Mateo Blvd Se
+48,Albuquerque,NM,Walmart Neighborhood Market,4700 Cutler Ave Ne
+49,Albuquerque,NM,Smith's,1601 Arenal Rd SW
+50,Albuquerque,NM,La Montanita Co-Op Food Market,3500 Central Ave SE
+51,Albuquerque,NM,Sprouts Farmers Market,13150 Central Ave SE
+52,Albuquerque,NM,Albertsons Market,11825 Lomas Blvd NE
+53,Albuquerque,NM,Walmart Supercenter,3500 Coors Blvd Sw
+54,Albuquerque,NM,Albertsons Market,1625 Rio Bravo Blvd SW
+55,Albuquerque,NM,Talin Market World Food Fare,88 Louisiana Blvd SE
+56,Albuquerque,NM,El Mezquite,201 San Pedro Dr SE
+57,Albuquerque,NM,Smith's,111 Coors Blvd NW
+58,Albuquerque,NM,Arirang Oriental Market,1826 Eubank Blvd NE
+59,Albuquerque,NM,A-1 Oriental Market,1410 Wyoming Blvd NE Ste F
+60,Albuquerque,NM,Smith's,2620 Carlisle Se
+61,Albuquerque,NM,Sami Food Mart,1600 Carlisle Blvd SE
+62,Albuquerque,NM,Sprouts Farmers Market,5600 Coors Blvd NW
+63,Albuquerque,NM,Albertsons,6200 Coors Blvd NW
+64,Albuquerque,NM,Walmart Supercenter,2701 Carlisle Blvd Ne
+65,Albuquerque,NM,Smith's,8301 Golf Course Rd NW
+66,Albuquerque,NM,Walmart Neighborhood Market,8511 Golf Course Rd Nw
+67,Albuquerque,NM,Eurozone,3700 Osuna Rd NE Ste 505
+68,Albuquerque,NM,Smith's,6125 4th St NW
+69,Albuquerque,NM,El Mezquite,4401 4th St NW
+70,Albuquerque,NM,Frozen Foods,not_available
+71,Albuquerque,NM,Village Market,141 Osuna Rd NW
+72,Albuquerque,NM,Lowe's Market,4701 4th St NW
+73,Albuquerque,NM,Cbd Warehouse Usa,5940 Midway Park Blvd NE
+74,Albuquerque,NM,Smith's,3621 Menaul Blvd NE
+75,Albuquerque,NM,Damacio's Grocery,913 San Pedro Dr SE
+76,Albuquerque,NM,Fair N Square,not_available
+77,Albuquerque,NM,Kirtland AFB Commissary,"7801 Gibson Blvd. S.E., Bldg 20180"
+78,Albuquerque,NM,Walmart Supercenter,8000 Academy Rd Ne
+79,Albuquerque,NM,Smith's,8040 Academy Rd NE
+80,Albuquerque,NM,Target,8510 Montgomery Blvd NE
+81,Albuquerque,NM,Albertsons Market,7101 Wyoming Blvd NE
+82,Albuquerque,NM,Whole Foods Market,5815 Wyoming Blvd Ne
+83,Albuquerque,NM,Natural Grocers,4420 Wyoming Blvd NE
+84,Albuquerque,NM,Sprouts Farmers Market,6300 San Mateo Blvd NE
+85,Albuquerque,NM,Casa Blanca Market,not_available
+86,Albuquerque,NM,Smith's,4016 Louisiana Blvd NE
+87,Albuquerque,NM,Albertsons Market,4950 Montgomery Blvd NE
+88,Albuquerque,NM,Tokyo Japanese Market,6207 Montgomery Blvd NE
+89,Albuquerque,NM,J&C Food Mart,not_available
+90,Albuquerque,NM,Smith's,5850 Eubank Blvd NE
+91,Albuquerque,NM,Albertsons Market,2910 Juan Tabo Blvd NE
+92,Albuquerque,NM,Trader Joe's,8928 Holly Ave NE
+93,Albuquerque,NM,Smith's,8100 Wyoming Blvd NE Ste A
+94,Albuquerque,NM,Albertsons Market,8100 Ventura St NE
+95,Albuquerque,NM,Albertsons Market,12201 Academy Rd NE
+96,Albuquerque,NM,Sprouts Farmers Market,11201 Montgomery Blvd NE
+97,Albuquerque,NM,Smith's,4700 Tramway Blvd NE
+98,Albuquerque,NM,Walmart Neighborhood Market,11018 Montgomery Blvd Ne
+99,Albuquerque,NM,Albertsons Market,2801 Eubank Blvd NE Ste A
+100,Albuquerque,NM,Keller's Farm Stores,2912 Eubank Blvd NE
+101,Albuquerque,NM,North Heights Food Store,Chelwood Park
+102,Albuquerque,NM,Now We're Cooking,8100 Wyoming Blvd NE Ste F1
+103,Albuquerque,NM,Walmart Neighborhood Market,11001 Menaul Blvd Ne
+104,Albuquerque,NM,Aladdin Halal Market,1720 Juan Tabo Blvd NE Ste I
+105,Albuquerque,NM,Kim's Market,2306 Morris St NE
+106,Albuquerque,NM,Red Star Vapor & CBD,1500 Wyoming Blvd NE Suite A
+107,Albuquerque,NM,Crystal Springs Bottled Water,4446 Anaheim Ave NE
+108,Albuquerque,NM,Smith's,4800 McMahon Blvd NW
+109,Albuquerque,NM,Natural Grocers,9261 Coors Blvd NW
+110,Albuquerque,NM,Shelby's Sugar Shop,10000 Coors Bypass NW Ste E229
+111,Albuquerque,NM,Walmart Supercenter,2550 Coors Bldv. Nw
+112,Albuquerque,NM,Organic Hippie Co-op,not_available
+113,Albuquerque,NM,Neighborhood Walmart,not_available
+114,Albuquerque,NM,Walmart Grocery Pickup,1820 Unser Boulevard Nw
+115,Albuquerque,NM,The Authentic New Mexican Inc,540 Silver Creek Rd NW #A2
+116,Albuquerque,NM,Walmart Neighborhood Market,9600 Sage Rd Sw
+117,Albuquerque,NM,Walmart Grocery Pickup,9600 Sage Rd SW
+118,Rio Rancho,NM,Walmart Supercenter,901 Unser Blvd Se
+119,Gallup,NM,Walmart Supercenter,1650 W Maloney Ave
+120,Gallup,NM,Albertsons,1702 E 66th Ave
+121,Gallup,NM,Safeway,980 N Hwy 491
+122,Gallup,NM,Alberstons Supermarkets,1702 E. Hwy. 66
+123,Gallup,NM,Navajo nation food dist.,101 N Third St
+124,Gallup,NM,The Filipino Store,611 West Coal Avenue
+125,Gallup,NM,T&R Market,667 N. Hwy 491
+126,Thoreau,NM,BJ's Country Store,not_available
+127,Farmington,NM,Walmart Supercenter,4600 E Main St
+128,Farmington,NM,Walmart Supercenter,1400 W Main St
+129,Farmington,NM,Farmers Market,816 New Mexico 516
+130,Farmington,NM,Safeway,730 W Main St
+131,Farmington,NM,Safeway,3540 E Main St
+132,Farmington,NM,Natural Grocers,700 E 20th St
+133,Farmington,NM,Albertsons,4909 E Main St
+134,Farmington,NM,Smith's,600 E 20th St
+135,Farmington,NM,Grocery Warehouse,not_available
+136,Farmington,NM,Moonlight Vapors,915 Farmington Ave Suite G
+137,Farmington,NM,Anasazi Vapor,903 NM-516
+138,Farmington,NM,Safeway,not_available
+139,Aztec,NM,Safeway,415 N Main Ave
+140,Bloomfield,NM,Farmers Market,401 E Broadway Ave
+141,Shiprock,NM,King Soopers,5040 Us Hwy 668
+142,Santa Fe,NM,Albertsons Market Street,600 N Guadalupe St
+143,Santa Fe,NM,Whole Foods Market,753 Cerrillos Rd
+144,Santa Fe,NM,Sprouts Farmers Market,199 Paseo De Peralta
+145,Santa Fe,NM,Trader Joe's,530 W Cordova Rd
+146,Santa Fe,NM,Kaune's Neighborhood Market,511 Old Santa Fe Trl
+147,Santa Fe,NM,La Montanita Coop,913 West Alameda St.
+148,Santa Fe,NM,Mira Apparel & Folk Art,101 W Marcy St #A
+149,Santa Fe,NM,Eldorado Supermarket,7 Avenida Vista Grande
+150,Santa Fe,NM,Smith's,2110 S Pacheco St
+151,Santa Fe,NM,Smith's,2308 Cerrillos Rd
+152,Santa Fe,NM,Albertsons,3001 S St. Francis Dr
+153,Santa Fe,NM,Natural Grocers,1090 S. St. Francis Dr.
+154,Santa Fe,NM,Food King,1700 Saint Michaels Dr
+155,Santa Fe,NM,Red Star Vapor & CBD,1704 Llano St Suite A
+156,Santa Fe,NM,Lowe's Super Save,not_available
+157,Santa Fe,NM,John Brookes Grocery,not_available
+158,Santa Fe,NM,Walmart,3251 Cerrillos Rd
+159,Santa Fe,NM,Pojoaque Supermarket,not_available
+160,Santa Fe,NM,Shopwise Pacita,Pacita
+161,Santa Fe,NM,Walmart Supercenter,5701 Herrera Drive
+162,Santa Fe,NM,Albertsons Market,3542 Zafarano Dr
+163,Santa Fe,NM,Sprouts Farmers Market,"3201 Zafarano Dr, # 20"
+164,Santa Fe,NM,El Paisano,3140 Cerrillos Rd
+165,Arroyo Seco,NM,Sol Food,591 Arroyo hondo arroyo seco Rd
+166,Chama,NM,Chama Valley Supermarket,not_available
+167,Chamisal,NM,Pacheo's Grocery,not_available
+168,Dulce,NM,Jicarilla Supermarket,not_available
+169,El Prado,NM,Cid's Food Market,623 Cam Del Paseo Pueblo Norte
+170,Espanola,NM,Walmart Supercenter,1610 No. Riverside Drive
+171,Espanola,NM,Centermarket,not_available
+172,Espanola,NM,Food King,930 Riverside Drive
+173,Espanola,NM,El Paisano,1115 North Riverside Dr. Ste. C-D
+174,Los Alamos,NM,Smith's,751 Trinity Dr
+175,Los Alamos,NM,Smith's,31 Sherwood Blvd
+176,Los Alamos,NM,Los Alamos Cooperative Market,95 Entrada
+177,Los Alamos,NM,Smith's Grocery Pickup and Delivery,31 Sherwood Blvd
+178,Questa,NM,Der Markt Food Store,307 W Main
+179,Ranchos De Taos,NM,Walmart,926 Paseo Del Pueblo Sur
+180,Taos,NM,Albertsons Market,710 Paseo del Pueblo Sur Ste A
+181,Taos,NM,Smith's,224 Paseo Pueblo Sur
+182,Taos,NM,Supersave Discount Foods,not_available
+183,Taos,NM,Smith's Grocery Pickup and Delivery,224 Paseo del Pueblo Sur
+184,Taos,NM,Food King,519 Paseo del Pueblo Sur
+185,Las Vegas,NM,Walmart Supercenter,2609 7th St
+186,Las Vegas,NM,Lowe's,6th St
+187,Las Vegas,NM,Lowes Super Save,2222-2298 7th St
+188,Las Vegas,NM,Semilla Natural Foods,not_available
+189,Las Vegas,NM,Food King,605 Mills Ave
+190,Las Vegas,NM,Food King,2400 7th St
+191,Angel Fire,NM,Valley Market,not_available
+192,Angel Fire,NM,Family Dollar,3421 Mountain View Blvd
+193,Cimarron,NM,Shamrock,not_available
+194,Raton,NM,Food King,1265 S 2nd St
+195,Raton,NM,Prather's Market,not_available
+196,Socorro,NM,Walmart Supercenter,700 6th St N
+197,Socorro,NM,John Brooks Super Mart,312 N California St
+198,Truth Or Consequences,NM,Walmart Supercenter,2001 H.r. Ashbaugh Dr.
+199,Truth Or Consequences,NM,Bullocks,630 N Broadway St
+200,Truth Or Consequences,NM,Walmart Grocery Pickup,2001 Hr Ashbaugh Dr
+201,Las Cruces,NM,Walmart Supercenter,1550 S Valley Dr
+202,Las Cruces,NM,Walmart Supercenter,571 Walton Blvd
+203,Las Cruces,NM,Sprouts Farmers Market,"2340 E Lohman Ave, Ste B"
+204,Las Cruces,NM,Albertsons,2501 N Main St
+205,Las Cruces,NM,Albertsons,2551 E Lohman Ave
+206,Las Cruces,NM,Walmart Neighborhood Market,150 N Sonoma Ranch Blvd
+207,Las Cruces,NM,Fiesta Foods Supermarket,2100 N Main St
+208,Las Cruces,NM,Toucan Market,1701 E University Ave
+209,Las Cruces,NM,Natural Grocers,3970 E Lohman Ave
+210,Las Cruces,NM,Albertsons,1285 S El Paseo Rd
+211,Las Cruces,NM,Lowe's Fiesta Foods Las Cruces NM,2180 N Main St
+212,Las Cruces,NM,Southwest Cash & Carry,2489 N Main St
+213,Las Cruces,NM,International Delights,1245 El Paseo Rd
+214,Las Cruces,NM,Lowe's,1410 Missouri Ave
+215,Las Cruces,NM,Walmart Grocery Pickup,150 N Sonoma Ranch Blvd
+216,Las Cruces,NM,Pro's Ranch Markets,320 Wyatt Dr
+217,Las Cruces,NM,Mountain View Market Co-Op,1300 El Paseo Rd #M
+218,Las Cruces,NM,Pho's,not_available
+219,Las Cruces,NM,La Mexicana Torterilla,1300 N Solano Dr
+220,White Sands Missile Range,NM,Savers Supermarket,not_available
+221,White Sands Missile Range,NM,White Sands Commissary,262 Picatinny
+222,Las Cruces,NM,Walmart Supercenter,3331 Rinconada Blvd
+223,Las Cruces,NM,Save Mart,495 N Valley Dr
+224,Las Cruces,NM,The Hatch Chile Store,1447 Certified Pl
+225,Las Cruces,NM,The Church of Jesus Christ of Latter-day Saints — Bishops’ Storehouse,1010 Parkhill Dr
+226,Santa Teresa,NM,Walmart Supercenter,7555 N Mesa St
+227,Santa Teresa,NM,Walmart Supercenter,7831 Paseo Del Norte Blvd- Ste A
+228,Santa Teresa,NM,Albertsons,5630 N Desert Blvd
+229,Santa Teresa,NM,Walmart Neighborhood Market,101 E. Redd Rd
+230,Santa Teresa,NM,Valero,8004 Mesa
+231,Santa Teresa,NM,Lowe's Big 8 Spur,7945 N. Mesa St.
+232,Santa Teresa,NM,Mando's Produce,5420 Doniphan Dr
+233,Santa Teresa,NM,Mercedes Grocery & Meat Market,3875 McNutt Rd
+234,Santa Teresa,NM,Food King,7945 N Mesa St
+235,Santa Teresa,NM,La Gualmarr,not_available
+236,Animas,NM,Rodeo Grocery,not_available
+237,Anthony,NM,Shur-Sav,not_available
+238,Anthony,NM,Walmart Neighborhood Market,1110 Sunland Park Dr
+239,Anthony,NM,Walmart Neighborhood Market,951 N Resler Dr
+240,Anthony,NM,Westway Food Store,806 Westway Blvd
+241,Anthony,NM,Vista Quality Food Market,3910 Doniphan Dr
+242,Anthony,NM,Valley Super Market,120 Redd Rd
+243,Anthony,NM,Big 8 Foods,2000 Antonio St
+244,Anthony,NM,Walmart Grocery Pickup,1110 Sunland Park Drive
+245,Anthony,NM,La Feria,319 Main St
+246,Deming,NM,Peppers Supermarket,Columbus Hwy
+247,Deming,NM,Walmart Supercenter,1021 E Pine St
+248,Silver City,NM,Silver City Food Co-op,520 N Bullard St
+249,Silver City,NM,Albertsons,1956 Hwy 180 E
+250,Silver City,NM,Walmart Grocery Pickup,2501 Highway 180 E
+251,Sunland Park,NM,Whole Foods Market,100 Pitt Street
+252,Sunland Park,NM,Albertsons,7022 N Mesa St
+253,Sunland Park,NM,Sprouts Farmers Market,"655 Sunland Park Dr, Ste B"
+254,Sunland Park,NM,Spec's,655 Sunland Park Dr
+255,Sunland Park,NM,Lowe's Big 8,6021 N Mesa St
+256,Sunland Park,NM,Food King,6021 North Mesa (Coronado)
+257,Sunland Park,NM,Buena Vida CBD,750 Sunland Park Dr L058
+258,Chaparral,NM,Stelas Groceries,County Line Rd
+259,Clovis,NM,Walmart Supercenter,3728 N Prince St
+260,Clovis,NM,Albertsons Market,1905 N Prince St
+261,Clovis,NM,Stansell's Thriftway,not_available
+262,Clovis,NM,K's Oriental Food,1548 N Thornton St
+263,Clovis,NM,Cannon AFB Commissary,102 W Octagon St Bldg 77-A
+264,Portales,NM,Walmart Supercenter,1604 E Spruce St
+265,Portales,NM,SuperSave Discount Foods,543-599 W 18th St
+266,Roswell,NM,Albertsons Market,1110 S Main St
+267,Roswell,NM,Walmart Supercenter,4500 N Main St Ste A
+268,Roswell,NM,Albertsons Market,900 W 2nd St
+269,Roswell,NM,TKO Vapor & Sports,4501 North Main Street Suite 19
+270,Roswell,NM,cash and carry,not_available
+271,Roswell,NM,Farmers Country Market,800 W Hobbs St
+272,Roswell,NM,Farmers Country Market,2nd and Garden
+273,Roswell,NM,Asian Market,5702 S. Main St.
+274,Roswell,NM,Farmers Country Market,2800 N Main St
+275,Artesia,NM,Fenn's Grocery,26th St and Main St
+276,Artesia,NM,Walmart Supercenter,604 N 26th St
+277,Artesia,NM,Gregg's Foods,1501-1599 N 1st St
+278,Carlsbad,NM,Walmart Supercenter,2401 S Canal St
+279,Carlsbad,NM,Albertsons,202 West Church Street
+280,Carlsbad,NM,Healthy Choices,205 W Church St
+281,Carlsbad,NM,stop n shop,not_available
+282,Eunice,NM,Lowes,not_available
+283,Hobbs,NM,Walmart Supercenter,3800 N Lovington Hwy
+284,Hobbs,NM,Albertsons Market,2402 N Grimes St
+285,Hobbs,NM,Thriftway,1317 N Turner St
+286,Jal,NM,Lowes,not_available
+287,Lovington,NM,Natures Pantry,not_available
+288,Carrizozo,NM,Family Dollar,8420 Us Hwy 380
+289,Carrizozo,NM,Smokey's Country Market,105-123 Smokey Bear Blvd
+290,Alamogordo,NM,Walmart Supercenter,233 S New York Ave
+291,Alamogordo,NM,Albertsons Market,1300 10th St
+292,Alamogordo,NM,Lowes supermarket,675 10th St
+293,Alamogordo,NM,Holloman AFB Commissary,751 New Mexico Ave Bldg 787
+294,Alamogordo,NM,Walmart Neighborhood Market,2401 Indian Wells Road
+295,Alamogordo,NM,Nature's Pantry,White Sands Blvd.
+296,Alto,NM,Albertsons Market,721 Mechem Dr
+297,Mescalero,NM,Walmart Supercenter,26180 Us Highway 70
+298,Tularosa,NM,Lowe's,not_available
+299,Tucumcari,NM,Lowe's,not_available
+300,Grenville,NM,kroger,not_available
+301,Santa Rosa,NM,T&D Food Market,not_available

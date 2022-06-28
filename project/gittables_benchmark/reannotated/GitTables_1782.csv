@@ -1,0 +1,62 @@
+,class,description
+0,VimHostImpl,The method has 5 parameters. Parameters: protectedOperations' textBufferFactoryService' textEditorFactoryService' textDocumentFactoryService' editorOperationsFactoryService
+1,VimHostImpl,The length of the parameter editorOperationsFactoryService is 30.
+2,BlockCaretControllerTest,"The length of the statement  ""            _buffer.Raise(x => x.KeyInputProcessed += null' new KeyInputProcessedEventArgs(KeyInputUtil.EnterKey' ProcessResult.NotHandled)); "" is 129."
+3,BlockCaretTest,"The length of the statement  ""            _blockCaretRaw = new BlockCaret(_vimBufferData.Object' _classificationFormatMap.Object' _formatMap.Object' _layer.Object' new ControlCharUtil()' ProtectedOperations); "" is 166."
+4,CharDisplayTaggerSourceTest,"The length of the statement  ""            var textFormattingProperties = TextFormattingRunProperties.CreateTextFormattingRunProperties(typeface' 10.0' Colors.Black); "" is 123."
+5,MiscTest,"The length of the statement  ""                _vimBuffer.RaiseSwitchedMode(new SwitchModeEventArgs(_vimBuffer.NormalMode' _vimBuffer.NormalModeImpl' ModeArgument.None)); "" is 123."
+6,CommandMarginUtilTest,"The length of the statement  ""            // span3 selection is within one line and includes the CRLF at the end of the line' so the the display should be the length of the line + 1 "" is 139."
+7,DisplayWindowBrokerTest,"The length of the statement  ""            _quickInfoBroker.Setup(x => x.GetSessions(_textView.Object)).Returns(new List<IQuickInfoSession>().AsReadOnly()).Verifiable(); "" is 126."
+8,IsDirtyTest,"The length of the statement  ""                var projectionBuffer = CreateProjectionBuffer(textDocument1.TextBuffer.GetExtent()' textDocument2.TextBuffer.GetExtent()); "" is 122."
+9,IsDirtyTest,"The length of the statement  ""                var projectionBuffer = CreateProjectionBuffer(textDocument1.TextBuffer.GetExtent()' textDocument2.TextBuffer.GetExtent()); "" is 122."
+10,IsDirtyTest,"The length of the statement  ""                var projectionBuffer = CreateProjectionBuffer(textDocument1.TextBuffer.GetExtent()' textDocument2.TextBuffer.GetExtent()); "" is 122."
+11,IsDirtyTest,"The length of the statement  ""                var projectionBuffer = CreateProjectionBuffer(textDocument1.TextBuffer.GetExtent()' textDocument2.TextBuffer.GetExtent()); "" is 122."
+12,KeyDownTest,"The length of the statement  ""                _mockVimBuffer.Setup(x => x.Process(It.IsAny<KeyInput>())).Returns(ProcessResult.NewHandled(ModeSwitch.NoSwitch)).Verifiable(); "" is 127."
+13,KeyDownTest,"The length of the statement  ""                _mockVimBuffer.Setup(x => x.Process(It.IsAny<KeyInput>())).Returns(ProcessResult.NewHandled(ModeSwitch.NoSwitch)).Verifiable(); "" is 127."
+14,VimKeyProcessorTest,"The constructor ""VimKeyProcessorTest"" calls a virtual method ""CreateKeyProcessor""."
+15,SpecialToKeyInputTest,The following statement contains a magic number: i <= 12
+16,BlockCaretControllerTest,The following statement contains a magic number: _caret.SetupSet(x => x.CaretOpacity = 0.01d).Verifiable();
+17,CharDisplayTaggerSourceTest,The following statement contains a magic number: var textFormattingProperties = TextFormattingRunProperties.CreateTextFormattingRunProperties(typeface' 10.0' Colors.Black);
+18,GetTagsTest,The following statement contains a magic number: var tags = _source.GetTags(_textBuffer.GetSpan(0' 3));
+19,GetTagsTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g"");"
+20,GetTagsTest,The following statement contains a magic number: var tags = _source.GetTags(_textBuffer.GetSpan(0' 3));
+21,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+22,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+23,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+24,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+25,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+26,GetTagsTest,"The following statement contains a magic number: Create(Enumerable.Repeat(""d"" + (char)29 + ""g""' 100).ToArray());"
+27,GetTagsTest,The following statement contains a magic number: index = snapshot.LineCount - (i / 2);
+28,GetTagsTest,The following statement contains a magic number: i % 2 == 0
+29,GetTagsTest,The following statement contains a magic number: Assert.Equal(100' _source.AdornmentCache.Count);
+30,GetTagsTest,"The following statement contains a magic number: Create("""" + (char)29);"
+31,GetTagsTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g"");"
+32,GetTagsTest,The following statement contains a magic number: var tags = _source.GetTags(_textBuffer.GetSpan(0' 3));
+33,EditTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g"");"
+34,EditTest,The following statement contains a magic number: Assert.Equal(tags.Select(x => x.Span)' new[] { _textBuffer.GetSpan(2' 1) });
+35,EditTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g"");"
+36,EditTest,"The following statement contains a magic number: _textBuffer.Insert(2' ""o"");"
+37,EditTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g"");"
+38,EditTest,"The following statement contains a magic number: Create(""d"" + (char)29 + ""g cat"");"
+39,EditTest,"The following statement contains a magic number: _textBuffer.Insert(3' """" + (char)29);"
+40,EditTest,"The following statement contains a magic number: _textBuffer.Insert(3' """" + (char)29);"
+41,EditTest,The following statement contains a magic number: Assert.Equal(tags.Select(x => x.Span)' new[] { _textBuffer.GetSpan(1' 1)' _textBuffer.GetSpan(3' 1) });
+42,BasicTest,The following statement contains a magic number: _marginControl.CommandLineTextBox.Select(1' 2);
+43,BasicTest,The following statement contains a magic number: Assert.Equal(2' _marginControl.CommandLineTextBox.CaretIndex);
+44,CommandMarginControllerIntegrationTest,The following statement contains a magic number: var expectedCaretPosition = command.Length - 2;
+45,CommandMarginUtilTest,The following statement contains a magic number: var span1 = new CharacterSpan(textBuffer.GetPointInLine(1' 1)' textBuffer.GetPointInLine(1' 3));
+46,CommandMarginUtilTest,The following statement contains a magic number: var span2 = new CharacterSpan(textBuffer.GetPointInLine(0' 1)' textBuffer.GetPointInLine(1' 2));
+47,CommandMarginUtilTest,The following statement contains a magic number: var span3 = new CharacterSpan(textBuffer.GetPointInLine(1' 1)' textBuffer.GetPointInLine(1' lines[1].Length + 2));
+48,CommandMarginUtilTest,The following statement contains a magic number: const int expectedLineCount = 2;
+49,CommandMarginUtilTest,The following statement contains a magic number: const int expectedColumnCount = 3;
+50,CommandMarginUtilTest,The following statement contains a magic number: var span = new BlockSpan(textBuffer.GetPoint(0)' 4' expectedColumnCount' expectedLineCount);
+51,CommandMarginUtilTest,The following statement contains a magic number: var span = new SnapshotLineRange(textBuffer.CurrentSnapshot' 1' 2);
+52,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: Vim.GlobalSettings.TimeoutLength = 100;
+53,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: !happened && count < 20
+54,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: _vimBuffer.Vim.GlobalSettings.TimeoutLength = 1000;
+55,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: Thread.Sleep(50);
+56,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: _vimBuffer.Vim.GlobalSettings.TimeoutLength = 5;
+57,KeyMappingTimeoutHandlerTest,The following statement contains a magic number: Thread.Sleep(10);
+58,KeyDownTest,The following statement contains a magic number: i < 26
+59,KeyDownTest,The following statement contains a magic number: i < 26
+60,KeyDownTest,The following statement contains a magic number: i < 26

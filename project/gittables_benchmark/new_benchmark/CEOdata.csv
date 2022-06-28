@@ -1,0 +1,498 @@
+,rank,name,company,age
+0,1,John H Hammergren,McKesson,53
+1,2,Ralph Lauren,Ralph Lauren,72
+2,3,Michael D Fascitelli,Vornado Realty,55
+3,4,Richard D Kinder,Kinder Morgan,67
+4,5,David M Cote,Honeywell,59
+5,6,George Paz,Express Scripts,57
+6,7,Jeffery H Boyd,Priceline.com,55
+7,8,Stephen J Hemsley,UnitedHealth Group,59
+8,9,Clarence P Cazalot Jr,Marathon Oil,61
+9,10,John C Martin,Gilead Sciences,60
+10,11,John D Wren,Omnicom Group,59
+11,12,James Dimon,JPMorgan Chase & Co,56
+12,13,Leslie Moonves,CBS,63
+13,14,Howard D Schultz,Starbucks,58
+14,15,John C Plant,TRW Automotive Holdings,58
+15,16,David M Zaslav,Discovery Communications,52
+16,17,Robert A Iger,Walt Disney,61
+17,18,Richard C Adkerson,Freeport-McMoRan Copper & Gold,65
+18,19,Timothy M Manganello,BorgWarner,61
+19,20,Paul E Jacobs,Qualcomm,50
+20,21,Stephen I Chazen,Occidental Petroleum,65
+21,22,David E I Pyott,Allergan,59
+22,23,John B Hess,Hess,58
+23,24,Lew Frankfort,Coach,66
+24,25,Louis C Camilleri,Philip Morris International,57
+25,26,Joseph M Tucci,EMC,64
+26,27,Philippe P Dauman,Viacom,58
+27,28,David C Novak,Yum Brands,59
+28,29,William R Berkley,WR Berkley,66
+29,30,Gregg W Steinhafel,Target,56
+30,31,Keith D Nosbusch,Rockwell Automation,61
+31,32,Mortimer B Zuckerman,Boston Properties,73
+32,33,Stephen F Angel,Praxair,57
+33,34,Randall L Stephenson,AT&T,52
+34,35,James T Hackett,Anadarko Petroleum,58
+35,36,Alexander M Cutler,Eaton,60
+36,37,Mark Donegan,Precision Castparts,54
+37,38,Jay S Fishman,Travelers Cos,59
+38,39,Frederick W Smith,FedEx,67
+39,40,Irene B Rosenfeld,Kraft Foods,58
+40,41,William P Sullivan,Agilent Technologies,63
+41,42,K Rupert Murdoch,News Corp,81
+42,43,Eric C Wiseman,VF,56
+43,44,Michael A J Farrell,Annaly Capital Management,60
+44,45,Laurence D Fink,BlackRock,59
+45,46,Michael T Duke,Wal-Mart Stores,61
+46,47,David B Snow Jr,Medco Health Solutions,57
+47,48,Steve Ells,Chipotle Mexican Grill,46
+48,49,Lloyd C Blankfein,Goldman Sachs Group,57
+49,50,William R Johnson,HJ Heinz,63
+50,51,Robert L Parkinson Jr,Baxter International,61
+51,52,John F Brock,Coca-Cola Enterprises,63
+52,53,Allen F Wise,Coventry Health Care,69
+53,54,Alan R Mulally,Ford Motor,66
+54,55,Michael Balmuth,Ross Stores,61
+55,56,Frank R Martire,Fidelity National Information Services,63
+56,57,Scott D Sheffield,Pioneer Natural Resources,59
+57,58,David N Farr,Emerson Electric,57
+58,59,Aubrey K McClendon,Chesapeake Energy,51
+59,60,Michael J Ward,CSX,61
+60,61,Robert E Beauchamp,BMC Software,52
+61,62,Jeffrey L Bewkes,Time Warner,59
+62,63,John F Lundgren,Stanley Black & Decker,60
+63,64,Charles E Bunch,PPG Industries,62
+64,65,Frank S Hermance,Ametek,63
+65,66,H Lawrence Culp Jr,Danaher,49
+66,67,Ian M Cook,Colgate-Palmolive,60
+67,68,Robert J Stevens,Lockheed Martin,60
+68,69,Francisco D'Souza,Cognizant Technology Solutions,43
+69,70,Brian L Roberts,Comcast,52
+70,71,Timothy M Ring,CR Bard,54
+71,72,James E Rogers,Duke Energy,64
+72,73,David J Lesar,Halliburton,59
+73,74,Michael E Szymanczyk,Altria Group,63
+74,75,Michael T Fries,Liberty Global,49
+75,76,Frederick H Waddell,Northern Trust,59
+76,77,Gregory C Case,Aon,49
+77,78,Lewis Hay III,NextEra Energy,56
+78,79,William H Swanson,Raytheon,63
+79,80,G Steven Farris,Apache,64
+80,81,Gale E Klappa,Wisconsin Energy,61
+81,82,Miles D White,Abbott Laboratories,57
+82,83,Daniel P Amos,Aflac,60
+83,84,Thomas Georgens,NetApp,52
+84,85,John D Finnegan,Chubb,63
+85,86,C Larry Pope,Smithfield Foods,57
+86,87,Glenn A Britt,Time Warner Cable,62
+87,88,Carol M Meyrowitz,TJX Cos,58
+88,89,Larry D Young,Dr Pepper Snapple Group,57
+89,90,John W Conway,Crown Holdings,66
+90,91,Donald E Washkewicz,Parker-Hannifin,61
+91,92,Wayne T Smith,Community Health Systems,66
+92,93,James H Herbert II,First Republic California,68
+93,94,Michael W Sutherlin,Joy Global,65
+94,95,James J Mulva,ConocoPhillips,65
+95,96,John C Lechleiter,Eli Lilly & Co,58
+96,97,J Brett Harvey,Consol Energy,61
+97,98,Jen-Hsun Huang,Nvidia,49
+98,99,John J Donahoe,Ebay,50
+99,100,Richard K Templeton,Texas Instruments,53
+100,101,Louis R Chenevert,United Technologies,54
+101,102,J Wayne Leonard,Entergy,61
+102,103,Mark C Pigott,Paccar,58
+103,104,Larry J Merlo,CVS Caremark,56
+104,105,Marc Holliday,SL Green,45
+105,106,Lawrence J Ellison,Oracle,67
+106,107,Timothy D Cook,Apple,51
+107,108,Stephen A Wynn,Wynn Resorts,70
+108,109,Gregory E Johnson,Franklin Resources,50
+109,110,Muhtar Kent,Coca-Cola,59
+110,111,Jerald G Fishman,Analog Devices,66
+111,112,Stephen A Roell,Johnson Controls,62
+112,113,Lawrence J Blanford,Green Mountain Coffee Roasters,58
+113,114,Merrill A Miller Jr,National Oilwell Varco,61
+114,115,John P Daane,Altera,48
+115,116,Michael B McCallister,Humana,59
+116,117,Hans Helmerich,Helmerich & Payne,53
+117,118,Scott A McGregor,Broadcom,56
+118,119,Sanjay K Jha,Motorola Mobility Holdings,49
+119,120,Rex W Tillerson,ExxonMobil,59
+120,121,Glen F Post III,CenturyLink,59
+121,122,Gregory Q Brown,Motorola Solutions,52
+122,123,William C Rhodes III,AutoZone,46
+123,124,David M Cordani,Cigna,46
+124,125,Kenneth W Lowe,Scripps Networks Interactive,61
+125,126,W James McNerney Jr,Boeing,62
+126,127,Steven H Temares,Bed Bath & Beyond,53
+127,128,Joseph A Carrabba,Cliffs Natural Resources,59
+128,129,James A Skinner,McDonald's,67
+129,130,Richard H Anderson,Delta Air Lines,56
+130,131,Indra K Nooyi,PepsiCo,56
+131,132,David N Weidman,Celanese,56
+132,133,James L Dolan,Cablevision Systems,56
+133,134,Hugh Grant,Monsanto,54
+134,135,James T Ryan,WW Grainger,53
+135,136,Michael J Kasbar,World Fuel Services,56
+136,137,Leonard Bell,Alexion Pharmaceuticals,53
+137,138,James A Rubright,Rock-Tenn,65
+138,139,Surya N Mohapatra,Quest Diagnostics,62
+139,140,Daniel C Ustian,Navistar International,61
+140,141,Andrea Jung,Avon Products,53
+141,142,Sandeep Mathrani,General Growth Properties,50
+142,143,Thomas F Farrell II,Dominion Resources,57
+143,144,Wesley G Bush,Northrop Grumman,51
+144,145,Alan B Miller,Universal Health Services,74
+145,146,Patricia A Woertz,Archer Daniels Midland,59
+146,147,Robert F Moran,Petsmart,61
+147,148,John E McGlade,Air Products & Chemicals,58
+148,149,Scott C Donnelly,Textron,50
+149,150,John V Faraci,International Paper,62
+150,151,James M Cracchiolo,Ameriprise Financial,54
+151,152,James E Rohr,PNC Financial Services Group,63
+152,153,John R Strangfeld Jr,Prudential Financial,58
+153,154,Thomas J Falk,Kimberly-Clark,54
+154,155,James A C Kennedy,T Rowe Price Group,59
+155,156,Kenneth I Chenault,American Express,60
+156,157,Kent J Thiry,DaVita,56
+157,158,Virginia M Rometty,International Business Machines,55
+158,159,Lamberto Andreotti,Bristol-Myers Squibb,61
+159,160,Mark G Parker,NIKE,56
+160,161,Joseph C Papa,Perrigo,56
+161,162,Glenn M Renwick,Progressive,56
+162,163,Jeffrey A Joerres,Manpower,52
+163,164,Ronald L Havner Jr,Public Storage,54
+164,165,Andrew N Liveris,Dow Chemical,58
+165,166,James P Gorman,Morgan Stanley,52
+166,167,Gary R Heminger,Marathon Petroleum,58
+167,168,Charles W Moorman IV,Norfolk Southern,60
+168,169,Terry J Lundgren,Macy's,60
+169,170,Walter W Bettinger II,Charles Schwab,51
+170,171,Mel Karmazin,Sirius XM Radio,69
+171,172,David W Nelms,Discover Financial Services,51
+172,173,Ellen J Kullman,EI du Pont de Nemours,56
+173,174,George L Chapman,Health Care REIT,64
+174,175,Kevin S Crutchfield,Alpha Natural Resources,50
+175,176,Stephen P Holmes,Wyndham Worldwide Corporation,55
+176,177,Sanjay Mehrotra,SanDisk,53
+177,178,Sheldon G Adelson,Las Vegas Sands,78
+178,179,Mark P Frissora,Hertz Global Holdings,56
+179,180,Kevin Burke,Consolidated Edison,61
+180,181,Fabrizio Freda,Estee Lauder Cos,54
+181,182,Angela F Braly,WellPoint,50
+182,183,Debra A Cafaro,Ventas,54
+183,184,Charles D Davidson,Noble Energy,62
+184,185,Gregory L Ebel,Spectra Energy,47
+185,186,Brian D Jellison,Roper Industries,66
+186,187,David J Neithercut,Equity Residential,56
+187,188,Lowell C McAdam,Verizon Communications,58
+188,189,Ronald L Sargent,Staples,56
+189,190,Joseph L Hooley,State Street,54
+190,191,Paul S Otellini,Intel,61
+191,192,Kevin W Sharer,Amgen,64
+192,193,John F Coyne,Western Digital,62
+193,194,Gregory B Maffei,Liberty Interactive Group,51
+194,195,James W Griffith,Timken,58
+195,196,Bob Sasser,Dollar Tree,60
+196,197,Gregory H Boyce,Peabody Energy,57
+197,198,Timothy E Guertin,Varian Medical Systems,63
+198,199,Peter R Huntsman,Huntsman,49
+199,200,Blake W Nordstrom,Nordstrom,51
+200,201,David M McClanahan,CenterPoint Energy,62
+201,202,Alex Gorsky,Johnson & Johnson,51
+202,203,James T Prokopanko,Mosaic,58
+203,204,Ian C Read,Pfizer,59
+204,205,Michael J Jackson,AutoNation,63
+205,206,Darren R Jackson,Advance Auto Parts,48
+206,207,John Richels,Devon Energy,61
+207,208,Paul C Varga,Brown-Forman,48
+208,209,Emanuel Chirico,PVH,54
+209,210,Richard B Handler,Jefferies Group,50
+210,211,Samuel R Allen,Deere & Co,58
+211,212,James D Taiclet Jr,American Tower,51
+212,213,Thomas J Quinlan III,RR Donnelley & Sons,49
+213,214,Richard J Kramer,Goodyear Tire & Rubber,48
+214,215,Michael T Strianese,L-3 Communications Holdings,56
+215,216,Joseph W Saunders,Visa,49
+216,217,Clayton M Jones,Rockwell Collins,62
+217,218,John G Stumpf,Wells Fargo,58
+218,219,William P Utt,KBR,55
+219,220,David P King,Laboratory Corp of America,55
+220,221,Timothy J Naughton,Avalonbay Communities,50
+221,222,John S Watson,Chevron,55
+222,223,Kevin R Johnson,Juniper Networks,51
+223,224,Steven A Burd,Safeway,62
+224,225,Jeffrey R Immelt,General Electric,56
+225,226,Vikram S Pandit,Citigroup,55
+226,227,Howard R Levine,Family Dollar Stores,53
+227,228,Michael R Splinter,Applied Materials,61
+228,229,James J Murren,MGM Resorts International,50
+229,230,Timothy L Main,Jabil Circuit,54
+230,231,Timothy A Leach,Concho Resources,52
+231,232,Leslie H Wexner,Limited Brands,74
+232,233,Thomas R Watjen,Unum Group,57
+233,234,Gregory J Goff,Tesoro,55
+234,235,John W Gibson,Oneok,60
+235,236,Kendall J Powell,General Mills,58
+236,237,Jeff M Fettig,Whirlpool,55
+237,238,Richard K Smucker,JM Smucker,64
+238,239,James J Volker,Whiting Petroleum,65
+239,240,Richard P Wallace,KLA-Tencor,52
+240,241,William R Klesse,Valero Energy,65
+241,242,Mark B Templeton,Citrix Systems,59
+242,243,D Scott Davis,United Parcel Service,60
+243,244,Thomas E Jorden,Cimarex Energy,54
+244,245,Frits D van Paasschen,Starwood Hotels & Resorts,50
+245,246,John P Bilbrey,Hershey,55
+246,247,Brian Duperreault,Marsh & McLennan Cos,64
+247,248,Robert H Benmosche,American International Group,68
+248,249,Gary W Loveman,Caesars Entertainment,51
+249,250,Howard Solomon,Forest Laboratories,84
+250,251,Arne N Sorenson,Marriott International,53
+251,252,Wendell P Weeks,Corning,52
+252,253,James F Flaherty III,HCP,54
+253,254,Peter J Rose,Expeditors International of Washington,69
+254,255,Jeffrey C Sprecher,IntercontinentalExchange,57
+255,256,David T Seaton,Fluor,50
+256,257,George S Barrett,Cardinal Health,57
+257,258,David M Wood,Murphy Oil,54
+258,259,Marshall O Larsen,Goodrich,63
+259,260,Daniel R Hesse,Sprint Nextel,59
+260,261,Michael J Long,Arrow Electronics,52
+261,262,Michael I Roth,Interpublic Group of Cos,66
+262,263,Richard K Davis,US Bancorp,54
+263,264,Enrique T Salem,Symantec,46
+264,265,Brad D Smith,Intuit,48
+265,266,Richard T O'Brien,Newmont Mining,57
+266,267,David Simon,Simon Property Group,50
+267,268,Jack B Moore,Cameron International,58
+268,269,Carl H Lindner III,American Financial Group,58
+269,270,Jeffery R Gardner,Windstream,52
+270,271,W Edward Walter,Host Hotels & Resorts,56
+271,272,Donald R Knauss,Clorox,60
+272,273,John T Gremp,FMC Technologies,61
+273,274,John J Koraleski,Union Pacific,61
+274,275,Anthony J Alexander,FirstEnergy,60
+275,276,John A Luke Jr,MeadWestvaco,63
+276,277,Murray D Martin,Pitney Bowes,64
+277,278,James P Rogers,Eastman Chemical,61
+278,279,William M Brown,Harris,49
+279,280,Raymond W McDaniel Jr,Moody's,54
+280,281,Shantanu Narayen,Adobe Systems,48
+281,282,Benjamin G S Fowke III,Xcel Energy,54
+282,283,Lothar Maier,Linear Technology,56
+283,284,Thomas C Gallagher,Genuine Parts,64
+284,285,John A Hayes,Ball,46
+285,286,Douglas R Oberhelman,Caterpillar,59
+286,287,Ajay S Banga,MasterCard,52
+287,288,Denis J Salamone,Hudson City Bancorp,59
+288,289,Kenneth C Frazier,Merck & Co,57
+289,290,Robert B Pollock,Assurant,57
+290,291,David B Speer,Illinois Tool Works,61
+291,292,Steve Sanghi,Microchip Technology,56
+292,293,Michael F Koehler,Teradata,59
+293,294,Jay M Gellert,Health Net,58
+294,295,Gerald L Hassell,Bank of New York Mellon,60
+295,296,Richard M Bracken,HCA Holdings,59
+296,297,W Craig Jelinek,Costco Wholesale,60
+297,298,Michael D White,DirecTV,59
+298,299,Stephen R Wilson,CF Industries Holdings,63
+299,300,Francis S Blake,Home Depot,62
+300,301,Neil A Berkett,Virgin Media,56
+301,302,Jay L Johnson,General Dynamics,65
+302,303,Mark S McAndrew,Torchmark,61
+303,304,Harold G Hamm,Continental Resources,66
+304,305,Gerard M Anderson,DTE Energy,54
+305,306,John P Wiehoff,CH Robinson Worldwide,50
+306,307,Robert A Niblock,Lowe's Cos,49
+307,308,Michael J Williams,Fannie Mae,53
+308,309,Ralph Izzo,Public Service Enterprise Group,54
+309,310,Kevin Mansell,Kohl's,59
+310,311,Robert Greifeld,Nasdaq OMX Group,54
+311,312,David P Steiner,Waste Management,51
+312,313,Douglas L Foshee,El Paso,52
+313,314,David C Dvorak,Zimmer Holdings,48
+314,315,William D Johnson,Progress Energy,58
+315,316,Gregory L Henslee,O'Reilly Automotive,51
+316,317,Robert A McDonald,Procter & Gamble,58
+317,318,Dennis R Glass,Lincoln National,62
+318,319,Ilene S Gordon,Corn Products International,58
+319,320,Jeffrey M Ettinger,Hormel Foods,53
+320,321,John A Bryant,Kellogg,46
+321,322,Gregg L Engles,Dean Foods,54
+322,323,Duncan L Niederauer,NYSE Euronext,52
+323,324,Robert G Wilmers,M&T Bank,78
+324,325,Mary A Wilderotter,Frontier Communications,57
+325,326,Ralph W Babb Jr,Comerica,63
+326,327,Robert J Hugin,Celgene,57
+327,328,Lee K Boothby,Newfield Exploration,50
+328,329,Mark T Bertolini,Aetna,56
+329,330,Klaus Kleinfeld,Alcoa,54
+330,331,Larry D Zimpleman,Principal Financial Group,60
+331,332,Liam E McGee,Hartford Financial Services,57
+332,333,Mark G Papa,EOG Resources,65
+333,334,N Thomas Linebarger,Cummins,49
+334,335,Donald J Stebbins,Visteon,54
+335,336,Gary M Rodkin,ConAgra Foods,60
+336,337,John P Surma,US Steel,57
+337,338,Martin H Richenhagen,AGCO,60
+338,339,Thomas J Folliard,CarMax,47
+339,340,Hamid R Moghadam,Prologis,55
+340,341,Matthew J Simoncini,Lear,51
+341,342,A Greig Woodring,Reinsurance Group of America,60
+342,343,W Benjamin Moreland,Crown Castle International,48
+343,344,J Paul Raines,GameStop,48
+344,345,Martin S Craighead,Baker Hughes,52
+345,346,Jeffery A Smisek,United Continental Holdings,58
+346,347,Michael S Dell,Dell,47
+347,348,Robert M Dutkowsky,Tech Data,57
+348,349,Donnie Smith,Tyson Foods,53
+349,350,Gregory D Wasson,Walgreen,53
+350,351,Clarence Otis Jr,Darden Restaurants,56
+351,352,Kelly S King,BB&T,63
+352,353,Stephen D Steinour,Huntington Bancshares,53
+353,354,Pierre R Brondeau,FMC,55
+354,355,Mark A Blinn,Flowserve,50
+355,356,Charles W Shivery,Northeast Utilities,66
+356,357,Michael W Laphen,Computer Sciences,61
+357,358,Alan D Wilson,McCormick & Co,54
+358,359,Vincent A Forlenza,"Becton, Dickinson",59
+359,360,Michael J Kowalski,Tiffany & Co,59
+360,361,Thomas J Wilson,Allstate,54
+361,362,Glenn K Murphy,Gap,50
+362,363,Tunc Doluca,Maxim Integrated Products,55
+363,364,Matthew J Shattock,Beam,50
+364,365,Stanley M Bergman,Henry Schein,62
+365,366,Kevin T Kabat,Fifth Third Bancorp,55
+366,367,William Dillard II,Dillard's,67
+367,368,Steven Freiberg,E-Trade Financial,55
+368,369,David B Dillon,Kroger,61
+369,370,Ursula M Burns,Xerox,53
+370,371,Richard W Dreiling,Dollar General,59
+371,372,Peter Swinburn,Molson Coors Brewing,59
+372,373,Joseph M Rigby,Pepco Holdings,55
+373,374,Theodore F Craver Jr,Edison International,60
+374,375,Omar Ishrak,Medtronic,56
+375,376,Charles E Haldeman Jr,Freddie Mac,64
+376,377,Craig S Donohue,CME Group,50
+377,378,James S Tisch,Loews,59
+378,379,Inge G Thulin,3M,58
+379,380,Joseph R Ficalora,New York Community Bancorp,65
+380,381,Steven L Mueller,Southwestern Energy,58
+381,382,Andr�s R Gluski,AES,54
+382,383,Douglas M Baker Jr,Ecolab,53
+383,384,David L Porges,EQT,54
+384,385,Hikmet Ersek,Western Union,52
+385,386,John D Johns,Protective Life,59
+386,387,Rick P Hamada,Avnet,54
+387,388,Donald W Slager,Republic Services,50
+388,389,Ronald L Nelson,Avis Budget Group,59
+389,390,Donald E Brandt,Pinnacle West Capital,56
+390,391,John P Barnes,People's United Financial,56
+391,392,Marc N Casper,Thermo Fisher Scientific,44
+392,393,Christopher M Crane,Exelon,53
+393,394,O B Grayson Hall,Regions Financial,54
+394,395,Keith E Wandell,Harley-Davidson,62
+395,396,Ronald B Johnson,JC Penney,53
+396,397,John T Chambers,Cisco Systems,62
+397,398,Albert L Lord,SLM,66
+398,399,Paul C Reilly,Raymond James Financial,57
+399,400,Daniel R DiMicco,Nucor,61
+400,401,Willard D Oberton,Fastenal,53
+401,402,Murray S Kessler,Lorillard,53
+402,403,George A Scangos,Biogen Idec,64
+403,404,Stephen W Golsby,Mead Johnson Nutrition,57
+404,405,Harold W McGraw III,McGraw-Hill Cos,63
+405,406,William E McCracken,CA,69
+406,407,Steven H Collis,AmerisourceBergen,51
+407,408,William H Spence,PPL,55
+408,409,Christopher M Connor,Sherwin-Williams,56
+409,410,Daniel M Delen,Reynolds American,46
+410,411,Daniel J Starks,St Jude Medical,58
+411,412,R Adam Norwitt,Amphenol,43
+412,413,Heather Bresch,Mylan,42
+413,414,Denise M Morrison,Campbell Soup,58
+414,415,D Mark Durcan,Micron Technology,51
+415,416,Carlos A Rodriguez,Automatic Data Processing,48
+416,417,Gregory T Lucier,Life Technologies,47
+417,418,Douglas A Berthiaume,Waters,63
+418,419,Robert A Livingston,Dover,59
+419,420,Fredric J Tomczyk,TD Ameritrade Holding,56
+420,421,Jay Grinney,HealthSouth,61
+421,422,Charles B Edelstein,Apollo Group,52
+422,423,William H Rogers Jr,SunTrust Banks,54
+423,424,Thomas A Fanning,Southern Co,55
+424,425,Phil Rykhoek,Denbury Resources,54
+425,426,Nicholas K Akins,American Electric Power,52
+426,427,Margaret C Whitman,Hewlett-Packard,55
+427,428,Anthony F Earley,PG&E,63
+428,428,John P Jumper,SAIC,67
+429,430,Michael D Fraizer,Genworth Financial,53
+430,431,Steven A Kandarian,MetLife,60
+431,432,Bryan G Stockton,Mattel,59
+432,433,Robert W Pittman,CC Media Holdings,58
+433,434,Rakesh Sachdev,Sigma-Aldrich,56
+434,435,Rory P Read,Advanced Micro Devices,50
+435,436,W Matt Ralls,Rowan Cos,61
+436,437,James J O'Brien,Ashland,57
+437,438,David W Crane,NRG Energy,53
+438,439,Thomas R Voss,Ameren,64
+439,440,Debra L Reed,Sempra Energy,56
+440,441,Neal L Patterson,Cerner,62
+441,442,Stanley A Lybarger,BOK Financial,62
+442,443,Craig L Martin,Jacobs Engineering Group,61
+443,444,David H Hannah,Reliance Steel & Aluminum,60
+444,445,Jeffery W Yabuki,Fiserv,52
+445,446,Gary C Kelly,Southwest Airlines,57
+446,447,Brian T Moynihan,Bank of America,52
+447,448,Kevin B Marsh,Scana,56
+448,449,Jack A Fusco,Calpine,49
+449,450,John G Russell,CMS Energy,54
+450,451,Robert C Skaggs Jr,NiSource,57
+451,452,Brian J Dunn,Best Buy,52
+452,453,Alain Monie,Ingram Micro,61
+453,454,Edward J Bonach,CNO Financial,58
+454,455,Luther C Kissam IV,Albemarle,48
+455,456,John R Koelmel,First Niagara Financial Group,58
+456,457,Craig Herkert,Supervalu,52
+457,458,William J DeLaney,Sysco,56
+458,459,Louis J D'Ambrosio,Sears Holdings,48
+459,460,Thomas M Rutledge,Charter Communications,59
+460,460,Scott Thompson,Yahoo,54
+461,462,Daniel S Fulton,Weyerhaeuser,63
+462,463,Brian P MacDonald,Sunoco,46
+463,464,W Douglas Parker,US Airways Group,50
+464,465,Marc R Benioff,Salesforce.com,47
+465,466,Moshe Gavrielov,Xilinx,57
+466,467,Denise L Ramos,ITT,55
+467,468,Daniel F Akerson,General Motors,63
+468,469,Beth E Mooney,KeyCorp,56
+469,470,Jeffrey P Bezos,Amazon.com,48
+470,471,Marcel H M Smits,Sara Lee,50
+471,472,Paul Maritz,VMware,57
+472,473,Richard L Carrion,Popular,59
+473,474,Ian M Cumming,Leucadia National,71
+474,475,Alan S Armstrong,Williams Cos,50
+475,476,William H Kucheman,Boston Scientific,62
+476,477,Martin Mucci,Paychex,52
+477,478,Steven J Johnston,Cincinnati Financial,52
+478,479,Steven A Ballmer,Microsoft,56
+479,480,Thomas Peterffy,Interactive Brokers Group,67
+480,481,John T Standley,Rite Aid,58
+481,482,Thomas W Horton,AMR,51
+482,483,Curt R Hartman,Stryker,48
+483,484,Thomas M Marra,Symetra Financial,53
+484,485,Harris H Simmons,Zions Bancorporation,57
+485,486,Wendy C Waugaman,American Equity Investment Life Holding,51
+486,487,Joseph P Clayton,DISH Network,62
+487,488,Gary S Guthart,Intuitive Surgical,46
+488,489,Michael C Jennings,HollyFrontier,46
+489,490,John P Mackey,Whole Foods Market,58
+490,491,Joseph W Brown,MBIA,63
+491,492,Rodney C Sacks,Monster Beverage,62
+492,493,Jeffry E Sterba,American Water Works,57
+493,494,John A Thain,CIT Group,57
+494,495,Warren E Buffett,Berkshire Hathaway,81
+495,496,Andrew D Mason,Groupon,32
+496,497,Richard D Fairbank,Capital One Financial,61

@@ -1,0 +1,154 @@
+,status,type,description
+0,Closed,Functional,data added successfully is coming even though the upload is failed
+1,Not a Bug,Functional,"1. when we schedule for email notification, scheduled Date and time is getting same for all campaigns which are showing in table at bottom of the panel."
+2,Closed,Functional,"1. When we are doing scheduling part for Notifications testing, passed out dates and time is getting select and schedule."
+3,Closed,Functional,"1. Home page is opening instead of stories page, when click on deep link push."
+4,Confirmed,Functional,"if user keeps the view as 12 and only 12 users has viewed the product and runs the cron the new price is not getting updated.
+
+Note: It only gets updated when the view is > 12
+"
+5,Confirmed,Functional,"while scheduling the price exp, instead of registered name , normal name is coming in the listing"
+6,Confirmed,Functional,our price is not getting update in product_price_experiment when views are > than the view is set
+7,Confirmed,Functional,new value is not getting inserted in product_update_index after running the cron
+8,Confirmed,Functional,"when clicked on duplicate, percentage is coming as selected by default even though the type is amount"
+9,Confirmed,Functional,it is accepting % > 100 in the values
+10,Confirmed,Functional,"for the 2nd view, data is not getting updated in product_price_experiment"
+11,Confirmed,Functional,"when user enters value > mrp, it shows error message but it gets submitted"
+12,Confirmed,Functional,multiple values are getting inserted into product_update_index
+13,Closed,Functional,"When user has used partial amount from  cashback, and cancelled the order through which he got the cashback , the amount shown in the wallet is partial amount not used instead of 0"
+14,Closed,Functional,cashback is not working
+15,Closed,Functional,"when user has used all the amount from the wallet, in purplle wallet page, it is coming as cashback is expired"
+16,Closed,Functional,"when user performs partial refund, in the panel, the quanity is not getting changed"
+17,Closed,Functional,"Refund is coming incorrect, when user performs partial refund from the panel
+
+"
+18,Closed,Functional,"1. Beauty quiz banner is not clickable
+2. google + page is giving 404 error
+3. Order id should be displayed in full"
+19,Closed,Functional,Alignment issue in email of cancellation when amount is present in wallet
+20,Closed,Functional,Note: It is working for cancel
+21,Closed,Functional,"in full cancel or full refund, when partial amount is not present in the wallet, total refund amt in mail is incorrect"
+22,Closed,Functional,"during partial refund, in the email, subtotal is coming 0"
+23,Closed,Functional,"during part or full cancel and part or full refund the amount to be refund to user is coming incorrect in both mail and db.
+
+200 is getting added in the wallet while cancellation and also the same amount is getting added in the refund amount"
+24,Closed,Functional,"When user refund products of same order cashback amount is debited two times from wallet.
+
+http://www.screencast.com/t/nJiXQdNCeDFL"
+25,New,Functional,"transaction is failed then also amount is getting credited in the wallet and default order is getting created, in mobile site
+
+Order id: 1442407"
+26,Confirmed,Functional,"When order is is Verification Pending state, then user should not get cashback."
+27,Closed,Functional,"if user has used wallet amount while creating the order, and after return sr is getting created "
+28,Closed,Functional,"if user has used partial wallet + credit card, the refund amount in mail is coming incorrect
+
+Note: this is happening for full return and cancel and part return and cancel"
+29,Closed,Functional,"when user performs any action and refreshes the page, in the UI user is not able to see that some action is performed"
+30,Closed,Functional,"when user has performed some action on item code and then inwarded that item code, the flag is not getting updated in log table"
+31,Closed,Functional,"Calender isnt opening  if clicked on calendar logo,"
+32,Closed,Functional,"On calender popup, dates after today's current date shouldnt be clickable"
+33,Closed,Functional,"If user clicks on submit button while accepting or rejecting the request, loader is not displayed"
+34,Closed,Functional,"When user accepts/rejects a request, auto approved is not updating at the same time user accepts or rejects a request, user has to refresh the page"
+35,Not a Bug,Functional,"If user has requested return request for 2 items, and seller accepts/rejects just one of them, the other product  disappears. i.e. ideally that non-actioned product should remain in new tab because seller has not taken an action on it"
+36,Not a Bug,Functional,"If there are multiple products in a  return request, one prod is not allowed to take action. For ex user has requested return request for 2 different product, seller is not allowed to take action on just one of them, he has to take action on both then only submit button works. 
+Please let us know if its requirement"
+37,Closed,Functional,"While accepting/rejecting a request in rvp section, submit button is not working
+"
+38,Closed,Functional,"If seller user accepts/rejects a request, its getting vanished from 'new' tab of rvp section, but when he visits accepted/rejected tab and then comes back again to new tab, the accepted/rejected request is again populating in new tab"
+39,Closed,Functional,entry getting for 4 times in dispatched_shipment
+40,Not a Bug,Functional,"If user accepts or rejects a request, the corrusponding entry is not getting entered in service-request table"
+41,Closed,Functional,Note: It is getting added
+42,Closed,Functional,image is uploaded while rejecting rvp then also we are not able to see in purplle rvp panel
+43,Not a Bug,Functional,"when user tries to add or update commission percentage, it is not getting updated. it is showing default value as 86"
+44,Not a Bug,Functional,"while adding the product to seller sku type is not defined, database error is coming
+
+A Database Error Occurred
+
+Error Number: 1364
+
+Field 'sku_type' doesn't have a default value
+
+INSERT INTO `procurement_seller_product` (`updated_at`, `updated_by`, `seller_id`, `product_id`, `price`, `our_price`, `active`, `off_premise_inv`, `seller_sponsor`, `tax`) VALUES (1484043751, '359', 1, '109295', '1390', 1200, 1, 10, 0, 1)
+
+Filename: /home/managesandbox/public_html/packages/admin/modules/sourcing/models/seller_m.php
+
+Line Number: 116"
+45,Not a Bug,Functional,"while adding new product to the seller, tax by default inserted is 0"
+46,Confirmed,Functional,when user enters amount < payable then also error message is coming
+47,Closed,Functional,"when user tries to upload excel sheet from seller panel, page is coming blank"
+48,Closed,Functional,"when new seller data is added, by default it should be inactive but currently it is active"
+49,Closed,Functional,"when for same product, multiple requests are there, then in moderation when user approves any 1, others disappears"
+50,Resolved,Functional,"if commission % is entered characters or special char instead of no, database error is coming"
+51,Closed,Functional,Expiry date is getting accepted of previous month and year
+52,Closed,Functional,"when user after choosing coupon code, takes order id, and clicks on submit, the entered values should disappear from the form"
+53,Confirmed,Functional,"When user keeps the values blank or enters incorrect value, then also data added successfully is coming"
+54,Closed,Functional,"when user enters alphanumeric for the integer fields, database error is coming"
+55,Closed,Functional,"when user enters all the fields proper , then also its giving error message sku is missing at row3
+
+Note: enter only 1 row and check then only that error message is coming"
+56,Closed,Functional,"when user enters alphanumeric values in date , then also data is getting inserted in db, with 0 values"
+57,Closed,Functional,"seller id should not be allowed to enter any random no, it should be present in procurement seller product table"
+58,Closed,Functional,"sku should not be allowed to enter any random no, it should present in procurement_seller_product table"
+59,Closed,Functional,combination of sku and that seller which we are entering should be present in procurement_seller_product.
+60,Closed,Functional,min_discount should not be greater than max discount
+61,Closed,Functional,"mrp should be removed from excel as discussed with arvind, but it shpuld be present in mrp
+
+Note: It should fetch mrp from procurement_seller_product table for that particular seller_id and sku"
+62,Closed,Functional,"if start date and end date is same, then timing should be different
+
+Note: Start date timing should be 0hour 0 min 0 sec
+and end date timing should be 23 hour 59 min 59 sec"
+63,Closed,Visual,start date and end date format should be defined and also mention in UI
+64,Closed,Functional,"when user enters random no in the excel, in the start date and end date, it takes any date , it gives db error "
+65,Closed,Functional,when user  enters only seller id and sku then also it shows data is getting updated
+66,Closed,Functional,"when user enters start date of today and end date of tomorrow, then also it is taking timings of today
+
+epoch start date of 03-06-2017  1496428200
+end date 04-06-2017  1496514600
+"
+67,Resolved,Visual,"Put validations proper for the date. check for all the conditions
+
+If day is >31 or month is > 12 or year < current
+
+"
+68,Confirmed,Functional,"when user manually changes capture id to 0 for successful order, and clicks on verify , status is not changing to verified"
+69,Confirmed,Functional,"when order is COD, status is new, verify link is not coming in the panel
+"
+70,Confirmed,Visual,"when user enters wrong transaction id for that order id, then no error message is coming.
+
+500 error message is coming"
+71,Closed,Functional,when user enters tax > 100 it is accepting in product_hsn table
+72,Closed,Functional,when user enters tax amount decimal value greater than 2 it is not getting round off
+73,Closed,Functional,"when user without entering hsn code column tries to update other columns, its not throwing error msg
+
+Note: product_product table
+"
+74,Closed,Functional,GST/ARN no in vendor panel is accepting only numeric values. Its should be alphanumeric
+75,Closed,Functional,"when user tries to run the script, it is not running as expected"
+76,Closed,Visual,when nothing is inserted in product_hsn table then also 0 products inserted successfully message is coming
+77,Closed,Functional,"when user enters same GST/ARN number while adding seller data, it is not giving error message
+
+Note: For every vendor grn/arn no should be unique"
+78,Closed,Functional,not able to update valid hsn code from the product panel
+79,Closed,Functional,validations missing on gst/arn textbox while adding a new seller
+80,Confirmed,Functional,"when click on save while adding a new seller, success popup takes too much time"
+81,Closed,Functional,"when user tries to update hsn from the panel, from product_product, value is becoming null in db"
+82,Confirmed,Functional,"when user tries to change filter, data disappears from the 2nd tab"
+83,Not a Bug,Functional,Approve button is not coming when clicked on checkbox
+84,Confirmed,Functional,"when user performs rvp return, expiry date is coming wrong in wallet_transactions table"
+85,Resolved,Functional,"when all the amount is used from wallet, is expired is becoming 1 but expired amount still remains"
+86,Resolved,Functional,"1. ""Data added successfully"" message is showing even the data is not added.
+"
+87,Closed,Functional,"1. After we done the scheduling part, email notification is not sending to the users."
+88,Closed,Functional,"1.  When i clicked on schedule, Error message is showing like ""Error occurred"" in Web push testing panel."
+89,Closed,Functional,1. Web push is not getting in mobile site.
+90,Not a Bug,Visual,"1. When received the web push for firefox, background image(Image URL from the panel) is not getting."
+91,Closed,Functional,page is getting hang. when user enters correct item code as special char or already used item code
+92,Closed,Text,http://screencast.com/t/PX6Q4xzdjro
+93,Closed,Functional,
+94,Closed,Functional,
+95,Confirmed,Functional,"Orders are being auto cancelled on 10th day, should happen on 5th day only"
+96,Confirmed,Visual,"change the message to ""A cashback of Rs. 200 has been credited to your Purplle Wallet""
+
+curently the message is coming wrong"
+97,Confirmed,Functional,Track shipment buttons of courier partners are not being shown on order history pages & should be displayed till 30Days

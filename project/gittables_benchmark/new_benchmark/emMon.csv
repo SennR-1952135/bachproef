@@ -1,0 +1,48 @@
+,description,name,type
+0,Tendency of the eastward wind by parameterized orographic gravity waves.,utendogw,
+1,Tendency of the eastward wind by parameterized orographic gravity waves.,utendogw,
+2,Tendency of the eastward wind by parameterized nonorographic gravity waves.,utendnogw,
+3,Tendency of the eastward wind by parameterized nonorographic gravity waves.,utendnogw,
+4,"Tendency of the northward wind by parameterized orographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)",vtendogw,
+5,"Tendency of the northward wind by parameterized orographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)",vtendogw,
+6,"Tendency of the northward wind by parameterized nonorographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)",vtendnogw,
+7,"Tendency of the northward wind by parameterized nonorographic gravity waves.  (Note that CF name tables only have a general northward tendency for all gravity waves, and we need it separated by type.)",vtendnogw,
+8,unset,tntr,real
+9,Includes both large-scale and convective cloud.,cl,real
+10,"In accordance with common usage in geophysical disciplines, ""flux"" implies per unit area, called ""flux density"" in physics. The atmosphere convective mass flux is the vertical transport of mass for a field of cumulus clouds or thermals, given by the product of air density and vertical velocity. For an area-average, cell_methods should specify whether the average is over all the area or the area of updrafts only.",mcu,real
+11,Calculated as the convective mass flux divided by the area of the whole grid cell (not just the area of the cloud).,mcd,real
+12,"This includes sources and sinks from parametrized physics (e.g. radiation, convection, boundary layer, stratiform condensation/evaporation, etc.). It excludes sources and sinks from resolved dynamics and numerical diffusion not associated with parametrized physics.  For example, any vertical diffusion which is part of the boundary layer mixing scheme should be included, while numerical diffusion applied in addition to physics or resolved dynamics should be excluded.  This term is required to check the closure of the heat budget.",tntmp,
+13,Tendency of air temperature due to longwave radiative heating,tntrl,
+14,Tendency of air temperature due to shortwave radiative heating,tntrs,
+15,,ta,real
+16,,ua,real
+17,,va,real
+18,,zg,real
+19,,hus,real
+20,Cloud ice mixing ratio,cldicemxrat,
+21,Cloud water mixing ratio,cldwatmxrat,
+22,Rain mixing ratio,rainmxrat,
+23,Snow mixing ratio,snowmxrat,
+24,Graupel mixing ratio,grplmxrat,
+25,Column integrated eastward wind times specific humidity,uqint,
+26,Column integrated northward wind times specific humidity,vqint,
+27,,ua,real
+28,,va,real
+29,,hus,real
+30,,ua,real
+31,,va,real
+32,"commonly referred to as """"omega"""", this represents the vertical component of velocity in pressure coordinates (positive down)",wap,
+33,,ta,real
+34,u*u,u2,
+35,v*v,v2,
+36,omega*omega,wap2,
+37,t*t,t2,
+38,u*v,uv,
+39,u*omega,uwap,
+40,v*omega,vwap,
+41,u*t,ut,
+42,v*t,vt,
+43,omega*t,twap,
+44,Parameterised x-component of gravity wave drag,xgwdparam,
+45,Parameterised y- component of gravity wave drag,ygwdparam,
+46,Column integral of (mcu-mcd),columnmassflux,

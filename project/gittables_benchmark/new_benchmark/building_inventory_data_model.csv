@@ -1,0 +1,97 @@
+,description,format,notes
+0,"Building unique ID. The first four characters will be “NJBF,” followed by a 9-digit zero-padded number.",NJBF#########,Consider how to capture provenance info; IDs link to methodology?
+1,Typically assessor field for property location. This is distinct from Street Address in MODIV which is associated with the billing address,Alphanumeric,For informational purposes only; use coordinates for locating property
+2,Typically assessor field for property location – city.,Alphanumeric, 
+3,Typically assessor field for property location - state abbreviation.,Alphanumeric, 
+4,Latitude of the Building Centroid (inside polygon).,Floating point number (Decimal Degrees),
+5,Longitude of the Building Centroid (inside polygon).,Floating point number (Decimal Degrees),
+6,"Subclassifications of buildings across various categories of Residential (RES), Commercial (COM), Industrial (IND), Agriculture (AGR), Government (GOV), Education (EDU), Religious/Non-Profit (REL).","Choices: RES1, RES2, RES3A, RES3B, RES3C, RES3D, RES3E, RES3F, RES4, RES5, RES6, COM1, COM2, COM3, COM4, COM5, COM6, COM7, COM8, COM9, COM10, IND1, IND2, IND3, IND4, IND5, IND6, AGR1, REL1, GOV1, GOV2, EDU1, EDU2
+","Flood, Wind
+
+Map NJDEP UDF to various Hazus Classes later (which vary by hazards)
+
+Confirmed available for all buildings"
+7,"Core construction material type; Wood, Concrete, Steel, Masonry, Manufactured Housing.","Choices: 3001, 3002, 3003, 3004, 3005",Missing for 2 buildings. Missing points filled based on street-level imagery.
+8,"Class 4 Use Codes (Field 67) applicable to commercial buildings only, describing specific use of commercial properties.",Integer (3-digit),Available for 1545 buildings (4.71% coverage).
+9,Building class according to NJ Appraisal Manual (see Vol 2),Integer (3-digit),Missing for 5737 buildings (82.5% coverage).
+10,Designates several classes of essential facilities in the region based on open data to ensure they are properly modeled.,"Choices: PS, EOC, HO, HS, SCH ",
+11,"Classification of level of engineering used in design process: Choices: Engineered (E), Pre-Engineered, (PE) Marginally Engineered (ME), Non-Engineered (NE)","Choices: E, PE, ME, NE",Available for all buildings.
+12,Assessor-provided Year of Construction from NJDEP Footprints,Integer (4-digit),Available for all buildings.
+13,Assessor-provided Year of Construction from MODIV,Integer (4-digit),Missing for 4744 buildings (85.6% coverage).
+14,Assessor-provided number of stories,Integer (4-digit),"Flood
+
+Missing for 2 buildings. Missing points filled based on street-level imagery."
+15,Number of stories estimated via image processing,Integer,Flood
+16,Number of units in the property (commercial or residential),Integer,Available for all buildings.
+17,Plan area in square feet from assessor databases,Floating point number  ,Wind
+18,Plan area in square feet from footprint data,Floating point Number  ,
+19,Classification using 7 types referenced by flood model,Integer (4-digit),"Flood
+
+Missing for 2 buildings. Missing points filled based on street-level imagery."
+20,Specifies if residential construction is split-level,"Choices: Yes, No","Under Inundation damage, the only case that is worth mentioning is the 2-story single-family home with split levels. "
+21,Elevation of the bottom plane of the roof (lowest edge of roof line) relative to grade (ft),Floating point number  ,
+22,Elevation of highest point of the roof (peak of gable or apex of hip) relative to grade (ft),Floating point Number  ,
+23,Height above grade estimated from elevation certificate or inferred from foundation type (in feet): Defined as top of lowest/bottom floor,Floating point Number  ,"Flood
+
+Available for all buildings"
+24,"Height of top of floor as estimated from base of door height above grade, based on streetview imagery (in feet)",Floating point Number  ,Can be derived from Elevations eventually
+25,Flood zone specified on FEMA FIRM based on building location,"Choices: 6101, 6102, 6103, 6104, 6105, 6106, 6107, 6108, 6109, 6110, 6111, 6112, 6113, 6114, 6115, 6199",Flood
+26,DesignWindSpeed I in mph,Floating point number  ,
+27,DesignWindSpeed II in mph,Floating point number  ,
+28,DesignWindSpeed III in mph,Floating point number  ,
+29,DesignWindSpeed IV in mph,Floating point number  ,
+30,"HAZUS-defined Wind Zone (For Manuactured homes, based on HUD Designation)","Choices: I, II, III",Mobile Homes (HAZUS)
+31,Average temperature in January below or above critial value of 25F.,"Choices: Above, Below",
+32,"Roof classified into equivalent hip, gable or flat","Choices: Hip, Gable, Flat","Wind
+
+Missing for 3908 buildings (88.1% coverage)"
+33,Slope of roof covering the majority of the dwelling,Floating point number  ,
+34,"Roof covering, specified only for residential construction.","Choices: 5701, 5702, 5703, 5704",Wind
+35,Mean height of roof system in ft,Floating point number  ,
+36,Percentage of walls defined by window openings,Floating point number (decimal<1),"Will keep the actual calculated value from segmentation algorithm; then later in Asset representation will assign the nearest equivalent value given the choices from HAZUS (20, 33, 50 percent)"
+37,Assessor-provided type of garage.,Floating point number  ,"Wind
+
+Garage Info in MODIV is not formatted as expected. Will take more effort to be useful."
+38,HAZUS-defined terrain classifications (x100) based on LULC data,"Choices: 3, 15, 35, 70, 100","open (0.03) = 3
+light suburban (0.15) =15*
+suburban (0.35) = 35
+light trees (0.70) =70
+trees (1.00)=100
+
+*can be used as a default for any footprints lacking data."
+39,Defines the default level of fidelity for analysis,"Choices: 1, 2, 3",
+40,Defines the adopted level of fidelity for analysis,"Choices: 1, 2, 3",
+41,"Record of manual updates, corrections or modifications to record",Alphanumeric (freeform),
+42,Hazus building classes as defined for wind hazards,"CHOICES: WSF1, WSF2, WMUH1, WMUH2, WMUH3, WMUH1NE, WMUH2NE, WMUH3NE, WMUH4NE, MSF1, MSF2, MMUH1, MMUH2, MMUH3, MLRM1, MLRM2, MLRI, MERBL, MERBM, MERBH, MECBL, MECBM, MECBH, MMUH1NE, MMUH2NE, MMUH3NE, CERBL, CERBM, CERBH, CECBL, CECBM, CECBH, SPMBS, SPMBM, SPMBL, SERBL, SERBM, SERBH, SECBL, SECBM, SECBH, MHPHUD, MH76HUD, MH94HUD-I, MH94HUD-II, MH94HUD-III, HUEFFS, HUEFSS, HUEFSM, HUEFSL, HUEFHS, HUEFHM, HUEFHL, HUEFPS, HUEFEO",
+43,"Underlying roof structure, applies only to masonry buildings","Choices: Wood, OWSJ",
+44,Defines Hazard Prone Regions (HPR) for the purposes of Hazus wind vulnerability assignments for WSF1-2,"Choices: yes, no", 
+45,Defines Wind Borne Debris (WBD) for the purposes of Hazus wind vulnerability assignments for WSF1-2,"Choices: yes, no", 
+46,"Defines Secondary Water Resistance (SWR) for the purposes of Hazus wind vulnerability assignments for WSF1-2, WMUH1-3, MSF1-2, MMUH1-3","Choices: yes, no", 
+47,"Defines roof cover for the purposes of Hazus wind vulnerability assignments for WMUH1-3, MMUH1-3, MERBL-M-H, MECBL-M-H, MLRI, MLRM1, MLRM2, SERBL-M-H, SECBL-M-H, CECBL-M-H, CERBL-M-H and Fire Stations (HUEFFS), Elementary Schools (HUEFSS), 2-story High School (HUEFSM) and 3-story High School (HUEFSL) and Hospitals (small - HUEFHS, medium - HUEFHM, large - HUEFHL)  and Police Stations (HUEFPS), Emergency Operation Centers (HUEFEO)      ","Choices: N/A, BUR, SPM", 
+48,"Defines roof cover quality for the purposes of Hazus wind vulnerability assignments for WMUH1-3, MMUH1-3, MLRI","Choices: N/A, poor, good",
+49,"Defines Roof Deck Attachment (RDA) for wood for the purposes of Hazus wind vulnerability assignments for WSF1-2, WMUH1-3, MMUH1-3, MSF1-2, MLRM1, MLRM2","Choices: A, B, C, D", 
+50,Defines Roof Deck Attachment (RDA) for OWSJ for the purposes of Hazus wind vulnerability assignments for MSF1-2,"Choices: smtl standard, smtl superior, cshl standard, cshl superior",
+51,"Defines Roof to Wall Connection (R2WC) for the purposes of Hazus wind vulnerability assignments for WSF1-2, WMUH1-3, MMUH1-3, MSF1-2, MLRM1, MLRM2","Choices: strap, toe-nail", 
+52,"Defines use of window opening protection for the purposes of Hazus wind vulnerability assignments for WSF1-2, WMUH1-3, MMUH1-3, MSF1-2, MERBL-M-H, MECBL-M-H, MMUH1-3,MLRM1, MLRM2, SERBL-M-H, SECBL-M-H, CECBL-M-H, CERBL-M-H, SPMBS-M-L, MH94HUDI-II-III, MH76HUD, MHPHUD and Fire Stations (HUEFFS), Elementary Schools (HUEFSS), 2-story High School (HUEFSM) and 3-story High School (HUEFSL) and Hospitals (small - HUEFHS, medium - HUEFHM, large - HUEFHL)  and Police Stations (HUEFPS), Emergency Operation Centers (HUEFEO)       ","Choices: yes, no", 
+53,"Defines presence of attached garage for the purposes of Hazus wind vulnerability assignments for WSF1-2, MSF1-2","Choices: none, SFBC 1994, standard, weak", 
+54,"Defines presence of reinforcement in masonry walls for the purposes of Hazus wind vulnerability assignments for MSF1-2, MLRI, MLRM1, MLRM2, MMUH1-3","Choices: yes, no",
+55,Defines property of OWSJ required for Hazus wind vulnerability assignments for MSF1-2,"Choices: cshl, smtl",
+56,"Defines Metal Roof Deck Attachment (RDA) for purposes of Hazus wind vulnerability assessments for MLRI, MERBL-M-H, MECBL-M-H, MLRM1, MLRM2, SERBL-M-H, SECBL-M-H, SPMBS-M-L and Fire Stations (HUEFFS), Elementary Schools (HUEFSS), 2-story High School (HUEFSM) and 3-story High School (HUEFSL) and Hospitals (small - HUEFHS, medium - HUEFHM, large - HUEFHL) and Police Stations (HUEFPS), Emergency Operation Centers (HUEFEO)        ","Choices: standard, superior",
+57,"Defines roof deck age for the purposes of Hazus wind vulnerability assessments for MLRM1, MLRM2, SPMBS-M-L and Fire Stations (HUEFFS), Elementary Schools (HUEFSS)
+","Choices: new/avg, old",
+58,Defines number of units in strip mall for purposes of Hazus wind vulnerability assessments for MLRM2,"Choices: single, multi",
+59,Defines joist spacing for multi-unit strip malls for purposes of Hazus wind vulnerability assessments for MLRM2,"Choices: N/A, 4, 6",
+60,"Defines likely sources of wind debris for purpose of Hazus wind vulnerability assessments for MERBL-M-H, MECBL-M-H, MLRM1, MLRM2, SERBL-M-H, SECBL-M-H, CECBL-M-H, CERBL-M-H and Fire Stations (HUEFFS), Elementary Schools (HUEFSS), 2-story High School (HUEFSM) and 3-story High School (HUEFSL) and Hospitals (small - HUEFHS, medium - HUEFHM, large - HUEFHL) and Police Stations (HUEFPS), Emergency Operation Centers (HUEFEO)       ","Choices: Res/Comm, Varies by Direction, Residential, None, A, B, C, D",
+61,"Defines window to wall ratio (WWR) for purpose of Hazus wind vulnerability assessments for MERBL-M-H, MECBL-M-H, SERBL-M-H, SECBL-M-H, CECBL-M-H, CERBL-M-H and Police Stations (HUEFPS), Emergency Operation Centers (HUEFEO)","Choices: low, medium, high",
+62,"Defines use of ties to connect mobile homes to foundations per HUD guidelnes for purpose of Hazus wind vulnerability assessments for MH94HUDI-II-III, MH76HUD, MHPHUD","Choices: yes, no",
+63,Hazus building classes as defined for inundation (flooding),"Choices: SF1XA, SF1XV, SF2XA, SF2XV, SF2BA, SF2BV, SF2SA, SF2SV, MH, APT, HOT, NURSE, RETAIL, WHOLE, SERVICE, OFFICE, BANK, HOSP, MED, REC, THEAT, GARAGE, INDH, INDL, CHEM, PROC, CONST, AGRI, RELIG, CITY, EMERG, SCHOOL",
+64,Hazus building classes as defined for wave action,"Choices: W1, W2, W3, MC1, MC2, MC3, S1, S2, S3, MH",
+65,Assignment to flood zones as defined for Hazus damage/loss descriptions,"Choices: Riverine/A-Zone, Coastal/A-Zone, 
+Coastal/V-Zone",Hazus Flood Model
+66,Assignment of first floor height as defined by Hazus,Floating Point Number,Hazus Flood Model
+67,Assignment of FIRM phasing as defined by Hazus,"Choices: Yes, No",Hazus Flood Model
+68,Initalizing number of stories for Hazus analysis,integer,Hazus Flood Model
+69,Assignement of basement type for Hazus analysis,"Choices: Basement, Split-Level Basement, No Basement",Hazus Flood Model
+70,Assignment of Occupancy type for Hazus analysis ,"Choices: SF1XA, SF1XV, SF2XA, SF2XV, SF2BA, SF2BV, SF2SA, SF2SV, MH, APT, HOT, NURSE, RETAIL, WHOLE, SERVICE, OFFICE, BANK, HOSP, MED, REC, THEAT, GARAGE, INDH, INDL, CHEM, PROC, CONST, AGRI, RELIG, CITY, EMERG, SCHOOL",Hazus Flood Model
+71,Assignment of storm suration for Hazus Analysis,"Short, Long",Hazus Inundation Model
+72,Definition of wave velocity in ft/s for Hazus Analysis,Floating Point Number,Hazus Inundation Model

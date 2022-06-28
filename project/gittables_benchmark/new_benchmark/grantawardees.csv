@@ -1,0 +1,174 @@
+,city,state,year
+0,Concord,NH,2014.0
+1,Alamogordo,NM,2013.0
+2,Ketchikan,AK,2013.0
+3,,,
+4,Haines,AK,2013.0
+5,Raleigh,NC,2007.0
+6,Wiggins,MS,2007.0
+7,Kane,PA,2007.0
+8,Crivitz,WI,2009.0
+9,Lexington,KY,2011.0
+10,Little Falls,NY,2011.0
+11,White Plains,NY,2011.0
+12,Hulett,WY,2007.0
+13,Tres Piedras,NM,2007.0
+14,Mescalero,NM,2007.0
+15,Saguache,CO,2007.0
+16,Milan,NM,2007.0
+17,Klamath Falls, OR,2015.0
+18,Whitefish, MT,2015.0
+19,Ely, NV,2015.0
+20,Columbia Falls,MT,2013.0
+21,Raleigh, NC,2015.0
+22,Gypsum,CO,2012.0
+23,Riley,KS,2012.0
+24,Salem,UT,2012.0
+25,Port Angeles,WA,2012.0
+26,Ashland,OR,2012.0
+27,North Bend,OR,2012.0
+28,Minneapolis, MN,2015.0
+29,Monroe,WA,2014.0
+30,St Marys,PA,2007.0
+31,Ft. Lupton,CO,2008.0
+32,Portland,OR,2007.0
+33,Grant County,OR,2013.0
+34,Stevenson,WA,2014.0
+35,Columbus Falls,MT,2012.0
+36,International Falls,MN,2014.0
+37,Caldwell,ID,2008.0
+38,Reserve,NM,2008.0
+39,Lincoln, NE,2015.0
+40,Portland, OR,2015.0
+41,Wallowa, OR,2015.0
+42,Logan, UT,2015.0
+43,Sacramento, CA,2015.0
+44,Oakland, CA,2015.0
+45,San Marcos, CA,2015.0
+46,Mancos, CO,2015.0
+47,Kyle, SD,2015.0
+48,Pagosa Springs, CO,2015.0
+49,Grass Valley, CA,2015.0
+50,Florence, WI,2015.0
+51,Clemson, SC,2015.0
+52,Baldwinville,MA,2013.0
+53,Juneau, AK,2015.0
+54,Champaign, IL,2015.0
+55,Salt Lake City, UT,2015.0
+56,Taylorsville, CA,2015.0
+57,Flagstaff, AZ,2015.0
+58,Salem, OR,2015.0
+59,Salem,OR,2013.0
+60,Pocatello, ID,2015.0
+61,Leesburg, VA,2015.0
+62,Wilseyville,CA,2013.0
+63,South Boston, VA,2015.0
+64,Baton Rouge, LA,2015.0
+65,Phoenix, AZ,2015.0
+66,Burlington, VT,2015.0
+67,Bend, OR,2015.0
+68,East Lansing, MI,2015.0
+69,Anchorage, AK,2015.0
+70,University Park, PA,2015.0
+71,Yakima, WA,2015.0
+72,Corvallis, OR,2015.0
+73,Neopit, WI,2015.0
+74,Neopit,WI,2013.0
+75,Marlborough, MA,2015.0
+76,Pullman, WA,2015.0
+77,Orange, VA,2015.0
+78,Rapid City,SD,2007.0
+79,Las Vegas,NM,2007.0
+80,Salmon,ID,2007.0
+81,Lakeside,AZ,2007.0
+82,Kalispell,MT,2007.0
+83,Redmond,OR,2007.0
+84,John Day,OR,2007.0
+85,Granby,CO,2007.0
+86,Glenwood,WA,2007.0
+87,Missoula,MT,2007.0
+88,El Prado,NM,2007.0
+89,Parma,ID,2007.0
+90,Junction,UT,2007.0
+91,Phoenix,AZ,2007.0
+92,Granby,CO,2007.0
+93,Sonora,CA,2008.0
+94,Hall,MT,2008.0
+95,North Bend,OR,2008.0
+96,Libby,MT,2008.0
+97,Clancy,MT,2008.0
+98,Carson City,NV,2008.0
+99,Mora,NM,2008.0
+100,Bozeman,MT,2008.0
+101,Williams,AZ,2008.0
+102,Bend,OR,2008.0
+103,Spearfish,SD,2008.0
+104,Hayfork,CA,2008.0
+105,Hayfork,CA,2008.0
+106,Taylor,AZ,2008.0
+107,Rover,AR,2009.0
+108,Pinetop,AZ,2009.0
+109,Jamestown,CA,2009.0
+110,Grenada,CA,2009.0
+111,Bella Vista,CA,2009.0
+112,Fortuna,CA,2009.0
+113,Weaverville,CA,2009.0
+114,Alamosa,CO,2009.0
+115,Montrose,CO,2009.0
+116,Milner,CO,2009.0
+117,Athol,ID,2009.0
+118,Missoula,MT,2009.0
+119,Missoula,MT,2009.0
+120,Datil,NM,2009.0
+121,Wallowa,OR,2009.0
+122,Lakeview,OR,2009.0
+123,Anderson,CA,2010.0
+124,Jamestown,CA,2010.0
+125,Bieber,CA,2010.0
+126,Phoenix,AZ,2010.0
+127,Oroville,CA,2010.0
+128,Crawford,CO,2010.0
+129,Eagar,AZ,2010.0
+130,Tularosa,NM,2010.0
+131,San Carlos,AZ,2010.0
+132,Redding,CA,2010.0
+133,Lyons,OR,2010.0
+134,Corona,NM,2010.0
+135,Post Falls,ID,2010.0
+136,Palmer,AK,2011.0
+137,Kings Beach,CA,2011.0
+138,Anderson,CA,2011.0
+139,Weaverville,CA,2011.0
+140,Littleton,CO,2011.0
+141,Coeur d'Alene,ID,2011.0
+142,Emmet,ID,2011.0
+143,Columbia Falls,MT,2011.0
+144,Seeley Lake,MT,2011.0
+145,Missoula,MT,2011.0
+146,Vernonia,OR,2011.0
+147,Montesano,WA,2011.0
+148,Kaukauna,WI,2011.0
+149,Superior,WI,2011.0
+150,Quincy,CA,2012.0
+151,North Fork,CA,2012.0
+152,Superior,MT,2012.0
+153,Orofino,ID,2012.0
+154,Taholah,WA,2012.0
+155,LaGrange,GA,2012.0
+156,Farmville,VA,2012.0
+157,Montpelier,VT,2012.0
+158,Newport,NH,2012.0
+159,Nulato,AK,2012.0
+160,Oregon,OR,2012.0
+161,Concord,OR,2014.0
+162,Monroe,OR,2014.0
+163,Bend,CA,2014.0
+164,Minneapolis, MN,2015.0
+165,Missoula, MT,2015.0
+166,Hayfork,CA,2014.0
+167,Taylorsville,CA,2013.0
+168,Trinity County,CA,2012.0
+169,"Concord
+",NH,2014.0
+170,Minneapolis, MN,2015.0
+171,St Maries,ID,2007.0

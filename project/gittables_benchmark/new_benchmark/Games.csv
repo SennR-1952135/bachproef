@@ -1,0 +1,453 @@
+,year,genre,publisher
+0,2014,Action,Rockstar Games
+1,2015,Shooter,Activision
+2,2017,Shooter,Activision
+3,2018,Action-Adventure,Rockstar Games
+4,2014,Misc,Microsoft Studios
+5,2014,Shooter,Activision
+6,2016,Shooter,Electronic Arts
+7,2015,Role-Playing,Bethesda Softworks
+8,2016,Shooter,Activision
+9,2016,Sports,Electronic Arts
+10,2014,Action,Ubisoft
+11,2014,Shooter,Activision
+12,2015,Sports,EA Sports
+13,2017,Sports,EA Sports
+14,2013,Shooter,Activision
+15,2016,Shooter,Blizzard Entertainment
+16,2015,Shooter,Ubisoft
+17,2016,Shooter,Ubisoft
+18,2017,Action,Ubisoft
+19,2015,Sports,EA Sports
+20,2016,Sports,EA Sports
+21,2015,Sports,2K Sports
+22,2017,Shooter,Activision
+23,2013,Action,Ubisoft
+24,2014,Sports,EA Sports
+25,2013,Shooter,Electronic Arts
+26,2016,Sports,2K Sports
+27,2017,Sports,2K Sports
+28,2017,Shooter,Electronic Arts
+29,2017,Sports,EA Sports
+30,2016,Role-Playing,Bethesda Softworks
+31,2018,Action,Ubisoft
+32,2015,Fighting,Warner Bros. Interactive Entertainment
+33,2014,Sports,2K Sports
+34,2015,Role-Playing,Namco Bandai Games
+35,2014,Shooter,Ubisoft
+36,2014,Action-Adventure,Ubisoft
+37,2017,Shooter,Ubisoft
+38,2014,Sports,EA Sports
+39,2015,Adventure,Square Enix
+40,2015,Action,Warner Bros. Interactive Entertainment
+41,2015,Action,Warner Bros. Interactive Entertainment
+42,2016,Shooter,Bethesda Softworks
+43,2015,Action,Ubisoft
+44,2014,Action,Warner Bros. Interactive Entertainment
+45,2016,Sports,505 Games
+46,2015,MMO,Bethesda Softworks
+47,2016,Shooter,Electronic Arts
+48,2016,Action,Ubisoft
+49,2013,Sports,EA Sports
+50,2015,Shooter,Activision
+51,2015,Shooter,Electronic Arts
+52,2017,Action,Warner Bros. Interactive Entertainment
+53,2013,Action,Warner Bros. Interactive Entertainment
+54,2016,Role-Playing,Square Enix
+55,2016,Action-Adventure,2K Games
+56,2014,Role-Playing,Blizzard Entertainment
+57,2015,Action-Adventure,Square Enix
+58,2016,Action-Adventure,Ubisoft
+59,2014,Role-Playing,Electronic Arts
+60,2013,Sports,2K Sports
+61,2018,Action,Capcom
+62,2017,Fighting,Warner Bros. Interactive Entertainment
+63,2017,Action,Capcom
+64,2017,Action,Ubisoft
+65,2016,Action,Bethesda Softworks
+66,2016,Shooter,Electronic Arts
+67,2013,Sports,EA Sports
+68,2015,Action,Konami Digital Entertainment
+69,2015,Music,Activision
+70,2016,Role-Playing,Namco Bandai Games
+71,2015,Action,Warner Bros. Interactive Entertainment
+72,2017,Role-Playing,Electronic Arts
+73,2015,Adventure,Mojang
+74,2017,Action,Gearbox Software
+75,2014,Shooter,Bethesda Softworks
+76,2015,Music,Harmonix Music Systems
+77,2015,Racing,Electronic Arts
+78,2017,Simulation,Electronic Arts
+79,2017,Racing,Electronic Arts
+80,2016,Action-Adventure,Microsoft Studios
+81,2015,Action,Warner Bros. Interactive Entertainment
+82,2014,Racing,Ubisoft
+83,2014,Shooter,Electronic Arts
+84,2013,Racing,Electronic Arts
+85,2017,Shooter,Bethesda Softworks
+86,2014,Misc,Bethesda Softworks
+87,2017,Misc,Warner Bros. Interactive Entertainment
+88,2015,Shooter,2K Games
+89,2015,Shooter,2K Games
+90,2017,Sports,2K Sports
+91,2014,Action-Adventure,Square Enix
+92,2014,Action-Adventure,Warner Bros. Interactive Entertainment
+93,2015,Sports,Take-Two Interactive
+94,2017,Role-Playing,Ubisoft
+95,2014,Sports,2K Sports
+96,2016,Sports,EA Sports
+97,2016,Sports,EA Sports
+98,2017,Fighting,Namco Bandai Games
+99,2017,Action,Warner Bros. Interactive Entertainment
+100,2016,Sports,2K Games
+101,2014,Action-Adventure,Disney Interactive Studios
+102,2014,Music,Ubisoft
+103,2018,Fighting,Namco Bandai Games
+104,2014,Adventure,Sega
+105,2015,Sports,EA Sports
+106,2016,Action-Adventure,Warner Bros. Interactive Entertainment
+107,2015,Action,Warner Bros. Interactive Entertainment
+108,2016,Action,Warner Bros. Interactive Entertainment
+109,2016,Sports,Ubisoft
+110,2014,Action,Square Enix
+111,2013,Music,Ubisoft
+112,2014,Fighting,Electronic Arts
+113,2016,Shooter,2K Games
+114,2016,Action,Namco Bandai Games
+115,2017,Action-Adventure,Studio Wildcard
+116,2015,Action,Disney Interactive Studios
+117,2017,Shooter,Bethesda Softworks
+118,2014,Platform,Activision
+119,2014,Action,Warner Bros. Interactive Entertainment
+120,2018,Sports,EA Sports
+121,2014,Music,Ubisoft
+122,2014,Shooter,505 Games
+123,2014,Sports,EA Sports
+124,2015,Racing,Bandai Namco Games
+125,2016,Shooter,Activision
+126,2015,Action-Adventure,Activision
+127,2016,Role-Playing,Square Enix
+128,2017,Sports,EA Sports
+129,2017,Action,Bethesda Softworks
+130,2014,Platform,Ubisoft
+131,2015,Music,Ubisoft
+132,2013,Misc,Activision
+133,2016,Fighting,Namco Bandai Games
+134,2015,Fighting,Namco Bandai Games
+135,2017,Fighting,Capcom
+136,2016,Music,Ubisoft
+137,2017,Action,Warner Bros. Interactive Entertainment
+138,2018,Racing,Ubisoft
+139,2016,Simulation,Focus Home Interactive
+140,2014,Shooter,Deep Silver
+141,2017,Action,Square Enix
+142,2017,Platform,Warner Bros. Interactive Entertainment
+143,2015,Role-Playing,Square Enix
+144,2017,Shooter,Rebellion Developments
+145,2017,Platform,Sega
+146,2015,Role-Playing,Namco Bandai Games
+147,2016,Shooter,2K Games
+148,2015,Sports,Electronic Arts
+149,2016,Action,Ubisoft
+150,2014,Action-Adventure,Warner Bros. Interactive Entertainment
+151,2014,Action-Adventure,Konami Digital Entertainment
+152,2017,Adventure,Telltale Games
+153,2016,Platform,Activision
+154,2017,Action,Gun Media
+155,2015,Racing,Codemasters
+156,2017,Adventure,Rockstar Games
+157,2014,Racing,Ubisoft
+158,2017,Shooter,Activision
+159,2015,Action,Deep Silver
+160,2015,Simulation,Koch Media
+161,2018,Action,Electronic Arts
+162,2013,Sports,EA Sports
+163,2015,Shooter,505 Games
+164,2017,Racing,Codemasters
+165,2014,Sports,Electronic Arts
+166,2016,Racing,Codemasters
+167,2015,Action,Activision
+168,2014,Action-Adventure,Activision
+169,2018,Role-Playing,Deep Silver
+170,2014,Role-Playing,Square Enix
+171,2016,Racing,Codemasters
+172,2017,Music,Ubisoft
+173,2016,Shooter,Deep Silver
+174,2017,Sports,EA Sports
+175,2017,Shooter,Astragon
+176,2014,Action-Adventure,Square Enix
+177,2017,Racing,Namco Bandai Games
+178,2016,Action,Warner Bros. Interactive Entertainment
+179,2015,Action,Bethesda Softworks
+180,2016,Fighting,Namco Bandai Games
+181,2016,Platform,Electronic Arts
+182,2018,Action,Bandai Namco Games
+183,2016,Strategy,2K Games
+184,2017,Racing,Koch Media
+185,2017,Simulation,Deep Silver
+186,2017,Shooter,City Interactive
+187,2014,Action-Adventure,Square Enix
+188,2016,Action,Namco Bandai Games
+189,2013,Puzzle,Activision
+190,2017,Platform,Namco Bandai Games
+191,2015,Shooter,Bethesda Softworks
+192,2014,Sports,Konami Digital Entertainment
+193,2014,Shooter,Activision
+194,2017,Action,Sold Out
+195,2015,Action,Activision
+196,2017,Simulation,Focus Home Interactive
+197,2015,Action,Capcom
+198,2016,Action,Tecmo Koei
+199,2015,Sports,Activision
+200,2017,Fighting,Namco Bandai Games
+201,2014,Misc,Telltale Games
+202,2015,Action,Capcom
+203,2017,Action,Bethesda Softworks
+204,2017,Fighting,Capcom
+205,2017,MMO,Bethesda Softworks
+206,2015,Misc,Ubisoft
+207,2016,Music,Ubisoft
+208,2016,Action,Insomniac Games
+209,2015,Sports,EA Sports
+210,2017,Action,Warner Bros. Interactive Entertainment
+211,2017,Platform,Sega
+212,2017,Action,505 Games
+213,2018,Action,THQ Nordic
+214,2018,Role-Playing,Focus Home Interactive
+215,2017,Adventure,Warner Bros. Interactive Entertainment
+216,2017,Racing,505 Games
+217,2016,Adventure,Square Enix
+218,2017,Shooter,Bethesda Softworks
+219,2017,Action,Koch Media
+220,2017,Fighting,Namco Bandai Games
+221,2015,Sports,Konami Digital Entertainment
+222,2017,Sports,Konami Digital Entertainment
+223,2016,Action,Telltale Games
+224,2015,Shooter,Rebellion Developments
+225,2016,Action,Activision
+226,2015,Racing,Milestone S.r.l.
+227,2017,Action,Deep Silver
+228,2016,Action,Konami Digital Entertainment
+229,2016,Racing,Milestone S.r.l.
+230,2016,Racing,Dusenberry Martin Racing
+231,2016,Racing,Ubisoft
+232,2015,Role-Playing,Focus Home Interactive
+233,2015,Fighting,Tecmo Koei
+234,2016,Sports,Konami Digital Entertainment
+235,2016,Action-Adventure,Capcom
+236,2018,Role-Playing,Namco Bandai Games
+237,2017,Platform,Sold Out
+238,2017,Simulation,Soedesco
+239,2018,Action-Adventure,Gearbox Software
+240,2016,Shooter,Gearbox Software
+241,2014,Adventure,Telltale Games
+242,2018,Action,Koei Tecmo
+243,2015,Sports,Bigben Interactive
+244,2017,Racing,Milestone
+245,2015,Action,Tecmo Koei
+246,2018,Racing,Milestone S.r.l.
+247,2017,Misc,Ubisoft
+248,2016,Action,Deep Silver
+249,2016,Racing,Milestone S.r.l
+250,2017,Simulation,Frontier Developments
+251,2017,Shooter,Gearbox Software
+252,2017,Racing,Codemasters
+253,2015,Action-Adventure,Nordic Games
+254,2014,Adventure,Focus Home Interactive
+255,2015,Action,Ubisoft
+256,2015,Fighting,PQube
+257,2018,Action,Konami Digital Entertainment
+258,2015,Sports,Ravenscourt
+259,2016,Adventure,Telltale Games
+260,2017,Strategy,System 3
+261,2016,Action,Activision
+262,2016,Racing,Namco Bandai Games
+263,2014,Action,Tecmo Koei
+264,2016,Shooter,Capcom
+265,2016,Action,Activision
+266,2017,Sports,MLB.com
+267,2017,Strategy,Sold Out
+268,2015,Action,Little Orbit
+269,2016,Misc,Atari
+270,2017,Racing,Koch Media
+271,2015,Role-Playing,Deep Silver
+272,2017,Racing,THQ Nordic
+273,2016,Action,Maximum Games
+274,2016,Misc,Ubisoft
+275,2016,Adventure,Bigben Interactive
+276,2015,Sports,Nordic Games
+277,2017,Shooter,Tripwire Interactive
+278,2016,Sports,MLB.com
+279,2017,Action,Capcom
+280,2017,Simulation,GameMill
+281,2016,Action,Tecmo Koei
+282,2017,Sports,Maximum Games
+283,2016,Sports,Maximum Games
+284,2016,Misc,Atari
+285,2017,Shooter,Bigben Interactive
+286,2017,Action,Focus Home Interactive
+287,2017,Adventure,Warner Bros. Interactive Entertainment
+288,2017,Racing,THQ Nordic
+289,2016,Adventure,Microids
+290,2015,Adventure,505 Games
+291,2017,Adventure,Warner Bros. Interactive Entertainment
+292,2017,Sports,Koch Media
+293,2017,Action,GameTrust
+294,2017,Action,Ready at Dawn
+295,2018,Action,Maximum Games
+296,2016,Action-Adventure,Capcom
+297,2016,Role-Playing,Focus Home Interactive
+298,2017,Racing,Warner Bros. Interactive Entertainment
+299,2017,Role-Playing,Paradox InteractiveÊ
+300,2016,Music,Ubisoft
+301,2016,Platform,Deep Silver
+302,2017,Adventure,Telltale Games
+303,2017,Racing,Bigben Interactive
+304,2016,Adventure,Activision
+305,2016,Puzzle,Nighthawk Interactive
+306,2017,Racing,Maximum Games
+307,2017,Role-Playing,Capcom
+308,2017,Shooter,GameMill Entertainment
+309,2016,Action,Sold Out
+310,2016,Action,Capcom
+311,2016,Action-Adventure,THQ Nordic
+312,2017,Role-Playing,Deep Silver
+313,2015,Adventure,Telltale Games
+314,2014,Action,505 Games
+315,2017,Role-Playing,THQ Nordic
+316,2017,Role-Playing,THQ Nordic
+317,2018,Adventure,505 Games
+318,2016,Action,Capcom
+319,2015,Sports,Tru Blu Entertainment
+320,2016,Racing,GameMill
+321,2014,Shooter,Devolver Digital
+322,2017,Shooter,Maximum Games
+323,2014,Action,Tecmo Koei
+324,2016,Action,Capcom
+325,2017,Action,THQ Nordic
+326,2016,Racing,PQube
+327,2017,Adventure,THQ Nordic
+328,2018,Simulation,Techland
+329,2015,Racing,Milestone S.r.l.
+330,2017,Shooter,505 Games
+331,2016,Action,Stainless Games
+332,2017,Platform,505 Games
+333,2016,Action,Games Workshop
+334,2017,Simulation,505 Games
+335,2017,Action,Outright Games
+336,2017,Adventure,Kalypso Media
+337,2017,Adventure,Grey Box
+338,2016,Strategy,Team17 Digital Ltd
+339,2017,Adventure,Microids
+340,2016,Racing,PQube
+341,2017,Sports,Tru Blu Entertainment
+342,2017,Adventure,505 Games
+343,2017,Action,Soedesco
+344,2016,Action,Activision
+345,2017,Action,Capcom
+346,2015,Adventure,Revolution Software
+347,2015,Sports,Big Ben Interactive
+348,2015,Racing,Ubisoft
+349,2016,Simulation,Introversion Software
+350,2016,Role-Playing,THQ Nordic
+351,2017,Shooter,GameMill
+352,2017,Racing,505 Games
+353,2017,Action,Maximum Games
+354,2017,Role-Playing,505 Games
+355,2018,Action,Wired Productions
+356,2016,Simulation,Kalypso Media
+357,2015,Adventure,Telltale Games
+358,2015,Action,Deep Silver
+359,2017,Action,Capcom
+360,2017,Strategy,Kalypso Media
+361,2017,Strategy,Kalypso Media
+362,2017,Shooter,Rebellion
+363,2017,Action,Kalypso Media
+364,2017,Puzzle,Kalypso Media
+365,2016,Racing,505 Games
+366,2017,Simulation,Focus Home Interactive
+367,2017,Strategy,THQ Nordic
+368,2015,Racing,Bigben Interactive
+369,2017,Racing,Bigben Interactive
+370,2017,Strategy,Kalypso Media
+371,2017,Adventure,THQ Nordic
+372,2015,Sports,Tru Blu Entertainment
+373,2016,Action,Ubisoft
+374,2016,Racing,Milestone S.r.l
+375,2016,Sports,Alternative Software
+376,2014,Misc,Ubisoft
+377,2016,Action,Ubisoft
+378,2016,Strategy,Nordic Games
+379,2017,Role-Playing,Techland
+380,2016,Shooter,Soedesco
+381,2017,Racing,Nighthawk Interactive
+382,2017,Simulation,THQ Nordic
+383,2017,Strategy,Kalypso Media
+384,2015,Sports,Bigben Interactive
+385,2015,Platform,Yacht Club Games
+386,2015,Sports,Focus Home Interactive
+387,2015,Platform,Activision
+388,2016,Simulation,UIG Entertainment
+389,2015,Action,Little Orbit
+390,2014,Platform,Capcom
+391,2014,Misc,Activision
+392,2016,Platform,Capcom
+393,2016,Adventure,Microids
+394,2016,Platform,Koch Media
+395,2015,Action,BioWare
+396,2019,Shooter,Ubisoft
+397,2015,Action,Capcom
+398,2017,Strategy,UIG Entertainment
+399,2016,Role-Playing,Koch Media
+400,2015,Adventure,Unknown
+401,2015,Misc,Unknown
+402,2020,Misc,Warner Bros. Interactive Entertainment
+403,2015,Misc,Stainless Games
+404,2019,Role-Playing,Square Enix
+405,2016,Strategy,Soedesco
+406,2014,Misc,Level 5
+407,2014,Misc,Unknown
+408,2014,Role-Playing,TopWare Interactive
+409,2015,Misc,Unknown
+410,2015,Adventure,Nordic Games
+411,2014,Puzzle,Sega
+412,2015,Misc,Renegade Kid
+413,2014,Misc,MLB.com
+414,2014,Misc,Focus Home Interactive
+415,2015,Shooter,Focus Home Interactive
+416,2014,Visual Novel,5pb
+417,2015,Sports,EA Sports
+418,2014,Action,Square Enix
+419,2017,Action,Deep Silver
+420,2014,Puzzle,Ubisoft
+421,2015,Action,Versus Evil
+422,2014,Action,Activision
+423,2016,Action,Moss
+424,2015,Action-Adventure,Ubisoft
+425,2015,Adventure,Ice-pick Lodge
+426,2015,Action,Ubisoft
+427,2015,Sports,MLB.com
+428,2017,Role-Playing,Sinxsoft
+429,2015,Action,Team17 Software
+430,2015,Action,Namco Bandai Games
+431,2015,Action,Namco Bandai Games
+432,2015,Simulation,Namco Bandai Games
+433,2016,Action,Maximum Games
+434,2017,Action-Adventure,Soedesco
+435,2016,Action,Wired Productions
+436,2016,Sports,Focus Home Interactive
+437,2016,Music,THQ Nordic
+438,2016,Sports,Tru Blu Entertainment
+439,2019,Shooter,Bandai Namco Games
+440,2019,Shooter,Deep Silver
+441,2019,Role-Playing,Electronic Arts
+442,2017,Role-Playing,Soedesco
+443,2018,Role-Playing,Unknown
+444,2018,Strategy,Unknown
+445,2018,Action,THQ Nordic
+446,2018,Action,THQ Nordic
+447,2019,Action,THQ Nordic
+448,2019,Action,THQ Nordic
+449,2017,Platform,THQ Nordic
+450,2017,Adventure,Bigben Interactive
+451,2019,Action,Bandai Namco Entertainment

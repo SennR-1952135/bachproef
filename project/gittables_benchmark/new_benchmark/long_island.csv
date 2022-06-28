@@ -1,0 +1,486 @@
+,company,address,city
+0,JIM'S DELI                              ,2478 MONTAUK HIGHWAY                    ,BELLPORT            
+1,BELLPORT QUICK STOP                     ,461 STATION ROAD                        ,BELLPORT            
+2,BELLPORT BEER                           ,417 STATION ROAD                        ,BELLPORT            
+3,T GAS                                   ,1741 MONTAUK HWY                        ,BELLPORT            
+4,OK PETRO - BROOKHAVEN                   ,2510 MONTAUK HIGHWAY                    ,BROOKHAVEN          
+5,FRIENDLY QUICK MART                     ,2815 MONTAUK HWY                        ,BROOKHAVEN          
+6,KING KULLEN #15                         ,552 MONTAUK HIGHWAY                     ,CENTER MORICHES     
+7,A & P WALDBAUMS D.I.P. STORE # 229      ,812 MONTAUK HIGHWAY                     ,CENTER MORICHES     
+8,USA GAS - CENTER MORICHES               ,230 MAIN STREET                         ,CENTER MORICHES     
+9,MORICHES BAGEL & DELI                   ,329 MAIN STREET                         ,CENTER MORICHES     
+10,WANDA'S WEIGHT ROOM                     ,225 MONTAUK HIGHWAY                     ,CENTER MORICHES     
+11,VALERO GAS                              ,620 MONTAUK HWY                         ,EAST MORICHES       
+12,KING KULLEN #43                         ,25 EASTPORT MANOR ROAD                  ,EASTPORT            
+13,VALERO - EASTPORT                       ,125 COUNTY ROAD 51                      ,EASTPORT            
+14,EASTPORT PLAZA DELI                     ,13 EASTPORT MANOR RD                    ,EASTPORT            
+15,KING KULLEN #33                         ,460 COUNTY ROAD 111                     ,MANORVILLE          
+16,HANDY PANTRY - MANORVILLE               ,238 MORICHES ROAD &                     ,MANORVILLE          
+17,HESS #32434                             ,285 WADING RIVER ROAD                   ,MANORVILLE          
+18,7-11 #25150                             ,450 CO RD 111/CHAPMAN BLVD              ,MANORVILLE          
+19,MIKES DELI                              ,260 MORICHES MIDDLE ISLAND RD           ,MANORVILLE          
+20,IDEAL FOODS                             ,1133 MONTAUK HWY.                       ,MASTIC              
+21,SHOP WITH US                            ,1088 MASTIC ROAD                        ,MASTIC              
+22,CITGO                                   ,1081 MASTIC ROAD                        ,MASTIC              
+23,MANHATTAN BAGEL                         ,388 MASTIC ROAD                         ,MASTIC              
+24,MASTIC SPORTS DELI                      ,1355 MONTAUK HWY                        ,MASTIC              
+25,VALERO                                  ,1651 MONTAUK HWY                        ,MASTIC              
+26,NEIGHBORHOOD MARKET                     ,73 WHITTIER DR                          ,MASTIC BEACH        
+27,TOWN & COUNTRY DELI                     ,157A COMMACK ROAD                       ,MASTIC BEACH        
+28,BETH'S CORNER STORE                     ,210 MASTIC BEACH ROAD                   ,MASTIC BEACH        
+29,TRACK FOOD MART                         ,310 NEIGHBORHOOD ROAD                   ,MASTIC BEACH        
+30,USA GAS                                 ,450 NEIGHBORHOOD RD                     ,MASTIC BEACH        
+31,KING KULLEN #35                         ,273 WILLIAM FLOYD PARKWAY               ,SHIRLEY             
+32,BEST YET MARKET #10                     ,803 MONTAUK HWY                         ,SHIRLEY             
+33,HESS #32588                             ,525 WILLIAM FLOYD PARKWAY               ,SHIRLEY             
+34,A & P - PATHMARK D.I.P. #646            ,800 MONTAUK HWY                         ,SHIRLEY             
+35,MASTIC DELI                             ,234 WILLIAM FLOYD PARKWAY               ,SHIRLEY             
+36,OAKWOOD DELI                            ,525 NEIGHBORHOOD ROAD                   ,SHIRLEY             
+37,OCEAN GAS                               ,900 MONTAUK HWY.                        ,SHIRLEY             
+38,CITGO - SHIRLEY                         ,520 WILLIAM FLOYD PARKWAY               ,SHIRLEY             
+39,COLIN DELI & MARKET                     ,132 COLIN DRIVE                         ,SHIRLEY             
+40,ROYAL MARKET                            ,451 GLEN DRIVE                          ,SHIRLEY             
+41,11-May,600 MONTAUK HWY                         ,SHIRLEY             
+42,QUICK STOP                              ,20 FLOYD ROAD                           ,SHIRLEY             
+43,STATION CONVENIENCE                     ,81 NORTHERN BLVD                        ,SHIRLEY             
+44,LA PLACITA                              ,567 SURRY CIRCLE                        ,SHIRLEY             
+45,PURE FITNESS                            ,134 MASTIC ROAD                         ,WEST SHIRLEY        
+46,7-11 #15966                             ,MILL ROAD & STATION ROAD                ,WESTHAMPTON         
+47,A & P WALDBAUMS D.I.P. STORE # 232      ,70 SUNSET AVENUE                        ,WESTHAMPTON         
+48,MILL DELI                               ,286 MILL ROAD                           ,YAPHANK             
+49,HESS #32585                             ,80A HORSEBLOCK ROAD                     ,YAPHANK             
+50,SHELL - YAPHANK                         ,483 SILLS ROAD / ROUTE 101              ,YAPHANK             
+51,KING KULLEN #20                         ,120 VETERANS MEMORIAL HIGHWAY           ,COMMACK             
+52,SHELL - COMMACK                         ,700 COMMACK ROAD                        ,COMMACK             
+53,HESS #32328                             ,5087 EAST JERICHO TPKE                  ,COMMACK             
+54,A & P WALDBAUMS D.I.P. STORE # 215      ,40 VANDERBILT PKWY                      ,COMMACK             
+55,A & P WALDBAUMS D.I.P. STORE # 203      ,84 JERICHO TURNPIKE                     ,COMMACK             
+56,COMMACK KOSHER                          ,132 JERICHO TURNPIKE                    ,COMMACK             
+57,PRINCESS DELI                           ,1151 JERICHO TPKE.                      ,COMMACK             
+58,COMMACK TRUCK STOP                      ,100 CROOKED HILL RD.                    ,COMMACK             
+59,GASOLINE HEAVEN (QUICK STOP)            ,2084 JERICHO TURNPIKE                   ,COMMACK             
+60,SUPREME BLENDS                          ,6120 JERICHO TURNPIKE                   ,COMMACK             
+61,SHELL GAS                               ,170 VETS HIGHWAY                        ,COMMACK             
+62,SHELL                                   ,444 COMMACK                             ,COMMACK             
+63,GETTY GAS                               ,15 VETS HIGHWAY                         ,COMMACK             
+64,BAGEL CHALET                            ,36 VETS HIGHWAY                         ,COMMACK             
+65,COMMACK DELI & GRILL                    ,670 COMMACK RD                          ,COMMACK             
+66,BAGEL BASKET CAFE                       ,639 COMMACK ROAD                        ,COMMACK             
+67,BAGEL BOSS                              ,10 MAYFAIR SHOPPING CENTER              ,COMMACK             
+68,DELI BEER & SMOKE                       ,225 COMMACK ROAD                        ,COMMACK             
+69,DELI BUTTON                             ,12 LAUREL RD                            ,E NORTHPORT         
+70,JOHNNYS PARADISE PIZZA                  ,192 LAUREL RD                           ,E NORTHPORT         
+71,PRODUCE WAREHOUSE-E.NORTHPOR            ,560 LARKFIELD ROAD                      ,EAST NORTHPORT      
+72,NEW YORK SOUTHERN                       ,309 LARKFIELD RD.                       ,EAST NORTHPORT      
+73,VENICE BEACH HEALTH CLUB                ,1 LARKFIELD ROAD                        ,EAST NORTHPORT      
+74,BP GAS                                  ,245 LARKFIELD ROAD                      ,EAST NORTHPORT      
+75,BIG BEAR GOURMET                        ,36 LAUREL ROAD                          ,EAST NORTHPORT      
+76,PRIME TIME CAFE                         ,168 LAUREL ROAD                         ,EAST NORTHPORT      
+77,PERSONAL TOUCH CAR WASH                 ,1977 JERICHO TURNPIKE                   ,EAST NORTHPORT      
+78,HESS #32565                             ,152 EAST NORTHPORT ROAD                 ,KINGS PARK          
+79,HESS #32570                             ,38 INDIAN HEAD ROAD                     ,KINGS PARK          
+80,7-11 #11192                             ,655 ROUTE 25A                           ,KINGS PARK          
+81,SPORTIME - KINGS PARK                   ,275 OLD INDIAN HEAD ROAD                ,KINGS PARK          
+82,SUPERIOR ICE RINK                       ,270 INDIAN HEAD ROAD                    ,KINGS PARK          
+83,EDLEWIES DELI                           ,86 MAIN ST.                             ,KINGS PARK          
+84,AMOCO - KINGS PARK                      ,94 PULASKI ROAD                         ,KINGS PARK          
+85,KINGS PARK MINI MART                    ,7 MAIN STREET                           ,KINGS PARK          
+86,PLUM CRAZY GOURMET KITCHEN              ,95 PULASKI ROAD                         ,KINGS PARK          
+87,KING KULLEN #57                         ,472 LAKE AVENUE                         ,SAINT JAMES         
+88,ST.PHILLIP & JAMES SCHOOL               ,359 CLINTON AVENUE                      ,SAINT JAMES         
+89,7-11 #32955                             ,427 NORTH COUNTRY ROAD                  ,SAINT JAMES         
+90,BLT CAFE                                ,521 LAKE AVENUE                         ,SAINT JAMES         
+91,ENERGY FITNESS                          ,555 NORTH COUNTRY ROAD                  ,SAINT JAMES         
+92,FOOD & SMOKE SHOP                       ,348 LAKE AVENUE                         ,SAINT JAMES         
+93,"FEEL GOODS FOR KIDS, LLC                ",430-8 NORTH COUNTRY ROAD                ,SAINT JAMES         
+94,NORTH COUNTRY GAS                       ,545 ROUTE 25A                           ,SAINT JAMES         
+95,TIC TOC CAFE                            ,410 LAKE AVE                            ,SAINT JAMES         
+96,7-11 #29942                             ,602 SMITHTOWN BY-PASS                   ,SMITHTOWN           
+97,7-11 #33189                             ,221 WEST MAIN STREET                    ,SMITHTOWN           
+98,UNCLE GIUSEPPE'S MARKET PLACE           ,95 RT 111                               ,SMITHTOWN           
+99,INTERNATIONAL ACADEMY                   ,905 WEST JERICHO TURNPIKE               ,SMITHTOWN           
+100,ST.PATRICK CHURCH                       ,280 EAST MAIN STREET                    ,SMITHTOWN           
+101,AROUND THE CLOCK                        ,762 SMITHTOWN BY PASS                   ,SMITHTOWN           
+102,GOLD'S GYM                              ,100 LANDING AVENUE                      ,SMITHTOWN           
+103,PINES DELI                              ,385-3 VETS HIGHWAY                      ,SMITHTOWN           
+104,WAVE EXPRESS GAS                        ,278 WEST MAIN STREET                    ,SMITHTOWN           
+105,SMITHTOWN BAGELS                        ,1 B MILLER PLACE                        ,SMITHTOWN           
+106,CUSTOM DELI                             ,30 TERRY RD                             ,SMITHTOWN           
+107,MAIN STREET MEATS                       ,36 EAST MAIN STREET                     ,SMITHTOWN           
+108,QUAGLITATA                              ,975 WEST JERICHO TURNPIKE               ,SMITHTOWN           
+109,SERTINOS CAFE                           ,133 W MAIN ST                           ,SMITHTOWN           
+110,FRANK N BURGER                          ,739 MIDDLE COUNTRY RD                   ,ST JAMES            
+111,SMART MARKET EXPRESS                    ,731 MIDDLE COUNTRY RD                   ,ST JAMES            
+112,MOBIL                                   ,117 FRANKLIN AVE                        ,GARDEN CITY         
+113,CRACKERS RESTAURANT                     ,585 STEWART AVENUE                      ,GARDEN CITY         
+114,POWERHOUSE GYM                          ,460 UNION AVENUE                        ,WESTBURY            
+115,CULINART - REGION CARE NURSING          ,972 BRUSH HOLLOW ROAD                   ,WESTBURY            
+116,HESS #32586                             ,800 JERICHO TPKE                        ,WESTBURY            
+117,HESS #32397                             ,880 OLD COUNTRY ROAD                    ,WESTBURY            
+118,7-11 #24538                             ,760 OLD COUNTRY ROAD                    ,WESTBURY            
+119,PIZZA DELI                              ,993 PROSPECT                            ,WESTBURY            
+120,EXPRESS DELI                            ,480 UNION AVE.                          ,WESTBURY            
+121,FOOD MARKET                             ,648 UNION AVE.                          ,WESTBURY            
+122,GULF                                    ,6049 BRUSH HOLLOW RD.                   ,WESTBURY            
+123,WESTBURY BEVERAGE                       ,745 OLD COUNTRY RD.                     ,WESTBURY            
+124,WESTBURY VILLAGE DELI (ON A ROLL)       ,242 POST AVENUE                         ,WESTBURY            
+125,MAIN STREET DELI                        ,559 MAIN STREET                         ,WESTBURY            
+126,URBAN AVE AUTO WASH                     ,14 URBAN AVENUE                         ,WESTBURY            
+127,POST AVE STORE                          ,129 POST AVENUE                         ,WESTBURY            
+128,LATIN AMERICAN DELI                     ,626 UNION AVENUE                        ,WESTBURY            
+129,COUNTRY PARK SANDWICH SHOPPE            ,1618 OLD COUNTRY ROAD                   ,WESTBURY            
+130,OLD COUNTRY RD GROCERY & DELI           ,789 OLD COUNTRY ROAD                    ,WESTBURY            
+131,NEWSTAND WESTBURY                       ,280 GRAD BLVD                           ,WESTBURY            
+132,CAPERS CATERING                         ,594 OLD COUNTRY ROAD                    ,WESTBURY            
+133,BRUSH HOLLOW DELI & PIZZA               ,990 BRUSH HOLLOW ROAD                   ,WESTBURY            
+134,WESTBURY DELI & GROCERY                 ,994 PROSPECT AVENUE                     ,WESTBURY            
+135,PETE'S CONVENIENCE                      ,820 CARMEN AVE                          ,WESTBURY            
+136,CITGO                                   ,495 UNION AVE                           ,WESTBURY            
+137,STATE STREET DELLI                      ,40 STATE STREET                         ,WESTBURY            
+138,LUNCHBOX PARKWAY PLAZA                  ,1400 OLD COUNTRY ROAD                   ,WESTBURY            
+139,CREATIVE GOURMET                        ,917 MERRICK AVE                         ,WESTBURY            
+140,VALERO GAS                              ,549 OLD COUNTRY ROAD                    ,WESTBURY            
+141,SEAQUA DELICATESSEN                    ,430-10 NORTH COUNTRY ROAD              ,ST. JAMES          
+142,PARKWAY DELI                           ,1045 WILLIS AVENUE                     ,ALBERTSON          
+143,DAVINCI MARKET                         ,960 WILLIS AVE                         ,ALBERTSON          
+144,7-11 #34228                            ,250 JERICHO TPKE                       ,BELLROSE           
+145,FLORAL PARK GAS                        ,286 JERICHO TURNPIKE                   ,FLORAL PARK        
+146,GARDEN GOURMET DELI                    ,839 STEWART AVENUE                     ,GARDEN CITY        
+147,LONNY'S GOURMET GOODIES                ,263 NASSAU ROAD                        ,GARDEN CITY        
+148,GULF - GARDEN CITY                     ,2399 JERICHO TURNPKE                   ,GARDEN CITY PARK   
+149,NEW YORK HEALTH & RACQUET CLUB         ,38 GREAT NECK ROAD                     ,GREAT NECK         
+150,MIDDLE NECK CHEMIST                    ,531 MIDDLE NECK ROAD                   ,GREAT NECK         
+151,DELI ON THE GREEN                      ,647 MIDDLE NECK ROAD                   ,GREAT NECK         
+152,LIME LITE                              ,170 MIDDLE NECK ROAD                   ,GREAT NECK         
+153,BP CONNECT (AMOCO) - GREAT NECK        ,133 CUTTER MILL ROAD                   ,GREAT NECK         
+154,KINGS POINT DELI                       ,81 STEAMBOAT ROAD                      ,GREAT NECK         
+155,NORTH SHORE TOBACCO                    ,131 NORTHERN BLVD                      ,GREAT NECK         
+156,FAMILY FRUIT FARM                      ,15 GREAT NECK ROAD                     ,GREAT NECK         
+157,YOGURTERIA                             ,14 GREAT NECK ROAD                     ,GREAT NECK         
+158,AMOCO                                  ,4 NORTHERN BLVD                        ,GREAT NECK         
+159,NEWSTAND (GREAT NECK RR STATION)       ,37 N STATION PLAZA                     ,GREAT NECK         
+160,SHOP DELIGHT                           ,4 WELWYN ROAD                          ,GREAT NECK         
+161,HOT BAGELS DELI                        ,6A BOND STREET                         ,GREAT NECK         
+162,SHELL                                  ,605 NORTHERN BLVD                      ,GREAT NECK         
+163,GULF GAS                               ,566 NORTHERN BLVD                      ,GREAT NECK         
+164,BP AMOCO                               ,658 NORTHERN BLVD                      ,GREAT NECK         
+165,CAFE 600                               ,600 NORTHERN BLVD                      ,GREAT NECK         
+166,BAGEL TOWN                             ,45 NORTHERN BLVE                       ,GREAT NECK         
+167,JULIE BELLES                           ,98 NORTHERN BLVD                       ,GREAT NECK         
+168,1010 CAFE                              ,1010 NORTHERN BLVD                     ,GREAT NECK         
+169,ENTRE                                  ,10 GRACE AVENUE                        ,GREAT NECK         
+170,"SODEXHO - CANON,USA                    ",1 USA PLAZA ROAD                       ,LAKE SUCCESS       
+171,LAKEVILLE DELI                         ,2028 LAKEVILLE RD.                     ,LAKE SUCCESS       
+172,GARDEN CAFE                            ,2001 MARCUS AVE                        ,LAKE SUCCESS       
+173,RAINDEW PLANDOME                       ,465 PLANDOME ROAD                      ,MANHASSET          
+174,MESSINA MARKET EXPRESS                 ,1482 NORTHERN BLVD                     ,MANHASSET          
+175,A&F MARKET                             ,393 PLANDOME RD.                       ,MANHASSET          
+176,ORLANDO'S                              ,369 PLANDOME ROAD                      ,MANHASSET          
+177,MANHASSET TRAIN STATION                ,295 PLANDOME ROAD                      ,MANHASSET          
+178,MOBIL                                  ,1021 NORTHERN BLVD                     ,MANHASSET          
+179,MANHASSET CAR WASH                     ,201 E SHORE ROAD                       ,MANHASSET          
+180,7-11 #32770                            ,207 JERICHO TURNPIKE                   ,MINEOLA            
+181,EXXON - MINEOLA                        ,549 JERICHO TURNPIKE                   ,MINEOLA            
+182,BENCHMARK CAFE                         ,170 OLD COUNTRY ROAD                   ,MINEOLA            
+183,STOP 24 CONVENIENCE                    ,130 E JERICHO TPKE                     ,MINEOLA            
+184,LUCKY MINI MARKET INC.                 ,209 WILLIS AVENUE                      ,MINEOLA            
+185,CONVENIENCE CORNER                     ,204 STATION PLAZA NORTH                ,MINEOLA            
+186,JDMC STATIONARY                        ,200 OLD COUNTRY ROAD                   ,MINEOLA            
+187,MINEOLA NEWSTAND                       ,STATION PLAZA TRAIN                    ,MINEOLA            
+188,GULF - NEW HYDE PARK                   ,2201 NEW HYDE PARK RD.                 ,NEW HYDE PARK      
+189,THRIFTY BEVERAGE                       ,2280 JERICHO TPKE.                     ,NEW HYDE PARK      
+190,DENTON AVENUE DRIVING RANGE            ,377 DENTON AVENUE                      ,NEW HYDE PARK      
+191,MIKE'S CONVIENCE                       ,804 JERICHO TURNPIKE                   ,NEW HYDE PARK      
+192,BP GAS                                 ,2298 JERICHO TPKE                      ,NEW HYDE PARK      
+193,1 PARK CAFE                            ,1111 MARCUS AVENUE                     ,NEW HYDE PARK      
+194,LA FITNESS HEALTH CLUB                 ,1111 MARCUS AVENUE                     ,NEW HYDE PARK      
+195,COASTAL GAS                            ,720 HILLSIDE AVENUE                    ,NEW HYDE PARK      
+196,BP AMOCO                               ,1301 JERICHO TPKE                      ,NEW HYDE PARK      
+197,MEDITERRANEAN MARKETS                  ,293 MAIN STREET                        ,PORT WASHINGTON    
+198,HINCKS DELI                            ,666 PORT WASHINGTON BLVD.              ,PORT WASHINGTON    
+199,PORT CONVENIENCE                       ,705 PORT WASHINGTON BLVD.              ,PORT WASHINGTON    
+200,SALEM DELI                             ,362 PORT WASHINGTON BLVD.              ,PORT WASHINGTON    
+201,CATILLO DELI                           ,24 AVENUE A                            ,PORT WASHINGTON    
+202,NSK SON'S                              ,99 SHORE ROAD                          ,PORT WASHINGTON    
+203,SWEET ORANGE                           ,4B MANORHAVEN BLVD                     ,PORT WASHINGTON    
+204,SUPREME HOT FOODS                      ,148 MAIN STREET                        ,PORT WASHINGTON    
+205,PW NEWS STATION                        ,66 MAIN STREET                         ,PORT WASHINGTON    
+206,EMILY DELI                             ,45 MAIN STREET                         ,PORT WASHINGTON    
+207,PRECIOUS GROCERY                       ,710 PORT WASHINGTON BLVD               ,PORT WASHINGTON    
+208,7-11 #17750                            ,3 RAILROAD AVENUE                      ,ROSLYN             
+209,LUKOIL                                 ,1 POWERHOUSE ROAD                      ,ROSLYN             
+210,HOLIDAY FARMS                          ,374 ROSLYN ROAD                        ,ROSLYN HEIGHTS     
+211,MOBIL - ROSLYN HEIGHTS                 ,225 WILLIS AVE.                        ,ROSLYN HEIGHTS     
+212,SHELL MART - ROSLYN HEIGHTS            ,220 MINEOLA AVENUE                     ,ROSLYN HEIGHTS     
+213,GULF GAS                               ,300 ROSLYN RD                          ,ROSLYN HEIGHTS     
+214,DELICACIES OF ROSLYN                   ,1354 OLD NORTHERN BLVD                 ,ROSLYN VILLAGE     
+215,GULF GAS - ROSLYN HEIGHTS              ,119 POWERHOUSE ROAD                    ,ROSYLN HEIGHTS     
+216,MANOR FRUIT SHACK                      ,156 COVERT AVENUE                      ,STEWART MANOR      
+217,MY THREE SONS BAGEL CAFE               ,88 COVERT AVE                          ,STEWART MANOR      
+218,HANAHREUM                              ,400 HILLSIDE AVENUE                    ,WILLISTON PARK     
+219,CITGO                                  ,137 HILLSIDE AVENUE                    ,WILLISTON PARK     
+220,RUDY & HARRY'S                         ,60 HILLSIDE AVENUE                     ,WILLISTON PARK     
+221,MY THREE SONS BAGEL CAFE               ,597 WILLIS AVENUE                      ,WILLISTON PARK     
+222,BAYVILLE MARKET                        ,262 BAYVILLE AVENUE                    ,BAYVILLE           
+223,GULF                                   ,5050 NORTHERN BLVD                     ,BROOKVILLE         
+224,MOBIL                                  ,449 GLEN COVE ROAD                     ,EAST HILLS         
+225,CHRISTINA'S EPICURE                    ,1015 OYSTER BAY ROAD                   ,EAST NORWICH       
+226,KING KULLEN #52                        ,77 FOREST AVENUE                       ,GLEN COVE          
+227,GLEN COVE GOURMET BAGEL & DELI         ,89 FOREST AVENUE                       ,GLEN COVE          
+228,PLANET FITNESS OF GLEN COVE            ,44 SCHOOL STREET                       ,GLEN COVE          
+229,BACETTO FOODS                          ,43 CEDAR SWAMP ROAD                    ,GLEN COVE          
+230,EARLY HIT                              ,95 GLEN HEAD ROAD                      ,GLEN HEAD          
+231,A & P WALDBAUMS D.I.P. STORE # 289     ,336 NORTH BROADWAY                     ,JERICHO            
+232,JERICHO DELI & BAGEL                   ,523 NORTH BROADWAY                     ,JERICHO            
+233,NEW YORK BARBELL                       ,37 17TH STREET                         ,JERICHO            
+234,FRIENDS ACADEMY                        ,DUCK POND ROAD                         ,LOCUST VALLEY      
+235,ROBERT'S AMERICAN GOURMET              ,100 ROSLYN AVENUE                      ,SEA CLIFF          
+236,GRASSROOTS BAKE SHOP                   ,101 THE BOULVERARD                     ,SEA CLIFF          
+237,GULF - LYNBROOK                        ,710 E. MERRICK RD.                     ,LYNBROOK           
+238,LYNBROOK STOP & SHOP                   ,543 MERRICK ROAD                       ,LYNBROOK           
+239,7-11 #11148                            ,3125 LAWSON BOULEVARD                  ,OCEANSIDE          
+240,WILD BY NATURE #204                    ,2709 LONG BEACH ROAD                   ,OCEANSIDE          
+241,OCEANSIDE 24 HR BAGEL                  ,3454 LONG BEACH ROAD                   ,OCEANSIDE          
+242,KING KULLEN #17                        ,127 SUNRISE HIGHWAY                    ,ROCKVILLE CENTRE   
+243,GULF -ROCKVILLE CENTRE                 ,2 SUNRISE HIGHWAY                      ,ROCKVILLE CENTRE   
+244,ANTON'S MOBIL                          ,345 SUNRISE HIGHWAY                    ,ROCKVILLE CENTRE   
+245,ASSOCIATED SUPERMARKETS                ,160 N. LONG BEACH ROAD                 ,ROCKVILLE CENTRE   
+246,SUBURBAN GOURMET                       ,19 CLINTON AVENUE                      ,ROCKVILLE CENTRE   
+247,KING KULLEN #56                        ,231 WEST MERRICK ROAD                  ,VALLEY STREAM      
+248,7-11 #34549                            ,100 SUNRISE HWY                        ,VALLEY STREAM      
+249,ATLANTIC GAS                           ,850 CORONA AVENUE                      ,VALLEY STREAM      
+250,SUNOCO                                 ,1200 ROCKAWAY AVENUE                   ,VALLEY STREAM      
+251,A BETTER BAGEL                         ,55 EAST MONTAUK HIGHWAY                ,AMITYVILLE         
+252,KING KULLEN #55                        ,49-38 MERRICK ROAD                     ,MASSAPEQUA         
+253,7-11 #11181                            ,4350 MERRICK ROAD                      ,MASSAPEQUA         
+254,A & P - PATHMARK D.I.P. #652           ,941 CARMANS ROAD                       ,MASSAPEQUA         
+255,A & P WALDBAUMS D.I.P. STORE # 465     ,705 HICKSVILLE ROAD                    ,MASSAPEQUA         
+256,SEAQUA DELI                            ,4250 JERUSALEM AVENUE                  ,MASSAPEQUA         
+257,PARK BAGEL                             ,1043A PARK BLVD                        ,MASSAPEQUA         
+258,VILLAGE FARMS IGA                      ,1038 PARK BLVD                         ,MASSAPEQUA PARK    
+259,BAGEL CAFE DELI & BAKERY               ,4942 MERRICK ROAD                      ,MASSAPEQUA PARK    
+260,CALVERT MANOR BAGELS                   ,1242 HICKSVILLE ROAD                   ,SEAFORD            
+261,7-11 #11151                            ,3750 JERUSALEM AVENUE                  ,SEAFORD            
+262,KING KULLEN #07                        ,1340 WANTAGH AVENUE                    ,WANTAGH            
+263,PENALTY BOX CAFE                       ,3728 PARK AVENUE                       ,WANTAGH            
+264,WANTAGH BAGELS                         ,3056 MERRICK ROAD                      ,WANTAGH            
+265,QUICK PICK                             ,2264 WANTAGH AVE                       ,WANTAGH            
+266,GOURMET GLATT EMPORIUM                 ,137 SPRUCE STREET                      ,CEDARHURST         
+267,BAGELRY                                ,507 CENTRAL AVENUE                     ,CEDARHURST         
+268,KING KULLEN #14                        ,1765 PENINSULA BLVD                    ,HEWLETT            
+269,LANDMARK DELI                          ,148 DOUGHTY BLVD                       ,INWOOD             
+270,7-11 #33261                            ,3993 AUSTIN BOULEVARD                  ,ISLAND PARK        
+271,SAL'S DELI                             ,8 CALIFORNIA PLACE                     ,ISLAND PARK        
+272,ISLAND PARK DELI                       ,166 LONG BEACH ROAD                    ,ISLAND PARK        
+273,BRACH'S & BRACH'S SUPERMARKET          ,11 LAWRENCE LANE                       ,LAWRENCE           
+274,BURNSIDE DELI                          ,267 BURNSIDE AVE                       ,LAWRENCE           
+275,A & P WALDBAUMS D.I.P. STORE # 658     ,85 EAST PARK AVENUE                    ,LONG BEACH         
+276,SONG MINI MART                         ,800 W. BEECH AVENUE                    ,LONG BEACH         
+277,BAGEL CAFE                             ,757-59 E PARK AVENUE                   ,LONG BEACH         
+278,C & C DELI CORP                        ,801 WEST BEECH STREET                  ,LONG BEACH         
+279,CITGO - POINT LOOKOUT                  ,12 LIDO BLVD                           ,POINT LOOKOUT      
+280,WOODMERE GROCERY                       ,1064 BROADWAY                          ,WOODMERE           
+281,VITA VENDING     ,311 POST AVE,WESTBURY
+282,A & P - PATHMARK D.I.P. #623           ,1764 GRAND AVENUE                      ,BALDWIN            
+283,A & P WALDBAUMS D.I.P. STORE # 452     ,905 ATLANTIC AVENUE                    ,BALDWIN            
+284,DELI BOY MARKET                        ,906 ATLANTIC AVENUE                    ,BALDWIN            
+285,COLLURA'S DELI                         ,753 MERRICK RD                         ,BALDWIN            
+286,KING KULLEN #50                        ,2730 SUNRISE HIGHWAY                   ,BELLMORE           
+287,7-11 #34086                            ,2950 MERRICK ROAD                      ,BELLMORE           
+288,VALERO                                 ,207 SUNRISE HWY                        ,BELLMORE           
+289,JOHN MOORES                            ,2687 MERRICK ROAD                      ,BELLMORE           
+290,VICTORIA'S BAKERY                      ,86 W. MERRICK ROAD                     ,FREEPORT           
+291,NEW Z DELI & GRILL                     ,42 GUY LOMBARDO AVE                    ,FREEPORT           
+292,A & P WALDBAUMS D.I.P. STORE # 279     ,1686 MERRICK ROAD                      ,MERRICK            
+293,GULF                                   ,2030 SUNRISE HWY                       ,MERRICK            
+294,BAGEL BOSS                             ,2101 MERRICK ROAD                      ,MERRICK            
+295,HESS #32395                            ,2426 JERUSALEM AVENUE                  ,NORTH BELLMORE     
+296,QUICK STOP                             ,2741 JERUSALEM AVENUE                  ,NORTH BELLMORE     
+297,MY HERO                                ,1005 JERUSALEM AVENUE                  ,NORTH MERRICK      
+298,A & P - PATHMARK D.I.P. #664           ,683 OLD COUNTRY RD                     ,DIX HILLS          
+299,A & P WALDBAUMS D.I.P. STORE # 217     ,777 PULASKI ROAD                       ,GREENLAWN          
+300,KING KULLEN #40                        ,50 NORTH NEW YORK AVENUE               ,HALESITE           
+301,WILD BY NATURE #202                    ,369 MAIN STREET                        ,HUNTINGTON         
+302,SOUTHDOWN MARKET PLACE                 ,205 WALL STREET                        ,HUNTINGTON         
+303,7-11 #32757                            ,128 EAST MAIN STREET                   ,HUNTINGTON         
+304,A & P WALDBAUMS D.I.P. STORE # 236     ,60 WALL STREET                         ,HUNTINGTON         
+305,KING KULLEN #19                        ,275 JERICHO TURNPIKE                   ,HUNTINGTON STATION 
+306,SUPERSTAR BEVERAGE                     ,516 EAST JERICHO TURNPIKE              ,HUNTINGTON STATION 
+307,COMPREVE MINI MARKET                   ,1415 NEW YORK AVENUE                   ,HUNTINGTON STATION 
+308,HUNTINGTON STATION FOOD PLAZA          ,2035 NEW YORK AVENUE                   ,HUNTINGTON STATION 
+309,A & P WALDBAUMS D.I.P. STORE # 298     ,890 WALT WHITMAN ROAD                  ,MELVILLE           
+310,SUBURBAN EATS                          ,610 ROUTE 110                          ,MELVILLE           
+311,KING KULLEN #05                        ,395G FORT SALONGA ROAD                 ,NORTHPORT          
+312,NORTHSIDE GOURMET CATERERS             ,693 FORT SALONGA ROAD                  ,NORTHPORT          
+313,HESS #32262                             ,2265 ROUTE 110                          ,EAST FARMINGDALE    
+314,7-11 #32679                             ,525 NEWBRIDGE ROAD                      ,EAST MEADOW         
+315,A & P WALDBAUMS D.I.P. STORE # 434      ,1530 FRONT STREET                       ,EAST MEADOW         
+316,ZORNS                                   ,1439 HEMPSTEAD TURNPIKE                 ,EAST MEADOW         
+317,NINAS DELI                              ,450 NEWBRIDGE RD                        ,EAST MEADOW         
+318,BARNES & NOBLE SUNY FARMINGDALE UNIVERSI,ROUTE 110 / MELVILLE ROAD               ,FARMINGDALE         
+319,SAM'S  WICHES                           ,10 SMITH STREET                         ,FARMINGDALE         
+320,TOTAL HEALTH                            ,120 RT 110                              ,FARMINGDALE         
+321,J & W SOUTHWIND                         ,1029 RT 109                             ,FARMINGDALE         
+322,RETRO FITNESS OF FARMINDALE             ,1039 ROUTE 109                          ,FARMINGDALE         
+323,BAGEL BOYS                              ,194 MERRITS RD                          ,FARMINGDALE         
+324,PERFORMANCE FACTORY BASEBALL            ,931A CONKLIN STREET                     ,FARMINGDALE         
+325,KING KULLEN #11                         ,3266 HEMPSTEAD TURNPIKE                 ,LEVITTOWN           
+326,GULF - LEVITTOWN                        ,892 WANTAGH AVNUE                       ,LEVITTOWN           
+327,LEVITTOWN MARKET                        ,3109 N. JERUSALEM RD                    ,LEVITTOWN           
+328,KING KULLEN #46                        ,598 STEWART AVENUE                     ,BETHPAGE           
+329,A & P - PATHMARK D.I.P. #653           ,3901 HEMPSTEAD TPKE                    ,BETHPAGE           
+330,KING KULLEN #41                        ,275 SOUTH BROADWAY                     ,HICKSVILLE         
+331,7-11 #32380                            ,413 JERUSALEM AVENUE                   ,HICKSVILLE         
+332,7-11 #34138                            ,11 EAST OLD COUNTRY ROAD               ,HICKSVILLE         
+333,BECAUSE OF YOU INC.  AT SLEEPYS        ,1000 SOUTH OYSTER BAY RD               ,HICKSVILLE         
+334,NORTH  SHORE U HOSPITAL PLAINVIEW      ,888 OLD COUNTRY ROAD                   ,PLAINVIEW          
+335,7-11 #33268                            ,160 SUNNYSIDE BLVD                     ,PLAINVIEW          
+336,FAMILY BAGEL OF PLAINVIEW              ,140 MANETTO HILL RD                    ,PLAINVIEW          
+337,CITGO GAS                              ,797 OLD COUNTRY ROAD                   ,PLAINVIEW          
+338,KING KULLEN #32                        ,271 JERICHO TURNPIKE                   ,SYOSSET            
+339,NEW CENTER COLLEGE                     ,6801 JERICHO TURNPIKE                  ,SYOSSET            
+340,7-11 #34200                            ,573 JERICHO TURNPIKE                   ,SYOSSET            
+341,WOODBURY COUNTRY DELI                  ,153 WOODBURY RD.                       ,WOODBURY           
+342,COTTAGE PHARMACY                       ,8285 WOODBURY ROAD                     ,WOODBURY           
+343,7-11 #39223                            ,260 VANDERBILT MOTOR PARKWAY           ,BRENTWOOD          
+344,CENTEREACH DELI                        ,1769 MIDDLE COUNTRY RD.                ,CENTEREACH         
+345,HEALTH HUTT INC                        ,"115 MARK TREE RD, SUITE 6              ",CENTERREACH        
+346,COASTAL SPORTS                         ,114 PARKWAY DRIVE SOUTH                ,HAUPPAUGE          
+347,BREAKTIME                              ,30 OSER AVENUE                         ,HAUPPAUGE          
+348,GULF - HAUPPAGUE                       ,1395 VETERANS MEMORIAL HIGHWAY         ,ISLANDIA           
+349,WHOLE FOODS -LAKE GROVE                ,140 NEW MORICHES ROAD                  ,LAKE GROVE         
+350,7-11 #34081                            ,2820 MIDDLE COUNTRY ROAD               ,LAKE GROVE         
+351,CORNER NEWS                            ,SMITHAVEN MALL                         ,LAKE GROVE         
+352,KING KULLEN #10                        ,153 RONKONKOMA AVENUE                  ,LAKE RONKONKOMA    
+353,"MMKE VENDING, INC.                     ",10 MILDRED COURT                       ,NESCONSET          
+354,HESS #32566                            ,3415 VETERANS HIGHWAY                  ,RONKONKOMA         
+355,A & P WALDBAUMS D.I.P. STORE # 630     ,601 PORTION ROAD                       ,RONKONKOMA         
+356,LESSINGS - SIMON'S CENTER              ,100 NICHOLS ROAD                       ,STONY BROOK        
+357,7-11 #23358                            ,ROUTE 25A NEAR QUAKER PATH             ,STONY BROOK        
+358,COMPASS - LACKMANN-S.A.C.,100 NICOLLS ROAD     ,STONY BROOK        
+359,HESS #32568                            ,640 MONTAUK HIGHWAY                    ,BAYPORT            
+360,KING KULLEN #59                        ,29 MONTAUK HIGHWAY                     ,BLUE POINT         
+361,7-11 #23367                            ,145 HOSPITAL ROAD                      ,E. PATCHOGUE       
+362,A & P - PATHMARK D.I.P. #641           ,5801 SUNRISE HIGHWAY                   ,HOLBROOK           
+363,A & P WALDBAUMS D.I.P. STORE # 286     ,328 UNION AVENUE                       ,HOLBROOK           
+364,FLIK - MOTOROLA                        ,ONE MOTOROLA PLAZA                     ,HOLTSVILLE         
+365,FOUR-U-CONVENIENCE                     ,3166 HORSEBLOCK ROAD                   ,MEDFORD            
+366,BEST YET                               ,871 MONTAUK HWY                        ,OAKDALE            
+367,LESSINGS - SAINT JOSEPHS COLLEGE       ,155 WEST ROE BLVD                      ,PATCHOGUE          
+368,A & P - PATHMARK D.I.P. #614           ,399 ROUTE 112                          ,PATCHOGUE          
+369,A & P WALDBAUMS D.I.P. STORE # 241     ,440 SUNRISE HIGHWAY                    ,PATCHOGUE          
+370,RIVER DELI                             ,140 RIVER AVENUE                       ,PATCHOGUE          
+371,SAYVILLE BEER (THRIFTY)                ,100 RAILROAD AVENUE                    ,SAYVILLE           
+372,HERO HAVEN                             ,478-A NEIGHBORHOOD ROAD                ,SHIRLEY            
+373,ELLAS MARKET                           ,14 WASHINGTON AVENUE                   ,WEST SAYVILLE      
+374,KING KULLEN #26                        ,2044 MONTAUK HIGHWAY                   ,BRIDGEHAMPTON      
+375,GOLDEN PEAR CAFE-BRIDGEHAMPTON         ,2426 MONTAUK HIGHWAY                   ,BRIDGEHAMPTON      
+376,EAST HAMPTON INDOOR TENNIS CLUB        ,175 DANIELS HOLE ROAD                  ,EAST HAMPTON       
+377,VILLA ITALIAN SPECIALTIES              ,7 RAILROAD AVENUE                      ,EAST HAMPTON       
+378,A & P WALDBAUMS D.I.P. STORE # 257     ,67 NEWTOWN LANE                        ,EASTHAMPTON        
+379,KING KULLEN #47                        ,52 EAST MONTAUK HIGHWAY &              ,HAMPTON BAYS       
+380,7-11 #27187                            ,53 W. MONTAUK HIGHWAY                  ,HAMPTON BAYS       
+381,LIGGETS DRUGS                          ,39-4 WEST MONTAUK HIGHWAY              ,HAMPTON BAYS       
+382,7-11 #34532                            ,653 MONTAUK HIGHWAY                    ,MONTAUK            
+383,COUNTRY DELI                           ,918 NOYACK ROAD                        ,NOYACK             
+384,HESS #32596                            ,38 MONTAUK HIGHWAY                     ,QUOGUE             
+385,GOLDEN PEAR CAFE - SAG HARBOR          ,111 MAIN STREET                        ,SAG HARBOR         
+386,SOUTHAMPTON CAR WASH                   ,404 COUNTY ROAD 39A                    ,SOUTHAMPTON        
+387,EVOLUTION FITNESS                      ,33 HILL STREET                         ,SOUTHAMPTON        
+388,HESS #32480                            ,346 MONTAUK HIGHWAY                    ,WAINSCOTT          
+389,HESS #32479                            ,1138 MONTAUK HIGHWAY                   ,WATERMILL          
+390,HESS                                   ,1 EDWARDS AVE.                         ,CALVERTON          
+391,KING KULLEN #03                        ,315-25 MAIN ROAD                       ,CUTCHOGUE          
+392,GARDEN DELI                            ,790 ROUTE 24                           ,FLANDERS           
+393,SHAMROCK GAS                           ,301 FLANDERS RD                        ,FLANDERS RD        
+394,PATRIOT GAS                            ,1100 MAIN STREET                       ,GREENPORT          
+395,AMERICAN GAS STATION                   ,1427 ROUTE 25                          ,JAMESPORT          
+396,HANDY PANTRY - MATTITUCK               ,12250 ROUTE 25                         ,MATTITUCK          
+397,7-11 #34216                            ,9945 MAIN STREET                       ,MATTITUCK          
+398,KING KULLEN #37                        ,1235 MIDDLE COUNTRY ROAD               ,MIDDLE ISLAND      
+399,BAGELS 101                             ,852 MIDDLE COUNTRY ROAD                ,MIDDLE ISLAND      
+400,AMOCO GAS - PECONIC                    ,32400 ROUTE 48                         ,PECONIC            
+401,7-11 #16869                            ,1670 ROUTE 25                          ,RIDGE              
+402,KING KULLEN #42                        ,795 OLD COUNTRY ROAD                   ,RIVERHEAD          
+403,7-11 #22644                            ,1050 OLD COUNTRY ROAD                  ,RIVERHEAD          
+404,GULF GAS                               ,1050 OSBORN AVENUE                     ,RIVERHEAD          
+405,PLANET FITNESS                         ,116 KROEMOR AVENUE                     ,RIVERHEAD          
+406,CAMPUS HERO                            ,660 ROUTE 25A                          ,ROCKY POINT        
+407,PLANET FITNESS                         ,295 ROUTE 25A                          ,ROCKY POINT        
+408,BELLA VITA                             ,53 NORTH FERRY ROAD                    ,SHELTER ISLAND     
+409,STARS CAFE                             ,17 GRAND AVE                           ,SHELTER ISLAND HGHTS
+410,SHOP WITH US                           ,99-28 ROUTE 25A                        ,SHOREHAM           
+411,ERIKS BREAKFAST & LUNCH                ,43715 COUNTY RD 48                     ,SOUTHOLD           
+412,KING KULLEN #51                        ,6233 ROUTE 25A                         ,WADING RIVER       
+413,KING KULLEN #48                        ,440 EAST MAIN STREET                   ,BAY SHORE          
+414,KING KULLEN #23                        ,894 SUNRISE HIGHWAY                    ,BAY SHORE          
+415,7-11 #29794                            ,1639 FIFTH AVENUE                      ,BAY SHORE          
+416,SHELL                                  ,195 PINE AIRE DRIVE                    ,BAY SHORE          
+417,CAFE BRIO PIZZERIA                     ,2042 SUNRISE HWY                       ,BAYSHORE           
+418,A & P - PATHMARK D.I.P. #600           ,101 WICKS ROAD                         ,BRENTWOOD          
+419,EL NOPAL                               ,328 WASHINGTON AVENUE                  ,BRENTWOOD          
+420,HESS #32561                            ,1797 JOSHUAS PATH                      ,CENTRAL ISLIP      
+421,EAST BRENTWOOD FIRE DISTRICT           ,26 FULTON STREET                       ,EAST BRENTWOOD     
+422,7-11 #11217                            ,148 PINE AIRE DRIVE                    ,NORTH BAY SHORE    
+423,KING KULLEN #28                        ,480 UNION BLVD                         ,WEST ISLIP         
+424,CAPTREE DELI                           ,462 UNION BLVD.                        ,WEST ISLIP         
+425,L.I. NINJUTSU CENTER                   ,235 UNION BLVD                         ,WEST ISLIP         
+426,OAK NECK PIZZA                         ,945 MONTAUK HWY                        ,WEST ISLIP         
+427,BEST YET MARKET                         ,1840 ROUTE 112                          ,CORAM               
+428,7-11 #11226                             ,2011 ROUTE 112                          ,CORAM               
+429,WILD BY NATURE #201                     ,198 MAIN STREET                         ,EAST SETAUKET       
+430,SETAUKET GOURMET                        ,216 ROUTE 25A                           ,EAST SETAUKET       
+431,7-11 #24427                             ,3000 NORTH OCEAN AVENUE                 ,FARMINGVILLE        
+432,7-11 #26072                             ,361 ROUTE 25A & MILLER PLACE ROAD       ,MILLER PLACE        
+433,BODY SOURCE                             ,61 ROUTE 25A                            ,MILLER PLACE        
+434,KING KULLEN #18                         ,5507-200 NESCONSET HIGHWAY              ,MT. SINAI           
+435,7-11 #25627                             ,ROUTE 25A & ROUTE 347                   ,MT. SINAI           
+436,SUNOCO A PLUS - MT. SINAI               ,572 ROUTE 25A                           ,MT. SINAI           
+437,CUSTOM CAFE & DELI                      ,156 WEST BROADWAY                       ,PORT JEFFERSON      
+438,SPEEDY MART                             ,1034 ROUTE 112                          ,PORT JEFFERSON STA. 
+439,KING KULLEN #38                         ,307 INDEPENDENT PLAZA at                ,SELDEN              
+440,A & P WALDBAUMS D.I.P. STORE # 662      ,211 MIDDLE COUNTRY ROAD                 ,SELDEN              
+441,A & P WALDBAUMS D.I.P. STORE # 277      ,4054 NESCONSET HIGHWAY                  ,SETAUKET            
+442,DUANE READE #14257                      ,1320-48 STONY BROOK ROAD                ,STONY BROOK         
+443,HANDY PANTRY - BOHEMIA                 ,876 CHURCH STREET                      ,BOHEMIA            
+444,7-11 #11222                            ,660 LAKELAND AVENUE                    ,BOHEMIA            
+445,STERLING VENDING                       ,351 KNICKERBOCKER AVE                  ,BOHEMIA            
+446,BO'S CITGO                             ,3200 VETS HIGHWAY                      ,BOHEMIA            
+447,ISLIP FOOD WAREHOUSE                   ,32 WHEELER ROAD                        ,CENTRAL ISLIP      
+448,SIDE BAR CAFE                          ,140 FEDERAL PLAZA                      ,CENTRAL ISLIP      
+449,A & P WALDBAUMS D.I.P. STORE # 673     ,300 MONTAUK HIGHWAY                    ,EAST ISLIP         
+450,AMI DELI                               ,117 W MAIN ST                          ,EAST ISLIP         
+451,7-11 #33562                            ,1700 VETS HWY                          ,ISLANDIA           
+452,7-11 #11214                            ,1224 OLD NICHOLS ROAD                  ,ISLANDIA           
+453,AMMIRATI BROTHERS CATERING             ,2929 EXPRESSWAY DRIVE NORTH            ,ISLANDIA           
+454,7-11 #11204                            ,2715 UNION BLVD                        ,ISLIP              
+455,A & P - PATHMARK D.I.P. #639           ,155 ISLIP AVENUE                       ,ISLIP              
+456,MOBIL - ISLIP TERRACE                  ,3239 SUNRISE HIGHWAY                   ,ISLIP TERRACE      
+457,7-11 #27157                            ,56 LOWELL AVENUE                       ,ISLIP TERRACE      
+458,A & P WALDBAUMS D.I.P. STORE # 669     ,1050 WILLIS AVENUE                     ,ALBERTSON          
+459,A & P WALDBAUMS D.I.P. STORE # 223     ,2475 JERICHO TURNPIKE                  ,GARDEN CITY        
+460,KING KULLEN #39                        ,23-05 JERICHO TURNPIKE                 ,GARDEN CITY PARK   
+461,A & P WALDBAUMS D.I.P. STORE # 617     ,40 GREAT NECK ROAD                     ,GREAT NECK         
+462,WHOLE FOODS - MANHASSET                ,2101 NORTHERN BLVD                     ,MANHASSET          
+463,KING KULLEN #12                        ,52 EAST JERICHO TURNPIKE               ,MINEOLA            
+464,NORTH SHORE FARMS - MINEOLA            ,330 EAST JERICHO TURNPIKE              ,MINEOLA            
+465,A & P - PATHMARK D.I.P. #649           ,2335 NEW HYDE PARK                     ,NEW HYDE PARK      
+466,DUANE READE #14240                     ,1596 UNION TURNPIKE                    ,NEW HYDE PARK      
+467,KING KULLEN #58                        ,3 SHORE ROAD                           ,PORT WASHINGTON    
+468,POWER TEN FITNESS CLUB                 ,102A HARBOR ACRES RD                   ,PORT WASHINGTON    
+469,KING KULLEN #08,1430 NORTHERN BLVD ,MANHASSET
+470,DUANE READE #14467                      ,1445 HEMPSTEAD TURNPIKE                 ,ELMONT              
+471,ELMONT DELI                             ,237-11 LINDEN BLVD.                     ,ELMONT              
+472,NORTH SHORE U HOSPITAL - FRANKLIN       ,900 FRANKLIN AVENUE                     ,FRANKLIN SQUARE     
+473,A & P - PATHMARK D.I.P. #633            ,460 FRANKLIN AVENUE                     ,FRANKLIN SQUARE     
+474,GULF GAS - FRANKLIN SQUARE              ,1019 TULIP AVENUE                       ,FRANKLIN SQUARE     
+475,7-11 #27942                             ,531 FULTON AVENUE                       ,HEMPSTEAD           
+476,DELI CONVENIENCE                        ,113 N. FRANKLIN AVE                     ,HEMPSTEAD           
+477,ONE STOP                                ,118 N. FRANKLIN AVE.                    ,HEMPSTEAD           
+478,LA HACIENDA                             ,392 CLINTON STREET                      ,HEMPSTEAD           
+479,CROSS ISLAND NEWSTAND                   ,68 WEST COLUMBIA STREET                 ,HEMPSTEAD           
+480,HANNA DELI & GROCERY                    ,235 S FRANKLIN ST                       ,HEMPSTEAD           
+481,7-11 #11180                             ,1275 FRONT STREET                       ,UNIONDALE           
+482,RBN EL SOPON DELI                       ,1146 FRONT STREET                       ,UNIONDALE           
+483,AMOCO - WEST HEMPSTEAD                  ,2 HEMPSTEAD AVE.                        ,WEST HEMPSTEAD      
+484,WITCHES BREW COFFEE HOUSE               ,311 HEMPSTEAD TPKE                      ,WEST HEMPSTEAD      

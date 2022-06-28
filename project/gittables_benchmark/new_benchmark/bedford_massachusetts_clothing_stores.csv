@@ -1,0 +1,298 @@
+,name,address,type
+0,T.J. Maxx,Bedford,Clothing store
+1,Marshalls,Bedford,Clothing store
+2,"Raya Gildor - Independent Personal Stylist J. Hilburn Custom Menswear, Boston",,Men's clothing store
+3,Bob's Stores Footwear & Apparel,Billerica,Clothing store
+4,Masha's,,Women's clothing store
+5,Duluth Trading Company,Burlington,Clothing store
+6,Ocean State Job Lot,Bedford,Clothing store
+7,B & D Inc,Burlington,Clothing store
+8,JHilburn Northeast,,Men's clothing store
+9,HomeGoods,Bedford,Department store
+10,Three Forty Four,Lexington,Women's clothing store
+11,The Paper Store,Bedford,Clothing store
+12,Express,Burlington,Clothing store
+13,Catherines,Burlington,Plus size clothing store
+14,Men's Wearhouse,Burlington,Men's clothing store
+15,UnderCozies,,Clothing store
+16,Best in Custom Men's Clothing & Style,,Men's clothing store
+17,J.Jill,Burlington,Women's clothing store
+18,Macy's,Burlington,Department store
+19,Burlington,Billerica,Clothing store
+20,Primark,Burlington,Clothing store
+21,Jos. A. Bank,Burlington,Men's clothing store
+22,Lucky Brand,Burlington,Clothing store
+23,Hey Chick,Burlington,Women's clothing store
+24,Anthropologie,Burlington,Women's clothing store
+25,Gap,Burlington,Clothing store
+26,Free People,Burlington,Women's clothing store
+27,Ann Taylor,Burlington,Women's clothing store
+28,Urban Outfitters,Burlington,Clothing store
+29,Banana Republic,Burlington,Clothing store
+30,The Children's Place,Burlington,Children's clothing store
+31,Hollister Co.,Burlington,Clothing store
+32,J.Crew,Burlington,Clothing store
+33,Madewell,Burlington,Clothing store
+34,Via Roma Menswear,Burlington,Men's clothing store
+35,Blue Dry Goods,Concord,Clothing store
+36,Shaaliya Collections,Burlington,Women's clothing store
+37,Nordstrom Burlington,Burlington,Clothing store
+38,Wearovers,Bedford,Consignment shop
+39,Abercrombie & Fitch,Burlington,Clothing store
+40,3rd Ave Burlington,3rd Ave,Shopping mall
+41,Hanna Andersson,75 Middlesex Turnpike,Clothing store
+42,Athleta,75 Middlesex Turnpike,Clothing store
+43,Lands' End,75 Middlesex Turnpike Suite 1002,Clothing store
+44,American Eagle Store,75 Middlesex Turnpike Room 2300,Clothing store
+45,Burberry,75 Middlesex Turnpike,Clothing store
+46,Eddie Bauer,75 Middlesex Turnpike,Clothing store
+47,Lord + Taylor,1320 Burlington Mall Road,Store
+48,Chico's,75 Middlesex Turnpike,Clothing store
+49,Janie and Jack,75 Middlesex Turnpike Sp #2014,Children's clothing store
+50,Police Survival Equipment,,Clothing store
+51,Tory Burch,75 Middlesex Turnpike Room 1089,Women's clothing store
+52,Grasshopper Shop,36 Main St,Clothing store
+53,kate spade new york,75 Middlesex Turnpike,Clothing store
+54,Old Navy,43 Middlesex Turnpike,Clothing store
+55,Zumiez,75 Middlesex Turnpike #1101A,Clothing store
+56,EILEEN FISHER,6 Wayside Rd Suite C1,Clothing store
+57,Intimissimi,75 Middlesex Turnpike,Clothing store
+58,AAFES Exchange,100 Elgin St. Bldg. 1709 B,Army & navy surplus shop
+59,J.McLaughlin,14 Walden St,Clothing store
+60,Ostuni Affordable Men's Clothing,21 Cambridge Street(Across from Cafe Escadrille) Exit 33A(US 95),Men's clothing store
+61,Justice,75 Middlesex Turnpike Space 1100A,Children's clothing store
+62,abercrombie kids,75 Middlesex Turnpike Ste 1003,Children's clothing store
+63,French Lessons,8 Walden St,Women's clothing store
+64,Nordstrom Rack Middlesex Commons,43 Middlesex Turnpike Ste 5,Clothing store
+65,Sara Campbell,41 Main St,Women's clothing store
+66,Marshalls,34 Cambridge St,Clothing store
+67,Fritz & Gigi,79 Main St,Children's clothing store
+68,Bauer Hockey Experience,240 Middlesex Turnpike,Hockey supply store
+69,F21 XXI,75 Middlesex Turnpike Space # 1065,Clothing store
+70,crewcuts,75 Middlesex Turnpike,Clothing store
+71,Hajjar's Big & Tall,23 Cambridge St,Men's clothing store
+72,Irresistibles,16 Walden St,Clothing store
+73,LOFT,6 Wayside Rd,Women's clothing store
+74,Macy's,"MACY'S BURLINGTON MALL, 1300 Middlesex Turnpike",Clothing store
+75,L.L.Bean,6 Wayside Rd,Clothing store
+76,Talbots,6 Wayside Rd,Women's clothing store
+77,Stamas Designs,,Clothing store
+78,Lane Bryant,6 Wayside Rd,Plus size clothing store
+79,Thistle Hill,13 Walden St,Clothing store
+80,Tess & Carlos,81 Main St,Women's clothing store
+81,Justice,75 Middlesex Turnpike Space 1100A,Children's clothing store
+82,abercrombie kids,75 Middlesex Turnpike Ste 1003,Children's clothing store
+83,French Lessons,8 Walden St,Women's clothing store
+84,Nordstrom Rack Middlesex Commons,43 Middlesex Turnpike Ste 5,Clothing store
+85,Sara Campbell,41 Main St,Women's clothing store
+86,Marshalls,34 Cambridge St,Clothing store
+87,Fritz & Gigi,79 Main St,Children's clothing store
+88,Bauer Hockey Experience,240 Middlesex Turnpike,Hockey supply store
+89,F21 XXI,75 Middlesex Turnpike Space # 1065,Clothing store
+90,crewcuts,75 Middlesex Turnpike,Clothing store
+91,Hajjar's Big & Tall,23 Cambridge St,Men's clothing store
+92,Irresistibles,16 Walden St,Clothing store
+93,LOFT,6 Wayside Rd,Women's clothing store
+94,Macy's,"MACY'S BURLINGTON MALL, 1300 Middlesex Turnpike",Clothing store
+95,L.L.Bean,6 Wayside Rd,Clothing store
+96,Talbots,6 Wayside Rd,Women's clothing store
+97,Stamas Designs,,Clothing store
+98,Lane Bryant,6 Wayside Rd,Plus size clothing store
+99,Thistle Hill,13 Walden St,Clothing store
+100,Tess & Carlos,81 Main St,Women's clothing store
+101,Trunk Club,Boston,Clothing store
+102,MARC ALLEN NEW ENGLAND,Boston,Custom tailor
+103,XXX Clothing,Burlington,Clothing store
+104,Rainbow Shops,Lowell,Women's clothing store
+105,Emilia Creations,Lexington,Bridal shop
+106,JackRabbit - Lexington,Lexington,Clothing store
+107,LOFT,Acton,Women's clothing store
+108,Vans,Burlington,Shoe store
+109,Susanna,Cambridge,Clothing store
+110,Rainbow Shops,Lowell,Women's clothing store
+111,Jos. A. Bank,Acton,Men's clothing store
+112,Colonial Stores Inc,Concord,Cosmetics store
+113,Chico's,Acton,Clothing store
+114,Marshalls,Waltham,Clothing store
+115,Golf Galaxy,Burlington,Clothing store
+116,Target,Woburn,Clothing store
+117,Brighton Collectibles,Burlington,Fashion accessories store
+118,K&G Fashion Superstore,Reading,Clothing store
+119,Champs Sports,Burlington,Clothing store
+120,H A Zwicker Inc,Bedford,Hockey supply store
+121,Action Apparel Inc.,Stoneham,Uniform store
+122,Disney Store,Burlington,Clothing store
+123,MARC ALLEN NEW ENGLAND,Boston,Custom tailor
+124,Trunk Club,Boston,Clothing store
+125,"G & D Custom same day Custom merchandise :T-Shirts, Hoodies, Mugs, Blankets ,Pillows",Burlington,Custom t-shirt store
+126,Marshalls,Tewksbury,Clothing store
+127,LXRandCo Lord & Taylor Burlington Mall,Burlington,Clothing store
+128,Team Spirit,Burlington,Sportswear store
+129,Stop & Shop,Bedford,Grocery store
+130,Whole Foods Market,Bedford,Grocery store
+131,Plato's Closet Waltham,Waltham,Used clothing store
+132,EbLens,Lowell,Clothing store
+133,Everything But Water (Temporarily Closed),Burlington,Swimwear store
+134,Laced Quality Garment Co.,Boston,Clothing store
+135,francesca's,Burlington,Boutique
+136,PANDORA,Burlington,Jewelry store
+137,Moison Ace Hardware,Bedford,Hardware store
+138,Michael Kors,Burlington,Clothing store
+139,Finish Line,Burlington,Clothing store
+140,Pottery Barn Kids,Burlington,Children's furniture store
+141,Victoria's Secret,Burlington,Lingerie store
+142,Marshalls,Watertown,Clothing store
+143,Johnston & Murphy,Burlington,Clothing store
+144,Buffalo Exchange,Somerville,Used clothing store
+145,MARC ALLEN NEW ENGLAND,150 State St 3rd floor,Custom tailor
+146,Trunk Club,501 Boylston St #3102,Clothing store
+147,Mint Julep,6 Church St,Women's clothing store
+148,T.J. Maxx,437 Boston Post Rd,Clothing store
+149,Journeys,75 Middlesex Turnpike #1064,Clothing store
+150,Gentlemen's District,23 Central St,Men's clothing store
+151,Rainbow Shops,1201 Broadway,Women's clothing store
+152,Ann Taylor,44 Brattle St,Women's clothing store
+153,Mosher's Men's Store,1221 Centre St,Men's clothing store
+154,Rainbow Shops,176 Haverhill St,Women's clothing store
+155,Men's Wearhouse,"150 Worcester Road, MA-9",Men's clothing store
+156,JACK + TOBA,17 Walden St,Home goods store
+157,Polo Ralph Lauren Factory Store,460 Assembly Row Suite 509,Clothing store
+158,LogoWear Plus,,Screen printer
+159,Hanscom BX,100 Elgin Street,Store
+160,Ministry of Supply,303 Newbury St,Clothing store
+161,Sheepskin Gifts and Alpaca Too,75 Middlesex Turnpike,Clothing store
+162,Gap,306 Harvard St,Clothing store
+163,Macy's,450 Washington St,Department store
+164,Macy's,100 Cambridgeside Pl Ste 2 Ste 2,Department store
+165,Smita's Boutique,120 Cambridge St,Boutique
+166,Carter's,550 Arsenal St,Children's clothing store
+167,MARC ALLEN NEW ENGLAND,Boston,Custom tailor
+168,Trunk Club,Boston,Clothing store
+169,Ann Taylor Factory Store,Somerville,Women's clothing store
+170,Macy's,Saugus,Department store
+171,K&G Fashion Superstore,Somerville,Clothing store
+172,UNIQLO Chestnut Hill,Chestnut Hill,Clothing store
+173,Work 'N Gear,Watertown,Work clothes store
+174,vineyard vines,Lynnfield,Clothing store
+175,Soft Surroundings,Chestnut Hill,Women's clothing store
+176,LOFT Outlet,Somerville,Women's clothing store
+177,Lids,Burlington,Hat shop
+178,Perfume world,Burlington,Perfume store
+179,J.Jill,Lynnfield,Women's clothing store
+180,Buffalo Exchange,Boston,Used clothing store
+181,CVS,Bedford,Drug store
+182,Marshalls,Somerville,Clothing store
+183,Baby Depot,Billerica,Baby store
+184,Bath & Body Works,Burlington,Beauty supply store
+185,J.Crew Factory,Somerville,Clothing store
+186,Gould's Clothing,Acton,Tuxedo shop
+187,H&M,Saugus,Clothing store
+188,SEPHORA,Burlington,Cosmetics store
+189,MARC ALLEN NEW ENGLAND,Boston,Custom tailor
+190,Trunk Club,Boston,Clothing store
+191,Madewell,Chestnut Hill,Clothing store
+192,Soft Surroundings,Lynnfield,Clothing store
+193,Ann Taylor,Chestnut Hill,Women's clothing store
+194,Spice'd Clothing,Cambridge,Clothing store
+195,J.McLaughlin,Andover,Clothing store
+196,Vineyard Vines,Chestnut Hill,Clothing store
+197,FootStock,Concord,Shoe store
+198,J.Jill,Chestnut Hill,Women's clothing store
+199,J.Crew,Chestnut Hill,Clothing store
+200,Eddie Bauer,Lynnfield,Clothing store
+201,Zara,Boston,Clothing store
+202,Patterson's by Capezio,Burlington,Dance store
+203,American Eagle Store,Cambridge,Clothing store
+204,H&M,Cambridge,Clothing store
+205,Fire Opal,Brookline,Clothing store
+206,J.McLaughlin,Boston,Clothing store
+207,OshKosh B'Gosh,Stoneham,Clothing store
+208,LOFT,Lynnfield,Women's clothing store
+209,UNIQLO Faneuil Hall,Boston,Clothing store
+210,LOFT,Chestnut Hill,Women's clothing store
+211,Brine's Sporting Goods,Concord,Sporting goods store
+212,Old Navy,Boston,Clothing store
+213,vineyard vines,Boston,Clothing store
+214,Madewell,Boston,Clothing store
+215,J.Crew,Lynnfield,Clothing store
+216,Chico's,Chestnut Hill,Clothing store
+217,J.McLaughlin,Chestnut Hill,Clothing store
+218,Savers,Wilmington,Thrift store
+219,Madewell,Boston,Clothing store
+220,Zumiez,Saugus,Clothing store
+221,Club Monaco Prudential Center,Boston,Clothing store
+222,Halloween City,Burlington,Costume store
+223,J.McLaughlin,Wellesley,Clothing store
+224,Reflections Women's Consignment,Concord,Consignment shop
+225,Zumiez,Natick,Clothing store
+226,Talbots,Stoneham,Women's clothing store
+227,The UPS Store,Bedford,Shipping and mailing service
+228,T.J. Maxx & HomeGoods,Woburn,Clothing store
+229,Madrag,New Bedford,Women's clothing store
+230,Marathon Sports,Cambridge,Running store
+231,Noreast Custom Apparel,Lowell,Screen printer
+232,Carter's Clothing,New Bedford,Clothing store
+233,Middlesex CC Bookstore - Bedford,Bedford,Book store
+234,Aalok International,Waltham,Women's clothing store
+235,Dorothy's Costume Boutique,Boston,Boutique
+236,Averill's Sharper Uniforms Store,Waltham,Uniform store
+237,The Goodwill Store,Boston,Thrift store
+238,Aine's Boutique,Reading,Boutique
+239,Circa Vintage Wear,New Bedford,Vintage clothing store
+240,Growing Up Children's Resale Boutique,Belmont,Boutique
+241,The Costume Company,Waltham,Costume store
+242,Forty Winks,Cambridge,Lingerie store
+243,ROSA LINDA FASHION,New Bedford,Clothing store
+244,Verizon Authorized Retailer - IM Wireless,Bedford,Cell phone store
+245,Ramble Market,Waltham,Antique store
+246,Exclusive Clothing Company,New Bedford,Men's clothing store
+247,Calico,New Bedford,Women's clothing store
+248,Savers,Saugus,Thrift store
+249,Rachael's Boutique,New Bedford,Clothing store
+250,R B Western Wear,New Bedford,Western apparel store
+251,Unique Fashion Store,New Bedford,Clothing store
+252,Guys & Gals Sportswear,New Bedford,Clothing store
+253,Finest Hour Athletics,New Bedford,Clothing store
+254,Savers,Framingham,Thrift store
+255,Savers,New Bedford,Thrift store
+256,The Madlila,New Bedford,Clothing store
+257,Macy's,Dartmouth,Department store
+258,Margaret's Boutique,New Bedford,Boutique
+259,Carter's Clothing and Footwear,Fall River,Clothing store
+260,Celia's Boutique,New Bedford,Boutique
+261,Baby Boudoir Bargain Outlet,New Bedford,Baby store
+262,U7,New Bedford,Clothing store
+263,JCPenney,North Dartmouth,Clothing store
+264,Julie's Bridal Boutique,New Bedford,Bridal shop
+265,The Children's Place,Dartmouth,Children's clothing store
+266,Savers,Hanover,Thrift store
+267,Town Fair Tire Centers,Billerica,Tire shop
+268,Bedford Market Place,Bedford,Shopping mall
+269,Torrid,Dartmouth,Plus size clothing store
+270,Standard Marine Outfitters,New Bedford,Clothing store
+271,Tracksmith Trackhouse,Boston,Running store
+272,EbLens,Dartmouth,Clothing store
+273,Bass Pro Shops,Hooksett,Clothing store
+274,Baby Boudoir,New Bedford,Children's furniture store
+275,Moison Ace Hardware,Groton,Hardware store
+276,Advance Auto Parts,New Bedford,Auto parts store
+277,Advance Auto Parts,New Bedford,Auto parts store
+278,Savers,West Springfield,Thrift store
+279,Stop & Shop,New Bedford,Grocery store
+280,Stop & Shop,Whitman,Grocery store
+281,Market Basket,New Bedford,Grocery store
+282,Dollar Tree,New Bedford,Dollar store
+283,The Landing Gift Shop & Chandlery,New Bedford,Gift shop
+284,New Bedford Ship Supply Co Inc,New Bedford,Marine supply store
+285,Stop & Shop,New Bedford,Grocery store
+286,Burlington Mall,Burlington,Shopping mall
+287,Bedford Merchant,New Bedford,Gift shop
+288,Glass Slipper,New Bedford,Shoe store
+289,Rite Aid,New Bedford,Drug store
+290,Downtown Smoke Shop,New Bedford,Tobacco shop
+291,Bedford High School,Bedford,High school
+292,Dollar General,New Bedford,Dollar store
+293,Beacon Hardware,New Bedford,Hardware store
+294,Sanctum Folklorica Witch Shop,New Bedford,Gift shop
+295,Bourassas True Value,New Bedford,Hardware store
+296,Middlesex Community College,Bedford,Community college

@@ -1,0 +1,257 @@
+,language,type,name,origin
+0,Japanese,synopsis,,依頼を受け、とある戦場跡を訪れた[플레이어]一行。そこでは、ある軍人の亡骸に、３人の星晶獣が寄り添っていた。星晶獣達は、見初めた相手に加護を与え、名誉をもたらす星晶獣「バイヴカハ」と名乗る。バイヴカハは、かつて自分達がもたらす名誉以上に家族に会うことを望んだ英雄の子孫を探すため、[플레이어]一行の旅に同行するのだった。
+1,Japanese,detail,,<span class='scene-font-katari'>とある戦場跡から、ひとりの軍人の</span><br><span class='scene-font-katari'>亡骸を引き揚げて欲しいという</span><br><span class='scene-font-katari'>依頼を受けた[플레이어]一行。</span>
+2,Japanese,detail,,<span class='scene-font-katari'>その軍人の武勇は</span><br><span class='scene-font-katari'>遠い島にも轟くほどだったが、国同士の</span><br><span class='scene-font-katari'>激しい争いの末に命を落としていた。</span>
+3,Japanese,detail,,<span class='scene-font-katari'>軍人を手厚く葬りたいという</span><br><span class='scene-font-katari'>遺族の願いを聞き入れ、一行は</span><br><span class='scene-font-katari'>戦場跡にやってきたのだった。</span>
+4,Japanese,detail,ビィ,ひでぇ有様だなぁ……<br>あっちこっち燃えちまってるぜ……
+5,Japanese,detail,ルリア,なんだか怖い場所ですね……
+6,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達は陰鬱な気持ちで</span><br><span class='scene-font-katari'>荒れ果てた戦場跡を歩いていると、</span><br><span class='scene-font-katari'>その先に佇む三人の女性を発見する。</span>
+7,Japanese,detail,？？？,…………
+8,Japanese,detail,ビィ,あの姉ちゃん達、<br>あんなとこで何してんだ？<br>兵隊とか騎空士には見えねぇけど……
+9,Japanese,detail,ルリア,……っ！？<br>あの人達、星晶獣です！
+10,Japanese,detail,ビィ,星晶獣がこんなトコで<br>何やってんだ……？
+11,Japanese,detail,,<span class='scene-font-katari'>予期せぬ正体に驚く一行だったが、</span><br><span class='scene-font-katari'>ふと、女性達が見下ろす足元に</span><br><span class='scene-font-katari'>亡骸が横たわっていることに気づく。</span>
+12,Japanese,detail,ビィ,あれ、もしかして……<br>オイラ達が探してる奴じゃねーか？
+13,Japanese,detail,ルリア,ですね……<br>でもあの人達、どうしてあそこで<br>軍人さんを見ているんでしょう……？
+14,Japanese,detail,,<span class='scene-font-katari'>女性の姿をした星晶獣の意図が</span><br><span class='scene-font-katari'>読めなかった一行は、</span><br><span class='scene-font-katari'>しばらく遠くから様子を窺う。</span>
+15,Japanese,detail,,<span class='scene-font-katari'>しかし星晶獣は一向にその場を離れず、</span><br><span class='scene-font-katari'>やむなく一行は</span><br><span class='scene-font-katari'>警戒しつつ近付き声をかける。</span>
+16,Japanese,detail,ビィ,なぁ、姉ちゃん達、<br>そこで何してんだよ？
+17,Japanese,detail,？？？,……？<br>ああ……
+18,Japanese,detail,？？？,寄り添っていたの……<br>この人は、勇ましい最期を遂げた……
+19,Japanese,detail,ビィ,ええと……<br>もしかしてこの兄ちゃん、<br>姉ちゃん達の大事な人だったのか？
+20,Japanese,detail,？？？,大事……？<br>私達はただ、この人を<br>見守っていただけのこと……
+21,Japanese,detail,ビィ,うーん、よくわかんねぇけど……<br>オイラ達、その兄ちゃんの亡骸を<br>探してたところでよ。
+22,Japanese,detail,ルリア,その人を家族に<br>会わせてあげたいんです。<br>連れて行ってもいいですか……？
+23,Japanese,detail,？？？,貴方達が望むのならば。<br>私達も役目を終えた……
+24,Japanese,detail,ルリア,役目、ですか……？
+25,Japanese,detail,？？？,それは私達の使命であり、<br>逃れられぬ死の連鎖……
+26,Japanese,detail,ルリア,えっと、それはどういう……？
+27,Japanese,detail,？？？,バズヴ、よくご覧なさい。<br>この方達も戸惑っているようです。
+28,Japanese,detail,？？？,私達のことも含め、<br>説明して差し上げたほうが<br>よろしいのではありませんか？
+29,Japanese,detail,？？？,くすくす……<br>モリガンお姉様の言う通り。<br>バズヴの悪い癖よ。
+30,Japanese,detail,バズヴ,姉上達がそう言うのなら……
+31,Japanese,detail,,<span class='scene-font-katari'>ふたりの女性から促され、</span><br><span class='scene-font-katari'>バズヴと呼ばれた女性は</span><br><span class='scene-font-katari'>[플레이어]達に名を告げる。</span>
+32,Japanese,detail,バズヴ,私はバズヴ……<br>隣のふたりは私の姉よ。
+33,Japanese,detail,モリガン,長女のモリガンです。<br>以後、お見知りおきを。
+34,Japanese,detail,ヴァハ,次女のヴァハよ。<br>忘れないでね。
+35,Japanese,detail,バズヴ,そして人は私達のことをこう呼ぶ……<br><span class='scene-font-spword'>“バイヴカハ”</span>、と。
+36,Japanese,detail,ビィ,ううん……？ どういうことだ？<br>バイヴカハってのは、<br>騎空団の名前みてーなもんか？
+37,Japanese,detail,バズヴ,人に伝わりし名はバイヴカハ。<br>個の名は意味を成さない……
+38,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達が</span><br><span class='scene-font-katari'>バズヴの説明に悩んでいると、</span><br><span class='scene-font-katari'>ヴァハの忍び笑いが耳に届く。</span>
+39,Japanese,detail,ヴァハ,くすくす……私達は一心同体の身。<br>個の名はあくまで、私達が私達を<br>識別する程度のものにすぎないの。
+40,Japanese,detail,ヴァハ,私達は個の名を持つと同時に、<br>バイヴカハという存在でもある。<br>つまり、どちらでも支障はないわ。
+41,Japanese,detail,ルリア,はあ……
+42,Japanese,detail,ビィ,まぁ、とりあえず<br>どっちの名前で呼んでも<br>間違いじゃねぇってことだな？
+43,Japanese,detail,ヴァハ,そういう理解で結構よ。
+44,Japanese,detail,モリガン,そして……<br>私達の役目について、でしたね。
+45,Japanese,detail,バズヴ,私達は、見初めた相手に<br>加護を与え栄光をもたらし、<br>命尽きるまで見守る……
+46,Japanese,detail,バズヴ,それが私達の役目であり、<br>存在意義でもある……
+47,Japanese,detail,バズヴ,この亡き者も、私達が見初めた強き者。<br>命は果ててしまったけれど、<br>堂々たる最期だった……
+48,Japanese,detail,,<span class='scene-font-katari'>不明瞭な返答をするバズヴだったが、</span><br><span class='scene-font-katari'>少し間を置いて、[플레이어]達に</span><br><span class='scene-font-katari'>目的を打ち明ける。</span>
+49,Japanese,detail,バズヴ,けれど……<br>私達はある方を探している。
+50,Japanese,detail,ルリア,ある方、というのは？
+51,Japanese,detail,ヴァハ,かつて<span class='scene-font-spword'>“英雄”</span>と呼ばれた人の子孫よ。
+52,Japanese,detail,バイヴカハ,あれは、覇空戦争の時のこと……
+53,Japanese,detail,バイヴカハ,私達は星晶獣でありながら、<br>ひとりの空の民の戦士を見初めた。<br>……いえ、見初めてしまった。
+54,Japanese,detail,バイヴカハ,あの人は私達の加護を受け、<br>戦場に次ぐ戦場で勝利を手にし、<br>やがて英雄と呼ばれるようになった。
+55,Japanese,detail,バイヴカハ,しかし私達の力を得た者は、<br>二度と日常に帰ることは許されない……<br>命尽きるまで戦場を這い、血を求める。
+56,Japanese,detail,バイヴカハ,その事実を知ったあの人は、<br>戦場でさえ見せなかった怒りを込めて、<br>死に際にこう言った……
+57,Japanese,detail,バイヴカハ,もう一度家族に会いたかった。<br>家族に会えずに死ぬのなら、<br>名誉などいらなかった……と。
+58,Japanese,detail,バイヴカハ,その時の私達は、<br>あの人の言葉を<br>気に留めようとも思わなかった。
+59,Japanese,detail,バイヴカハ,私達はその後も役目を続け、<br>名誉を得て<br>本懐を遂げる数多の戦士を見届け……
+60,Japanese,detail,バイヴカハ,その中で、ある思いが湧いた。
+61,Japanese,detail,バイヴカハ,なぜ、あの人は名誉を否定したのか……<br>名誉以上に望み、守りたかった家族とは<br>どういう存在なのか……と。
+62,Japanese,detail,バイヴカハ,私達はその家族に会いたいと思った。
+63,Japanese,detail,バイヴカハ,けれど、どれほど願ったところで<br>数百年の時が遡ることはない……
+64,Japanese,detail,モリガン,ならば、せめてあの人の血を継いだ<br>子孫に会うことはできないか、<br>と思ったのです。
+65,Japanese,detail,モリガン,しかし私達は、<br>あの人の家族の所在に<br>心当たりがありません。
+66,Japanese,detail,ヴァハ,でも、あの人の血を<br>受け継いでいるのなら、<br>きっと武勇に優れた人物のはず。
+67,Japanese,detail,ヴァハ,だからいつか戦場で<br>巡り逢える日を願いながら、<br>私達は役目を続けているのよ。
+68,Japanese,detail,ルリア,そんな事情があったんですね……
+69,Japanese,detail,,<span class='scene-font-katari'>彼女達はひとしきり語り終えると、</span><br><span class='scene-font-katari'>心の奥を覗き込むように、</span><br><span class='scene-font-katari'>透き通った瞳を[플레이어]に向ける。</span>
+70,Japanese,detail,バイヴカハ,[플레이어]は……やはり、そう……<br>私達にはわかる……
+71,Japanese,detail,バイヴカハ,貴方は類稀なる武勇を備えている。<br>幾多の戦場を駆け抜け、<br>信念が刻まれたその目……
+72,Japanese,detail,バイヴカハ,貴方達に同行すれば、<br>いつか戦場であの人の子孫と<br>巡り逢うことも叶うのでしょうか……
+73,Japanese,detail,ビィ,まぁ、<br>もしかしたらそういうことも<br>あるんじゃねぇか？
+74,Japanese,detail,ビィ,仲間になりてぇってんなら<br>オイラ達は歓迎するぜ！<br>なぁ、[플레이어]！
+75,Japanese,detail,バイヴカハ,仲間……
+76,Japanese,detail,バイヴカハ,貴方達がどのように判断するのかは<br>貴方達に委ねるわ。
+77,Japanese,detail,バイヴカハ,私達は傍で見守る、ただそれだけ……
+78,Japanese,detail,ビィ,よ、よくわかんねぇけど……<br>どうすんだ、[플레이어]？
+79,Japanese,sel1_txt,,<span class='scene-font-katari'>よろしくね</span>
+80,Japanese,sel2_txt,,<span class='scene-font-katari'>子孫に会えるといいね</span>
+81,Japanese,detail,バイヴカハ,こちらこそ……
+82,Japanese,detail,ルリア,ふふっ、仲良くしましょうね！<br>バイヴカハさん！
+83,Japanese,detail,バイヴカハ,そうね……<br>それが私達の願いだから……
+84,Japanese,detail,ルリア,きっと会えますよ！<br>私達もお手伝いします！
+85,Japanese,detail,バイヴカハ,ありがとう……
+86,Japanese,detail,,<span class='scene-font-katari'>その後、軍人の亡骸を</span><br><span class='scene-font-katari'>依頼主である遺族の元に</span><br><span class='scene-font-katari'>無事に送り届けた一行。</span>
+87,Japanese,detail,,<span class='scene-font-katari'>こうしてまた新たに</span><br><span class='scene-font-katari'>不可思議な三人が</span><br><span class='scene-font-katari'>一行の旅に加わるのだった。</span>
+88,Japanese,synopsis,,ある日、探している英雄の子孫らしい気配がするというバイヴカハの言葉を受け、[플레이어]一行はとある島に降り立つ。気配を辿って森の中を進むと、魔物に囲まれて全身傷だらけの青年を見つける。気を失ってしまった青年を救おうと、一行は魔物に立ち向かう。
+89,Japanese,detail,,<span class='scene-font-katari'>バイヴカハが[플레이어]達に同行して</span><br><span class='scene-font-katari'>幾日かが経った、ある日のこと。</span>
+90,Japanese,detail,,<span class='scene-font-katari'>彼女達はグランサイファーの甲板から</span><br><span class='scene-font-katari'>遠くを眺めながら、</span><br><span class='scene-font-katari'>独り言のように呟く。</span>
+91,Japanese,detail,バズヴ,気配が……
+92,Japanese,detail,モリガン,私も感じました。
+93,Japanese,detail,ヴァハ,くすくす……<br>偶然ね、私もよ。
+94,Japanese,detail,ルリア,皆さん、どうしたんですか？
+95,Japanese,detail,バイヴカハ,懐かしい気配がする。<br>そう、遠き日の記憶によく似た……
+96,Japanese,detail,,<span class='scene-font-katari'>バイヴカハは感傷に浸った様子で</span><br><span class='scene-font-katari'>呟くと、空の向こうをそっと指し示す。</span>
+97,Japanese,detail,バイヴカハ,あそこに見える島に寄ってほしいの。<br>あの島から、あの人に似た<br>気配を感じる……
+98,Japanese,detail,ビィ,あの人に似た気配って……<br>トリオ姉ちゃんが<br>探してる奴のことか？
+99,Japanese,detail,バズヴ,ええ、そうよ……
+100,Japanese,detail,モリガン,どうか、お願いします。<br>私達はこの目で<br>確かめる必要があるのです。
+101,Japanese,detail,ヴァハ,これは願ってもない機会。<br>私からもお願いするわ。
+102,Japanese,sel1_txt,,<span class='scene-font-katari'>行こう！</span>
+103,Japanese,sel2_txt,,<span class='scene-font-katari'>自分も会ってみたい</span>
+104,Japanese,detail,ルリア,もちろんです！<br>バイヴカハさんが<br>こんなにお願いしてるんですから！
+105,Japanese,detail,ルリア,英雄の子孫さんですもんね！<br>やっぱり気になるんですね、<br>[플레이어]！
+106,Japanese,detail,バイヴカハ,感謝するわ……<br>このお礼はいつか……
+107,Japanese,detail,,<span class='scene-font-katari'>一行はバイヴカハの願いを聞き入れ、</span><br><span class='scene-font-katari'>彼女達が英雄に似た気配を察したという</span><br><span class='scene-font-katari'>島へ向かう。</span>
+108,Japanese,detail,,<span class='scene-font-katari'>島に到着し、</span><br><span class='scene-font-katari'>気配を辿るバイヴカハの案内に従って</span><br><span class='scene-font-katari'>森の中をしばらく歩く一行。</span>
+109,Japanese,detail,,<span class='scene-font-katari'>すると、それまで無表情だった</span><br><span class='scene-font-katari'>バイヴカハは眉をピクリと動かし、</span><br><span class='scene-font-katari'>前方を見据える。</span>
+110,Japanese,detail,バイヴカハ,近い……<br>この先に、強く気配を感じる……
+111,Japanese,detail,ルリア,ついに会えるんですね……<br>なんだかドキドキしてきちゃいました！
+112,Japanese,detail,ビィ,ん？ けどなんか<br>魔物の鳴き声がしなかったか？
+113,Japanese,detail,？？？,<span class='scene-font-4'>ぐあああっ！！</span>
+114,Japanese,detail,ルリア,……っ！？<br>今、叫び声が……！
+115,Japanese,detail,バイヴカハ,…………
+116,Japanese,detail,ルリア,あっ、バイヴカハさん！
+117,Japanese,sel1_txt,,<span class='scene-font-katari'>急ごう！</span>
+118,Japanese,detail,ビィ,お、おうっ！
+119,Japanese,detail,,<span class='scene-font-katari'>一行がバイヴカハの後を追うと、</span><br><span class='scene-font-katari'>その先には、全身傷だらけの</span><br><span class='scene-font-katari'>ひとりの青年が魔物に囲まれていた。</span>
+120,Japanese,detail,魔物,<span class='scene-font-4'>グオオオオッ！</span>
+121,Japanese,detail,？？？,お、俺は……<br>この程度の奴らなんかに……
+122,Japanese,detail,,<span class='scene-font-katari'>青年は気力が尽きたのか、</span><br><span class='scene-font-katari'>意識を失ってその場に倒れてしまう。</span>
+123,Japanese,detail,ルリア,大変です！<br>早く助けないと！
+124,Japanese,detail,バズヴ,もちろんよ……
+125,Japanese,detail,ヴァハ,さあ、こっちにいらっしゃい？
+126,Japanese,detail,モリガン,ズタズタに引き裂いて、<br>息の根を止めてあげましょう。
+127,Japanese,detail,魔物,<span class='scene-font-4'>グオオオオッ！</span>
+128,English,synopsis,,"The crew takes on a request to retrieve a fallen soldier's body. When they find the corpse in question, they discover a trio of battle goddesses who collectively refer to themselves as the Morrigna. They decide to accompany [플레이어]'s crew to track down the descendant of their former charge."
+129,English,detail,,[플레이어] and company have come to the site of a battlefield on a grim but noble request: to find and retrieve the remains of a fallen soldier.
+130,English,detail,,"Although the soldier was renowned across distant islands for his valor, death has no respect for heroics, and thus he lost his life in service to his country."
+131,English,detail,,"His next of kin want to give their loved one a final farewell worth his bravery, and have entrusted the crew with bringing him home."
+132,English,detail,Vyrn,"Yikes, look at this place. It's basically been burnt to a crisp."
+133,English,detail,Lyria,This place is kind of scary.
+134,English,detail,,"The environs are as gloomy as their task, but they press on regardless. That is until they discover three statuesque women standing in formation off in the distance."
+135,English,detail,???,...
+136,English,detail,Vyrn,What are those ladies doing in a place like this? They don't look like army people or skyfarers.
+137,English,detail,Lyria,...!<br>That's because they're some kind of primal beast!
+138,English,detail,Vyrn,"Um, okay then, so what's a gaggle of primal ladies doin' here?"
+139,English,detail,,"Bewildered by the appearance of the trio, they sneak a little closer. Soon something else comes into view: a deathly still figure at the feet of the three women."
+140,English,detail,Vyrn,"Is that, you don't think... the fallen soldier?"
+141,English,detail,Lyria,I think so. But it's strange how those three are just staring down at him.
+142,English,detail,,"They wait and watch, trying to ascertain the motives of the primal beast that has taken the form of three women."
+143,English,detail,,"But the primal remains unmoving, vigilant. Realizing inaction will solve nothing, [플레이어] and the others decide to make an approach."
+144,English,detail,Vyrn,"Excuse us, what're you all doin' in a place like this?"
+145,English,detail,???,Mmm? Aaah...
+146,English,detail,???,We were cradling our charge—this warrior who acted with courage until his last moment.
+147,English,detail,Vyrn,Umm... So this man was important to you?
+148,English,detail,???,"Important? No, we were simply giving watch to a worthy soul."
+149,English,detail,Vyrn,"Right... I don't think he's going to get up and move or anything, but we've actually been looking for him ourselves."
+150,English,detail,Lyria,We want to reunite him with his family. May we please take him?
+151,English,detail,???,"If that is your wish, then our role is finished."
+152,English,detail,Lyria,Your role?
+153,English,detail,???,"Our mission, child. To act as partisan for those who find themselves at the mercy of unavoidable death."
+154,English,detail,Lyria,"Um, what does that mean?"
+155,English,detail,???,"Badb, look at their faces. They seem so confused."
+156,English,detail,???,Shouldn't we explain ourselves before we get into all of the particulars?
+157,English,detail,???,"Teehee... It's just as Neamhan says, Sister. Such a bad habit you have, putting introductions on the long finger."
+158,English,detail,Badb,"Well, if you're going to begrudge me, Sisters..."
+159,English,detail,,The woman referred to as Badb steps forward to formally greet [플레이어] and company.
+160,English,detail,Badb,I'm Badb. These two spuds are my sisters.
+161,English,detail,Neamhan,"I'm the eldest, Neamhan. May the road rise up to meet you."
+162,English,detail,Macha,Macha here. Middle sister. Don't forget it now.
+163,English,detail,Badb,Mortals have grown fond of collectively calling the three of us the Morrigna.
+164,English,detail,Vyrn,"Seriously? You have 'the' in your name? Is it just me, or does that sound like an airship or somethin'?"
+165,English,detail,Badb,The Morrigna is the moniker mortals have given us. Our individual names hold virtually no weight in comparison.
+166,English,detail,,"Despite Badb's explanation, [플레이어], Lyria, and Vyrn still seem none the wiser. Macha struggles to suppress a giggle."
+167,English,detail,Macha,"Teehee... We're a being of one soul, hear. Our individual names are just a way to identify a third of the whole."
+168,English,detail,Macha,"They're separate names, certainly, but we're the Morrigna just the same. 'Tis all fair, children."
+169,English,detail,Lyria,Uh... huh...
+170,English,detail,Vyrn,"So it's okay for us to call you whatever, right?"
+171,English,detail,Macha,So long as it pleases you.
+172,English,detail,Neamhan,Back to the matter at hand. I believe we were discussing our role in this world.
+173,English,detail,Badb,"We act as partisan, supporting the worthy by bearing witness to their deeds, and giving them the grace to earn higher honors yet."
+174,English,detail,Badb,And we serve our charge until they breathe their last. 'Tis both our role and the foundation of our existence.
+175,English,detail,Badb,"Your man here was a strong soul himself. His valor cost him his life in the end, but it was a pure splendid farewell."
+176,English,detail,,Badb sees that the young skyfarers still don't quite grasp the situation. She gives them a moment to mentally catch up before revealing the Morrigna's true motive.
+177,English,detail,Badb,That being said... We're on the hunt for someone else.
+178,English,detail,Lyria,You are?
+179,English,detail,Macha,The descendant of a legendary hero.
+180,English,detail,Morrigna,"It was long ago, during the time of the War..."
+181,English,detail,Morrigna,"Though we are a primal beast, we found across enemy lines a skyfarer worthy of our grace. Nay, he was more than worthy."
+182,English,detail,Morrigna,He accepted our grace and achieved victory after victory with our support. 'Twas not long before he grew into a legend.
+183,English,detail,Morrigna,"However, once a lad accepts our favor, he may never return to ordinary life. He must search for blood on the fields of war till his dying day."
+184,English,detail,Morrigna,"This warrior knew that, but one day a fury the likes of which we'd never seen flared in his heart, and he shouted at us."
+185,English,detail,Morrigna,"I wish to see my family,' he said. 'If I can't be with my family before I pass, then what need do I have for honor?'"
+186,English,detail,Morrigna,We did not give heed to his words.
+187,English,detail,Morrigna,"After he passed, we continued our duty, bearing witness to warriors innumerable as they forged their own mythologies."
+188,English,detail,Morrigna,Over time a thought began to grow within us.
+189,English,detail,Morrigna,Why did that man reject honor? Was his family truly so exemplary that he would rather protect them over achieving glory?
+190,English,detail,Morrigna,Impetus enough for man to abandon exaltation—we needed to meet his family.
+191,English,detail,Morrigna,Despite our desire—time being the fickle mistress it is—it had already been several hundred years since the warrior's passing.
+192,English,detail,Neamhan,"And so we thought, if we couldn't track down his direct flesh n' blood, we'd at least try to find a descendant of his."
+193,English,detail,Neamhan,"Alas, trouble is as trouble does, we don't know where that man's family lived."
+194,English,detail,Macha,But we figure his progeny must have inherited martial merit equal to his own.
+195,English,detail,Macha,We can continue our duty knowing that perhaps one day we'll come across a worthy warrior with the blood of that man in their veins.
+196,English,detail,Lyria,"Wow, that's quite a story."
+197,English,detail,,"With the air finally cleared, the three women smile at the young skyfarers. But soon their eerie, unified gaze shifts toward [플레이어]."
+198,English,detail,Morrigna,"[플레이어], we see in you... Yes. That's a fret now."
+199,English,detail,Morrigna,"You are possessed of unparalleled valor. That much is clear from the look in your eyes, those pupils which have seen a thousand battles and may see a thousand more."
+200,English,detail,Morrigna,"If we join you across your travels, we are likely to meet other brave combatants. And, mayhaps, a descendant of the hero we long to meet."
+201,English,detail,Vyrn,That's definitely in the realm of possibility.
+202,English,detail,Vyrn,"Besides, we're always lookin' for more crewmates! Right, [플레이어]?"
+203,English,detail,Morrigna,Crewmates?
+204,English,detail,Morrigna,You must steer the course of your own lives.
+205,English,detail,Morrigna,"By our grace, we may only act as your partisan."
+206,English,detail,Vyrn,"I'm not sure if that's such a big difference, but what do you think, [플레이어]?"
+207,English,sel1_txt,,Welcome to the crew.
+208,English,sel2_txt,,I hope we can find that descendant.
+209,English,detail,Morrigna,We thank you.
+210,English,detail,Lyria,"Hehe, I'm sure we'll get along great, Morrigna!"
+211,English,detail,Morrigna,Truly. That is our one hope.
+212,English,detail,Lyria,"I'm sure we will! After all, we'll be helping you!"
+213,English,detail,Morrigna,We thank you.
+214,English,detail,,"After their fateful encounter with the trio, the crew successfully transport the fallen soldier's body back to his family."
+215,English,detail,,"The Morrigna, having found a renewed purpose, watch from afar as their most recent charge completes his final journey home."
+216,English,synopsis,,"The Morrigna sense their former charge's descendant on a distant island. After arriving on the island, the Morrigna lead the crew to a young man in the middle of unsuccessfully fighting off a pack of monsters."
+217,English,detail,,A few days after the Morrigna began watching over the crew...
+218,English,detail,,"The trio is standing on the deck of the Grandcypher, staring out into the distance."
+219,English,detail,Badb,Sisters...
+220,English,detail,Neamhan,I felt it too.
+221,English,detail,Macha,"Hehe. Wind be with me, I felt it three."
+222,English,detail,Lyria,What's everyone doing out here?
+223,English,detail,Morrigna,We were admiring a familiar breeze as it blew by. It reminded us of the olden days. Of our warrior.
+224,English,detail,,"The Morrigna sighs in unison, caught up in sentimentality. They compose themselves, then point out to the sky."
+225,English,detail,Morrigna,"Would it be all right to stop by that wee island over there? That's where we feel the breeze coming from, where we feel our former charge."
+226,English,detail,Vyrn,"Wow, Morthreegna, you can feel all that from a breeze? You think your buddy's descendant is over there?"
+227,English,detail,Badb,"Aye, lad."
+228,English,detail,Neamhan,Please. We must see with our own eyes whether our intuition lies to us.
+229,English,detail,Macha,Tis an opportunity the likes of which we've never had.
+230,English,sel1_txt,,Well then
+231,English,sel2_txt,,We can't wait to meet this person either!
+232,English,detail,Lyria,"This is really important to you, Morrigna! So of course we'll go!"
+233,English,detail,Lyria,"They're the descendant of a hero after all! Anyone would be curious to see them, right, [플레이어]?"
+234,English,detail,Morrigna,"We thank you, with the promise we'll pay you back in kind."
+235,English,detail,,"Wasting no time, [플레이어] has the Grandcypher change course for the island."
+236,English,detail,,"After alighting, the crew find themselves walking through a forest, the Morrigna at the head of their group."
+237,English,detail,,"The primal trio comes to an abrupt stop, and three pairs of brows furrow in unison."
+238,English,detail,Morrigna,We're close now. The breeze calls us this way.
+239,English,detail,Lyria,"Oh, we'll see them soon! I'm so excited!"
+240,English,detail,Vyrn,"Huh? Unless this person's a monster, I think we might have a problem on our hands."
+241,English,detail,???,Aaaagh!
+242,English,detail,Lyria,Oh no! That was a scream!
+243,English,detail,Morrigna,...
+244,English,detail,Lyria,"Ah, Morrigna, wait!"
+245,English,sel1_txt,,Hurry!
+246,English,detail,Vyrn,Hey!
+247,English,detail,,"They dash after the Morrigna, but stop when they see a bruised and battered young man surrounded by monsters."
+248,English,detail,Monster,Groooar!
+249,English,detail,???,How did I get myself into this mess...
+250,English,detail,,"Having pushed himself to his absolute limit, the young man falls to the ground unconscious."
+251,English,detail,Lyria,"We have to help him! Hurry, everyone!"
+252,English,detail,Badb,Sure as the road is long.
+253,English,detail,Macha,"Come 'ere, you little beasties."
+254,English,detail,Neamhan,"You've gone and messed with the wrong sisters, hear. We'll tear you limb from limb."
+255,English,detail,Monster,Groooar!

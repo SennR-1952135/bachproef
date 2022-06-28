@@ -1,0 +1,153 @@
+,name,description,type
+0,46.0,Hand grip strength (left),Discrete
+1,47.0,Hand grip strength (right),Discrete
+2,49.0,Hip circumference,Continuous
+3,50.0,Standing height,Continuous
+4,189.0,Townsend deprivation index at recruitment,Continuous
+5,864.0,Number of days/week walked 10+ minutes,Discrete
+6,874.0,Duration of walks,Discrete
+7,884.0,Number of days/week of moderate physical activity 10+ minutes,Discrete
+8,904.0,Number of days/week of vigorous physical activity 10+ minutes,Discrete
+9,924.0,Usual walking pace,Ordinal
+10,943.0,Frequency of stair climbing in last 4 weeks,Ordinal
+11,1050.0,Time spend outdoors in summer,Discrete
+12,1070.0,Time spent watching television (TV),Discrete
+13,1100.0,Drive faster than motorway speed limit,Ordinal
+14,1160.0,Sleep Duration,Discrete
+15,1170.0,Getting up in the morning,Ordinal
+16,1180.0,Morning/evening person,Ordinal
+17,1190.0,p during day,Ordinal
+18,1200.0,Sleeplessness / insomnia,Ordinal
+19,1210.0,Snoring,Binary
+20,1220.0,Daytime dozing / sleeping (narcolepsy),Ordinal
+21,1239.0,Current tobacco smoking,Ordinal
+22,1249.0,Past tobacco smoking,Ordinal
+23,1259.0,Smoking/smokers in household,Ordinal
+24,1279.0,Exposure to tobacco smoke outside home,Discrete
+25,1289.0,Cooked vegetable intake,Discrete
+26,1299.0,Salad / raw vegetable intake,Discrete
+27,1309.0,Fresh fruit intake,Discrete
+28,1319.0,Dried fruit intake,Discrete
+29,1329.0,Oily fish intake,Ordinal
+30,1339.0,Non-oily fish intake,Ordinal
+31,1349.0,Processed meat intake,Ordinal
+32,1359.0,Poultry intake,Ordinal
+33,1369.0,Beef intake,Ordinal
+34,1379.0,Lamb/mutton intake,Ordinal
+35,1389.0,Pork intake,Ordinal
+36,1408.0,Cheese intake,Ordinal
+37,1418.0,Milk type used,Nominal
+38,1438.0,Bread intake,Discrete
+39,1448.0,Bread type,Nominal
+40,1458.0,Cereal intake,Discrete
+41,1478.0,Salt added to food,Ordinal
+42,1488.0,Tea intake,Discrete
+43,1498.0,Coffee intake,Discrete
+44,1518.0,Hot drink temperature,Ordinal
+45,1528.0,Water intake,Discrete
+46,1538.0,Major dietary changes in the last 5 years,Nominal
+47,1548.0,Variation in diet,Ordinal
+48,1558.0,Alcohol intake frequency,Ordinal
+49,1628.0,Alcohol intake versus 10 years previously,Ordinal
+50,1687.0,Comparitive body size at age 10,Nominal
+51,1697.0,Comparitive height size at age 10,Nominal
+52,1707.0,Handedness (chirality/laterality),Nominal
+53,1717.0,Skin colour,Ordinal
+54,1727.0,Ease of skin tanning,Ordinal
+55,1747.0,Hair colour (natural/ before greying),Ordinal
+56,1757.0,Facial ageing,Nominal
+57,1787.0,Materl smoking around birth,Binary
+58,2267.0,Use of sun/uv protection,Nominal
+59,2227.0,Other eye problems,Binary
+60,2306.0,Weight change compared with 1 year ago,Nominal
+61,12673.0,Heart rate during PWA,Discrete
+62,12674.0,Systolic brachial blood pressure during PWA,Discrete
+63,12675.0,Diastolic brachial blood pressure during PWA,Discrete
+64,12676.0,Peripheral pulse pressure during PWA,Discrete
+65,12677.0,Central systolic blood pressure during PWA,Discrete
+66,12678.0,Central pulse pressure during PWA,Discrete
+67,12679.0,Number of beats in waveform average for PWA,Continuous
+68,12680.0,Central augmentation pressure during PWA,Continuous
+69,12681.0,Augmentation index for PWA,Continuous
+70,12682.0,Cardiac output during PWA,Continuous
+71,12683.0,End systolic pressure during PWA,Continuous
+72,12684.0,End systolic pressure index during PWA,Continuous
+73,12685.0,Total peripheral resistance during PWA,Continuous
+74,12686.0,Stroke volume during PWA,Discrete
+75,12687.0,Mean arterial pressure during PWA,Discrete
+76,12702.0,Cardiac index during PWA,Continuous
+77,20015.0,Sitting height,Discrete
+78,20023.0,Mean time to correctly identify matches,Discrete
+79,20116.0,Smoking status,Nominal
+80,20117.0,Alcohol drinker status,Nominal
+81,20118.0,Home area population density - urban or rural,Nominal
+82,21001.0,Body mass index (BMI),Continuous
+83,21002.0,Weight,Continuous
+84,23099.0,Body fat percentage,Continuous
+85,23100.0,Whole body fat mass,Continuous
+86,23101.0,Whole body fat-free mass,Continuous
+87,23102.0,Whole body water mass,Continuous
+88,23105.0,Basal metabolic rate,Continuous
+89,23106.0,Impedance of whole body,Continuous
+90,23107.0,Impedance of leg (right),Continuous
+91,23108.0,Impedance of leg (left),Continuous
+92,23109.0,Impedance of arm (right),Continuous
+93,23110.0,Impedance of arm (left),Continuous
+94,23111.0,Leg fat percentage (right),Continuous
+95,23112.0,Leg fat mass (right),Continuous
+96,23113.0,Leg fat-free mass (right),Continuous
+97,23114.0,Leg predicted mass (right),Continuous
+98,23115.0,Leg fat percentage (left),Continuous
+99,23116.0,Leg fat mass (left),Continuous
+100,23117.0,Leg fat-free mass (left),Continuous
+101,23118.0,Leg predicted mass (left),Continuous
+102,23119.0,Arm fat percentage (right),Continuous
+103,23120.0,Arm fat mass (right),Continuous
+104,23121.0,Arm fat-free mass (right),Continuous
+105,23122.0,Arm predicted mass (right),Continuous
+106,23123.0,Arm fat percentage (left),Continuous
+107,23124.0,Arm fat mass (left),Continuous
+108,23125.0,Arm fat-free mass (left),Continuous
+109,23126.0,Arm predicted mass (left),Continuous
+110,23127.0,Trunk fat percentage,Continuous
+111,23128.0,Trunk fat mass,Continuous
+112,23129.0,Trunk fat-free mass,Continuous
+113,23130.0,Trunk predicted mass,Continuous
+114,30000.0,White blood cell (leukocyte) count,Continuous
+115,30010.0,Red blood cell (erythrocyte) count,Continuous
+116,30020.0,Haemoglobin concentration,Continuous
+117,30030.0,Haematocrit percentage,Continuous
+118,30040.0,Mean corpuscular volume,Continuous
+119,30050.0,Mean corpuscular haemoglobin,Continuous
+120,30060.0,Mean corpuscular haemoglobin concentration,Continuous
+121,30070.0,Red blood cell (erythrocyte) distribution width,Continuous
+122,30080.0,Platelet count,Continuous
+123,30090.0,Platelet crit,Continuous
+124,30100.0,Mean platelet (thrombocyte) volume,Continuous
+125,30110.0,Platelet distribution width,Continuous
+126,30120.0,Lymphocyte count,Continuous
+127,30130.0,Monocyte count,Continuous
+128,30140.0,Neutrophill count,Continuous
+129,30150.0,Eosinophill count,Continuous
+130,30160.0,Basophill count,Continuous
+131,30180.0,Lymphocyte percentage,Continuous
+132,30190.0,Monocyte percentage,Continuous
+133,30200.0,Neutrophill percentage,Continuous
+134,30210.0,Eosinophill percentage,Continuous
+135,30220.0,Basophill percentage,Continuous
+136,30240.0,Reticulocyte percentage,Continuous
+137,30250.0,Reticulocyte count,Continuous
+138,30260.0,Mean reticulocyte volume,Continuous
+139,30270.0,Mean sphered cell volume,Continuous
+140,30280.0,Immature reticulocyte fraction,Continuous
+141,30290.0,High light scatter reticulocyte percentage,Continuous
+142,30300.0,High light scatter reticulocyte count,Continuous
+143,33.0,Age,Continuous
+144,6138.0,Education,Ordinal
+145,738.0,Social Economic Status,Ordinal
+146,31.0,Gender,Binary
+147,6141.0,In a relationship,Binary
+148,6152.1,Inflammation/immuno-response - Asthma,Binary
+149,6152.2,Inflammation/immuno-response - Hayfever,Binary
+150,6153.1,Cholesterol or blood pressure medication - Cholesterol,Binary
+151,6153.2,Cholesterol or blood pressure medication - Blood Pressure,Binary

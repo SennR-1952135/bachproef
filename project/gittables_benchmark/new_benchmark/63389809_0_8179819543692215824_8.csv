@@ -1,0 +1,263 @@
+,company,industry,country
+0,37signals,technology,us
+1,accelrys,information technology,us
+2,accuquote,insurance,us
+3,achilles,logistics,uk
+4,adidas,retail,germany
+5,admiral taverns,hospitality,uk
+6,aicache,technology,us
+7,alcoa,packaging,us
+8,all my sons,freight,us
+9,altia,technology,us
+10,amadeus,technology,spain
+11,amazon web services,technology,us
+12,analog devices,information technology,us
+13,aprilaire,household goods,us
+14,aras,technology,us
+15,arcelormittal,other,luxembourg
+16,argus,automotive,ireland
+17,arvixe,technology,us
+18,asda,retail,uk
+19,autonation,automotive,us
+20,avis (uk),automotive,uk
+21,avnet,retail,us
+22,bbc,media,uk
+23,ben locker & associates,marketing,uk
+24,bigelow tea,retail,us
+25,blackberry,telecommunications,canada
+26,blackstone,banking and finance,us
+27,blockbuster,retail,us
+28,blurb,media,us
+29,book of odds,media,us
+30,borough wines,retail,uk
+31,boxee,technology,us
+32,breaking point,information technology,us
+33,brightcove,technology,us
+34,brightroll,marketing,us
+35,bskyb,media,uk
+36,bt,telecommunications,uk
+37,bug labs,technology,us
+38,capstone,media,us
+39,charles schwab,banking and finance,us
+40,chrysler,automotive,us
+41,ciena,technology,us
+42,citigroup,banking and finance,us
+43,clearcontext,technology,us
+44,clearspring,information technology,us
+45,comcast,media,us
+46,communispace,marketing,us
+47,computer services,technology,us
+48,comscore,information technology,us
+49,conduit,information technology,us
+50,cybertech,media,china
+51,daimler,automotive,germany
+52,danya,healthcare,us
+53,delta,airlines,us
+54,demand media,media,us
+55,demandtec,technology,us
+56,dialogic,technology,us
+57,digg,technology,us
+58,directfed,information technology,us
+59,dish network,media,us
+60,disqus,technology,us
+61,distribion,technology,us
+62,docusign,technology,us
+63,dreamhost,technology,us
+64,ebay,retail,us
+65,edoorways,information technology,us
+66,edreams,travel,spain
+67,eharmony,technology,us
+68,emerson,technology,us
+69,ericsson,telecommunications,sweden
+70,espn,media,us
+71,evernote,technology,us
+72,evidon,technology,us
+73,evolvhealth,healthcare,us
+74,ewi,technology,us
+75,facebook,technology,us
+76,federated media,media,us
+77,finnair,airlines,finland
+78,flickr,technology,us
+79,flowtown,information technology,us
+80,foremost,insurance,us
+81,freshbooks,technology,canada
+82,fxbees,banking and finance,germany
+83,gamestop,media,us
+84,gamestreamer,technology,us
+85,gap,retail,us
+86,garmin,technology,us
+87,general electric,energy,us
+88,general motors,automotive,us
+89,giffgaff,telecommunications,uk
+90,glaxosmithkline,pharmaceuticals,uk
+91,global crossing,telecommunications,bermuda
+92,globe telecom,telecommunications,philippines
+93,good energy,energy,uk
+94,google,technology,us
+95,graco,retail,us
+96,grasshopper,technology,us
+97,h&r block,banking and finance,us
+98,home helpers,healthcare,us
+99,hulu,media,us
+100,hyatt,hotels,us
+101,id experts,information technology,us
+102,infibeam,retail,india
+103,innocent,food and beverage,uk
+104,inova solutions,technology,us
+105,instapaper,technology,us
+106,integral networks,information technology,uk
+107,integricity,media,malaysia
+108,intergraph,information technology,us
+109,intersoft,technology,indonesia
+110,invacare,healthcare,us
+111,ivr,telecommunications,us
+112,jet blue,airlines,us
+113,johnson & johnson,pharmaceuticals,us
+114,joyent,technology,us
+115,justin.tv,media,us
+116,kia,automotive,korea republic of
+117,kissmetrics,information technology,us
+118,klm,airlines,netherlands
+119,kodak,telecommunications,us
+120,la metro,travel,us
+121,lantronix,information technology,us
+122,las vegas sands,hotels,us
+123,lilly,healthcare,us
+124,linkedin,media,us
+125,lion brand yarn,retail,us
+126,lulu,media,us
+127,mashery,technology,us
+128,mckay flooring,retail,uk
+129,memex,information technology,uk
+130,micron,technology,us
+131,microvision,technology,us
+132,mindtouch,technology,us
+133,mint,banking and finance,us
+134,missionmode,information technology,us
+135,monsanto,biotechnology,us
+136,mozilla,technology,us
+137,mzinga,media,us
+138,nai global,real estate,us
+139,netflix,retail,us
+140,nielsen,media,us
+141,ning,technology,us
+142,nokia,telecommunications,finland
+143,nook industries,retail,us
+144,notion ink,technology,india
+145,novagold,mining,canada
+146,novell,technology,us
+147,nyse euronext,banking and finance,us
+148,old spice,retail,us
+149,omniture,information technology,us
+150,onstar,technology,us
+151,openskies,airlines,us
+152,openview,banking and finance,us
+153,openwave,technology,us
+154,optify,marketing,us
+155,palm,telecommunications,us
+156,panda security,information technology,spain
+157,pandora,media,us
+158,patagonia,retail,us
+159,paypal,information technology,us
+160,penske,freight,us
+161,petro-canada,energy,canada
+162,photobucket,technology,us
+163,phusion,technology,netherlands
+164,picnik,technology,us
+165,pinnacol,insurance,us
+166,pitney bowes,technology,us
+167,posterous,technology,us
+168,primerica,banking and finance,us
+169,progressive,insurance,us
+170,qa infotech,information technology,india
+171,quicken loans,banking and finance,us
+172,quickoffice,technology,us
+173,rackspace,technology,us
+174,radian6,marketing,canada
+175,razorsight,technology,us
+176,reddit,technology,us
+177,redfin,real estate,us
+178,renesys,information technology,us
+179,rentokil,logistics,uk
+180,return path,technology,us
+181,revision3,media,us
+182,rna corp,real estate,india
+183,rogers communications,media,canada
+184,rogue amoeba,technology,us
+185,roku,media,us
+186,rubbermaid,household goods,us
+187,safeguard scientifics,banking and finance,us
+188,safeway,retail,us
+189,sage,technology,uk
+190,salesforce,technology,us
+191,samsung,retail,korea republic of
+192,second life,technology,us
+193,seesmic,technology,us
+194,segue technologies,technology,us
+195,select world travel,travel,uk
+196,seomoz,technology,us
+197,sevone,technology,us
+198,six flags,hospitality,us
+199,skype,technology,luxembourg
+200,slideshare,technology,us
+201,smartypig,banking and finance,us
+202,socialcast,technology,us
+203,socialtext,technology,us
+204,societe generale,banking and finance,france
+205,sonic foundry,technology,us
+206,sonus networks,technology,us
+207,sony,media,japan
+208,sophos,information technology,uk
+209,sourcefire,technology,us
+210,southwest,airlines,us
+211,spotify,media,uk
+212,squarespace,technology,us
+213,stacks & stacks,retail,us
+214,starwood hotels,hotels,us
+215,stonesoft,information technology,finland
+216,storify,technology,us
+217,streetcar,automotive,uk
+218,student universe,travel,us
+219,sugarcrm,technology,us
+220,sysomos,technology,us
+221,talktalk,telecommunications,uk
+222,tchibo,retail,germany
+223,telligent,technology,us
+224,telstra,telecommunications,australia
+225,texas instruments,technology,us
+226,the english cut,retail,uk
+227,three,telecommunications,uk
+228,ticketmaster,retail,us
+229,timberland,retail,us
+230,time warner cable,media,us
+231,t-mobile,telecommunications,germany
+232,toyota,automotive,japan
+233,twago,technology,germany
+234,tweetdeck,technology,uk
+235,ups,freight,us
+236,urban outfitters,retail,us
+237,usana,healthcare,us
+238,vanguard,banking and finance,us
+239,vans,retail,us
+240,viddler,media,us
+241,visa,technology,us
+242,visma,information technology,norway
+243,vsp,healthcare,us
+244,webtrends,marketing,us
+245,wegmans,retail,us
+246,westfield,insurance,us
+247,whole foods,retail,us
+248,windstream,telecommunications,us
+249,wistia,media,us
+250,wolfram alpha,technology,us
+251,wolsey,retail,uk
+252,woot,retail,us
+253,wordpress,technology,us
+254,wso2,technology,us
+255,xerox,technology,us
+256,xobni,technology,us
+257,yahoo!,technology,us
+258,yelp,classifieds,us
+259,yola,technology,us
+260,zemanta,technology,uk
+261,zillow,real estate,us

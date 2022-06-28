@@ -1,0 +1,7 @@
+,name
+0,mail.message.portal
+1,mail.mail.portal
+2,mail.notification.portal
+3,mail.followers.portal
+4,ir.attachment group_portal
+5,ir_ui_menu group_portal

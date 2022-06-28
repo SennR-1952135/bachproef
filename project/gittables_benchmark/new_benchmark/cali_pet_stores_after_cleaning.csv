@@ -1,0 +1,524 @@
+,name,address,city
+0,Petco,"25592 El Paseo, Mission Viejo",Mission Viejo
+1,PetSmart,"20002 Brookhurst St, Huntington Beach",Huntington Beach
+2,AAA Animal Hospital,"425 E 6th St, Corona",Corona
+3,Healthy Pet Hospital and Grooming,"3411 E Chapman Ave, Orange",Orange
+4,Grand Pet Care Center,"1602 N Grand Ave, Santa Ana",Santa Ana
+5,Pacific Park Animal Hospital,"27261 La Paz Rd H, Laguna Niguel",Laguna Niguel
+6,Perris Valley Veterinary Clinic,"2560 N Perris Blvd, Perris",Perris
+7,Animal & Bird Veterinary Medical Center,"3119 Hamner Ave, Norco",Norco
+8,Pet Supplies Plus,"5912 Edinger Ave, Huntington Beach",Huntington Beach
+9,PetStore.com,"14271 Corporate Dr, Garden Grove",Garden Grove
+10,Kahoots Pet Store,"18681 Main St, Huntington Beach",Huntington Beach
+11,Kahoots Pet Store,"4200 Chino Hills Pkwy, Chino Hills",Chino Hills
+12,Kahoots Feed & Pet Store,"16851 Van Buren Boulevard, Riverside",Riverside
+13,Kahoots Feed & Pet Store,"1004 Sixth St, Norco",Norco
+14,Pets Plus,"32022 Camino Capistrano, San Juan Capistrano",San Juan Capistrano
+15,Kahoots Pet Store,"2616 El Camino Real, Carlsbad",Carlsbad
+16,Kahoots Feed & Pet Store,"41711 Ivy St, Murrieta",Murrieta
+17,Pier K9 Pet Shop,"403 Wisconsin Ave ste c, Oceanside",Oceanside
+18,Zoom Room Dog Training,"19069 Beach Blvd, Huntington Beach",Huntington Beach
+19,Paw In Order,"618 W Collins Ave, Orange",Orange
+20,PetSmart,"3871 N Lakewood Blvd, Long Beach",Long Beach
+21,Catherine's Pet Services,"9413 Residencia, Newport Beach",Newport Beach
+22,Coast Pet Supplies & Grooming,"880 N Coast Hwy, Laguna Beach",Laguna Beach
+23,Peek-A-Dog Pet Grooming Adoptions,"8452 State St, South Gate",South Gate
+24,Mike's Pet Store and pet grooming,"1224 Florence St, Los Angeles",Los Angeles
+25,Kriser's Natural Pet,"Alton Square, 5365 Alton Pkwy, Irvine",Irvine
+26,Pets & Grooming,"7952 Florence Ave, Downey",Downey
+27,PETIAN,"749 W Commonwealth Ave, Fullerton",Fullerton
+28,Pet Shop & Grooming,Corona,Corona
+29,Horizon Pet Supply,"36068 Hidden Springs Rd, Wildomar",Wildomar
+30,Pussy & Pooch Pethouse and Pawbar,"4818 E 2nd St, Long Beach",Long Beach
+31,Local Pet Market,"18900 Beach Blvd #109, Huntington Beach",Huntington Beach
+32,Just Food For Dogs,"103 E 17th St, Costa Mesa",Costa Mesa
+33,Kriser's Natural Pet,"1044 Irvine Ave, Newport Beach",Newport Beach
+34,AGE OF AQUARIUMS,"2642 Cherry Ave, Signal Hill",Signal Hill
+35,Pet Supply,"21425 Brookhurst St, Huntington Beach",Huntington Beach
+36,Pet Pantry,"2801 Cherry Ave, Signal Hill",Signal Hill
+37,Katie’s PET DEPOT®,"1941 Foothill Blvd a, La Verne",La Verne
+38,Ask Ariel Your Pet Nutritionist,"1 S Pointe Dr, Lake Forest",Lake Forest
+39,Animal Lovers Pet Shop,"24028 Vista Montana, Torrance",Torrance
+40,Dog Lovers,"5700 Crenshaw Blvd, Los Angeles",Los Angeles
+41,The Urban Pet,"7515 Beverly Blvd, Los Angeles",Los Angeles
+42,Pinnacle Pet Services,"721 Fair Oaks Ave, South Pasadena",South Pasadena
+43,Vetco,"1475 S Robertson Blvd, Los Angeles",Los Angeles
+44,"Pets R Us, Pet Grooming & Supplies","838 W Glenoaks Blvd, Glendale",Glendale
+45,S F Pet Shop & Grooming,"600 E Valley Blvd, San Gabriel",San Gabriel
+46,Armando's Pets & Grooming,"2155 E Huntington Dr, Duarte",Duarte
+47,MY MASTER'S BEST FRIEND-Pet Food&Supply Delivery-Downey Long Beach Santa Monica Los Angeles Near Me,"4118, 903 S Prairie Ave ste 903, Inglewood",Inglewood
+48,PJ's Pet Cafe,"3412 E 7th St Suite A, Long Beach",Long Beach
+49,Just Food For Dogs,"1605 N Sepulveda Blvd, Manhattan Beach",Manhattan Beach
+50,Pet Mart,"1054 Aviation Blvd, Hermosa Beach",Hermosa Beach
+51,Kriser's Natural Pet,"1559 Pacific Coast Hwy, Hermosa Beach",Hermosa Beach
+52,Button Nose Pet Shop,"838 Foothill Blvd, La Cañada Flintridge",La Cañada Flintridge
+53,Pet Foods Market & Supplies,"1816 N Sepulveda Blvd, Manhattan Beach",Manhattan Beach
+54,Katie's PET DEPOT,"12423 Wilshire Blvd, Los Angeles",Los Angeles
+55,Bark Williams,"2901 Ocean Park Blvd #118, Santa Monica",Santa Monica
+56,Puppy Store,"2800 N Main St #632, Santa Ana",Santa Ana
+57,Dirty Dogs Carlsbad,"#105, 2521 Palomar Airport Rd, Carlsbad",Carlsbad
+58,Kriser's Natural Pet,"23894 Aliso Creek Rd, Laguna Niguel",Laguna Niguel
+59,Ramirez Pet Shop,"1741 Firestone Blvd, Los Angeles",Los Angeles
+60,34 Pet Shop,"3434 W Slauson Ave, Los Angeles",Los Angeles
+61,Birdman Pet Shop,"3520 N Figueroa St, Los Angeles",Los Angeles
+62,Pet Supplies Plus,"7041 Barker Cypress Rd, Cypress",Cypress
+63,Pet Supermarket,"15050 Fairfield Village Dr, Cypress",Cypress
+64,Pet Supermarket,"14044 Grant Rd #200, Cypress",Cypress
+65,PetSmart,"10181 West Grand Parkway South, Richmond",Richmond
+66,Happy Pets Vets,"1142, 18310 Farm to Market Rd 529, Cypress",Cypress
+67,Carlsbad Pet and Feed,"7040 Avenida Encinas Ste 108B, Carlsbad",Carlsbad
+68,The Pet Stop,"9124 E Foothill Blvd, Rancho Cucamonga",Rancho Cucamonga
+69,Andy's Pet Grooming & Supplies,"503 E Colorado St, Glendale",Glendale
+70,Kahoots Pet Store,"31845 Temecula Pkwy, Temecula",Temecula
+71,Mr. Bulldog,"9432 Whittier Blvd, Pico Rivera",Pico Rivera
+72,Super Pets,"1807 E Chapman Ave, Orange",Orange
+73,Naked Dog Bistro,"424 Forest Ave, Laguna Beach",Laguna Beach
+74,Pet Supplies Plus,"198 North Ave, Villa Park",Villa Park
+75,"Best Pets, Ltd.","939 Main St, Antioch",Antioch
+76,Petbarn Orange,"268 Peisley St, Orange",Orange
+77,Seaside Tropical Fish,"21162 Beach Blvd, Huntington Beach",Huntington Beach
+78,Pottsee's Exotics,"9929 Artesia Blvd, Bellflower",Bellflower
+79,Kahoots Pet Store,"677 San Rodolfo Dr, Solana Beach",Solana Beach
+80,Kahoots Pet Store,"11965 Bernardo Plaza Dr, San Diego",San Diego
+81,Kahoots Pet Store,"322 W El Norte Pkwy, Escondido",Escondido
+82,Muttropolis Solana Beach,"227 S Cedros Ave, Solana Beach",Solana Beach
+83,Puppy House & Grooming,"12801 Valley View Ave, La Mirada",La Mirada
+84,ACUAMUNDO,"10ª Avenida Sur entre 29 y 31 calle Poniente # 80, Santa Ana, 10a Avenida Sur 80, Santa Ana",Santa Ana
+85,Happy Pets,Santa Ana,Santa Ana
+86,Villaggio Family Pets,"41493 Margarita Rd G-103, Temecula",Temecula
+87,Global Aquatics & Pet Supplies,"1420 S Carlos Ave, Ontario",Ontario
+88,Pets at Home,"86 Manor Rd, Richmond",Richmond
+89,Barstow Humane Society,"2480 E Main St, Barstow",Barstow
+90,Glendora Village Pet Shop,"173 Glendora Ave, Glendora",Glendora
+91,Wow Fish and Pet,"14560 Palmdale Rd, Victorville",Victorville
+92,Fish Locker,"42183 Big Bear Blvd, Big Bear Lake",Big Bear Lake
+93,Home & Pet Care Services,Hesperia,Hesperia
+94,Tags Veterinary Clinic: Donahue John DVM,"2635, 23007 Soledad Canyon Rd, Santa Clarita",Santa Clarita
+95,Cameo's Pet Salon & Doggie Day,"2494 E Main St, Ventura",Ventura
+96,Petco Grooming,"2643 Tapo Canyon Rd C, Simi Valley",Simi Valley
+97,Birds & More,"4301 Redondo Beach Blvd, Lawndale",Lawndale
+98,Aquatic Fantasy,"541 N Pacific Coast Hwy C, Redondo Beach",Redondo Beach
+99,South Bay Aquarium,"2021 W Redondo Beach Blvd A, Gardena",Gardena
+100,PETNJOY - GARDENA,"15515 Normandie Ave, Gardena",Gardena
+101,Just Food For Dogs,"333 S Spring St, Los Angeles",Los Angeles
+102,Lotus Aquarium,"14704 Hawthorne Blvd, Lawndale",Lawndale
+103,Pet Food Express,"912 Diablo Ave, Novato",Novato
+104,Bow Wow Meow,"737 Laurel St, San Carlos",San Carlos
+105,Woodlands Pet Food & Treats,"701 Strawberry Village, Mill Valley",Mill Valley
+106,Woodlands Pet Food & Treats,"902 3rd St, San Rafael",San Rafael
+107,Woodlands Pet Food & Treats,"474 Ignacio Blvd, Novato",Novato
+108,Pet Supplies Plus,"4500 Arroyo Vista, Livermore",Livermore
+109,Pet Supplies Plus,"4230 Rosewood Dr suite b, Pleasanton",Pleasanton
+110,Village Pets & Supplies,"1036 Hyde St, San Francisco",San Francisco
+111,Pet Club South San Francisco,"1 Chestnut Ave, South San Francisco",South San Francisco
+112,Paws & Claws: A Natural Pet Food Store & Grooming Spa,"3436 Dimond Ave, Oakland",Oakland
+113,Louis Birds Pets & Supplies,"5803, 80 Keyes St, San Jose",San Jose
+114,Pet Food Express,"2220 Mountain Blvd, Oakland",Oakland
+115,Bow Wow Meow SF,"2150 Polk St, San Francisco",San Francisco
+116,Bow Wow Meow,"654 Santa Cruz Ave, Menlo Park",Menlo Park
+117,Pet Club Hayward,"27451 Hesperian Blvd, Hayward",Hayward
+118,Pet Food Express,"1430 Fitzgerald Dr, Pinole",Pinole
+119,Pet Food Express,"3868 Piedmont Ave, Oakland",Oakland
+120,Pet Food Express,"6398 Telegraph Ave, Oakland",Oakland
+121,Pet Food Express,"5108 Broadway, Oakland",Oakland
+122,Biscuits - Give A Dog A Bone,"3202, 223 Jackson St, San Jose",San Jose
+123,Pet Club Emeryville,"3535 Hollis St, Oakland",Oakland
+124,PetSmart,"2860 Dublin Blvd, Dublin",Dublin
+125,PetSmart,"2891 Ygnacio Valley Rd, Walnut Creek",Walnut Creek
+126,Clip N Clean Pet Grooming & Supplies,"3498 Clayton Rd, Concord",Concord
+127,Cage Free Grooming Pet Stylist Heather Tuthill,"4125 Piedmont Ave, Oakland",Oakland
+128,Jeffrey's Natural Pet Foods North Beach,"1841 Powell St, San Francisco",San Francisco
+129,Pawtrero Bathhouse & Feed Co,"199 Brannan St, San Francisco",San Francisco
+130,Pet Central,"1411 Powell St, San Francisco",San Francisco
+131,Pet Food Express,"1975 Market St, San Francisco",San Francisco
+132,Pet Club San Mateo,"1850 S Norfolk St, San Mateo",San Mateo
+133,Jeffrey's Natural Pet Foods Duboce Park,"284 Noe St, San Francisco",San Francisco
+134,Rivertown Feed & Pet Country Store,"200 1st St, Petaluma",Petaluma
+135,PetSmart,"1580 Gateway Blvd, Fairfield",Fairfield
+136,Alameda See Spot Run,"2510 Santa Clara Ave, Alameda",Alameda
+137,Pet Supplies Plus,"1411 S Stockton St, Lodi",Lodi
+138,Pets Plus,"3317 Julliard Dr, Sacramento",Sacramento
+139,Royalty Pet Store,"2620 Waterloo Rd #3, Stockton",Stockton
+140,Pet Supplies Plus,"1140 W Hammer Ln, Stockton",Stockton
+141,Pet Club | Elk Grove,"8515 Bond Rd, Elk Grove",Elk Grove
+142,Pet Club | Rancho Cordova,"2344 Sunrise Blvd, Rancho Cordova",Rancho Cordova
+143,Incredible Pets,"1105 Roseville Square, Roseville",Roseville
+144,Carter's Pet Mart,"909 W March Ln, Stockton",Stockton
+145,Western Feed & Pet Supply Inc,"2137 Golden Centre Ln, Rancho Cordova",Rancho Cordova
+146,Solid Gold Dog Foods,"14801 Lakeside Dr, Sonora",Sonora
+147,PetSmart,"8670 Sierra College Blvd, Roseville",Roseville
+148,Animal Nutrition & Grooming Center,"5533, 1805 Cirby Way # 10, Roseville",Roseville
+149,Rocklin Family Pets & Wash,"3211 Stanford Ranch Rd, Rocklin",Rocklin
+150,Pet Food Express,"383 S McDowell Blvd, Petaluma",Petaluma
+151,Pet Food Express,"280 Northgate Dr, San Rafael",San Rafael
+152,Pet Food Express,"2158 Contra Costa Blvd, Pleasant Hill",Pleasant Hill
+153,Pet Club Fairfield,"5125 Business Center Dr, Fairfield",Fairfield
+154,Pet Club,"1935 Santa Rosa Ave, Santa Rosa",Santa Rosa
+155,Green Pawz,"772 Stanyan St, San Francisco",San Francisco
+156,Pawsarotti's,"4040 Sonoma Hwy, Santa Rosa",Santa Rosa
+157,Aquarium and Pets,"345 S Main St, Red Bluff",Red Bluff
+158,Happy Tails Barkery & Pet Supplies,"202 Hartnell Ave, Redding",Redding
+159,Redding Reptiles,"991 Lake Blvd C, Redding",Redding
+160,Aquariums Plus,"1666 E Cypress Ave #16, Redding",Redding
+161,Pet Buddies,"13540 Twin Lakes Ln, Redding",Redding
+162,Mincer Apiaries,"20116 Freeman Way, Redding",Redding
+163,The Deep,"2956 Churn Creek Rd, Redding",Redding
+164,McCloud's Pets,"13769 Mono Way Suite A, Sonora",Sonora
+165,Sonora Pet Waste Removal,"21833 Feather River Dr, Sonora",Sonora
+166,DharmaDog,"129 S Washington St, Sonora",Sonora
+167,Foxy Roxy's Mobile Pet Salon,Modesto,Modesto
+168,Regalia Tibetan Terriers,"105 Center St, Jackson",Jackson
+169,Tropical Haven,"1707 Prescott Rd, Modesto",Modesto
+170,Pet Supplies Plus,"1416 Country Club Blvd, Stockton",Stockton
+171,Fin-N-Feather,"2931 F St, Eureka",Eureka
+172,Fortuna Pet Shoppe,"1095 S Fortuna Blvd C, Fortuna",Fortuna
+173,B & B Doggy Daycare,"3120 Trinity St, Eureka",Eureka
+174,Veterinary Medical Center and Specialty Pet Supply,"8165 Morro Rd, Atascadero",Atascadero
+175,Atascadero Pet Hospital & Emergency Center,"9575 El Camino Real, Atascadero",Atascadero
+176,The Animal Kingdom Pet Shop,"146 Town Center E, Santa Maria",Santa Maria
+177,Pet Boutique,"745 Higuera St, San Luis Obispo",San Luis Obispo
+178,That's FETCH!,"3564 Skyway Dr Suite B, Santa Maria",Santa Maria
+179,PetDoors.com,"202 Tank Farm Road Suite F1, San Luis Obispo",San Luis Obispo
+180,Tradewinds International,"14310 San Miguel Rd, Atascadero",Atascadero
+181,Mutt Hut,"3484 Orcutt Rd, Santa Maria",Santa Maria
+182,Austin's Wet Pets and Lily Pad,"1164 E Grand Ave, Arroyo Grande",Arroyo Grande
+183,PetSmart,"5601 Calloway Dr Suite 100, Bakersfield",Bakersfield
+184,Canine Creek,"798 Tucker Rd #5, Tehachapi",Tehachapi
+185,Biscuit Boutique Doggy Spa Llc,"1617 19th St, Bakersfield",Bakersfield
+186,Self Serve Pet Spa,"2816 Calloway Dr #103, Bakersfield",Bakersfield
+187,Self Serve Pet Spa,"7401 White Ln #2, Bakersfield",Bakersfield
+188,Roundup,"5805 Rosedale Hwy, Bakersfield",Bakersfield
+189,Perez Pet Shop 5,"6433 E Brundage Ln # 4, Bakersfield",Bakersfield
+190,Cervantes the Feed Store,"135 N, 1920, Shafter Ave, Shafter",Shafter
+191,Bakersfield Aquatic Pets,"1920 N Chester Ave, Bakersfield",Bakersfield
+192,Primp Your Pet,"27951 Rustler Ave, Tehachapi",Tehachapi
+193,Sharon's Birds,"1502 Haldon St, Bakersfield",Bakersfield
+194,See De Nu Ones,"3713 Pacino Ct, Bakersfield",Bakersfield
+195,Marquez Pets,"1332 S Union Ave, Bakersfield",Bakersfield
+196,For the Birds & More,"1450 Olive Dr, Bakersfield",Bakersfield
+197,POWER HOUSE BORDER COLLIES,"18333 W Ave B-8, Lancaster",Lancaster
+198,NV Pet & NV Sales,"4308 Resnik Ct, Bakersfield",Bakersfield
+199,Country Oaks Mini Aussies,"905 Aleah Lane, Tehachapi",Tehachapi
+200,Going Mutts Pet Grooming,"6401 White Ln, Bakersfield",Bakersfield
+201,Camp K-9 & Friends,"3430 Gilmore Avenue Located in back, pull into the gates next to red poles at 3500, Gilmore Ave, Bakersfield",Bakersfield
+202,Santa Cruz Animal Health,"3600 Dry Creek Rd, Paso Robles",Paso Robles
+203,The Pet Department,"705 6th St, Paso Robles",Paso Robles
+204,Chateau Bow Wow,"242 Silver Oak Dr, Paso Robles",Paso Robles
+205,Clawz N Pawz Pet Sitting,"430 Whitley Gardens Dr, Paso Robles",Paso Robles
+206,Cat Nip & House Sit,"64 Via San Carlos, Paso Robles",Paso Robles
+207,Pet Supplies Plus,"2840 Countryside Dr, Turlock",Turlock
+208,Pet Avenue,"2445 Geer Rd, Turlock",Turlock
+209,Mrs & Mr Garret Pet Shop,Merced,Merced
+210,Armstrong's Pet World,"4910 Clover Ave, Atwater",Atwater
+211,Armstrong's Pet World,"2941 G St, Merced",Merced
+212,"P.S. M'Lynn, A Pet Salon","1745 Canal St, Merced",Merced
+213,Debbie's Pet Grooming,"433 W Main St, Ripon",Ripon
+214,4 Paws Pet Sitting Services,"3096 Cedar Springs Ct, Ceres",Ceres
+215,California Favorite's,"8252, 4830 Paradise Rd, Modesto",Modesto
+216,Bark'n Biscuit Salon,"41 W Alexander Ave, Merced",Merced
+217,Critter Creek Veterinary Hospital,"140 Gateway Dr, Lincoln",Lincoln
+218,Pet Supplies Plus,"2018 Sutterville Rd #112, Sacramento",Sacramento
+219,PetSmart,"11805 Willow Creek Dr, Auburn",Auburn
+220,Incredible Pets,"5030 Folsom Blvd, Sacramento",Sacramento
+221,Incredible Pets,"649 Sutton Way, Grass Valley",Grass Valley
+222,Incredible Pets,"392 Florin Rd, Sacramento",Sacramento
+223,The Canine Coach,"20065 Scotts Flat Rd, Nevada City",Nevada City
+224,Vip Pets,"420 D St, Marysville",Marysville
+225,Dogwidgets Dog Crate Kennel Cage,"2971 Muttonbird Way, Sacramento",Sacramento
+226,WAGGER'S,"2311, 2051 Arena Blvd # 130, Sacramento",Sacramento
+227,Posh Puppy Boutique,"4414, 6040 Stanford Ranch Rd #100, Rocklin",Rocklin
+228,"TOP DOG *Barkery, *Bath & *Boutique","21010 Pacific Coast Hwy, Ste A-160, Huntington Beach",Huntington Beach
+229,Country Critters Pet Care,"13620 Iona Ave, Hanford",Hanford
+230,ROBINHOODS,"1720 Circle B Rd, Paso Robles",Paso Robles
+231,Premier Ag Inc,"1041 Paso Robles St, Paso Robles",Paso Robles
+232,Delano Pets & Supplies,"822 10th Ave, Delano",Delano
+233,Shaw's Western Shop,"419 Harrison St, Taft",Taft
+234,Central Valley Labradoodles,"17096 Shafter Ave, Shafter",Shafter
+235,VCA Rancho Mirage Animal Hospital,"72877 Dinah Shore Dr, Rancho Mirage",Rancho Mirage
+236,PetSmart,"500 W Stuart Ave unit c-1, Redlands",Redlands
+237,Pet Empire & Supplies,"7223 Church St Suite A3, Highland",Highland
+238,Rachael's PET DEPOT,"31795 Rancho California Rd Suite B400, Temecula",Temecula
+239,Doggie's Day Out of Palm Springs,"752 Vella Rd, Palm Springs",Palm Springs
+240,Hello Puppies,"41125 Winchester Rd B6, Temecula",Temecula
+241,Creative Dog Grooming,"73280 CA-111 #103, Palm Desert",Palm Desert
+242,Uptown Pets,"35039 Yucaipa Blvd, Yucaipa",Yucaipa
+243,Ritzi Rover Pet Grooming,"73260 El Paseo # 2E, Palm Desert",Palm Desert
+244,Daryl's Pet Shop,"208 E State St, Redlands",Redlands
+245,EarthWise Pet Supply,"40101 Monterey Ave, Suite G7, Rancho Mirage",Rancho Mirage
+246,Aquarium Odyssey,"73950 CA-111, Palm Desert",Palm Desert
+247,Seven Seas Fish And Corals,"14761 7th St e, Victorville",Victorville
+248,Kritters Pet Store,"1515 E Florida Ave, Hemet",Hemet
+249,Thinschmidt's German Shepherds,"11111 Spanish Hills Dr, Corona",Corona
+250,Andy's Pet Shop,"51 Notre Dame Ave, San Jose",San Jose
+251,Pet Food Express,"3160 20th Ave, San Francisco",San Francisco
+252,Mike's Feed & Pet,"710 E 14th St, San Leandro",San Leandro
+253,Pet's Delight,"390 State St, Los Altos",Los Altos
+254,Rodie's Feed & Pet Supply,"8863 Marsh Creek Rd, Clayton",Clayton
+255,Pet Food Express,"3910 Middlefield Rd, Palo Alto",Palo Alto
+256,Pet Food Express,"372 Woodside Rd, Redwood City",Redwood City
+257,Gussied Up Dog Boutique,"1310 Lincoln Ave, San Jose",San Jose
+258,Pet Food Express,"3150 California St, San Francisco",San Francisco
+259,Holistic Hound,"1510 Walnut St # A, Berkeley",Berkeley
+260,Bernal Beast,"509 Cortland Ave, San Francisco",San Francisco
+261,All Pet Feed & Tack,"25598 E Baseline St, San Bernardino",San Bernardino
+262,J&K Aquatics and Pet Center,"507 E 6th St, Beaumont",Beaumont
+263,Pet Scene,"31776 Yucaipa Blvd #9, Yucaipa",Yucaipa
+264,Pet Salon,"855 E Foothill Blvd, Rialto",Rialto
+265,Trailblazer Pet Supply,"752 Mangrove Ave, Chico",Chico
+266,VIP Pets,"1707 Colusa Hwy, Yuba City",Yuba City
+267,Go Doggy Pet Store,"932 W 8th Ave, Chico",Chico
+268,Gaiser Pets,"714 Plumas St, Yuba City",Yuba City
+269,Chico Reptiles,"956 Marjorie Ave, Chico",Chico
+270,Olive City Pets -N-stuff,"1251 S 99 W Hwy, Corning",Corning
+271,Mullins Korner / Bow Wows & Meows,"325 Broadway, Inside Attic Treasures Chico, Chico",Chico
+272,Fish Etc,"1210 Yosemite Dr, Chico",Chico
+273,Puppies of Pamelot,"2990 Hegan Ln, Chico",Chico
+274,The Silver Hound,"758 Bridge St, Yuba City",Yuba City
+275,Farmer shopy Best Pet Food,"614 Gray Ave, Yuba City",Yuba City
+276,Cheval Farm Feed & Tack,"346 Larsen Rd, Imperial",Imperial
+277,Desert Showpigs,"1246 W Ross Rd, El Centro",El Centro
+278,Montecito Pet Shop,"2020 Cliff Dr, Santa Barbara",Santa Barbara
+279,Sensational Pets,"3433 State St, Santa Barbara",Santa Barbara
+280,Pet House,"5781 Calle Real, Goleta",Goleta
+281,PoopPac,"222 Lou Dillon Ct, Santa Barbara",Santa Barbara
+282,Aquatic Designs of Santa Barbara,"230 Magnolia Ave, Goleta",Goleta
+283,Hardnox LLC,"1721 Santa Barbara St, Santa Barbara",Santa Barbara
+284,Dioji K-9 Resort & Athletic Club,"822 E Yanonali St, Santa Barbara",Santa Barbara
+285,All Pet Center,"1950 S Atlantic Blvd, Monterey Park",Monterey Park
+286,JTK Reptiles,"916 E Pacific Coast Hwy, Long Beach",Long Beach
+287,Reptile Factory,"1095 E Artesia Blvd, Long Beach",Long Beach
+288,Tom's Tropical Fish,"4925 Long Beach Boulevard, Long Beach",Long Beach
+289,Rosita's Pet Store #2,"43953 Sierra Highway, Unit B&C, Lancaster",Lancaster
+290,D's Pet City,"44333 Challenger Way, Lancaster",Lancaster
+291,Twisted Desert Feed & Grain,"207 W Ave I, Lancaster",Lancaster
+292,Three Little Fish,"602 W Avenue J, Lancaster",Lancaster
+293,Hemme Hay & Feed Inc,"43719 Sierra Hwy, Lancaster",Lancaster
+294,Tails2Scales Pet Shop,"1832 W Ave K #5, Lancaster",Lancaster
+295,Tailwaggers Pet Grooming,"43761 15th St W, Lancaster",Lancaster
+296,The Fancy Puppy,"530 Hidden Valley Pkwy #102, Corona",Corona
+297,Chauffeured Pets,"13819 E Foothill Blvd, Fontana",Fontana
+298,Protein for Pets,"7385 Milliken Ave #120, Rancho Cucamonga",Rancho Cucamonga
+299,The Paw Spa,"320 S Main St, Corona",Corona
+300,Pet World,"891 Harriman Pl, San Bernardino",San Bernardino
+301,Animal Hospital of Cloverdale,"20 Industrial Dr, Cloverdale",Cloverdale
+302,Village Pets & Supplies,"7618, 1425 Fulton Rd #331, Santa Rosa",Santa Rosa
+303,Puny Paws Pet Products,"927 Golf Course Dr, Rohnert Park",Rohnert Park
+304,Petaluma Pet Company,"144 Petaluma Blvd N, Petaluma",Petaluma
+305,Debbie's Pet Boutique,"431 Center St, Healdsburg",Healdsburg
+306,Pet Food Express,"1330 N Moorpark Rd, Thousand Oaks",Thousand Oaks
+307,Kriser's Natural Pet,"966 S Westlake Blvd, Westlake Village",Westlake Village
+308,To Wag For - Boutique & Grooming,"927 Montana Ave, Santa Monica",Santa Monica
+309,R&R Pet Lifestyle and Supply,"2780 Tapo Canyon Rd #4, Simi Valley",Simi Valley
+310,Pet Food Express,"5148 Stevens Creek Blvd, San Jose",San Jose
+311,Pet Food Express,"12900 Saratoga Sunnyvale Rd, Saratoga",Saratoga
+312,Pet Food Express,"1787 Capitol Expy, San Jose",San Jose
+313,Pet Food Express,"1902 S Bascom Ave, Campbell",Campbell
+314,Pet Stop,"1230 1st St #103, Gilroy",Gilroy
+315,Just Food For Dogs,"26886 Calle Hermosa, Dana Point",Dana Point
+316,Reptiles Reptropolis,"34215 Doheny Park Rd, Dana Point",Dana Point
+317,Pet Supply,"14370 Culver Dr A, Irvine",Irvine
+318,Pets Plus,"28991 Golden Lantern Street, Laguna Niguel",Laguna Niguel
+319,Pet Supplies Plus,"120 Country Club Gate Center #120, Pacific Grove",Pacific Grove
+320,Pet Club San Jose,"5625 Snell Ave, San Jose",San Jose
+321,Bed and Biscuits / Groomingdales,"2625 Chanticleer Ave, Santa Cruz",Santa Cruz
+322,Stone's Pet Wash,"2711 David Ave, Pacific Grove",Pacific Grove
+323,Jurassic Pets,"923 S Main St, Salinas",Salinas
+324,Pet Emporium,"1501 41st Ave, Capitola",Capitola
+325,Treasure Chest Aquarium & Pets,"3109 Alum Rock Ave, San Jose",San Jose
+326,Home Away From Home,"1231 10th St, Monterey",Monterey
+327,The Whole Kitten Capoodle,"1720 Commercial Way, Santa Cruz",Santa Cruz
+328,Pet Club Cupertino,"20590 Homestead Rd, Cupertino",Cupertino
+329,Cabrillo Pet Hospital,"4134 Voltaire St, San Diego",San Diego
+330,Black Mountain Road Pet Clinic,"13161 Black Mountain Rd #1, San Diego",San Diego
+331,Vets Pets,"1175 Avocado Ave, El Cajon",El Cajon
+332,Petco,"8501 Fletcher Pkwy, La Mesa",La Mesa
+333,Our Pet Vets - Balboa Veterinary Hospital,"7931 Balboa Ave, San Diego",San Diego
+334,Grooming at Cabrillo Pet Hospital,"4138 Voltaire St, San Diego",San Diego
+335,ABC Veterinary Hospital - Uptown,"4054 Normal St, San Diego",San Diego
+336,ABC Veterinary Hospital - Pacific Beach,"2032 Hornblend St, San Diego",San Diego
+337,Clairemont Village Pet Clinic,"3007 Clairemont Dr G, San Diego",San Diego
+338,Kahoots Pet Store,"13179 Black Mountain Rd, San Diego",San Diego
+339,Kahoots Pet Store,"5485 Grossmont Center Dr, La Mesa",La Mesa
+340,Kahoots Pet Store,"6525 Bisby Lake Ave, San Diego",San Diego
+341,Kahoots Pet Store,"13414 Poway Rd, Poway",Poway
+342,Kahoots Pet Store,"2895 Jamacha Road, El Cajon",El Cajon
+343,EarthWise Pet Supply East Village,"1051 Market St, San Diego",San Diego
+344,Unleashed by Petco,"3435 Del Mar Heights Rd D5, San Diego",San Diego
+345,Dirty Dogs Carmel Valley,"3840 Valley Centre Dr #601, San Diego",San Diego
+346,Dirty Dogs Carmel Mountain Ranch,"11835 Carmel Mountain Rd #1302, San Diego",San Diego
+347,Bow Wow Beauty Shoppe,"4219 Park Blvd, San Diego",San Diego
+348,Absolute Pawfection,"10855 Sorrento Valley Rd #5, San Diego",San Diego
+349,Dog Beach Dog Wash,"4933 Voltaire St # C, San Diego",San Diego
+350,Noah's Natural Pet Market,"4431 Cass St, San Diego",San Diego
+351,Point Loma Pet Pantry,"3704 Voltaire St, San Diego",San Diego
+352,Dirty Dogs Solana Beach,"W, 112 Plaza St, Solana Beach",Solana Beach
+353,The Fish Vet Store,"440 Airport Blvd, Watsonville",Watsonville
+354,Pet Shop Santa Cruz,"533 Seabright Ave, Santa Cruz",Santa Cruz
+355,Pet Fun At Harden Ranch Plz,"1780 N Main St, Salinas",Salinas
+356,The Lavish Pet,"820 Park Row, Salinas",Salinas
+357,Lil pals pet world,"401 McCray St, Hollister",Hollister
+358,The Wishbone Pet Co.,"2 Corral De Tierra Rd, Salinas",Salinas
+359,The Ultimate Aquarium,"828 Lighthouse Ave, Monterey",Monterey
+360,The Spoiled Pup,"2423 Ventura Blvd, Camarillo",Camarillo
+361,"Naturally for Paws II, Inc.","1766 E Thompson Blvd, Ventura",Ventura
+362,Healthy Pet,"850 Arneill Rd, Camarillo",Camarillo
+363,Doggin' Around Daycare,"3222 Bunsen Ave, Ventura",Ventura
+364,Bones-n-Scones of Palm Desert,"73910 CA-111, Palm Desert",Palm Desert
+365,AvenaPro Pet Solutions Inc.,"54 Ponderosa Cir, Palm Desert",Palm Desert
+366,Desert Feed Bag,"19345 N Indian Canyon Dr, Palm Springs",Palm Springs
+367,PALM DESERT PUPPIES,"44825 San Pablo Ave, Palm Desert",Palm Desert
+368,Tails In The City,"78370 CA-111, La Quinta",La Quinta
+369,The Grand Paw,"51750 Jackson St, Coachella",Coachella
+370,PoshPetCare - Palm Springs,"844 N Palm Canyon Dr, Palm Springs",Palm Springs
+371,Exotic Birds Unlimited,"44827 San Pablo Ave, Palm Desert",Palm Desert
+372,The Grand Paw,"368 S Palm Canyon Dr, Palm Springs",Palm Springs
+373,Farmers Feed & Pet Supply,"1302 E Miner Ave, Stockton",Stockton
+374,Golda's Amazing Doggie Treats,"2041 Paloma Ave, Stockton",Stockton
+375,Old Mcgowans Feed,"398 W Lathrop Rd, Manteca",Manteca
+376,Carters Pet Mart,"510 N Main St, Manteca",Manteca
+377,The Serpentarium,"1117 W March Ln, Stockton",Stockton
+378,The Doghouse,"3221 Yosemite Ave, Lathrop",Lathrop
+379,Wilburs Feed & Seed,"139 Meyers St, Chico",Chico
+380,Little Creek Reptiles,"10 Little Creek Rd, Oroville",Oroville
+381,Tuesday Morning,"2485 Notre Dame Blvd, Chico",Chico
+382,Pet Supplies Plus,"5418 N Blackstone Ave, Fresno",Fresno
+383,Whitie's Pets,"5215 N Blackstone Ave, Fresno",Fresno
+384,Kelley's Pets,"30 W Shaw Ave, Clovis",Clovis
+385,All In One Pets,"7711 N First St, Fresno",Fresno
+386,Aquatic Pets,"95 W Shaw Ave #103, Clovis",Clovis
+387,Kelley's Pets,"1382 N Cedar Ave, Fresno",Fresno
+388,Sabino Mendoza Cruz Pet Shop,"1517 N Blackstone Ave, Fresno",Fresno
+389,Bullerz Pet Supply,"2217 N Pleasant Ave, Fresno",Fresno
+390,Tailwaggers,"8967 N Cedar Ave, Fresno",Fresno
+391,ABC Veterinary Hospital - Kearny Mesa,"8020 Ronson Rd, San Diego",San Diego
+392,PetSmart,"877 E H St, Chula Vista",Chula Vista
+393,IB Pet,"575 Telegraph Canyon Rd, Chula Vista",Chula Vista
+394,National City Puppy,"1430 E Plaza Blvd E, National City",National City
+395,Dirty Dogs Torrey Hills,"4639 Carmel Mountain Rd #101, San Diego",San Diego
+396,Dunk'N Dogs Dog Wash and Grooming,"3056 Clairemont Dr, San Diego",San Diego
+397,Absolute Pawfection,"105 Diana St, Encinitas",Encinitas
+398,IB Pet,"600 Palm Ave #127, Imperial Beach",Imperial Beach
+399,Pet Supplies Plus,"2091 Bronze Star Dr, Woodland",Woodland
+400,Pet Food Express,"2171 Cowell Blvd, Davis",Davis
+401,PetSmart,"8226 Delta Shores Cir S, Sacramento",Sacramento
+402,Farmyard Feed,"27705 Dutcher Creek Rd, Cloverdale",Cloverdale
+403,Catalina Aquarium,"2502 Lakeshore Blvd, Lakeport",Lakeport
+404,Clover Dog Pet Supply and Wash,"1129 S. Cloverdale Blvd Suite F, Cloverdale",Cloverdale
+405,Your Pet's Market,"4411 Gravenstein Hwy N, Sebastopol",Sebastopol
+406,Pet Buddies Inc,"2120 Bluebell Dr, Santa Rosa",Santa Rosa
+407,Bird Exchange,"5355 Hall Rd, Santa Rosa",Santa Rosa
+408,Menagerie Pet Sitting,"57 Ascot Dr, Santa Rosa",Santa Rosa
+409,Pet Supplies Plus,"1235 Shaw Ave, Clovis",Clovis
+410,Bobo Fish Farm,"1271 N First St, Fresno",Fresno
+411,Pet Finders of Fresno,Fresno,Fresno
+412,Spoil'd Rott N Pet Suppies & Grooming,"82 Academy Ave, Sanger",Sanger
+413,Pet Center,"74785 CA-111, Indian Wells",Indian Wells
+414,home tec pet products,"23 Florence Ln, Palm Desert",Palm Desert
+415,Western Feed & Pet Supply,"2780 E Bidwell St, Folsom",Folsom
+416,Incredible Pets,"1775 Grass Valley Hwy suite a, Auburn",Auburn
+417,Wags to Riches Grooming,"3700 Midas Ave B-2, Rocklin",Rocklin
+418,Barks & Bones Boutique,"7270 Victoria Park Ln Suite 3F, Rancho Cucamonga",Rancho Cucamonga
+419,Kriser's Natural Pet,"3341 E Imperial Hwy, Brea",Brea
+420,Reptile Rescue Orange County,"22762 Aspan St #208, Lake Forest",Lake Forest
+421,California Schnoodles,"1421 Sky Harbor Dr, Marysville",Marysville
+422,Ron's Reptiles,"44 Rock Creek Rd, Chico",Chico
+423,Broadway Puppies,"840 N Broadway, Escondido",Escondido
+424,Metro Dog,"3117 Pierce St, Richmond",Richmond
+425,Marin Humane,"171 Bel Marin Keys Blvd, Novato",Novato
+426,Tails A Go-Go,"1124 Solano Ave, Albany",Albany
+427,Collier Feed & Pet Supply,"101 W Laurel Dr, Salinas",Salinas
+428,Tulare Pet Center,"236 E King Ave, Tulare",Tulare
+429,Malmgren Heavyweight,"222 N Elmwood Ave, Lindsay",Lindsay
+430,Heiskell's Feed Depot,"2703 E Noble Ave, Visalia",Visalia
+431,Pet Envy Grooming & Boutique,"5121 W Goshen Ave, Visalia",Visalia
+432,Pet Envy Grooming and Boutique Tulare,"1237 N Cherry St, Tulare",Tulare
+433,Prehistoric Pets,"18822 Brookhurst St, Fountain Valley",Fountain Valley
+434,Dooya Dubia,"205 Butcher St, Etna",Etna
+435,Exotic Reptiles,"1328 S Mooney Blvd, Visalia",Visalia
+436,Ultimate Aquarium,"217 W Main St, Visalia",Visalia
+437,Western Feed & Pet Supply,"407 G St, Davis",Davis
+438,Concord Feed Pet and Livestock Supplies,"5288 Clayton Rd, Concord",Concord
+439,Green Dog Dental & Wellness,"9388 S Santa Monica Blvd, Beverly Hills",Beverly Hills
+440,"LA PET MEDS PET PHARMACY - PET MEDS, COMPOUNDING, AND MORE!","1804 S La Cienega Blvd, Los Angeles",Los Angeles
+441,Angelic White Dove Releases,"7115 W Tenaya Ave, Fresno",Fresno
+442,3 V Feed & Garden Supply Inc,"28342 CA-145, Madera",Madera
+443,Fish Out Of Water,"1661 S Main St #E, Willits",Willits
+444,Pet World Inc,"837 N Rice Rd, Ojai",Ojai
+445,Coiffed Critters,"1484 Manzanita St, Carpinteria",Carpinteria
+446,Chaparral Stud Farm,Santa Barbara,Santa Barbara
+447,Fish Reef Project,"315 Meigs Rd, Santa Barbara",Santa Barbara
+448,AKSA Reef Boutique,"178 Head St, Soledad",Soledad
+449,Pet Friends Spay-Neuter Clinic,"2975 Buena Vista Rd, Hollister",Hollister
+450,Ben's Barketplace,"701 Pleasant Grove Blvd #120, Roseville",Roseville
+451,Doggie Bag,"1070 Pleasant Grove Blvd #100, Roseville",Roseville
+452,Simply Country Feed & Supply,"12892 Ridge Rd, Grass Valley",Grass Valley
+453,Bruno's Pet Pantry,"69 Lincoln Blvd, Suite A #182, Lincoln",Lincoln
+454,Safe At Home Pet Sitters,"2263 Auburn Ravine Dr, Lincoln",Lincoln
+455,Campfire Treats | Natural Dog Treats & Chews,"4800 Granite Dr b10, Rocklin",Rocklin
+456,Pro-Groom,"935 Roseville Pkwy #110, Roseville",Roseville
+457,Silverace Poodles,"7447 Camp Far West Rd, Wheatland",Wheatland
+458,S Country Pet Sitters,"10270B Silva Cir, Gilroy",Gilroy
+459,BOBO Fish Farm,"3656 E McKinley Ave, Fresno",Fresno
+460,Rancho El Pino,"348 W American Ave, Fresno",Fresno
+461,Village Pet Shop,"3008 Pacific Ave, Livermore",Livermore
+462,Pet Supplies Plus,"829 W Foothill Blvd A, Upland",Upland
+463,Amazon Reptile Center,"8851 N Central Ave Ste H, Montclair",Montclair
+464,Protein for Pets,"701 S Weir Canyon Rd #111, Anaheim",Anaheim
+465,Pet Partners,"1908 S Lake Pl, Ontario",Ontario
+466,Western Feed & Pet Supply,"1600 34th St, Sacramento",Sacramento
+467,Tong's Tropical Fish & Pets,"8976 Warner Ave, Fountain Valley",Fountain Valley
+468,Rosita Pet Store,"2551 East Avenue South, Suite H-J, Palmdale",Palmdale
+469,Protein for Pets,"16630 Soledad Canyon Rd, Santa Clarita",Santa Clarita
+470,Dusty Paws Pet Wash & Grooming,"38212 6th St E, Palmdale",Palmdale
+471,"The Serpentarium, Inc.","2379 Maggio Cir C, Lodi",Lodi
+472,Animal Den,"4060 Power Inn Rd, Sacramento",Sacramento
+473,Grooming With Love,"29851 Aventura, Rancho Santa Margarita",Rancho Santa Margarita
+474,California Cat Cottage,"543 Drake Dr, Santa Maria",Santa Maria
+475,Pour La Pooch Pet Stop,"7617 Beverly Blvd, Los Angeles",Los Angeles
+476,Cedar Hill Bird Enterprises,"110 N Cherokee Ln, Lodi",Lodi
+477,Santa Cruz Pet Shuttle,"2865 Branciforte Dr, Santa Cruz",Santa Cruz
+478,Sunset Pet Supply,"3801 Noriega St, San Francisco",San Francisco
+479,Super Roots Hydroponics,"1922 W Belmont Ave, Fresno",Fresno
+480,Concord Feed Pet & Livestock Supplies,"7104 Dublin Blvd, Dublin",Dublin
+481,EarthWise Pet Supply,"6986 El Camino Real, Carlsbad",Carlsbad
+482,Doo Doo Diligence,"Park Avenue, Nevada City",Nevada City
+483,Your Pets,Grass Valley,Grass Valley
+484,Ben’s Barketplace Lincoln,"800 Sterling Pkwy #30, Lincoln",Lincoln
+485,Willowberry Pet,"217 W Main St, Grass Valley",Grass Valley
+486,My Playful Puppy,"1407 E Los Angeles Ave Suite W, Simi Valley",Simi Valley
+487,Barkworks Pups & Stuff,"488 W Hillcrest Dr, Thousand Oaks",Thousand Oaks
+488,Burbank Pet Plaza,"1080 W Alameda Ave, Burbank",Burbank
+489,Pet Food Express,"320 S Lake Ave, Pasadena",Pasadena
+490,Pet Food Express,"1215 N Central Ave, Glendale",Glendale
+491,The Bowhaus Pet Company,"2472 E Colorado Blvd, Pasadena",Pasadena
+492,The Dog Bakery,"36 W Colorado Blvd, Pasadena",Pasadena
+493,Seifert Labradors,Atascadero,Atascadero
+494,Patricia's Pet Care & Home Services,"19260 Monterey St, Morgan Hill",Morgan Hill
+495,Pet Choice,"4203 MacArthur Blvd, Oakland",Oakland
+496,Groom - A Green Pawz Company,"938 Clement St, San Francisco",San Francisco
+497,Keep Doggie Safe,"19051 Goldenwest St #311, Huntington Beach",Huntington Beach
+498,Diamond Cove Koi & Water Plant,"41679 Johnston Ave, Hemet",Hemet
+499,Desert Dog Pet Store,"211 N. Balsam St, W French Ave, Ridgecrest",Ridgecrest
+500,Puff N Stuff smoke shop,"634 S China Blvd S, Ridgecrest",Ridgecrest
+501,Just Food For Dogs,"5799 E La Palma Ave, Anaheim",Anaheim
+502,Paramount Pet Entertainment - Reptile Parties & more!,"8055 Rosecrans Ave #107 A, Paramount",Paramount
+503,Granero's Feed & Pets,"1325 W 9th St, San Bernardino",San Bernardino
+504,Pet's Corner,"102, 3701 Geary Blvd, San Francisco",San Francisco
+505,Aquatic Reef Designs,"2186 Eastman Ave # 106, Ventura",Ventura
+506,My Pet Naturally,"12001 Pico Blvd, Los Angeles",Los Angeles
+507,Global Pet Food Outlet,"4449 Sepulveda Blvd, Culver City",Culver City
+508,Puppy Chums Pet Store,"1919 Rd 20, San Pablo",San Pablo
+509,Casa Rustica,"1918 G St, Bakersfield",Bakersfield
+510,Pet Country,"22485 El Toro Rd Suite A, Lake Forest",Lake Forest
+511,Pet Station South Lake Tahoe,"2205 Lake Tahoe Blvd, South Lake Tahoe",South Lake Tahoe
+512,Pet Supermarket,"960 Emerald Bay Rd, South Lake Tahoe",South Lake Tahoe
+513,Dog Dog Cat,"4000 Lake Tahoe Blvd C-17, South Lake Tahoe",South Lake Tahoe
+514,Family Petcare Store,"181 San Marin Dr, Novato",Novato
+515,Pet Station,"2936 Main St, Susanville",Susanville
+516,World Wide Aquatics,"103 Schipper St, Arvin",Arvin
+517,Rancho Feed & Pet,"8603 Base Line Rd, Rancho Cucamonga",Rancho Cucamonga
+518,Pet Stop,"40477 Murrieta Hot Springs Rd d7, Murrieta",Murrieta
+519,Dixie's Paws & Claws,"615 Main St, Woodland",Woodland
+520,Pet Extreme,Woodland,Woodland
+521,Grateful Dog Daycare,"430 17th St, Sacramento",Sacramento
+522,Frisky Friends Pet Sitting,"1143 N Locan Ave, Clovis",Clovis

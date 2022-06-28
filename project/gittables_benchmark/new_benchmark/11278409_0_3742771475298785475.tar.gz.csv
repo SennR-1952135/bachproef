@@ -1,0 +1,207 @@
+,rank,company,industry
+0,1,Sam's Club,Retailer
+1,2,Publix,Grocery Chain
+2,3,A credit union,Bank
+3,3,Chick-fil-A,Fast Food Chain
+4,3,Subway,Fast Food Chain
+5,3,Starbucks,Fast Food Chain
+6,3,H.E.B.,Grocery Chain
+7,3,Winn-Dixie,Grocery Chain
+8,3,Aldi,Grocery Chain
+9,10,Sonic Drive-in,Fast Food Chain
+10,10,Kroger,Grocery Chain
+11,10,ShopRite,Grocery Chain
+12,10,Amazon.com,Retailer
+13,14,PNC,Bank
+14,14,Pizza Hut,Fast Food Chain
+15,14,Target,Retailer
+16,14,Walgreens,Retailer
+17,18,Arby's,Fast Food Chain
+18,18,Whole Foods,Grocery Chain
+19,18,Hy-Vee,Grocery Chain
+20,18,BJ's Wholesale Club,Retailer
+21,18,Lowe's,Retailer
+22,23,Dunkin Donuts,Fast Food Chain
+23,23,Taco Bell,Fast Food Chain
+24,23,Wendy's,Fast Food Chain
+25,23,Food Lion,Grocery Chain
+26,27,Little Caesar's,Fast Food Chain
+27,27,Giant Eagle,Grocery Chain
+28,27,Safeway,Grocery Chain
+29,27,Stop & Shop,Grocery Chain
+30,27,FedEx,Parcel Delivery Service
+31,27,JCPenney,Retailer
+32,27,Home Depot,Retailer
+33,27,CVS,Retailer
+34,35,Southwest Airlines,Airline
+35,35,TD Bank,Bank
+36,35,USAA,Bank
+37,35,USAA,Credit Card Issuer
+38,35,Dairy Queen,Fast Food Chain
+39,35,Albertsons,Grocery Chain
+40,35,Save-a-lot,Grocery Chain
+41,35,USAA,Insurance Carrier
+42,35,UPS,Parcel Delivery Service
+43,35,Rite Aid,Retailer
+44,45,ING Direct,Bank
+45,45,Alamo,Car Rental Agency
+46,45,Hampton Inn,Hotel Chain
+47,45,Marriott,Hotel Chain
+48,45,State Farm,Insurance Carrier
+49,45,Costco,Retailer
+50,45,Staples,Retailer
+51,52,KFC,Fast Food Chain
+52,52,McDonalds,Fast Food Chain
+53,52,US Postal Service,Parcel Delivery Services
+54,52,Toys 'R' Us,Retailer
+55,52,Old Navy,Retailer
+56,57,Chevrolet,Auto Dealer
+57,57,Burger King,Fast Food Chain
+58,57,Charles Schwab,Investment Firm
+59,57,Wal-Mart,Retailer
+60,57,Kohl's,Retailer
+61,62,Jack in the Box,Fast Food Chain
+62,62,Holiday Inn Express,Hotel Chain
+63,62,Courtyard by Marriott,Hotel Chain
+64,62,The Hartford,Insurance Carrier
+65,62,Macy's,Retailer
+66,67,AirTran Airways,Airline
+67,67,Fifth Third,Bank
+68,67,American Express,Credit Card Issuer
+69,67,Domino's,Fast Food Chain
+70,67,Piggly Wiggly,Grocery Chain
+71,67,Kaiser Permanente,Health Plan
+72,67,Comfort Inn,Hotel Chain
+73,67,Fidelity Investments,Investment Firm
+74,75,Whirlpool,Appliance Maker
+75,75,Bosch,Appliance Maker
+76,75,BMW,Auto Dealer
+77,75,Toyota,Auto Dealer
+78,75,US Bank,Credit Card Issuer
+79,75,Best Western,Hotel Chain
+80,75,Progressive,Insurance Company
+81,75,Sears,Retailer
+82,75,Best Buy,Retailer
+83,75,Kmart,Retailer
+84,85,SunTrust Bank,Bank
+85,85,Holiday Inn,Hotel Chain
+86,85,Barnes & Noble,Retailer
+87,85,TracFone,Wireless Carrier
+88,89,JetBlue Airlines,Airline
+89,89,Chase,Bank
+90,89,Apple,Computer Maker
+91,89,Chase,Credit Card Issuer
+92,89,Discover,Credit Card Issuer
+93,89,Hilton,Hotel Chain
+94,89,Farmers,Insurance Carrier
+95,89,Nationwide,Insurance Carrier
+96,89,Ameriprise Financial,Investment Firm
+97,89,Edward Jones,Investment Firm
+98,89,Vanguard,Investment Firm
+99,89,A credit union,Investment Firm
+100,89,eBay,Retailer
+101,102,Alaska Airlines,Airline
+102,102,LG,Appliance Maker
+103,102,GE,Appliance Maker
+104,102,Budget,Car Rental Agency
+105,102,Hardees,Fast Food Chain
+106,102,Hyatt,Hotel Chain
+107,102,GEICO,Insurance Carrier
+108,102,Allstate,Insurance Carrier
+109,102,Office Depot,Retailer
+110,111,Samsung,Appliance Maker
+111,111,US Bancorp,Bank
+112,111,Wells Fargo,Bank
+113,111,Hertz,Car Rental Agency
+114,111,AAA,Insurance Carrier
+115,111,Cablevision,Internet Service Provider
+116,117,Toshiba,Appliance Maker
+117,117,Honda,Auto Dealer
+118,117,Citizens,Bank
+119,117,Enterprise,Car Rental Agency
+120,117,Toshiba,Computer Maker
+121,117,Lenovo,Computer Maker
+122,117,ING Direct,Investment Firm
+123,124,Hewlett-Packard,Computer Maker
+124,124,Dish Network/EchoStar,TV Service Provider
+125,124,Bright House Networks,TV Service Provider
+126,124,Verizon Wireless,Wireless Carrier
+127,124,AT&T,Wireless Carrier
+128,129,Regions,Bank
+129,129,Capital One,Bank
+130,129,Super 8,Hotel Chain
+131,129,Liberty Mutual,Insurance Carrier
+132,129,Sprint,Wireless Carrier
+133,134,Ford,Auto Dealer
+134,134,Sony,Computer Maker
+135,134,Wells Fargo,Credit Card Issuer
+136,134,TriCare,Health Plan
+137,134,MetLife,Insurance Carrier
+138,134,American Family,Insurance Carrier
+139,134,AOL,Internet Service Provider
+140,134,Merrill Lynch,Investment Firm
+141,134,E*TRADE,Investment Firm
+142,134,Virgin Mobile,Wireless Carrier
+143,134,US Cellular,Wireless Carrier
+144,145,Delta/Northwest Airlines,Airline
+145,145,HSBC,Bank
+146,145,Acer,Computer Maker
+147,145,Compaq,Computer Maker
+148,145,Motel 6,Hotel Chain
+149,145,DirecTV,TV Service Provider
+150,151,Continental Airlines,Airline
+151,151,Avis,Car Rental Agency
+152,151,eMachines,Computer Maker
+153,151,Bank of America,Credit Card Issuer
+154,151,21st Century,Insurance Carrier
+155,151,Travelers,Insurance Carrier
+156,151,Verizon,Internet Service Provider
+157,151,Morgan Stanley Smith Barney,Investment Firm
+158,151,TD Ameritrade,Investment Firm
+159,151,DHL,Parcel Delivery Service
+160,151,RadioShack,Retailer
+161,151,Cox Communication,TV Service Provider
+162,163,Hyundai,Auto Dealer
+163,163,Nissan,Auto Dealer
+164,163,Chrysler,Auto Dealer
+165,163,Dollar,Car Rental Agency
+166,163,HSBC,Credit Card Issuer
+167,163,Medicare,Health Plan
+168,163,Road Runner,Internet Service Provider
+169,163,AT&T,Internet Service Provider
+170,171,United Airlines,Airline
+171,171,Dodge,Auto Dealer
+172,171,Bank of America,Bank
+173,171,Aetna,Health Plan
+174,171,United Healthcare,Health Plan
+175,171,Optimum (iO)/Cablevision,TV Service Provider
+176,171,T-Mobile,Wireless Carrier
+177,178,Kia,Auto Dealer
+178,178,Dell,Computer Maker
+179,178,Gateway,Computer Maker
+180,178,Capital One,Credit Card Issuer
+181,178,Humana,Health Plan
+182,178,Cox Communications,Internet Service Provider
+183,178,Qwest,Internet Service Provider
+184,178,Comcast,Internet Service Provider
+185,178,Wells Fargo Advisors,Investment Firm
+186,187,American Airlines,Airline
+187,187,Citigroup,Credit Card Issuer
+188,187,MSN (Microsoft Network),Internet Service Provider
+189,190,US Airways,Airline
+190,190,Days Inn,Hotel Chain
+191,190,Comcast,TV Service Provider
+192,193,Citibank,Bank
+193,193,Empire (BCBS),Health Plan
+194,193,Time Warner Cable,TV Service Provider
+195,193,Verizon,TV Service Provider
+196,193,AT&T,TV Service Provider
+197,198,CIGNA,Health Plan
+198,198,Blue Shield of California,Health Plan
+199,200,Anthem (BCBS),Health Plan
+200,201,Medicaid,Health Plan
+201,202,Health Net,Health Plan
+202,202,Charter Communications,Internet Service Provider
+203,204,Highmark (BCBS),Health Plan
+204,205,Charter Communications,TV Service Provider
+205,206,Earthlink,Internet Service Provider

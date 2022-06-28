@@ -1,0 +1,35 @@
+,type,name,duration
+0,place,2440 39th St NW,70592
+1,move,transport,537
+2,place,2440 39th St NW,15271
+3,place,2440 39th St NW,43936
+4,move,walking,904
+5,place,Whole Foods Market,2492
+6,move,walking,583
+7,place,2440 39th St NW,38485
+8,place,2440 39th St NW,55300
+9,place,2440 39th St NW,31100
+10,place,2440 39th St NW,62391
+11,move,walking,647
+12,place,CVS/pharmacy,1673
+13,move,walking,713
+14,place,2440 39th St NW,20976
+15,place,2440 39th St NW,86400
+16,place,2440 39th St NW,34075
+17,move,walking,560
+18,place,CVS/pharmacy,256
+19,move,transport,1143
+20,move,walking,608
+21,place,Place in West End,250
+22,move,walking,163
+23,move,transport,797
+24,move,walking,155
+25,place,Place in Ronald Reagan Washington National Airport,451
+26,place,Ronald Reagan Washington National Airport (DCA),1940
+27,move,transport,5237
+28,place,Boston Logan International Airport (BOS),231
+29,move,walking,579
+30,move,transport,2289
+31,move,walking,996
+32,place,Home,11419
+33,place,Home,11912

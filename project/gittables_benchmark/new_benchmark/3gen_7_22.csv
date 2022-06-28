@@ -1,0 +1,86 @@
+,year,country,city
+0,2015,Sweden,Stockholm
+1,2015,Japan;Japan,Kawaguchi;Kyoto
+2,2015,United States,Palo Alto
+3,2015,Netherlands,Utrecht
+4,2015,United States,Pasadena
+5,2015,Netherlands;Netherlands,Utrecht;Amsterdam
+6,2015,United Kingdom,Hinxton
+7,2015,United Kingdom,Cambridge
+8,2015,Germany;United Kingdom,Neuherberg;London
+9,2014,United States;United States,Boston;Cambridge
+10,2014,Netherlands,Utrecht
+11,2014,United States,San Francisco
+12,2014,United Kingdom;United Kingdom,Cambridge;Hinxton
+13,2014,United Kingdom;United Kingdom;United Kingdom,Cambridge;Cambridge;Hinxton
+14,2014,United States,Stanford
+15,2014,China;Japan,Nanjing;Tokyo
+16,2014,United States;South Korea,Cambridge;Suwon
+17,2014,United States,Philadelphia
+18,2014,Sweden,Stockholm
+19,2014,United Kingdom,Cambridge
+20,2014,United States,Pasadena
+21,2014,Netherlands;Netherlands,Utrecht;Utrecht
+22,2014,United States,Boston
+23,2014,United Kingdom,Cambridge
+24,2014,United States;United States,Cambridge;Cambridge
+25,2014,Sweden,Stockholm
+26,2014,United States,Stanford
+27,2014,Israel,Rehovot
+28,2014,United States;United States,Cambridge;Cambridge
+29,2014,United States;United States;United States,Boston;Cambridge;Chevy Chase
+30,2013,United States,Rockville
+31,2013,China,Beijing
+32,2013,United States,Philadelphia
+33,2013,Sweden,Stockholm
+34,2013,Sweden;Sweden,Stockholm;Uppsala
+35,2013,China;China,Beijing;Beijing
+36,2013,China,Shanghai
+37,2013,United States,New York
+38,2013,United States,Cambridge
+39,2013,United States,San Diego
+40,2013,Japan;Japan,Wako;Kobe
+41,2013,Lithuania;United States,Vilnius;Cambridge
+42,2013,United Kingdom,London
+43,2013,Germany,Heidelberg
+44,2012,United States,Cambridge
+45,2012,Israel,Haifa
+46,2012,United States,Houston
+47,2012,United Kingdom,Hinxton
+48,2012,United States,Palo Alto
+49,2012,United Kingdom,Bristol
+50,2012,Sweden,Stockholm
+51,2012,United States;United States,Palo Alto;Palo Alto
+52,2012,Finland;Sweden;Finland,Helsinki;Stockholm;Helsinki
+53,2012,Sweden;Sweden,Stockholm;Stockholm
+54,2011,United States,Bethesda
+55,2011,Sweden,Stockholm
+56,2011,United States,Waltham
+57,2010,United Kingdom,Cambridge
+58,2010,Japan,Kobe
+59,2009,Japan,Tokyo
+60,2009,United Kingdom,Cambridge
+61,2008,United States,Cambridge
+62,2008,United States,Chicago
+63,2008,Sweden;United Kingdom,Lund;Oxford
+64,2008,Australia,Brisbane
+65,2008,United States,Pasadena
+66,2008,Canada;United Kingdom,Montreal;Hinxton
+67,2008,United States,New Haven
+68,2008,United Kingdom,Cambridge
+69,2008,Israel,Rehovot
+70,2007,Japan,Kobe
+71,2006,United States,Pasadena
+72,2006,United States;United States,Newark;New York
+73,2006,United States,San Francisco
+74,2006,Israel,Rehovot
+75,2006,Japan,Kobe
+76,2005,United States,Denver
+77,2003,United States;United States,St. Louis;Boston
+78,2003,United States,San Diego
+79,2003,Germany,Ulm
+80,2003,United States,Boston
+81,2002,United States,New York
+82,1998,United States,New York
+83,1996,United States,Newark
+84,1992,United States,Philadelphia

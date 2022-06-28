@@ -1,0 +1,175 @@
+,status,creator,description
+0,Resolved,pavol.loffay,"Hello I'm trying to minimize MSE of double exponential smoothing and get optimal parameters alpha and beta. 
+https://www.otexts.org/fpp/7/2
+
+During the minimization the output shows values of alpha and beta which differs from alpha, and beta returned from SimplexOptimizer.optimize().
+
+{code:title=output|borderStyle=solid}
+...
+Nelder MSE = 0.007226473669598979, alpha=0.896283, beta=0.228161
+Nelder MSE = 0.0069843320509952005, alpha=0.913694, beta=0.190210 # returned minimum
+Nelder MSE = 0.008577342645261695, alpha=0.931617, beta=0.131448
+Nelder MSE = 0.00743296945818598, alpha=0.918018, beta=0.166808
+Nelder MSE = 0.007818891499431175, alpha=0.936768, beta=0.136053
+Nelder MSE = 0.007293932014855209, alpha=0.927010, beta=0.155973
+Nelder MSE = 0.007319455298330941, alpha=0.923120, beta=0.178180
+Nelder MSE = 0.007110221641945739, alpha=0.921873, beta=0.175281
+Nelder MSE = 0.007271067724068611, alpha=0.907713, beta=0.212689
+Nelder MSE = 0.007084561548618076, alpha=0.912928, beta=0.197226
+Nelder MSE = 0.007072487763137581, alpha=0.903911, beta=0.213540
+
+Nelder -> key = [2.3595947265625, -1.44864501953125], fce minimum= 0.00698433205099520050
+{code}
+
+{code:title=Test.java|borderStyle=solid}
+
+@Test
+    public void testOptimization() throws IOException {
+
+        int maxEval = 1000;
+        int maxIter = 1000;
+
+        // Nelder-Mead Simplex
+        SimplexOptimizer nelderSimplexOptimizer = new SimplexOptimizer(0.0001, 0.0001);
+        PointValuePair nelderResult = nelderSimplexOptimizer.optimize(
+                GoalType.MINIMIZE, new MaxIter(maxIter), new MaxEval(maxEval),
+                new InitialGuess(new double[]{0.4, 0.1}), new ObjectiveFunction(optimizationFn(""Nelder"")),
+                new NelderMeadSimplex(2));
+
+ System.out.format(""\nNelder (%d eval) -> key = %s, fce minimum= %.20f"", nelderSimplexOptimizer.getEvaluations(),
+                Arrays.toString(nelderResult.getKey()), nelderResult.getValue());
+}
+
+private MultivariateFunction optimizationFn(String algorithm) {
+
+        final List<DataPoint> testData = metricData.subList(0, 50);
+        // func for minimization
+        MultivariateFunction multivariateFunction = point -> {
+
+            double alpha = point[0];
+            double beta = point[1];
+
+            DoubleExponentialSmoothing doubleExponentialSmoothing = new DoubleExponentialSmoothing(alpha, beta);
+            AccuracyStatistics accuracyStatistics = doubleExponentialSmoothing.init(testData);
+
+            System.out.format(""%s MSE = %s, alpha=%f, beta=%f\n"", algorithm, accuracyStatistics.getMse(), alpha, beta);
+            return accuracyStatistics.getMse();
+        };
+        MultivariateFunctionMappingAdapter multivariateFunctionMappingAdapter =
+                new MultivariateFunctionMappingAdapter(multivariateFunction,
+                        new double[]{0.0, 0.0}, new double[]{1, 1});
+
+        return multivariateFunctionMappingAdapter;
+    }
+{code}
+
+
+
+"
+1,Open,ziqizhang,"RealVector class has two methods that return an iterator to allow iterating through the entries in the vector:
+
+RealVector.sparseIterator()
+RealVector.iterator()
+
+Both return Iterator<RealVector.Entry>
+
+However, RealVector.Entry is a private class defined within RealVector. As a result, it is not possible to use the returned iterator to go through the values outside the class RealVector.
+
+
+"
+2,Resolved,mattjuntunen,"According to the documentation, for open infinite vertex loops returned by the PolygonsSet.getVertices() method, the last two points can be used to determine the direction of the last edge in the loop. However, the current code returns a point from the second-to-last edge. For example, the code below builds a box open on the top. It currently returns the vertex loop [null, \{0; 1}, \{0; 0}, \{1; 0}, \{1; 0}], where the last two vertices are the same point and cannot be used to determine the direction of the last edge. The returned vertex loop should be [null, \{0; 1}, \{0; 0}, \{1; 0}, \{1; 1}].
+{code:java}
+Cartesian2D v0 = new Cartesian2D(0, 1);
+        Cartesian2D v1 = new Cartesian2D(0, 0);
+        Cartesian2D v2 = new Cartesian2D(1, 0);
+        Cartesian2D v3 = new Cartesian2D(1, 1);
+
+        Line left = new Line(v0, v1, 1e-10);
+        Line bottom = new Line(v1, v2, 1e-10);
+        Line right = new Line(v2, v3, 1e-10);
+
+        List<SubHyperplane<Euclidean2D>> boundaries = new ArrayList<>();
+        boundaries.add(new SubLine(left, new IntervalsSet(left.toSubSpace(v0).getX(), left.toSubSpace(v1).getX(), 1e-10)));
+        boundaries.add(new SubLine(bottom, new IntervalsSet(bottom.toSubSpace(v1).getX(), bottom.toSubSpace(v2).getX(), 1e-10)));
+        boundaries.add(new SubLine(right, new IntervalsSet(right.toSubSpace(v2).getX(), right.toSubSpace(v3).getX(), 1e-10)));
+
+        PolygonsSet polygon = new PolygonsSet(boundaries, 1e-10);
+
+        polygon.getVertices();{code}
+      
+
+ 
+
+Pull Request: [https://github.com/apache/commons-math/pull/81]"
+3,Resolved,mattjuntunen,"The o.a.c.m.geometry.euclidean.twod.PolygonsSet.getBarycenter() method returns the point (0, 0) when the region is empty. It should return (NaN, NaN) since the barycenter does not exist. This is the behavior of IntervalsSet and PolyhedronsSet.
+
+ 
+
+Pull request: https://github.com/apache/commons-math/pull/80"
+4,Resolved,mattjuntunen,"When created from boundaries consisting of two intersecting infinite lines, PolygonsSet.getVertices() throws an IndexOutOfBoundsException.
+
+{{Ex:}}
+ {{Line line1 = new Line(new Cartesian2D(0, 0), new Cartesian2D(1, 1), 1e-10);}}
+ {{Line line2 = new Line(new Cartesian2D(1, -1), new Cartesian2D(0, 0), 1e-10);}}
+
+{{List<SubHyperplane<Euclidean2D>> boundaries = new ArrayList<>();}}
+ {{boundaries.add(line1.wholeHyperplane());}}
+ {{boundaries.add(line2.wholeHyperplane());}}
+
+{{PolygonsSet poly = new PolygonsSet(boundaries, 1e-10);}}
+
+{{poly.getVertices(); // throws exception}}
+
+ 
+
+Pull request: https://github.com/apache/commons-math/pull/78"
+5,Resolved,mattjuntunen,"The getSize() method in PolyhedronsSet returns 0 for instances representing the full space. It should return Double.POSITIVE_INFINITY.
+
+{{Ex:}}
+
+{{PolyhedronsSet poly = new PolyhedronsSet(1e-10);}}
+
+{{poly.isFull(); // returns true}}
+
+{{poly.getSize(); // returns 0.0}}
+
+ 
+
+Pull request: https://github.com/apache/commons-math/pull/75"
+6,Resolved,mattjuntunen,"These are two separate issues that I found while using the partitioning code from 3.5 to work with complex solid models. The issues are:
+1. org.apache.commons.math[34].geometry.euclidean.oned.SubOrientedPoint uses a hardcoded tolerance of 1.0e-10 instead of the tolerance from the parent hyperplane. This causes issues when working with a tolerance other than the default.
+2. org.apache.commons.math[34].geometry.euclidean.twod.PolygonsSet fails on infinite line segments. An IndexOutOfBoundsException is thrown when a PolygonsSet is created with a single infinite SubLine as a boundary and a NullPointerException is thrown when one is created with a mix of finite and finite boundaries.
+I will be attaching a pull request shortly with fixes and unit tests.
+
+UPDATE:
+-Pull request for v4.0: [https://github.com/apache/commons-math/pull/70]-
+-Pull request for v3.6.x: [https://github.com/apache/commons-math/pull/71]- (removed; no future releases planned for v3.x)
+
+UPDATE [2017-12-23]:
+Split initial pull request into two separate ones:
+- SubOrientedPoint changes: [https://github.com/apache/commons-math/pull/72]
+- PolygonsSet changes: [https://github.com/apache/commons-math/pull/73 ]"
+7,Open,crowlogic,"it took me a while to figure out that the random vector generator was throwing an exception that was being swallowed. that should never happen
+"
+8,Open,psteitz,"See https://github.com/Hipparchus-Math/hipparchus/issues/13
+for full description and patch."
+9,Open,cpmeister,"Not sure what went wrong here but in a bracket of [20,100] I got back -19.9!"
+10,Resolved,kawajoe,"MersenneTwister.setSeed(int seed) has a bug.
+
+If seed is negative, longMT also becomes negative.
+First 32 bits are filled by 0xFFFFFFFF.
+But it should be positive. First 32 bits should be filled by 0x00000000.
+
+Ex) Integer -1 is 0xffffffff. 
+Long -1 is 0xffffffffffffffff.
+Long 0xffffffff is 4294967295.
+
+I created simple patch. 
+
+
+
+"
+11,Closed,evanward1,ODE integration crashes if two events are closer to each other than the root finder's tolerance.
+12,Open,richard.brunauer@salzburgresearch.at,"The Javadoc entry for Enum Percentile.EstimationType LAGACY uses a wrong equation for variable estimate. 
+
+Explaination in version 3.0, 3.6 source code and 3.6 semantics do an interpolation between two values. The quation for variable estimation has only a ceiling function. This does not match. "

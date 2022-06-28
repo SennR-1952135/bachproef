@@ -1,0 +1,10 @@
+,name
+0,project.phase
+1,project.user.allocation
+2,project.phase manager
+3,project.user.allocation manager
+4,user.user user
+5,user.calendar.leaves user
+6,user.user manager
+7,project.user.allocation.manager
+8,resource.calendar.attendance

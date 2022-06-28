@@ -1,0 +1,334 @@
+,country,city,region,address
+0,DENMARK,Ikast,Ikast,NEW!!!  The Heart Ikast & Brande Bøgildvej 2 7430 Ikast Denmark
+1,U.S.A.,Crystal Lake,Illinois,"Mc Henry County College 8900 US Hwy 14 Crystal Lke, IL 60012"
+2,U.S.A.,Galesburg,Illinois,"415 East Main Street Galesburg, IL 61401"
+3,U.S.A.,Gurnee,Illinois,4628 Old Grand Ave Gurnee. IL 60031
+4,U.S.A.,Knoxville,Illinois,"220 West Side Public Square Knoxville, Il 61448"
+5,U.S.A.,Monmouth,Illinois,"NEW location! 1135 S. Main Street Monmouth, IL 61462"
+6,U.S.A.,Normal,Illinois,"NEW!!! 802 S. Eldorado Road Suite A3 Bloomington, IL 61704"
+7,U.S.A.,Pekin,Illinois,"NEW Location! 122 S. 14th Street Pekin, IL 61554"
+8,U.S.A.,Peoria,Illinois,"5221 N. Big Hollow Road Peoria, IL 61615"
+9,U.S.A.,Washington,Illinois,"NEW!! 1227 Peoria Street Washington, IL 61571"
+10,U.S.A.,Connersville,Indiana,"3542 Western Ave Connersville, IN 47331"
+11,U.S.A.,Muncie,Indiana,"2190 West White River Bend Blvd. Suite B Muncie, IN 47303"
+12,U.S.A.,Richmond,Indiana,"2023 Chester Blvd (YMCA) Richmond, IN 47374"
+13,U.S.A.,Bettendorf,Iowa,"1018 Spruce Hills Dr Bettendorf, IA 52722"
+14,U.S.A.,Le Claire,Iowa,"427 North 3rd Street Le Claire, IA 52753"
+15,U.S.A.,Burton,Michigan,"5515 Davison Rd #7 Burton, MI 48509"
+16,U.S.A.,Madison Heights,Michigan,"26751 John Road Madison Heights, MI 48071"
+17,U.S.A.,Sault Ste. Marie,Michigan,"1200 Ryan Street Sault Ste. Marie, MI 49783"
+18,U.S.A.,Spring Lake,Michigan,"14700 State Rd Springlake, MI 49456"
+19,U.S.A.,St. Paul,Minnesota,"800 Transfer Road #34 St. Paul, MN 55104"
+20,U.S.A.,O' Fallon,Missouri,"929 N. Main St. O' Fallon, MO 63366"
+21,U.S.A.,St. Louis,Missouri,"#1 East Sutters Mill Road St. Peters, MO 63376"
+22,U.S.A.,Cleveland,Ohio,"Cleveland Heights Recreation Center 1 Montecello Blvd.  Cleveland Heights, OH 44118"
+23,U.S.A.,Dayton,Ohio,"New location! 250 N. Cassel Road Vandalia, OH 45377"
+24,U.S.A.,Kirtland,Ohio,"7900 Euclid Chardon Road Kirtland, OH 44094"
+25,U.S.A.,Streetsboro,Ohio,"New Location! 9307 State Route 43 Streetsboro, OH 44241"
+26,U.S.A.,Madison,Wisconsin,"University of Wisconsin Eagle Heights Community Center 611 Eagle Heights Madison, WI  53705"
+27,U.S.A.,"Williston, ND",Wisconsin,"NEW!!! 10 Main Street Williston, ND 58801"
+28,U.S.A.,Washington,District Of Columbia,605 Rhode Island Avenue NE Washigton DC 20019
+29,U.S.A.,Capitol Heights,Maryland,"7905 Central Ave Capitol Heights, MD 20743"
+30,U.S.A.,N. Laurel,Maryland,"North Laurel Community Center 9411 Whiskey Botton Rd Laurel, MD 20723"
+31,U.S.A.,Prince Frederick,Maryland,"NEW!!! 3170 German Chapel Road Prince Frederick, MD 20678"
+32,U.S.A.,Clinton,Massachusetts,"386 High St Clinton, MA 01510"
+33,U.S.A.,Saratoga Springs,New York,"54 Weibel Ave   Saratoga Springs, NY  12866"
+34,U.S.A.,Webster,New York,"396 Route 104 Ontario, NY 14519"
+35,U.S.A.,Williamson,New York,"4081 West Main Street Williamson, NY 14589"
+36,U.S.A.,Wolcott,New York,"11807 West Main Street Wolcott, NY 14590"
+37,U.S.A.,Greensboro,North Carolina,"N.C. A&T State University 1601 East Market Street Greensboro, NC 27411"
+38,U.S.A.,Luke AFB,Arizona,"NEW!!! Luke AFB Bryant Fitness Center & Youth Center 14185 West Falcon Street Glendale, AZ 85309"
+39,U.S.A.,Phoenix,Arizona,"NEW!!! 126 W. Desert Hills Phoenix, AZ 85086"
+40,U.S.A.,Surprise/ Sun Ciity West,Arizona,"NEW!!! 14465 RH Johnson Blvd Sun City West, AZ 85375"
+41,U.S.A.,Berkeley,California,"2438 Sacramento Street Berkeley, CA"
+42,U.S.A.,DIXON,California,"201 SOUTH FIFTH ST DIXON, CA 95620"
+43,U.S.A.,Dublin,California,"4558 Dublin Blvd. Dublin, CA 94568"
+44,U.S.A.,El Dorado Hills,California,"2222 Francisco Blvd. El Dorado Hills, CA 95762"
+45,U.S.A.,Gold Country,California,"127 Argall Way Nevada City, CA 95959"
+46,U.S.A.,Half Moon Bay,California,"432- B Main St Half Moon Bay, CA 94019"
+47,U.S.A.,Huntington Beach,California,"NEW!! Lake Park Clubhouse 1035 11th Street Huntington Beach, CA 92648"
+48,U.S.A.,Lake Hughes,California,"17520 Lake Elizabeth Road Lake Hughes, CA 93532"
+49,U.S.A.,Lincoln,California,"2010 First Street Lincoln, CA 95648"
+50,U.S.A.,Los Altos,California,"NEW LOCATION ! 347- 1 Street Los Altos, CA 94022"
+51,U.S.A.,Menlo Park,California,"Burgess Recreation Center 700 Alma Street Menlo Park, CA 94025"
+52,U.S.A.,Millbrae,California,"30 Rollins Road Millbrae, CA 94030 (650) 692-KICK (5425)"
+53,U.S.A.,Palmdale,California,"38218 6th Street East Palmdale, CA 93550"
+54,U.S.A.,Placerville,California,"5690 Motherlode Drive Placerville, CA 95667"
+55,U.S.A.,Redwood City,California,"2135 Roosevelt Ave Redwood City, CA 94061"
+56,U.S.A.,Rohnert Park,California,"320 Professional Drive, #150 Rohnert Park, CA 94928"
+57,U.S.A.,Sacramento,California,"Mather Sports Complex 3755 Schriever Ave Mather, CA 95655"
+58,U.S.A.,San Francisco,California,"NEW Location! 25 Lake Street San Francisco, CA 94118 415-868-KICK"
+59,U.S.A.,San Lorenzo,California,"17321 Hesperian Blvd. San Lorenzo, CA 94580"
+60,U.S.A.,San Mateo,California,"31 West 25th Avenue San Mateo, CA"
+61,U.S.A.,Santa Clarita,California,"27831 Smyth Drive Valencia, CA 91355"
+62,U.S.A.,Sherman Oaks,California,"New Location!  Sherman Oaks East Valley Adult Center 5056 Van Nuys Boulevard Van Nuys, CA 91403"
+63,U.S.A.,Sylmar,California,"NEW!!! 13788A Foothill Blvd. Sylmar, CA 91342"
+64,U.S.A.,Visitacion Valley,California,"189 Leland Ave St San Fransico, CA"
+65,U.S.A.,Wheatland,California,"420 Front Street Wheatland, CA 95692"
+66,U.S.A.,Woodland,California,"618 Cottonwood St. Woodland, CA"
+67,U.S.A.,Yuba City,California,"236 Bridge St. Yuba City, CA 95991"
+68,U.S.A.,Fort Smith (River Valley),Arkansas,"3112 Cavanaugh Road Fort Smith, AR 72903"
+69,U.S.A.,Ft. Smith,Arkansas,"University of Arkansas 5210 Grand Ave Ft Smith, AR 72913"
+70,U.S.A.,Greenwood,Arkansas,"1507 Highway 10 Greenwood, AR"
+71,U.S.A.,Jacksonville,Arkansas,"210 Martin St Jacksonville, AR 72076"
+72,U.S.A.,Mountainburg,Arkansas,"NEW! Baptist Church 220 Elm Street Mountainburg, AR 72946"
+73,U.S.A.,Rogers,Arkansas,"4106 Honeysuckle Rogers, AR 72758"
+74,U.S.A.,Hurlburt Field,Florida,"Aderholt Fitness Center 259 Tully Street - Bldg 90517 Hurlburt Field, FL 32544"
+75,U.S.A.,Palm Coast,Florida,"NEW!!! Belle Terre Swim and Racquet Club 73 Patricia Drive Palm Coast, FL 32164"
+76,U.S.A.,Gretna,Louisiana,"835 Gretna Blvd Gretna, LA 70053"
+77,U.S.A.,Uptown New Orleans,Louisiana,"International School of New Orleans 1400 Camp Street New Orleans, LA 70103"
+78,U.S.A.,Xavier University,Louisiana,"NEW!!! Xavier University 1 Drexel Drive New Orleans, LA 70125"
+79,U.S.A.,Pryor,Oklahoma,"Pryor Creek Recreational Center 1111 Southeast 9th Street Pryor, OK 74361"
+80,U.S.A.,Tahlequah,Oklahoma,"NEW location! 2051 Mahaney Ave. Tahlequah, OK 74464"
+81,U.S.A.,Tinker AFB,Oklahoma,"NEW !!! Tinker Youth Center 4460 McNarney Ave Oklahoma City, OK 73145"
+82,U.S.A.,Anderson,South Carolina,"1107 North Murray Ave. Anderson, SC 29621"
+83,U.S.A.,Clemson,South Carolina,"1085 Old Clemson Hwy Seneca, SC 29672"
+84,U.S.A.,Florence,South Carolina,"3015#C East Palmetto Street Florence, SC"
+85,U.S.A.,Greenville,South Carolina,"5314 Wade Hampton Blvd.  Taylors, SC 29687"
+86,U.S.A.,Greenville,South Carolina,"Carolina School of Massage 1313A Miller Rd. Greenville, SC 29607"
+87,U.S.A.,Lake City,South Carolina,"NEW!! 416 West Main Street Lake City, SC 29560"
+88,U.S.A.,University of Memphis,South Carolina,"TENNESSEE University of Memphis Memphis, TN 38104"
+89,U.S.A.,Abilene,Texas,"2401 S. 7th Abilene, TX 79605"
+90,U.S.A.,ALVIN,Texas,"900 FM 1462 ALVIN, TX 77511"
+91,U.S.A.,AUSTIN (EISD),Texas,"AUSTIN EANES SCHOOL DISTRICT 601 Camp Craft Rd Austin, TX 78746"
+92,U.S.A.,Austin (Oak Hill),Texas,"6001 W. Williams Cannon, Suite 307 Austin, TX 78749"
+93,U.S.A.,Baytown,Texas,"2827 North Alexander Baytown, TX 77520"
+94,U.S.A.,Boerne,Texas,"OPEN SOON ! 37131 IH 10 West Boerne, TX 78006"
+95,U.S.A.,Brownsville,Texas,"1601 Alton Gloor Suite 110 Brownsville, TX 78521"
+96,U.S.A.,Cinco Ranch,Texas,"Coming Soon in August 2017!   4747 FM 1463 Suite #900 Katy, Texas 77494"
+97,U.S.A.,Clear Lake,Texas,"15230 HWY 3 Webster, TX 77598"
+98,U.S.A.,Katy,Texas,"4414 Cobalt Cross St. Katy, Texas 77493"
+99,U.S.A.,Kingwood,Texas,"910 Russell Palmer Road Kingwood, TX 77339-1601"
+100,U.S.A.,Magnolia,Texas,"World HQ 37937 FM 1774 Magnolia, TX 77355"
+101,U.S.A.,Murphy (Dallas),Texas,"Murphy Community Center 205 N Murphy Road Murphy, TX 75094"
+102,U.S.A.,Pearland,Texas,New location to be announced soon.
+103,U.S.A.,Prosper (Dallas),Texas,"114 W. Broadway Street Prosper, TX 75078 Dallas Metro Area"
+104,U.S.A.,Richmond,Texas,"1125 Crabb River Road Richmond, TX 77469"
+105,U.S.A.,San Antonio,Texas,"6812 Bandera Rd #109 San Antonio, TX 78238-3552"
+106,U.S.A.,San Antonio (Alamo Heights),Texas,"1149 Harry Wurzbach Rd. San Antonio, TX 78209-640 210-824-KICK(5425)"
+107,U.S.A.,San Antonio (Walzem),Texas,"5530 Walzem Road San Antonio, TX 78218"
+108,U.S.A.,San Marcos,Texas,"Coming soon in September 2017 1330 Aquarena Springs Dr. Suite 107 San Marcos, TX 78666"
+109,U.S.A.,The Woodlands East,Texas,"New Location!!! 506 Sawdust Road The Woodlands, TX 77380"
+110,U.S.A.,The Woodlands West,Texas,"32215 Tamina Road Magnolia, TX 77354"
+111,U.S.A.,Tomball,Texas,"20295 F.M.2920 Rd. Tomball, TX 77377"
+112,KOREA,Baekwoon,Busan,27/1 1414-9 HwamyungDong Buk-Gu Busan Sangsoo Lee
+113,KOREA,Bakcheol,Busan,344-3 Younsan8Dong Younje-Gu Busan Sungyong Park
+114,KOREA,Dongrae,Busan,140-94 MyungjangDong Dongrae-Gu Busan   Sungbu Kim
+115,KOREA,Dongyoung,Busan,3rd Foloor 487-1 Younsan9Dong Younje-Gu Busan Sangtae Lee
+116,KOREA,Gamman,Busan,4th Floor 158-7 Gamman1Dong Nam-Gu Busan Byungho Kim
+117,KOREA,Geumgok,Busan,69-1 GeumgokDong Buk-Gu Busan  Gyeongae Jeong
+118,KOREA,Geumsa,Busan,56-21 GeumsaDong Geumjeong-Gu Busan Gilwon Lee
+119,KOREA,Giryong,Busan,960-8 Mangmi1Dong Sooyoung-Gu Busan Jeongguen Kim
+120,KOREA,Hwalin,Busan,928-18 GuaebeobDong Sasang-Gu Busan Hyunguk Yoon
+121,KOREA,Hyeonmu,Busan,1384-26 Younsan5Dong Younje-Gu Busan Changgi Kim
+122,KOREA,Hyundae,Busan,Hyundae Market 682-1 Gamcheon1Dong Saha-Gu Busan Gyeongcheol Lee
+123,KOREA,Ilsong,Busan,93-18 Sajik1Dong Dongrae-Gu Busan Sunggil Lee
+124,KOREA,Jagang,Busan,3rd Floor 563-4 Woo1Dong Haewoondae-Gu Busan Seungman Kim
+125,KOREA,Jangsan,Busan,1069-1 Woo2Dong Haewoondae-Gu Busan Young Jang
+126,KOREA,Jeongmu,Busan,1038-15 Banyeo1Dong Haewoondae-Gu Busan Gwangsu Gwak
+127,KOREA,Jungahn,Busan,538-5 Bu-amDong Busanjin-Gu Busan Jeonghwan Choi
+128,KOREA,Jurye,Busan,66-1 Jurye2Dong Sasang-Gu Busan Seounyong Noh
+129,KOREA,Moonhyun,Busan,205-64 Moonhyun3Dong Nam-Gu Busan Donghan Gang
+130,KOREA,Moonmu,Busan,11/1 199-8 YounjiDong Jin-Gu Busan  Myungbong Moon
+131,KOREA,Namcheon,Busan,217 Namcheon1Dong Sooyoung-Gu Busan  Taesu Moon
+132,KOREA,Namsan,Busan,No.209 Geosung-Regency 96-1 NamsnaDong Geumjeong-Gu Busan Bongsub Shim
+133,KOREA,Phil,Busan,No.1001 Youngdong-Plaza JwaDong Haewoondae-Gu Busan Younggeun Gye
+134,KOREA,Seobu,Busan,430-2 Guejeong3Dong Saha-Gu Busan Philhoi Gu
+135,KOREA,Songdo,Busan,Beach Market 354-1 AmnamDong Seo-Gu Busan Seoungtae Kim
+136,KOREA,Sungung,Busan,4th Floor One-Plaza 510-1 Dongsam1Dogn Youngdo-Gu Busan Jongsik Lee Cellular:
+137,KOREA,Taeyang,Busan,432-24 Mangmi1Dong Sooyoung-Gu Busan Jinbae Seo
+138,KOREA,Umgung,Busan,465-16 UmgoongDong Sasang-Gu Busan Changwoo Lim
+139,KOREA,Yeonjae,Busan,956 Geoje2Dong Youngje-Gu Busan Jaekyu Kim
+140,KOREA,Yeonmu,Busan,1367-1 Mora2Dong Sasang-Gu Busan Hyunjin Cho
+141,KOREA,Yongjin,Busan,1153-3 Jaesong2Dong Haewoondae-Gu Busan Juhyun Shin
+142,KOREA,Youngju,Busan,23-15 YoungjuDong Jung-Gu Busan Inseok Suh
+143,KOREA,Daegu,Daegu,705-1 Seongdang2Dong Dalseo-Gu Daegu Yonggi Kim
+144,KOREA,Gimcheon,Gyeongbuk,Hwang Geum Kindergarten 79-3 HwanggeumDong Gimcheon-Si Gyeongbuk Jongseok Ghang
+145,KOREA,Gyeongju,Gyeongbuk,33-4 NohseoDong Gyeongju-Si Gyeongbuk Byungcheol Yoo
+146,KOREA,Dosan,Gwangju,824-4 DosanDong Gwangsan-Gu Gwangju Jong-geun Kim
+147,KOREA,Jeil,Gwangju,1299-5 DosanDong Gwangsan-Gu Gwangju Joonsung Lee
+148,KOREA,Moodeung,Gwangju,1050-29 Juwol1Dong Nam-Gu Gwangju Yang Heo
+149,KOREA,Seobu,Gwangju,4th Floor 174-15 Du-Am-Dong Buk-Gu Gwangju Sungjae Yoon
+150,KOREA,Shin-ga,Gwangju,BogwangKindergarten 783-1 WoonnamDong Gwangsan-Gu Gwangju Gwanghyung Cho
+151,KOREA,Sinchon,Gwangju,783-4 WoonnamDong Gwangsan-Gu Gwangju Jihoon Park
+152,KOREA,Sochon,Gwangju,Underground 611 SochonDong Gwangsan-Gu Gwangju Jongsoo Kim
+153,KOREA,Songjeong,Gwangju,578-14 SongjeongDong Gwangsan-Gu Gwangju Dongbeom Shin
+154,KOREA,Sungdo,Gwangju,728-4 Hwajeong2Dong Seo-Gu Gwangju Sungjang Wi
+155,KOREA,Taegeuk,Gwangju,4th Floor Samho-Garden 37-10 DongrimDong Buk-Gu Gwangju Jeon-gil Lee
+156,KOREA,Cheongryong,Gyeongnam,21-14 MyungseoDong Changwon-Si Gyeongnam Jongjoo Kang
+157,KOREA,Cheonji,Gyeongnam,239-10 Seok-Kye-Ri Sangbuk-Myun Yangsan-Si Gyeongnam Changho Lee
+158,KOREA,Chungryong,Gyeongnam,4th Floor Daeyoung Bldg. 5-67 HaewoonDong Masan-Si Gyeongnam Yoonsan Choi
+159,KOREA,Dongsang,Gyeongnam,881 DongsangDong Gimhae-Si Gyeongnam Sungbok Song
+160,KOREA,Gangin,Gyeongnam,1281-53 Okpo2Dong Geoje-Si Gyeongnam Jaein Ghang
+161,KOREA,Gimhae,Gyeongnam,155-7 SambangDong Gimhae-Si Gyeongnam Siyoung Gong
+162,KOREA,Gimhae 2,Gyeongnam,1097-18 NaeDong Gimhae-Si Gyeongnam Sugan Jang
+163,KOREA,Goosan,Gyeongnam,478 GoosanDong Gimhae-Si Gyeongnam Jonghyun Jin
+164,KOREA,Gyeongnam,Gyeongnam,474-8 Jindong-Ri Jindong-Myun Masan-Si Gyeongnam Soonseok Cho
+165,KOREA,Haman,Gyeongnam,471-4 Malsan-Ri Gaya-Eup Ham-An-Gun Gyeongnam Jaseoung Goo
+166,KOREA,Hanmu,Gyeongnam,3rd Floor 29-30 ManggyeongbukDong Jinju-Si Gyeongnam Byungsoo Kim
+167,KOREA,Horim,Gyeongnam,3rd Floor WholeSale-Mart 669-1 Gooseong-Ri Chilwon-Myun Ham-An-Gun Gyeongnam Byungcheol Ahn
+168,KOREA,Jaeil,Gyeongnam,59-6 Shinbang-Ri Dong-Eup Changwon-Si Gyeongnam Younghwan Choi
+169,KOREA,Jinhae,Gyeongnam,No.405 Daepoong-Sporville GyeonghwaDong Jinhae-Si Gyeongnam Yiseok Byun
+170,KOREA,Jinyoung,Gyeongnam,301 SeongeunVilla-B JinyoungRi JinyoungEup GimhaeSi Gyeongnam Hyunsu Cho
+171,KOREA,Jinyoung 2,Gyeongnam,711-18 Yeorae-Ri Jinyoung-Eup Changwon-Si Gyeongnam Hyunsoo Cho
+172,KOREA,Milyang,Gyeongnam,1559-3 Nae-iDong Milyang-Si Gyeongnam Jungil Kwon
+173,KOREA,Moonmu,Gyeongnam,447-1 BukjeongDong Yangsan-Si Gyeongnam Myungbong Moon
+174,KOREA,Mujeok,Gyeongnam,789-5 Beom-Eo-Ri Mulgeum-Eup Yangsan-Si Gyeongnam Gyeongmin Kim
+175,KOREA,Sobaek,Gyeongnam,647-16 Hwoiwon2Dong Hwoiwonn-Gu Masan-Si Gyeongnam Sukhwan Yoon
+176,KOREA,Hwanho,Jeju,1884-2 Hagwi2-Ri Aewol-Eup Bukjeju-Gun Jeju Taegwan Kim
+177,KOREA,Jeju,Jeju,580-3 SongsanDong Seogwipo-Si Jeju Hwang-geum Goh
+178,KOREA,Muryong,Jeju,04-2 DongheungDong Seogwipo-Si Jeju Sanghun Oh
+179,KOREA,Yongin,Jeju,281-17 YounDong Jeju-Si Jeju Myungjin Chae
+180,KOREA,Yongin 2,Jeju,59-5 Ildo2Dong Jeju-Si Jeju Dongil Ghang
+181,KOREA,Ariranghouse,Jeonbuk,568-133 SeonohsongDong Deokjin-Gu Jeonju-Si Jeonbuk Jinoh Kim
+182,KOREA,Baekam,Jeonnam,8 Jungang2Ga Mokpo-Si Jeonnam Youngmahn Kim
+183,KOREA,Dosan,Jeonbuk,828-2 YoungdeungDong Iksan-Si Jeonbuk Yongbok Lee
+184,KOREA,Gangjin,Jeonnam,51-10 Namseong-Ri Gangjin-Eup Gangjin-Gun Jeonnam Hongjae Jeong
+185,KOREA,Geumyoul,Jeonbuk,50 InhwaDong1Ga Iksan-Si Jeonbuk Geumyoul Goh
+186,KOREA,Gun-gang,Jeonnam,2-3 SangrakDong-2Ga Mokpo-Si Jeonnam Hyungjun Kim
+187,KOREA,Jeonju,Jeonbuk,496-20 JungnohsongDong2Ga Wansan-Gu Jeonju-Si Jeonbuk Gyuhong Jang
+188,KOREA,Murim,Jeonnam,188 Shinwol-Ri Bukil-Myun Haenam-Gun Jeonnam     Hyunmin Choi
+189,KOREA,Yongmun 1,Jeonbuk,843-7 InhooDong1Ga Deokjin-Gu Jeonju-Si Jeonbuk Sungdong Lee
+190,KOREA,Yongmun 2,Jeonbuk,846-1 SeoshinDong Wansan-Gu Jeonju-Si Jeonbuk Daejin Lee
+191,KOREA,Yoodal,Jeonnam,4th Floor 983 SangDong Mokpo-Si Jeonnam Sijong Yang
+192,KOREA,Youngwol-Gun,Gangwon,1111 3Ban Youngheung8Ri Youngwol-Eup Youngwol-Gun Gangwon Boknam Myuong
+193,KOREA,Dong-Gu,Daegu,136-156 Sinam4-Dong Dong-Gu Daegu Dong-Gu Daegu
+194,KOREA,Gwangmyung-Si,Gyeonggi,281-43 Gwangmyung5Dong Gwangmyung-Si Gyeonggi Myungsung Choi
+195,KOREA,Yangcheon-Gu,Seoul,4th Floor Sangmun Bldg. Shinwol7Dong Yangcheon-Gu Seoul Seonghyung Kim
+196,KOREA,Dongdaemun-Gu,Seoul,5th Floor 309-4 Jangan2Dong Dongdaemun-Gu Seoul Wooryeong Park
+197,KOREA,Choonhae,Ulsan,728-7 Gokcheon-Ri Woongcheon-Myun Ulsan Soogham Song
+198,KOREA,Dosung,Ulsan,786-2 TaehwaDong Jung-Gu Ulsan Seokgyu Lim
+199,KOREA,Haeryong 2,Ulsan,197 Deokha-Ri Cheongryang-Myun Uljoo-Gun Ulsan Sangtaek Park
+200,KOREA,Moonhyun,Ulsan,1134-8 Bang-Eo-Dong Dong-Gu Ulsan Chnawook Sung
+201,KOREA,Muryong,Ulsan,3rd Floor DaeshinBldg. 625-25 YaksaDong Jung-Gu Ulsan Sanghun Lee
+202,KOREA,Muryong 2,Ulsan,43-1 HwabongDong Buk-Gu Ulsan Gyuhyun Kim
+203,KOREA,Muryong 3,Ulsan,Underground Geumho-Market 775-6 DalDong Nam-Gu Ulsan Sanghun Lee
+204,KOREA,Muryong 4,Ulsan,745-96 ShincheonDong Buk-Gu Ulsan Ghangsik Choi
+205,KOREA,Muryong 5,Ulsan,482-6 Mugeo2Dong Nam-Gu Ulsan Sanghun Lee
+206,KOREA,Nammok,Ulsan,Nammok Market 310-15 DongbuDong Dong-Gu Ulsan Daeok Ghang
+207,KOREA,Samho,Ulsan,1185-1 Mugeo1Dong Nam-Gu Ulsan Sanghyung Lee
+208,KOREA,Ulsan,Ulsan,Daeha Crystal-Market 851-6 HwajeongDong Dong-Gu Ulsan Sangsik Seo
+209,KOREA,Yeongnam,Ulsan,1833-4 Shinjeong4Dong Nam-Gu Ulsan Yiwon Jeong
+210,UNITED KINGDOM,Acle,England,"Acle War Memoria Centre Bridwell Lane Acle, Norfolk"
+211,UNITED KINGDOM,Attleborough,England,"Attleborough Sports Hall Queens Square, Attleborough, Norfolk"
+212,UNITED KINGDOM,Bedworth,England,"Nicholas Chaimberlain Technology College Bulkington Road Bedworth, CV12 9EA"
+213,UNITED KINGDOM,Bexhill on Sea,England,Bexhill High School Gunters Lane Bexhill
+214,UNITED KINGDOM,Birmingham,England,Peter Hill Road Brierley Hill Birmingham
+215,UNITED KINGDOM,Birmingham (North),England,Coming soon in April 2019! S.C. Grammar School for Girls Jockey Road Sutton Coldfield Birmingham B73 5PT
+216,UNITED KINGDOM,Boston,England,"Unit 3,Marsh Lane Boston PE21 7SB"
+217,UNITED KINGDOM,Bury St. Edmunds,England,"31 Eastern Way Bury St. Edmunds, Suffolk IP32 7AB"
+218,UNITED KINGDOM,Cambridge,England,Hills Road Sports Purbeck Road Cambridge   CB2 8PF
+219,UNITED KINGDOM,Claygate,England,162 Hare Lane Claygate Surrey  KT10 0RD
+220,UNITED KINGDOM,Colchester,England,Highwoods Sports Center Highwood Colchester
+221,UNITED KINGDOM,Dereham,England,"Dereham Sports Centre Dereham, Norfolk"
+222,UNITED KINGDOM,Diss,England,Diss Youth Club 30 Shelfanger Road Diss
+223,UNITED KINGDOM,Eastbourne,England,24 Longstone Road Eastbourne BN21 3SN
+224,UNITED KINGDOM,Ely/Soham,England,"New location! 9B Regal Lane Soham, Cambs CB7 5BA"
+225,UNITED KINGDOM,Eye,England,Hartismere Sports Centre Castleton Way Eye
+226,UNITED KINGDOM,Felixstowe,England,"Mid Suffolk Leisure Centre Gainsborough Road Stowmarket, Suffolk"
+227,UNITED KINGDOM,Framlingham,England,"Framlingham Woodbridge Suffolk, IP13 9HE"
+228,UNITED KINGDOM,Great Bookham,England,"South Bookham SPACE Dorking Road Great Bookham, KT23 4PB"
+229,UNITED KINGDOM,Great Yarmouth,England,"Cliff Park High School Kennedy Ave Great Yarmouth, NR31 6TA"
+230,UNITED KINGDOM,Halesworth,England,Dairy Hill Halesworth Suffolk IP 19
+231,UNITED KINGDOM,Hastings,England,"NEW location!!! The Hastings Academy Rye Road Hastings, TN35 5DN"
+232,UNITED KINGDOM,Hinckley,England,"Hastings High School St. Catherines Close Burbage, Hinckley LE10 2QE"
+233,UNITED KINGDOM,Huyton,England,Huyton Arts and Sportre Seel Road Huyton
+234,UNITED KINGDOM,Ipswich,England,Halifax Primary School Prince of Wales Drive Ipswich IP2 8PX
+235,UNITED KINGDOM,King's Lynn,England,"Unit 3, Bryggen Road North Lynn Industrial Estate Kings Lynn, Norfolk PE30"
+236,UNITED KINGDOM,Lakenheath,England,"West Row Village Hall Lakenheath, Suffolk"
+237,UNITED KINGDOM,Liverpool,England,75 Long Lane Aintree Liverpool  L9 7BN
+238,UNITED KINGDOM,Loddon,England,"Loddon Industrial Park, Unit A Little Money Road Loddon  NR14 6JD"
+239,UNITED KINGDOM,London Central,England,Vie Health Clubs 122 Clerkenwell Road London  EC1R 5DL
+240,UNITED KINGDOM,London Centre,England,Baynard House Queen Victoria Street London EC4
+241,UNITED KINGDOM,London North,England,"Harrow Leisure Centre Christchurch Avenue Harrow, Middlesex HA3 5BD"
+242,UNITED KINGDOM,London South,England,Dulwich College Sports Centre Dulwich Common London SE21 7 LD
+243,UNITED KINGDOM,Long Stratton,England,Long Stratton High School Manor Road Long Stratton
+244,UNITED KINGDOM,Lowestoft,England,Waterlane Sports Centre Lowestoft
+245,UNITED KINGDOM,Mildenhall,England,Dome Sports Centre Mildenhall
+246,UNITED KINGDOM,Narborough,England,Narborough Community Centre Chalk Lane Narborough   PE32 1SR
+247,UNITED KINGDOM,Newmarket,England,"Newmarket Leisure Centre Exning Road Newmarket, CB8 0EA"
+248,UNITED KINGDOM,Norwich,England,128 Hellesdon Park Road Norwich
+249,UNITED KINGDOM,Oxfordshire,England,"Unit 14, Ventura Business Park Broadshires Way Carterton   OX18 1AD"
+250,UNITED KINGDOM,Peterborough,England,Thomas Deacon Academy Queens Garden Peterborough   PE1 2UW
+251,UNITED KINGDOM,Sevenoaks,England,"Dunton Green Primary School London Road, Dunton Green Sevenoaks, Kent"
+252,UNITED KINGDOM,Sleaford,England,"Sleaford Leisure Centre East Banks, Boston Road Sleaford, NE34 7ET"
+253,UNITED KINGDOM,Stowmarket,England,Mid Suffolk Sports Centre Gainsborough Road Stowmarket
+254,UNITED KINGDOM,Swaffham,England,Swaffham Leisure Centre Brandon Road Swaffham   PE37 7DY
+255,UNITED KINGDOM,Tamworth,England,Woodland Road Tamworth
+256,UNITED KINGDOM,Thetford,England,Thetford Grammar School Bridge Street Thetford   IP24 3AF
+257,UNITED KINGDOM,Watton,England,Watton Junior School Brandon Roa Watton   IP25 6AL
+258,UNITED KINGDOM,Weston-Super-Mare,England,"Haywood Village Academy Whitney Crescent Weston Super Mare, Somerset BS24 8ES"
+259,UNITED KINGDOM,Widnes,England,Widnes Martial Arts Waterloo Road Widnes   WA8 0QR
+260,UNITED KINGDOM,Woodbridge,England,The Youth Centre The Ave Woodbridge  IP12 4BA    7880-730619
+261,UNITED KINGDOM,Wymondham,England,White Arch 59 Dereham Road Wymondham
+262,UNITED KINGDOM,Yeovil,England,"Milford Community Hall Milford Road Yeovil, Somerset BA21 4DQ"
+263,UNITED KINGDOM,Aberdeen,Scotland,"Ruthrieston Community Centre 532-536 Holburn St Aberdeen, Scotland"
+264,UNITED KINGDOM,Aboyne,Scotland,"NEW!!! Bridge View Road Aboyne, Aberdeenshire AB34 5JN    07899-07346"
+265,UNITED KINGDOM,Banchory,Scotland,"Banchory Academy - Practice Hall Schoolhill Banchory, Kincardineshire AB31 5TQ   07899-07346"
+266,UNITED KINGDOM,Bathgate,Scotland,"Bathgate Academy Edinburgh Road Bathgate, W. Lothian"
+267,UNITED KINGDOM,Caithness,Scotland,"E'Shed off Naver Road Thurso, Caithness, KW14 7DT"
+268,UNITED KINGDOM,Dunfermline,Scotland,Queen Anne High School Broomhead Parks 150m6-878022
+269,UNITED KINGDOM,Edinburgh,Scotland,"82 Jane Street Edinburgh, EH6 5 AG"
+270,UNITED KINGDOM,Falkirk,Scotland,"Woodlands games hall Cochrane ave Falkirk, FK1 1QE"
+271,UNITED KINGDOM,GLASGOW,Scotland,"NEW LOCATION ! Flat 2, 3rd Floor, Victoria Chambers 142 West Nile St Glasgow, G1 2RQ 7515-442065"
+272,UNITED KINGDOM,Inverness-Shire,Scotland,"Inverness Sports Centre Inverness, Scotland"
+273,UNITED KINGDOM,Kelty,Scotland,"NEW!!! Kelty Community Centre Main Stree, 90-92 Kelty, Scotland  KY4 0AQ"
+274,UNITED KINGDOM,Kirkaldy,Scotland,"Fitness Factor Gym Unit 1, Evans Business Centre Mirchelston Industrial Estate Kirkcaldy KY1 3NB"
+275,UNITED KINGDOM,Livingston,Scotland,"West Lothian College Livingston, Scotland, UK"
+276,UNITED KINGDOM,Mey,Scotland,Mey Village Hall
+277,UNITED KINGDOM,Motherwell,Scotland,O'Donnell Way Motherwell Scotland ML1 2TZ
+278,UNITED KINGDOM,Paisley,Scotland,"Floor 4orce Studio 12, Sir James Clark Building Seedhill, Paisley, PA1 1JT"
+279,UNITED KINGDOM,Perth,Scotland,"NEW  in Jan 2018!!! Perth College Crieff Road Perth, Scotland PH1 2NX"
+280,UNITED KINGDOM,South Queensferry,Scotland,"Scout Hall Nelson Hall Port Edgar Marina South Queensferry, West Lothian EH30 9SQ"
+281,UNITED KINGDOM,Stirling,Scotland,"East Argyll Community Centre Colquhoun Street Braehead, Stirling, FK7 7PU"
+282,UNITED KINGDOM,Westhill,Scotland,Westhill Academy Hays Way Westhill AB32 6XZ
+283,UNITED KINGDOM,Wick,Scotland,"Assembly Rooms Wick, UK"
+284,AFGHANISTAN,Bagram Air Field,,"Pat Tillman USO Bagram Air Field APO, AE"
+285,ARGENTINA,Buenos Aires,Buenos Aires,"Samuel Morse Street No. 2146 City Merlo,   Buenos Aires"
+286,ARGENTINA,Colegiales,Buenos Aires,New!!! General Freire Barrio Colegiales C.A.B.A.
+287,ARGENTINA,Obera,Misiones,Avellaneda 986 Obera Misiones Tel:
+288,ARGENTINA,Obera,Misiones,"Obera Tenis Club Av. San Luis y Berutti Obera, Misiones 3360"
+289,AUSTRALIA,Baskerville,Western Australia,Swan Park Leisure Centre Baskerville WA 6056
+290,AUSTRALIA,Northern Perth,Western Australia,Balga Leisure Park 107 Princess Road Balga WA 6061
+291,AUSTRALIA,South East Perth,Western Australia,NEW!!! Centre Road Kelmscott Perth West Australia
+292,BELGIUM,Brasschaat,Antwerpen,Spotentrum Peerdsbos Bredabaan 31 Brasschaat Antwerpen (0)6-512 282 59
+293,CANADA,Calgary,Alberta,"Hillhurst Sunnyside Community Center 1320  5th Avenue NW, Calgary."
+294,CANADA,Vermilion,Alberta,"The Royal Canadian Legion Armouries 50th Ave, Vermilion AB Canada 750-581-9994"
+295,CANADA,Victoria,British Columbia,"City of Victoria Vancouver Island, British Columbia"
+296,CANADA,North York - Toronto,Ontario,"1133 Leslie Street North York, Ontario M3C 2J6"
+297,CANADA,Sault Ste. Marie,Ontario,"40 White Oak Drive East Sault Ste. Marie, Ontario P6B-48J"
+298,CANADA,Rouyn-Noranda,Quebec,"158, 7e Rue Rouyn-Noranda, Quebec"
+299,GERMANY,Baumholder,Ramstein,NEW!!! Baumholder Army Base School Road Bldg 8876 55774 Baumholder
+300,GERMANY,Ramstein AFB,Ramstein,Southside Fitness Center PSC2 Bx 5975 APO AE 09012 49
+301,GERMANY,Ramstein-Miesenbach,Ramstein,NEW!!! Kindsbacher Strasse 39D 66877 Ramstein-Miesenbach
+302,GERMANY,Alsheim,Worms,NEW !! Bachstrasse 11 67577 Alsheim 49-1721-340798
+303,GERMANY,Ludwigsburg,Worms,NEW!!! Nonprofit Gymnastic Club MTV Bebenhauser Strabe 41 71638 Ludwigsburg
+304,GERMANY,Worms,Worms,Sprotsschule Kuk Sool Won Guterhallenstrasse 2 Worms Germany 67549
+305,IRAN,Shiraz,Shiraz,Main Office Peiman Sports Club Between Hafez intersection and Atlasi Square
+306,IRAN,Shiraz - Ariyarad,Shiraz,Shiraz - Ariyarad Club Golastan Township Inst. Mahdi Najafi
+307,IRAN,Shiraz - Mahdiabad,Shiraz,Shiraz - Mahdiabad Club Mahidiabad Inst. Ali Neyati
+308,IRAN,Shiraz - Shaghaegh,Shiraz,Shiraz - Shaghaegh Club Pasargad Blvd. Inst.  Morteza Taremi
+309,IRAN,Tehran,Tehran,"Persia Academy Golriz Ave., Motahari St., Tehran (+912) 370 64 19 (+912) 365 61 65"
+310,IRAN,Tehran - Janat Abad,Tehran,ASIA ACADEMY
+311,IRAN,Tehran - Koshtargah Squeir,Tehran,BAHMAN CULTURAL CENTER
+312,IRAN,Tehran - Shahran,Tehran,TAKAFOR CULTURAL CENTER
+313,IRAN,Tehran - Shahran,Tehran,SHOHADAY_E_KAN SPORT COMPLEX KOUHSAR BOULVARD
+314,IRAN,Tehran - Teharansar,Tehran,NO_1 SPORT COMPLEX OF IRAN PETROLIUM INDUSTRY BASHGAH AVEB
+315,IRELAND,Cork,Ireland,Ballinspittle community hall Ballinspittle Kinsale County Cork
+316,ITALY,Aviano AFB,Aviano Afb,Aviano Air Base
+317,JAPAN,Kadena AFB,Kadena Afb,"Bldg. 109 Risner Fitness Center Kadena Air Base, Japan 81-6117-34-5128"
+318,JAPAN,Misawa AFB,Misawa Afb,"Bld 1044 Misawa Air Base, Japan 011-81-176-66-8203"
+319,THE NETHERLANDS,Almere,Almere,Hollywoodlaan 109 Almere Stad Flevoland
+320,THE NETHERLANDS,Amsterdam,Amsterdam | De Meern | Harlem,Echtenstein 82 B 1103 AB Amsterdam
+321,THE NETHERLANDS,Lelystad,Lelystad,"Bingerden 41, 8218  AT   Lelystad"
+322,THE NETHERLANDS,Rotterdam,Rotterdam,NEW location! IchiGeki Academy Nikkelstraat 21 3067GR  Rotterdam
+323,NEW ZEALAND,Onewhero,Auckland,Kuk Sool Won of Onewhero The Te Kohanga Community Hall Tuakau Bridge-Port Waikato Road Te Kohanga Waikato
+324,NEW ZEALAND,Pukekohe,Auckland,"Kuk Sool Won of Pukekohe Drever Gym Pukekohe High School 14 Harris St Pukekohe, 2120"
+325,NORWAY,Oslo,Oslo,"Smestad skole Konventveien 27 0377, Oslo Norway"
+326,PUERTO RICO,Puerto Rico,Puerto Rico,Ave Font Martello 119 Humacao P.R. 00791
+327,SPAIN,Barcelona (Palleja),Barcelona,"Placa De La Vila, S/N 08780 Palleja Barcelona"
+328,SPAIN,Barcelona (St. Feliu),Barcelona,"Sant Llorenc, 15 08980  St. Feliu Del Llobregat Barcelona"
+329,SPAIN,Madrid,Madrid,"Escuela central de Madrid Calle de Lira, 4 28007 Madrid"
+330,SPAIN,Rivas,Madrid,"NEW!!! C/ Serero Ochoa No. 9, nave B1 28521 Rivas Vaciamadrid"
+331,SPAIN,Murcia,Murcia,34·96·868·55·37
+332,THAILAND,Bankkok,Bangkok,Bangkok

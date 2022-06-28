@@ -1,0 +1,340 @@
+,type,name,duration
+0,place,2440 39th St NW,31735
+1,move,walking,468
+2,place,Whole Foods Market,2803
+3,move,transport,1309
+4,move,walking,396
+5,place,Cosi,39451
+6,move,transport,964
+7,place,Place in Glover Park,9274
+8,place,Place in Glover Park,54548
+9,move,transport,1000
+10,place,Safeway,1407
+11,move,transport,369
+12,move,walking,354
+13,move,bus,284
+14,move,walking,240
+15,move,underground,1051
+16,move,walking,263
+17,place,Union Station | Gate K,1493
+18,move,train,18951
+19,move,train,7575
+20,move,walking,270
+21,move,underground,1081
+22,move,walking,572
+23,place,Home,21148
+24,place,Home,29975
+25,place,Place in Old Cambridge,518
+26,move,walking,872
+27,place,Proximate,11643
+28,move,walking,660
+29,place,Border Cafe,3583
+30,move,walking,909
+31,place,Dillon House,4617
+32,move,walking,531
+33,place,Eliot House,10243
+34,move,walking,1047
+35,place,Broadway Marketplace,409
+36,move,walking,184
+37,place,Home,21208
+38,place,Home,29151
+39,move,walking,481
+40,place,Proximate,7325
+41,move,walking,394
+42,place,Wasserstein Hall,6088
+43,move,walking,157
+44,place,Proximate,18706
+45,move,walking,738
+46,place,Home,23361
+47,place,Home,32504
+48,move,walking,800
+49,place,Proximate,11687
+50,move,walking,639
+51,move,underground,450
+52,move,walking,217
+53,place,One Broadway,683
+54,move,walking,391
+55,place,101 Main St  (CIC),3162
+56,move,walking,667
+57,place,Boston Marriott Cambridge,2954
+58,move,walking,265
+59,move,underground,390
+60,move,walking,963
+61,place,Proximate,13336
+62,move,walking,686
+63,place,Home,16605
+64,place,Home,35431
+65,move,walking,825
+66,place,Russell House Tavern,3805
+67,move,walking,241
+68,place,Starbucks,173
+69,move,walking,823
+70,place,Proximate,12939
+71,move,walking,424
+72,place,MBTA Bus 1,639
+73,move,walking,209
+74,place,Experiment Fund,16278
+75,move,walking,849
+76,place,Home,13764
+77,place,Home,36727
+78,move,walking,654
+79,place,Tory Row,6497
+80,move,walking,1204
+81,place,Home,37718
+82,place,Home,43194
+83,move,walking,745
+84,place,Border Cafe,3437
+85,move,walking,544
+86,place,Proximate,19935
+87,move,walking,545
+88,place,Home,18001
+89,place,Home,27686
+90,move,walking,155
+91,place,Broadway Marketplace,144
+92,move,walking,493
+93,place,Experiment Fund,8130
+94,move,walking,637
+95,place,Proximate,22580
+96,move,walking,720
+97,place,Park,4249
+98,move,walking,1057
+99,place,Home,20550
+100,place,Home,47270
+101,move,walking,828
+102,place,Proximate,12931
+103,move,walking,423
+104,move,transport,931
+105,move,walking,871
+106,place,Place in Dock Square,480
+107,move,walking,664
+108,place,Hard Rock Cafe Boston,11825
+109,move,walking,264
+110,move,transport,1248
+111,place,Home,8664
+112,place,Home,44721
+113,move,walking,790
+114,place,Grendel's Den Restaurant & Bar,1989
+115,move,walking,485
+116,place,Proximate,11534
+117,move,walking,739
+118,place,Broadway Marketplace,618
+119,move,walking,309
+120,place,Home,19518
+121,place,Home,1294
+122,place,Home,39499
+123,move,walking,604
+124,place,Proximate,4313
+125,move,walking,704
+126,place,Grendel's Den Restaurant & Bar,2086
+127,move,walking,242
+128,move,underground,2542
+129,move,walking,243
+130,place,Boston Logan International Airport (BOS),4567
+131,move,airplane,4386
+132,place,Ronald Reagan Washington National Airport (DCA),668
+133,move,transport,148
+134,place,Place in Ronald Reagan Washington National Airport,525
+135,move,walking,663
+136,place,Place in Ronald Reagan Washington National Airport,513
+137,move,underground,868
+138,move,walking,481
+139,place,NTN24,1950
+140,move,walking,1727
+141,place,Sushi Go Round,4621
+142,move,walking,441
+143,place,Walgreens,1086
+144,move,car,1184
+145,place,Laura's Home,12339
+146,place,Laura's Home,52612
+147,move,walking,2026
+148,place,Apple Store,416
+149,move,walking,445
+150,place,TJ Maxx & HomeGoods,4165
+151,move,walking,289
+152,place,Old Glory,605
+153,move,transport,720
+154,move,walking,122
+155,place,Safeway,1453
+156,move,walking,1095
+157,place,Laura's Home,22454
+158,place,Laura's Home,49484
+159,move,walking,574
+160,place,Whole Foods Market,4600
+161,move,walking,681
+162,place,Laura's Home,31062
+163,place,Laura's Home,60444
+164,move,car,546
+165,place,Thunder Burger & Bar,5217
+166,move,bus,616
+167,move,walking,431
+168,place,Laura's Home,19144
+169,place,Laura's Home,30361
+170,move,walking,335
+171,move,bus,1051
+172,move,walking,120
+173,move,underground,1058
+174,move,walking,272
+175,place,Place in Ronald Reagan Washington National Airport,321
+176,move,walking,491
+177,place,Ronald Reagan Washington National Airport (DCA),4667
+178,move,walking,163
+179,place,Ronald Reagan Washington National Airport (DCA),1867
+180,move,airplane,4693
+181,move,walking,399
+182,place,Boston Logan International Airport (BOS),638
+183,move,underground,2056
+184,move,walking,731
+185,place,Proximate,36
+186,place,Proximate,12260
+187,move,walking,436
+188,place,Home,13869
+189,place,Home,33271
+190,move,walking,515
+191,place,Proximate,12177
+192,move,walking,738
+193,place,Border Cafe,2411
+194,move,walking,544
+195,place,Proximate,13474
+196,move,walking,608
+197,place,Home,15857
+198,move,walking,729
+199,place,Proximate,16087
+200,move,walking,833
+201,place,Grendel's Den Restaurant & Bar,5582
+202,move,walking,729
+203,place,Proximate,17554
+204,move,walking,885
+205,place,Home,4122
+206,place,Home,10524
+207,place,Home,31135
+208,move,walking,151
+209,place,Darwin's Ltd.,986
+210,move,transport,2011
+211,place,The Pulse Network,4847
+212,move,transport,1869
+213,move,walking,215
+214,place,IDG Enterprise,5894
+215,move,transport,1535
+216,place,Costco Wholesale,3019
+217,move,transport,2863
+218,place,Home,715
+219,move,walking,445
+220,place,Home,30717
+221,place,Home,46549
+222,move,walking,683
+223,place,CVS/pharmacy,1382
+224,move,walking,710
+225,place,Home,37077
+226,place,Home,46876
+227,move,walking,632
+228,place,Proximate,15124
+229,move,walking,671
+230,place,Home,23097
+231,place,Home,31175
+232,move,walking,449
+233,place,Proximate,11143
+234,move,walking,526
+235,place,Border Cafe,4866
+236,move,walking,696
+237,place,Proximate,20974
+238,move,walking,591
+239,place,Home,15980
+240,place,Home,33177
+241,move,walking,247
+242,place,Darwin's Ltd.,3918
+243,move,transport,1535
+244,place,IDG Enterprise,7144
+245,move,walking,124
+246,move,transport,248
+247,place,Margarita's Mexican Restaurant,3112
+248,move,walking,208
+249,move,transport,1562
+250,move,walking,872
+251,place,Place in Old Cambridge,535
+252,place,Proximate,17247
+253,move,walking,772
+254,place,Home,15702
+255,place,Home,28065
+256,move,walking,528
+257,move,transport,931
+258,move,walking,152
+259,place,Amtrak South Station,814
+260,move,transport,9211
+261,place,Place in Connecticut,339
+262,move,transport,5792
+263,move,walking,300
+264,move,transport,721
+265,move,walking,995
+266,place,Place in East Village,169
+267,move,walking,309
+268,place,Work-Bench,15439
+269,move,walking,1122
+270,place,Google - 9th Ave,9848
+271,move,walking,293
+272,move,transport,661
+273,move,walking,181
+274,place,Jess Lin's Home,8124
+275,move,walking,151
+276,move,transport,1982
+277,move,walking,184
+278,place,John F. Kennedy International Airport (JFK),93
+279,place,John F. Kennedy International Airport (JFK),19692
+280,move,walking,336
+281,place,John F. Kennedy International Airport (JFK),2601
+282,move,transport,9437
+283,place,Chicago O'Hare International Airport (ORD),299
+284,move,walking,480
+285,move,transport,3133
+286,place,Fitzsimmons Home,8433
+287,move,transport,292
+288,place,Egg Harbor Cafe,2398
+289,move,walking,197
+290,move,transport,339
+291,place,Fitzsimmons Home,38761
+292,place,Fitzsimmons Home,51196
+293,move,transport,665
+294,place,Place in St. Charles,1780
+295,move,transport,959
+296,place,Fitzsimmons Home,31800
+297,place,Fitzsimmons Home,56726
+298,move,transport,1167
+299,place,Place in Geneva,649
+300,move,transport,528
+301,place,Fitzsimmons Home,8560
+302,move,transport,870
+303,place,Place in Kane County,8511
+304,move,transport,699
+305,place,Fitzsimmons Home,8691
+306,place,Fitzsimmons Home,19434
+307,place,Fitzsimmons Home,26991
+308,move,transport,1987
+309,place,Reel Club,3962
+310,move,walking,170
+311,place,Anthropologie,651
+312,move,walking,421
+313,place,Oakbrook Apple Store v2.0,835
+314,move,walking,136
+315,place,Brookstone,934
+316,move,walking,262
+317,move,transport,2767
+318,move,walking,121
+319,move,transport,963
+320,place,Fitzsimmons Home,25376
+321,place,Fitzsimmons Home,48287
+322,move,walking,224
+323,move,transport,4774
+324,move,walking,270
+325,move,transport,691
+326,move,walking,332
+327,place,US Cellular Field,5699
+328,move,walking,532
+329,place,US Cellular Field,2447
+330,move,walking,496
+331,move,transport,2255
+332,place,La Scarola,5528
+333,move,transport,370
+334,move,walking,2175
+335,place,Place in Ogilvie Transportation Center,287
+336,move,transport,4041
+337,move,walking,514
+338,place,Fitzsimmons Home,7480

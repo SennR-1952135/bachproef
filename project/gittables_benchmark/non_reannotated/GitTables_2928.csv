@@ -1,0 +1,31 @@
+,code,name
+0,0,FDRE
+1,100,Taxable Purchases - VAT
+2,110,Taxable Purchase VAT Out of Scope
+3,120,Taxable Purchase VAT Exempt
+4,130,Taxable Purchase VAT Rated 0%
+5,140,Taxable Purchase VAT Rated 15%
+6,200,Taxable Purchases - Witholding
+7,220,Taxable 2% Withholding on Purchases
+8,225,Taxable 35% Withholding on Purchases
+9,250,Taxable Sales - VAT
+10,255,Taxable Sales VAT Out of Scope (Sales)
+11,260,Taxable Sales VAT Exempt
+12,265,Taxable Sales VAT Rated 0%
+13,270,Taxable Sales VAT Rated 15%
+14,280,Taxable Sales - Withholding
+15,285,Taxable 2% Withholding on Sales
+16,290,Taxable 35% Withholding on Sales
+17,295,Taxable VAT Withholding on Sales
+18,300,Net VAT to be Paid/Reclaimed
+19,310,Purchase VAT
+20,311,Purchase VAT Rated 15%
+21,320,Sales VAT
+22,321,Sales VAT Rated 15%
+23,400,Withholding on Purchases
+24,410,2% Withholding on Purchases
+25,420,35% Withholding on Purchases
+26,500,Withholding on Sales
+27,510,2% Withheld on Sales
+28,520,35% Withheld on Sales
+29,530,VAT Withheld on Sales

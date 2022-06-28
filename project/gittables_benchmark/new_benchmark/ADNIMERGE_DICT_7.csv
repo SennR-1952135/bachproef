@@ -1,0 +1,86 @@
+,status,type,code,notes
+0,-4,-4,-4,The 4 digit roster ID (RID) should be used to merge data
+1,-4,-4,-4,3 digit site number and 4 digit roster ID (RID) separated by '_S_'
+2,-4,-4,-4,-4.0
+3,-4,-4,-4,-4.0
+4,-4,-4,-4,-4.0
+5,-4,-4,-4,-4.0
+6,-4,-4,-4,From registry table
+7,-4,-4,-4,From studysum table
+8,-4,-4,-4,From ptdemog table
+9,-4,-4,-4,From ptdemog table
+10,-4,-4,-4,From ptdemog table
+11,-4,-4,-4,From ptdemog table
+12,-4,-4,-4,From ptdemog table
+13,-4,-4,-4,From ptdemog table
+14,-4,-4,-4,From apoe table
+15,-4,-4,-4,From ucberkeleyfdg table
+16,-4,-4,-4,From pibpetsuvr table
+17,-4,-4,-4,From ucberkeleyav45 table
+18,-4,-4,-4,From cdr table
+19,-4,-4,-4,From adas table
+20,-4,-4,-4,From adas table
+21,-4,-4,-4,From mmse table
+22,-4,-4,-4,From neurobat table
+23,-4,-4,-4,From neurobat table
+24,-4,-4,-4,From neurobat table
+25,-4,-4,-4,From moca table
+26,-4,-4,-4,Mean of non-missing responses from ecogpt table
+27,-4,-4,-4,Mean of non-missing responses from ecogpt table
+28,-4,-4,-4,Mean of non-missing responses from ecogpt table
+29,-4,-4,-4,Mean of non-missing responses from ecogpt table
+30,-4,-4,-4,Mean of non-missing responses from ecogpt table
+31,-4,-4,-4,Mean of non-missing responses from ecogpt table
+32,-4,-4,-4,Mean of non-missing responses from ecogpt table
+33,-4,-4,-4,Mean of non-missing responses from ecogsp table
+34,-4,-4,-4,Mean of non-missing responses from ecogsp table
+35,-4,-4,-4,Mean of non-missing responses from ecogsp table
+36,-4,-4,-4,Mean of non-missing responses from ecogsp table
+37,-4,-4,-4,Mean of non-missing responses from ecogsp table
+38,-4,-4,-4,Mean of non-missing responses from ecogsp table
+39,-4,-4,-4,Mean of non-missing responses from ecogsp table
+40,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+41,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+42,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+43,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+44,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+45,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+46,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+47,-4,-4,-4,From studysum table
+48,-4,-4,-4,From registry table
+49,-4,-4,-4,From cdr table
+50,-4,-4,-4,From adas table
+51,-4,-4,-4,From adas table
+52,-4,-4,-4,From mmse table
+53,-4,-4,-4,From neurobat table
+54,-4,-4,-4,From neurobat table
+55,-4,-4,-4,From neurobat table
+56,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+57,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+58,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+59,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+60,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+61,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+62,-4,-4,-4,From ucsffsx and ucsffsx51 tables
+63,-4,-4,-4,From moca table
+64,-4,-4,-4,Mean of non-missing responses from ecogpt table
+65,-4,-4,-4,Mean of non-missing responses from ecogpt table
+66,-4,-4,-4,Mean of non-missing responses from ecogpt table
+67,-4,-4,-4,Mean of non-missing responses from ecogpt table
+68,-4,-4,-4,Mean of non-missing responses from ecogpt table
+69,-4,-4,-4,Mean of non-missing responses from ecogpt table
+70,-4,-4,-4,Mean of non-missing responses from ecogpt table
+71,-4,-4,-4,Mean of non-missing responses from ecogsp table
+72,-4,-4,-4,Mean of non-missing responses from ecogsp table
+73,-4,-4,-4,Mean of non-missing responses from ecogsp table
+74,-4,-4,-4,Mean of non-missing responses from ecogsp table
+75,-4,-4,-4,Mean of non-missing responses from ecogsp table
+76,-4,-4,-4,Mean of non-missing responses from ecogsp table
+77,-4,-4,-4,Mean of non-missing responses from ecogsp table
+78,-4,-4,-4,From ucberkeleyfdg table
+79,-4,-4,-4,From pibpetsuvr table
+80,-4,-4,-4,From ucberkeleyav45 table
+81,-4,-4,-4,From registry EXAMDATEs
+82,-4,-4,-4,From registry EXAMDATEs
+83,-4,-4,-4,From registry EXAMDATEs
+84,-4,-4,-4,From registry EXAMDATEs

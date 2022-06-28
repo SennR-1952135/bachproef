@@ -1,0 +1,116 @@
+,category,weight,type
+0,meat,0.4,beef
+1,meat,0.4,lamb
+2,meat,0.4,venison
+3,meat,0.4,salami
+4,meat,0.4,proscuitto
+5,meat,0.4,bresaola
+6,meat,0.4,bacon
+7,meat,0.4,raost
+8,meat,0.4,tenderloin
+9,meat,0.4,pork chop
+10,meat,0.4,chicken
+11,meat,0.4,duck
+12,meat,0.4,turkey
+13,meat,0.4,oyster
+14,meat,0.4,mussel
+15,meat,0.4,clam
+16,meat,0.4,tuna
+17,meat,0.4,cod
+18,meat,0.4,trout
+19,meat,0.4,bass
+20,meat,0.4,lobster
+21,meat,0.4,crab
+22,meat,0.4,prawn
+23,meat,0.4,langoustine
+24,preparation,0.05,grilled
+25,preparation,0.05,barbecued
+26,preparation,0.05,sauteed
+27,preparation,0.05,fried
+28,preparation,0.05,smoked
+29,preparation,0.05,roasted
+30,preparation,0.05,poached
+31,preparation,0.05,steamed
+32,dairy,0.2,brie
+33,dairy,0.2,mascarpone
+34,dairy,0.2,creme fraiche
+35,dairy,0.2,bleu
+36,dairy,0.2,gorgonzola
+37,dairy,0.2,stilton
+38,dairy,0.2,roquefort
+39,dairy,0.2,cheddar
+40,dairy,0.2,pecorino
+41,dairy,0.2,manchego
+42,dairy,0.2,asiago
+43,dairy,0.2,parmesan
+44,vegetable,0.15,onion
+45,vegetable,0.15,shallot 
+46,vegetable,0.15,garlic
+47,vegetable,0.15,scallion
+48,vegetable,0.15,green beans
+49,vegetable,0.15,kale
+50,vegetable,0.15,lettuce
+51,vegetable,0.15,squash
+52,vegetable,0.15,turnip
+53,vegetable,0.15,butternut
+54,vegetable,0.15,pumpkin
+55,vegetable,0.15,delicata
+56,vegetable,0.15,carrot
+57,vegetable,0.15,tomoato
+58,vegetable,0.15,eggplant
+59,vegetable,0.15,bell pepper
+60,vegetable,0.15,crimini
+61,vegetable,0.15,maitake
+62,vegetable,0.15,chanterelle
+63,vegetable,0.15,portobello
+64,vegetable,0.15,peanut
+65,vegetable,0.15,almond
+66,vegetable,0.15,pecan
+67,vegetable,0.15,sesame
+68,vegetable,0.15,lentil 
+69,vegetable,0.15,navy
+70,vegetable,0.15,pinto
+71,vegetable,0.15,chickpea
+72,herb/spices,0.1,black pepper
+73,herb/spices,0.1,ancho
+74,herb/spices,0.1,aleppo
+75,herb/spices,0.1,chipotle
+76,herb/spices,0.1,chili
+77,herb/spices,0.1,hot sauce
+78,herb/spices,0.1,habanero
+79,herb/spices,0.1,sichuan
+80,herb/spices,0.1,thyme
+81,herb/spices,0.1,oregano
+82,herb/spices,0.1,basil
+83,herb/spices,0.1,tarragon
+84,herb/spices,0.1,cinnamon
+85,herb/spices,0.1,clove
+86,herb/spices,0.1,allspice
+87,herb/spices,0.1,mace
+88,herb/spices,0.1,anise
+89,herb/spices,0.1,tumeric
+90,herb/spices,0.1,saffron
+91,herb/spices,0.1,fennel
+92,herb/spices,0.1,ginger
+93,starches,0.05,flour
+94,starches,0.05,white rice
+95,starches,0.05,pasta
+96,starches,0.05,bread
+97,starches,0.05,tortillas
+98,starches,0.05,quinoa
+99,starches,0.05,farro
+100,starches,0.05,brown rice
+101,starches,0.05,sweet potato
+102,starches,0.05,yucca
+103,starches,0.05,taro
+104,starches,0.05,potato
+105,sweet,0.05,strawberry
+106,sweet,0.05,orange
+107,sweet,0.05,apple
+108,sweet,0.05,peach
+109,sweet,0.05,vanilla
+110,sweet,0.05,caramel
+111,sweet,0.05,creme brulee
+112,sweet,0.05,ice cream
+113,sweet,0.05,chocolate
+114,sweet,0.05,coffee

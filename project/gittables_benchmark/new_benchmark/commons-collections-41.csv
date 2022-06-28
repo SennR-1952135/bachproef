@@ -1,0 +1,111 @@
+,status,creator,description
+0,Open,lingchao,"The following code snippets throw a NotSerializableException. It works well before commons-collections4 4.0 and commons-collection3. When I update it to 4.1 or newer versions, it failed.
+
+
+{code:java}
+	@Test
+	public void Demo() throws IOException{
+		InvokerTransformer transformer = new InvokerTransformer(""toString"", new Class[]{}, new Object[]{});
+        Queue priorityQueue = new PriorityQueue(2, new TransformingComparator(transformer));
+        priorityQueue.add(1);
+        
+        ByteArrayOutputStream bout = new ByteArrayOutputStream();
+        ObjectOutputStream out = new ObjectOutputStream(bout);
+        out.writeObject(priorityQueue);
+		
+		}
+{code}
+"
+1,Open,kirubakaran,"we have an object rejection issue with latest version of common collection for the class InstantiateFactory
+
+we have set system property to enable unsafe serialization= true but still we have object rejection for org.apache.commons.collections.functors.InstantiateFactory.
+
+can you please help us to resolve the issue.
+
+Error log:
+
+DOMAIN] > <BEA-000000> <ObjectInputFilter REJECTED: class org.apache.commons.collections.functors.InstantiateFactory, array length: -1, nRefs: 3, depth: 2, bytes: 229, ex: n/a>
+
+####<May 8, 2019 1:08:43,859 PM EDT> <Error> <RJVM> <nygindapnp613.us.db.com> <MS1> <ExecuteThread: '2' for queue: 'weblogic.socket.Muxer'> <<WLS Kernel>> <> <a8f22bc1-d077-4f1b-be08-7677cfc592c6-00000005> <1557335323859> <[severity-value: 8] [rid: 0] [partition-id: 0] [partition-name: DOMAIN] > <BEA-000503> <Incoming message header or abbreviation processing failed.
+
+ java.io.InvalidClassException: filter status: REJECTED
+
+java.io.InvalidClassException: filter status: REJECTED
+
+        at java.io.ObjectInputStream.filterCheck(ObjectInputStream.java:1255)
+
+        at java.io.ObjectInputStream.readNonProxyDesc(ObjectInputStream.java:1878)
+
+        at java.io.ObjectInputStream.readClassDesc(ObjectInputStream.java:1751)
+
+        at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1560)
+
+        at java.io.ObjectInputStream.readObject(ObjectInputStream.java:431)
+
+        at weblogic.rjvm.ClassTableEntry.readExternal(ClassTableEntry.java:106)
+
+        at java.io.ObjectInputStream.readExternalData(ObjectInputStream.java:2118)
+
+        at java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2067)
+
+        at java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1573)
+
+        at java.io.ObjectInputStream.readObject(ObjectInputStream.java:431)
+
+        at weblogic.rjvm.InboundMsgAbbrev.readObject(InboundMsgAbbrev.java:73)
+
+        at weblogic.rjvm.InboundMsgAbbrev.read(InboundMsgAbbrev.java:45)
+
+        at weblogic.rjvm.MsgAbbrevJVMConnection.readMsgAbbrevs(MsgAbbrevJVMConnection.java:324)
+
+        at weblogic.rjvm.MsgAbbrevInputStream.init(MsgAbbrevInputStream.java:219)
+
+        at weblogic.rjvm.MsgAbbrevJVMConnection.dispatch(MsgAbbrevJVMConnection.java:556)
+
+        at weblogic.rjvm.t3.MuxableSocketT3.dispatch(MuxableSocketT3.java:658)
+
+        at weblogic.socket.BaseAbstractMuxableSocket.dispatch(BaseAbstractMuxableSocket.java:397)
+
+        at weblogic.socket.SocketMuxer.readReadySocketOnce(SocketMuxer.java:981)
+
+        at weblogic.socket.SocketMuxer.readReadySocket(SocketMuxer.java:917)
+
+        at weblogic.socket.PosixSocketMuxer.processSockets(PosixSocketMuxer.java:171)
+
+        at weblogic.socket.SocketReaderRequest.run(SocketReaderRequest.java:30)
+
+        at weblogic.socket.SocketReaderRequest.execute(SocketReaderRequest.java:43)
+
+        at weblogic.kernel.ExecuteThread.execute(ExecuteThread.java:147)
+
+      at weblogic.kernel.ExecuteThread.run(ExecuteThread.java:119)"
+2,Open,kinow,"Currently, there are 65 public methods in `CollectionUtils`. And 53 without the deprecated ones. Out of these, 24 handle `null` arguments. The remaining methods throw a `NullPointerException` (NPE) at some part of its code.
+
+The methods that handle nulls, throw NPE, or return empty columns, boolean values, or just doesn't do anything.
+
+As a user of the API, I would expect a more uniform behaviour across the methods of `CollectionUtils`. COLLECTIONS-600 address one of these methods.
+
+`removeAll` (2x) and `retainAll` (2x) both state that a NPE will be thrown if either parameter is `null`. However, they never check if the values are null, and instead allow the code to run until a NPE is thrown.
+
+And the following code shows that `isEmpty` and `isFull` behave differently too.
+
+{code:java}
+Collection<String> c = null;
+System.out.println(CollectionUtils.isEmpty(c)); // return true
+System.out.println(CollectionUtils.isFull(c));  // throws a NPE
+{code}
+
+If I don't have to worry about `null`s with `#isEmpty`, I would expect the same from its related-method `#isFull`.
+
+What would be a good approach for it? Define a behaviour to all methods? Or leave as is, but add more documentation?
+
+There are a few methods that can easily be updated to check for `null` values. Others would require a bit more thinking. An example if the method in question for COLLECTIONS-600. It checks equality of collections, and when both collections are `null`, it says that they are equals. Google Guava [Iterables#elementsEqual|https://github.com/google/guava/blob/312aeb938bd35b5b7c8930e19ff5d1ca38e49424/guava/src/com/google/common/collect/Iterables.java#L232] and [Iterators#elementsEqual|https://github.com/google/guava/blob/312aeb938bd35b5b7c8930e19ff5d1ca38e49424/guava/src/com/google/common/collect/Iterators.java#L274] do not check for null values, for what it is worth."
+3,Open,Unda,"In the {{sequence}} package, when comparing 2 lists with a {{SequencesComparator}} and visiting the {{EditScript}} with a {{ReplacementsFinder}}, pending deletions and insertions get lost in the {{ReplacementsFinder}} when they're at the end of the sequences.
+
+The {{ReplacementsFinder}} stores the deletions and insertions until it encounters a {{KeepCommand}}, when it flushes the pending commands by triggering the {{handleReplacement}} method of its {{ReplacementHandler}}.
+
+The problem is, when edit commands are at the end of the sequences, the {{ReplacementsFinder}} will never encounter a {{KeepCommand}} to flush them, so they're stuck here and will never be handed over the {{ReplacementHandler}}.
+
+To fix this behavior in client code, one can manually call {{ReplacementsFinder.visitKeepCommand(null)}} after the {{EditScript.visit()}} call.
+
+I patched this bug in the library by adding a {{CommandVisitor.endOfVisit}} method and calling it at the end of the {{EditScript.visit}} method, so it allows to flush the pending deletions/insertions in the {{ReplacementsFinder}} when the end of the {{EditScript}} is reached."

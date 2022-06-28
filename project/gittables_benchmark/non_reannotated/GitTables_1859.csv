@@ -1,0 +1,92 @@
+,class,description
+0,WebSocketServer<TWebSocketSession>,Cyclomatic complexity of the method is 16
+1,WebSocketServer<TWebSocketSession>,Cyclomatic complexity of the method is 9
+2,WebSocketServer<TWebSocketSession>,Cyclomatic complexity of the method is 10
+3,WebSocketDataReceiveFilter,Cyclomatic complexity of the method is 12
+4,WebSocketHeaderReceiveFilter,Cyclomatic complexity of the method is 13
+5,BasicSubProtocol<TWebSocketSession>,Cyclomatic complexity of the method is 8
+6,WebSocketServer<TWebSocketSession>,The method has 5 parameters. Parameters: sessions' data' offset' length' sendFeedback
+7,DraftHybi10Processor,The method has 5 parameters. Parameters: session' opCode' data' offset' length
+8,DraftHybi10Processor,The method has 5 parameters. Parameters: session' opCode' data' offset' length
+9,WebSocketDataFrameReceiveFilter,The method has 5 parameters. Parameters: segments' buffer' offset' length' toBeCopied
+10,WebSocketDataFrameReceiveFilter,The method has 5 parameters. Parameters: readBuffer' offset' length' toBeCopied' left
+11,WebSocketSecKey3ReceiveFilter,The method has 5 parameters. Parameters: readBuffer' offset' length' isReusableBuffer' rest
+12,WebSocketDataReceiveFilter,The method has 5 parameters. Parameters: readBuffer' offset' length' isReusableBuffer' rest
+13,WebSocketHeaderReceiveFilter,The method has 5 parameters. Parameters: readBuffer' offset' length' isReusableBuffer' rest
+14,WebSocketServer<TWebSocketSession>,The length of the parameter m_HandshakePendingQueueCheckingInterval is 39.
+15,WebSocketServer<TWebSocketSession>,The length of the parameter m_HandshakePendingQueueCheckingTimer is 36.
+16,WebSocketServer<TWebSocketSession>,"The length of the statement  ""            var subProtocolConfigDict = new Dictionary<string' SubProtocolConfig>(subProtocolConfigSection == null ? 0 : subProtocolConfigSection.Count' StringComparer.OrdinalIgnoreCase); "" is 175."
+17,WebSocketServer<TWebSocketSession>,"The length of the statement  ""                                subProtocolInstance = AssemblyUtil.CreateInstance<ISubProtocol<TWebSocketSession>>(protocolConfig.Type' new object[] { originalProtocolName }); "" is 143."
+18,WebSocketServer<TWebSocketSession>,"The length of the statement  ""            if (m_SubProtocols.Count <= 0 || (subProtocolConfigDict.ContainsKey(BasicSubProtocol<TWebSocketSession>.DefaultName) && !m_SubProtocols.ContainsKey(BasicSubProtocol<TWebSocketSession>.DefaultName))) "" is 198."
+19,WebSocketServer<TWebSocketSession>,"The length of the statement  ""            if (!int.TryParse(config.Options.GetValue(""handshakePendingQueueCheckingInterval"")' out m_HandshakePendingQueueCheckingInterval)) "" is 129."
+20,WebSocketServer<TWebSocketSession>,"The length of the statement  ""            m_HandshakePendingQueueCheckingTimer = new Timer(HandshakePendingQueueCheckingCallback' null' m_HandshakePendingQueueCheckingInterval * 1000' m_HandshakePendingQueueCheckingInterval * 1000); "" is 190."
+21,WebSocketServer<TWebSocketSession>,"The length of the statement  ""                m_HandshakePendingQueueCheckingTimer.Change(m_HandshakePendingQueueCheckingInterval * 1000' m_HandshakePendingQueueCheckingInterval * 1000); "" is 140."
+22,DraftHybi00Processor,"The length of the statement  ""            if (!session.AppServer.ValidateHandshake(session' session.Items.GetValue<string>(WebSocketConstant.Origin' string.Empty))) "" is 122."
+23,DraftHybi00Processor,"The length of the statement  ""            responseBuilder.AppendFormatWithCrCf(WebSocketConstant.ResponseLocationLine' session.UriScheme' session.Host' session.Path); "" is 124."
+24,DraftHybi00Processor,"The length of the statement  ""            var subProtocol = session.GetAvailableSubProtocol(session.Items.GetValue<string>(WebSocketConstant.SecWebSocketProtocol' string.Empty)); "" is 136."
+25,DraftHybi10Processor,"The length of the statement  ""            var subProtocol = session.GetAvailableSubProtocol(session.Items.GetValue<string>(WebSocketConstant.SecWebSocketProtocol' string.Empty)); "" is 136."
+26,DraftHybi10Processor,"The length of the statement  ""            byte[] playloadData = new byte[(string.IsNullOrEmpty(closeReason) ? 0 : Encoding.UTF8.GetMaxByteCount(closeReason.Length)) + 2]; "" is 128."
+27,WebSocketDataReceiveFilter,"The length of the statement  ""                            var commandInfo = new PlainFragment(Encoding.UTF8.GetString(readBuffer' offset + skipByteCount' i - offset - skipByteCount)); "" is 125."
+28,BasicSubProtocol<TWebSocketSession>,"The length of the statement  ""            m_CommandDict = new Dictionary<string' ISubCommand<TWebSocketSession>>(subCommands.Count' StringComparer.OrdinalIgnoreCase); "" is 124."
+29,BasicSubProtocol<TWebSocketSession>,"The length of the statement  ""                    .Where(a => string.IsNullOrEmpty(a.SubProtocol) || Name.Equals(a.SubProtocol' StringComparison.OrdinalIgnoreCase)).ToArray(); "" is 125."
+30,DraftHybi10Processor,"The conditional expression  ""code == closeCode.NormalClosure                      || code == closeCode.GoingAway                      || code == closeCode.ProtocolError                      || code == closeCode.NotAcceptableData                      || code == closeCode.TooLargeFrame                      || code == closeCode.InvalidUTF8""  is complex."
+31,Rfc6455Processor,"The conditional expression  ""code == closeCode.NormalClosure                      || code == closeCode.GoingAway                      || code == closeCode.ProtocolError                      || code == closeCode.NotAcceptableData                      || code == closeCode.TooLargeFrame                      || code == closeCode.InvalidUTF8                      || code == closeCode.ViolatePolicy                      || code == closeCode.ExtensionNotMatch                      || code == closeCode.UnexpectedCondition""  is complex."
+32,FragmentCommand<TWebSocketSession>,The following statement contains a magic number: Utf8Encoding = Encoding.GetEncoding(65001' EncoderFallback.ExceptionFallback' DecoderFallback.ExceptionFallback);
+33,FragmentCommand<TWebSocketSession>,The following statement contains a magic number: !frame.FIN || frame.ActualPayloadLength > 125
+34,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: m_HandshakePendingQueueCheckingInterval = 60;
+35,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: m_OpenHandshakeTimeOut = 120;
+36,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: m_CloseHandshakeTimeOut = 120;
+37,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: m_HandshakePendingQueueCheckingTimer = new Timer(HandshakePendingQueueCheckingCallback' null' m_HandshakePendingQueueCheckingInterval * 1000' m_HandshakePendingQueueCheckingInterval * 1000);
+38,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: m_HandshakePendingQueueCheckingTimer = new Timer(HandshakePendingQueueCheckingCallback' null' m_HandshakePendingQueueCheckingInterval * 1000' m_HandshakePendingQueueCheckingInterval * 1000);
+39,WebSocketServer<TWebSocketSession>,The following statement contains a magic number: session.HttpVersion = metaInfo[2];
+40,CloseStatusCodeHybi10,The following statement contains a magic number: NormalClosure = 1000;
+41,CloseStatusCodeHybi10,The following statement contains a magic number: GoingAway = 1001;
+42,CloseStatusCodeHybi10,The following statement contains a magic number: ProtocolError = 1002;
+43,CloseStatusCodeHybi10,The following statement contains a magic number: NotAcceptableData = 1003;
+44,CloseStatusCodeHybi10,The following statement contains a magic number: TooLargeFrame = 1004;
+45,CloseStatusCodeHybi10,The following statement contains a magic number: InvalidUTF8 = 1007;
+46,CloseStatusCodeHybi10,The following statement contains a magic number: ViolatePolicy = 1000;
+47,CloseStatusCodeHybi10,The following statement contains a magic number: ExtensionNotMatch = 1000;
+48,CloseStatusCodeHybi10,The following statement contains a magic number: UnexpectedCondition = 1000;
+49,CloseStatusCodeHybi10,The following statement contains a magic number: TLSHandshakeFailure = 1000;
+50,CloseStatusCodeHybi10,The following statement contains a magic number: NoStatusCode = 1005;
+51,CloseStatusCodeRfc6455,The following statement contains a magic number: NormalClosure = 1000;
+52,CloseStatusCodeRfc6455,The following statement contains a magic number: GoingAway = 1001;
+53,CloseStatusCodeRfc6455,The following statement contains a magic number: ProtocolError = 1002;
+54,CloseStatusCodeRfc6455,The following statement contains a magic number: NotAcceptableData = 1003;
+55,CloseStatusCodeRfc6455,The following statement contains a magic number: TooLargeFrame = 1009;
+56,CloseStatusCodeRfc6455,The following statement contains a magic number: InvalidUTF8 = 1007;
+57,CloseStatusCodeRfc6455,The following statement contains a magic number: ViolatePolicy = 1008;
+58,CloseStatusCodeRfc6455,The following statement contains a magic number: ExtensionNotMatch = 1010;
+59,CloseStatusCodeRfc6455,The following statement contains a magic number: UnexpectedCondition = 1011;
+60,CloseStatusCodeRfc6455,The following statement contains a magic number: NoStatusCode = 1005;
+61,DraftHybi00Processor,The following statement contains a magic number: var maxByteCount = Encoding.UTF8.GetMaxByteCount(message.Length) + 2;
+62,DraftHybi00Processor,The following statement contains a magic number: return new ArraySegment<byte>(sendBuffer' 0' bytesCount + 2);
+63,DraftHybi10Processor,The following statement contains a magic number: byte[] playloadData = new byte[(string.IsNullOrEmpty(closeReason) ? 0 : Encoding.UTF8.GetMaxByteCount(closeReason.Length)) + 2];
+64,DraftHybi10Processor,The following statement contains a magic number: int highByte = statusCode / 256;
+65,DraftHybi10Processor,The following statement contains a magic number: int lowByte = statusCode % 256;
+66,DraftHybi10Processor,The following statement contains a magic number: int bytesCount = Encoding.UTF8.GetBytes(closeReason' 0' closeReason.Length' playloadData' 2);
+67,DraftHybi10Processor,The following statement contains a magic number: playloadLength = bytesCount + 2;
+68,DraftHybi10Processor,The following statement contains a magic number: head = new byte[2];
+69,DraftHybi10Processor,The following statement contains a magic number: length < 126
+70,DraftHybi10Processor,The following statement contains a magic number: fragment = new byte[2 + length];
+71,DraftHybi10Processor,The following statement contains a magic number: length < 126
+72,DraftHybi10Processor,The following statement contains a magic number: code >= 0 && code <= 999
+73,DraftHybi10Processor,The following statement contains a magic number: code >= 1000 && code <= 1999
+74,DraftHybi10Processor,The following statement contains a magic number: code >= 1000 && code <= 1999
+75,DraftHybi10Processor,The following statement contains a magic number: code >= 2000 && code <= 4999
+76,DraftHybi10Processor,The following statement contains a magic number: code >= 2000 && code <= 4999
+77,Rfc6455Processor,The following statement contains a magic number: code >= 0 && code <= 999
+78,Rfc6455Processor,The following statement contains a magic number: code >= 1000 && code <= 2999
+79,Rfc6455Processor,The following statement contains a magic number: code >= 1000 && code <= 2999
+80,Rfc6455Processor,The following statement contains a magic number: code >= 3000 && code <= 4999
+81,Rfc6455Processor,The following statement contains a magic number: code >= 3000 && code <= 4999
+82,ExtendedLenghtReader,The following statement contains a magic number: int required = 2;
+83,ExtendedLenghtReader,The following statement contains a magic number: required += 2;
+84,ExtendedLenghtReader,The following statement contains a magic number: frame.PayloadLenght == 126
+85,FixPartReader,The following statement contains a magic number: frame.Length < 2
+86,FixPartReader,The following statement contains a magic number: frame.PayloadLenght < 126
+87,FixPartReader,The following statement contains a magic number: return nextPartReader.Process(2' frame' out nextPartReader);
+88,FixPartReader,The following statement contains a magic number: frame.Length > 2
+89,MaskKeyReader,The following statement contains a magic number: int required = lastLength + 4;
+90,MaskKeyReader,The following statement contains a magic number: frame.MaskKey = frame.InnerData.ToArrayData(lastLength' 4);

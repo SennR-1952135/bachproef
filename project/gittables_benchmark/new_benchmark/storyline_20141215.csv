@@ -1,0 +1,101 @@
+,type,name,duration
+0,place,Home,42425
+1,move,walking,871
+2,place,Russell House Tavern,5657
+3,move,walking,659
+4,place,Broadway Marketplace,658
+5,move,walking,300
+6,place,Home,35831
+7,place,Home,24413
+8,move,walking,1421
+9,place,Aldrich Hall,16823
+10,move,walking,1032
+11,place,Tory Row,6006
+12,move,walking,274
+13,place,Grafton Street Pub,236
+14,move,walking,593
+15,place,Home,8048
+16,move,walking,860
+17,place,Orinoco,2694
+18,move,walking,824
+19,place,Home,23177
+20,place,Home,24554
+21,move,walking,1298
+22,place,Aldrich Hall,19419
+23,move,walking,226
+24,place,Place in Allston,994
+25,place,One Western Avenue,1189
+26,move,walking,1145
+27,place,Wagamama,186
+28,move,walking,483
+29,place,Starbucks,6127
+30,move,walking,584
+31,place,Place in Old Cambridge,551
+32,move,walking,451
+33,place,Home,20768
+34,move,transport,697
+35,place,Aryan Sameri Home,7728
+36,place,Aryan Sameri Home,3316
+37,move,transport,798
+38,place,Home,30007
+39,move,walking,635
+40,place,Tory Row,3607
+41,move,walking,672
+42,place,Home,14243
+43,move,walking,165
+44,move,transport,3009
+45,move,walking,152
+46,place,Boston Logan International Airport (BOS),448
+47,move,walking,151
+48,place,jetBlue Airways,1306
+49,move,transport,6166
+50,place,Ronald Reagan Washington National Airport (DCA),990
+51,move,walking,337
+52,move,transport,990
+53,place,Laura's Home,19410
+54,place,Laura's Home,33562
+55,move,walking,861
+56,place,Whole Foods Market,972
+57,move,transport,1409
+58,move,walking,206
+59,move,walking,186
+60,place,"NTN24-Washington, DC",998
+61,move,transport,1696
+62,move,walking,151
+63,place,Roger Santodomingo's Home,16714
+64,move,transport,2732
+65,move,walking,273
+66,place,CB2,1074
+67,move,walking,546
+68,place,Apple Store,6825
+69,move,walking,121
+70,move,transport,479
+71,move,walking,307
+72,place,Whole Foods Market,294
+73,move,walking,549
+74,place,Laura's Home,15020
+75,place,Laura's Home,46407
+76,move,walking,636
+77,move,transport,1412
+78,move,walking,272
+79,place,Place in Thomas Circle,656
+80,move,walking,785
+81,place,Place in Kalorama Triangle,3386
+82,move,walking,607
+83,move,transport,786
+84,place,TJ Maxx & HomeGoods,5882
+85,move,walking,365
+86,move,transport,631
+87,move,walking,331
+88,place,Laura's Home,24246
+89,place,Laura's Home,47250
+90,move,walking,1959
+91,place,Pinstripes,299
+92,move,walking,549
+93,place,Farmers Fishers Bakers,6148
+94,move,walking,486
+95,place,TJ Maxx & HomeGoods,2053
+96,move,walking,421
+97,move,transport,661
+98,move,walking,362
+99,place,Laura's Home,26215

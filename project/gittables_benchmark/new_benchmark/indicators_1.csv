@@ -1,0 +1,36 @@
+,name,description,order,weight
+0,foia,Quality of FOI legislation,1,0.01875
+1,accessibility,Accessibility,2,0.01875
+2,organisation-strategy,Organisation strategy,3,0.01875
+3,annual-report,Annual report,4,0.01875
+4,allocation-policy,Allocation policy,5,0.01875
+5,procurement-policy,Procurement policy,6,0.01875
+6,country-strategy-or-mou,Strategy (country/sector) or Memorandum of Understanding,7,0.01875
+7,audit,Audit,8,0.01875
+8,total-organisation-budget,Total organisation budget,9,1./24
+9,disaggregated-budgets,Disaggregated budgets,10,1./24
+10,project-budget,Project budget,11,1./30
+11,commitments,Commitments,13,1./30
+12,disbursements-and-expenditures,Disbursements and expenditures,14,1./30
+13,capital-spend,Capital spend,15,1./30
+14,title,Title,16,0.01
+15,description,Description,17,0.01
+16,planned-dates,Planned dates,18,0.01
+17,actual-dates,Actual dates,19,0.01
+18,current-status,Current status,20,0.01
+19,contact-details,Contact details,21,0.01
+20,implementer,Implementer,24,0.035
+21,unique-id,Unique ID,25,0.035
+22,sector,Sectors, for example, description
+23,Further details on the methodology for this indicator are available in our Technical paper.,22,,
+24,sub-national-location,Sub-national location,23,0.035
+25,flow-type,Flow type,26,1./30
+26,aid-type,Aid type,27,1./30
+27,finance-type,Finance type,28,1./30
+28,tied-aid-status,Tied aid status,29,1./30
+29,conditions,Conditions,30,1./30
+30,project-procurement,Project procurement,31,0.025
+31,objectives,Objectives,33,0.05
+32,impact-appraisals,Pre-project impact appraisals,34,0.05
+33,reviews-and-evaluations,Reviews and evaluations,35,0.05
+34,results,Results,36,0.05

@@ -1,0 +1,98 @@
+,description
+0,Game ID
+1,Visiting team
+2,Inning
+3,Batting team
+4,Outs
+5,Balls
+6,Strikes
+7,Pitch sequence
+8,Visitor score
+9,Home score
+10,Batter
+11,Batter hand
+12,Result batter
+13,Result batter hand
+14,Pitcher
+15,Pitcher hand
+16,Result pitcher
+17,Result pitcher hand
+18,Catcher
+19,First baseman
+20,Second baseman
+21,Third baseman
+22,Shortstop
+23,Left fielder
+24,Center fielder
+25,Right fielder
+26,Runner on first
+27,Runner on second
+28,Runner on third
+29,Event text
+30,Leadoff flag
+31,Pinch-hit flag
+32,Defensive position
+33,Lineup position
+34,Event type
+35,Batter event flag
+36,Official time at bat flag
+37,Hit value
+38,Sacrifice hit flag
+39,Sacrifice fly flag
+40,Outs on play
+41,Double play flag
+42,Triple play flag
+43,RBI on play
+44,Wild pitch flag
+45,Passed ball flag
+46,Fielded by
+47,Batted ball type
+48,Bunt flag
+49,Foul flag
+50,Hit location
+51,Number of errors
+52,1st error player
+53,1st error type
+54,2nd error player
+55,2nd error type
+56,3rd error player
+57,3rd error type
+58,Batter destination
+59,Runner on first destination
+60,Runner on second destination
+61,Runner on third destination
+62,Play on batter
+63,Play on runner on first
+64,Play on runner on second
+65,Play on runner on third
+66,Stolen base for runner on first
+67,Stolen base for runner on second
+68,Stolen base for runner on third
+69,Caught stealing for runner on first
+70,Caught stealing for runner on second
+71,Caught stealing for runner on third
+72,Pickoff of runner on first
+73,Pickoff of runner on second
+74,Pickoff of runner on third
+75,Pitcher charged with runner on first
+76,Pitcher charged with runner on second
+77,Pitcher charged with runner on third
+78,New game flag
+79,End game flag
+80,Pinch-runner on first
+81,Pinch-runner on second
+82,Pinch-runner on third
+83,Runner removed for pinch-runner on first
+84,Runner removed for pinch-runner on second
+85,Runner removed for pinch-runner on third
+86,Batter removed for pinch-hitter
+87,Position of batter removed for pinch-hitter
+88,Fielder with first putout
+89,Fielder with second putout
+90,Fielder with third putout
+91,Fielder with first assist
+92,Fielder with second assist
+93,Fielder with third assist
+94,Fielder with fourth assist
+95,Fielder with fifth assist
+96,Event number

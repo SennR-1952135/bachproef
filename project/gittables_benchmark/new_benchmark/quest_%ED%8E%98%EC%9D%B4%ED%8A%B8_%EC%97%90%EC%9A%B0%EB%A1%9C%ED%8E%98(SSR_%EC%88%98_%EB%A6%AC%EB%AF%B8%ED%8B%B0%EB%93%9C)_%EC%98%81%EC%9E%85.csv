@@ -1,0 +1,379 @@
+,language,type,name,origin
+0,Japanese,synopsis,,真夜中、騎空艇の自室で眠りについていた[플레이어]は頭の中に響く声で目を覚ます。ビィ、ルリアと共に甲板に出ると、そこには四大天司ガブリエルの使徒・エウロペがいた。現れたガブリエルいわく、これから訪れる争いや脅威に立ち向かうため、エウロペに力添えをさせて欲しいという。[플레이어]達は喜んでエウロペを仲間に迎え入れるのだった。
+1,Japanese,detail,,<span class='scene-font-katari'>ひっそりと静まり返った真夜中。</span><br><span class='scene-font-katari'>[플레이어]は騎空艇の自室で</span><br><span class='scene-font-katari'>眠りについていた。</span>
+2,Japanese,detail,？？？,皆様方……<br>どうぞ、お目覚めに<br>なってくださいませ。
+3,Japanese,detail,,<span class='scene-font-katari'>頭の中に響く清流の様に</span><br><span class='scene-font-katari'>穏やか且つ清らかな声。</span>
+4,Japanese,detail,,<span class='scene-font-katari'>その声に[플레이어]達は</span><br><span class='scene-font-katari'>ゆっくりと目を覚ます。</span>
+5,Japanese,detail,ビィ,あふっ……<br>なんか、スゲェ綺麗な声が<br>聴こえたような……
+6,Japanese,detail,ルリア,ふぁい……<br>誰かいるんですかぁ……
+7,Japanese,detail,,<span class='scene-font-katari'>そう言うとルリア達は</span><br><span class='scene-font-katari'>目を擦りながら、</span><br><span class='scene-font-katari'>周囲を見渡す。</span>
+8,Japanese,detail,ルリア,あれ……誰もいません……
+9,Japanese,detail,ビィ,ん……<br>でも、確かに声が聴こえたよな……
+10,Japanese,detail,ルリア,はい……<br>私も聴こえましたぁ……
+11,Japanese,detail,？？？,お目覚めになられたようですね。<br>でしたら、<br>どうぞ、甲板へとおいでください。
+12,Japanese,detail,？？？,そちらでお待ちしております。
+13,Japanese,detail,ルリア,はわっ！？<br>聴こえてるというか……<br>これって頭の中に声が……？
+14,Japanese,detail,ビィ,おいおい、<br>こりゃどういう事だぁ？
+15,Japanese,detail,ビィ,甲板に来いって言ってたけど……
+16,Japanese,sel1_txt,,<span class='scene-font-katari'>何が待ってると思う？</span>
+17,Japanese,sel2_txt,,<span class='scene-font-katari'>とりあえず行こう</span>
+18,Japanese,detail,ビィ,お化け……じゃねぇよなぁ？
+19,Japanese,detail,ルリア,<span class='scene-font-4'>えぇっ！</span><br>お、お化けですか！？
+20,Japanese,detail,ルリア,うううっ……<br>あの、行くのやめませんか？<br>もし本当にお化けだったら……
+21,Japanese,detail,ビィ,でも、このままってわけにも<br>いかねぇし……
+22,Japanese,detail,ビィ,とりあえず、注意しながら<br>行ってみようぜ。
+23,Japanese,detail,,<span class='scene-font-katari'>ビィの言葉に[플레이어]も頷く。</span>
+24,Japanese,detail,ルリア,わ、私も行きます！<br>ひとりで残る方が怖いです！
+25,Japanese,detail,,<span class='scene-font-katari'>その言葉に苦笑を浮かべると</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>警戒しながら甲板へと向かう。</span>
+26,Japanese,detail,ビィ,そうだな。<br>とりあえず、用心していこうぜ。<br>何がいるかわかんねぇし。
+27,Japanese,detail,ルリア,……そうですね。
+28,Japanese,detail,,<span class='scene-font-katari'>その言葉に[플레이어]は頷くと</span><br><span class='scene-font-katari'>甲板へと向かう。</span>
+29,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達が甲板に出ると、</span><br><span class='scene-font-katari'>そこには空を見上げたたずむ</span><br><span class='scene-font-katari'>ひとりの少女の姿があった。</span>
+30,Japanese,detail,,<span class='scene-font-katari'>少女は[플레이어]達に気付くと、</span><br><span class='scene-font-katari'>スカートの端を持ち上げ</span><br><span class='scene-font-katari'>優雅に礼をする。</span>
+31,Japanese,detail,,<span class='scene-font-katari'>透き通るような肌と艶やかな衣装が</span><br><span class='scene-font-katari'>月明かりに照らされ、人ならざる</span><br><span class='scene-font-katari'>美しさをありありと描き出していた。</span>
+32,Japanese,detail,エウロペ,あの時以来ですね。<br>ご無沙汰しております、特異点。
+33,Japanese,detail,エウロペ,そして、初めまして。<br>蒼の少女と赤き竜……
+34,Japanese,detail,エウロペ,私はエウロペ……<br>ガブリエル様の使徒です。<br>以後、お見知りおきを……
+35,Japanese,detail,,<span class='scene-font-katari'>その可憐且つ上品な仕草を前に</span><br><span class='scene-font-katari'>[플레이어]達は見惚れてしまう。</span>
+36,Japanese,detail,エウロペ,どうかなさいましたか？
+37,Japanese,detail,ルリア,はっ！？ あ、い、いえ、<br>よろしくお願いします？
+38,Japanese,detail,ルリア,すごく綺麗で……びっくりしました。
+39,Japanese,detail,ビィ,ああ……っていうか、<br>あの天司の姉ちゃんの<br>知り合い……でいいんだよな？
+40,Japanese,detail,エウロペ,いいえ。知り合いではなく<br><span class='scene-font-spword'>“使徒”</span>になります。
+41,Japanese,detail,ルリア,使徒……ですか？<br>えっと、それって、一体……
+42,Japanese,detail,？？？,定義は色々あるけれど……<br>この場合は私が最も信頼する存在。<br>そう思ってくれればいいわ。
+43,Japanese,detail,,<span class='scene-font-katari'>その言葉と共に周囲に青い光が満ちる。</span><br><span class='scene-font-katari'>そして、それは瞬く間に収束し、</span><br><span class='scene-font-katari'>人の姿へと変わっていく。</span>
+44,Japanese,detail,ルリア,ガブリエルさん！
+45,Japanese,detail,ガブリエル,久しぶりね。<br>みんな元気そうでよかったわ。
+46,Japanese,sel1_txt,,<span class='scene-font-katari'>どうしてここに？</span>
+47,Japanese,detail,ガブリエル,エウロペの事で、ちょっとね。<br>エウロペ自身も説明するだろうけど……
+48,Japanese,detail,ガブリエル,私からもちゃんと貴方達に<br>話をしておいた方が良いと、<br>そう思ったから。
+49,Japanese,detail,ビィ,ん？ そりゃどういうことだぁ？
+50,Japanese,detail,エウロペ,[플레이어]様。<br>かつて私が貴方にお伝えしたことを、<br>覚えておいでですか？
+51,Japanese,detail,エウロペ,このエウロペ、<br>ガブリエル様と同様に、<br>貴方のお傍でお力添えいたします。
+52,Japanese,sel1_txt,,<span class='scene-font-katari'>確か、傍で力になってくれるって……</span>
+53,Japanese,detail,エウロペ,はい……その通りです。
+54,Japanese,detail,エウロペ,此度はその誓いを果たすべく<br>こちらへと参りました。
+55,Japanese,detail,エウロペ,このエウロペの力……<br>[플레이어]様の望む様に<br>お使いください。
+56,Japanese,detail,,<span class='scene-font-katari'>そう言うとエウロペは</span><br><span class='scene-font-katari'>[플레이어]達に対し、</span><br><span class='scene-font-katari'>深く頭を垂れる。</span>
+57,Japanese,detail,ルリア,それって……<br>ええと、騎空団の一員に<br>なってくれるってことですか？
+58,Japanese,detail,エウロペ,ええ、その通りです。
+59,Japanese,detail,ビィ,なんでだよ？<br>それに力を使って、たってなぁ。
+60,Japanese,detail,エウロペ,ガブリエル様より、[플레이어]様達の<br>お傍でお力添えをするように──<br>との命を受けましたゆえ。
+61,Japanese,detail,ガブリエル,貴方達は<span class='scene-font-spword'>“特異点”</span>……<br>この空の行く末に関わる存在よ。
+62,Japanese,detail,ガブリエル,それ故に貴方達は<br>今後、間違いなく大きな争いや脅威に<br>巻き込まれていくわ。
+63,Japanese,detail,ガブリエル,そして、それは貴方達だけでは<br>どうにもならない程、<br>強大なものかもしれない……
+64,Japanese,detail,ガブリエル,でもね、私は信じてるの。
+65,Japanese,detail,ガブリエル,貴方達と私達が手を取り合えば、<br>どんな脅威だって<br>乗り越えられるって……
+66,Japanese,detail,ガブリエル,でも、そのためには貴方達と私達……<br>その双方に密接に関わりあえる存在が<br>必要だわ。
+67,Japanese,detail,ガブリエル,貴方達と共に歩む存在でありながら、<br>私達とも連絡を取り合える、<br>そんな存在がね……
+68,Japanese,detail,ガブリエル,私はね、その役をエウロペに<br>お願いしたの。
+69,Japanese,detail,ガブリエル,というよりも、エウロペ自身が<br>その役に就くことを希望したのよ。
+70,Japanese,detail,エウロペ,災厄の後、ガブリエル様と天司長は<br>私にこうおっしゃられました。
+71,Japanese,detail,エウロペ,世界には新緑の如き、<br>美しきものが沢山ある……
+72,Japanese,detail,エウロペ,そして、助け合い、庇い合い、<br>個ではできないことを可能とする<br>空の民の勇気宿る意志──
+73,Japanese,detail,エウロペ,それには至高の美しさを感じる。
+74,Japanese,detail,エウロペ,また、こうも言っておられました。<br>[플레이어]様達がいたからこそ、<br>あの美しい光景が生まれたのだと……
+75,Japanese,detail,エウロペ,私は、その至高の美しさというものを<br>この目で見てみたいのです。
+76,Japanese,detail,エウロペ,そして、そのためには<br>[플레이어]様のお傍にいることが<br>最良──
+77,Japanese,detail,エウロペ,私は、そう考えております。
+78,Japanese,detail,エウロペ,ですので、どうかご同行の許可を<br>いただけませんか？
+79,Japanese,detail,ガブリエル,エウロペの力は<br>私に並ぶほど強大なものよ。
+80,Japanese,detail,ガブリエル,きっと、貴方達を助ける力に<br>なってくれるわ。
+81,Japanese,sel1_txt,,<span class='scene-font-katari'>そう言う事なら歓迎するよ</span>
+82,Japanese,sel2_txt,,<span class='scene-font-katari'>ガブリエルも来てよ</span>
+83,Japanese,detail,エウロペ,感謝いたします、<br>[플레이어]様。
+84,Japanese,detail,ガブリエル,私からも感謝を……
+85,Japanese,detail,ガブリエル,ふふっ、ありがとう。<br>誘ってくれて。<br>嬉しいわ。
+86,Japanese,detail,ガブリエル,でも、ごめんなさい。<br>私にはまだ、やらなければ<br>ならないことがあるの。
+87,Japanese,detail,ガブリエル,だから、貴方達と<br>一緒にはいけないわ。
+88,Japanese,detail,ルリア,ちょっと残念です。
+89,Japanese,detail,,<span class='scene-font-katari'>残念そうにする[플레이어]達に</span><br><span class='scene-font-katari'>ガブリエルは苦笑を浮かべる。</span>
+90,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達との話が落ち着くと、</span><br><span class='scene-font-katari'>ガブリエルはエウロペへと</span><br><span class='scene-font-katari'>向き直る。</span>
+91,Japanese,detail,ガブリエル,エウロペ。貴方にとって、<br>その美しさを知ることは<br>きっと良い経験となるわ。
+92,Japanese,detail,ガブリエル,そして、それは貴方という存在を<br>さらに高めることでしょう。
+93,Japanese,detail,ガブリエル,エウロペ、貴方には期待しているわ。<br>私と共に在れる存在となる事を……
+94,Japanese,detail,エウロペ,ガブリエル様……<br>必ずや、そのご期待に<br>お応えしてみせます。
+95,Japanese,detail,エウロペ,ガブリエル様の望まれることは<br>エウロペの望むこと……
+96,Japanese,detail,エウロペ,そして、この身の全ては<br>ガブリエル様のものなれば……
+97,Japanese,detail,,<span class='scene-font-katari'>そう言うとエウロペは</span><br><span class='scene-font-katari'>ガブリエルに対し、</span><br><span class='scene-font-katari'>深く頭を垂れる。</span>
+98,Japanese,detail,ガブリエル,エウロペ、私の使徒……<br>貴方に水の祝福を……
+99,Japanese,detail,,<span class='scene-font-katari'>その言葉を最後にガブリエルは</span><br><span class='scene-font-katari'>風に舞う無数の羽根となって</span><br><span class='scene-font-katari'>吹き消える。</span>
+100,Japanese,detail,エウロペ,それでは、[플레이어]様。<br>今後ともどうぞ良しなに……
+101,Japanese,detail,,<span class='scene-font-katari'>エウロペはそう言うと</span><br><span class='scene-font-katari'>スカートの端を持ち、</span><br><span class='scene-font-katari'>[플레이어]達に対しお辞儀する。</span>
+102,Japanese,detail,,<span class='scene-font-katari'>それに対し、</span><br><span class='scene-font-katari'>[플레이어]達も穏やかに</span><br><span class='scene-font-katari'>微笑むのだった。</span>
+103,Japanese,synopsis,,とある街を訪れ、買い物と食事をした[플레이어]達とエウロペ。異様なほど静かな街の様子に、人に興味がないエウロペ以外が疑問を抱いていた時、突如[플레이어]が倒れてしまう。街の医者によると、この街で流行っている原因も治療方法も不明の病にかかっているという。街の治療院に運び込まれた苦しげな[플레이어]を、ルリア達は心配そうに見守るのだった。
+104,Japanese,detail,,<span class='scene-font-katari'>物資補給のために</span><br><span class='scene-font-katari'>とある街を訪れた[플레이어]達。</span>
+105,Japanese,detail,,<span class='scene-font-katari'>そして、買い物を終えた</span><br><span class='scene-font-katari'>[플레이어]達は</span><br><span class='scene-font-katari'>休憩がてら酒場で食事をしていた。</span>
+106,Japanese,detail,ルリア,なんだか、この街……<br>凄く静かですね……
+107,Japanese,sel1_txt,,<span class='scene-font-katari'>歩いている人もほとんど見なかった</span>
+108,Japanese,sel2_txt,,<span class='scene-font-katari'>ここもガラガラだし……</span>
+109,Japanese,detail,ビィ,だな。<br>こんなに立派な街なのによ。<br>なんだか暗い雰囲気だぜ。
+110,Japanese,detail,ビィ,だな……<br>それに街の中を歩いてても<br>全然人とすれ違わなかったもんな。
+111,Japanese,detail,ルリア,はい……<br>ちょっと寂しい感じですね。
+112,Japanese,detail,,<span class='scene-font-katari'>そんなルリアの言葉に対し、</span><br><span class='scene-font-katari'>エウロペは不思議そうな</span><br><span class='scene-font-katari'>表情を浮かべる。</span>
+113,Japanese,detail,エウロペ,そうなのですか？<br>私としてはこれでも十分、<br>大勢と思っていたのですが。
+114,Japanese,detail,エウロペ,というよりも正直なところ、<br>騒々しいと感じております。
+115,Japanese,detail,エウロペ,お茶、というものに興じるにしても<br>不適当と言いますか……
+116,Japanese,detail,ルリア,あ、あはは……
+117,Japanese,detail,ビィ,とりあえず、腹も膨れたし、<br>買い出しに戻ろうぜ。
+118,Japanese,detail,,<span class='scene-font-katari'>[플레이어]達は、</span><br><span class='scene-font-katari'>その言葉に頷くと</span><br><span class='scene-font-katari'>皆で店を出る。</span>
+119,Japanese,detail,,<span class='scene-font-katari'>店を出た後、</span><br><span class='scene-font-katari'>グランサイファーへの帰路につく</span><br><span class='scene-font-katari'>[플레이어]達。</span>
+120,Japanese,detail,,<span class='scene-font-katari'>そんな中、[플레이어]は</span><br><span class='scene-font-katari'>街で買ったばかりの水を</span><br><span class='scene-font-katari'>しきりに飲んでいた。</span>
+121,Japanese,detail,ビィ,なぁ、さっきから<br>水ばっか飲んでるけど、<br>どうしたんだよ？
+122,Japanese,sel1_txt,,<span class='scene-font-katari'>なんだか喉が渇いて</span>
+123,Japanese,detail,エウロペ,先程の食事が<br>口にあわなかったのでしょうか？
+124,Japanese,detail,ビィ,う～ん、そこそこウマかったし<br>こいつの好きな味だったはずだけどな。
+125,Japanese,detail,,<span class='scene-font-katari'>[플레이어]は</span><br><span class='scene-font-katari'>突然めまいに見舞われ、</span><br><span class='scene-font-katari'>倒れそうになる。</span>
+126,Japanese,detail,ビィ,あ、おいっ！
+127,Japanese,detail,,<span class='scene-font-katari'>しかし、そんな[플레이어]の身体を</span><br><span class='scene-font-katari'>エウロペはそっと支える。</span>
+128,Japanese,detail,エウロペ,[플레이어]様、<br>どうなされたのですか？
+129,Japanese,detail,エウロペ,なにやら、<br>顔色が優れないようですが……
+130,Japanese,detail,ルリア,だ、大丈夫ですか、<br>[플레이어]……？<br>って──
+131,Japanese,detail,ルリア,身体がすごく熱いです……！<br>それに、お肌に<br>青いブツブツができて……
+132,Japanese,detail,？？？,む……？<br>君達、どうしたんだい？
+133,Japanese,detail,,<span class='scene-font-katari'>慌てた様子のルリア達の姿に気づき</span><br><span class='scene-font-katari'>近くを歩いていた男性が</span><br><span class='scene-font-katari'>駆け寄ってくる。</span>
+134,Japanese,detail,ルリア,わ、分かりません。<br>その……急に具合が<br>悪くなったみたいで……
+135,Japanese,detail,ルリア,それに体中に<br>青いブツブツが……
+136,Japanese,detail,？？？,急に具合が悪く？<br>それに体中にできた<br>この青い湿疹とむくみ……
+137,Japanese,detail,？？？,まさか……！
+138,Japanese,detail,,<span class='scene-font-katari'>男性は慌てた様子で、</span><br><span class='scene-font-katari'>[플레이어]の額や首筋を</span><br><span class='scene-font-katari'>触診していく。</span>
+139,Japanese,detail,？？？,君達、ひとつ聞いていいかい？<br>彼女は妙に喉が渇くとか<br>言ってなかったかい？
+140,Japanese,detail,？？？,後は、大量に水を<br>飲んだりとか……
+141,Japanese,detail,エウロペ,ええ。先程からしきりに水を<br>飲んでいらっしゃいましたね。
+142,Japanese,detail,？？？,やはりか……
+143,Japanese,detail,ビィ,お、おい、何か知ってんのか？
+144,Japanese,detail,？？？,話は後だ！<br>まずは彼女を治療院に<br>連れて行かねば……
+145,Japanese,detail,,<span class='scene-font-katari'>男性は焦った表情で</span><br><span class='scene-font-katari'>[플레이어]を背中に担ぐと、</span><br><span class='scene-font-katari'>ルリア達にそう告げ、走り出す。</span>
+146,Japanese,detail,ルリア,ま、待ってください！
+147,Japanese,detail,エウロペ,とりあえず、今はあの者を<br>追いかけましょう。
+148,Japanese,detail,,<span class='scene-font-katari'>そして、ルリア達も</span><br><span class='scene-font-katari'>慌てて男性の後を</span><br><span class='scene-font-katari'>追うのだった。</span>
+149,Japanese,detail,,<span class='scene-font-katari'>治療院に着いた[플레이어]達。</span>
+150,Japanese,detail,,<span class='scene-font-katari'>そこでは多くの人達が</span><br><span class='scene-font-katari'>ベッドに寝かされ、</span><br><span class='scene-font-katari'>痛苦に喘いでいた。</span>
+151,Japanese,detail,？？？,とりあえず、<br>ここに寝かせるよ。
+152,Japanese,detail,,<span class='scene-font-katari'>男性は空いていたベッドに</span><br><span class='scene-font-katari'>[플레이어]を寝かせる。</span>
+153,Japanese,detail,？？？,今はそのまま<br>安静にしていてくれ。
+154,Japanese,detail,エウロペ,失礼ですが、貴方様は一体……
+155,Japanese,detail,街医者,私はこの治療院で<br>働いている医者だよ。
+156,Japanese,detail,街医者,それとさっきはすまない。<br>何の説明もせずに<br>ここに連れてきてしまった。
+157,Japanese,detail,街医者,そのことを、お詫びさせてほしい。
+158,Japanese,detail,,<span class='scene-font-katari'>医者は[플레이어]達に向き直ると</span><br><span class='scene-font-katari'>深く頭を下げる。</span>
+159,Japanese,detail,エウロペ,<span class='scene-font-2'>医者……確か、</span><br><span class='scene-font-2'>病を判別し、治癒する職でしたか。</span>
+160,Japanese,detail,エウロペ,では、お医者様。<br>ひとつ、ご質問させていただいても<br>よろしいですか？
+161,Japanese,detail,街医者,彼女の容体かい？
+162,Japanese,detail,エウロペ,はい。<br>[플레이어]様は一体、<br>どうなさったのでしょうか？
+163,Japanese,detail,エウロペ,それにここにいる<br>たくさんの人達はいったい……
+164,Japanese,detail,エウロペ,皆、一様に青い湿疹が<br>できているようですが……
+165,Japanese,detail,街医者,……少し前から、<br>この街では原因不明の病が<br>流行っていてね。
+166,Japanese,detail,街医者,ここにいる人達は皆、<br>その病に感染した人達だ。
+167,Japanese,detail,街医者,彼女と同じように……
+168,Japanese,detail,エウロペ,なんと……<br>[플레이어]様が病に……？
+169,Japanese,detail,ルリア,<span class='scene-font-4'>そんなっ！？</span>
+170,Japanese,detail,,<span class='scene-font-katari'>医者の言葉にエウロペは</span><br><span class='scene-font-katari'>動揺した表情を浮かべる。</span>
+171,Japanese,detail,エウロペ,その……<br>空の民はなにかと様々な理由で<br>身体が病に冒されるのだとか。
+172,Japanese,detail,エウロペ,一体、なぜ[플레이어]様が<br>その病にかかっていると、<br>すぐおわかりに？
+173,Japanese,detail,街医者,この病に感染した人は<br>喉の渇きを訴え、無性に水を<br>欲しがるようになるんだ。
+174,Japanese,detail,街医者,そして、次から次へと<br>水を飲んでいく。
+175,Japanese,detail,街医者,でも、どれだけ飲んでも<br>渇きが収まらない。
+176,Japanese,detail,街医者,それどころか、<br>水を飲めば飲むほど、<br>症状が悪化していくんだ。
+177,Japanese,detail,街医者,そして、ある時を境に<br>高熱と共に体中に青い湿疹が出て、<br>倒れてしまう……
+178,Japanese,detail,エウロペ,なるほど。<br>先程の[플레이어]様の症状と<br>同じですね。
+179,Japanese,detail,街医者,うん。だから、私は<br>彼女がこの原因不明の病に<br>感染していると判断したんだ。
+180,Japanese,detail,エウロペ,お医者様、治療方法は……<br>私達にできることがあるのでしたら、<br>協力させていただきましょう。
+181,Japanese,detail,街医者,私達の方でもこの病を治そうと<br>様々なことを試したさ。
+182,Japanese,detail,街医者,でも、どんな対処療法も薬も<br>効果がなかった。
+183,Japanese,detail,街医者,いや、それどころか、どれだけ調べても<br>この病の原因がなんなのか……<br>それすらわからないんだ……
+184,Japanese,detail,街医者,だから、現状、治療はできないんだ……
+185,Japanese,detail,ルリア,そんな……
+186,Japanese,detail,街医者,とりあえず、今は<br>安静にしていてくれ。
+187,Japanese,detail,,<span class='scene-font-katari'>その言葉に苦しげに頷く</span><br><span class='scene-font-katari'>[플레이어]。</span>
+188,Japanese,detail,,<span class='scene-font-katari'>そんな[플레이어]の姿を</span><br><span class='scene-font-katari'>ルリア達は心配げな表情で</span><br><span class='scene-font-katari'>見つめるのだった。</span>
+189,English,synopsis,,"[플레이어] and company awaken to a gentle murmur in the middle of the night. They go on deck to find Europa, who—with encouragement from Gabriel—wishes to join the crew and help deal with future threats."
+190,English,detail,,A deep silence fills the night air as [플레이어] sleeps in private quarters aboard the Grandcypher.
+191,English,detail,???,"Please awaken, everyone..."
+192,English,detail,,"A clear, gentle voice similar to that of a steady stream sounds off in their heads..."
+193,English,detail,,Quietly rousing them from a good night's rest.
+194,English,detail,Vyrn,Mng... This really beautiful voice was just talkin' to me...
+195,English,detail,Lyria,Yawn... I wonder who that might be...
+196,English,detail,,Lyria and Vyrn look around while rubbing their eyes.
+197,English,detail,Lyria,Hm... I don't see anyone.
+198,English,detail,Vyrn,But I definitely heard it...
+199,English,detail,Lyria,Yeah... Me too...
+200,English,detail,???,I see you've woken from your sleep. Please come to the deck.
+201,English,detail,???,I await you there.
+202,English,detail,Lyria,Wha! The voice seems to be coming from inside my head...
+203,English,detail,Vyrn,What in the skies is going on?
+204,English,detail,Vyrn,It's telling us to go up on deck...
+205,English,sel1_txt,,What do you think's waiting for us?
+206,English,sel2_txt,,Let's check it out.
+207,English,detail,Vyrn,Don't tell me... A ghost?
+208,English,detail,Lyria,Eep! I-is it really a ghost?
+209,English,detail,Lyria,Um... Maybe we should just stay here? Especially if it really is a ghost...
+210,English,detail,Vyrn,I'm not sure ignoring it's the best idea either.
+211,English,detail,Vyrn,Let's just be careful on our way to check it out.
+212,English,detail,,[플레이어] nods in agreement.
+213,English,detail,Lyria,I-I'll come along too then! Being left behind alone would be the scarier option!
+214,English,detail,,[플레이어] and Vyrn give a wry grin in response before vigilantly making their way to the deck.
+215,English,detail,Vyrn,Yeah. We'd better keep our eyes peeled on the way up there just to be safe.
+216,English,detail,Lyria,Definitely...
+217,English,detail,,[플레이어] gives a knowing nod before heading up.
+218,English,detail,,[플레이어] and company step on deck to find a lone young woman looking up to the skies.
+219,English,detail,,"Upon noticing their presence, she holds the ends of her skirt and gracefully curtsies at the crew."
+220,English,detail,,"With her silky smooth skin and translucent dress illuminated by the silvery moonlight, the young woman's beauty transcends mortal boundaries."
+221,English,detail,Europa,"It's been some time since our last encounter, Singularity."
+222,English,detail,Europa,"And it's nice to meet you, girl in blue and red dragon..."
+223,English,detail,Europa,I am Europa... disciple of Gabriel. Pleased to make your acquaintance.
+224,English,detail,,"Taken by her graceful, refined movements, [플레이어] and company watch with mouths agape."
+225,English,detail,Europa,Is something the matter?
+226,English,detail,Lyria,"Ah! N-no, erm, nice to meet you?"
+227,English,detail,Lyria,I was just surprised... by how beautiful you are.
+228,English,detail,Vyrn,"Ah... So you're buddies with that primarch lady, huh?"
+229,English,detail,Europa,Not quite. More precisely I am her disciple.
+230,English,detail,Lyria,Disciple? Um... What exactly does that...
+231,English,detail,???,"It can mean many things. But in this case, you can take it to mean that she places the greatest amount of trust in me."
+232,English,detail,,"A blue light fills the surroundings, converging on a single point and taking on the form of a woman."
+233,English,detail,Lyria,Gabriel!
+234,English,detail,Gabriel,Long time no see. I'm glad to know you're all doing okay.
+235,English,sel1_txt,,What brings you here?
+236,English,detail,Gabriel,"It's about Europa. I'm sure she can explain herself, but..."
+237,English,detail,Gabriel,"I thought it'd be more fitting if I, too, gave a proper explanation."
+238,English,detail,Vyrn,Hm? Whaddya mean?
+239,English,detail,Europa,"[플레이어], do you remember the words I conveyed to you once before?"
+240,English,detail,Europa,"Like Gabriel before me, I shall remain by your side to assist you."
+241,English,sel1_txt,,You mentioned remaining by our side...
+242,English,detail,Europa,"Yes... That, I did."
+243,English,detail,Europa,And I've come today to fulfill that promise.
+244,English,detail,Europa,"Please use my powers as you see fit, [플레이어]."
+245,English,detail,,[플레이어] and company incline their heads at Europa.
+246,English,detail,Lyria,Um... Do you mean that you'll join our crew?
+247,English,detail,Europa,"Yes, that's right."
+248,English,detail,Vyrn,But what for? And whaddya mean 'use your powers'?
+249,English,detail,Europa,Gabriel gave me orders to support your crew.
+250,English,detail,Gabriel,You all stand by the singularity—an existence deeply involved with the future of the skies.
+251,English,detail,Gabriel,"As such, you are bound to encounter threats and engage in wars all too great."
+252,English,detail,Gabriel,Some of these perils may be too much for you all to handle.
+253,English,detail,Gabriel,But I firmly believe in you.
+254,English,detail,Gabriel,"If we work closely together, we can surely overcome any threat."
+255,English,detail,Gabriel,"And in order for that to be true, we need someone who can bridge the gap between us."
+256,English,detail,Gabriel,"In essence, someone who travels by your side while maintaining close communication with us primarchs."
+257,English,detail,Gabriel,I've decided to ask Europa to take on that role.
+258,English,detail,Gabriel,"What's more, she wishes for this opportunity herself."
+259,English,detail,Europa,"After the cataclysms, Gabriel and the supreme primarch spoke to me at length."
+260,English,detail,Europa,"There is so much beauty in this world, little different from that of the verdant greenery all around us."
+261,English,detail,Europa,The willingness of brave skyfarers to come together in solidarity—to help and safeguard each other where one can accomplish little alone...
+262,English,detail,Europa,Therein lies the greatest beauty of all... I was told.
+263,English,detail,Europa,They also mentioned that your crew was the one responsible for making such sweeping vistas of valor and graciousness possible.
+264,English,detail,Europa,I wish to see such loveliness with my own two eyes.
+265,English,detail,Europa,"And that's when I decided, [플레이어]..."
+266,English,detail,Europa,That it would be best to be by your side.
+267,English,detail,Europa,So won't you please allow me to accompany you?
+268,English,detail,Gabriel,Europa's powers match mine in strength.
+269,English,detail,Gabriel,I'm sure you'll find her to be of great value.
+270,English,sel1_txt,,"Glad to have you, Europa."
+271,English,sel2_txt,,"There's room for you too, Gabriel."
+272,English,detail,Europa,"You have my thanks, [플레이어]."
+273,English,detail,Gabriel,And mine as well...
+274,English,detail,Gabriel,"Haha, I appreciate the invite. You're making me blush."
+275,English,detail,Gabriel,But I'm sorry to say... that I still have much to accomplish on my own.
+276,English,detail,Gabriel,So I'll have to turn you down.
+277,English,detail,Lyria,That's too bad.
+278,English,detail,,Gabriel shares a faint smile.
+279,English,detail,,The primarch then turns to her disciple.
+280,English,detail,Gabriel,Europa. I'm sure this will be a wonderful opportunity for you to explore the world's beauty.
+281,English,detail,Gabriel,And it will in turn make you a better person.
+282,English,detail,Gabriel,"Europa, I'm expecting much from you. Perhaps we'll be able to stand together as equals when this is all over..."
+283,English,detail,Europa,Gabriel... I'll do my best to meet your expectations.
+284,English,detail,Europa,Your wish is my wish.
+285,English,detail,Europa,All that I am... is yours to command.
+286,English,detail,,Europa bows in deference to Gabriel.
+287,English,detail,Gabriel,"Europa, my disciple... May the blessings of water be with you."
+288,English,detail,,"With that, Gabriel vanishes in a gust of wind, leaving behind a fountain of feathers."
+289,English,detail,Europa,"Well then, [플레이어]. I hope we'll enjoy our time together."
+290,English,detail,,Europa once again lifts the hem of her skirt and politely curtsies at the crew.
+291,English,detail,,They look on with smiles.
+292,English,synopsis,,"After a nice meal in a suspiciously quiet town, [플레이어] suddenly collapses. The crew brings the captain to a nearby clinic and learns from a local doctor that [플레이어] has fallen to an epidemic that's been ravaging the town."
+293,English,detail,,The crew stops by a nearby town to resupply.
+294,English,detail,,"After a busy shopping spree, the crew takes a break and grabs a meal at the local tavern."
+295,English,detail,Lyria,It's so quiet in this town...
+296,English,sel1_txt,,I hardly saw anyone on the streets...
+297,English,sel2_txt,,It's pretty empty in here too...
+298,English,detail,Vyrn,Kind of a surprise given how nice the town is. Makes it feel kinda gloomy.
+299,English,detail,Vyrn,"Yeah. Even back outside, I hardly saw anyone walking the streets."
+300,English,detail,Lyria,Mm-hm... I'm feeling lonely already.
+301,English,detail,,Europa's expression is one of bafflement.
+302,English,detail,Europa,You think so? Personally I find it to be considerably lively...
+303,English,detail,Europa,In fact I'd call the atmosphere in this tavern rather boisterous.
+304,English,detail,Europa,"Even if this... tea, as you call it, has gone to their heads, I find their conduct unbecoming."
+305,English,detail,Lyria,A-ahaha...
+306,English,detail,Vyrn,"Anyhoo, I'm just about full. Let's get back to shopping."
+307,English,detail,,"The others bob their heads in agreement, and they all head out of the tavern together."
+308,English,detail,,[플레이어] and company make their way back to the Grandcypher.
+309,English,detail,,[플레이어] takes frequent sips of water as they go.
+310,English,detail,Vyrn,"You've been chugging that nonstop, [플레이어]. Everything okay?"
+311,English,sel1_txt,,I'm just really thirsty.
+312,English,detail,Europa,Did the meal not suit your tastes?
+313,English,detail,Vyrn,"Nah, that food was just the kind that [플레이어] likes."
+314,English,detail,,[플레이어] is suddenly hit with vertigo and nearly falls over.
+315,English,detail,Vyrn,Whoa!
+316,English,detail,,Europa firmly holds [플레이어] up.
+317,English,detail,Europa,"[플레이어], is something the matter?"
+318,English,detail,Europa,You appear pale.
+319,English,detail,Lyria,"A-are you okay, [플레이어]?<br>Ah!"
+320,English,detail,Lyria,You're burning up! And what are those blue spots covering your skin...
+321,English,detail,???,Hm? You folks all right?
+322,English,detail,,"Noticing something amiss, a concerned citizen approaches [플레이어] and company."
+323,English,detail,Lyria,I'm not sure... [플레이어] just suddenly fell ill...
+324,English,detail,Lyria,And now those blue spots are breaking out all over...
+325,English,detail,???,"All of a sudden, you say? The rash and swelling I see here is..."
+326,English,detail,???,Oh my!
+327,English,detail,,The man touches the back of his hand to [플레이어]'s forehead and throat.
+328,English,detail,???,Can I ask you folks a question? Did she happen to say anything about feeling really thirsty?
+329,English,detail,???,And then proceed to guzzle bucketloads of water?
+330,English,detail,Europa,Yes. [플레이어]'s mouth was on the water bottle almost nonstop.
+331,English,detail,???,Just as I thought...
+332,English,detail,Vyrn,You've got a clue what this might be?
+333,English,detail,???,I'll explain later! For now we must get her to a clinic.
+334,English,detail,,The concerned citizen quickly piggybacks [플레이어] and then runs off.
+335,English,detail,Lyria,W-wait!
+336,English,detail,Europa,We should follow them.
+337,English,detail,,"Still dazed at the whole situation, the others give chase."
+338,English,detail,,The crew soon arrives at a nearby clinic.
+339,English,detail,,"Other patients are already lying in the beds, wheezing in pain."
+340,English,detail,???,We'll let your friend rest here for now.
+341,English,detail,,The man lays [플레이어] down on an empty bed.
+342,English,detail,???,Just lie still and relax.
+343,English,detail,Europa,"I don't mean to be rude, but just who are you?"
+344,English,detail,Town Doctor,I'm just a doctor working at this clinic.
+345,English,detail,Town Doctor,Sorry for dragging you all here without so much as an explanation.
+346,English,detail,Town Doctor,I didn't mean to panic you.
+347,English,detail,,The town doctor offers the crew an apologetic bow.
+348,English,detail,Europa,"A doctor? Ah, right, that's the profession of one who diagnoses and cures sicknesses, if I recall."
+349,English,detail,Europa,"Well then, Doctor, I have a question for you."
+350,English,detail,Town Doctor,Lemme guess... You want to know her condition?
+351,English,detail,Europa,Yes. What sort of illness could have possibly befallen [플레이어]?
+352,English,detail,Europa,And the people here...
+353,English,detail,Europa,They all seem to have the same blue rash as [플레이어].
+354,English,detail,Town Doctor,Some kind of epidemic has begun spreading across town.
+355,English,detail,Town Doctor,The people you see on these beds have all been infected.
+356,English,detail,Town Doctor,Just like her...
+357,English,detail,Europa,You mean [플레이어]'s fallen to some kind of plague?
+358,English,detail,Lyria,That can't be!
+359,English,detail,,Europa loses her composure at the doctor's words.
+360,English,detail,Europa,Hm... I've heard skydwellers are prone to all sorts of illnesses.
+361,English,detail,Europa,"But how did you know so soon that [플레이어], too, was affected?"
+362,English,detail,Town Doctor,Complaining of thirst and endlessly wanting to drink water are telltale symptoms.
+363,English,detail,Town Doctor,They'll take as many sips as they can get.
+364,English,detail,Town Doctor,But that thirst is never quenched.
+365,English,detail,Town Doctor,In fact the more they drink the worse the symptoms get.
+366,English,detail,Town Doctor,"At a certain point, they succumb to a nasty fever and pass out with blue rashes all over their body."
+367,English,detail,Europa,I see. That's exactly what happened to [플레이어].
+368,English,detail,Town Doctor,"Yep, that's why I figured she was probably infected with this mysterious disease too."
+369,English,detail,Europa,"Doctor... If there's anything at all we can do to help you determine the cure for this illness, please let us know."
+370,English,detail,Town Doctor,We physicians have been trying all sorts of remedies...
+371,English,detail,Town Doctor,But nothing seems to work.
+372,English,detail,Town Doctor,Truth be told we can't even pinpoint the cause of this disease.
+373,English,detail,Town Doctor,So we're pretty much at a loss on how to cure everyone...
+374,English,detail,Lyria,That's terrible...
+375,English,detail,Town Doctor,Either way I suggest your friend simply take it easy for now.
+376,English,detail,,[플레이어] responds with an affirmative grunt.
+377,English,detail,,Lyria and the others look on with painful uneasiness.

@@ -1,0 +1,265 @@
+,language,type,name,origin
+0,Japanese,synopsis,,村をセレストから解放することを決めたフェリだが、それはフェリを含めた島の住人達が消えることも意味していた。悲しむルリアを、フェリは自然な形に戻るだけだと諭す。一行はこの事を村へ報告する前に、まずはセレストとの接触を試みる。
+1,Japanese,detail,,<span class='scene-font-katari'>星晶獣セレストから村を解放する。</span><br><span class='scene-font-katari'>新たな自分となることで下せた決断を</span><br><span class='scene-font-katari'>少女は[플레이어]一行に告げた。</span>
+2,Japanese,detail,카타리나,それはつまり……<br>セレストをこの島から<br>引き離すということか……？
+3,Japanese,detail,フェリ,理屈はわからないけど、<br>引き寄せることが出来たからな。<br>引き離すことも不可能じゃないだろ。
+4,Japanese,detail,이오,で、でもそんなことしたら、<br>フェリや村の人達は……
+5,Japanese,detail,フェリ,消えることになるだろうな……<br>少なくとも、<br>もうこの世に留まってはいられまい。
+6,Japanese,detail,루리아,そんな……せっかく仲良くなれたのに。
+7,Japanese,detail,フェリ,いまが不自然な状態なんだ……<br>それが自然な形に戻るだけだ。
+8,Japanese,detail,フェリ,それに……<br>ルリアは星晶獣の力を<br>吸収してくれるんだろ？
+9,Japanese,detail,フェリ,どんな形であれ、<br>[플레이어]達の旅に<br>協力できるなら本望だ。
+10,Japanese,detail,로제타,とはいえ……<br>いきなりいまの状態を終わらせるのは、<br>ちょっと不親切なんじゃない？
+11,Japanese,detail,로제타,せっかく新しい名前になったんだし、<br>告知も兼ねて、<br>村の人達に挨拶に行って来たら？
+12,Japanese,detail,루리아,ですね！<br>村の人達もフェリちゃんのことを<br>心配してましたし！
+13,Japanese,detail,フェリ,そ、それはその……<br>後で行くとして、だ……
+14,Japanese,detail,フェリ,その前にまずは、<br>呼び寄せたときのように、<br>セレストに接触しようと思う。
+15,Japanese,detail,フェリ,いざ村を解放するとなって、<br>結局それが出来ないんじゃ、<br>恰好がつかないからな。
+16,Japanese,detail,비,決まりだな！<br>それじゃ早速行こうぜ！
+17,Japanese,detail,비,って、そういや、<br>あの二人組はどこ行ったんだ？<br>姿が見えねぇけど……
+18,Japanese,detail,카타리나,彼らには彼らの思惑が<br>あるようだったし、<br>気にすることはないだろう。
+19,Japanese,detail,카타리나,そんなことより、<br>フェリが味方になったとはいえ、<br>襲ってくる魔物はごまんといる……
+20,Japanese,detail,카타리나,十分用心して進もう。<br>いくぞ！ [플레이어]！
+21,Japanese,synopsis,,セレストが最初に現れたという場所を訪れる<span>[플레이어]</span>一行。フェリはセレストを呼び寄せた時と同じように祈りを捧げるが、いっこうに現れる気配はない。戸惑う一行に、セレストとは関わりのない魔物が襲い掛かる。
+22,Japanese,detail,비,ここがセレストを<br>呼び寄せた場所なのか？
+23,Japanese,detail,フェリ,そうだ……<br>ここで祈っていたら突然、<br>霧の中からセレストが現れた。
+24,Japanese,detail,비,そんなら、<br>ここでフェリが祈ってりゃ、<br>また現れるかもってわけなんだな！
+25,Japanese,detail,フェリ,そういうことだ……<br>少し時間がかかるかもしれない。<br>気長に待っていてほしい。
+26,Japanese,detail,,<span class='scene-font-katari'>そう言って少女は、</span><br><span class='scene-font-katari'>霧の空に向け祈りを捧げるが……</span>
+27,Japanese,detail,카타리나,一向に現れる気配はないな……
+28,Japanese,detail,フェリ,あ、あれ……？
+29,Japanese,detail,로제타,あら？<br>でも何か近づいてくるみたいよ。
+30,Japanese,detail,마물,グオォォォッ！！
+31,Japanese,detail,이오,思いっきり普通の魔物じゃない！<br>まさかこいつが<br>セレストってことはないわよね？
+32,Japanese,detail,フェリ,どうして……<br>前はここで祈っていれば確かに……
+33,Japanese,detail,카타리나,ともかく呼んでしまった以上、<br>ここは応戦しよう！<br>やるぞ！ [플레이어]！
+34,Japanese,synopsis,,セレストを呼び寄せるためには、何か別の条件があるのかもしれない。そう判断した一行は、情報を得るために村の住民の元へと向かう。
+35,Japanese,detail,フェリ,何が足りない……？<br>場所も条件も、<br>あの時と同じはずなのに……
+36,Japanese,detail,로제타,星晶獣には未知の部分が多いもの……<br>フェリちゃんの知らない、<br>別の条件があるのかもしれないわ。
+37,Japanese,detail,카타리나,となれば必要なのは情報だな。<br>セレストが島に居つくようになった頃、<br>何か異変がなかったかどうか……
+38,Japanese,detail,루리아,村の人達に聞きに行きましょう！<br>何か思い当たる人が、<br>いるかもしれません。
+39,Japanese,detail,비,元々、村には寄る予定だったしな！<br>さっそく行ってみようぜ！
+40,Japanese,synopsis,,村の住人達に温かく迎えられるフェリ。一行が事情を説明し情報を集めると、星晶獣セレストが現れる少し前に流行り病があったこと、ちょうどその頃に旅の医者が村に居たが、いまは見かけない、ということを知らされる。
+41,Japanese,detail,,<span class='scene-font-katari'>村に着いた[플레이어]一行は、</span><br><span class='scene-font-katari'>村人達にフェリが固めた決意を伝えた。</span>
+42,Japanese,detail,村人１,そうかそうか……<br>いや、しかし立派なもんだ！<br>よく決断したな！ フェリちゃん！
+43,Japanese,detail,村人２,この生活ももう終わるんですね……<br>振り返れば長かったような、<br>短かったような……
+44,Japanese,detail,村人３,フェリちゃん……<br>ずーっと館にひとりきりで、<br>寂しくなかった？
+45,Japanese,detail,フェリ,え、と……その……<br>魔物達もいたから、その……
+46,Japanese,detail,村人３,そう？ でもこれからは、<br>困ったことがあったら<br>遠慮なく言って頂戴ね？
+47,Japanese,detail,フェリ,は、はい……！！
+48,Japanese,detail,村人３,うん。<br>いいお返事ね、フェリちゃん。
+49,Japanese,detail,루리아,ふふふ……フェリちゃん、<br>緊張してるけど、嬉しそうです！
+50,Japanese,detail,카타리나,そうだな……<br>とりあえずここは、<br>一件落着といったところか。
+51,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行は事情を説明し、</span><br><span class='scene-font-katari'>星晶獣セレストが現れた時に、</span><br><span class='scene-font-katari'>何か異変がなかったか情報を募った。</span>
+52,Japanese,detail,村人１,変わったことねぇ……<br>特になかったように思うが……
+53,Japanese,detail,村人３,そうねぇ……そういえば、<br>あの星晶獣が現れた頃だったかしら？<br>村に病気が流行し始めたのって……
+54,Japanese,detail,村人２,いや、流行り病は、<br>星晶獣が現れる少し前から、<br>猛威を振るってましたね……
+55,Japanese,detail,村人２,ちょうどその頃、<br>旅のお医者様がいらっしゃったけど、<br>結局、お医者様にも手に負えず……
+56,Japanese,detail,이오,うーん……<br>流行り病とお医者様かぁ……<br>どっちも関係なさそうだけど……
+57,Japanese,detail,로제타,そのお医者様は、<br>いまはどちらにいらっしゃるのかしら？
+58,Japanese,detail,村人１,ん……？<br>そういやあの人、どこ行ったんだ？<br>村じゃ見かけねぇけど……
+59,Japanese,detail,村人３,自分の騎空艇で、<br>島を離れたんじゃないかしら？<br>旅の途中だったみたいだし……
+60,Japanese,detail,村人２,ゾンビであれ、幽霊であれ、<br>姿を見ないってことは<br>もう島には居ないんでしょうね。
+61,Japanese,detail,로제타,島から姿を消した、ねぇ……
+62,Japanese,detail,비,おっと、魔物だ！<br>やるぞ！ [플레이어]！
+63,Japanese,detail,비,ようやくフェリが<br>村の人と打ち解けたってのに<br>邪魔させてたまるかってんだ！
+64,Japanese,synopsis,,集まった情報は、当時流行り病があったこと、その時、旅の医者が村に居たことの二つだけだった。星晶獣との関係は見出せないが、何かヒントがあるかもしれない、と一行は医者の当時の住居へと向かう。
+65,Japanese,detail,비,村の奴らに聞いた話を<br>まとめると……だ。
+66,Japanese,detail,비,セレストが現れた頃に<br>村で起きてた異変は<br>流行り病と旅の医者がいたくらいだな！
+67,Japanese,detail,카타리나,どちらも星晶獣に、<br>関係があるようには思えないな……
+68,Japanese,detail,루리아,うーん……<br>私にもわからないです……
+69,Japanese,detail,フェリ,その医者には、<br>あの流行り病を治療することは、<br>出来なかったんだな……
+70,Japanese,detail,로제타,医者だって万能じゃないわ……<br>でも、アタシ達に<br>ヒントくらい残してくれてるかもね。
+71,Japanese,detail,이오,村の人達の話だと、<br>村の墓地の近くに、<br>お医者様は住んでたのよね……
+72,Japanese,detail,이오,何か残ってるかもしれないし、<br>行ってみましょ！ [플레이어]！
+73,Japanese,synopsis,,旅の医者の住居で魔法陣を見つけ、困惑する<span>[플레이어]</span>一行。そこへ突如現れたドランクは、そもそもフェリがセレストを呼び寄せたという前提が間違っている、と語る。
+74,Japanese,detail,,<span class='scene-font-katari'>村の墓地までやってきた</span><br><span class='scene-font-katari'>[플레이어]一行を、</span><br><span class='scene-font-katari'>思わぬものが出迎えた。</span>
+75,Japanese,detail,카타리나,これは……<br>魔法陣か……？
+76,Japanese,detail,이오,どういうことなの？<br>旅のお医者様はお医者様じゃなく、<br>魔導士だったってこと？
+77,Japanese,detail,드랑크,ん～、惜しいなぁ！<br>こいつは医者であり、<br>かつ魔導士でもあったみたいだねぇ～
+78,Japanese,detail,비,お前！ いつの間に！<br>どうしてここに居るんだよ？
+79,Japanese,detail,드랑크,いやね？<br>今回の件で、どーしても<br>気にかかることがあってさぁ～
+80,Japanese,detail,드랑크,[플레이어]も<br>引っかかってるんじゃないかなぁ～<br>って思うんだけど、どう？
+81,Japanese,sel1_txt,,<span class='scene-font-katari'>星晶獣について？</span>
+82,Japanese,sel2_txt,,<span class='scene-font-katari'>フェリについて？</span>
+83,Japanese,detail,드랑크,ビンゴォ！<br>まさにそのことなんだよねぇ！<br>僕が気になってるのはさぁ！
+84,Japanese,detail,드랑크,当たらずとも遠からず、<br>って感じだねぇ～
+85,Japanese,detail,드랑크,でも、感じてる違和感は、<br>たぶん、同じことだと、<br>思うんだよねぇ～
+86,Japanese,detail,드랑크,ねぇ、フェリちゃん？<br>君はさぁ、星晶獣セレストに<br>願ってしまったって言ってたよねぇ？
+87,Japanese,detail,フェリ,そうだ……<br>私が願ってしまったから、<br>セレストがこの島に……
+88,Japanese,detail,드랑크,うんうん！<br>それねぇ、僕が思うに、<br>間違ってるんだよねぇ～
+89,Japanese,detail,フェリ,なっ！？
+90,Japanese,detail,비,ど、どういうことだ！？<br>いちいちもったいぶるんじゃねーぜ！
+91,Japanese,detail,슈투름,待った……その前に、敵。<br>魔物が向かってきてる。
+92,Japanese,detail,슈투름,構えろ、[플레이어]。<br>腑抜けてたら、<br>あたしが叩き切るからな……！
+93,Japanese,synopsis,,星晶獣を従えるということは並大抵のことではない、とドランクは語り、星晶獣セレストを呼び寄せた真犯人の存在を示唆する。それを裏付けるように突如現れた幽霊の男から、ルリアは星晶獣の匂いを感じ取る。
+94,Japanese,detail,드랑크,星晶獣ってさぁ、<br>人のお願いを聞いちゃうような、<br>ロマンチックなものじゃないんだよねぇ
+95,Japanese,detail,드랑크,星の民でもないのに従えようと思ったら<br>それ相応の準備が必要になる……<br>そういうものだよねぇ？
+96,Japanese,detail,로제타,そうね……だからこそ、<br>ルリアちゃんの力は特殊で、<br>帝国も目を付けていた……
+97,Japanese,detail,카타리나,つまり……フェリ以外に<br>セレストを呼び寄せた<br>真犯人がいると言いたいのか？
+98,Japanese,detail,드랑크,ビンゴォ！<br>どうかなぁ？<br>僕の推理当たってると思う？
+99,Japanese,detail,드랑크,ねぇ？ 真犯人さん？
+100,Japanese,detail,？？？,…………
+101,Japanese,detail,フェリ,こいつ！？<br>いつの間に……！？
+102,Japanese,detail,루리아,[플레이어]……<br>あの人、幽霊だけど……<br>星晶獣と同じ匂いがします……
+103,Japanese,detail,？？？,…………！！
+104,Japanese,detail,비,なんだぁ！？<br>魔物がどんどん集まってきやがる！？
+105,Japanese,detail,이오,なんだか厄介そうな相手ね……<br>まずは周りの魔物から、<br>蹴散らしちゃいましょ！
+106,Japanese,synopsis,,旅の医者は最初から星晶獣の実験が目的で島を訪れていたことを知る<span>[플레이어]</span>一行。その結果、医者は幽霊となって星晶獣と融合しており、<span>[플레이어]</span>一行に襲い掛かる。
+107,Japanese,detail,로제타,小屋にあった研究日誌を見るに……<br>どうも彼は最初から、<br>実験目的でこの島に来てたみたいね。
+108,Japanese,detail,フェリ,実験目的だと！？<br>じゃあ、最初から、<br>流行り病を治療する気は……
+109,Japanese,detail,로제타,それはわからないわ……<br>一応、医者としての技能も、<br>確かに持ってたみたいだし……
+110,Japanese,detail,로제타,一つ言えることは、<br>どんな研究であれ、その結果が、<br>いまの彼ということだけよ。
+111,Japanese,detail,？？？,…………
+112,Japanese,detail,루리아,この人、すごく深いところで、<br>星晶獣と混ざってます……<br>これじゃ、きっと、意識ももう……
+113,Japanese,detail,카타리나,これが……<br>彼の望んだ結果だというのか……？
+114,Japanese,detail,드랑크,さぁねぇ～<br>どうなんだろうねぇ～<br>いまの僕らにはさっぱりわからないね。
+115,Japanese,detail,슈투름,でも一つ……<br>はっきりわかることがある。<br>こいつはあたし達に敵意を持ってる……
+116,Japanese,detail,？？？,……！！ ……！！
+117,Japanese,detail,？？？,…………
+118,Japanese,detail,드랑크,あららぁ！<br>ついにお出ましみたいだねぇ！
+119,Japanese,detail,카타리나,こうなった以上、仕方がない……<br>応戦するぞ！ [플레이어]！<br>相手は星晶獣だ！ 油断するなよ！
+120,Japanese,synopsis,,旅の医者と融合した星晶獣セレストを倒した<span>[플레이어]</span>一行だったが、セレストは何事もなかったかのように再び一行の前に立ち塞がるのだった。
+121,Japanese,detail,카타리나,はぁ……はぁ……<br>なかなか手ごわかったが、<br>なんとか一段落ついたようだな……
+122,Japanese,detail,フェリ,これでようやく村が……<br>島が解放され……
+123,Japanese,detail,루리아,待って！<br>何か変……変な感じがする！
+124,Japanese,detail,슈투름,っ！？<br>お前ら！ 後ろだ！
+125,Japanese,detail,セレスト,…………！！
+126,Japanese,detail,이오,ど、どういうこと！？<br>さっき確かに、<br>倒したはずなのに！？
+127,Japanese,detail,로제타,傷も残ってないわね……<br>まるで何事もなかったみたいに……
+128,Japanese,detail,비,い、いったいどうなってんだ、<br>こりゃぁ……
+129,Japanese,detail,セレスト,…………
+130,Japanese,detail,,<span class='scene-font-katari'>ついに現れた星晶獣セレストは、</span><br><span class='scene-font-katari'>更なる謎をもって</span><br><span class='scene-font-katari'>[플레이어]一行を翻弄する。</span>
+131,Japanese,detail,,<span class='scene-font-katari'>霧に広がる不気味な気配は、</span><br><span class='scene-font-katari'>密かにさらなる蠢動を始めるのだった。</span>
+132,English,synopsis,,"Ferry wants to free the village from Celeste's power, knowing that it may cause her and the villagers to disappear. This saddens Lyria, but Ferry tells her that the natural order must be restored. Before informing the villagers, Ferry wants to try to contact Celeste."
+133,English,detail,,"Ready to turn over a new leaf, Ferry tells [플레이어] and the others of her decision to free the village from Celeste."
+134,English,detail,Katalina,"So in other words, you want to draw Celeste away from the island?"
+135,English,detail,Ferry,"I don't know how it would work, but I was able to draw it here. That means I should be able to drive it away again."
+136,English,detail,Io,"But if that happens, that means that you and the villagers..."
+137,English,detail,Ferry,Will probably disappear. But we can't keep staying in this world...
+138,English,detail,Lyria,I can't believe it... After we just became friends...
+139,English,detail,Ferry,The current situation is against nature. I'll just be returning the island to its natural state.
+140,English,detail,Ferry,"Besides, you're going to absorb Celeste's power, aren't you, Lyria?"
+141,English,detail,Ferry,I'll be happy as long as I can help [플레이어] and you guys in your journey somehow.
+142,English,detail,Rosetta,"It's a nice thought, but isn't it a little harsh to do this so suddenly?"
+143,English,detail,Rosetta,"Since you've got a new name and all, how about we go and tell the villagers?"
+144,English,detail,Lyria,Yeah! The villagers were worried about you after all!
+145,English,detail,Ferry,"W-well, all right... But we'll go later."
+146,English,detail,Ferry,First I'd like to try to contact Celeste the same way I did when I first summoned it.
+147,English,detail,Ferry,"If I talk about freeing the village and find out later that I can't, it'll make me look worse."
+148,English,detail,Vyrn,Sounds like a plan! Let's get to it!
+149,English,detail,Vyrn,"Wait, where did Sturm and Drang go? I don't see them anywhere..."
+150,English,detail,Katalina,They seemed to be on their own mission anyway. So there's no need to worry about them.
+151,English,detail,Katalina,"Now then, we've got Ferry on our side, but there are still monsters out there that might attack."
+152,English,detail,Katalina,"So keep your guard up. Let's go, [플레이어]!"
+153,English,synopsis,,"Ferry takes [플레이어] and the crew to where Celeste first appeared. She makes the same wish as when she first summoned Celeste, but a monster appears instead."
+154,English,detail,Vyrn,Is this the place where you summoned Celeste?
+155,English,detail,Ferry,"Yes... While I was murmuring my wish, Celeste suddenly appeared out of the mist."
+156,English,detail,Vyrn,"So if you make another wish here, Celeste might appear again!"
+157,English,detail,Ferry,Right! It might take a little while though. So I hope you'll give me some time.
+158,English,detail,,"With that, Ferry gazes up at the misty sky and sends up a silent wish."
+159,English,detail,Katalina,No sign of it yet...
+160,English,detail,Ferry,Huh?
+161,English,detail,Rosetta,Oh dear! But something's coming closer!
+162,English,detail,Monster,Groooar!
+163,English,detail,Io,It's just a regular old monster! There's no way that's Celeste!
+164,English,detail,Ferry,But why? This is definitely the same place as before...
+165,English,detail,Katalina,"Either way, this thing answered our call. So let's fight it back! Here we go, [플레이어]!"
+166,English,synopsis,,"Thinking that something else may be needed to summon Celeste, everyone decides to go talk to the villagers in hopes of getting some clues."
+167,English,detail,Ferry,What am I doing wrong? The place and everything should be the same as back then...
+168,English,detail,Rosetta,There's a lot we don't know about primal beasts. Perhaps there's something else we need that you don't know about.
+169,English,detail,Katalina,Sounds like we need some clues first. Like whether something else on the island was odd when Celeste arrived.
+170,English,detail,Lyria,Let's go ask the villagers! There might be someone who remembers something!
+171,English,detail,Vyrn,We were planning on going to see them anyway! So let's head on over!
+172,English,synopsis,,"The villagers welcome Ferry with open arms. They explain that before Celeste appeared, an illness began to spread right when a traveling doctor came to the village. But the doctor has disappeared."
+173,English,detail,,"When they arrive at the village, [플레이어] and the crew tell the villagers about Ferry's decision."
+174,English,detail,Villager 1,"I see, I see... How wonderful! You've made the right decision, Ferry!"
+175,English,detail,Villager 2,"So our existence here is coming to an end, eh? Looking back, it's been a mighty long time. But it still feels like yesterday..."
+176,English,detail,Villager 3,"Ferry, weren't you lonely all this time in that mansion by yourself?"
+177,English,detail,Ferry,"Well, I mean... I had monsters to keep me company..."
+178,English,detail,Villager 3,"Is that so? Well, from now on, if you're ever in trouble, you'd better come and tell us, all right?"
+179,English,detail,Ferry,Yes! I will.
+180,English,detail,Villager 3,Mm-hmm! That's a good girl!
+181,English,detail,Lyria,"You look sort of nervous, Ferry, but really happy too!"
+182,English,detail,Katalina,Indeed. I guess this clears up any rumors or misunderstandings.
+183,English,detail,,[플레이어] and the crew ask whether the villagers know of anything odd around the time Celeste first appeared.
+184,English,detail,Villager 1,Something odd? I can't think of anything...
+185,English,detail,Villager 3,"Let's see... Now that you mention it, an illness began to spread through the island around the time Celeste appeared, I think."
+186,English,detail,Villager 2,Not exactly. The illness was already running rampant before the primal beast came.
+187,English,detail,Villager 2,"A traveling doctor showed up right around the same time, but the doctor couldn't do anything in the end..."
+188,English,detail,Io,"Hm... An illness and a doctor, huh? Neither of those seem helpful here..."
+189,English,detail,Rosetta,Would you happen to know where that doctor is now?
+190,English,detail,Villager 1,Hm? That's a good question... Hasn't been around the village at any rate.
+191,English,detail,Villager 3,"Perhaps the doctor left the island on an airship. The doctor never stayed in one place, after all..."
+192,English,detail,Villager 2,"Zombie or ghost, we haven't seen any sign of the doctor on the island since."
+193,English,detail,Rosetta,"Disappeared without a trace, I see..."
+194,English,detail,Vyrn,"Whoa! There's a monster! Come on, [플레이어]!"
+195,English,detail,Vyrn,Ferry's just warming up to the villagers! No way we're gonna let these stinkers drop in on the party!
+196,English,synopsis,,"The villagers say that when Celeste appeared, there'd been a spreading illness and a traveling doctor on the island. But the connection to the primal beast is still unclear. Thinking that the doctor could be the key, everyone decides to visit the house where the doctor lived."
+197,English,detail,Vyrn,"So let's sum up what we heard from the villagers, okay?"
+198,English,detail,Vyrn,"When Celeste appeared, the only unusual things on the island were a spreading illness and a traveling doctor!"
+199,English,detail,Katalina,But I just don't see a connection between those things and primal beasts...
+200,English,detail,Lyria,Hm... I don't see it either.
+201,English,detail,Ferry,Too bad the doctor couldn't stop the illness from spreading...
+202,English,detail,Rosetta,"Doctors aren't perfect, you know! But perhaps that doctor left clues behind about a cure."
+203,English,detail,Io,"According to the villagers, the doctor lived near the cemetery."
+204,English,detail,Io,"There might be something there, so let's go take a look, [플레이어]!"
+205,English,synopsis,,[플레이어] and the others find a summoning circle near the doctor's old house. Sturm and Drang appear and Drang suggests that they're thinking about this all wrong.
+206,English,detail,,"On the way to the doctor's house, [플레이어] and the others stop by the cemetery, where they're greeted with an unexpected sight."
+207,English,detail,Katalina,Is that a summoning circle?
+208,English,detail,Io,What does this mean? Could it be that the doctor was fake and was really a mage all along?
+209,English,detail,Drang,Hmmm... You're close! But it sounds more like the person was both a doctor <span class='scene-font-italic'>and</span> a mage...
+210,English,detail,Vyrn,Hey! When did you get here? And why did you come?
+211,English,detail,Drang,"Well, you see... There's something about this hub-bub that's been naggin' me in the back of my mind."
+212,English,detail,Drang,"And I think it's buggin' you too, [플레이어]... Am I right?"
+213,English,sel1_txt,,You mean about the primal beast?
+214,English,sel2_txt,,You mean about Ferry?
+215,English,detail,Drang,Bingo! I knew you were thinking it! And that's what I'm thinking too!
+216,English,detail,Drang,"Wrong answer, but you're not far off. I'll give you that!"
+217,English,detail,Drang,But at least we're both thinking that something seems off about all this...
+218,English,detail,Drang,"Say, Ferry, didn't you say you made a wish and it reached the primal beast Celeste?"
+219,English,detail,Ferry,"Right! Because of my wish, Celeste came to this island."
+220,English,detail,Drang,"Yep, yep! But if you ask me, I think you've got it all wrong..."
+221,English,detail,Ferry,What?
+222,English,detail,Vyrn,What're you trying to say? Stop beatin' around the bush already!
+223,English,detail,Sturm,Wait. We've got company first. There are monsters coming this way.
+224,English,detail,Sturm,"Get ready, [플레이어]. And keep your eyes peeled, or I'll peel 'em for you!"
+225,English,synopsis,,"Drang thinks someone else summoned Celeste. As if confirming his suspicion, a ghost suddenly appears. Lyria senses that the ghost is similar to a primal beast."
+226,English,detail,Drang,Isn't it a little naïve to think that a primal beast would answer a random wish?
+227,English,detail,Drang,"If you wanted to control a primal without being an Astral, you'd need to be pretty smart or pretty special. Am I right?"
+228,English,detail,Rosetta,Indeed. That's exactly why the empire's been so fascinated with Lyria and her powers.
+229,English,detail,Katalina,"In other words, you're saying that it wasn't Ferry, but a different culprit who summoned Celeste?"
+230,English,detail,Drang,Bingo! What do you think? Did I get it right?
+231,English,detail,Drang,"Did I, <span class='scene-font-italic'>Mister Culprit?</span>"
+232,English,detail,???,...
+233,English,detail,Ferry,What's that! Where did it come from?
+234,English,detail,Lyria,"[플레이어], I know that's a ghost, but I'm sensing something similar to a primal beast..."
+235,English,detail,???,...!
+236,English,detail,Vyrn,Whoa! Loads of monsters are gathering around!
+237,English,detail,Io,This is getting sticky... So let's deal with these monsters first!
+238,English,synopsis,,It's discovered that the doctor's reason for coming to the island was for primal beast experiments. As a result the doctor became a ghost and merged with a primal. The ghost doctor attacks [플레이어] and the others.
+239,English,detail,Rosetta,"From what I can tell of his research journal, it looks like the doctor came here to carry out experiments."
+240,English,detail,Ferry,Experiments? So he never intended to treat the illness...
+241,English,detail,Rosetta,We can't say for sure. It looks like he certainly had some skills as a doctor...
+242,English,detail,Rosetta,"The only thing we can say is that whatever his research was, he's the result."
+243,English,detail,???,...
+244,English,detail,Lyria,"I sense that somewhere deep within him, he's merged with a primal beast. At this rate, his mind must already be gone..."
+245,English,detail,Katalina,Is this really the answer he was reaching for?
+246,English,detail,Drang,Who knows? I sure don't. And there's no way to tell anymore.
+247,English,detail,Sturm,But we do know one thing... He has it in for us.
+248,English,detail,???,...!
+249,English,detail,???,...
+250,English,detail,Drang,"My, oh my! Look who finally decided to show up!"
+251,English,detail,Katalina,"We've got no choice but to fight! [플레이어], our opponent is a primal beast! Don't let your guard down!"
+252,English,synopsis,,"[플레이어] and the others defeat Celeste, who'd merged with the ghost doctor. But the primal beast returns, seemingly unaffected by the battle."
+253,English,detail,Katalina,"<span class='scene-font-italic'>Pant... Pant...</span> That was tough, but it looks like it's over."
+254,English,detail,Ferry,Now the village... The whole island will finally be free—
+255,English,detail,Lyria,Wait! Something about it feels off... Something's not right!
+256,English,detail,Sturm,Look! Behind you!
+257,English,detail,Celeste,...!
+258,English,detail,Io,What's going on! Didn't we just defeat it?
+259,English,detail,Rosetta,It's back without a single scratch... as if nothing happened.
+260,English,detail,Vyrn,What in the skies is going on here?
+261,English,detail,Celeste,...
+262,English,detail,,"Celeste suddenly appears in front of [플레이어] and the others, further deepening the mystery behind the primal beast."
+263,English,detail,,"The fog spreads eerily, as if inviting more malicious mayhem to the island."

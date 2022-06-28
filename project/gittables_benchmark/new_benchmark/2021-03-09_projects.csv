@@ -1,0 +1,151 @@
+,name,category,description
+0,umap,visualization,Uniform Manifold Approximation and Projection.
+1,biopython,others,Official git repository for Biopython (originally converted from CVS).
+2,bedtools2,bed-gtf-gff,bedtools - the swiss army knife for genome arithmetic.
+3,picard,sam-bam-cram,A set of command line tools (in Java) for manipulating high-throughput sequencing (HTS) data and formats such as..
+4,MultiQC,others,Aggregate results from bioinformatics analyses across many samples into a single report.
+5,igv.js,visualization,Embeddable genomic visualization component based on the Integrative Genomics Viewer.
+6,deepvariant,variant-caller,DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA..
+7,freebayes,variant-caller,Bayesian haplotype-based genetic polymorphism discovery and genotyping.
+8,canu,assembler,A single molecule sequence assembler for genomes large and small.
+9,bioconda-recipes,others,Conda recipes for the bioconda channel.
+10,samtools,sam-bam-cram,Tools (written in C using htslib) for manipulating next-generation sequencing data.
+11,gatk,variant-caller,Official code repository for GATK versions 4 and up.
+12,minimap2,ngs-alignment,A versatile pairwise aligner for genomic and spliced nucleotide sequences.
+13,diamond,sequence-alignment,Accelerated BLAST compatible local sequence aligner.
+14,vcflib,vcf-bcf,C++ library and cmdline tools for parsing and manipulating VCF files.
+15,sambamba,sam-bam-cram,Tools for working with SAM/BAM data.
+16,bowtie2,ngs-alignment,A fast and sensitive gapped read aligner.
+17,UMI-tools,others,Tools for handling Unique Molecular Identifiers in NGS data sets.
+18,delly,structural-variation,DELLY2: Structural variant discovery by integrated paired-end and split-read analysis.
+19,mhcflurry,mhc-hla,Peptide-MHC I binding affinity prediction.
+20,bwa,ngs-alignment,Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment).
+21,seqkit,fasta-fastq,A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang.
+22,htslib,sam-bam-cram,C library for high-throughput sequencing data formats.
+23,bcftools,vcf-bcf,"This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git.."
+24,pyfaidx,fasta-fastq,Efficient pythonic random access to fasta subsequences.
+25,STAR,ngs-alignment,RNA-seq aligner.
+26,pysam,sam-bam-cram,Pysam is a Python module for reading and manipulating SAM/BAM/VCF/BCF files. It's a lightweight wrapper of the htslib..
+27,mosdepth,sam-bam-cram,"fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing."
+28,ensembl-vep,variant-annotation,The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants.
+29,cyvcf2,vcf-bcf,cython + htslib == fast VCF and BCF processing.
+30,abyss,assembler,Assemble large genomes using short reads.
+31,pybedtools,bed-gtf-gff,Python wrapper -- and more -- for Aaron Quinlan's BEDTools (bioinformatics tools).
+32,gffread,bed-gtf-gff,"GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more."
+33,fastp,qc-fastq,An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...).
+34,containers,others,Bioinformatics containers.
+35,igv,visualization,"Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations."
+36,hisat2,ngs-alignment,Graph-based alignment (Hierarchical Graph FM index).
+37,samplot,visualization,Plot structural variant signals from many BAMs and CRAMs.
+38,manta,structural-variation,Structural variant and indel caller for mapped sequencing data.
+39,vcfanno,vcf-bcf,annotate a VCF with other VCFs/BEDs/tabixed files.
+40,strelka,variant-caller,Strelka2 germline and somatic small variant caller.
+41,lumpy-sv,structural-variation,lumpy: a general probabilistic framework for structural variant discovery.
+42,stringtie,others,Transcript assembly and quantification for RNA-Seq.
+43,gffutils,bed-gtf-gff,GFF and GTF file manipulation and interconversion.
+44,Augustus,others,Genome annotation with AUGUSTUS.
+45,primer3-py,primer-designing,Simple oligo analysis and primer design.
+46,MACS,others,MACS -- Model-based Analysis of ChIP-Seq.
+47,pyGenomeTracks,visualization,python module to plot beautiful and highly customizable genome browser tracks.
+48,bwa-mem2,ngs-alignment,The next version of bwa-mem.
+49,cutadapt,qc-fastq,Cutadapt removes adapter sequences from sequencing reads.
+50,Jellyfish,fasta-fastq,A fast multi-threaded k-mer counter.
+51,cnvkit,structural-variation,Copy number variant detection from targeted DNA sequencing.
+52,DnaFeaturesViewer,visualization,Python library to plot DNA sequence features (e.g. from Genbank files).
+53,ngmlr,ngs-alignment,NGMLR is a long-read mapper designed to align PacBio or Oxford Nanopore (standard and ultra-long) to a reference..
+54,smoove,structural-variation,"structural variant calling and genotyping with existing tools, but, smoothly."
+55,Exomiser,others,A Tool to Annotate and Prioritize Exome Variants.
+56,haplogrep-cmd,others,HaploGrep - mtDNA haplogroup classification. Supporting rCRS and RSRS.
+57,seqtk,fasta-fastq,Toolkit for processing sequences in FASTA/Q formats.
+58,sra-tools,others,SRA Tools.
+59,wtdbg2,assembler,Redbean: A fuzzy Bruijn graph approach to long noisy reads assembly.
+60,SURVIVOR,structural-variation,"Toolset for SV simulation, comparison and filtering."
+61,bam-readcount,sam-bam-cram,count DNA sequence reads in BAM files.
+62,kaiju,others,Fast taxonomic classification of metagenomic sequencing reads using a protein reference database.
+63,hifiasm,assembler,Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.
+64,Liftoff,liftover,An accurate GFF3/GTF lift over pipeline.
+65,blasr,ngs-alignment,BLASR: The PacBio long read aligner.
+66,alfred,sam-bam-cram,"BAM Statistics, Feature Counting and Annotation."
+67,Sniffles,structural-variation,Structural variation caller using third generation sequencing.
+68,samblaster,sam-bam-cram,samblaster: a tool to mark duplicates and extract discordant and split reads from sam files.
+69,SOAPdenovo2,assembler,Next generation sequencing reads de novo assembler.
+70,VarDict,variant-caller,VarDict.
+71,CNVnator,structural-variation,a tool for CNV discovery and genotyping from depth-of-coverage by mapped reads.
+72,neusomatic,variant-caller,NeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection.
+73,fastx_toolkit,qc-fastq,FASTA/FASTQ pre-processing programs.
+74,MutScan,variant-caller,Detect and visualize target mutations by scanning FastQ files directly.
+75,biobambam2,sam-bam-cram,Tools for early stage alignment file processing.
+76,svim,structural-variation,Structural Variant Identification Method using Long Reads.
+77,GeneFuse,structural-variation,Gene fusion detection and visualization.
+78,cuteSV,structural-variation,Long read based human genomic structural variation detection with cuteSV.
+79,minia,assembler,Minia is a short-read assembler based on a de Bruijn graph.
+80,denovogear,variant-caller,A program to detect denovo-variants using next-generation sequencing data.
+81,Phen2Gene,others,Phenotype driven gene prioritization for HPO.
+82,hap.py,vcf-bcf,Haplotype VCF comparison tools.
+83,velvet,assembler,Short read de novo assembler using de Bruijn graphs.
+84,FastQC,qc-fastq,A quality control analysis tool for high throughput sequencing data.
+85,hmmer,others,HMMER: biological sequence analysis using profile HMMs.
+86,KMC,fasta-fastq,Fast and frugal disk based k-mer counter.
+87,OptiType,mhc-hla,Precision HLA typing from next-generation sequencing data.
+88,genomescope,others,Fast genome analysis from unassembled short reads.
+89,msisensor,msi-detection,microsatellite instability detection using tumor only or paired tumor-normal data.
+90,ExpansionHunter,str,A tool for estimating repeat sizes.
+91,tophat,ngs-alignment,Spliced read mapper for RNA-Seq.
+92,truvari,structural-variation,Structural variant toolkit for VCFs.
+93,HLA-LA,mhc-hla,Fast HLA type inference from whole-genome data.
+94,jannovar,variant-annotation,Annotation of VCF variants with functional impact and from databases (executable+library).
+95,RepeatHMM,str,a hidden Markov model to infer simple repeats from genome sequences.
+96,SpliceAI,variant-annotation,A deep learning-based tool to identify splice variants.
+97,gtz,compression,"A high performance and compression ratio compressor for genomic data, powered by GTXLab of Genetalks."
+98,pindel,structural-variation,"Pindel can detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications and other.."
+99,SUPPA,others,SUPPA2: Fast quantification of differential splicing.
+100,primer3,primer-designing,Primer3 is a command line tool to select primers for polymerase chain reaction (PCR).
+101,repaq,compression,A fast lossless FASTQ compressor with ultra-high compression ratio.
+102,genozip,compression,"Compressor for genomic files (FASTQ, SAM/BAM, VCF, FASTA, GVF, 23andMe...), up to 5x better than gzip and faster too."
+103,ExpansionHunterDenovo,str,A suite of tools for detecting expansions of short tandem repeats.
+104,prohlatype,mhc-hla,Probabilistic HLA typing.
+105,GTCtoVCF,others,Script to convert GTC/BPM files to VCF.
+106,CrossMap,liftover,CrossMap is a python program to lift over genome coordinates from one genome version to another.
+107,lancet,variant-caller,Microassembly based somatic variant caller for NGS data.
+108,varscan,variant-caller,Variant calling and somatic mutation/CNV detection for next-generation sequencing data.
+109,SnpEff,variant-annotation,
+110,InterVar,variant-annotation,A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline.
+111,bedtk,bed-gtf-gff,A simple toolset for BED files (warning: CLI may change before bedtk becomes stable).
+112,smartdenovo,assembler,Ultra-fast de novo assembler using long noisy reads.
+113,breakdancer,structural-variation,SV detection from paired end reads mapping.
+114,mutect,variant-caller,MuTect -- Accurate and sensitive cancer mutation detection.
+115,mutalyzer,others,HGVS variant nomenclature checker.
+116,whatshap,variant-caller,"Read-based phasing of genomic variants, also called haplotype assembly."
+117,HipSTR,str,Genotype and phase short tandem repeats using Illumina whole-genome sequencing data.
+118,fastv,fasta-fastq,An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to..
+119,pyliftover,liftover,Pure-python implementation of UCSC liftOver genome coordinate conversion.
+120,NeoPredPipe,mhc-hla,Neoantigens prediction pipeline for multi- or single-region vcf files using ANNOVAR and netMHCpan.
+121,pbsv,structural-variation,pbsv - PacBio structural variant (SV) calling and analysis tools.
+122,Spring,compression,FASTQ compression.
+123,PharmCAT,others,The Pharmacogenomic Clinical Annotation Tool.
+124,msisensor-pro,msi-detection,Microsatellite Instability (MSI) detection using high-throughput sequencing data.
+125,SMNCopyNumberCaller,others,A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS.
+126,liftover,liftover,"liftover for python, made fast with cython."
+127,bioawk,others,BWK awk modified for biological data.
+128,pb-assembly,assembler,PacBio Assembly Tool Suite: Reads in Assembly out.
+129,IMGTHLA,mhc-hla,Github for files currently published in the IPD-IMGT/HLA FTP Directory hosted at the European Bioinformatics Institute.
+130,pbmm2,ngs-alignment,A minimap2 frontend for PacBio native data formats.
+131,RepeatMasker,others,RepeatMasker is a program that screens DNA sequences for interspersed repeats and low complexity DNA sequences.
+132,HLA,mhc-hla,xHLA: Fast and accurate HLA typing from short read sequence data.
+133,MFEprimer-3.0,primer-designing,PCR Primer Quality Control.
+134,bamdst,sam-bam-cram,a lightweight bam file depth statistical tool.
+135,tabix,others,Note: tabix and bgzip binaries are now part of the HTSlib project.
+136,AnnotSV,variant-annotation,Annotation and Ranking of Structural Variation.
+137,msisensor2,msi-detection,Microsatellite instability (MSI) detection for tumor only data.
+138,DSRC,compression,DSRC - DNA Sequence Reads Compressor.
+139,pblat,sequence-alignment,parallelized blat with multi-threads support.
+140,SMAca,others,SMN1 copy-number and sequence variant analysis from next generation sequencing data.
+141,msisensor-ct,msi-detection,Microsatellite instability (MSI) detection for cfDNA samples.
+142,trimmomatic,qc-fastq,Read trimming tool for Illumina NGS data.
+143,tabtk,others,Toolkit for processing TAB-delimited format.
+144,MuSE,variant-caller,Somatic point mutation caller.
+145,blat,sequence-alignment,BLAST-Like Alignment Tool.
+146,clustal-omega,sequence-alignment,Multiple sequence aligner for protein and DNA/RNA.
+147,t-coffee,sequence-alignment,"Tools for multiple alignments of DNA, RNA, and Proteins."
+148,mafft,sequence-alignment,Align multiple amino acid or nucleotide sequences.
+149,muscle,sequence-alignment,Multiple Sequence Comparison by Log-Expectation.

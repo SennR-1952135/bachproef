@@ -1,0 +1,154 @@
+,year,country,city
+0,2014,Norway;Norway,Oslo;Oslo
+1,2014,United States;Norway;Norway,San Francisco;Oslo;Oslo
+2,2013,United Kingdom;Germany,Cambridge;Tubingen
+3,2013,United States,New York
+4,2013,United States;United States;United States,Boston;Cambridge;Cambridge
+5,2013,United States;United States,San Francisco;Houston
+6,2013,Switzerland;Switzerland;Switzerland,Geneva;Geneva;Geneva
+7,2013,United States,Seattle
+8,2013,United States,New York
+9,2013,United States;Israel,Boston;Rehovot
+10,2013,Netherlands,Amsterdam
+11,2013,United Kingdom,London
+12,2013,United States,Bloomington
+13,2013,Spain,Barcelona
+14,2013,United States,New York
+15,2013,Norway;Norway,Oslo;Oslo
+16,2012,United Kingdom,Coventry
+17,2012,Norway,Lorenskog
+18,2012,Spain,Barcelona
+19,2012,United States,Tampa
+20,2012,United States;United States,San Diego;San Diego
+21,2012,United Kingdom;United Kingdom;United Kingdom,Cambridge;Cambridge;London
+22,2012,United Kingdom,Cambridge
+23,2012,United States,St. Louis
+24,2012,United States;United States;United States,San Diego;San Diego;San Diego
+25,2012,Japan,Tokyo
+26,2012,France,Lyon
+27,2012,United States,New York
+28,2012,United States,Princeton
+29,2012,United Kingdom,London
+30,2012,Canada;Canada,Vancouver;Vancouver
+31,2012,United Kingdom;United Kingdom;United States;United Kingdom;United Kingdom,Cambridge;Cambridge;Los Angeles;London;Cambridge
+32,2012,United Kingdom,London
+33,2012,United Kingdom,Hinxton
+34,2012,United States,New York
+35,2012,Italy;Italy,Turin;Turin
+36,2012,Finland,Helsinki
+37,2012,United States,Madison
+38,2012,Norway;Norway;Norway,Lorenskog;Oslo;Oslo
+39,2012,United States,Berkeley
+40,2012,United States,Seattle
+41,2012,United States,San Diego
+42,2012,,
+43,2012,Taiwan,Kaohsiung
+44,2012,Netherlands;Netherlands,The Hague;Maastricht
+45,2011,United States,Rochester
+46,2011,United Kingdom,London
+47,2011,United States,Stanford
+48,2011,United States,New York
+49,2011,,
+50,2011,United States,Cambridge
+51,2011,United Kingdom;United Kingdom,Cambridge;London
+52,2011,,
+53,2011,United States;United States,Boston;Cambridge
+54,2011,China,Beijing
+55,2011,United States,New York
+56,2011,Norway;Norway,Oslo;Oslo
+57,2011,United Kingdom,Edinburgh
+58,2011,United States;United States,San Francisco;Berkeley
+59,2011,United States,Huntsville
+60,2011,,
+61,2011,United States,Rochester
+62,2011,Norway;Norway,Oslo;Oslo
+63,2011,Finland,Helsinki
+64,2011,United States;United States;United States,Boston;Boston;Cambridge
+65,2011,United States,Houston
+66,2011,United Kingdom,London
+67,2011,Norway;Norway,Oslo;Oslo
+68,2011,United Kingdom,Hinxton
+69,2010,United States,New York
+70,2010,United States,Minneapolis
+71,2010,United States,Palo Alto
+72,2010,Germany;Germany,Greifswald;Rostock
+73,2010,United States;United States,New York;Cambridge
+74,2010,Finland,Helsinki
+75,2010,United States,Houston
+76,2010,United States,Menlo Park
+77,2010,United States,Seattle
+78,2010,Norway;Norway,Oslo;Oslo
+79,2010,United States,Santa Cruz
+80,2010,Canada,Vancouver
+81,2010,Canada;Canada,Toronto;Toronto
+82,2010,Germany,Berlin
+83,2010,United States;United States;United States;United States,Cambridge;Boston;Boston;Boston
+84,2010,United Kingdom,Cambridge
+85,2010,Spain,Barcelona
+86,2010,United States;Germany,New York;Freiburg im Breisgau
+87,2010,China,Beijing
+88,2010,France;France,Bordeaux;Paris
+89,2009,United Kingdom,Hinxton
+90,2009,South Korea,Seoul
+91,2009,United States,Los Angeles
+92,2009,China,Harbin
+93,2009,United States,New York
+94,2009,Norway,Oslo
+95,2009,United States,Princeton
+96,2009,Hong Kong,
+97,2009,United States,San Francisco
+98,2009,Australia;French Polynesia,Canberra;Papeete
+99,2009,United States,Princeton
+100,2009,United Kingdom;United Kingdom,London;Hinxton
+101,2009,United States,San Francisco
+102,2009,United States,Bethesda
+103,2009,United States,New York
+104,2009,Australia,Brisbane
+105,2009,United States;United States,Detroit;Bethesda
+106,2008,United States,Los Angeles
+107,2008,Australia;Australia,Adelaide;Adelaide
+108,2008,United States,Durham
+109,2008,Finland;Finland,Turku;Helsinki
+110,2008,Norway;Norway,Oslo;Oslo
+111,2008,United States,"Washington, D.C."
+112,2008,Norway;Norway,Oslo;As
+113,2008,Germany,Wurzburg
+114,2008,United Kingdom,London
+115,2007,United States;United States,Newark;Philadelphia
+116,2007,Canada;Canada,Ottawa;Ottawa
+117,2007,United States,Detroit
+118,2007,China;China,Harbin;Chengdu
+119,2007,Norway,Oslo
+120,2007,United States,Bethesda
+121,2007,United Kingdom,Cambridge
+122,2007,United States,New York
+123,2007,Norway,Oslo
+124,2007,United States;France,Santa Cruz;Paris
+125,2006,United States,San Francisco
+126,2006,China,Beijing
+127,2006,United States,San Diego
+128,2005,United States,Cambridge
+129,2005,Belgium,Brussels
+130,2005,United States;United States,Pittsburgh;Lexington
+131,2005,Canada;Canada,Toronto;Toronto
+132,2005,United States,Palo Alto
+133,2005,United States,New York
+134,2004,United States;United States,Pittsburgh;Pittsburgh
+135,2004,United States,Seattle
+136,2004,United States;United States,New York;Palo Alto
+137,2004,United Kingdom,Glasgow
+138,2004,United States,Bethesda
+139,2004,United States,Ann Arbor
+140,2004,Japan,Tokyo
+141,2004,United States,Ann Arbor
+142,2004,United States,Boston
+143,2003,United States,Stanford
+144,2003,United States,Cambridge
+145,2003,United States,Palo Alto
+146,2003,United States,Austin
+147,2003,United States,San Francisco
+148,2002,Netherlands,Amsterdam
+149,2002,United States,Cambridge
+150,2001,United States,Seattle
+151,2001,United States;Norway,Stanford;Oslo
+152,2000,United States,Stanford

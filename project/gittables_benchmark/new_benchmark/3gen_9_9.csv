@@ -1,0 +1,146 @@
+,year,country,city
+0,2015,China,Shanghai
+1,2015,China;United States,Harbin;Belmont
+2,2015,China,Harbin
+3,2015,China;United States,Harbin;Belmont
+4,2015,China;United States,Harbin;Belmont
+5,2014,China,Shanghai
+6,2014,Taiwan;Taiwan,Kaohsiung;Zhunan
+7,2014,China,Shanghai
+8,2014,China,Xiamen
+9,2014,China,Shanghai
+10,2014,South Korea;South Korea,Seoul;Seoul
+11,2014,United States,New York
+12,2013,China,Beijing
+13,2013,China,Shanghai
+14,2013,Israel,Rehovot
+15,2013,Canada;Canada;Canada,Toronto;Toronto;Toronto
+16,2013,Iran,Rafsanjan
+17,2013,China,Suzhou
+18,2013,Slovenia;Slovenia,Ljubljana;Ljubljana
+19,2013,Saudi Arabia,Riyadh
+20,2013,Saudi Arabia,Jeddah
+21,2013,Brazil,Sao Paulo
+22,2012,Switzerland,"Zurich ZH,"
+23,2012,Malaysia,Kuala Lumpur
+24,2012,China,Shanghai
+25,2012,Italy,Milan
+26,2012,Germany,Aachen
+27,2012,China,Xi'an
+28,2011,Germany,Borstel
+29,2011,South Korea,Iksan
+30,2011,United States,Charlottesville
+31,2011,Denmark,Copenhagen
+32,2010,United States,Chicago
+33,2010,Germany,Berlin
+34,2010,Spain;Spain,Moncada;Valencia
+35,2010,United States,Boston
+36,2010,China;China,Shanghai;Shanghai
+37,2010,Germany,Mannheim
+38,2010,United States,Santa Barbara
+39,2010,Taiwan,Wufong
+40,2010,Japan,Tokyo
+41,2010,Japan;Japan,Fukuoka;Fukuoka
+42,2009,China,Chongqing
+43,2009,United States;United States,Pittsburgh;
+44,2009,Germany,Heidelberg
+45,2009,United States,Frederick
+46,2009,Denmark;Germany,Copenhagen;Heidelberg
+47,2009,Tunisia,Tunis
+48,2009,China,Changsha
+49,2009,China;United States,Wuhan;Cleveland
+50,2009,United States,Boston
+51,2008,United States,San Antonio
+52,2008,Netherlands,Amsterdam
+53,2008,Austria,Graz
+54,2008,China;China;China,Beijing;Wenzhou;Wenzhou
+55,2008,Canada,Vancouver
+56,2007,United States,Pittsburgh
+57,2007,United Kingdom,Cardiff
+58,2007,United States,Providence
+59,2007,Saudi Arabia;Saudi Arabia,Riyadh;Jeddah
+60,2007,United States,Detroit
+61,2007,United States,Cleveland
+62,2006,Saudi Arabia,Riyadh
+63,2006,China,Harbin
+64,2006,Finland,Abo (Turku)
+65,2006,United States,Houston
+66,2006,Singapore,Singapore City
+67,2006,Japan,Hirakata
+68,2006,South Korea,Seoul
+69,2005,Poland;Poland,Warsaw;Warsaw
+70,2005,United States;United States,Los Angeles;Los Angeles
+71,2005,Turkey,Adana
+72,2005,United States;United States,Portland;Portland
+73,2005,Turkey,Malatya
+74,2005,South Korea,Ulsan
+75,2004,United States,Grand Rapids
+76,2004,,
+77,2004,United States;Germany;United States,Boston;Koln;Boston
+78,2004,United Kingdom,Norwich
+79,2004,United States,Boston
+80,2004,Germany;Germany,Aachen;Aachen
+81,2004,United States,Tampa
+82,2003,United States,Los Angeles
+83,2003,Italy,Florence
+84,2003,United States,Frederick
+85,2003,United States,Indianapolis
+86,2002,Spain,Barcelona
+87,2002,Japan,Hirakata
+88,2002,Poland,50-367 Wrocław
+89,2002,France,Paris
+90,2002,Germany,Leipzig
+91,2002,United States,Indianapolis
+92,2002,China,Beijing
+93,2002,Japan,Sapporo
+94,2002,United Kingdom,London
+95,2002,United States,Los Angeles
+96,2002,Japan,Moroyama
+97,2001,United States,New York
+98,2001,United States,Gainesville
+99,2001,Japan,Sapporo
+100,2001,United Kingdom,London
+101,2001,United Kingdom,Manchester
+102,2001,United States,Los Angeles
+103,2001,United States,Los Angeles
+104,2001,United States;Germany;United States,Boston;Aachen;Boston
+105,2000,United Kingdom,London
+106,2000,Spain,Barcelona
+107,2000,Japan,Sakura
+108,2000,United States,Bethesda
+109,2000,United States,Shreveport
+110,2000,Israel,Haifa
+111,2000,United States,Boston
+112,2000,Spain,Barcelona
+113,2000,United States,Baltimore
+114,1999,United Kingdom;United Kingdom,London;London
+115,1999,United States,Ann Arbor
+116,1999,Japan,Osaka
+117,1999,United States;United States;United States,New York;New York;New York
+118,1999,Poland,Lublin
+119,1999,United Kingdom;United Kingdom,London;London
+120,1997,France;France,Angers;Paris
+121,1997,Germany,Bochum
+122,1997,United States,Boston
+123,1996,United States,Cambridge
+124,1996,,
+125,1996,,
+126,1996,United Kingdom,London
+127,1996,United States;United States;United States,Boston;Boston;Boston
+128,1995,United States;United States,Ann Arbor;Ann Arbor
+129,1995,United States;United States,Boston;Boston
+130,1995,United Kingdom,London
+131,1995,United States,"Washington, D.C."
+132,1995,United States,Boston
+133,1995,Netherlands,Rotterdam
+134,1994,United States,Boston
+135,1994,Germany,Regensburg
+136,1994,Germany,Regensburg
+137,1994,United Kingdom;United Kingdom,Manchester;Manchester
+138,1994,United States,San Diego
+139,1993,Germany,Bonn
+140,1992,Germany,Wurzburg
+141,1990,United States,Charlottesville
+142,1990,United States,Philadelphia
+143,1990,United States,Bethesda
+144,1983,Switzerland;United States,Zurich;Gainesville

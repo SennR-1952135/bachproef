@@ -1,0 +1,501 @@
+,rank,company,state
+0,1,Michelin Group,South Carolina
+1,2,Trader Joe's,California
+2,3,Google,California
+3,4,Principal Financial Group,Iowa
+4,5,Costco Wholesale,Washington
+5,6,Penn Medicine,Pennsylvania
+6,7,NRG Energy,New Jersey
+7,8,Wegmans Food Markets,New York
+8,9,Harvard University,Massachusetts
+9,10,Navy Federal Credit Union,Virginia
+10,11,United Services Automobile Association,Texas
+11,12,Jack Henry & Associates,Missouri
+12,13,Southwest Airlines,Texas
+13,14,Mayo Clinic,Minnesota
+14,15,Stanford University,California
+15,16,Lululemon Athletica,
+16,17,Southern Company,Georgia
+17,18,Duke University,North Carolina
+18,19,SAP,Pennsylvania
+19,20,Mastercard,New York
+20,21,VMware,California
+21,22,Genentech,California
+22,23,World Bank Group,District of Columbia
+23,24,HDR,Nebraska
+24,25,Microsoft,Washington
+25,26,REI,Washington
+26,27,MD Anderson Cancer Center,Texas
+27,28,Michigan State University,Michigan
+28,29,Howard County Public Schools,Maryland
+29,30,John Hancock Financial,Massachusetts
+30,31,Facebook,California
+31,32,Salesforce.com,California
+32,33,JetBlue Airways,New York
+33,34,Boscov's,Pennsylvania
+34,35,University of Utah Health Care,Utah
+35,36,VSP Global,California
+36,37,Garmin,Kansas
+37,38,Publix Super Markets,Florida
+38,39,Emory University,Georgia
+39,40,University of North Texas,Texas
+40,41,Ingersoll Rand,North Carolina
+41,42,Sheetz,Pennsylvania
+42,43,Consumers Energy,Michigan
+43,44,Amgen,California
+44,45,Montgomery County Public Schools,Maryland
+45,46,OSF HealthCare,Illinois
+46,47,New Hanover Regional Medical Center,North Carolina
+47,48,University of Iowa Hospitals & Clinics,Iowa
+48,49,UCSF Medical Center,California
+49,50,Memorial Sloan Kettering Cancer Center,New York
+50,51,General Mills,Minnesota
+51,52,SC Johnson,Wisconsin
+52,53,H-E-B Grocery Stores,Texas
+53,54,Apple,California
+54,55,University of Miami,Florida
+55,56,Keller Williams Realty,Texas
+56,57,Lilly,Indiana
+57,58,Raymond James Financial,Florida
+58,59,Johnson & Johnson,New Jersey
+59,60,Energy Transfer,Texas
+60,61,New York-Presbyterian Hospital,New York
+61,62,Cornell University,New York
+62,63,LUSH Fresh Handmade Cosmetics,
+63,64,HonorHealth,Arizona
+64,65,Old Republic International,Illinois
+65,66,University of Virginia,Virginia
+66,67,University of South Carolina,South Carolina
+67,68,Kwik Trip/Kwik Star,Wisconsin
+68,69,Jet Propulsion Laboratory,California
+69,70,ComEd,Illinois
+70,71,Roche Holding,California
+71,72,Penske Logistics,Pennsylvania
+72,73,Siemens,District of Columbia
+73,74,Intuit,California
+74,75,Dentsply Sirona,Pennsylvania
+75,76,MGM Resorts,Nevada
+76,77,Procter & Gamble,Ohio
+77,78,AbbVie,Illinois
+78,79,Dominion Energy,Virginia
+79,80,Tesla,California
+80,81,LinkedIn,California
+81,82,Schneider Electric,Massachusetts
+82,83,New York City Fire Department,New York
+83,84,Neiman Marcus Group,Texas
+84,85,Legacy Health,Oregon
+85,86,Fort Bend ISD,Texas
+86,87,Daimler,Georgia
+87,88,Freeport-McMoRan,Arizona
+88,89,Northern Trust,Illinois
+89,90,Scheels All Sports,North Dakota
+90,91,University of Maryland Medical Center,Maryland
+91,92,Black & Veatch,Kansas
+92,93,Parkview Health,Indiana
+93,94,Choctaw Casinos & Resorts,Oklahoma
+94,95,Norton Healthcare,Kentucky
+95,96,Kimberly-Clark,Texas
+96,97,Cisco Systems,California
+97,98,Boston Scientific,Massachusetts
+98,99,Fidelity Investments,Massachusetts
+99,100,U.S. Agency for International Development,District of Columbia
+100,101,In-N-Out Burger,California
+101,102,NextEra Energy,Florida
+102,103,Scholastic,New York
+103,104,Sephora,California
+104,105,NiSource,Indiana
+105,106,Duke Energy,North Carolina
+106,107,Total,Texas
+107,108,NASA,District of Columbia
+108,109,Stryker,Michigan
+109,110,Old Chicago Pizza and Taproom,Colorado
+110,111,Qualcomm,California
+111,112,Volvo Group,New Jersey
+112,113,Nationwide Children's Hospital,Ohio
+113,114,Northrop Grumman,Virginia
+114,115,"University of Nebraska, Lincoln",Nebraska
+115,116,ESS,New Jersey
+116,117,Bloomberg,New York
+117,118,Corning,New York
+118,119,Eddie Bauer,Washington
+119,120,Edward Jones,Missouri
+120,121,Smithsonian Institution,District of Columbia
+121,122,Texas Health Resources,Texas
+122,123,Emerson Electric,Missouri
+123,124,Philips Healthcare,Massachusetts
+124,125,3M,Minnesota
+125,126,Wawa,Pennsylvania
+126,127,Williams,Oklahoma
+127,128,Omnicom Group,New York
+128,129,Boeing,Illinois
+129,130,Washington University in Saint Louis,Missouri
+130,131,Cincinnati Children's,Ohio
+131,132,Cummins,Indiana
+132,133,County of Los Angeles,California
+133,134,ArcelorMittal,Illinois
+134,135,"University of Minnesota, Twin Cities",Minnesota
+135,136,PPL,Pennsylvania
+136,137,CDW,Illinois
+137,138,Hilton,Virginia
+138,139,Alaska Airlines,Washington
+139,140,Walt Disney,California
+140,141,MUSC Health,South Carolina
+141,142,Vanguard,Pennsylvania
+142,143,Land O'Lakes,Minnesota
+143,144,Northside Independent School District,Texas
+144,145,Oregon Health & Science University,Oregon
+145,146,UC Davis Health System,California
+146,147,Four Seasons Hotels and Resorts,
+147,148,CarMax,Virginia
+148,149,WL Gore & Associates,Delaware
+149,150,Icahn School of Medicine at Mount Sinai,New York
+150,151,Hallmark Cards,Missouri
+151,152,"SUNY, Stony Brook (Stony Brook University)",New York
+152,153,loanDepot.com,California
+153,154,Nike,Oregon
+154,155,Delta Air Lines,Georgia
+155,156,Rockwell Automation,Wisconsin
+156,157,Bayer,New Jersey
+157,158,Raytheon,Massachusetts
+158,159,Expedia,Washington
+159,160,Turner Industries Group,Louisiana
+160,161,Turner Corp,New York
+161,162,Whole Foods Market,Texas
+162,163,University of Michigan Health System,Michigan
+163,164,Vanderbilt University,Tennessee
+164,165,QuikTrip,Oklahoma
+165,166,Iowa State University,Iowa
+166,167,Ford Motor,Michigan
+167,168,Northwestern Medicine,Illinois
+168,169,Adobe Systems,California
+169,170,AstraZeneca,Delaware
+170,171,North East Independent School District,Texas
+171,172,The Children's Hospital of Philadelphia,Pennsylvania
+172,173,Saputo Cheese,Illinois
+173,174,Intel,California
+174,175,Plano Independent School District,Texas
+175,176,Con Edison,New York
+176,177,Sentara Healthcare,Virginia
+177,178,Gwinnett County Public Schools (GCPS),Georgia
+178,179,Starbucks,Washington
+179,180,Jabil Circuit,Florida
+180,181,Tampa General Hospital,Florida
+181,182,Olin,Missouri
+182,183,Navient,Delaware
+183,184,Burns & McDonnell Engineering,Missouri
+184,185,Orange County,California
+185,186,Hyatt Hotels,Illinois
+186,187,Reyes Holdings,Illinois
+187,188,Abbott Laboratories,Illinois
+188,189,Salt River Project,Arizona
+189,190,Smith & Nephew,Tennessee
+190,191,Analog Devices,Massachusetts
+191,192,Juniper Networks,California
+192,193,Marathon Petroleum,Ohio
+193,194,Unilever,New Jersey
+194,195,Activision Blizzard,California
+195,196,BNSF Railway,Texas
+196,197,American Electric Power,Ohio
+197,198,Texas Instruments,Texas
+198,199,Gartner,Connecticut
+199,200,ICON,Pennsylvania
+200,201,Takeda Pharmaceutical,Illinois
+201,202,E. & J. Gallo Winery,California
+202,203,State of Idaho,Idaho
+203,204,Skanska,New York
+204,205,Clayton Homes,Tennessee
+205,206,General Motors,Michigan
+206,207,Toyota USA,Texas
+207,208,Levy,Illinois
+208,209,It Works,Georgia
+209,210,Discover Financial Services,Illinois
+210,211,ALDI,Illinois
+211,212,American Family Insurance,Wisconsin
+212,213,Blue Cross & Blue Shield of Michigan,Michigan
+213,214,Tuesday Morning,Texas
+214,215,Charles Schwab,California
+215,216,Marriott International,Maryland
+216,217,NetApp,California
+217,218,Sysco,Texas
+218,219,Honda Motor,California
+219,220,Anthem,Indiana
+220,221,SAIC,Virginia
+221,222,Medtronic,Minnesota
+222,223,Kimpton Hotels & Restaurants,California
+223,224,KIA Motors,California
+224,225,Northwestern Mutual,Wisconsin
+225,226,City and County of San Francisco,California
+226,227,Chevron,California
+227,228,Mars,Virginia
+228,229,Los Angeles Department of Water and Power (LADWP),California
+229,230,State of Tennessee,Tennessee
+230,231,Daymon,Connecticut
+231,232,Eastman Chemical,Tennessee
+232,233,Warner Bros. Entertainment,California
+233,234,Norfolk Southern,Virginia
+234,235,People's United Bank,Connecticut
+235,236,Columbia Sportswear,Oregon
+236,237,DowDuPont,Michigan
+237,238,Texas Roadhouse,Kentucky
+238,239,Hawaiian Airlines,Hawaii
+239,240,Synchrony Financial,Connecticut
+240,241,Gulfstream Aerospace,Georgia
+241,242,TIAA,New York
+242,243,Palm Beach County,Florida
+243,244,TNG,Georgia
+244,245,WinCo Foods,Idaho
+245,246,JLL,Illinois
+246,247,Sherwin-Williams,Ohio
+247,248,Set and Service Resources,North Carolina
+248,249,Tenneco,Illinois
+249,250,Deloitte,New York
+250,251,DTE Energy,Michigan
+251,252,General Dynamics,Virginia
+252,253,IDEXX Laboratories,Maine
+253,254,General Electric,Massachusetts
+254,255,PSEG (Public Service Enterprise Group),New York
+255,256,Rich's Products,New York
+256,257,NVIDIA,California
+257,258,Visa,California
+258,259,Prudential Financial,New Jersey
+259,260,IKEA,Pennsylvania
+260,261,J. Crew Group,New York
+261,262,TDS (Telephone and Data Systems),Illinois
+262,263,USI Insurance,New York
+263,264,PRA Health Sciences,North Carolina
+264,265,VF,North Carolina
+265,266,Arvest Bank,Arkansas
+266,267,Barnes & Noble,New York
+267,268,County of San Diego,California
+268,269,Air Products & Chemicals,Pennsylvania
+269,270,Under Armour,Maryland
+270,271,Xcel Energy,Minnesota
+271,272,CSL,Pennsylvania
+272,273,General Services Administration,District of Columbia
+273,274,Coca-Cola,Georgia
+274,275,Hy-Vee,Iowa
+275,276,NBCUniversal Media,New York
+276,277,MITRE Corporation,Massachusetts
+277,278,Nestle,California
+278,279,Amtrak,District of Columbia
+279,280,United Technologies,Connecticut
+280,281,U.S. Department of Energy,District of Columbia
+281,282,Hot Topic,California
+282,283,Cerner,Missouri
+283,284,Fresno County,California
+284,285,Kiewit Corporation,Nebraska
+285,286,Dell,Massachusetts
+286,287,H&M,New York
+287,288,Lincoln Financial,Pennsylvania
+288,289,Federal Reserve System,District of Columbia
+289,290,Stater Bros,California
+290,291,Mitsubishi,California
+291,292,Averitt Express,Tennessee
+292,293,Crete Carrier,Nebraska
+293,294,Davey Tree Expert,Ohio
+294,295,City of Philadelphia,Pennsylvania
+295,296,Altria Group,Virginia
+296,297,Southwire,Georgia
+297,298,BAE Systems,Washington
+298,299,Aerotek,Maryland
+299,300,JM Smucker,Ohio
+300,301,Century 21 Real Estate,New Jersey
+301,302,Praxair,Connecticut
+302,303,Cargill,Minnesota
+303,304,Parsons,California
+304,305,Parker-Hannifin,Ohio
+305,306,Independence Blue Cross,Pennsylvania
+306,307,Government Employee's Insurance Company,Maryland
+307,308,Royal Caribbean Cruises,Florida
+308,309,Builders FirstSource,Texas
+309,310,Eaton,Ohio
+310,311,CACI International,Virginia
+311,312,Baxter International,Illinois
+312,313,ZF Group,Michigan
+313,314,Paychex,New York
+314,315,State of Michigan,Michigan
+315,316,ConocoPhillips,Texas
+316,317,Epic,Wisconsin
+317,318,State of Minnesota,Minnesota
+318,319,FedEx,Tennessee
+319,320,Aerojet Rocketdyne,California
+320,321,Phillips 66,Delaware
+321,322,Novartis,New Jersey
+322,323,Marsh & McLennan,New York
+323,324,Amazon.com,Washington
+324,325,Lionbridge Technologies,Massachusetts
+325,326,Cognizant,New Jersey
+326,327,Leidos,Virginia
+327,328,Teledyne Technologies,California
+328,329,East Penn Manufacturing,Pennsylvania
+329,330,Ace Hardware,Illinois
+330,331,Suddenlink,Missouri
+331,332,Continental,South Carolina
+332,333,PricewaterhouseCoopers,New York
+333,334,Merck,New Jersey
+334,335,Nationwide Mutual Insurance,Ohio
+335,336,Samsung Electronics,New Jersey
+336,337,State of Utah,Utah
+337,338,FIS,Florida
+338,339,Bristol-Myers Squibb,New York
+339,340,Big Y World Class Market,Massachusetts
+340,341,Turner Broadcasting System,Georgia
+341,342,Adidas,Oregon
+342,343,LVMH Moet Hennessy Louis Vuitton,
+343,344,State Farm,Illinois
+344,345,The Wonderful Company,California
+345,346,BMW Group,New Jersey
+346,347,Progressive,Ohio
+347,348,Sony,New York
+348,349,Pfizer,New York
+349,350,Owens Corning,Ohio
+350,351,Humana,Kentucky
+351,352,IBM,New York
+352,353,Agilent Technologies,California
+353,354,PPD,North Carolina
+354,355,Professional Educational Services Group,Michigan
+355,356,Graybar Electric,Missouri
+356,357,County of Sacramento,California
+357,358,PayPal,California
+358,359,Gordon Food Service,Michigan
+359,360,Cushman & Wakefield,Illinois
+360,361,Jason's Deli,Texas
+361,362,Hunter Douglas,New York
+362,363,Los Angeles County Sheriff's Department,California
+363,364,First American,California
+364,365,Wynn Resorts,Nevada
+365,366,Archer Daniels Midland,Illinois
+366,367,Ferguson Enterprises,Virginia
+367,368,"NVR (Ryan Homes, NVHomes, FoxRidge Homes, Heartland Homes)",Virginia
+368,369,SCANA,South Carolina
+369,370,The Hartford,Connecticut
+370,371,Salt Lake County,Utah
+371,372,Ryder System,Florida
+372,373,Globalfoundries,California
+373,374,Carnival,Florida
+374,375,Flowserve,Texas
+375,376,R+L Carriers,Florida
+376,377,Sikorsky,Connecticut
+377,378,State of Indiana,Indiana
+378,379,Allianz,Illinois
+379,380,Shoe Carnival,Indiana
+380,381,BorgWarner,Michigan
+381,382,Union Pacific,Nebraska
+382,383,Capital One Financial,Virginia
+383,384,Nissan Motor,Tennessee
+384,385,CBS,New York
+385,386,JPMorgan Chase,New York
+386,387,CenterPoint Energy,Texas
+387,388,ARRIS,Georgia
+388,389,Raley's,California
+389,390,Iron Mountain,Massachusetts
+390,391,Intercontinental Hotels Group,Utah
+391,392,Battelle Memorial Institute,Ohio
+392,393,The Est�e Lauder Companies,New York
+393,394,Fiat Chrysler Automobiles,Michigan
+394,395,Whirlpool,Michigan
+395,396,Anheuser-Busch InBev,Missouri
+396,397,Wolters Kluwer,
+397,398,Bashas',Arizona
+398,399,McCormick,Maryland
+399,400,Fred Meyer,Oregon
+400,401,Symantec,California
+401,402,CSRA,Virginia
+402,403,Pella,Iowa
+403,404,MassMutual,Massachusetts
+404,405,Mohawk Industries,Georgia
+405,406,PAE,Virginia
+406,407,Deere & Company,Illinois
+407,408,National Grid USA,Massachusetts
+408,409,Department of Commerce,District of Columbia
+409,410,Voya Financial,New York
+410,411,NTT Data,Texas
+411,412,PepsiCo,New York
+412,413,Pima County,Arizona
+413,414,United Rentals,Connecticut
+414,415,Anthropologie,Pennsylvania
+415,416,BRAVO BRIO Restaurant Group,Ohio
+416,417,United Parcel Service,Georgia
+417,418,Travelers,New York
+418,419,Nucor,North Carolina
+419,420,Microchip Technology,Arizona
+420,421,FirstEnergy,Ohio
+421,422,Faurecia,Michigan
+422,423,KPMG,New York
+423,424,The Cheesecake Factory,California
+424,425,Bemis,Wisconsin
+425,426,Topgolf,Texas
+426,427,Chuy's,Texas
+427,428,LensCrafters,Ohio
+428,429,Micron Technology,Idaho
+429,430,TSYS,Georgia
+430,431,Change Healthcare,Tennessee
+431,432,Chick-fil-A,Georgia
+432,433,Ernst & Young,New York
+433,434,Snyder's-Lance,North Carolina
+434,435,PG&E (Pacific Gas and Electric),California
+435,436,Berkshire Hathaway Energy,Iowa
+436,437,Kelly Services,Michigan
+437,438,Gildan,
+438,439,Bosch,
+439,440,Shaw Industries,Georgia
+440,441,TJX Companies,Massachusetts
+441,442,Mary Kay,Texas
+442,443,Henkel,Connecticut
+443,444,Stantec,
+444,445,GlaxoSmithKline,Pennsylvania
+445,446,Masco,Michigan
+446,447,Colliers International,Washington
+447,448,Thermo Fisher Scientific,Massachusetts
+448,449,Booz Allen Hamilton,Virginia
+449,450,McLane Company,Texas
+450,451,Novo Nordisk,New Jersey
+451,452,DSW Designer Shoe Warehouse,Ohio
+452,453,Polaris Industries,Minnesota
+453,454,Medline Industries,Illinois
+454,455,Subaru-Indiana Automotive,Indiana
+455,456,Ball,Colorado
+456,457,Las Vegas Sands,Nevada
+457,458,American Axle & Manufacturing,Michigan
+458,459,New Jersey Transit,New Jersey
+459,460,Henry Schein,New York
+460,461,Cintas,Ohio
+461,462,Automatic Data Processing,New Jersey
+462,463,Regal Entertainment Group,Tennessee
+463,464,Ascena Retail Group,New Jersey
+464,465,BlueCross & BlueShield of South Carolina,South Carolina
+465,466,Philips,Massachusetts
+466,467,Academy Sports + Outdoors,Texas
+467,468,Steelcase,Michigan
+468,469,US Foods,Illinois
+469,470,Match Marketing Group,Connecticut
+470,471,Illinois Tool Works,Illinois
+471,472,Spirit Aero Systems,Kansas
+472,473,RSM US,Illinois
+473,474,Entergy,Louisiana
+474,475,Estes Express Line,Virginia
+475,476,Bombardier,
+476,477,PSAV,Illinois
+477,478,Spirit Halloween,New Jersey
+478,479,Mattel,California
+479,480,Hershey Entertainment and Resorts,Pennsylvania
+480,481,SeaWorld Parks & Entertainment,Florida
+481,482,Red Robin Gourmet Burgers,Colorado
+482,483,Amway,Michigan
+483,484,Dairy Farmers of America,Kansas
+484,485,Dr Pepper Snapple Group,Texas
+485,486,Kraft Heinz Company,Illinois
+486,487,Southeastern Freight Lines,South Carolina
+487,488,Liberty Mutual Insurance,Massachusetts
+488,489,J.B. Hunt Transport Services,Arkansas
+489,490,American Greetings,Ohio
+490,491,BlueCross & BlueShield of Tennessee,Tennessee
+491,492,The Coffee Bean & Tea Leaf,California
+492,493,Vail Resorts,Colorado
+493,494,Kuehne + Nagel,
+494,495,Textron,Rhode Island
+495,496,Five Guys Burgers and Fries,Virginia
+496,497,Carlson,Minnesota
+497,498,Puma,Massachusetts
+498,499,Cooper Tire & Rubber,Ohio
+499,500,Quest Diagnostics,New Jersey

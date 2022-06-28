@@ -1,0 +1,101 @@
+,company,industry,symbol
+0,Paccar Inc.,Auto & Truck (Repl Prts),PCAR
+1,Lamar Advertis,Business Svc (Advertising),LAMR
+2,Cintas Corp.,Business Svc (Misc),CTAS
+3,Fiserv Inc.,Business Svc (Misc),FISV
+4,Paychex Inc.,Business Svc (Misc),PAYX
+5,Apollo Grp A,Business Svc (Schools),APOL
+6,Career Educatn,Business Svc (Schools),CECO
+7,Sigma Aldrich,Chemical (Specialty),SIAL
+8,Autodesk Inc.,Computer (Graphics),ADSK
+9,Synopsys Inc.,Computer (Graphics),SNPS
+10,Sun MicroSys,Computer (Makers),SUNW
+11,Apple Comptr,Computer (Makers),AAPL
+12,Dell Computer,Computer (Makers),DELL
+13,Network Aplnce,Computer (Memory Devices),NTAP
+14,Juniper Netwks,Computer (Networks),JNPR
+15,Cisco Systems,Computer (Networks),CSCO
+16,Qlogic Corp.,Computer (Networks),QLGC
+17,Cognizant Tech,Computer (Services),CTSH
+18,Level 3 Comm,Diversified Companies,LVLT
+19,Genzyme Genrl,Drug (Biomedical\Genetic),GENZ
+20,Gilead Science,Drug (Biomedical\Genetic),GILD
+21,Invitrogn Corp,Drug (Biomedical\Genetic),IVGN
+22,Medimmune Inc,Drug (Biomedical\Genetic),MEDI
+23,Millenium Phrm,Drug (Biomedical\Genetic),MLNM
+24,Sepracor Inc.,Drug (Biomedical\Genetic),SEPR
+25,Chiron Corp,Drug (Biomedical\Genetic),CHIR
+26,Biogn Idec Inc,Drug (Biomedical\Genetic),BIIB
+27,Celgene Corp.,Drug (Biomedical\Genetic),CELG
+28,Amgen Inc.,Drug (Biomedical\Genetic),AMGN
+29,Teva Pharm ADR,Drug (Generic),TEVA
+30,Molex Inc.,Electrical (Connectors),MOLX
+31,Amer PowerCC,Electrical (Equipment),APCC
+32,Flextronics,Electronic (Misc Products),FLEX
+33,Sanmina-SCI,Electronic (Misc Products),SANM
+34,Lam Research,Electronic (Semicndtr Eqp),LRCX
+35,Novellus Sys,Electronic (Semicndtr Eqp),NVLS
+36,Applied Mat.,Electronic (Semicndtr Eqp),AMAT
+37,K L A-Tencor,Electronic (Semicndtr Eqp),KLAC
+38,Intersil CorpA,Electronic (Semicndtr Mfg),ISIL
+39,Sandisk Corp.,Electronic (Semicndtr Mfg),SNDK
+40,Microchp Tech,Electronic (Semicndtr Mfg),MCHP
+41,Maxim IntdPds,Electronic (Semicndtr Mfg),MXIM
+42,Broadcom Corp.,Electronic (Semicndtr Mfg),BRCM
+43,Marvell Tech,Electronic (Semicndtr Mfg),MRVL
+44,Altera Corp.,Electronic (Semicndtr Mfg),ALTR
+45,A T I Tech,Electronic (Semicndtr Mfg),ATYT
+46,Linear Tech,Electronic (Semicndtr Mfg),LLTC
+47,Intel,Electronic (Semicndtr Mfg),INTC
+48,Xilinx Inc,Electronic (Semicndtr Mfg),XLNX
+49,Starbucks,Food (Restaurant),SBUX
+50,Exprss Scrpts,Healthcare (Med\Den Suply},ESRX
+51,Dentsply Int'l,Healthcare (Med\Den Suply},XRAY
+52,Patterson Dent,Healthcare (Med\Den Suply},PDCO
+53,Lincare Hldgs,Healthcare (Outpnt\HmCare),LNCR
+54,Biomet,Healthcare (Products),BMET
+55,eBay Inc.,Internet (E:Commerce),EBAY
+56,IAC Interactve,Internet (E:Commerce),IACI
+57,Amazon Comm,Internet (E:Commerce),AMZN
+58,B E A Systems,Internet (Software),BEAS
+59,Yahoo! Inc.,Internet (Svc Provider),YHOO
+60,Wynn Resorts,Leisure (Gaming),WYNN
+61,Pixar Inc.,Media (Movies),PIXR
+62,X M Satellite,Media (Radio\TV),XMSR
+63,Sirius SatRad,Media (Radio\TV),SIRI
+64,EchoStar Comm,Media (Television),DISH
+65,Liberty Global,Media (Television),LBTYA
+66,Comcast A,Media (Television),CMCSA
+67,Staples Inc,Office (Supplies),SPLS
+68,Smurfit-Stone,Paper,SSCC
+69,Ross Stores,Retail (Apparel),ROST
+70,Fastenal Co,Retail (Building Products),FAST
+71,C D W Corp,Retail (Computers),CDWC
+72,Dollar TreeStr,Retail (Discount\Variety),DLTR
+73,BedBath&Bynd,Retail (Home Furnishings),BBBY
+74,Sears Holdings,Retail (Major Chains),SHLD
+75,Costco Cos,Retail (Major Chains),COST
+76,Petsmart Inc.,Retail (Misc\Diversified),PETM
+77,Whole FoodMkt,Retail (Supermarkets),WFMI
+78,Siebel Systems,Software (Business),SEBL
+79,Oracle Systms,Software (Business),ORCL
+80,Citrix Systems,Software (Business),CTXS
+81,Mercury Inter,Software (Business),MERQE
+82,Adobe Systems,Software (Desktop),ADBE
+83,Microsoft,Software (Desktop),MSFT
+84,Electrn Arts,Software (Educ\Entr),ERTS
+85,Intuit Inc,Software (Financial),INTU
+86,Verisign Inc.,Software (Security),VRSN
+87,CheckPoint Sft,Software (Security),CHKP
+88,Symantec Corp,Software (Security),SYMC
+89,ResearchInMtn,Telecomm (Cellular),RIMM
+90,Comverse Tech,Telecomm (Equipment),CMVT
+91,Ericsson TlADR,Telecomm (Equipment),ERICY
+92,Tellabs Inc.,Telecomm (Equipment),TLAB
+93,Garmin Ltd,Telecomm (Equipment),GRMN
+94,Qualcomm Inc.,Telecomm (Equipment),QCOM
+95,J D S Uniphse,Telecomm (FiberOptics),JDSU
+96,N T L Inc,Telecomm (Services),NTLI
+97,MCI Inc,Telecomm (Services),MCIP
+98,Expedtrs Int'l,Transportation (Services),EXPD
+99,C H RobinsonWW,Transportation (Services),CHRW

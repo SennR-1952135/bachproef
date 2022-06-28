@@ -1,0 +1,158 @@
+,name,class,location
+0,Almonds,Nuts,Zero-waste
+1,Almond Butter,Pantry,Carrefour
+2,Bacon,Processed Meat,Carrefour
+3,Banana Leaves,Others,Asian Shop
+4,Basil,Herbs,Carrefour
+5,Black Beans,Canned Food,Carrefour
+6,Bone Broth,Pantry,Carrefour
+7,Brazil Nuts,Nuts,Zero-waste
+8,Butter,Others,Carrefour
+9,Butterbeans,Canned Food,Carrefour
+10,Carrots,Vegetables (Pantry),Market
+11,Cheese (Cheddar),Cheese,Carrefour
+12,Cheese (Emmental),Cheese,Carrefour
+13,Cheese (Goat),Cheese,Carrefour
+14,Cheese (Mascarpone),Cheese,Carrefour
+15,Cheese (Mozarella),Cheese,Carrefour
+16,Chickpeas,Canned Food,Carrefour
+17,"Chilli (Red, Dried)",Pantry,Asian Shop
+18,Chorizo,Processed Meat,Carrefour
+19,Coconut (Grated),Others,Carrefour
+20,Coconut Cream,Pantry,Carrefour
+21,Coriander,Herbs,Market
+22,Corn (Canned),Canned Food,Carrefour
+23,Diced Ham,Processed Meat,Carrefour
+24,Dried Apricots,Dried Food,Online
+25,Dried Cranberries,Dried Food,Online
+26,Eggs,Eggs,Carrefour
+27,Feta Cheese,Cheese,Carrefour
+28,Flour,Others,Carrefour
+29,Frozen Peas,Frozen Food,Carrefour
+30,Garlic,Vegetables (Pantry),Market
+31,Gelangal,Vegetables (Pantry),Market
+32,Ginger,Vegetables (Pantry),Market
+33,Halloumi,Cheese,Carrefour
+34,Lardon,Processed Meat,Carrefour
+35,Lemongrass,Herbs,Market
+36,Lentils (Green),Grains,Carrefour
+37,Lentils (Red),Grains,Market
+38,Macaroni,Pasta,Carrefour
+39,Mackerel (Canned),Canned Food,Carrefour
+40,Maple Syrup,Pantry,Carrefour
+41,Milk,Others,Carrefour
+42,Mint,Herbs,Market
+43,Mustard,Pantry,Carrefour
+44,Noodles (Buckwheat),Pantry,Carrefour
+45,Noodles (Yellow),Pantry,Asian Shop
+46,"Olives (Black, Pitted)",Canned Food,Carrefour
+47,Onion (Red),Vegetables (Pantry),Market
+48,Onion (White),Vegetables (Pantry),Market
+49,Onion (Yellow),Vegetables (Pantry),Market
+50,Parmesan,Cheese,Carrefour
+51,Parsley,Herbs,Market
+52,Pasta (Fusilli),Pasta,Carrefour
+53,Pasta (Spaghetti),Pasta,Carrefour
+54,Potatoes,Vegetables (Pantry),Market
+55,Pumpkin Seeds,Nuts,Zero-waste
+56,Puy Lentils,Grains,Zero-waste
+57,Quinoa,Grains,Zero-waste
+58,Raisins,Dried Food,Zero-waste
+59,Sesame Oil,Others,Carrefour
+60,Sesame Seeds,Nuts,Zero-waste
+61,Shallots,Vegetables (Pantry),Market
+62,Sweet Potatoes,Vegetables (Pantry),Market
+63,Tahini,Pantry,Carrefour
+64,"Tomato (Diced, Tin)",Canned Food,Carrefour
+65,Tomato Puree,Pantry,Carrefour
+66,Tomato Sauce,Pantry,Carrefour
+67,Tomatoes (Sun Dried),Dried Food,Carrefour
+68,"Tomatoes (Whole, Tin)",Canned Food,Carrefour
+69,Tuna (Canned),Canned Food,Carrefour
+70,Vinegar (Apple Cider),Pantry,Carrefour
+71,Walnuts,Nuts,Zero-waste
+72,Yogurt,Others,Carrefour
+73,Noodles (Vermicelli),Pantry,Asian Shop
+74,Nuoc Nam Sauce,Pantry,Asian Shop
+75,Galettes,Others,Market
+76,Ham,Processed Meat,Carrefour
+77,Smoked Fish,Canned Food,Carrefour
+78,Dill (Fresh),Herbs,Carrefour
+79,Lemon Pickle,Canned Food,Carrefour
+80,Pancetta,Processed Meat,Carrefour
+81,Thyme (Fresh),Herbs,Carrefour
+82,Vegetable Stock,Pantry,Carrefour
+83,Cannellini Beans (Can),Canned Food,Carrefour
+84,Pine Nuts,Nuts,Zero-waste
+85,Oregano (Fresh),Herbs,Carrefour
+86,Cashew Nuts,Nuts,Zero-waste
+87,Hazelnuts,Nuts,Zero-waste
+88,Beef (Cut),Meat,Market
+89,Beef (Minced),Meat,Market
+90,Beef (Sirloin Steak),Meat,Market
+91,Lamb,Meat,Carrefour
+92,Pork (Chop),Meat,Carrefour
+93,Pork (Minced),Meat,Carrefour
+94,Pork (Shoulder),Meat,Carrefour
+95,Chicken (Fillet),Meat,Carrefour
+96,Chicken (Minced),Meat,Carrefour
+97,Chicken (Whole),Meat,Carrefour
+98,Chicken (Breast),Meat,Carrefour
+99,Chicken (Leg),Meat,Carrefour
+100,Chicken (Thigh),Meat,Carrefour
+101,Fish (Cod steak),Seafood,Carrefour
+102,Fish (Red Snapper),Seafood,Carrefour
+103,Salmon,Seafood,Carrefour
+104,Prawns (Raw),Seafood,Carrefour
+105,Meatballs,Processed Meat,Online
+106,Sausage,Processed Meat,Carrefour
+107,Sausage (Spicy),Processed Meat,Carrefour
+108,Asparagus,Vegetables,Market
+109,Broccoli,Vegetables,Market
+110,Cauliflowers,Vegetables,Market
+111,Pumpkin (Butternut),Vegetables,Market
+112,Capsicum (Green),Vegetables,Market
+113,Capsicum (Red),Vegetables,Market
+114,Capsicum (Yellow),Vegetables,Market
+115,Celery,Vegetables,Market
+116,Leeks,Vegetables,Carrefour
+117,Chili,Vegetables,Market
+118,Chili (Green),Vegetables,Market
+119,Chili (Red),Vegetables,Market
+120,Brinjal,Vegetables,Market
+121,Zuchinni,Vegetables,Market
+122,Beetroots,Vegetables,Market
+123,Green Beans,Vegetables,Market
+124,Cabbage,Vegetables,Market
+125,Cabbage (Red),Vegetables,Market
+126,Salad Leaves,Vegetables,Market
+127,Spinach (Baby),Vegetables,Market
+128,Spinach,Vegetables,Market
+129,Choy Sum,Vegetables,Asian Shop
+130,Spring Onion / Chives,Herbs,Market
+131,Lettuce,Vegetables,Market
+132,Tomatoes,Vegetables,Market
+133,Cherry Tomatoes,Vegetables,Market
+134,Radishes,Vegetables,Market
+135,Turnip,Vegetables,Market
+136,Fennel,Vegetables,Carrefour
+137,Cucumber,Vegetables,Market
+138,Sugar Snap Peas,Vegetables,Market
+139,Beansprouts,Vegetables,Asian Shop
+140,Mushrooms (Small),Vegetables,Carrefour
+141,Apple,Vegetables,Market
+142,Apple (Green),Vegetables,Market
+143,Lemon,Vegetables,Market
+144,Lemon Juice,Vegetables,Market
+145,Lemon (Green),Vegetables,Market
+146,Lime,Vegetables,Market
+147,Lime Leaf,Vegetables,Market
+148,Oranges,Vegetables,Market
+149,Peaches,Vegetables,Market
+150,Avocados,Vegetables,Market
+151,Rocket,Vegetables,Carrefour
+152,Mushrooms (Porcini),Vegetables,Carrefour
+153,Almond Milk,Others,Carrefour
+154,Vinegar (Balsamic),Pantry,Carrefour
+155,Capers,Canned Food,Carrefour
+156,Rosemary,Herbs,Market

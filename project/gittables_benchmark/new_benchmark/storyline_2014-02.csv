@@ -1,0 +1,260 @@
+,type,name,duration
+0,place,Home,42437
+1,move,walking,799
+2,place,Proximate,6039
+3,move,walking,762
+4,place,Dickson Bros. True Value,4458
+5,move,walking,1027
+6,place,Home,30878
+7,place,Home,47379
+8,move,walking,1188
+9,place,Floyd's 99 Barbershop,2872
+10,move,walking,970
+11,place,Broadway Marketplace,1040
+12,move,walking,280
+13,place,Home,10417
+14,move,walking,1443
+15,place,Place in Coolidge Hill,11246
+16,move,walking,1538
+17,place,Home,8027
+18,place,Home,86400
+19,place,Home,31063
+20,move,walking,464
+21,place,Proximate,10293
+22,move,walking,604
+23,place,Border Cafe,7235
+24,move,walking,655
+25,place,Proximate,16615
+26,move,walking,1089
+27,place,Home,18382
+28,place,Home,36032
+29,move,walking,646
+30,place,Proximate,8559
+31,move,walking,790
+32,place,Proximate,22538
+33,move,walking,523
+34,place,Home,17312
+35,place,Home,29695
+36,move,walking,235
+37,place,Place in Old Cambridge,245
+38,move,walking,672
+39,place,Mitchell Dong,6432
+40,move,walking,981
+41,place,Grendel's Den Restaurant & Bar,4500
+42,move,walking,1064
+43,place,Proximate,9390
+44,move,walking,1079
+45,place,Home,13204
+46,place,Home,4126
+47,place,Home,33566
+48,move,walking,692
+49,place,Proximate,1879
+50,move,walking,920
+51,place,Legal Sea Foods - Charles Square,4972
+52,move,walking,1036
+53,place,Harvard Innovation Lab,13281
+54,move,transport,1078
+55,move,walking,153
+56,place,Proximate,683
+57,move,walking,709
+58,place,Park,6190
+59,move,walking,1127
+60,place,Home,20113
+61,place,Home,36272
+62,move,walking,713
+63,place,Dickson Bros. True Value,5409
+64,move,walking,129
+65,place,Starbucks,1405
+66,move,walking,630
+67,place,Broadway Marketplace,562
+68,move,walking,230
+69,place,Home,795
+70,move,walking,373
+71,place,Science Center Plaza,224
+72,move,walking,458
+73,place,Boston Tea Stop,3010
+74,move,walking,937
+75,place,Home,35254
+76,place,Home,49528
+77,move,transport,796
+78,move,walking,213
+79,place,The Home Depot,3131
+80,move,transport,795
+81,place,Home,17691
+82,place,Home,10559
+83,place,Home,55676
+84,move,transport,1411
+85,move,walking,120
+86,place,T3 Innovation Studio,5053
+87,move,transport,2132
+88,place,Home,22008
+89,place,Home,32082
+90,move,walking,392
+91,place,Place in Old Cambridge,525
+92,move,walking,281
+93,place,Proximate,32197
+94,move,walking,576
+95,place,Home,20348
+96,place,Home,33021
+97,move,walking,845
+98,move,transport,914
+99,place,Amtrak South Station,1518
+100,move,transport,3172
+101,move,transport,2510
+102,move,transport,3013
+103,move,walking,310
+104,place,Place in East End,349
+105,move,transport,1371
+106,place,2440 39th Street NW,7054
+107,place,2440 39th Street NW,14279
+108,move,walking,603
+109,place,Whole Foods Market,3379
+110,move,walking,783
+111,place,2440 39th Street NW,36844
+112,place,2440 39th Street NW,86400
+113,place,2440 39th Street NW,41234
+114,move,walking,471
+115,place,Surfside,546
+116,move,walking,180
+117,place,Place in Glover Park,11571
+118,move,walking,484
+119,place,Whole Foods Market,4433
+120,move,walking,544
+121,place,2440 39th Street NW,26616
+122,place,2440 39th Street NW,47782
+123,move,walking,1787
+124,place,Place in Cloisters,206
+125,move,walking,284
+126,place,Apple Store,1090
+127,move,walking,243
+128,place,CB2,3297
+129,move,walking,521
+130,place,TJ Maxx & HomeGoods,7550
+131,move,walking,339
+132,place,H&M,2114
+133,move,transport,405
+134,place,Safeway,2244
+135,move,transport,301
+136,place,2440 39th Street NW,18173
+137,place,2440 39th Street NW,43415
+138,move,walking,450
+139,place,Chipotle Mexican Grill,997
+140,move,walking,500
+141,place,2440 39th Street NW,41038
+142,place,2440 39th Street NW,31291
+143,move,transport,1588
+144,move,walking,274
+145,place,Place in East End,140
+146,move,walking,306
+147,move,transport,28413
+148,place,Place in Neponset River Reservation,257
+149,move,transport,1052
+150,move,walking,390
+151,move,transport,813
+152,move,walking,620
+153,place,Home,21257
+154,place,Home,32906
+155,move,walking,1242
+156,place,Mitchell Dong,14986
+157,move,walking,640
+158,place,Border Cafe,4868
+159,move,walking,574
+160,place,Eliot House,9013
+161,move,walking,583
+162,place,Cafe Gato Rojo,5191
+163,move,walking,564
+164,place,Home,15832
+165,place,Home,36718
+166,move,walking,884
+167,place,Mitchell Dong,10266
+168,move,walking,896
+169,place,Caspersen Student Center,1331
+170,move,walking,249
+171,place,Proximate,9099
+172,move,walking,496
+173,place,Queens Head Pub,5567
+174,move,walking,384
+175,place,Home,20510
+176,place,Home,31434
+177,move,walking,1045
+178,place,Harvard Alumni Association,2645
+179,move,walking,1441
+180,place,Proximate,9258
+181,move,walking,621
+182,place,Border Cafe,5170
+183,move,walking,735
+184,place,Proximate,4016
+185,move,walking,543
+186,place,Home,4911
+187,place,Home,3791
+188,place,Home,41001
+189,move,walking,734
+190,place,Harvest,4881
+191,move,walking,303
+192,place,Experiment Fund,19388
+193,move,walking,218
+194,place,Orinoco,6928
+195,move,walking,322
+196,place,Legal Sea Foods - Charles Square,6141
+197,move,walking,962
+198,place,Home,5524
+199,place,Home,41003
+200,move,walking,644
+201,place,Proximate,17675
+202,move,walking,757
+203,place,Home,26321
+204,place,Home,27897
+205,move,walking,1098
+206,place,Mitchell Dong,5082
+207,move,walking,511
+208,place,Caspersen Student Center,1048
+209,move,walking,217
+210,place,Proximate,5715
+211,move,walking,585
+212,place,Border Cafe,4106
+213,move,walking,637
+214,place,Proximate,7587
+215,move,walking,641
+216,place,Starbucks,141
+217,move,walking,250
+218,place,Harvard Alumni Association,4249
+219,move,walking,497
+220,place,Place in Old Cambridge,407
+221,move,walking,612
+222,place,Broadway Marketplace,504
+223,move,walking,284
+224,place,Home,24332
+225,place,Home,35879
+226,move,walking,249
+227,place,Place in Old Cambridge,171
+228,move,walking,671
+229,place,Proximate,5461
+230,move,walking,250
+231,place,Caspersen Student Center,2740
+232,move,walking,192
+233,place,Proximate,197
+234,move,walking,778
+235,place,Home,39812
+236,place,Home,86400
+237,place,Home,26529
+238,move,walking,945
+239,move,transport,1171
+240,move,walking,158
+241,place,Amtrak South Station,1855
+242,move,transport,28694
+243,move,walking,393
+244,place,Union Station | Gate K,746
+245,move,transport,600
+246,move,walking,341
+247,place,NTN24,21248
+248,move,transport,964
+249,place,2440 39th St NW,2758
+250,place,2440 39th St NW,59050
+251,move,walking,481
+252,place,Surfside,249
+253,move,walking,130
+254,move,transport,1189
+255,move,walking,209
+256,place,NTN24,17650
+257,move,transport,1495
+258,place,2440 39th St NW,4670

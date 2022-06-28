@@ -1,0 +1,124 @@
+,component,class,status
+0,GISAID sequence accession number,MICRO,ACTIVE
+1,Influenza virus A & Influenza virus B & SARS coronavirus+SARS coronavirus 2 Ag panel,PANEL.MICRO,ACTIVE
+2,Influenza virus A & Influenza virus B & SARS coronavirus 2 & Respiratory syncytial virus RNA panel,PANEL.MICRO,ACTIVE
+3,Influenza virus A & Influenza virus B & SARS coronavirus 2 & SARS-related coronavirus RNA panel,PANEL.MICRO,ACTIVE
+4,Influenza virus A & Influenza virus B & SARS coronavirus 2 identified,MICRO,ACTIVE
+5,Influenza virus A & Influenza virus B & SARS coronavirus 2 RNA panel,PANEL.MICRO,ACTIVE
+6,SARS coronavirus 2 clade,MICRO,ACTIVE
+7,SARS coronavirus 2 whole genome sequencing & identification panel,PANEL.MICRO,ACTIVE
+8,SARS coronavirus 2 stimulated gamma interferon,MICRO,ACTIVE
+9,SARS coronavirus 2 stimulated gamma interferon panel,PANEL.MICRO,ACTIVE
+10,SARS coronavirus 2 stimulated gamma interferon release by T-cells^^corrected for background,MICRO,ACTIVE
+11,SARS coronavirus 2 stimulated gamma interferon release by T-cells,MICRO,ACTIVE
+12,SARS coronavirus+SARS coronavirus 2 Ag,MICRO,ACTIVE
+13,SARS coronavirus 2,MICRO,ACTIVE
+14,SARS coronavirus 2 Ab,MICRO,ACTIVE
+15,SARS coronavirus 2 Ab,MICRO,ACTIVE
+16,SARS coronavirus 2 Ab,MICRO,ACTIVE
+17,SARS coronavirus 2 Ab,MICRO,ACTIVE
+18,SARS coronavirus 2 Ab panel,PANEL.MICRO,ACTIVE
+19,SARS coronavirus 2 Ab panel,PANEL.MICRO,ACTIVE
+20,SARS coronavirus 2 Ab panel,PANEL.MICRO,ACTIVE
+21,SARS coronavirus 2 Ag,MICRO,ACTIVE
+22,SARS coronavirus 2 Ag,MICRO,ACTIVE
+23,SARS coronavirus 2 & SARS-related coronavirus RNA panel,PANEL.MICRO,ACTIVE
+24,SARS coronavirus 2 E gene,MICRO,ACTIVE
+25,SARS coronavirus 2 E gene,MICRO,ACTIVE
+26,SARS coronavirus 2 Ab.IgA,MICRO,ACTIVE
+27,SARS coronavirus 2 Ab.IgA,MICRO,ACTIVE
+28,SARS coronavirus 2 Ab.IgA,MICRO,ACTIVE
+29,SARS coronavirus 2 Ab.IgA,MICRO,ACTIVE
+30,SARS coronavirus 2 Ab.IgA+IgM,MICRO,ACTIVE
+31,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+32,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+33,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+34,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+35,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+36,SARS coronavirus 2 Ab.IgG,MICRO,ACTIVE
+37,SARS coronavirus 2 Ab.IgG+IgM,MICRO,ACTIVE
+38,SARS coronavirus 2 Ab.IgG+IgM,MICRO,ACTIVE
+39,SARS coronavirus 2 Ab.IgM,MICRO,ACTIVE
+40,SARS coronavirus 2 Ab.IgM,MICRO,ACTIVE
+41,SARS coronavirus 2 Ab.IgM,MICRO,ACTIVE
+42,SARS coronavirus 2 Ab.IgM,MICRO,ACTIVE
+43,SARS coronavirus 2 Ab.IgM,MICRO,ACTIVE
+44,SARS coronavirus 2 lineage,MICRO,ACTIVE
+45,SARS coronavirus 2 N gene,MICRO,ACTIVE
+46,SARS coronavirus 2 N gene,MICRO,ACTIVE
+47,SARS coronavirus 2 N gene,MICRO,ACTIVE
+48,SARS coronavirus 2 N gene,MICRO,ACTIVE
+49,SARS coronavirus 2 N gene,MICRO,ACTIVE
+50,SARS coronavirus 2 N gene,MICRO,ACTIVE
+51,SARS coronavirus 2 N gene,MICRO,ACTIVE
+52,SARS coronavirus 2 N gene,MICRO,ACTIVE
+53,SARS coronavirus 2 N gene,MICRO,ACTIVE
+54,SARS coronavirus 2 N gene,MICRO,ACTIVE
+55,SARS coronavirus 2 N gene,MICRO,ACTIVE
+56,SARS coronavirus 2 N gene,MICRO,ACTIVE
+57,SARS coronavirus 2 N gene,MICRO,ACTIVE
+58,SARS coronavirus 2 N gene,MICRO,ACTIVE
+59,SARS coronavirus 2 N gene,MICRO,ACTIVE
+60,SARS coronavirus 2 N gene,MICRO,ACTIVE
+61,SARS coronavirus 2 N gene,MICRO,ACTIVE
+62,SARS coronavirus 2 Ab.neut,MICRO,ACTIVE
+63,SARS coronavirus 2 Ab.neut,MICRO,ACTIVE
+64,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+65,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+66,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+67,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+68,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+69,SARS coronavirus 2 ORF1ab region,MICRO,ACTIVE
+70,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+71,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+72,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+73,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+74,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+75,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+76,SARS coronavirus 2 RdRp gene,MICRO,ACTIVE
+77,SARS coronavirus 2 RNA,MICRO,ACTIVE
+78,SARS coronavirus 2 RNA,MICRO,ACTIVE
+79,SARS coronavirus 2 RNA,MICRO,ACTIVE
+80,SARS coronavirus 2 RNA,MICRO,ACTIVE
+81,SARS coronavirus 2 RNA,MICRO,ACTIVE
+82,SARS coronavirus 2 RNA,MICRO,ACTIVE
+83,SARS coronavirus 2 RNA,MICRO,ACTIVE
+84,SARS coronavirus 2 RNA,MICRO,ACTIVE
+85,SARS coronavirus 2 RNA,MICRO,ACTIVE
+86,SARS coronavirus 2 RNA,MICRO,ACTIVE
+87,SARS coronavirus 2 RNA,MICRO,ACTIVE
+88,SARS coronavirus 2 RNA,MICRO,ACTIVE
+89,SARS coronavirus 2 RNA,MICRO,ACTIVE
+90,SARS coronavirus 2 RNA,MICRO,ACTIVE
+91,SARS coronavirus 2 RNA,MICRO,ACTIVE
+92,SARS coronavirus 2 RNA panel,PANEL.MICRO,ACTIVE
+93,SARS coronavirus 2 RNA panel,PANEL.MICRO,ACTIVE
+94,SARS coronavirus 2 RNA panel,PANEL.MICRO,ACTIVE
+95,SARS coronavirus 2 RNA panel,PANEL.MICRO,ACTIVE
+96,SARS coronavirus 2 S gene,MICRO,ACTIVE
+97,SARS coronavirus 2 S gene,MICRO,ACTIVE
+98,SARS coronavirus 2 S gene,MICRO,ACTIVE
+99,SARS coronavirus 2 S gene,MICRO,ACTIVE
+100,SARS coronavirus 2 S gene,MICRO,ACTIVE
+101,SARS coronavirus 2 S gene,MICRO,ACTIVE
+102,SARS coronavirus 2 S gene,MICRO,ACTIVE
+103,SARS coronavirus 2 S gene,MICRO,ACTIVE
+104,SARS coronavirus 2 S gene mutation,MICRO,ACTIVE
+105,SARS coronavirus 2 S gene mutation detected,MICRO,ACTIVE
+106,SARS coronavirus 2 spike protein RBD Ab.neut,MICRO,ACTIVE
+107,SARS coronavirus 2 specific TCRB gene rearrangements,MICRO,ACTIVE
+108,SARS coronavirus 2 variant,MICRO,ACTIVE
+109,SARS coronavirus 2 variant interpretation,MICRO,ACTIVE
+110,SARS coronavirus 2 whole genome,MICRO,ACTIVE
+111,SARS-like coronavirus N gene,MICRO,ACTIVE
+112,SARS-like coronavirus N gene,MICRO,ACTIVE
+113,SARS-related coronavirus E gene,MICRO,ACTIVE
+114,SARS-related coronavirus E gene,MICRO,ACTIVE
+115,SARS-related coronavirus E gene,MICRO,ACTIVE
+116,SARS-related coronavirus E gene,MICRO,ACTIVE
+117,SARS-related coronavirus E gene,MICRO,ACTIVE
+118,SARS-related coronavirus E gene,MICRO,ACTIVE
+119,SARS-related coronavirus E gene,MICRO,ACTIVE
+120,SARS-related coronavirus RNA,MICRO,ACTIVE
+121,SARS-related coronavirus RNA,MICRO,ACTIVE
+122,SARS-related coronavirus+MERS coronavirus RNA,MICRO,ACTIVE

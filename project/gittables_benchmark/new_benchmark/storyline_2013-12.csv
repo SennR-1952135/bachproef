@@ -1,0 +1,341 @@
+,type,name,duration
+0,place,945 S Batavia Ave,1991
+1,move,walking,650
+2,place,Wildwood,3996
+3,move,walking,727
+4,place,945 S Batavia Ave,679
+5,move,transport,500
+6,place,Walmart,2655
+7,move,walking,121
+8,move,transport,387
+9,place,945 S Batavia Ave,6203
+10,move,transport,116
+11,place,Metra - Geneva Station,662
+12,move,transport,4681
+13,move,walking,668
+14,place,Chicago Union Station,214
+15,move,walking,1007
+16,place,Ogilvie Transportation Center,553
+17,move,transport,1599
+18,move,transport,2534
+19,move,walking,150
+20,move,running,212
+21,place,945 S Batavia Ave,13968
+22,place,945 S Batavia Ave,86400
+23,place,945 S Batavia Ave,46563
+24,move,walking,556
+25,place,945 S Batavia Ave,1271
+26,move,transport,130
+27,place,All Chocolate Kitchen,1975
+28,move,transport,129
+29,place,945 S Batavia Ave,20316
+30,move,transport,528
+31,place,945 S Batavia Ave,14932
+32,place,945 S Batavia Ave,42493
+33,move,transport,3010
+34,place,Place in O'Hare International Airport,536
+35,move,walking,156
+36,place,Chicago O'Hare International Airport (ORD),5805
+37,move,transport,6385
+38,place,Boston Logan International Airport (BOS),1589
+39,move,walking,488
+40,move,transport,1954
+41,move,walking,129
+42,place,Broadway Marketplace,260
+43,move,walking,435
+44,place,Home,23160
+45,place,Home,31863
+46,move,walking,766
+47,place,Proximate,2053
+48,move,walking,834
+49,place,Harvard Alumni Association,3230
+50,move,walking,347
+51,place,Border Cafe,2793
+52,move,walking,550
+53,place,Proximate,12315
+54,move,walking,1237
+55,place,Spangler Center,1776
+56,move,walking,847
+57,place,Experiment Fund,11609
+58,place,Finale Desserterie & Bakery,1431
+59,move,walking,665
+60,place,Home,14085
+61,place,Home,30261
+62,move,walking,1361
+63,place,Darwin's Ltd.,2872
+64,move,walking,254
+65,move,transport,1689
+66,place,IDG Enterprise,4376
+67,move,walking,319
+68,move,transport,2012
+69,move,walking,403
+70,place,Home,18667
+71,move,walking,548
+72,move,transport,395
+73,move,walking,150
+74,place,Place in East Cambridge,390
+75,move,walking,695
+76,place,Za Restaurant,2447
+77,move,walking,232
+78,move,transport,483
+79,move,walking,511
+80,place,Home,18338
+81,place,Home,34058
+82,move,walking,822
+83,place,Experiment Fund,6303
+84,move,walking,877
+85,place,Home,6977
+86,move,walking,1083
+87,place,Floyd's 99 Barbershop,2376
+88,move,walking,1368
+89,place,Home,32535
+90,place,Home,37621
+91,move,walking,581
+92,place,Place in Cambridge,3067
+93,move,walking,1243
+94,place,Home,1085
+95,move,walking,532
+96,place,Home,42272
+97,place,Home,25035
+98,move,walking,636
+99,move,transport,721
+100,move,walking,391
+101,place,Microsoft New England Research & Development Center,6479
+102,move,walking,483
+103,move,transport,630
+104,move,walking,429
+105,place,Harvard Alumni Association,3654
+106,move,walking,1003
+107,place,Home,40
+108,move,walking,287
+109,place,Experiment Fund,4707
+110,move,walking,888
+111,place,Harvard Innovation Lab,6436
+112,move,transport,211
+113,move,walking,211
+114,place,Experiment Fund,178
+115,move,walking,662
+116,place,Home,6734
+117,move,transport,1049
+118,place,Back Bay Social Club,7635
+119,move,transport,616
+120,move,walking,491
+121,place,Home,2306
+122,place,Home,68175
+123,move,walking,347
+124,place,Broadway Marketplace,803
+125,move,walking,446
+126,place,Home,10852
+127,place,Border Cafe,5234
+128,move,walking,527
+129,place,Proximate,1098
+130,move,walking,681
+131,place,Home,1332
+132,move,transport,1061
+133,move,walking,967
+134,place,Shaw's,1769
+135,move,transport,1272
+136,move,walking,273
+137,place,Proximate,9202
+138,move,walking,591
+139,place,Home,9097
+140,place,Home,4655
+141,place,Home,31246
+142,move,walking,863
+143,place,Finale Desserterie & Bakery,3764
+144,move,walking,911
+145,place,Proximate,3091
+146,move,walking,526
+147,place,Finale Desserterie & Bakery,5223
+148,move,walking,792
+149,place,Proximate,16470
+150,move,walking,878
+151,place,Legal Sea Foods - Charles Square,7347
+152,move,walking,969
+153,place,Home,14321
+154,place,Home,28677
+155,move,transport,663
+156,place,Voltage Coffee & Art,7702
+157,move,walking,330
+158,move,transport,722
+159,move,walking,428
+160,place,Proximate,376
+161,move,walking,636
+162,place,Home,5048
+163,move,transport,3893
+164,place,Charlton Service Plaza (Westbound),1724
+165,move,transport,18927
+166,move,walking,150
+167,place,Place in Cranbury Township,1089
+168,move,transport,11194
+169,place,Place in Cathedral Heights,209
+170,move,walking,151
+171,move,transport,286
+172,place,2440 39th Street NW,4196
+173,place,2440 39th Street NW,35411
+174,place,2440 39th St NW,6016
+175,move,transport,1263
+176,place,National Museum of Natural History,710
+177,place,National Museum of Natural History,2847
+178,move,walking,417
+179,place,Place in Chinatown,2885
+180,move,walking,909
+181,place,Nando's Peri-Peri,6074
+182,move,walking,368
+183,move,transport,480
+184,move,running,150
+185,move,transport,559
+186,place,2440 39th Street NW,25199
+187,place,2440 39th Street NW,48344
+188,move,walking,1069
+189,place,Whole Foods Market,1190
+190,move,walking,553
+191,place,2440 39th Street NW,35243
+192,place,2440 39th Street NW,65167
+193,move,transport,2181
+194,place,5000 River Hill Road,10471
+195,move,transport,1765
+196,place,2440 39th Street NW,2358
+197,place,"WMATA Bus Stop #1001805 (31, 32, 36)",869
+198,move,transport,1500
+199,move,walking,1144
+200,place,Nando's Peri-Peri,6246
+201,move,walking,903
+202,move,transport,1605
+203,move,walking,452
+204,place,2440 39th Street NW,10844
+205,place,2440 39th Street NW,66385
+206,move,walking,693
+207,place,Whole Foods Market,1104
+208,move,walking,655
+209,place,2440 39th Street NW,17563
+210,place,2440 39th Street NW,50545
+211,move,transport,1884
+212,place,Place in East End,546
+213,move,walking,572
+214,place,Union Center Plaza,820
+215,move,transport,6113
+216,place,Place in Berkeley County,505
+217,move,transport,10785
+218,place,Place in Rockwood Station,821
+219,move,transport,3960
+220,place,Place in North Manor,134
+221,move,transport,5939
+222,place,Place in Uptown,941
+223,move,transport,2836
+224,move,transport,5228
+225,place,Place in Macedonia,815
+226,move,transport,1794
+227,place,Place in Cleveland,480
+228,move,transport,15073
+229,place,Place in Elkhart,419
+230,move,transport,9723
+231,move,walking,209
+232,place,Chicago Union Station,879
+233,move,transport,4082
+234,move,walking,129
+235,place,999 S Batavia Ave,3814
+236,move,transport,528
+237,place,945 S Batavia Ave,4447
+238,move,transport,515
+239,place,Goody's,2165
+240,move,transport,594
+241,place,945 S Batavia Ave,1221
+242,move,transport,533
+243,place,945 S Batavia Ave,33753
+244,place,945 S Batavia Ave,48495
+245,move,transport,93
+246,place,Wildwood,2690
+247,place,Place in Geneva,608
+248,move,transport,975
+249,place,Geneva Public Library District,415
+250,move,transport,602
+251,move,walking,333
+252,place,Walmart,2517
+253,move,transport,676
+254,place,945 S Batavia Ave,18045
+255,place,945 S Batavia Ave,8041
+256,place,945 S Batavia Ave,49324
+257,move,transport,697
+258,place,Portillo's Hot Dogs,2008
+259,move,transport,751
+260,place,945 S Batavia Ave,2114
+261,move,transport,482
+262,place,Sam's Club,2601
+263,move,walking,152
+264,move,transport,691
+265,move,walking,156
+266,place,945 S Batavia Ave,27423
+267,place,945 S Batavia Ave,47086
+268,move,transport,454
+269,place,Marshalls,1113
+270,move,transport,770
+271,place,Walmart,3495
+272,move,transport,282
+273,place,945 S Batavia Ave,33200
+274,place,945 S Batavia Ave,86400
+275,place,945 S Batavia Ave,29253
+276,move,transport,315
+277,place,Metra - Geneva Station,314
+278,move,transport,4532
+279,move,walking,120
+280,move,transport,330
+281,move,walking,935
+282,place,"Minsky, McCormick, and Hallagan P.C.",3341
+283,move,walking,631
+284,place,The Berghoff Restaurant,3528
+285,move,walking,510
+286,place,Walgreens,656
+287,move,walking,889
+288,move,transport,4650
+289,move,walking,585
+290,place,945 S Batavia Ave,35814
+291,place,945 S Batavia Ave,49012
+292,move,transport,198
+293,place,Nosh,2640
+294,move,transport,253
+295,place,CVS/pharmacy,1161
+296,move,transport,326
+297,place,945 S Batavia Ave,3626
+298,move,transport,417
+299,place,Place in Batavia,596
+300,move,transport,3982
+301,move,walking,151
+302,place,Chicago O'Hare International Airport (ORD),4959
+303,move,walking,284
+304,move,transport,3088
+305,place,Aliano's Ristorante,8705
+306,move,transport,354
+307,move,walking,133
+308,place,945 S Batavia Ave,332
+309,place,945 S Batavia Ave,3913
+310,place,945 S Batavia Ave,86400
+311,place,945 S Batavia Ave,44979
+312,move,transport,141
+313,place,Wildwood,4796
+314,move,transport,189
+315,place,999 S Batavia Ave,36296
+316,place,999 S Batavia Ave,42796
+317,move,walking,133
+318,move,transport,350
+319,place,Egg Harbor Cafe,5465
+320,move,transport,154
+321,place,999 S Batavia Ave,37503
+322,place,999 S Batavia Ave,39409
+323,move,transport,1834
+324,place,Next Generation Development,5428
+325,move,transport,1179
+326,place,Chipotle Mexican Grill,1584
+327,move,transport,365
+328,move,walking,156
+329,place,Lacoste Outlet,1076
+330,move,walking,447
+331,place,Coach Mens Factory,2165
+332,move,walking,211
+333,move,transport,1485
+334,place,Aldi,1798
+335,move,transport,349
+336,place,945 S Batavia Ave,6821
+337,move,transport,978
+338,place,McKanna Home,13599
+339,place,945 S Batavia Ave,2997

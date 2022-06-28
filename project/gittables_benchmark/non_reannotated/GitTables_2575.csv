@@ -1,0 +1,13 @@
+,name,type
+0,Cash,6
+1,Cheque,1
+2,Credit card,2
+3,EFT,6
+4,B-Pay,6
+5,Zero,5
+6,Other,6
+7,Contra,7
+8,Voucher,8
+9,PayPal,6
+10,Reverse,10
+11,EFTPOS,6

@@ -1,0 +1,146 @@
+,year,country,city
+0,2013,Germany,Munich
+1,2013,Italy,Milan
+2,2013,United States,Worcester
+3,2013,South Korea,Seoul
+4,2013,United States,Chicago
+5,2013,United States;United States,Stanford;Palo Alto
+6,2013,United Kingdom,Cambridge
+7,2013,Germany,Munich
+8,2013,Japan;Japan;Japan,Tokyo;Wako;Kyoto
+9,2013,United States,New York
+10,2013,France;France,Strasbourg;Paris
+11,2013,United States,Chicago
+12,2013,United States,North Chicago
+13,2013,United States,Rochester
+14,2012,United States,Riverside
+15,2012,United States;United States,Stanford;Palo Alto
+16,2012,Italy,Camerino
+17,2012,United States,Chicago
+18,2012,Germany,Munich
+19,2012,Germany;Italy,Gottingen;Camerino
+20,2012,Thailand;Denmark,Bangkok;Odense
+21,2012,United States;United States,Birmingham;Birmingham
+22,2012,United States,New York
+23,2012,United States,St. Louis
+24,2012,Switzerland,Zurich
+25,2012,United States,Watertown
+26,2012,France;France;France;France,Strasbourg;Illkirch-Graffenstaden;Paris;Paris
+27,2012,United States,New Haven
+28,2012,United Kingdom,Leeds
+29,2012,Sweden,Uppsala
+30,2011,China,Tianjin
+31,2011,France;France;France;France,Strasbourg;Illkirch-Graffenstaden;Paris;Paris
+32,2011,Switzerland,"Zurich ZH,"
+33,2011,Canada,Ottawa
+34,2011,Switzerland,Zurich
+35,2011,Canada;Canada,Hamilton;Hamilton
+36,2011,United States,Chicago
+37,2011,United States,Chicago
+38,2011,Australia,Brisbane
+39,2011,Germany,Munich
+40,2011,Germany,Greifswald
+41,2011,Estonia,Tartu
+42,2011,Germany,Gottingen
+43,2011,Israel,Rehovot
+44,2011,Switzerland,"Zurich ZH,"
+45,2011,Germany;Germany,Munich;Munich
+46,2011,United States,Chicago
+47,2011,United States,Watertown
+48,2011,United States,New London
+49,2010,Germany;Germany,Berlin;Marburg
+50,2010,United Kingdom,Cambridge
+51,2010,United States,San Diego
+52,2010,United States,New Haven
+53,2010,United States,Berkeley
+54,2010,United States,Boston
+55,2010,Israel,Haifa
+56,2010,Canada,Vancouver
+57,2010,United States,Madison
+58,2010,United States;United States,Bethesda;New Haven
+59,2010,Israel,Rehovot
+60,2010,United States,Boston
+61,2010,United States;United States,New York;Ithaca
+62,2010,United States,Baltimore
+63,2010,United States,Fullerton
+64,2009,Germany,Munich
+65,2009,United States,New Haven
+66,2009,Germany,Munich
+67,2009,,
+68,2009,United States,Boston
+69,2009,United States,Chicago
+70,2009,Germany,Witten
+71,2009,Estonia,Tartu
+72,2009,Denmark,Odense
+73,2009,United States,Chicago
+74,2009,United States;United States,San Diego;San Diego
+75,2008,Spain,Derio
+76,2008,India,Lucknow
+77,2008,United States,New York
+78,2008,United States,Portland
+79,2008,Germany,Munich
+80,2008,United States;United States,San Francisco;Berkeley
+81,2008,United States,New Haven
+82,2008,United States,Urbana
+83,2008,United States,Chicago
+84,2008,Germany;Germany,Berlin;Frankfurt am Main
+85,2007,United States,Berkeley
+86,2007,United States,Berkeley
+87,2007,United States,Santa Cruz
+88,2007,United States,New York
+89,2007,United States,New Haven
+90,2007,Israel,Rehovot
+91,2007,United States,New York
+92,2007,Japan,Tsukuba
+93,2006,United States,Johnson
+94,2006,Germany,Berlin
+95,2006,United Kingdom,Cambridge
+96,2006,United Kingdom,Birmingham
+97,2006,Denmark,Copenhagen
+98,2006,United States;United States,Raritan;Pearl River
+99,2006,United States,New Haven
+100,2006,Italy;Italy,Camerino;Gerenzano
+101,2006,United Kingdom,Leeds
+102,2005,Germany,Berlin
+103,2005,Germany;United States,Berlin;Berkeley
+104,2005,Denmark,Odense
+105,2005,,
+106,2005,Canada,Hamilton
+107,2005,United Kingdom,Cambridge
+108,2005,United States;United States,Palo Alto;New Haven
+109,2005,United States,Seattle
+110,2004,Germany,Berlin
+111,2004,Germany,Hamburg
+112,2003,Canada;Germany,Edmonton;Berlin
+113,2003,Estonia,Tartu
+114,2003,,
+115,2003,Italy;Germany,Rome;Hamburg
+116,2003,Germany,Witten
+117,2003,United States,Santa Cruz
+118,2003,United States,Boston
+119,2002,United States,New Haven
+120,2002,United States,Santa Cruz
+121,2002,,
+122,2001,Germany,Hamburg
+123,2001,United Kingdom,Cambridge
+124,2001,Germany;Germany,Berlin;Berlin
+125,2001,United States,Chicago
+126,2001,,
+127,2001,United States;United States,New London;Seattle
+128,2000,United Kingdom,Cambridge
+129,2000,United Kingdom,Cambridge
+130,1997,Estonia;United States,Tartu;Chicago
+131,1997,United Kingdom,Brentford
+132,1996,United States,Santa Cruz
+133,1996,Belgium,Louvain-la-Neuve
+134,1995,Canada,Halifax
+135,1991,Russian Federation,Moscow
+136,1989,United Kingdom,Leicester
+137,1989,United States,Santa Cruz
+138,1987,United Kingdom,Leicester
+139,1985,Italy,Milan
+140,1982,United States,Stony Brook
+141,1982,United States,Stony Brook
+142,1978,Japan,Tokyo
+143,1978,Spain;Spain,Madrid;Madrid
+144,1977,Spain,Madrid

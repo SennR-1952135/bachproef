@@ -1,0 +1,201 @@
+,name,address,type
+0,Franklin Historical Museum,80 W Central St,Museum
+1,The Little Red Shop Museum,Hopedale,Museum
+2,Blackstone Historical Museum,Blackstone,Local history museum
+3,Diamond Hill Rd,Woonsocket,Museum
+4,Memorial Hall,Milford,Museum
+5,Museum of Work & Culture,Woonsocket,Museum
+6,The Museum of Broadcast Technology,Woonsocket,Museum
+7,Veteran's Memorial Museum RI,Woonsocket,Museum
+8,The Estates,Franklin,Museum
+9,Crystal Cottage,Franklin,Museum
+10,Franklin Sculpture Park,Franklin,Park
+11,Highland St Water Tower,Milford,Museum
+12,Rose Ferron Foundation of Rhode Island,Woonsocket,Museum
+13,Attleboro Arts Museum,Attleboro,Museum
+14,Attleboro Area Industrial Museum,Attleboro,Museum
+15,The Patriots Hall of Fame,Foxborough,Museum
+16,"Museum of Fine Arts, Boston",Boston,Art museum
+17,EcoTarium,Worcester,Museum
+18,Danforth Art School,Framingham,Art museum
+19,Fuller Craft Museum,Brockton,Art museum
+20,Larz Anderson Auto Museum,Brookline,Museum
+21,Museum of Russian Icons,Clinton,Museum
+22,Children's Museum In Easton,North Easton,Children's museum
+23,Worcester Historical Museum,Worcester,Historical place museum
+24,Old Sturbridge Village,Sturbridge,History museum
+25,MIT Museum,Cambridge,Science museum
+26,USS Constitution Museum,Charlestown,History museum
+27,Discovery Museum,Acton,Museum
+28,Falls Fire Barn Museum,North Attleborough,Museum
+29,Metropolitan Waterworks Museum,Chestnut Hill,Museum
+30,Fitchburg Art Museum,Fitchburg,Art museum
+31,Old State House,Boston,History museum
+32,Fruitlands Museum,Harvard,Art museum
+33,Museum of Natural History and Planetarium,Providence,Natural history museum
+34,Wenham Museum,Wenham,Museum
+35,Salem Witch Museum,Salem,Museum
+36,The Eric Carle Museum of Picture Book Art,Amherst,Museum
+37,Ashland Historical Society,Ashland,Museum
+38,Cahoon Museum of American Art,Cotuit,Art museum
+39,John F. Kennedy Hyannis Museum,Hyannis,Museum
+40,Cape Cod Museum Of Natural History,Brewster,Museum
+41,Tower Hill Botanic Garden,Boylston,Museum
+42,New England Air Museum,Windsor Locks,History museum
+43,Naumkeag,Stockbridge,Museum
+44,The Metropolitan Museum of Art,New York,Art museum
+45,Smithsonian National Air and Space Museum,Washington,National museum
+46,Smithsonian American Art Museum,Washington,Art museum
+47,Bellingham Railway Museum,Bellingham,Rail museum
+48,Renwick Gallery of the Smithsonian American Art Museum,Washington,Art museum
+49,Mindport Exhibits,Bellingham,Science museum
+50,Lightcatcher Building,Bellingham,Museum
+51,Family Interactive Gallery,Bellingham,Museum
+52,SPARK Museum of Electrical Invention,Bellingham,Technology museum
+53,Whatcom Museum,Bellingham,Museum
+54,Bread & Puppet Theatre,Glover,Museum
+55,Smithsonian Institution Offices,Washington,Research institute
+56,Syre Education Center,Bellingham,Museum
+57,Museum of Radio & Technology,Huntington,Museum
+58,Lynden Pioneer Museum,Lynden,Museum
+59,Northwest African American Museum,Seattle,Museum
+60,Museum of Pop Culture,Seattle,Modern art museum
+61,San Francisco Museum of Modern Art,San Francisco,Modern art museum
+62,The Museum of Flight,Seattle,Museum
+63,LeMay - America’s Car Museum,Tacoma,Museum
+64,Seattle Art Museum,Seattle,Art museum
+65,Museum of Art and Archaeology,Columbia,Art museum
+66,Portland Art Museum,Portland,Art museum
+67,Museum of Broadcast Communications,Chicago,Museum
+68,Mendon Historical Society Museum,Mendon,Historical landmark
+69,Flying Heritage & Combat Armor Museum,Everett,Museum
+70,Edmonds Historical Museum,Edmonds,Historical place museum
+71,Museum of Glass,Tacoma,Art museum
+72,Bellevue Arts Museum,Bellevue,Art museum
+73,Museum of History & Industry (MOHAI),Seattle,History museum
+74,Living Computers: Museum + Labs,Seattle,Museum
+75,KidsQuest Children's Museum,Bellevue,Children's museum
+76,National Nordic Museum,Seattle,Museum
+77,Cascadia Art Museum,Edmonds,Art museum
+78,The Centre Pompidou,Paris,Museum
+79,Hands On Children's Museum,Olympia,Children's museum
+80,Hands On Children's Museum,Olympia,Children's museum
+81,Museum of Northwest Art,La Conner,Museum
+82,20th Century Technology Museum,Wharton,Technology museum
+83,Burke Museum of Natural History and Culture,Seattle,Museum
+84,Connections Museum,Seattle,Museum
+85,Renton History Museum,Renton,Museum
+86,Pacific Science Center,Seattle,Science museum
+87,Frye Art Museum,Seattle,Museum
+88,Washington State History Museum,Tacoma,History museum
+89,Museum & Arts Center,Sequim,Museum
+90,Santa Cruz Museum of Natural History,Santa Cruz,Natural history museum
+91,Seattle Children's Museum,Seattle,Children's museum
+92,Lewis Army Museum,Joint Base Lewis-McChord,Army museum
+93,U.S. Naval Undersea Museum,Keyport,Museum
+94,Tacoma Art Museum,Tacoma,Art museum
+95,Children's Museum of Tacoma,Tacoma,Children's museum
+96,Suquamish Museum,Suquamish,Museum
+97,Olympic Flight Museum,Tumwater,Museum
+98,Karshner Memorial Museum,Puyallup,Museum
+99,Sequim Museum & Arts,Sequim,Local history museum
+100,Puget Sound Coast Artillery Museum,Port Townsend,Museum
+101,Dupont Historical Museum,DuPont,History museum
+102,Oregon Jewish Museum and Center for Holocaust Education,Portland,Museum
+103,The Mexican Museum,San Francisco,Museum
+104,Asian Art Museum,Seattle,Art museum
+105,Harbor History Museum,Gig Harbor,Museum
+106,Port Townsend Aero Museum,Port Townsend,Museum
+107,Jordan Schnitzer Museum of Art,Eugene,Art museum
+108,Cat Museum of San Francisco,,Museum
+109,Working Waterfront Maritime Museum,Tacoma,Maritime museum
+110,Washington National Guard Museum,,Army museum
+111,Coast Guard Museum Northwest,Seattle,Museum
+112,Henry Art Gallery,Seattle,Art museum
+113,McChord AFB Museum,,Museum
+114,Medway Historical Society,Medway,Tourist attraction
+115,The Center for Wooden Boats,Seattle,Maritime museum
+116,Historic House Museum,,Museum
+117,Olympic Sculpture Park,Seattle,Museum
+118,"Blue Magic Tattoo, Piercing & Permanent Cosmetic Studio",Bellingham,Tattoo shop
+119,Blackstone Gorge,Blackstone,Tourist attraction
+120,Coast Architects,Charleston,Architect
+121,Bellingham,,
+122,Bellingham Public Library,Bellingham,Public library
+123,Urban Air Trampoline and Adventure Park,Bellingham,Children's amusement center
+124,Hopedale,,
+125,Charles River Center,Bellingham,Shopping mall
+126,Dunkin',Bellingham,Coffee shop
+127,Sol de Mexico Restaurant Bar & Grill,Bellingham,Mexican
+128,Bellingham Palace,Bellingham,Pizza
+129,Bellingham High School,Bellingham,School
+130,Coachmen's Lodge,Bellingham,Fine Dining
+131,Our Lady of Fatima Shrine - Xaverian Missionaries,Holliston,Religious organization
+132,Barnes & Noble,Bellingham,Book store
+133,The Beef Barn,Bellingham,Sandwich
+134,Pam's Diner,Bellingham,Breakfast
+135,Regal Bellingham,Bellingham,Movie theater
+136,Bellingham Bulletin,Bellingham,Newspaper publisher
+137,Boston International,Franklin,Corporate office
+138,Breakfast Nook,Bellingham,Restaurant
+139,Chili's Grill & Bar,Bellingham,Tex Mex
+140,Chili's Grill & Bar,Bellingham,Tex Mex
+141,Bellingham Youth Baseball,Bellingham,Youth organization
+142,Grumpy's Restaurant,Bellingham,Bistro
+143,Walmart,Bellingham,Discount store
+144,Rock N' Coal Pizza,Bellingham,Pizza
+145,Vohn's Restaurant,Bellingham,Thai
+146,Bungay Brook Golf Club,Bellingham,Golf club
+147,Advance Auto Parts,Bellingham,Auto parts store
+148,Circle CG Farm Campground,,Campground
+149,Dunkin',Bellingham,Coffee shop
+150,Marshall's Jewelers of Bellingham,Bellingham,Jeweler
+151,Walmart Photo Center,Bellingham,Photo shop
+152,New England Bonsai Gardens,Bellingham,Bonsai plant supplier
+153,New England Country Club,Bellingham,Country club
+154,Sandy's Chill Spot Ice Cream & Seafood Restaurant Bellingham,Bellingham,Ice Cream
+155,Bellingham Imports,Bellingham,Auto repair shop
+156,PJ's Bar & Grill,Bellingham,Sports bar
+157,Bamboo Express,Bellingham,Chinese
+158,Party City,Bellingham,Party store
+159,Mak's Roast Beef And Pizza Bellingham,Bellingham,Pizza
+160,Cartier's Funeral Home,151 S Main St,Funeral home
+161,Joff's Backyard Grill,61 Mechanic St,Barbecue
+162,Stall Brook Elementary School,342 Hartford Ave,Elementary school
+163,Whole Foods Market,255 Hartford Ave,Grocery store
+164,Ve'Lace Bridal,11 Mechanic St,Bridal shop
+165,Outback Steakhouse,275 N Main St,Steak
+166,Bellingham Electric,250 Pulaski Blvd,Appliance store
+167,Subway,170 Pulaski Blvd,Sandwich
+168,Countryside Motel,115 Mechanic St,Motel
+169,Egan's Pub,180 Paine St,Pub
+170,The Home Depot,229 Hartford Ave,Home improvement store
+171,Sol De Mexico,191 Mechanic St,Restaurant
+172,Fusion Express,191 Mechanic St,Chinese
+173,Amazon Hub Locker - Bellingham,"at Whole Foods, 255 Hartford Ave",Mailing service
+174,Gov Bellingham-Cary House,34 Parker St,Tourist attraction
+175,Heidrea Communications,1 Williams Way,Corporate office
+176,Bellingham Fire Department,28 Blackstone St,Fire station
+177,Stop & Shop,70 Pulaski Blvd,Grocery store
+178,Hidden Acres,1001 Old Bridge Ln,Condominium complex
+179,"Dinner and Company, Gourmet Catering",15 N Main St,Caterer
+180,Cartier's Funeral Home,Bellingham,Funeral home
+181,Joff's Backyard Grill,Bellingham,Barbecue
+182,Stall Brook Elementary School,Bellingham,Elementary school
+183,Whole Foods Market,Bellingham,Grocery store
+184,Ve'Lace Bridal,Bellingham,Bridal shop
+185,Outback Steakhouse,Bellingham,Steak
+186,Bellingham Electric,Bellingham,Appliance store
+187,Subway,Bellingham,Sandwich
+188,Countryside Motel,Bellingham,Motel
+189,Egan's Pub,Bellingham,Pub
+190,The Home Depot,Bellingham,Home improvement store
+191,Sol De Mexico,Bellingham,Restaurant
+192,Fusion Express,Bellingham,Chinese
+193,Amazon Hub Locker - Bellingham,Bellingham,Mailing service
+194,Gov Bellingham-Cary House,Chelsea,Tourist attraction
+195,Heidrea Communications,Bellingham,Corporate office
+196,Bellingham Fire Department,Bellingham,Fire station
+197,Stop & Shop,Bellingham,Grocery store
+198,Hidden Acres,Bellingham,Condominium complex
+199,"Dinner and Company, Gourmet Catering",Bellingham,Caterer

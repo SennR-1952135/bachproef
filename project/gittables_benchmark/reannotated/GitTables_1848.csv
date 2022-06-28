@@ -1,0 +1,16 @@
+,class,description
+0,Preprocessor,Cyclomatic complexity of the method is 8
+1,BuildResult,The method has 5 parameters. Parameters: tasks' references' variables' assembly' symbols
+2,FieldSubstitution,"The length of the statement  ""            Log.Trace(string.Format(""Matched field {0} with substitution coming from cmd line but type conversion failed""' symbol)); "" is 120."
+3,Preprocessor,"The length of the statement  ""            return line.TrimStart(' ').StartsWith(UsingString) && !line.Contains(""{"") && line.Contains("";"") && !line.Contains(""static""); "" is 124."
+4,Task,"The conditional expression  ""!symbol.ReturnsVoid ||                                  symbol.IsGenericMethod ||                  symbol.Parameters.Any(p => p.RefKind != RefKind.None || !TypeConverter.IsSupported(p.Type)) ||                  hasDuplicateParameters""  is complex."
+5,EnvironmentVariable,The following statement contains a magic number: return (Name.GetHashCode() * 397);
+6,Options,The following statement contains a magic number: @switch.PrintShortcut(maxSwitchShortcutsLength + 2);
+7,Options,The following statement contains a magic number: @switch.PrintKeyword(maxSwitchKeywordLength + 2);
+8,Switch,The following statement contains a magic number: var hasValueSpecified = specification.Length == 2;
+9,Match,The following statement contains a magic number: return value != null ? 2 : 1;
+10,Match,"The following statement contains a magic number: current.SetName(arg.Substring(2).Replace(""-""' """"));"
+11,Application,The following statement contains a magic number: Console.Write(task.DisplayName.PadRight(breadth + 2));
+12,TaskRegistry,The following statement contains a magic number: var submissionStates = new object[2];
+13,GacUtil,The following statement contains a magic number: var assembyInfo = new AssemblyInfo { cchBuf = 512 };
+14,GAC,The following statement contains a magic number: var assembyInfo = new AssemblyInfo {cchBuf = 512};

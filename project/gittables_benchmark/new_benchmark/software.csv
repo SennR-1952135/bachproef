@@ -1,0 +1,27 @@
+,type,name,description,category,notes
+0,360,Google Street View,Basic 360 maker software,Developer,
+1,360,Samsung Gear Action Director,Intermediate 360 video maker software,Developer,
+2,360,Adobe Premier with Mettle,360 video maker software,Developer,
+3,360,Youtube Gyroscopic,360 video viewing software,,
+4,AR,BlippAR,Basic AR developing and viewing software,Developer,
+5,AR,Vuforia,Intermediate AR developing software,Developer,
+6,AR,Unity/ARToolKit,Advanced AR developing software,Developer,"Unity/AR Toolkit must be used with:
+- Android SDK for Android devices
+- X Code for iOS devices (also requires an apple ID)"
+7,VR,InstaVR,Basic VR developing software,Developer,
+8,VR,A-Frame,Intermediate VR developing software,Developer,
+9,VR,Unity,Advanced VR developing software,Developer,
+10,VR,Google Earth VR,"Google Earth VR lets you explore the world from totally new perspectives in virtual reality. Stroll the streets of Tokyo, soar over the Grand Canyon, or walk around the Eiffel Tower.",,Downloaded on Steam account
+11,VR,The Body VR,Journey Inside a Cell is an educational virtual reality experience that takes the user inside the human body., ,Downloaded on Steam account
+12,VR,Google Tilt Brush,"Tilt Brush lets you paint in 3D space with virtual reality. Unleash your creativity with three-dimensional brush strokes, stars, light, and even fire. Your room is your canvas.",,Downloaded on Steam account
+13,VR,The Lab,"Compilation of Valve’s room-scale VR experiments set in a pocket universe within Aperture Science. Fix a robot, defend a castle, adopt a mechanical dog, and more.",,Downloaded on Steam account
+14,VR,InMind VR,InMind is a short scientific adventure with arcade elements designed for the Oculus VR. Submerge into the microworld and experience the miracles of the human mind.,,Downloaded on Steam account
+15,VR,Richie's Plank Experience ,"Take an elevator to our plank that’s sits 160m high above the ground, then dare to walk to the end! An experience made for first-time VR users.",,Downloaded on Steam account
+16,VR,VR Museum of Fine Arts,See famous life-size scultpures and paintings with the use of VR.,,Downloaded on Steam account
+17,VR,Blocks by Google,"Blocks lets you easily create 3D objects in virtual reality, no matter your modelling experience. Using six simple tools, you can bring your applications to life, create a volumetric masterpiece, or simply let your imagination run wild.",,---Wishlist item
+18,VR,Sisters,"Be careful where you look, because something doesn't want you here! Uncover the mysteries and solve the puzzles of the house, rescue your sister, and escape before it's too late.",,
+19,VR,Proton Pulse,3D Arcade Brick-Breaking Action from a whole new perspective,,Cost $1.99
+20,VR,Surge,"
+Surge is one of the first real-time VR music videos created for the new generation VR headsets and gives amazing insight in the possibilities of VR as a medium.",,
+21,VR,Disney VR,"This app is a fully-immersive experience where you visit themed worlds, including Disney, Marvel and Lucasfilm, and interact with some of your favorite characters in their natural environments.",,
+22,VR,Richie's Plank Experience,"Are you afraid of heights? Take an elevator to our plank that's sits 160m high above the ground, then dare to walk to the end!",,

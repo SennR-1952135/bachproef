@@ -1,0 +1,1001 @@
+,rank,year,artist
+0,1,1956,The Five Satins
+1,1,1956,The Five Satins
+2,2,1954,The Penguins
+3,2,1954,The Penguins
+4,3,1960,The Shirelles
+5,3,1960,The Shirelles
+6,4,1977,Elvis Presley
+7,4,1977,Elvis Presley
+8,5,1957,Mello-Kings
+9,5,1957,Mello-Kings
+10,6,1961,Elvis Presley
+11,6,1961,Elvis Presley
+12,7,1962,The Shirelles
+13,7,1962,The Shirelles
+14,8,1958,The Fidelity's
+15,8,1958,The Fidelity's
+16,9,1958,The Skyliners
+17,9,1958,The Skyliners
+18,10,1966,The Happenings
+19,10,1966,The Happenings
+20,11,1970,Elvis Presley
+21,11,1970,Elvis Presley
+22,12,1959,The Shirelles
+23,12,1959,The Shirelles
+24,13,1959,Bobby Darin
+25,13,1959,Bobby Darin
+26,14,1956,Elvis Presley
+27,14,1956,Elvis Presley
+28,15,1969,Zager And Evans
+29,15,1969,Zager And Evans
+30,16,1971,Climax
+31,16,1971,Climax
+32,17,1954,Bill Haley And His Comets
+33,17,1954,Bill Haley And His Comets
+34,18,1963,Earls
+35,18,1963,Earls
+36,19,1968,The Beatles
+37,19,1968,The Beatles
+38,20,1959,Dion And The Belmonts
+39,20,1959,Dion And The Belmonts
+40,21,1957,Elvis Presley
+41,21,1957,Elvis Presley
+42,22,1956,Elvis Presley
+43,22,1956,Elvis Presley
+44,23,1967,Lulu
+45,23,1967,Lulu
+46,24,1956,The Platters
+47,24,1956,The Platters
+48,25,1961,Gene Chandler
+49,25,1961,Gene Chandler
+50,26,1957,Billy Ward And His Dominoes
+51,26,1957,Billy Ward And His Dominoes
+52,27,1955,The Platters
+53,27,1955,The Platters
+54,28,1967,The Turtles
+55,28,1967,The Turtles
+56,29,1958,The Crests
+57,29,1958,The Crests
+58,30,1962,The Duprees
+59,30,1962,The Duprees
+60,31,1966,The Casinos
+61,31,1966,The Casinos
+62,32,1965,The Miracles
+63,32,1965,The Miracles
+64,33,1957,The Dell-Vikings
+65,33,1957,The Dell-Vikings
+66,34,1957,The Dell-Vikings
+67,34,1957,The Dell-Vikings
+68,35,1955,The Platters
+69,35,1955,The Platters
+70,36,1960,Elvis Presley With The Jordanaires
+71,36,1960,Elvis Presley With The Jordanaires
+72,37,1958,Little Anthony And The Imperials
+73,37,1958,Little Anthony And The Imperials
+74,38,1958,The Danleers
+75,38,1958,The Danleers
+76,39,1957,The Rays
+77,39,1957,The Rays
+78,40,1957,Danny And The Juniors
+79,40,1957,Danny And The Juniors
+80,41,1958,The Elegants
+81,41,1958,The Elegants
+82,42,1965,Jay And The Americans
+83,42,1965,Jay And The Americans
+84,43,1964,Dionne Warwick
+85,43,1964,Dionne Warwick
+86,44,1969,Elvis Presley
+87,44,1969,Elvis Presley
+88,45,1957,The Chantels
+89,45,1957,The Chantels
+90,46,1959,The Flamingos
+91,46,1959,The Flamingos
+92,47,1962,The Earls
+93,47,1962,The Earls
+94,48,1965,The Beatles
+95,48,1965,The Beatles
+96,49,1958,Jackie Wilson
+97,49,1958,Jackie Wilson
+98,50,1962,The 4 Seasons
+99,50,1962,The 4 Seasons
+100,51,1965,The Rolling Stones
+101,51,1965,The Rolling Stones
+102,52,1957,The Dubs
+103,52,1957,The Dubs
+104,53,1964,The 4 Seasons
+105,53,1964,The 4 Seasons
+106,54,1956,Fats Domino
+107,54,1956,Fats Domino
+108,55,1969,Frank Sinatra
+109,55,1969,Frank Sinatra
+110,56,1970,Simon And Garfunkel
+111,56,1970,Simon And Garfunkel
+112,57,1971,Don McLean
+113,57,1971,Don McLean
+114,58,1971,John Lennon / Plastic Ono Band
+115,58,1971,John Lennon / Plastic Ono Band
+116,59,1957,Johnny Mathis
+117,59,1957,Johnny Mathis
+118,60,1960,Elvis Presley With The Jordanaires
+119,60,1960,Elvis Presley With The Jordanaires
+120,61,1958,Dion And The Belmonts
+121,61,1958,Dion And The Belmonts
+122,62,1958,The Platters
+123,62,1958,The Platters
+124,63,1967,The Doors
+125,63,1967,The Doors
+126,64,1957,The Five Satins
+127,64,1957,The Five Satins
+128,65,1961,The Angels
+129,65,1961,The Angels
+130,66,1958,Chuck Berry
+131,66,1958,Chuck Berry
+132,67,1961,Del Shannon
+133,67,1961,Del Shannon
+134,68,1955,The Teenagers Featuring Frankie Lymon
+135,68,1955,The Teenagers Featuring Frankie Lymon
+136,69,1957,The Charts
+137,69,1957,The Charts
+138,70,1980,Frank Sinatra
+139,70,1980,Frank Sinatra
+140,71,1961,The Marcels
+141,71,1961,The Marcels
+142,72,1966,The Association
+143,72,1966,The Association
+144,73,1970,The Jackson 5
+145,73,1970,The Jackson 5
+146,74,1982,Lionel Richie
+147,74,1982,Lionel Richie
+148,75,1964,The Drifters
+149,75,1964,The Drifters
+150,76,1957,The Diamonds
+151,76,1957,The Diamonds
+152,77,1963,The Beatles
+153,77,1963,The Beatles
+154,78,1960,Safaris
+155,78,1960,Safaris
+156,79,1956,Elvis Presley
+157,79,1956,Elvis Presley
+158,80,1968,Elvis Presley
+159,80,1968,Elvis Presley
+160,81,1958,Lee Andrews And The Hearts
+161,81,1958,Lee Andrews And The Hearts
+162,82,1959,The Dubs
+163,82,1959,The Dubs
+164,83,1963,Vito And The Salutations
+165,83,1963,Vito And The Salutations
+166,84,1959,The Skyliners
+167,84,1959,The Skyliners
+168,85,1954,The Moonglows
+169,85,1954,The Moonglows
+170,86,1963,The Tymes
+171,86,1963,The Tymes
+172,87,1960,The Capris [New York]
+173,87,1960,The Capris [New York]
+174,88,1954,The Cadillacs
+175,88,1954,The Cadillacs
+176,89,1959,Dion And The Belmonts
+177,89,1959,Dion And The Belmonts
+178,90,1959,Percy Faith And His Orchestra
+179,90,1959,Percy Faith And His Orchestra
+180,91,1964,The Righteous Brothers
+181,91,1964,The Righteous Brothers
+182,92,1964,The Supremes
+183,92,1964,The Supremes
+184,93,1961,Chubby Checker
+185,93,1961,Chubby Checker
+186,94,1972,Led Zeppelin
+187,94,1972,Led Zeppelin
+188,95,1972,Elvis Presley
+189,95,1972,Elvis Presley
+190,96,1959,Dion And The Belmonts
+191,96,1959,Dion And The Belmonts
+192,97,1961,Dion
+193,97,1961,Dion
+194,98,1963,The Duprees
+195,98,1963,The Duprees
+196,99,1956,Elvis Presley
+197,99,1956,Elvis Presley
+198,100,1958,Tommy Edwards
+199,100,1958,Tommy Edwards
+200,101,1965,Simon And Garfunkel
+201,101,1965,Simon And Garfunkel
+202,102,1954,Johnny Ace
+203,102,1954,Johnny Ace
+204,103,1969,Elvis Presley
+205,103,1969,Elvis Presley
+206,104,1962,The Five Discs
+207,104,1962,The Five Discs
+208,105,1956,Elvis Presley
+209,105,1956,Elvis Presley
+210,106,1970,The Beatles
+211,106,1970,The Beatles
+212,107,1958,Harvey And The Moonglows
+213,107,1958,Harvey And The Moonglows
+214,108,1956,The Heartbeats [Doo Wop]
+215,108,1956,The Heartbeats [Doo Wop]
+216,109,1958,The Videos
+217,109,1958,The Videos
+218,110,1963,The Ronettes
+219,110,1963,The Ronettes
+220,111,1963,The Chiffons
+221,111,1963,The Chiffons
+222,112,1977,Billy Joel
+223,112,1977,Billy Joel
+224,113,1959,Bobby Darin
+225,113,1959,Bobby Darin
+226,114,1959,The Impalas
+227,114,1959,The Impalas
+228,115,1972,The Moody Blues
+229,115,1972,The Moody Blues
+230,116,1983,Billy Joel
+231,116,1983,Billy Joel
+232,117,1960,The Platters
+233,117,1960,The Platters
+234,118,1964,The Temptations
+235,118,1964,The Temptations
+236,119,1968,Richard Harris
+237,119,1968,Richard Harris
+238,120,1958,The Aquatones
+239,120,1958,The Aquatones
+240,121,1956,The Channels
+241,121,1956,The Channels
+242,122,1957,Elvis Presley
+243,122,1957,Elvis Presley
+244,123,1963,Patti La Belle And The Blue Belles
+245,123,1963,Patti La Belle And The Blue Belles
+246,124,1970,The Jackson 5
+247,124,1970,The Jackson 5
+248,125,1971,Chicago
+249,125,1971,Chicago
+250,126,1961,The Tokens
+251,126,1961,The Tokens
+252,127,1959,The Coasters
+253,127,1959,The Coasters
+254,128,1972,Harry Chapin
+255,128,1972,Harry Chapin
+256,129,1957,The Chantels
+257,129,1957,The Chantels
+258,130,1968,Jay And The Americans
+259,130,1968,Jay And The Americans
+260,131,1965,Lou Christie
+261,131,1965,Lou Christie
+262,132,1964,Mary Wells
+263,132,1964,Mary Wells
+264,133,1961,The Cleftones
+265,133,1961,The Cleftones
+266,134,1959,Frankie Avalon
+267,134,1959,Frankie Avalon
+268,135,1966,The Beach Boys
+269,135,1966,The Beach Boys
+270,136,1958,Buddy Holly
+271,136,1958,Buddy Holly
+272,137,1982,Laura Branigan
+273,137,1982,Laura Branigan
+274,138,1962,Shelley Fabares
+275,138,1962,Shelley Fabares
+276,139,1957,Elvis Presley With The Jordanaires
+277,139,1957,Elvis Presley With The Jordanaires
+278,140,1966,The 4 Seasons
+279,140,1966,The 4 Seasons
+280,141,1953,The Harp-Tones
+281,141,1953,The Harp-Tones
+282,142,1962,The Drifters
+283,142,1962,The Drifters
+284,143,1960,"The Chimes [60s, Brooklyn]"
+285,143,1960,"The Chimes [60s, Brooklyn]"
+286,144,1960,Fats Domino
+287,144,1960,Fats Domino
+288,145,1977,Debby Boone
+289,145,1977,Debby Boone
+290,146,1957,Elvis Presley With The Jordanaires
+291,146,1957,Elvis Presley With The Jordanaires
+292,147,1961,The Marvelettes
+293,147,1961,The Marvelettes
+294,148,1957,Paul Anka
+295,148,1957,Paul Anka
+296,149,1958,Ritchie Valens
+297,149,1958,Ritchie Valens
+298,150,1963,Randy And The Rainbows
+299,150,1963,Randy And The Rainbows
+300,151,1970,Diana Ross
+301,151,1970,Diana Ross
+302,152,1962,The Exciters
+303,152,1962,The Exciters
+304,153,1957,The Crickets
+305,153,1957,The Crickets
+306,154,1955,The Nutmegs
+307,154,1955,The Nutmegs
+308,155,1965,Four Tops
+309,155,1965,Four Tops
+310,156,1958,The Platters
+311,156,1958,The Platters
+312,157,1962,Elvis Presley With The Jordanaires
+313,157,1962,Elvis Presley With The Jordanaires
+314,158,1966,The Supremes
+315,158,1966,The Supremes
+316,159,1965,The Toys
+317,159,1965,The Toys
+318,160,1958,Elvis Presley
+319,160,1958,Elvis Presley
+320,161,1963,The Earls
+321,161,1963,The Earls
+322,162,1980,Kenny Rogers
+323,162,1980,Kenny Rogers
+324,163,1961,Connie Francis
+325,163,1961,Connie Francis
+326,164,1957,Buddy Holly
+327,164,1957,Buddy Holly
+328,165,1956,Willows
+329,165,1956,Willows
+330,166,1964,The Dave Clark Five
+331,166,1964,The Dave Clark Five
+332,167,1958,The Shields
+333,167,1958,The Shields
+334,168,1956,"Elvis PresleyELVIS, Volume 1A"
+335,168,1956,"Elvis PresleyELVIS, Volume 1A"
+336,169,1961,Dion
+337,169,1961,Dion
+338,170,1963,The Earls
+339,170,1963,The Earls
+340,171,1961,Fats Domino
+341,171,1961,Fats Domino
+342,172,1956,Sonny James (The Southern Gentleman)
+343,172,1956,Sonny James (The Southern Gentleman)
+344,173,1963,The Shirelles
+345,173,1963,The Shirelles
+346,174,1958,The Chantels
+347,174,1958,The Chantels
+348,175,1969,Elvis Presley
+349,175,1969,Elvis Presley
+350,176,1957,The Bobbettes
+351,176,1957,The Bobbettes
+352,177,1957,Lee Andrews And The Hearts
+353,177,1957,Lee Andrews And The Hearts
+354,178,1958,The Teddy Bears
+355,178,1958,The Teddy Bears
+356,179,1959,The Knockouts
+357,179,1959,The Knockouts
+358,180,1958,The Fascinators
+359,180,1958,The Fascinators
+360,181,1957,Lee Andrews And The Hearts
+361,181,1957,Lee Andrews And The Hearts
+362,182,1965,The Mama's And The Papa's
+363,182,1965,The Mama's And The Papa's
+364,183,1959,The Passions
+365,183,1959,The Passions
+366,184,1962,Freddy Cannon
+367,184,1962,Freddy Cannon
+368,185,1957,The Deltairs
+369,185,1957,The Deltairs
+370,186,1956,The Clovers
+371,186,1956,The Clovers
+372,187,1958,Elvis Presley
+373,187,1958,Elvis Presley
+374,188,1961,Shep And The Limelites
+375,188,1961,Shep And The Limelites
+376,189,1959,Rock-A-Teens
+377,189,1959,Rock-A-Teens
+378,190,1973,Barbra Streisand
+379,190,1973,Barbra Streisand
+380,191,1977,Heatwave
+381,191,1977,Heatwave
+382,192,1957,Connie Francis
+383,192,1957,Connie Francis
+384,193,1960,The Jesters [doowop]
+385,193,1960,The Jesters [doowop]
+386,194,1962,The Excellents
+387,194,1962,The Excellents
+388,195,1963,The Crystals
+389,195,1963,The Crystals
+390,196,1957,Johnny Mathis
+391,196,1957,Johnny Mathis
+392,197,1959,Paul Anka
+393,197,1959,Paul Anka
+394,198,1964,The Animals
+395,198,1964,The Animals
+396,199,1961,The Earls
+397,199,1961,The Earls
+398,200,1969,The Beatles
+399,200,1969,The Beatles
+400,201,1963,The Orlons
+401,201,1963,The Orlons
+402,202,1969,The Jackson 5
+403,202,1969,The Jackson 5
+404,203,1962,Marcie Blane
+405,203,1962,Marcie Blane
+406,204,1957,Johnnie And Joe
+407,204,1957,Johnnie And Joe
+408,205,1957,Bobby Helms
+409,205,1957,Bobby Helms
+410,206,1960,The Shells
+411,206,1960,The Shells
+412,207,1962,The Crystals
+413,207,1962,The Crystals
+414,208,1958,The Monotones
+415,208,1958,The Monotones
+416,209,1960,The Drifters
+417,209,1960,The Drifters
+418,210,1965,The Beach Boys
+419,210,1965,The Beach Boys
+420,211,1967,Frankie Valli
+421,211,1967,Frankie Valli
+422,212,1973,Dawn Featuring Tony Orlando
+423,212,1973,Dawn Featuring Tony Orlando
+424,213,1964,The 4 Seasons
+425,213,1964,The 4 Seasons
+426,214,1961,Roy Orbison
+427,214,1961,Roy Orbison
+428,215,1972,Roberta Flack
+429,215,1972,Roberta Flack
+430,216,1975,Bruce Springsteen
+431,216,1975,Bruce Springsteen
+432,217,1963,Elvis Presley With The JordanairesElvis Sings - Vol. 1A
+433,217,1963,Elvis Presley With The JordanairesElvis Sings - Vol. 1A
+434,218,1963,The Angels
+435,218,1963,The Angels
+436,219,1964,The Beatles
+437,219,1964,The Beatles
+438,220,1956,The Dells
+439,220,1956,The Dells
+440,221,1972,The Stylistics Featuring Russell Thompkins Jr.
+441,221,1972,The Stylistics Featuring Russell Thompkins Jr.
+442,222,1963,Lesley Gore
+443,222,1963,Lesley Gore
+444,223,1974,Barry Manilow
+445,223,1974,Barry Manilow
+446,224,1958,Elvis Presley With The Jordanaires
+447,224,1958,Elvis Presley With The Jordanaires
+448,225,1967,Engelbert Humperdinck
+449,225,1967,Engelbert Humperdinck
+450,226,1964,Roy Orbison And The Candy Men
+451,226,1964,Roy Orbison And The Candy Men
+452,227,1962,Brian Hyland
+453,227,1962,Brian Hyland
+454,228,1956,Elvis Presley
+455,228,1956,Elvis Presley
+456,229,1963,Lenny Welch
+457,229,1963,Lenny Welch
+458,230,1956,The 3 Friends
+459,230,1956,The 3 Friends
+460,231,1980,Bette Midler
+461,231,1980,Bette Midler
+462,232,1958,Conway Twitty
+463,232,1958,Conway Twitty
+464,233,1962,Jive Five With Eugene Pitt
+465,233,1962,Jive Five With Eugene Pitt
+466,234,1966,The Cyrkle
+467,234,1966,The Cyrkle
+468,235,1957,Robert And Johnny
+469,235,1957,Robert And Johnny
+470,236,1958,The Students
+471,236,1958,The Students
+472,237,1956,Gene Vincent And His Blue Caps
+473,237,1956,Gene Vincent And His Blue Caps
+474,238,1959,Jan And Dean
+475,238,1959,Jan And Dean
+476,239,1960,Rosie And The Originals
+477,239,1960,Rosie And The Originals
+478,240,1963,The Classics [Brooklyn]
+479,240,1963,The Classics [Brooklyn]
+480,241,1964,The Dixie Cups
+481,241,1964,The Dixie Cups
+482,242,1963,Little Peggy March
+483,242,1963,Little Peggy March
+484,243,1970,Smokey Robinson And The Miracles
+485,243,1970,Smokey Robinson And The Miracles
+486,244,1965,Barry McGuire
+487,244,1965,Barry McGuire
+488,245,1960,Bobby Darin
+489,245,1960,Bobby Darin
+490,246,1968,The Foundations
+491,246,1968,The Foundations
+492,247,1960,The Passions
+493,247,1960,The Passions
+494,248,1959,The Drifters
+495,248,1959,The Drifters
+496,249,1953,The Orioles
+497,249,1953,The Orioles
+498,250,1978,The BeatlesA
+499,250,1978,The BeatlesA
+500,251,1972,Luther Ingram
+501,251,1972,Luther Ingram
+502,252,1957,The Channels
+503,252,1957,The Channels
+504,253,1958,Cozy Cole
+505,253,1958,Cozy Cole
+506,254,1965,The Beatles
+507,254,1965,The Beatles
+508,255,1983,The Police
+509,255,1983,The Police
+510,256,1963,The Chiffons
+511,256,1963,The Chiffons
+512,257,1964,The Beach Boys
+513,257,1964,The Beach Boys
+514,258,1958,The Flamingos
+515,258,1958,The Flamingos
+516,259,1963,The 4 Seasons
+517,259,1963,The 4 Seasons
+518,260,1981,Diana Ross And Lionel Richie
+519,260,1981,Diana Ross And Lionel Richie
+520,261,1960,The Crests
+521,261,1960,The Crests
+522,262,1979,Commodores
+523,262,1979,Commodores
+524,263,1958,Dion And The Belmonts
+525,263,1958,Dion And The Belmonts
+526,264,1970,The Beatles
+527,264,1970,The Beatles
+528,265,1956,The Schoolboys [DooWop]
+529,265,1956,The Schoolboys [DooWop]
+530,266,1962,The 4 Seasons
+531,266,1962,The 4 Seasons
+532,267,1963,Bobby Vinton
+533,267,1963,Bobby Vinton
+534,268,1965,Four Tops
+535,268,1965,Four Tops
+536,269,1958,The Students
+537,269,1958,The Students
+538,270,1963,The Murmaids
+539,270,1963,The Murmaids
+540,271,1967,Procol Harum
+541,271,1967,Procol Harum
+542,272,1964,The Supremes
+543,272,1964,The Supremes
+544,273,1976,Elvis Presley
+545,273,1976,Elvis Presley
+546,274,1969,The Rolling Stones
+547,274,1969,The Rolling Stones
+548,275,1958,The Coasters
+549,275,1958,The Coasters
+550,276,1957,The Crickets
+551,276,1957,The Crickets
+552,277,1959,Johnny Mathis
+553,277,1959,Johnny Mathis
+554,278,1958,Ricky Nelson
+555,278,1958,Ricky Nelson
+556,279,1978,Barry Manilow
+557,279,1978,Barry Manilow
+558,280,1964,The Ronettes
+559,280,1964,The Ronettes
+560,281,1962,Mary Wells
+561,281,1962,Mary Wells
+562,282,1963,Johnny Cymbal
+563,282,1963,Johnny Cymbal
+564,283,1964,The Beatles
+565,283,1964,The Beatles
+566,284,1969,Hollies
+567,284,1969,Hollies
+568,285,1968,Marvin Gaye
+569,285,1968,Marvin Gaye
+570,286,1965,The Beach Boys
+571,286,1965,The Beach Boys
+572,287,1965,Mel Carter
+573,287,1965,Mel Carter
+574,288,1962,The Cookies
+575,288,1962,The Cookies
+576,289,1963,The Dave Clark Five
+577,289,1963,The Dave Clark Five
+578,290,1972,Rick Nelson And The Stone Canyon Band
+579,290,1972,Rick Nelson And The Stone Canyon Band
+580,291,1959,Fleetwoods
+581,291,1959,Fleetwoods
+582,292,1957,Elvis Presley
+583,292,1957,Elvis Presley
+584,293,1959,The Mystics [New York]
+585,293,1959,The Mystics [New York]
+586,294,1964,The Shangri-Las
+587,294,1964,The Shangri-Las
+588,295,1957,The Silhouettes
+589,295,1957,The Silhouettes
+590,296,1961,The Belmonts
+591,296,1961,The Belmonts
+592,297,1961,Ricky Nelson
+593,297,1961,Ricky Nelson
+594,298,1956,Clyde McPhatter
+595,298,1956,Clyde McPhatter
+596,299,1960,The Everly Brothers
+597,299,1960,The Everly Brothers
+598,300,1959,Mark Dinning
+599,300,1959,Mark Dinning
+600,301,1965,The 4 Seasons
+601,301,1965,The 4 Seasons
+602,302,1963,Jan And Dean
+603,302,1963,Jan And Dean
+604,303,1962,Vito And The Salutations
+605,303,1962,Vito And The Salutations
+606,304,1962,The Crystals
+607,304,1962,The Crystals
+608,305,1969,The Archies
+609,305,1969,The Archies
+610,306,1956,Fats Domino
+611,306,1956,Fats Domino
+612,307,1962,Little Eva
+613,307,1962,Little Eva
+614,308,1955,The Cadillacs
+615,308,1955,The Cadillacs
+616,309,1957,Charlie Gracie
+617,309,1957,Charlie Gracie
+618,310,1957,Sam Cooke
+619,310,1957,Sam Cooke
+620,311,1963,Lesley Gore
+621,311,1963,Lesley Gore
+622,312,1975,The Four Seasons
+623,312,1975,The Four Seasons
+624,313,1962,The Orlons
+625,313,1962,The Orlons
+626,314,1963,Dusty Springfield
+627,314,1963,Dusty Springfield
+628,315,1958,Big Bopper
+629,315,1958,Big Bopper
+630,316,1964,Petula Clark
+631,316,1964,Petula Clark
+632,317,1967,The Young Rascals
+633,317,1967,The Young Rascals
+634,318,1955,Moonglows
+635,318,1955,Moonglows
+636,319,1957,Crest's
+637,319,1957,Crest's
+638,320,1962,Neil Sedaka
+639,320,1962,Neil Sedaka
+640,321,1962,Jay And The Americans
+641,321,1962,Jay And The Americans
+642,322,1968,Simon And Garfunkel
+643,322,1968,Simon And Garfunkel
+644,323,1966,Four Tops
+645,323,1966,Four Tops
+646,324,1954,The Chords [New York]
+647,324,1954,The Chords [New York]
+648,325,1957,Jerry Lee Lewis
+649,325,1957,Jerry Lee Lewis
+650,326,1966,? (Question Mark) And The Mysterians
+651,326,1966,? (Question Mark) And The Mysterians
+652,327,1972,Looking Glass
+653,327,1972,Looking Glass
+654,328,1981,John Lennon
+655,328,1981,John Lennon
+656,329,1961,Tony Orlando
+657,329,1961,Tony Orlando
+658,330,1955,The Turbans
+659,330,1955,The Turbans
+660,331,1961,The Dreamlovers
+661,331,1961,The Dreamlovers
+662,332,1967,The Young Rascals
+663,332,1967,The Young Rascals
+664,333,1965,Sam The Sham And The Pharaohs
+665,333,1965,Sam The Sham And The Pharaohs
+666,334,1965,Sonny And Cher
+667,334,1965,Sonny And Cher
+668,335,1967,The Beatles
+669,335,1967,The Beatles
+670,336,1960,Ben E. King
+671,336,1960,Ben E. King
+672,337,1960,Neil Sedaka
+673,337,1960,Neil Sedaka
+674,338,1957,The Paragons [Doo-Wop]
+675,338,1957,The Paragons [Doo-Wop]
+676,339,1974,John Denver
+677,339,1974,John Denver
+678,340,1977,Bee Gees
+679,340,1977,Bee Gees
+680,341,1964,Manfred Mann
+681,341,1964,Manfred Mann
+682,342,1960,Maurice Williams And The Zodiacs
+683,342,1960,Maurice Williams And The Zodiacs
+684,343,1961,Ben E. King
+685,343,1961,Ben E. King
+686,344,1982,Willie Nelson
+687,344,1982,Willie Nelson
+688,345,1968,The Union Gap Featuring Gary Puckett
+689,345,1968,The Union Gap Featuring Gary Puckett
+690,346,1969,Brooklyn Bridge
+691,346,1969,Brooklyn Bridge
+692,347,1968,Diana Ross And The Supremes
+693,347,1968,Diana Ross And The Supremes
+694,348,1962,Mary Wells
+695,348,1962,Mary Wells
+696,349,1964,J. Frank Wilson And The Cavaliers
+697,349,1964,J. Frank Wilson And The Cavaliers
+698,350,1963,The Cookies
+699,350,1963,The Cookies
+700,351,1964,Elvis Presley With The Jordanaires
+701,351,1964,Elvis Presley With The Jordanaires
+702,352,1962,The Duprees
+703,352,1962,The Duprees
+704,353,1963,Martha And The Vandellas
+705,353,1963,Martha And The Vandellas
+706,354,1964,The Ad Libs
+707,354,1964,The Ad Libs
+708,355,1964,Martha And The Vandellas
+709,355,1964,Martha And The Vandellas
+710,356,1974,Harry Chapin
+711,356,1974,Harry Chapin
+712,357,1965,The Lovin' Spoonful
+713,357,1965,The Lovin' Spoonful
+714,358,1957,The Everly Brothers
+715,358,1957,The Everly Brothers
+716,359,1957,The Dubs
+717,359,1957,The Dubs
+718,360,1964,The Dixie Cups
+719,360,1964,The Dixie Cups
+720,361,1957,The Tune Weavers
+721,361,1957,The Tune Weavers
+722,362,1961,The Castells
+723,362,1961,The Castells
+724,363,1957,Frankie Lymon
+725,363,1957,Frankie Lymon
+726,364,1981,Kim Carnes
+727,364,1981,Kim Carnes
+728,365,1958,Jack Scott
+729,365,1958,Jack Scott
+730,366,1978,Rod Stewart
+731,366,1978,Rod Stewart
+732,367,1966,The Righteous Brothers
+733,367,1966,The Righteous Brothers
+734,368,1982,Michael Jackson
+735,368,1982,Michael Jackson
+736,369,1971,Three Dog Night
+737,369,1971,Three Dog Night
+738,370,1957,The Velours
+739,370,1957,The Velours
+740,371,1958,Jerry Butler And The Impressions
+741,371,1958,Jerry Butler And The Impressions
+742,372,1963,The Essex
+743,372,1963,The Essex
+744,373,1967,Herman's Hermits
+745,373,1967,Herman's Hermits
+746,374,1969,Elvis Presley
+747,374,1969,Elvis Presley
+748,375,1982,Barry Manilow
+749,375,1982,Barry Manilow
+750,376,1966,The 4 Seasons
+751,376,1966,The 4 Seasons
+752,377,1964,The Beatles
+753,377,1964,The Beatles
+754,378,1967,The Music Explosion
+755,378,1967,The Music Explosion
+756,379,1975,Barry Manilow
+757,379,1975,Barry Manilow
+758,380,1957,Fats Domino
+759,380,1957,Fats Domino
+760,381,1957,Debbie Reynolds
+761,381,1957,Debbie Reynolds
+762,382,1961,Bobby Vee
+763,382,1961,Bobby Vee
+764,383,1959,The Revels [Philadelphia]
+765,383,1959,The Revels [Philadelphia]
+766,384,1965,Martha And The Vandellas
+767,384,1965,Martha And The Vandellas
+768,385,1974,Olivia Newton-John
+769,385,1974,Olivia Newton-John
+770,386,1966,The Young Rascals
+771,386,1966,The Young Rascals
+772,387,1964,Millie Small
+773,387,1964,Millie Small
+774,388,1972,Don McLean
+775,388,1972,Don McLean
+776,389,1962,The Orlons
+777,389,1962,The Orlons
+778,390,1957,The Everly Brothers
+779,390,1957,The Everly Brothers
+780,391,1964,The Beatles
+781,391,1964,The Beatles
+782,392,1958,"Duane Eddy And His ""Twangy"" Guitar"
+783,392,1958,"Duane Eddy And His ""Twangy"" Guitar"
+784,393,1973,Billy Joel
+785,393,1973,Billy Joel
+786,394,1966,The Supremes
+787,394,1966,The Supremes
+788,395,1966,The Beatles
+789,395,1966,The Beatles
+790,396,1966,Dusty Springfield
+791,396,1966,Dusty Springfield
+792,397,1956,Little Richard And His Band
+793,397,1956,Little Richard And His Band
+794,398,1965,Bob Dylan
+795,398,1965,Bob Dylan
+796,399,1958,Frankie Ford
+797,399,1958,Frankie Ford
+798,400,1963,The Kingsmen
+799,400,1963,The Kingsmen
+800,401,1967,The Association
+801,401,1967,The Association
+802,402,1966,The Beatles
+803,402,1966,The Beatles
+804,403,1968,The Grass Roots
+805,403,1968,The Grass Roots
+806,404,1971,Janis Joplin
+807,404,1971,Janis Joplin
+808,405,1964,Reparata And The Delrons
+809,405,1964,Reparata And The Delrons
+810,406,1968,Otis Redding
+811,406,1968,Otis Redding
+812,407,1972,Gilbert O'Sullivan
+813,407,1972,Gilbert O'Sullivan
+814,408,1969,The 5th Dimension
+815,408,1969,The 5th Dimension
+816,409,1959,The Isley Brothers
+817,409,1959,The Isley Brothers
+818,410,1959,Connie Francis
+819,410,1959,Connie Francis
+820,411,1974,Frankie Valli
+821,411,1974,Frankie Valli
+822,412,1966,The Troggs
+823,412,1966,The Troggs
+824,413,1966,Johnny Rivers
+825,413,1966,Johnny Rivers
+826,414,1959,Frankie Avalon
+827,414,1959,Frankie Avalon
+828,415,1960,The Skyliners
+829,415,1960,The Skyliners
+830,416,1964,The Beatles
+831,416,1964,The Beatles
+832,417,1983,Michael Jackson
+833,417,1983,Michael Jackson
+834,418,1960,Ray Peterson
+835,418,1960,Ray Peterson
+836,419,1983,Lionel Richie
+837,419,1983,Lionel Richie
+838,420,1956,Ivory Joe Hunter
+839,420,1956,Ivory Joe Hunter
+840,421,1962,Dee Dee Sharp
+841,421,1962,Dee Dee Sharp
+842,422,1964,The 4 Seasons
+843,422,1964,The 4 Seasons
+844,423,1961,The Corsairs
+845,423,1961,The Corsairs
+846,424,1970,Anne Murray
+847,424,1970,Anne Murray
+848,425,1962,Claudine Clark
+849,425,1962,Claudine Clark
+850,426,1960,The Demensions
+851,426,1960,The Demensions
+852,427,1966,Jimmy Ruffin
+853,427,1966,Jimmy Ruffin
+854,428,1958,Danny And The Juniors
+855,428,1958,Danny And The Juniors
+856,429,1965,The Marvelettes
+857,429,1965,The Marvelettes
+858,430,1965,Jay And The Americans
+859,430,1965,Jay And The Americans
+860,431,1967,Jefferson Airplane
+861,431,1967,Jefferson Airplane
+862,432,1959,Marty Robbins
+863,432,1959,Marty Robbins
+864,433,1963,Bobby Rydell
+865,433,1963,Bobby Rydell
+866,434,1970,George Harrison
+867,434,1970,George Harrison
+868,435,1965,The Supremes
+869,435,1965,The Supremes
+870,436,1965,Petula Clark
+871,436,1965,Petula Clark
+872,437,1961,The Shirelles
+873,437,1961,The Shirelles
+874,438,1960,Bobby Rydell
+875,438,1960,Bobby Rydell
+876,439,1966,The Critters
+877,439,1966,The Critters
+878,440,1968,Tommy James And The Shondells
+879,440,1968,Tommy James And The Shondells
+880,441,1972,The Hollies
+881,441,1972,The Hollies
+882,442,1964,Jan And Dean
+883,442,1964,Jan And Dean
+884,443,1961,Curtis Lee
+885,443,1961,Curtis Lee
+886,444,1966,The Easybeats
+887,444,1966,The Easybeats
+888,445,1965,The Righteous Brothers
+889,445,1965,The Righteous Brothers
+890,446,1956,The Teen Queens
+891,446,1956,The Teen Queens
+892,447,1971,Rod Stewart
+893,447,1971,Rod Stewart
+894,448,1958,Little Anthony And The Imperials
+895,448,1958,Little Anthony And The Imperials
+896,449,1966,Frank Sinatra
+897,449,1966,Frank Sinatra
+898,450,1967,Tommy James And The Shondells
+899,450,1967,Tommy James And The Shondells
+900,451,1965,The Beach Boys
+901,451,1965,The Beach Boys
+902,452,1965,Bob Lind
+903,452,1965,Bob Lind
+904,453,1975,Dorothy Moore
+905,453,1975,Dorothy Moore
+906,454,1963,The Beach Boys
+907,454,1963,The Beach Boys
+908,455,1966,The Mama's And The Papa's
+909,455,1966,The Mama's And The Papa's
+910,456,1964,The Beatles
+911,456,1964,The Beatles
+912,457,1963,Beach Boys
+913,457,1963,Beach Boys
+914,458,1966,James And Bobby Purify
+915,458,1966,James And Bobby Purify
+916,459,1959,Elvis Presley With The Jordanaires
+917,459,1959,Elvis Presley With The Jordanaires
+918,460,1966,The Chiffons
+919,460,1966,The Chiffons
+920,461,1961,Gene Pitney
+921,461,1961,Gene Pitney
+922,462,1983,Bonnie Tyler
+923,462,1983,Bonnie Tyler
+924,463,1963,Lesley Gore
+925,463,1963,Lesley Gore
+926,464,1962,"Bobby ""Boris"" Pickett And The Crypt-Kickers"
+927,464,1962,"Bobby ""Boris"" Pickett And The Crypt-Kickers"
+928,465,1960,Jimmy Charles And The Revelletts
+929,465,1960,Jimmy Charles And The Revelletts
+930,466,1961,The Velvets Featuring Virgil Johnson
+931,466,1961,The Velvets Featuring Virgil Johnson
+932,467,1960,The Paradons
+933,467,1960,The Paradons
+934,468,1977,Bee Gees
+935,468,1977,Bee Gees
+936,469,1970,The Beatles
+937,469,1970,The Beatles
+938,470,1959,The Fleetwoods
+939,470,1959,The Fleetwoods
+940,471,1981,Neil Diamond
+941,471,1981,Neil Diamond
+942,472,1970,James Taylor
+943,472,1970,James Taylor
+944,473,1973,Jim Croce
+945,473,1973,Jim Croce
+946,474,1976,Engelbert Humperdinck
+947,474,1976,Engelbert Humperdinck
+948,475,1965,Bobby Fuller Four
+949,475,1965,Bobby Fuller Four
+950,476,1960,Sam Cooke
+951,476,1960,Sam Cooke
+952,477,1956,Fats Domino
+953,477,1956,Fats Domino
+954,478,1960,The Drifters
+955,478,1960,The Drifters
+956,479,1964,The Beatles
+957,479,1964,The Beatles
+958,480,1971,The Rolling Stones
+959,480,1971,The Rolling Stones
+960,481,1973,Jim Croce
+961,481,1973,Jim Croce
+962,482,1959,The Crests
+963,482,1959,The Crests
+964,483,1955,The El Dorados
+965,483,1955,The El Dorados
+966,484,1964,The Beach Boys
+967,484,1964,The Beach Boys
+968,485,1979,Blondie
+969,485,1979,Blondie
+970,486,1962,The Marvelettes
+971,486,1962,The Marvelettes
+972,487,1973,Paul Simon
+973,487,1973,Paul Simon
+974,488,1958,Pony-Tails
+975,488,1958,Pony-Tails
+976,489,1967,The Association
+977,489,1967,The Association
+978,490,1962,Ray Charles
+979,490,1962,Ray Charles
+980,491,1970,The Kinks
+981,491,1970,The Kinks
+982,492,1962,Ronnie And The Hi-Lites
+983,492,1962,Ronnie And The Hi-Lites
+984,493,1957,Jerry Lee Lewis And His Pumping Piano
+985,493,1957,Jerry Lee Lewis And His Pumping Piano
+986,494,1978,Commodores
+987,494,1978,Commodores
+988,495,1958,Jimmy Clanton And His Rockets
+989,495,1958,Jimmy Clanton And His Rockets
+990,496,1960,Ray Peterson
+991,496,1960,Ray Peterson
+992,497,1961,Joey Dee And The Starliters
+993,497,1961,Joey Dee And The Starliters
+994,498,1964,Little Anthony And The Imperials
+995,498,1964,Little Anthony And The Imperials
+996,499,1964,The Beach Boys
+997,499,1964,The Beach Boys
+998,500,1968,Creedence Clearwater Revival
+999,500,1968,Creedence Clearwater Revival

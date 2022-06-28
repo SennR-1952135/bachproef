@@ -1,0 +1,201 @@
+,description
+0,iteration number
+1,Car chosen as travel mode
+2,Drive to transit chosen as travel mode
+3,Ride Hail chosen as travel mode
+4,Walk chosen as travel mode
+5,Walk to transit chosen as travel mode
+6,Bike chosen as travel mode
+7,iteration number
+8,Car chosen as travel mode
+9,Drive to transit chosen as travel mode
+10,Ride Hail chosen as travel mode
+11,Ride Hail to transit chosen as travel mode
+12,Walk chosen as travel mode
+13,Walk to transit chosen as travel mode
+14,Car chosen as travel mode
+15,Drive to transit chosen as travel mode
+16,Other modes of travel chosen
+17,Ride Hail chosen as travel mode
+18,Walk chosen as travel mode
+19,Walk to transit chosen as travel mode
+20,iteration number
+21,Revenue generated from ride hail
+22,Travel mode chosen
+23,Mode of travel chosen by the passenger
+24,Energy consumed by the vehicle while travelling by the chosen mode within the given time bin
+25,A given time slot within a day
+26,The average speed at which a vehicle can travel across the network during the given time bin
+27,The possible full speed at which a vehicle can drive through the given link (in m/s)
+28,Total number of links in the network that allow vehicles to travel with speeds up to the given free speed
+29,Average speed efficiency recorded by the the given network link in a day
+30,Total number of links having the corresponding link efficiency
+31,The time spent by a passenger waiting for a ride hail
+32,Hour of the day
+33,Frequencies of times spent waiting for a ride hail during the entire day
+34,Time of a day in seconds
+35,Unique id of the passenger travelling by the ride hail
+36,Unique id of the ride hail vehicle
+37,Time spent by the given passenger waiting for the arrival of the given ride hailing vehicle
+38,Travel fare charged by the ride hail in the given hour
+39,Hour of the day
+40,Revenue earned by ride hail in the given hour
+41,Hour of the day
+42,TAZ id
+43,Hour of the day
+44,Time spent by a passenger on waiting for a ride hail
+45,Hour of the day
+46,Iteration number
+47,Begin time of the iteration
+48,Time at which the iteration start event listeners started
+49,Time at which  the iteration start event listeners ended
+50,Time at which the replanning event started
+51,Time at which the replanning event ended
+52,Time at which the beforeMobsim event listeners started
+53,Begin dump all plans
+54,End dump all plans
+55,Time at which the beforeMobsim event listeners ended
+56,Time at which the mobsim run started
+57,Time at which the mobsim run ended
+58,Time at which the afterMobsim event listeners started
+59,Time at which the afterMobsim event listeners ended
+60,Time at which the scoring event started
+61,Time at which the scoring event ended
+62,Time at which the iteration ends event listeners ended
+63,Time at which compare with counts started
+64,Time at which compare with counts ended
+65,Time at which the iteration ended
+66,Iteration number
+67,Average of the total execution time for the given iteration
+68,Average of worst case time complexities for the given iteration
+69,Average of average case time complexities for the given iteration
+70,Average of best case time complexities for the given iteration
+71,Iteration number
+72,Time taken by the agent to travel in a crowded transit
+73,Amount of diesel consumed in megajoule
+74,Amount of food consumed in megajoule
+75,Amount of electricity consumed in megajoule
+76,Amount of gasoline consumed in megajoule
+77,Time at which the beforeMobsim event listeners started
+78,Number of vehicles of type BODY-TYPE-DEFAULT
+79,Number of vehicles of type BUS-DEFAULT
+80,Time at which the beforeMobsim event listeners ended
+81,Time at which the mobsim run started
+82,Time taken by the passenger to travel by car
+83,Time taken by the passenger to drive to the transit
+84,Time taken by the passenger to travel by other means
+85,Time taken by the passenger to travel on foot
+86,Time taken by the passenger to walk to the transit
+87,Total cost (including incentive) paid by the passenger to reach destination by walking to transit and then transit to destination
+88,Total cost (including incentive) paid by the passenger to reach destination on a ride hail
+89,Total incentive amount paid to passenger to reach destination by driving to transit and then transit to destination
+90,Total incentive amount paid to passenger to reach destination by ride hail
+91,Total incentive amount paid to passenger to reach destination by walking to transit and then transit to destination
+92,Total time taken by the passenger to travel from source to destination
+93,Sum of all the delay times incurred by the vehicle during the travel
+94,Time taken (in hours) by the vehicle to travel from source to destination
+95,Time taken (in hours) by the vehicle to travel from source to destination
+96,Time taken (in hours) by the vehicle(bus) to travel from source to destination
+97,Time taken (in hours) by the vehicle(car) to travel from source to destination
+98,Time taken (in hours) by the vehicle (subway) to travel from source to destination
+99,Miles covered by the vehicle to travel from source to destination
+100,Miles covered by the vehicle to travel from source to destination
+101,Miles covered by the vehicle(bus) to travel from source to destination
+102,Miles covered by the vehicle(car) to travel from source to destination
+103,Miles covered by the vehicle(subway) to travel from source to destination
+104,Miles covered by the vehicles(all modes) to travel from source to destination
+105,Iteration number
+106,Time taken by the agent to travel in a crowded transit
+107,Amount of diesel consumed in megajoule
+108,Amount of food consumed in megajoule
+109,Amount of electricity consumed in megajoule
+110,Amount of gasoline consumed in megajoule
+111,Time at which the beforeMobsim event listeners started
+112,GEH
+113,Person(Agent) Id
+114,vehicle id
+115,Start time of the vehicle
+116,Type of the event
+117,Type of fuel used in the vehicle
+118,Duration of the travel
+119,Cost of travel
+120,X co-ordinate of the location
+121,Y co-ordinate of the location
+122,Parking type chosen by the vehicle
+123,Pricing model
+124,Charging type of the vehicle
+125,Parking TAZ
+126,Distance between source and destination
+127,Location of the vehicle
+128,Mode of travel
+129,Current tour mode
+130,Expected maximum utility of the vehicle
+131,Available alternatives for travel for the passenger
+132,Whether the passenger possesses a personal vehicle
+133,Tour index
+134,Facility availed by the passenger
+135,Time of departure of the vehicle
+136,X ordinate of the passenger origin point
+137,Y ordinate of the passenger origin point
+138,X ordinate of the passenger destination point
+139,Y ordinate of the passenger destination point
+140,Fuel type of the vehicle
+141,Num of passengers travelling in the vehicle
+142,Number of links in the network
+143,Departure time of the vehicle
+144,Arrival time of the vehicle
+145,Type of vehicle
+146,Total capacity of the vehicle
+147,X ordinate of the start point
+148,Y ordinate of the start point
+149,X ordinate of the vehicle end point
+150,Y ordinate of the vehicle end point
+151,Fuel level at the end of the travel
+152,Seating capacity of the vehicle
+153,Type of cost of travel incurred on the passenger
+154,Time
+155,Time
+156,Total number of departures on all modes
+157,Total number of arrivals on all modes
+158,Duration of travel
+159,Total number of travels that got stuck on all modes
+160,Total number of travels by all modes
+161,Total number of departures by car
+162,Total number of departures by car
+163,Total number of travels that got stuck while travelling by car
+164,Total number of travels made by car
+165,Total number of departures by drive to transit
+166,Total number of arrivals by drive to transit
+167,Total number of travels that got stuck while travelling by drive to transit
+168,Total number of travels made by drive to transit
+169,Total number of departures by ride hail
+170,Total number of arrivals by ride hail
+171,Total number of travels that got stuck while travelling by ride hail
+172,Total number of travels made by ride hail
+173,Total number of departures on foot
+174,Total number of arrivals on foot
+175,Total number of travels that got stuck while travelling on foot
+176,Total number of travels made on foot
+177,Total number of departures by walk to transit
+178,Total number of arrivals by walk to transit
+179,Total number of travels that got stuck while travelling by walk to transit
+180,Total number of travels made by walk to transit
+181,Hour of the day
+182,Number of passengers travelling in the ride hail
+183,Total number of kilometers travelled by the ride hail vehicle
+184,Pattern
+185,Value
+186,Hour of the day
+187,Mean relative error
+188,Mean bias value
+189,Hour of the day
+190,Mean normalized relative error
+191,Mean bias value
+192,Id of the ride hail vehicle
+193,Id of the ride hail manager
+194,Type of the beam vehicle
+195,X-coordinate of the initial location of the ride hail vehicle
+196,Y-coordinate of the initial location of the ride hail vehicle
+197,X-coordinate of the geo fence central point
+198,Y-coordinate of the geo fence central point
+199,Radius of the geo fence

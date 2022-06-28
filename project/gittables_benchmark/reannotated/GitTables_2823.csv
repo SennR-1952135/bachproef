@@ -1,0 +1,11 @@
+,name
+0,hr.payroll.structure
+1,hr.contribution.register
+2,hr.salary.rule.category
+3,hr.payslip
+4,hr.payslip.line
+5,hr.payslip.input.user
+6,hr.payslip.worked_days
+7,hr.payslip.run
+8,hr.rule.input
+9,hr.salary.rule.user

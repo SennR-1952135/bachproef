@@ -1,0 +1,154 @@
+,category,code,description
+0,All,Action Script,Participant mentioned Action Script
+1,All,Alternative Idioms,Other functionally equivalent ways of writing the same snippet
+2,All,Ambiguous Readability,Difficult for participant to infer meaning of code without more information
+3,All,Amusement,Participants finds humor or enjoyment out of the source code
+4,All,Anecdote,"A specific memorable event, bug, experience caused them to learn this"
+5,All,Argument Order,Participant is concerned about what order variables are listed
+6,All,Arithmetic,Participant talks about arithmetic
+7,All,Attention,Participant describes how much or how little attention they were paying
+8,All,Attribution of Confusion,Subject identifies which part of the snippet they read was confusing to them
+9,All,Author Intention,"Questions the reason the programmer wrote the code they did, or the way in which they wrote it"
+10,All,Bash,Particpant mentioned bash scripting
+11,All,BASIC,Participant talks about the BASIC programming language
+12,All,Boolean Value of Integer,Participant describes whether an integer is true or false
+13,All,Bottom-up comprehension,Understanding the code by first reading all the constituent parts and learning how it works
+14,All,Boundary Testing,Participant talks about edge cases that could change the semantics of a snippet if different values were used.
+15,All,Branch testing,"Trying to understand what happens in every branch, or what is the need for each branch."
+16,All,C Experience,Participant describes their familiarity with the C language
+17,All,C vs C++,Participant distinguishes between C and C++
+18,All,Caught Own Mistake After Prompted,Participant notices their own mistake after being directly told by interviewer
+19,All,Caught Own Mistake Before Prompted,Participant notices their own mistake without being (directly) told by interviewer
+20,All,Causes of Confusion,"What is the nature of bad code, why is something harder to read than something else"
+21,All,Change of Radix,Participant converts integer from one base to another
+22,All,Clever,Participant suggests that author was adding extra flare to their code beyond just making it work
+23,All,Code Review,Participant mentions a code review
+24,All,Cognitive Load,Participant describes factors that influence their working memory
+25,All,Combined multiple elements,Subjects interperates multiple expressions/statements/etc as a single construct
+26,All,Comment,Participant mentions comments
+27,All,Common Pattern,Participant describes code that they often see in practice
+28,All,Communication,"How or why a programmer talks to another, or leaves information for them"
+29,All,Compiler Opimizations,Participant talks about their behavior in terms of how the compiler might optimize code
+30,All,Complex,Participant talks about code that has more moving parts
+31,All,Comprehension Technique,Participant describes a mental tool they use to understand code
+32,All,Conflating Macros with Constants,Implying that macros are constants and vice-versa.
+33,All,Contrasting different languages,"Comparing one language to another, considering the different types of semantics"
+34,All,Control Flow Skips Code,Participant suggest the execution of the program bypasses a segment of code.
+35,All,Convention,"Participant describes what is typically done, or &quot;how they&apos;ve always seen it before&quot;"
+36,All,Correct for Wrong Reasons,"The output of the participants evaluation is correct, but their justification wouldn&apos;t hold in many other scenarios."
+37,All,Correct Semantics,Participant describes behavior as it actually does occur
+38,All,Counterfactual Semantics,"Semantics that the participant believes might be true, if they&apos;re wrong, or alternative erroneous ways the code could work, but they know it doesn&apos;t. Similar to Multiple Possible Semantics, except the participant believes they know the correct behavior."
+39,All,Custom Environments,Describing non-standard coding practices that are used
+40,All,Dependency,Talking about interactions between different segments of code
+41,All,Design Concerns,What factors matter when writing code
+42,All,Development Behavior,"Things that they do when they code that are external to the source itself, e.g. testing, debugging"
+43,All,Did Not Catch Own Mistake After Prompted,"Interviewer described a core error in the participants reasoning, and yet they did not identify their answer was wrong."
+44,All,Double Check,Goes back and verifies their answer is correct
+45,All,Emotional Aspect,How different types of code make people feel
+46,All,Evaluation Order,In what order expressions are evaluated (including associativity issues)
+47,All,Example Problem,Specific instance where an atom or programming construct can be confusing
+48,All,Experienced vs Inexperienced,Participant contrasts the skills of people who have more vs less experience
+49,All,"Expression vs Statement, value vs no-value",Participant discusses whether a construct returns a value or not
+50,All,False Operand Causes Short-Circuit,Participant thinks &amp;&amp; and || both short-circuit when the first operand is false
+51,All,Few things,Participant suggests that not many operations need be performed
+52,All,Fortran,Participant mentioned Fortran
+53,All,Functional Programming,Participant mentions functional programming
+54,All,Golang,
+55,All,Guessing,Participant guessed about what the code did
+56,All,Haskell,Participant mentions Haskell
+57,All,History Lesson,Participant describes the way things were back in the day. Alternative they talk about fun facts about the design of the language that aren&apos;t immediately relevant to performing the exercise.
+58,All,If-statements must operate on a variable,Participants think that the condition of an if-statement must contain a reference to a variable and make a decision based on that variable
+59,All,Incorrect Semantics,Participant describes behavior that is not specificified by the language
+60,All,Inferring semantics from other language,
+61,All,Inferring Semantics from Reasoning,Participant uses logic to try to deduce how the language/snippet works
+62,All,Integer Radix for String,"Participant believes changing integer base only applies to strings, not int storage types."
+63,All,IOCCC,Participant mentions an obfuscated code contest
+64,All,Java,Participant mentioned Java
+65,All,Javascript,Participant talks about javascript
+66,All,Language Expectations,The programming language does something the subject finds intuitive or unintuitive
+67,All,Language Standard,Participant references the C/C++ specification as a justification for some behavior.
+68,All,Language Value Judgement,Participant expresses opinion about the quality of the language
+69,All,Learned by Internet Search,
+70,All,Learned by Programming,"Participant developed a skill by trying it, without first reading or taking a class"
+71,All,Learned by Reading Book,Subjects talks about reading to learning programming
+72,All,Learned by Reading Code,"Participant spent time reading open source, or professional, or example code, and learned from that"
+73,All,Learned from Class,Participant heard about this concept in a school (pre/post-secondary) setting.
+74,All,Learned from Mistake,Specific mistakes were what this participant learned from
+75,All,Learned from Parents,
+76,All,Lisp,Participant mentions Lisp programming language
+77,All,Logical Operator Must Be in Condition,"Participant believes logical operators are only valid inside if-statements, while-loops, etc."
+78,All,Long ago,The participant expresses that their experience is not recent
+79,All,Macro Expansion Can&apos;t Contain Space,Participant believes that macro definitions can&apos;t have spaces in them
+80,All,Macro Redefinition,Participant talks about the semantics of what happens when an old macro definition is succeeded by a newer one
+81,All,Maintainability,What makes a piece of code better to work with in the future
+82,All,Math is easy or hard,Participant describes the ease or difficulty of mathematics
+83,All,Matlab,
+84,All,Memory Management,"Participant mentions anything about memory in C, dynamic allocation, heap, stack, etc."
+85,All,Mental Model,Participant relay&apos;s a mnemonic device for understanding how the language works
+86,All,Mistook asignment for equality,Thought=was ==
+87,All,Modulus,Participant makes a comment about the modulus operator
+88,All,Multiple Possible Semantics,"Participant proposes several behaviors that could explain how the code works. Similar to Counterfactual Semantics, except they do not believe any particiular idea is actually correct"
+89,All,Non-standard terminology,Participant uses a not generally accepted term to describe something
+90,All,Not Previously Seen,Participant has never seen this used before
+91,All,Not Previously Written,Participant has never written code that looks like the snippet
+92,All,Notices Atom,Participant directly comments on the code that contains the atom. Independent of whether they understand it.
+93,All,Notices Transformation Correctly,The participant correctly determines that the current snippet is functionally the same as a previous Atom/Transformation.
+94,All,Notices Transformation Incorrectly,"Participant believes this snippet is the same as a previous one, but actually it is not an intentional Transformation, just unintentional similarity"
+95,All,Open Source Software,Participant talks about OSS
+96,All,Overconfident,Optimistic. Opposite of paranoid. Participant sees no way that they could be wrong.
+97,All,Paranoia,"Generalized unease and defensive suspicion, not necessarily about any particular construct in general"
+98,All,Parenthesis,Comment about parens themselves
+99,All,Partially Correct Semantics,"There are elements of the participants description which are true, and elements which are false"
+100,All,Pascal,Participant mentioned Pascal
+101,All,Performance Optimization,How the participant makes their code more efficient
+102,All,PHP,Participant mentioned PHP
+103,All,Pointer Arithmetic (Not The Atom),"When the participant talks about pointer arithmetic in general, not an example of the atom itself."
+104,All,Potential Confusing Constructs,Suggesting types of code that might hypothetically be confusing
+105,All,PowerShell,
+106,All,Pre vs Post-increment,The participant is unsure of the difference between x++ and ++x
+107,All,Precedence,Participant talks about the order in which expressions are parsed
+108,All,Previously Seen,Participant has viewed code like this previously
+109,All,Previously Used,Participant has interacted (voluntarily?) with this construct in the past
+110,All,printf,Participant comments on the use of printf or their experience with it
+111,All,Professional vs Academic,Participant contrasts school with production code
+112,All,Python,Participant talks about Python
+113,All,Question about Semantics,Participant directly asks how a particular construct works
+114,All,Questioning Program Validity,Participant believes the code they are presented may not compile/run without error
+115,All,Questioning Program Validity (correctly),Participant spots an actual flaw in our code
+116,All,Reason for Clarity,A construct that makes a piece of code easy to understand
+117,All,Reasoning by Parts,Participant talks about understanding all constituent parts and therefore understands the whole snippet
+118,All,Recurring Problem,Participant claims this is an issue they have on a regular basis
+119,All,Relying on Correctness of Example,The participant would otherwise be unsure whether the code was correct if it weren&apos;t for the fact that they know the examples we provide do compile.
+120,All,Remember,Participant tries to recall something they claim they once knew
+121,All,Short-circuiting,Participant describes the behavior of logical short-circuiting
+122,All,Side-effect,Participant mentions mutations or side-effects
+123,All,Similar To,Participant points out (potentially erroneous) similarities between this code and something else they&apos;re aware of
+124,All,Simple,Participant calls a construct or snippet simple or easy or straightforward
+125,All,Snippet Value Judgement,Opinion or commentary on the source code they&apos;re reading
+126,All,Social Context of Code,How groups of programmers think about languages and programs
+127,All,SQL,
+128,All,Static vs Dynamic type-checking,Participant discusses the timing of type-checking
+129,All,Strings as Pointers/Arrays,Participant discusses (or fails to discuss) the relationship between strings and pointers or arrays
+130,All,Style,"Comments about the way in which code is written, in terms of convention or aesthetics"
+131,All,Sure,Participant is positive
+132,All,Tautological Reasoning,&quot;That&apos;s just how it works&quot;
+133,All,Tooling,Participant talks about the infrastructure around code
+134,All,Top-down comprehension,"Subjects talks about the intentions of the programmer, or what the code is &quot;supposed&quot; to be doing"
+135,All,Top-down writing,"Writing code starting fromt he high-level outline, then filling in the details"
+136,All,Trick Question,Participant asks whether the code is intentionally written to be confusing
+137,All,Uncommon pattern,Participant claims that a construct is not used very frequently
+138,All,Unfamiliar Syntax,Participant doesn&apos;t understand the notation of the code they&apos;re reading
+139,All,Uninitialized,Makes any comment regarding variable which isn&apos;t assigned a variable upon declaration.
+140,All,Unsure,"Participant thinks they know, but are not completely sure"
+141,All,Value Exists,Participant makes decisions based on whether or not a value &quot;exists&quot;
+142,All,Value of Different Programming Languages,Participant talks about why different languages are good
+143,All,Variable Name,Participant talks about the choice of names for variables
+144,All,Wanted Reference,Participant would have liked eternal resources like google or man page
+145,All,Would Have Written it Differently,Participant expresses that they would have preferred a different form for the snippet
+146,All,Would RTFM,"Would google, or look up the answer."
+147,All,Writing vs Reading,The differenes between generating code and comprehending it
+148,Meta-codes,Apparent Contradiction,
+149,Meta-codes,Criticism of Study Design,"Subject makes a comment about the study itself, suggesting flaws or improvements. Subject expresses ambiguity over what values to grade a subjective question"
+150,Meta-codes,Surprising comment,The participant said something I did not expect them to say.
+151,Meta-codes,Visual Reference,Refering to something not spoken
+152,Meta-codes,Discussion Question,Subject asks a question during the discussion phase

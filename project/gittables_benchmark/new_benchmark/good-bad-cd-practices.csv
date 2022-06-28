@@ -1,0 +1,70 @@
+,category,description,type
+0,Configuration Managment," If your system grows or you have components that several projects depend on, you may consider splitting out your components’ builds into separate pipelines. If you do so, it’s important to have binary dependencies between your pipelines rather than source dependencies",best practice
+1,Configuration Managment,"Configuration information can be injected into your application at several points (build time, packaging time, deployment time, startup time or run time). Bad practice to inject configuration information at build or packaging time.",anti-pattern
+2,Configuration Managment,"Configuration can be supplied in the form of environment variables, as arguments to the command used to start the system, registry settings, a database, configuration files, or an external configuration service (accessed via SOAP or a REST-style interface, for example). Supply all configuration information for all the applications and environments in your organization through the same mechanism",best practice
+3,Configuration Managment,e.g. test whether references to external services in your configuration settings are good (e.g. through pinging),best practice
+4,Configuration Managment,"keep a catalogue of all the configuration options that each of your applications has, where they are stored, what their lifecycle is, and  how they can be changed. Should be generated automatically from each  application’s code as part of the build process",best practice
+5,Configuration Managment,,best practice
+6,Configuration Managment,,best practice
+7,Configuration Managment,Avoid obscure or cryptic names. without a manual—it should be possible to understand what the configuration properties are,best practice
+8,Configuration Managment,Changes in the configuration of environments are directly and manually performed rather than being made in version control and then propagated to production through an automated process. It should be possible to re-create every environment in a automated way (e.g. through virtualization).,anti-pattern
+9,Configuration Managment,,best practice
+10,Configuration Managment,"In terms of software configuration, testing environments should be exact replicas of the production ones, so configuration problems can be found early.",best practice
+11,Configuration Managment,,best practice
+12,Configuration Managment,A production environment should be completely locked down. It should not be possible for anybody to make a change to it without going through your organization’s change management process.,anti-pattern
+13,Continuous Integration,,best practice
+14,Continuous Integration,"Ideally, the compile and test process that you run prior to check-in and on your CI server should take no more than a few minutes. We think that ten minutes is about the limit, five minutes is better, and about ninety seconds is ideal",best practice
+15,Continuous Integration,"First stage: to compile the software, run your suite of unit tests and create a deployable binary. Second stage: binaries from the first stage and run the acceptance tests, as well as integration tests, and performance tests",best practice
+16,Continuous Integration,smoke test should perform a few simple acceptance and integration tests to make sure that the most commonly used functionality isn’t broken,best practice
+17,Continuous Integration,"We’ve seen people use red and green lava lamps to show the status of the last build, or a CI system that sent the status to a Nabaztag wireless electronic rabbit. One developer we know, with some skill in electronics, created an extravagant tower of flashing lights and sirens which would explode into action to indicate the progress of various builds on a complex project. Another trick is to use text-to-speech to read out the name of the person who broke the build. Some continuous integration servers can display the status of the build, along with the avatars of the people who checked in—and this can be displayed on a big screen",best practice
+18,Continuous Integration,refresh local copy of the project by updating from the version control system,best practice
+19,Continuous Integration,"Many modern CI servers offer a feature variously known as pretested commit, personal build, or preflight build (wikipedia: gated commit, gated check-in). Using this facility, instead of checking in yourself, your CI server will take your local changes and run a build with them on the CI grid. If the build passes, the CI server will check your changes in for you. If the build fails, it will let you know what went wrong",best practice
+20,Continuous Integration,,best practice
+21,Continuous Integration,"At the point of check-in, the developers who made it are responsible for monitoring the build’s progress. Until their check-in has compiled and passed its commit tests, the developers should not start any new task",best practice
+22,Continuous Integration,"Establish a team rule: When the build breaks on check-in, try to fix it for ten minutes. If, after ten minutes, you aren’t finished with the solution, revert to the previous version from your version control system",best practice
+23,Continuous Integration,"It is your responsibility to fix all tests that are not passing as a result of your changes. This practice has several implications. It means that you need to have access to any code that you can break through your changes, so you can fix it if it breaks. It means that you can’t afford to have developers own a subset of the code that only they can work on",best practice
+24,Continuous Integration,the only way to get excellent unit test coverage is through test-driven development.,best practice
+25,Continuous Integration,"For some projects failing the build on any warning may sound too draconian. One approach that we have used to introduce this practice gradually is ratcheting. This means comparing the number of things like warnings or TODOs with the number in the previous check-in. If the number increases, we fail the build. Using this approach, you can easily enforce a policy that every commit should reduce the number of warnings or TODOs at least by one",best practice
+26,Continuous Integration,"For some projects failing the build on any warning may sound too draconian. One approach that we have used to introduce this practice gradually is ratcheting. This means comparing the number of things like warnings or TODOs with the number in the previous check-in. If the number increases, we fail the build. Using this approach, you can easily enforce a policy that every commit should reduce the number of warnings or TODOs at least by one",best practice
+27,Testing,Run unit tests before component and end2end tests,best practice
+28,Testing,"Having been caught short many times by bad performance just before release, we recommend that you set up at least some basic nonfunctional tests towards the start of any project, no matter how simple or inconsequential",best practice
+29,Testing,start writing automated acceptance tests from the very beginning,best practice
+30,Testing,"The best way to introduce automated testing is to begin with the most common, important, and high-value use cases of the application",best practice
+31,Testing,"It is essential to ensure that you don’t hit a real external system unless you are in production, or you have some way of telling the service that you are sending it dummy transactions for testing purposes",best practice
+32,Testing,"It is essential that your test harness replicates not only the expected responses to service calls, but also unexpected ones.",best practice
+33,Continuous Integration,Several compilations are repeated during deployment stage.,Anti-pattern
+34,Continuous Integration,You should make sure that every component of your infrastructure is up and running.,Best-practice
+35,Continuous Integration,"Prior realising a change in the production environment, the change has to be tested in a similar environment",Best-practice
+36,Configuration,"It is vital that you have the correct versions of all libraries, components, environments, which means the same versions that are know to work with the version of the source code you are working from. simplest solution of all is to commit these libraries into your version control system along with your source code",best practice
+37,Deployment,"For many organizations, a “build script” is a printed document with a series of instructions. Steps for deployment are performed manually rather than automating the process by using a single script.",anti-pattern
+38,Deployment,"During development, software is tested in a development environment only. Deployment to a staging/production environment happens after the development is finished rather than integrating them in the developing process.",anti-pattern
+39,VC,"Don't check passwords into VC. Use environment variables for passwords, SSH keys and credentials (https://docs.gitlab.com/ee/ci/variables/)",anti-pattern
+40,Build,Jobs in same stages are executed in parallel,best practice
+41,Build,"Any artificats produced during the build (binaries, configuration, metadata, reports, ...) should be placed in the directory target/",best practice
+42,Cleaning,Remove generated output after/before build (e.g. with Maven's clean),best practice
+43,Build,"Executable code should be the same executable code that is deployed into every environment, whether it is a testing environment or a production environment. Thus, executable code should not be rebuilt for other environments.",best practice
+44,Configuration,Use relative paths rather than absolute ones.,anti-pattern
+45,Deployment,Using the same scripts to deploy to each environment and representing the differences between environments—such as service URIs and IP  addresses—as configuration information to be managed separately. It is  essential that both build and deployment scripts work on developers’  machines as well as on production-like environments,best practice
+46,Deployment,You’ll need to ensure that any libraries your application depends on are packaged up along with your application’s binaries as part of your  deployment pipeline. Build tools such as Ivy and Maven have no place on production boxes.,best practice
+47,Configuration,It’s essential to be able to determine from any given binary which revision in version control was used to generate it. JAR files can include metadata in their manifests ->  include the version control revision identifier,best practice
+48,Build,"In some build systems, the default behavior is that the build fails immediately when a task fails. instead, record the fact that the activity has failed, and continue with the rest of the build process. Then, at the end of the process, see if any of the individual tasks  failed and, if so, exit with a failure code.",anti-pattern
+49,Security,Use safe protocols such as https,best practice
+50,Build,Retrying a job in case of a failure.,anti-pattern
+51,Build,"No failures should be ""tolerated"" in the process. Each step should be set in a way that it can break the build. ",anti-pattern
+52,Configuration,Don’t mix the caching with passing artifacts between stages. `cache` is used for temporary storage for project dependencies. `artifacts` are used for stage results that will be passed between stages.,anti-pattern
+53,Testing,"Automated test coverage includes unit, component, and acceptance tests, each of which should cover 80% of the application",best practice
+54,Testing,Developers comment out failing tests in order to get their changes checked in,anti-pattern
+55,VC,Explain what the change is in the commit message -> do not drop it or don't write unhelpful/meaningless messages. One style we like is a multiparagraph commit message in which the first paragraph is a summary and the following paragraphs add more detail.,best practice
+56,VC,include a link to the identifier in your project management tool for the feature or bug you’re working on,best practice
+57,VC,"The cardinal sin of continuous integration is checking in on a broken build. If the build breaks, the developers responsible are waiting to fix it",best practice
+58,VC,Commit changes to the version control system at the conclusion of each separate incremental change or refactoring,best practice
+59,VC,Commit changes to the trunk in version control on a regular and frequent basis rather than using branching to defer integration,anti-pattern
+60,VC,Don't keep binary output of application’s compilation in version control,anti-pattern
+61,VC,The target directory is used to store all output of the build.,anti-pattern
+62,Build,The build should be triggered whenever commits are pushed,best practice
+63,Testing,Unit tests should run fast.,anti-pattern
+64,Configuration,"Python: https://docs.python-guide.org/writing/structure/
+Java: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html",best practice
+65,Testing,"Unit tests should be stored in a mirror of the package hierarchy of your code—that is, a test for a given class should be in the same package as that class.",best practice
+66,VC,"You have several options for managing libraries. One is to completely delegate library management to a tool like Maven or Ivy. In this case, you don’t need to check any libraries into version control—just declare the dependencies you require in your project specification. At the other end of the spectrum, you can check into source control all the libraries your project requires to build, test, or run the system, in which case it is common to put them into a directory called lib at the root of your project.",best practice
+67,VC,You should check in your code at least a couple of times a day into the master branch,best practice

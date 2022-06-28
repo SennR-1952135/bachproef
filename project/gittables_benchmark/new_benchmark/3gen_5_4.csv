@@ -1,0 +1,198 @@
+,year,country,city
+0,2017,Germany;Germany,Munich;Neuherberg
+1,2017,Sweden,Stockholm
+2,2017,United Kingdom,Hinxton
+3,2017,United Kingdom;United Kingdom,Cambridge;Hinxton
+4,2017,United States,Seattle
+5,2017,Germany,Munich
+6,2017,Israel,Rehovot
+7,2017,United Kingdom;United Kingdom,Cambridge;Hinxton
+8,2016,Israel,Rehovot
+9,2016,United States;United States,Berkeley;San Francisco
+10,2016,United States;United States,Cambridge;Cambridge
+11,2016,United States,Cambridge
+12,2016,United States,Cambridge
+13,2016,United States,Berkeley
+14,2016,France;France,Paris;Paris
+15,2016,Israel,Rehovot
+16,2016,United States;United States,Pasadena;Los Angeles
+17,2016,Sweden,Stockholm
+18,2016,United Kingdom,Cambridge
+19,2016,United States;United States,Berkeley;Cambridge
+20,2016,Singapore,Singapore City
+21,2016,United States,Houston
+22,2016,Germany;Germany,Neuherberg;Munich
+23,2016,United States,Stanford
+24,2016,United States,New York
+25,2016,United States,Cambridge
+26,2016,United States;United States,Cambridge;Cambridge
+27,2016,United States,Cambridge
+28,2016,United States;Switzerland,Palo Alto;Zurich
+29,2016,United States,Cambridge
+30,2016,United Kingdom,Cambridge
+31,2016,United States,Cambridge
+32,2016,Italy;United States,Pisa;Seattle
+33,2016,Netherlands;Netherlands;Germany,Utrecht;Utrecht;Freiburg im Breisgau
+34,2016,United States,Seattle
+35,2016,United States;United States,Cambridge;Cambridge
+36,2016,United States;Germany,Palo Alto;Munich
+37,2016,United States,Washington
+38,2016,Sweden,Stockholm
+39,2016,Sweden;Sweden,Stockholm;Stockholm
+40,2016,Singapore,Singapore City
+41,2016,United States,Bethesda
+42,2016,United States,San Diego
+43,2016,United States;Germany,Palo Alto;Leipzig
+44,2016,United States,New York
+45,2016,United Kingdom;United Kingdom,Cambridge;Hinxton
+46,2016,United States;United States,Berkeley;San Francisco
+47,2016,Germany,Neuherberg
+48,2016,United States,Cambridge
+49,2016,United States;United States,Santa Barbara;Seattle
+50,2016,United Kingdom,Cambridge
+51,2016,Switzerland,"Zurich ZH,"
+52,2016,,
+53,2016,United States,Stanford
+54,2016,United Kingdom,Cambridge
+55,2016,United States,Houston
+56,2016,United States,Washington
+57,2016,United States;Sweden,Palo Alto;Uppsala
+58,2016,Netherlands;Netherlands,Utrecht;Amsterdam
+59,2016,Germany;United States;Germany,Neuherberg;Cambridge;Munich
+60,2016,United Kingdom;United Kingdom,Cambridge;Hinxton
+61,2016,United States,Cincinnati
+62,2015,United States,Washington
+63,2015,Israel,Rehovot
+64,2015,United States;United States,Cambridge;Cambridge
+65,2015,United States,Cambridge
+66,2015,United States,Houston
+67,2015,Netherlands;Germany;Netherlands,Utrecht;Freiburg im Breisgau;Amsterdam
+68,2015,United States;United States,Cambridge;Cambridge
+69,2015,United Kingdom,London
+70,2015,Switzerland,Lausanne
+71,2015,Switzerland;Switzerland,Zurich;Zurich
+72,2015,United States,Cambridge
+73,2015,Netherlands;Netherlands,Utrecht;Utrecht
+74,2015,United States,Baltimore
+75,2015,United Kingdom;United Kingdom,Cambridge;Hinxton
+76,2015,Germany;Germany,Neuherberg;Munich
+77,2015,United States,Stanford
+78,2015,Japan,Wako
+79,2015,United States,New Haven
+80,2015,United States,New York
+81,2015,United Kingdom;United Kingdom,Cambridge;Cambridge
+82,2015,United States,Palo Alto
+83,2015,United States,Boston
+84,2015,United States;United States,Boston;Cambridge
+85,2015,Canada,Calgary
+86,2015,United States;United States,Cambridge;Cambridge
+87,2015,United States,Seattle
+88,2015,United Kingdom,Hinxton
+89,2015,United Kingdom;Germany,Cambridge;Heidelberg
+90,2015,United States;United States;United States,New York;Cambridge;New York
+91,2015,Germany,Berlin
+92,2015,China,Beijing
+93,2015,United States,Cambridge
+94,2015,Sweden,Stockholm
+95,2015,United States,Palo Alto
+96,2015,United States,Cambridge
+97,2015,Denmark;Sweden,Lyngby;Stockholm
+98,2015,United Kingdom,Hinxton
+99,2015,United Kingdom,London
+100,2015,United Kingdom;United Kingdom,Cambridge;Cambridge
+101,2015,Austria,Vienna
+102,2015,Netherlands;Netherlands,Utrecht;Amsterdam
+103,2015,United Kingdom,Hinxton
+104,2015,United States,Cambridge
+105,2015,United Kingdom,Cambridge
+106,2015,Germany;United Kingdom,Neuherberg;London
+107,2014,United States,Boston
+108,2014,United States,Palo Alto
+109,2014,United States,San Francisco
+110,2014,United Kingdom;United Kingdom,Cambridge;Hinxton
+111,2014,United States,Pasadena
+112,2014,United States,Houston
+113,2014,United Kingdom;United Kingdom;United Kingdom,Cambridge;Cambridge;Hinxton
+114,2014,United States,Stanford
+115,2014,United States,Stanford
+116,2014,Japan;Japan;Japan;Japan,Tokyo;Wako;Kawaguchi;Kobe
+117,2014,United States,Washington
+118,2014,United States,Bangalore
+119,2014,United States,Philadelphia
+120,2014,Sweden,Stockholm
+121,2014,United States,Rochester
+122,2014,United States,New York
+123,2014,United States,Pasadena
+124,2014,United States;United States,Stanford;San Francisco
+125,2014,United States,Boston
+126,2014,United States;United States;United States,Boston;Cambridge;Boston
+127,2014,United Kingdom,Cambridge
+128,2014,United States;United States,Cambridge;Cambridge
+129,2014,Switzerland,Zurich
+130,2014,United States,Stanford
+131,2014,Israel,Rehovot
+132,2014,United States;United States,Cambridge;Cambridge
+133,2014,United States;United States;United States,Boston;Cambridge;Chevy Chase
+134,2013,China,Beijing
+135,2013,Sweden,Stockholm
+136,2013,United States,Stanford
+137,2013,United Kingdom,London
+138,2013,United States,San Francisco
+139,2013,United Kingdom,Cambridge
+140,2013,Sweden;Sweden,Stockholm;Uppsala
+141,2013,Israel,Rehovot
+142,2013,United States,Seattle
+143,2013,United States;United States,Palo Alto;Boston
+144,2013,United States,Cambridge
+145,2013,Australia;Netherlands,Melbourne;Amsterdam
+146,2013,United States,Boston
+147,2013,Israel,Rehovot
+148,2013,Singapore;Thailand,Singapore City;Nakhon Pathom
+149,2012,China;United States;Canada,Beijing;Seattle;Calgary
+150,2012,Israel,Haifa
+151,2012,United States,Washington
+152,2012,United States,Stanford
+153,2012,Israel;Israel;Israel,Haifa;Haifa;Haifa
+154,2012,United States,Stanford
+155,2012,United States,Philadelphia
+156,2012,United States;United States,Berkeley;San Francisco
+157,2012,Israel,Rehovot
+158,2012,United States,Seattle
+159,2012,United Kingdom,Cambridge
+160,2012,Sweden;Sweden,Stockholm;Stockholm
+161,2011,United States,Stanford
+162,2011,Japan,Wako
+163,2011,United States,Stanford
+164,2011,United States;United States,Boston;Cambridge
+165,2010,United States;Israel,Chevy Chase;Tel Aviv-Yafo
+166,2010,United States,Philadelphia
+167,2010,United Kingdom;United States,Chichester;San Diego
+168,2009,United States,Stanford
+169,2008,United States,Stanford
+170,2008,United States,Nashville
+171,2008,Belgium,Louvain-la-Neuve
+172,2008,United States,Fairfax
+173,2008,United States,Seattle
+174,2008,United States,Pittsburgh
+175,2007,Netherlands,Utrecht
+176,2007,United States,Pittsburgh
+177,2007,United States,"Memphis TN,"
+178,2007,Canada,Toronto
+179,2007,United States;United States,Pasadena;Los Angeles
+180,2006,United States,Pittsburgh
+181,2006,United States,Pasadena
+182,2005,United States,Cambridge
+183,2003,United Kingdom,Newcastle
+184,1999,Italy,Rome
+185,1996,United States,Philadelphia
+186,1996,United States,Cambridge
+187,1994,United States,Philadelphia
+188,1992,United States,Philadelphia
+189,1990,United States,Stanford
+190,1988,United States,Stanford
+191,1982,United Kingdom;United Kingdom,London;Cardiff
+192,1982,United States,New Haven
+193,1981,United States;Spain,Avon;Madrid
+194,1976,United Kingdom;United States,Chichester;Princeton
+195,1975,United Kingdom,Cambridge
+196,1965,United States,Los Alamos

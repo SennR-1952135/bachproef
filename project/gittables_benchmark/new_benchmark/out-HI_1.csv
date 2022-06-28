@@ -1,0 +1,261 @@
+,city,state,name,address
+0,Aiea,HI,Times Supermarket,98-1264 Kaahumanu St
+1,Aiea,HI,Times Supermarket,99-115 Aiea Heights Dr
+2,Aiea,HI,Down To Earth Organic & Natural,98-211 Pali Momi St #950
+3,Aiea,HI,Sack N Save,4561 Salt Lake Blvd
+4,Aiea,HI,Safeway,98-1277 Kaahumanu St
+5,Aiea,HI,Palama Market,98-020 Kamehameha Hwy
+6,Aiea,HI,Sullivan Family Kitchen,not_available
+7,Anahola,HI,Healthy Hut,4480 Hookui Rd
+8,Captain Cook,HI,KTA Express,not_available
+9,Captain Cook,HI,Ocean View Market,92-8676 Lotus Blossom Ln
+10,Captain Cook,HI,Malama Market,92-8701 Hawaii Belt Road
+11,Captain Cook,HI,Choicemart,not_available
+12,Eleele,HI,Big Save Market,4416 Waialo Rd
+13,Eleele,HI,Salt Pond Country Store,1-3443 Kaumaulii Hwy
+14,Ewa Beach,HI,Seafood City Supermarket,94-050 Farrington Hwy
+15,Ewa Beach,HI,Foodland,91-1401 Fort Weaver Rd
+16,Ewa Beach,HI,Safeway,91-1119 Keaunui Dr
+17,Ewa Beach,HI,Don Quijote,94-144 Farrington Hwy
+18,Ewa Beach,HI,Pacific Super Market,94-300 Farrington Hwy
+19,Ewa Beach,HI,Foodland Farms,not_available
+20,Ewa Beach,HI,D.A.S.H,94-265 Leowahine St
+21,Kapolei,HI,Walmart,91-600 Farrington Hwy
+22,Kapolei,HI,Down to Earth Organic & Natural,4460 Kapolei Pkwy Ste 320
+23,Kapolei,HI,Safeway,590 Farrington Hwy Unit 400
+24,Kapolei,HI,Walmart,94-595 Kupuohi St
+25,Kapolei,HI,Foodland,4850 Kapolei Pkwy #A
+26,Kapolei,HI,Island Country Markets,92-1049 Olani St. #4-101
+27,Kapolei,HI,Times Supermarket,94-615 Kupuohi St
+28,Kapolei,HI,Malama Market,92-585 Makakilo Dr #A
+29,Kapolei,HI,NEX Mini Mart,1928 Saratoga Ave.
+30,Kapolei,HI,Palama Holdings LLC,2029 Lauwiliwili St
+31,Kapolei,HI,Tamura's Market,91-1051 Enterprise Ave
+32,Haiku,HI,Haiku Grocery Store,810 Haiku Rd #143
+33,Haiku,HI,Foodland,55 Pukalani St
+34,Haiku,HI,Pukalani Superette,15 Makawao Ave
+35,Haiku,HI,Hanzawa's Variety Store,1833 Kaupakalua Rd
+36,Haiku,HI,Pauwela Store,375 W Kuiaha Rd
+37,Haiku,HI,Morihara Store,4581 Lower Kula Rd
+38,Haiku,HI,Foodland,not_available
+39,Haiku,HI,Rodeo General Store,3661 Baldwin Ave
+40,Haleiwa,HI,Foodland,59-720 Kamehameha Hwy.
+41,Haleiwa,HI,Matsumoto General Store,66-087 Kamehameha Hwy.
+42,Haleiwa,HI,Paalaa Kai Mini-Mart,66-945 Kaukonahua Rd
+43,Haleiwa,HI,Malama Market,66-190 Kamehameha Hwy
+44,Haleiwa,HI,Celestial Natural Foods,66-443 Kamehameha Hwy
+45,Haleiwa,HI,Waialua Fresh grocery store,67-071 Nauahi Street
+46,Haleiwa,HI,Malama's,not_available
+47,Hana,HI,Hasegawa General Store,Hana Hwy
+48,Hanalei,HI,Foodland,5-4280 Kuhio Hwy
+49,Hanalei,HI,Harvest Market Cafe & Deli Hanalei,5-5161 Kuhio Hwy. #F
+50,Hanalei,HI,Big Save Market,5-5172 Kuhio Hwy
+51,Hanapepe,HI,Ishihara Market,9894 Kaumualii Hwy
+52,Hanapepe,HI,Big Save Market,9861 Waimea Rd
+53,Hanapepe,HI,Salty Wahine Gourmet Hawaiian Sea Salts,"4460 Ikena Pl, Apt 49"
+54,Hauula,HI,Tamura's Market,54-316 Kamehameha Hwy
+55,Hawi,HI,Takata Store,54-3627 Akone Pule Hwy
+56,Hawi,HI,Nakahara Grocery Store,not_available
+57,Hilo,HI,KTA Superstores,50 E Puainako St
+58,Hilo,HI,Walmart,325 E Makaala St
+59,Hilo,HI,Safeway,381 E Makaala St
+60,Hilo,HI,Sack N Save,250 Kinoole St
+61,Hilo,HI,KTA Super Stores,321 Keawe St
+62,Hilo,HI,Foodland,not_available
+63,Hilo,HI,Sack N Save,2100 Kanoelehua Ave
+64,Hilo,HI,Island Naturals,1221 Kilauea Ave
+65,Hilo,HI,Kīlauea Market,1178 Kilauea Ave
+66,Hilo,HI,J. Hara Store,17-343 Volcano Rd
+67,Hilo,HI,Down To Earth,303 E Makaala St
+68,Hilo,HI,TNT Seafood Imports & Asian Grocery,212 Kamehameha Ave
+69,Hilo,HI,Arirang Mini Mart,165 E Kawili St
+70,Hilo,HI,Mt View Mini Mart,18-1314 hwy 11
+71,Hilo,HI,Abundant Life Natural Foods,292 Kamehameha Ave
+72,Hilo,HI,Hilo Rice Mill Co Ltd,67 Pookela St
+73,Hilo,HI,Kea'au Natural Foods,16-586 Old Town Rd
+74,Holualoa,HI,KTA Super Stores,78-6831 Alii Dr
+75,Holualoa,HI,Paul's Place,not_available
+76,Honokaa,HI,Malama Market,not_available
+77,Honokaa,HI,KTA - Waimea,65-1158 Mamalahoa Hwy
+78,Honokaa,HI,Foodland,67-1185 Mamalahoa Hwy
+79,Honokaa,HI,Natural Foods and Deli - Healthways II,67-1185 Mamalahoa Hwy # F137
+80,Honokaa,HI,Honokaa Country Market,Honokaa Waipio Rd
+81,Hoolehua,HI,Kualapuu Market,Uwao St
+82,Kahuku,HI,Kahuku Superette,56-505 Kamehameha Hwy
+83,Kahuku,HI,Foodland,55-510 Kamehameha Hwy
+84,Kahului,HI,Whole Foods Market,70 East Kaahumanu Avenue
+85,Kahului,HI,Walmart,101 Pakaula St
+86,Kahului,HI,Safeway,1090 Hookele St
+87,Kahului,HI,Safeway,58 Maui Lani Pkwy Ste 5000
+88,Kahului,HI,Sack 'n Save,790 Eha St
+89,Kahului,HI,Foodland,90 Kane St
+90,Kahului,HI,VIP Cash-n-Carry,221-699 Amala Pl
+91,Kahului,HI,TJ's Warehouse Outlet,875 Alua St
+92,Kahului,HI,Ah Fooks,65 W Kaahumanu Ave
+93,Kahului,HI,ohana mini mart,not_available
+94,Kahului,HI,Safeway,170 E Kamehameha Ave
+95,Kahului,HI,Alive & Well Natural Health,340 Hana Hwy
+96,Kailua,HI,Whole Foods Market,"629 Kailua Road, Suite 100"
+97,Kailua,HI,Foodland,108 Hekili St
+98,Kailua,HI,Safeway,1060 Keolu Dr
+99,Kailua,HI,Safeway,200 Hamakua Dr
+100,Kailua,HI,Kaneohe Bay MCBH Commissary,Mokapu Mall - MCBH
+101,Kailua,HI,Marine Mart MCB Hawaii,"M C B H Kaneohe Bay, HI 96863"
+102,Kailua,HI,Safeway,25 Kaneohe Bay Dr
+103,Kailua,HI,Down to Earth Organic & Natural,201 Hamakua Dr
+104,Kailua,HI,Times Supermarket,590 Kailua Rd
+105,Kailua,HI,Mana Foods,not_available
+106,Kailua,HI,Bellows Shoppette,449-475 Tinker Rd
+107,Kailua,HI,Shima's Supermarket,41-1606 Kalanianaole Hwy
+108,Waikoloa,HI,Island Gourmet Market,69-201 Waikoloa Beach Dr #B1
+109,Waikoloa,HI,Filipino Store,Waikoloa Road
+110,Waikoloa,HI,Foodland,Mauna Lani
+111,Waikoloa,HI,Puako General Store,07 Puako Beach Drive
+112,Waikoloa,HI,Waikoloa Village Market,68-3916 Paniolo Ave.
+113,Kailua Kona,HI,Safeway,75-1027 Henry St
+114,Kailua Kona,HI,Walmart,75-1015 Henry St
+115,Kailua Kona,HI,Island Naturals Kona,74-5487 Kaiwi St
+116,Kailua Kona,HI,Bahaykubo Asian Store,not_available
+117,Kailua Kona,HI,KTA Super Stores,74-5594 Palani Rd
+118,Kailua Kona,HI,Matsuyama Food Mart,"73-4354 Mamalahoa Hwy, Ste B"
+119,Kalaheo,HI,Sueoka Market,not_available
+120,Kalaheo,HI,Big Save Market,5516 Koloa Rd
+121,Kalaheo,HI,Sueoka's Snack Shack,5392 Koloa Rd
+122,Kamuela,HI,Kaupo General Store,Hana highway
+123,Kaneohe,HI,Foodland,45-480 Kaneohe Bay Dr
+124,Kaneohe,HI,Safeway,46-065 Kamehameha Hwy
+125,Kaneohe,HI,Times Supermarket,45-934 Kamehameha Hwy
+126,Kaneohe,HI,Times Supermarket,47-388 Hui Iwa St
+127,Kaneohe,HI,Family Grocery Store,"45-1127 Kamehameha Hwy, H"
+128,Kapaa,HI,Safeway,4-831 Kuhio Hwy
+129,Kapaa,HI,Hoku Foods Market,not_available
+130,Kapaa,HI,Papaya's Natural Foods,"4-831 Kuhio Hwy, #330"
+131,Kapaa,HI,Kauai Food Delivery,"4-1176 Kuhio Highway, Suite 2"
+132,Kapaa,HI,Kojima Store,1543 Kuhio Hwy
+133,Kapaa,HI,Foodland,4-771 Kuhio Hwy
+134,Kapaa,HI,Sunshine Farmers Market,Kapaa Ball Park
+135,Kapaa,HI,Big Save Market,1105 F Kuhio Hwy
+136,Kapaa,HI,Hoku Whole Foods,951 Kipuni Way
+137,Kaunakakai,HI,Outpost Natural Foods,not_available
+138,Kekaha,HI,Thrifty Mini-Mart,8240 Kekaha Rd
+139,Kekaha,HI,PMRF Navy Exchange,Tarter Drive
+140,Kihei,HI,Safeway,277 Piikea Ave
+141,Kihei,HI,Foodland,1881 S Kihei Rd
+142,Kihei,HI,Hawaiian Moons Natural Foods,2411 S Kihei Rd.
+143,Kihei,HI,Times Supermarket,1310 South Kihei Rd
+144,Kihei,HI,Whalers General Store,3750 Wailea Alanui Dr Ste B12
+145,Kihei,HI,Whalers General Store,"2463 S Kihei Rd, #A11"
+146,Kihei,HI,Maui Market Delivery,PO Box 532444
+147,Kilauea,HI,Kilauea Town Market & Deli,not_available
+148,Koloa,HI,Living Foods Market,2829 Ala Kalani Kaumaka St
+149,Lahaina,HI,Foodland,not_available
+150,Lahaina,HI,Foodland,345 Keawe St
+151,Lahaina,HI,Safeway,1221 Honoapiilani Hwy
+152,Lahaina,HI,Times Supermarket,3350 Lower Honoapiilani Rd
+153,Lahaina,HI,Napili Market,5095 Napilihau St #113
+154,Lahaina,HI,Farmers Market Maui & Deli,3636 Lower Honoapiilani Rd
+155,Lahaina,HI,Comercial Mexicana,840 Wainee St Ste 509
+156,Lahaina,HI,Ilocandio Filipino Store,840 Wainee St
+157,Lahaina,HI,ABC Store,2435 Kaanapali Pkwy
+158,Lanai City,HI,Richards Market,434 8th St
+159,Lanai City,HI,Pine Isle Market,356 8th St
+160,Lihue,HI,Walmart,3-3300 Kuhio Hwy
+161,Lihue,HI,Safeway,4454 Nuhou St #301
+162,Lihue,HI,Times Supermarket,3-2600 Kaumualii Hwy
+163,Lihue,HI,TJ Variety Store,not_available
+164,Lihue,HI,KOA Trading Co,2975 Aukele St
+165,Naalehu,HI,Island Market,95-5657 Mamalahoa Highway
+166,Pahoa,HI,Malama Market,15-2664 Pahoa Village Rd
+167,Pahoa,HI,Kilauea General Store,Old Volcano Ed
+168,Paia,HI,Kū‘au Store,701 Hana Hwy
+169,Paia,HI,Mana Foods,49 Baldwin Ave
+170,Pearl City,HI,Walmart,1131 Kuala St
+171,Pearl City,HI,Don Quijote,850 Kamehameha Hwy
+172,Pearl City,HI,Foodland Farms,1150 Kuala St
+173,Pearl City,HI,Foodland,1089 Waimano Home Rd
+174,Volcano,HI,KMC General Store,not_available
+175,Wahiawa,HI,Foodland,95-221 Kipapa Dr
+176,Wahiawa,HI,Schofield Barracks Commissary,698 Trimble Rd
+177,Wahiawa,HI,Foodland,823 California Ave
+178,Wahiawa,HI,Tamura's Wahiawa,440 Kilani Ave
+179,Wahiawa,HI,Maharaja's Foods,410 California Ave
+180,Wahiawa,HI,Kolekole Shopette,not_available
+181,Wahiawa,HI,Elite Market,573 California Ave
+182,Mililani,HI,Walmart,95-550 Lanikuhana Ave
+183,Mililani,HI,Safeway,94-780B Meheula Pkwy
+184,Mililani,HI,Foodland,94-1040 Waipio Uka St
+185,Mililani,HI,Times Supermarket,95-1249 Meheula Pkwy
+186,Waianae,HI,Sack N Save,87-2070 Farrington Hwy.
+187,Waianae,HI,The Waianae Store,85-867 Farrington Hwy
+188,Waianae,HI,Tamura Super Market,86-032 Farrington Hwy
+189,Waianae,HI,SackNSave,not_available
+190,Waianae,HI,HI Lyfe Vaporz LLC,85-993 Farrington Hwy Ste 206
+191,Wailuku,HI,Foodland,370 Kehalani Village Dr
+192,Wailuku,HI,Takamiya Market,359 N Market St
+193,Waipahu,HI,Safeway,Lumiaina St
+194,Waipahu,HI,Hickam AFB Commissary,20 Hickam Ct
+195,Waipahu,HI,Times Supermarket,94-766 Farrington Hwy
+196,Waipahu,HI,Safeway,848 Ala Lilikoi St
+197,Waipahu,HI,Nii Superette,94-1013 Waipahu St
+198,Honolulu,HI,Don Quijote,801 Kaheka St
+199,Honolulu,HI,Whole Foods Market,388 Kamakee Street
+200,Honolulu,HI,Walmart,700 Keeaumoku St
+201,Honolulu,HI,Safeway,1234 S Beretania St
+202,Honolulu,HI,Walmart,1032 Fort Street Mall
+203,Honolulu,HI,Times Supermarket,1425 Liliha St
+204,Honolulu,HI,Foodland Farms,1450 Ala Moana Blvd
+205,Honolulu,HI,Foodland,2939 Harding Ave
+206,Honolulu,HI,H Mart Kaka’ako,458 Keawe St
+207,Honolulu,HI,Safeway,2855 East Manoa Rd
+208,Honolulu,HI,Times Supermarket,1772 South King St
+209,Honolulu,HI,Safeway,1360 Pali Hwy
+210,Honolulu,HI,Food Pantry,438 Hobron Ln.
+211,Honolulu,HI,Nijiya Market,1009 University Ave #101
+212,Honolulu,HI,Times Supermarket,1290 South Beretania St
+213,Honolulu,HI,Gon & Ti,1020 Kekaulike St
+214,Honolulu,HI,Times Supermarket,3221 Waialae Ave
+215,Honolulu,HI,Times Supermarket,1620 North School St
+216,Honolulu,HI,Foodland,414 N School St
+217,Honolulu,HI,Palama Supermarket,1670 Makaloa St
+218,Honolulu,HI,Nijiya Market,451 Piikoi St
+219,Honolulu,HI,Keeaumoku Produce,905 Keeaumoku St
+220,Honolulu,HI,Village Market,1249 Wilder Ave #4
+221,Honolulu,HI,Palama Super Market,1010 N King St
+222,Honolulu,HI,Sun Chong Grocery,127 N Hotel St
+223,Honolulu,HI,Young's Noodle Factory,1635 Liliha St
+224,Honolulu,HI,Foodland,1460 S Beretania St
+225,Honolulu,HI,Kakaako Market & Catering,1001 Waimanu St
+226,Honolulu,HI,J-Shop,1513 Young St Ste 101
+227,Honolulu,HI,Hong's Grocery,168 N. King St.
+228,Honolulu,HI,ABC Superette,1732 Ala Moana Blvd
+229,Honolulu,HI,88.Pal,not_available
+230,Honolulu,HI,Keeaumoku Super Market,825 Keeaumoku St
+231,Honolulu,HI,The Giving Tree,not_available
+232,Honolulu,HI,Ono Kim Chee,1225 Keeaumoku St
+233,Honolulu,HI,Keeaumoku Super Market,903 Keeaumoku St
+234,Honolulu,HI,Island Colony Grocery Store,not_available
+235,Honolulu,HI,Safeway,888 Kapahulu Ave
+236,Honolulu,HI,Diamond Head Market & Grill,3158 Monsarrat Ave
+237,Honolulu,HI,ABC Stores,2394 Kuhio Ave
+238,Honolulu,HI,Food Pantry Kuhio,2370 Kuhio Ave
+239,Honolulu,HI,ABC Stores #33,124 Kapahulu Ave.
+240,Honolulu,HI,Lifestream Natural Foods,702 Kapahulu Ave
+241,Honolulu,HI,Whole Foods Market,4211 Wai'alae Avenue
+242,Honolulu,HI,Times Supermarket,1173 21st Ave
+243,Honolulu,HI,New Rainbow Market,1720 Palolo Ave
+244,Honolulu,HI,Farmers Market,1145 12th Ave
+245,Honolulu,HI,Island Fresh Produce,3441 Waialae Ave
+246,Honolulu,HI,Marukai Wholesale Mart,2310 Kamehameha Hwy
+247,Honolulu,HI,Foodland,1505 Dillingham Blvd
+248,Honolulu,HI,H-Mart,1100 Kaili St
+249,Honolulu,HI,DnQ Market,1312 Kaumualii St Ste A
+250,Honolulu,HI,퀸스수퍼마켓 (Queen's Supermarket) (Queen's Supermarket),1010 Kaili St
+251,Honolulu,HI,Jimmys Produce & Filipino Store,131 N Hotel St
+252,Honolulu,HI,Natural Mystic,203 S King St
+253,Honolulu,HI,May’s Hawaii,3049 Ualena St #310
+254,Honolulu,HI,Foodland,"820 W Hind Dr, #101"
+255,Honolulu,HI,"Okahara Saimin Factory, Ltd.",1804 Waiola St
+256,Honolulu,HI,Hulai Market,1617 Puowaina
+257,Honolulu,HI,Safeway,377 Keahole St
+258,Honolulu,HI,Kokua Market,2643 S King St
+259,Jbphh,HI,Jimmy's Produce,North King Street

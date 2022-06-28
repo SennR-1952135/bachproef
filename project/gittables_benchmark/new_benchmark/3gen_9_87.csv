@@ -1,0 +1,56 @@
+,year,country,city
+0,2012,United States,San Diego
+1,2011,China,Shanghai
+2,2011,China;United States,Jingdezhen;San Diego
+3,2011,China;China;China,Shanghai;Shanghai;Shanghai
+4,2011,United States;United States,San Diego;Raleigh
+5,2011,China,Shanghai
+6,2011,United States,San Diego
+7,2011,United States,San Diego
+8,2011,China,Shanghai
+9,2011,China;United States,Jingdezhen;San Diego
+10,2011,China,Shanghai
+11,2011,Iran;Iran,Isfahan;Tehran
+12,2011,United States,Raleigh
+13,2010,China;China,Shanghai;Shanghai
+14,2010,Iran,Shiraz
+15,2010,United States,Manassas
+16,2010,China;China,Shanghai;Shanghai
+17,2010,China,Shanghai
+18,2010,United States,San Diego
+19,2010,United States,Santa Barbara
+20,2010,China;China,Shanghai;Shanghai
+21,2010,Taiwan,Wufong
+22,2010,Netherlands,Wageningen
+23,2009,China,Chengdu
+24,2009,China,Jingdezhen
+25,2009,China,Beijing
+26,2009,Denmark;Germany,Copenhagen;Heidelberg
+27,2008,China,Jingdezhen
+28,2008,China,Jingdezhen
+29,2008,Canada,Toronto
+30,2008,United States,San Diego
+31,2007,United States,San Diego
+32,2007,China,Guangzhou
+33,2007,China;United States,Shanghai;San Diego
+34,2007,Israel,Tel Aviv-Yafo
+35,2005,United Kingdom,Manchester
+36,2005,United States,San Diego
+37,2004,United States,Boston
+38,2004,United States,Menlo Park
+39,2004,Japan,Kyoto
+40,2003,United States,Boston
+41,2002,Germany,Koln
+42,2002,Germany,Koln
+43,2001,United States,Kalamazoo
+44,2000,Japan,Kyoto
+45,1999,Japan,Uji
+46,1997,Japan,Kyoto
+47,1995,United States,New York
+48,1995,United States,Kalamazoo
+49,1994,Switzerland,Geneva
+50,1989,United States,New York
+51,1989,United States,New York
+52,1988,United States,New York
+53,1984,,
+54,1982,China,Shanghai

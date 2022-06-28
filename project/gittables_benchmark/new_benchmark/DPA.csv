@@ -1,0 +1,114 @@
+,name,artist,type
+0,Air Elemental,Kev Walker,Creature — Elemental
+1,Boomerang,Arnie Swekel,Instant
+2,Cancel,David Palumbo,Instant
+3,Cloud Sprite,Mark Zug,Creature — Faerie
+4,Counterbore,Wayne England,Instant
+5,Deluge,Wayne England,Instant
+6,Denizen of the Deep,Jim Pavelec,Creature — Serpent
+7,Essence Scatter,Jon Foster,Instant
+8,Evacuation,Franz Vohwinkel,Instant
+9,Mahamoti Djinn,Greg Staples,Creature — Djinn
+10,Mind Control,Ryan Pancoast,Enchantment — Aura
+11,Mind Spring,Mark Zug,Sorcery
+12,Negate,Jeremy Jarvis,Instant
+13,Phantom Warrior,Greg Staples,Creature — Illusion Warrior
+14,Snapping Drake,Todd Lockwood,Creature — Drake
+15,Thieving Magpie,Una Fricker,Creature — Bird
+16,Unsummon,Izzy,Instant
+17,Abyssal Specter,Michael Sutfin,Creature — Specter
+18,Ascendant Evincar,Mark Zug,Legendary Creature — Vampire
+19,Consume Spirit,Justin Sweet,Sorcery
+20,Crowd of Cinders,Carl Frank,Creature — Elemental
+21,Drudge Skeletons,Daarken,Creature — Skeleton
+22,Dusk Imp,Pete Venters,Creature — Imp
+23,Essence Drain,Jim Nelson,Sorcery
+24,Eyeblight's Ending,Ron Spears,Tribal Instant — Elf
+25,Megrim,Nick Percival,Enchantment
+26,Mind Rot,Steve Luke,Sorcery
+27,Mind Shatter,Michael Sutfin,Sorcery
+28,Moonglove Winnower,William O'Connor,Creature — Elf Rogue
+29,Mortivore,Anthony S. Waters,Creature — Lhurgoyf
+30,Ravenous Rats,Carl Critchlow,Creature — Rat
+31,Sengir Vampire,Kev Walker,Creature — Vampire
+32,Severed Legion,Dany Orizio,Creature — Zombie
+33,Terror,Adam Rex,Instant
+34,Underworld Dreams,Carl Critchlow,Enchantment
+35,Unholy Strength,Terese Nielsen,Enchantment — Aura
+36,Act of Treason,Eric Deschamps,Sorcery
+37,Banefire,Raymond Swanland,Sorcery
+38,Blaze,Alex Horley-Orlandelli,Sorcery
+39,Bloodmark Mentor,Dave Allsop,Creature — Goblin Warrior
+40,Cinder Pyromancer,Greg Staples,Creature — Elemental Shaman
+41,Earth Elemental,Anthony S. Waters,Creature — Elemental
+42,Enrage,Justin Sweet,Instant
+43,Furnace of Rath,John Matson,Enchantment
+44,Goblin Piker,DiTerlizzi,Creature — Goblin Warrior
+45,Goblin Sky Raider,Daren Bader,Creature — Goblin Warrior
+46,Hill Giant,Kev Walker,Creature — Giant
+47,Incinerate,Zoltan Boros & Gabor Szikszai,Instant
+48,"Kamahl, Pit Fighter",Kev Walker,Legendary Creature — Human Barbarian
+49,Lightning Elemental,Kev Walker,Creature — Elemental
+50,Prodigal Pyromancer,Jeremy Jarvis,Creature — Human Wizard
+51,Rage Reflection,Terese Nielsen & Ron Spencer,Enchantment
+52,Shivan Dragon,Donato Giancola,Creature — Dragon
+53,Shock,Jon Foster,Instant
+54,Blanchwood Armor,Paolo Parente,Enchantment — Aura
+55,Civic Wayfinder,Cyril Van Der Haegen,Creature — Elf Warrior Druid
+56,Drove of Elves,Larry MacDougall,Creature — Elf
+57,Duskdale Wurm,Dan Dos Santos,Creature — Wurm
+58,Elven Riders,Darrell Riche,Creature — Elf
+59,Elvish Champion,D. Alexander Gregory,Creature — Elf
+60,Elvish Eulogist,Ben Thompson,Creature — Elf Shaman
+61,Elvish Promenade,Steve Ellis,Tribal Sorcery — Elf
+62,Elvish Visionary,D. Alexander Gregory,Creature — Elf Shaman
+63,Elvish Warrior,Kev Walker,Creature — Elf Warrior
+64,Gaea's Herald,Jim Murray,Creature — Elf
+65,Giant Growth,Matt Cavotta,Instant
+66,Giant Spider,Randy Gallegos,Creature — Spider
+67,Greenweaver Druid,Justin Sweet,Creature — Elf Druid
+68,Howl of the Night Pack,Lars Grant-West,Sorcery
+69,Immaculate Magistrate,Jim Nelson,Creature — Elf Shaman
+70,Imperious Perfect,Scott M. Fischer,Creature — Elf Warrior
+71,Jagged-Scar Archers,Paolo Parente,Creature — Elf Archer
+72,Lys Alana Huntmaster,Pete Venters,Creature — Elf Warrior
+73,"Molimo, Maro-Sorcerer",Mark Zug,Legendary Creature — Elemental
+74,Natural Spring,Jeffrey R. Busch,Sorcery
+75,Naturalize,Tim Hildebrandt,Instant
+76,Nature's Spiral,Terese Nielsen,Sorcery
+77,Overrun,Carl Critchlow,Sorcery
+78,Rampant Growth,Steven Belledin,Sorcery
+79,River Boa,Paul Bonner,Creature — Snake
+80,Roughshod Mentor,Steven Belledin,Creature — Giant Warrior
+81,Runeclaw Bear,Jesper Ejsing,Creature — Bear
+82,Spined Wurm,Carl Critchlow,Creature — Wurm
+83,Talara's Battalion,Todd Lockwood,Creature — Elf Warrior
+84,Trained Armodon,Gary Leach,Creature — Elephant
+85,Troll Ascetic,Puddnhead,Creature — Troll Shaman
+86,Verdant Force,DiTerlizzi,Creature — Elemental
+87,Vigor,Jim Murray,Creature — Elemental Incarnation
+88,Wall of Wood,Rebecca Guay,Creature — Wall
+89,Coat of Arms,Scott M. Fischer,Artifact
+90,Demon's Horn,Alan Pollack,Artifact
+91,Dragon's Claw,Alan Pollack,Artifact
+92,Kraken's Eye,Alan Pollack,Artifact
+93,Loxodon Warhammer,Jeremy Jarvis,Artifact — Equipment
+94,The Rack,Nic Klein,Artifact
+95,Wall of Spears,Christopher Moeller,Artifact Creature — Wall
+96,Wurm's Tooth,Alan Pollack,Artifact
+97,Island,Rob Alexander,Basic Land — Island
+98,Island,John Avon,Basic Land — Island
+99,Island,Scott Bailey,Basic Land — Island
+100,Island,Fred Fields,Basic Land — Island
+101,Swamp,Dan Frazier,Basic Land — Swamp
+102,Swamp,Alex Horley-Orlandelli,Basic Land — Swamp
+103,Swamp,Jim Pavelec,Basic Land — Swamp
+104,Swamp,Alan Pollack,Basic Land — Swamp
+105,Mountain,Rob Alexander,Basic Land — Mountain
+106,Mountain,Nils Hamm,Basic Land — Mountain
+107,Mountain,Karl Kopinski,Basic Land — Mountain
+108,Mountain,Sam Wood,Basic Land — Mountain
+109,Forest,Glen Angus,Basic Land — Forest
+110,Forest,John Avon,Basic Land — Forest
+111,Forest,Steven Belledin,Basic Land — Forest
+112,Forest,Jim Nelson,Basic Land — Forest

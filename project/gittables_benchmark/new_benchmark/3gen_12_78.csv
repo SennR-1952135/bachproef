@@ -1,0 +1,95 @@
+,year,country,city
+0,2008,Germany;Japan,Koln;Kaga District
+1,2008,Japan,Nagoya
+2,2008,United States;United States,San Diego;Piscataway
+3,2008,United States,"Washington, D.C."
+4,2007,United Kingdom,Cambridge
+5,2007,United States,Evanston
+6,2007,United States,Davis
+7,2007,Germany,Halle
+8,2007,South Korea;United States,Jinju;Columbus
+9,2007,China,Beijing
+10,2007,United States,Davis
+11,2007,United States,Davis
+12,2007,France,Castanet-Tolosan
+13,2007,Spain,Barcelona
+14,2007,United States,East Lansing
+15,2007,Japan,Wako
+16,2007,Denmark,Copenhagen
+17,2007,Germany,Eggenstein-Leopoldshafen
+18,2007,Czech Republic;France,Prague;Paris
+19,2007,United States,Davis
+20,2007,Israel,Jerusalem
+21,2006,South Korea,Pohang
+22,2006,United Kingdom,Lancaster
+23,2006,United States,San Diego
+24,2006,Japan;Japan;Japan,Tsukuba;Wako;Kawaguchi
+25,2006,United States,East Lansing
+26,2006,United Kingdom,Cambridge
+27,2006,Spain,Barcelona
+28,2006,Hungary;United States,Szeged;Rochester
+29,2006,Germany,Halle
+30,2006,Germany;France,Freiburg im Breisgau;Gif-sur-Yvette
+31,2006,Germany,Munich
+32,2006,Netherlands,Utrecht
+33,2006,United States,Hanover
+34,2006,United Kingdom,Edinburgh
+35,2006,Australia,Melbourne
+36,2006,United States,San Diego
+37,2005,Netherlands,Wageningen
+38,2005,Italy,Milan
+39,2005,United States,Davis
+40,2005,Czech Republic;Czech Republic,Prague;Prague Praha
+41,2005,United States,Ardmore
+42,2005,United Kingdom,Cambridge
+43,2005,United States,San Diego
+44,2005,Netherlands;United Kingdom,Nijmegen;Harpenden
+45,2005,United States,Durham
+46,2004,Germany,Potsdam
+47,2004,United States;United States,East Lansing;Ardmore
+48,2004,United States,Hanover
+49,2004,Switzerland,"Zurich ZH,"
+50,2004,United States,Nashville
+51,2004,United States,Worcester
+52,2004,Italy,Milan
+53,2004,United Kingdom,York
+54,2004,Taiwan;Taiwan,Taipei;Taipei
+55,2004,Israel,Haifa
+56,2004,Germany,Potsdam
+57,2004,Japan,Sapporo
+58,2004,United States,Charlottesville
+59,2004,Belgium,Ghent
+60,2004,United States,San Diego
+61,2003,United States,San Diego
+62,2003,Japan,Tokyo
+63,2003,United States;Germany,San Diego;Tubingen
+64,2003,Germany,Heidelberg
+65,2003,United States,Hanover
+66,2003,Sweden,Uppsala
+67,2002,United States,Research Triangle Park
+68,2002,United States,Hanover
+69,2002,Belgium,3000 Leuven
+70,2002,United Kingdom,Bath
+71,2002,United States,Bar Harbor
+72,2002,Belgium,3000 Leuven
+73,2001,United States,San Diego
+74,2001,Mexico,Cuernavaca
+75,2001,New Zealand,Auckland
+76,2001,Italy,Milan
+77,2001,United States,East Lansing
+78,2000,United States,San Diego
+79,2000,United States,Boston
+80,2000,United Kingdom,Harpenden
+81,2000,,
+82,2000,United States;United States,Cambridge;Boston
+83,1999,Switzerland,Geneva
+84,1998,United States;United States;United States,Cambridge;Boston;Cambridge
+85,1998,United States,College Station
+86,1998,United States;South Korea,College Station;Daegu
+87,1997,United States,Los Angeles
+88,1997,United Kingdom,Leicester
+89,1994,United States,Ithaca
+90,1993,United States,Stillwater
+91,1992,United States,Stillwater
+92,1992,United States,Minneapolis
+93,1983,Germany,Wurzburg

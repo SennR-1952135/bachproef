@@ -1,0 +1,84 @@
+,status,creator,description
+0,Closed,andreashuber,"When calling SubLine.intersection() with two lines that not intersect, then a NullPointerException is thrown in Line.toSubSpace(). This bug is in the twod and threed implementations.
+
+The attached patch fixes both implementations and adds the required test cases.
+
+"
+1,Closed,rw7,"I attached a test.
+
+If the underlying RandomGenerator returns 0.0, then nextLong returns Long.MIN_VALUE, although the lower bound is Long.MIN_VALUE+1.
+
+The javadoc of RandomGenerator#nextDouble does not clearly define, whether the result includes the lower border of 0.0 or not.
+
+In java.util.Random it clearly defined as included: ""uniformly from the range 0.0d (inclusive) to 1.0d (exclusive)"". And the existence of JDKRandomGenerator suggests, that RandomGenerator should have the same contract.
+
+I tested with version 3.1.1 from mvnrepository
+
+"
+2,Closed,vidyaraghu,"I am seeing an odd behavior with the latest code in the main trunk (Directory revision: 1358535). The solver throws ""NoFeasibleSolutionException"" for a problem which has a feasible solution. Just by commenting out the last constraint, we get a feasible solution. And for that solution, the constraint in question does not seem to be playing a role. "
+3,Closed,dhendriks,"Serializing a GammaDistribution and deserializing it, does not result in a cloned distribution that produces the same samples.
+
+Cause: GammaDistribution inherits from AbstractRealDistribution, which implements Serializable. AbstractRealDistribution has random, in which we have a Well19937c instance, which inherits from AbstractWell. AbstractWell implements Serializable. AbstractWell inherits from BitsStreamGenerator, which is not Serializable, but does have a private field 'nextGaussian'.
+
+Solution: Make BitStreamGenerator implement Serializable as well.
+
+This probably affects other distributions as well."
+4,Closed,tn,"The Schurtransformation of the following matrix fails, which is a preliminary step for the Eigendecomposition:
+
+RealMatrix m = MatrixUtils.DEFAULT_FORMAT.parse(""{{0.184944928,-0.0646971046,0.0774755812,-0.0969651755,-0.0692648806,0.3282344352,-0.0177423074,0.206313634},{-0.0742700134,-0.028906303,-0.001726946,-0.0375550146,-0.0487737922,-0.2616837868,-0.0821201295,-0.2530000167},{0.2549910127,0.0995733692,-0.0009718388,0.0149282808,0.1791878897,-0.0823182816,0.0582629256,0.3219545182},{-0.0694747557,-0.1880649148,-0.2740630911,0.0720096468,-0.1800836914,-0.3518996425,0.2486747833,0.6257938167},{0.0536360918,-0.1339297778,0.2241579764,-0.0195327484,-0.0054103808,0.0347564518,0.5120802482,-0.0329902864},{-0.5933332356,-0.2488721082,0.2357173629,0.0177285473,0.0856630593,-0.35671263,-0.1600668126,-0.1010899621},{-0.0514349819,-0.0854319435,0.1125050061,0.006345356,-0.2250000688,-0.220934309,0.1964623477,-0.1512329924},{0.0197395947,-0.1997170581,-0.1425959019,-0.274947791,-0.0969467073,0.060368852,-0.2826905192,0.1794315473}}"");
+"
+5,Closed,gsteri1,"In the method getQT() of TriDiagonalTransformer we have:
+
+    public RealMatrix getQT() {
+        if (cachedQt == null) {
+            final int m = householderVectors.length;
+            cachedQt = MatrixUtils.createRealMatrix(m, m);
+
+            // build up first part of the matrix by applying Householder transforms
+            for (int k = m - 1; k >= 1; --k) {
+                final double[] hK = householderVectors[k - 1];
+                cachedQt.setEntry(k, k, 1);
+                final double inv = 1.0 / (secondary[k - 1] * hK[k]);
+                if (hK[k] != 0.0) {
+                    double beta = 1.0 / secondary[k - 1];
+
+The faulty line is : final double inv = 1.0 / (secondary[k - 1] * hK[k]);
+It should be put after the test for the zero, eg:
+
+    public RealMatrix getQT() {
+        if (cachedQt == null) {
+            final int m = householderVectors.length;
+            cachedQt = MatrixUtils.createRealMatrix(m, m);
+
+            // build up first part of the matrix by applying Householder transforms
+            for (int k = m - 1; k >= 1; --k) {
+                final double[] hK = householderVectors[k - 1];
+                cachedQt.setEntry(k, k, 1);
+                if (hK[k] != 0.0) {
+                    final double inv = 1.0 / (secondary[k - 1] * hK[k]);
+                    double beta = 1.0 / secondary[k - 1];
+
+
+"
+6,Closed,celestin,"In {{SymmLQTest}}, two test actually create instances of {{ConjugateGradient}} instead of {{SymmLQ}}. These tests are
+* {{testUnpreconditionedNormOfResidual()}}
+* {{testPreconditionedNormOfResidual()}}."
+7,Closed,erans,"In class ""o.a.c.m.optim.BaseMultiStartMultivariateOptimizer"", the ""starting points"" generator is passed at construction. But random initial guesses must fulfill the bound constraint and be somehow related to the user-supplied initial guess; and those are passed to the ""optimize"" method and thus can change from one call to the other, leading to inconsistent (and probably useless) multi-starts.
+"
+8,Closed,gsteri1,The class variable imagEigenvalues is allocated even there is no use for it. I propose leaving the reference null. Patch will follow. 
+9,Closed,celestin,"It was recently agreed on the [mailing list|http://markmail.org/thread/bnnjyakdhx7icsj7] that UTF-8 extended characters should be allowed in the Javadoc comments (in place of {{&...;}} HTML special characters), in order to increase readability.
+
+The {{pom.xml}} states
+{code:xml}
+  <properties>
+    ...
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    ...
+  </properties> 
+{code}
+
+which, according to [this FAQ|http://maven.apache.org/plugins/maven-javadoc-plugin/faq.html#What_are_the_values_of_encoding_docencoding_and_charset_parameters], should be enough to accept UTF-8 encoding in the Javadoc. However, UTF-8 extended characters are not rendered correctly."
+10,Closed,kberlin,"Non-standard charecters in the comment header of the file prevents compiling of the class with error
+    [javac] /Users/kberlin/Dropbox/Projects/math/src/test/java/org/apache/commons/math3/exception/util/LocalizedFormatsTest.java:21: error: unmappable character for encoding ASCII
+    [javac]  * Copyright 2010 CS Communication & Syst??mes"

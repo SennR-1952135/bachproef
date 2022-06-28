@@ -1,0 +1,233 @@
+,year,country,type
+0,2020,USA,Commercial
+1,2020,USA,Commercial
+2,2020,USA,Commercial
+3,2020,United Kingdom,Commercial
+4,2020,USA,Commercial
+5,2020,USA,Open source
+6,2020,USA,Commercial
+7,2020,USA,Open source
+8,2020,USA,Open source
+9,2020,USA,Commercial
+10,2020,USA,Open source
+11,2020,USA,Open source
+12,2020,United Kingdom,Commercial
+13,2020,USA,Commercial
+14,2020,USA,Commercial
+15,2020,USA,Open source
+16,2020,USA,Commercial
+17,2020,USA,Commercial
+18,2020,USA,Commercial
+19,2020,USA,Open source
+20,2020,USA,Commercial
+21,2020,USA,Commercial
+22,2020,USA,Commercial
+23,2020,USA,Commercial
+24,2020,United Kingdom,Open source
+25,2020,United Kingdom,Commercial
+26,2020,USA,Commercial
+27,2020,The Netherlands,Commercial
+28,2020,Sweden,Commercial
+29,2020,Italy,Commercial
+30,2020,Sweden,Commercial
+31,2020,United Kingdom,Commercial
+32,2020,Sweden,Commercial
+33,2020,USA,Open source
+34,2020,Sweden,Commercial
+35,2020,The Netherlands,Commercial
+36,2020,South Korea,Commercial
+37,2020,China,Commercial
+38,2020,Japan,Commercial
+39,2020,Italy,Commercial
+40,2020,USA,Commercial
+41,2020,The Netherlands,Commercial
+42,2020,South Korea,Commercial
+43,2020,China,Commercial
+44,2020,Italy,Commercial
+45,2020,United Kingdom,Commercial
+46,2020,Japan,Commercial
+47,2020,The Netherlands,Commercial
+48,2020,Sweden,Commercial
+49,2016,Finland,Commercial
+50,2016,Hong Kong,Commercial
+51,2016,USA,Open source
+52,2016,United Kingdom,Commercial
+53,2016,Hong Kong,Commercial
+54,2016,United Kingdom,Commercial
+55,2016,The Netherlands,Commercial
+56,2016,United Kingdom,Commercial
+57,2016,Taiwan,Commercial
+58,2016,France,Commercial
+59,2016,France,Open source
+60,2016,Sweden,Commercial
+61,2016,Australia,Open source
+62,2016,United Kingdom,Commercial
+63,2016,United Kingdom,Commercial
+64,2016,Japan,Commercial
+65,2016,Sweden,Commercial
+66,2016,Sweden,Commercial
+67,2016,Denmark,Commercial
+68,2016,The Netherlands,Commercial
+69,2016,United Kingdom,Open source
+70,2016,Sweden,Commercial
+71,2016,Sweden,Commercial
+72,2016,The Netherlands,Commercial
+73,2016,Norway,Commercial
+74,2016,China,Commercial
+75,2016,Australia,Commercial
+76,2016,United Kingdom,Commercial
+77,2016,New Zealand,Commercial
+78,2016,United Kingdom,Commercial
+79,2016,United Kingdom,Open source
+80,2016,USA,Commercial
+81,2016,Denmark,Commercial
+82,2016,Sweden,Commercial
+83,2016,France,Commercial
+84,2016,Ger,Commercial
+85,2016,United Kingdom,Commercial
+86,2016,USA,Commercial
+87,2016,USA,Commercial
+88,2016,China,Commercial
+89,2016,USA,Commercial
+90,2016,USA,Commercial
+91,2016,USA,Commercial
+92,2016,USA,Commercial
+93,2016,USA,Commercial
+94,2016,USA,Commercial
+95,2016,USA,Commercial
+96,2016,USA,Commercial
+97,2016,USA,Open source
+98,2016,USA,Commercial
+99,2016,USA,Commercial
+100,2016,USA,Commercial
+101,2016,Germany,Commercial
+102,2016,USA,Commercial
+103,2016,USA,Commercial
+104,2016,USA,Commercial
+105,2016,Canada,Commercial
+106,2016,Germany,Commercial
+107,2016,USA,Commercial
+108,2016,Mexico,Commercial
+109,2020,SA,Commercial
+110,2020,SA,Commercial
+111,2020,SA,Commercial
+112,2020,SA,Commercial
+113,2020,SA,Commercial
+114,2020,SA,Commercial
+115,2020,SA,Commercial
+116,2020,SA,Commercial
+117,2020,SA,Open source
+118,2020,SA,Commercial
+119,2020,SA,Commercial
+120,2020,SA,Commercial
+121,2020,SA,Commercial
+122,2019,SA,Open source
+123,2019,SA,Commercial
+124,2019,SA,Commercial
+125,2019,SA,Commercial
+126,2019,SA,Commercial
+127,2019,SA,Commercial
+128,2019,SA,Commercial
+129,2020,The Netherlands,Commercial
+130,2020,USA,Commercial
+131,2020,USA,Commercial
+132,2020,Ireland,Commercial
+133,2020,USA,Commercial
+134,2020,Uganda,Commercial
+135,2020,USA,Commercial
+136,2020,USA,Commercial
+137,2020,United Kingdom,Open source
+138,2020,USA,Open source
+139,2020,Mexico,Commercial
+140,2020,India,Commercial
+141,2020,Kazakhstan,Commercial
+142,2020,USA,Commercial
+143,2020,South Korea,Commercial
+144,2020,Republic of Korea,Commercial
+145,2020,Germany,Commercial
+146,2020,India,Commercial
+147,2020,France,Open source
+148,2020,Japan,Commercial
+149,2020,France,Open source
+150,2020,United Kingdom,Open source
+151,2020,USA,Commercial
+152,2020,Japan,Commercial
+153,2020,Spain,Commercial
+154,2020,USA,Commercial
+155,2020,Japan,Commercial
+156,2020,Republic of Korea,Commercial
+157,2020,China,Commercial
+158,2020,Greece,Commercial
+159,2020,Italy,Commercial
+160,2020,The Netherlands,Commercial
+161,2020,USA,Commercial
+162,2020,Pakistan,Commercial
+163,2020,USA,Commercial
+164,2020,USA,Commercial
+165,2020,USA,Commercial
+166,2020,The Netherlands,Commercial
+167,2020,USA,Commercial
+168,2020,Australia,Open source
+169,2020,USA,Open source
+170,2020,Japan,Commercial
+171,2020,Taiwan,Commercial
+172,2020,India,Commercial
+173,2020,Switzerland,Commercial
+174,2020,Taiwan,Commercial
+175,2020,Singapore,Commercial
+176,2020,Japan,Commercial
+177,2020,USA,Commercial
+178,2020,Thailand,Commercial
+179,2020,Japan,Open source
+180,2020,Japan,Commercial
+181,2020,Japan,Commercial
+182,2020,Taiwan,Commercial
+183,2020,USA,Commercial
+184,2020,China,Commercial
+185,2020,Egypt,Commercial
+186,2020,Austria,Commercial
+187,2016,USA,Commercial
+188,2016,United Kingdom,Open source
+189,2016,Germany,Open source
+190,2016,Belgium,Open source
+191,2016,Switzerland,Commercial
+192,2016,USA,Open source
+193,2016,Republic of Korea,Commercial
+194,2016,USA,Commercial
+195,2016,Japan,Commercial
+196,2016,Germany,Commercial
+197,2016,Japan,Commercial
+198,2016,Switzerland,Commercial
+199,2016,South Korea,Commercial
+200,2016,Japan,Commercial
+201,2016,Taiwan,Commercial
+202,2016,USA,Commercial
+203,2016,China,Commercial
+204,2016,China,Commercial
+205,2016,USA,Commercial
+206,2016,Switzerland,Commercial
+207,2016,Switzerland,Commercial
+208,2016,China,Commercial
+209,2016,Switzerland,Commercial
+210,2016,Denmark,Commercial
+211,2016,Rwanda,Commercial
+212,2016,Israel,Commercial
+213,2016,Greece,Commercial
+214,2016,Ireland,Commercial
+215,2016,Denmark,Commercial
+216,2016,Italy,Commercial
+217,2016,Japan,Commercial
+218,2016,Switzerland,Commercial
+219,2016,Italy,Commercial
+220,2016,Japan,Commercial
+221,2016,Germany,Commercial
+222,2016,Japan,Commercial
+223,2016,Japan,Commercial
+224,2016,Germany,Commercial
+225,2016,Japan,Commercial
+226,2016,SA,Commercial
+227,2016,SA,Commercial
+228,2016,SA,Commercial
+229,2016,SA,Commercial
+230,2016,SA,Commercial
+231,2016,SA,Commercial

@@ -1,0 +1,120 @@
+,code,name
+0,A1,Aberdeenshire
+1,A5,Angus
+2,A7,Argyll
+3,A9,Avon
+4,B1,Ayrshire
+5,B3,Banffshire
+6,B5,Bedfordshire
+7,B7,Berkshire
+8,B9,Berwickshire
+9,C1,Buckinghamshire
+10,C3,Caithness
+11,C5,Cambridgeshire
+12,C6,Channel Islands
+13,C7,Cheshire
+14,C9,Clackmannanshire
+15,D1,Cleveland
+16,D3,Clwyd
+17,D5,County Antrim
+18,D7,County Armagh
+19,D9,County Down
+20,E1,County Durham
+21,E3,County Fermanagh
+22,E5,County Londonderry
+23,E7,County Tyrone
+24,E9,Cornwall
+25,F1,Cumbria
+26,F3,Derbyshire
+27,F5,Devon
+28,F7,Dorset
+29,F9,Dumfriesshire
+30,G1,Dunbartonshire
+31,G3,Dyfed
+32,G5,East Lothian
+33,G7,East Sussex
+34,G9,Essex
+35,H1,Fife
+36,H3,Gloucestershire
+37,H7,Gwent
+38,H9,Gwynedd
+39,I1,Hampshire
+40,I3,Herefordshire
+41,I5,Hertfordshire
+42,I7,Inverness-Shire
+43,I9,Isle of Arran
+44,J1,Isle of Barra
+45,J3,Isle of Benbecula
+46,J5,Isle of Bute
+47,J7,Isle of Canna
+48,J9,Isle of Coll
+49,K1,Isle of Colonsay
+50,K3,Isle of Cumbrae
+51,K5,Isle of Eigg
+52,K7,Isle of Gigha
+53,K9,Isle of Harris
+54,L1,Isle of Iona
+55,L2,Isle of Islay
+56,L5,Isle of Jura
+57,L7,Isle of Lewis
+58,L9,Isle of Man
+59,M1,Isle of Mull
+60,M3,Isle of North Uist
+61,M7,Isle of Rhum
+62,M9,Isle of Scalpay
+63,N1,Shetland Islands
+64,N3,Isle of Skye
+65,N5,Isle of South Uist
+66,N7,Isle of Tiree
+67,N9,Isle of Wight
+68,O5,Kent
+69,O7,Kincardineshire
+70,O9,Kinross-Shire
+71,P1,Kirkcudbrightshire
+72,P5,Lancashire
+73,P7,Leicestershire
+74,P9,Lincolnshire
+75,Q3,Merseyside
+76,Q5,Mid Glamorgan
+77,Q9,Middlesex
+78,R1,Morayshire
+79,R3,Nairnshire
+80,R7,North Humberside
+81,R9,North Yorkshire
+82,S1,Northamptonshire
+83,S3,Northumberland
+84,S5,Nottinghamshire
+85,S7,Oxfordshire
+86,S9,Peeblesshire
+87,T1,Perthshire
+88,T3,Powys
+89,T5,Renfrewshire
+90,T7,Ross-Shire
+91,T9,Roxburghshire
+92,U3,Selkirkshire
+93,U5,Shropshire
+94,U7,Somerset
+95,U9,South Glamorgan
+96,V1,South Humberside
+97,V3,South Yorkshire
+98,V5,Staffordshire
+99,V7,Stirlingshire
+100,V9,Suffolk
+101,W1,Surrey
+102,W3,Sutherland
+103,W5,Tyne and Wear
+104,W7,Warwickshire
+105,W9,West Glamorgan
+106,X1,West Lothian
+107,X3,West Midlands
+108,X5,West Sussex
+109,X7,West Yorkshire
+110,X9,Wigtownshire
+111,Y1,Wiltshire
+112,Y3,Worcestershire
+113,M5,Orkney
+114,O1,Isles of Scilly
+115,P3,Lanarkshire
+116,Q1,London
+117,Q7,Midlothian
+118,R5,Norfolk

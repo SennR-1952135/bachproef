@@ -1,0 +1,17 @@
+,description,name,type
+0,27%,Fizetendő - 27%,percent
+1,18%,Fizetendő – 18%,percent
+2,5%,Fizetendő – 5%,percent
+3,AAM,Fizetendő – Alanyi Adómentes,percent
+4,TAM,Fizetendő – Tárgyi Adómentes,percent
+5,FORD,Fizetendő – Fordított ÁFA,percent
+6,Export,Fizetendő – Export,percent
+7,EU,Fizetendő – EU,percent
+8,18%,Visszaigényelhető – 18%,percent
+9,27%,Visszaigényelhető – 27%,percent
+10,5%,Visszaigényelhető – 5%,percent
+11,AAM,Visszaigényelhető – Alanyi Adómentes,percent
+12,TAM,Visszaigényelhető – Tárgyi Adómentes,percent
+13,EU,Visszaigényelhető – EU,percent
+14,Import,Visszaigényelhető – Import,percent
+15,FORD,Visszaigényelhető – Fordított ÁFA,percent

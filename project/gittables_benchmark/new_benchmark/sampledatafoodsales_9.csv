@@ -1,0 +1,245 @@
+,region,city,category,product
+0,East,Boston,Bars,Carrot
+1,East,Boston,Crackers,Whole Wheat
+2,West,Los Angeles,Cookies,Chocolate Chip
+3,East,New York,Cookies,Chocolate Chip
+4,East,Boston,Cookies,Arrowroot
+5,East,Boston,Bars,Carrot
+6,East,Boston,Crackers,Whole Wheat
+7,West,Los Angeles,Bars,Carrot
+8,East,New York,Bars,Carrot
+9,East,New York,Snacks,Potato Chips
+10,East,Boston,Cookies,Arrowroot
+11,East,Boston,Cookies,Chocolate Chip
+12,East,Boston,Crackers,Whole Wheat
+13,West,Los Angeles,Bars,Carrot
+14,East,New York,Bars,Carrot
+15,East,New York,Snacks,Potato Chips
+16,East,Boston,Cookies,Arrowroot
+17,East,Boston,Cookies,Oatmeal Raisin
+18,West,Los Angeles,Bars,Bran
+19,West,Los Angeles,Cookies,Oatmeal Raisin
+20,East,New York,Cookies,Chocolate Chip
+21,West,San Diego,Cookies,Oatmeal Raisin
+22,East,Boston,Bars,Carrot
+23,East,Boston,Crackers,Whole Wheat
+24,West,Los Angeles,Cookies,Chocolate Chip
+25,East,New York,Bars,Carrot
+26,East,New York,Snacks,Potato Chips
+27,West,San Diego,Cookies,Chocolate Chip
+28,East,Boston,Bars,Bran
+29,East,Boston,Cookies,Oatmeal Raisin
+30,West,Los Angeles,Bars,Carrot
+31,West,Los Angeles,Snacks,Potato Chips
+32,East,New York,Bars,Carrot
+33,East,New York,Crackers,Whole Wheat
+34,West,San Diego,Snacks,Potato Chips
+35,East,Boston,Bars,Carrot
+36,East,Boston,Snacks,Potato Chips
+37,West,Los Angeles,Bars,Carrot
+38,East,New York,Bars,Carrot
+39,East,New York,Snacks,Potato Chips
+40,West,San Diego,Cookies,Chocolate Chip
+41,East,Boston,Bars,Bran
+42,East,Boston,Cookies,Oatmeal Raisin
+43,West,Los Angeles,Bars,Carrot
+44,West,Los Angeles,Crackers,Whole Wheat
+45,East,New York,Bars,Carrot
+46,East,New York,Snacks,Potato Chips
+47,West,San Diego,Cookies,Chocolate Chip
+48,East,Boston,Cookies,Arrowroot
+49,East,Boston,Bars,Carrot
+50,East,Boston,Crackers,Whole Wheat
+51,West,Los Angeles,Cookies,Oatmeal Raisin
+52,East,New York,Cookies,Chocolate Chip
+53,West,San Diego,Bars,Carrot
+54,West,San Diego,Crackers,Whole Wheat
+55,East,Boston,Bars,Carrot
+56,East,Boston,Crackers,Whole Wheat
+57,West,Los Angeles,Bars,Carrot
+58,West,Los Angeles,Snacks,Potato Chips
+59,East,New York,Bars,Bran
+60,East,New York,Cookies,Oatmeal Raisin
+61,West,San Diego,Bars,Carrot
+62,West,San Diego,Crackers,Whole Wheat
+63,East,Boston,Bars,Carrot
+64,East,Boston,Crackers,Whole Wheat
+65,West,Los Angeles,Cookies,Chocolate Chip
+66,East,New York,Bars,Bran
+67,East,New York,Cookies,Oatmeal Raisin
+68,West,San Diego,Bars,Bran
+69,West,San Diego,Snacks,Potato Chips
+70,East,Boston,Bars,Bran
+71,East,Boston,Cookies,Oatmeal Raisin
+72,West,Los Angeles,Cookies,Chocolate Chip
+73,East,New York,Bars,Carrot
+74,East,New York,Crackers,Whole Wheat
+75,West,San Diego,Cookies,Chocolate Chip
+76,East,Boston,Cookies,Arrowroot
+77,East,Boston,Bars,Carrot
+78,East,Boston,Crackers,Whole Wheat
+79,West,Los Angeles,Cookies,Chocolate Chip
+80,East,New York,Bars,Bran
+81,East,New York,Cookies,Oatmeal Raisin
+82,West,San Diego,Bars,Carrot
+83,East,Boston,Cookies,Arrowroot
+84,East,Boston,Bars,Carrot
+85,East,Boston,Snacks,Pretzels
+86,West,Los Angeles,Bars,Carrot
+87,East,New York,Cookies,Arrowroot
+88,East,New York,Cookies,Chocolate Chip
+89,West,San Diego,Bars,Bran
+90,East,Boston,Cookies,Arrowroot
+91,East,Boston,Bars,Carrot
+92,East,Boston,Crackers,Whole Wheat
+93,West,Los Angeles,Bars,Carrot
+94,West,Los Angeles,Snacks,Potato Chips
+95,East,New York,Cookies,Arrowroot
+96,East,New York,Bars,Carrot
+97,East,New York,Crackers,Whole Wheat
+98,West,San Diego,Bars,Carrot
+99,East,Boston,Cookies,Arrowroot
+100,East,Boston,Cookies,Chocolate Chip
+101,East,Boston,Crackers,Whole Wheat
+102,West,Los Angeles,Bars,Carrot
+103,West,Los Angeles,Snacks,Potato Chips
+104,East,New York,Bars,Carrot
+105,West,San Diego,Cookies,Arrowroot
+106,West,San Diego,Cookies,Oatmeal Raisin
+107,East,Boston,Bars,Bran
+108,East,Boston,Cookies,Oatmeal Raisin
+109,West,Los Angeles,Bars,Carrot
+110,West,Los Angeles,Snacks,Potato Chips
+111,East,New York,Bars,Carrot
+112,West,San Diego,Cookies,Arrowroot
+113,West,San Diego,Cookies,Oatmeal Raisin
+114,East,Boston,Bars,Banana
+115,East,Boston,Cookies,Chocolate Chip
+116,East,Boston,Crackers,Whole Wheat
+117,West,Los Angeles,Bars,Carrot
+118,West,Los Angeles,Snacks,Potato Chips
+119,East,New York,Cookies,Arrowroot
+120,East,New York,Cookies,Chocolate Chip
+121,West,San Diego,Cookies,Arrowroot
+122,East,Boston,Cookies,Arrowroot
+123,East,Boston,Bars,Carrot
+124,East,Boston,Snacks,Pretzels
+125,West,Los Angeles,Bars,Bran
+126,West,Los Angeles,Cookies,Oatmeal Raisin
+127,East,New York,Bars,Carrot
+128,East,New York,Crackers,Whole Wheat
+129,West,San Diego,Bars,Carrot
+130,East,Boston,Cookies,Arrowroot
+131,East,Boston,Bars,Carrot
+132,East,Boston,Snacks,Potato Chips
+133,West,Los Angeles,Cookies,Arrowroot
+134,West,Los Angeles,Cookies,Chocolate Chip
+135,East,New York,Bars,Carrot
+136,East,New York,Snacks,Potato Chips
+137,West,San Diego,Cookies,Oatmeal Raisin
+138,East,Boston,Bars,Carrot
+139,East,Boston,Snacks,Pretzels
+140,West,Los Angeles,Cookies,Arrowroot
+141,West,Los Angeles,Cookies,Chocolate Chip
+142,East,New York,Bars,Bran
+143,East,New York,Cookies,Oatmeal Raisin
+144,West,San Diego,Bars,Bran
+145,West,San Diego,Snacks,Potato Chips
+146,East,Boston,Bars,Carrot
+147,East,Boston,Snacks,Potato Chips
+148,West,Los Angeles,Bars,Carrot
+149,West,Los Angeles,Snacks,Potato Chips
+150,East,New York,Bars,Bran
+151,East,New York,Cookies,Oatmeal Raisin
+152,West,San Diego,Bars,Carrot
+153,East,Boston,Cookies,Arrowroot
+154,East,Boston,Cookies,Oatmeal Raisin
+155,West,Los Angeles,Bars,Carrot
+156,West,Los Angeles,Crackers,Whole Wheat
+157,East,New York,Bars,Carrot
+158,East,New York,Snacks,Potato Chips
+159,West,San Diego,Cookies,Chocolate Chip
+160,East,Boston,Bars,Bran
+161,East,Boston,Cookies,Oatmeal Raisin
+162,West,Los Angeles,Cookies,Arrowroot
+163,West,Los Angeles,Cookies,Chocolate Chip
+164,East,New York,Bars,Bran
+165,East,New York,Cookies,Oatmeal Raisin
+166,West,San Diego,Cookies,Chocolate Chip
+167,East,Boston,Bars,Carrot
+168,East,Boston,Snacks,Pretzels
+169,West,Los Angeles,Cookies,Chocolate Chip
+170,East,New York,Bars,Carrot
+171,West,San Diego,Cookies,Arrowroot
+172,West,San Diego,Cookies,Oatmeal Raisin
+173,East,Boston,Bars,Bran
+174,East,Boston,Cookies,Oatmeal Raisin
+175,East,Boston,Crackers,Whole Wheat
+176,West,Los Angeles,Bars,Carrot
+177,East,New York,Bars,Bran
+178,East,New York,Cookies,Oatmeal Raisin
+179,West,San Diego,Bars,Carrot
+180,East,Boston,Bars,Banana
+181,East,Boston,Cookies,Chocolate Chip
+182,East,Boston,Crackers,Whole Wheat
+183,West,Los Angeles,Bars,Bran
+184,West,Los Angeles,Cookies,Oatmeal Raisin
+185,East,New York,Cookies,Arrowroot
+186,East,New York,Cookies,Chocolate Chip
+187,West,San Diego,Bars,Bran
+188,East,Boston,Bars,Banana
+189,East,Boston,Cookies,Chocolate Chip
+190,East,Boston,Crackers,Whole Wheat
+191,West,Los Angeles,Cookies,Arrowroot
+192,West,Los Angeles,Cookies,Chocolate Chip
+193,East,New York,Bars,Carrot
+194,West,San Diego,Cookies,Arrowroot
+195,West,San Diego,Cookies,Oatmeal Raisin
+196,East,Boston,Bars,Carrot
+197,East,Boston,Snacks,Pretzels
+198,West,Los Angeles,Bars,Carrot
+199,East,New York,Bars,Bran
+200,East,New York,Cookies,Oatmeal Raisin
+201,West,San Diego,Bars,Carrot
+202,East,Boston,Cookies,Arrowroot
+203,East,Boston,Bars,Carrot
+204,East,Boston,Snacks,Pretzels
+205,West,Los Angeles,Bars,Bran
+206,West,Los Angeles,Cookies,Oatmeal Raisin
+207,East,New York,Bars,Carrot
+208,East,New York,Snacks,Potato Chips
+209,West,San Diego,Bars,Carrot
+210,East,Boston,Cookies,Arrowroot
+211,East,Boston,Bars,Carrot
+212,East,Boston,Snacks,Pretzels
+213,West,Los Angeles,Bars,Bran
+214,West,Los Angeles,Cookies,Oatmeal Raisin
+215,East,New York,Cookies,Arrowroot
+216,East,New York,Cookies,Chocolate Chip
+217,West,San Diego,Bars,Carrot
+218,East,Boston,Cookies,Arrowroot
+219,East,Boston,Bars,Carrot
+220,East,Boston,Crackers,Whole Wheat
+221,West,Los Angeles,Bars,Carrot
+222,East,New York,Bars,Bran
+223,East,New York,Snacks,Potato Chips
+224,West,San Diego,Cookies,Chocolate Chip
+225,East,Boston,Bars,Bran
+226,East,Boston,Cookies,Oatmeal Raisin
+227,West,Los Angeles,Bars,Carrot
+228,East,New York,Cookies,Arrowroot
+229,East,New York,Cookies,Chocolate Chip
+230,West,San Diego,Bars,Carrot
+231,East,Boston,Cookies,Arrowroot
+232,East,Boston,Cookies,Chocolate Chip
+233,East,Boston,Crackers,Whole Wheat
+234,West,Los Angeles,Bars,Bran
+235,West,Los Angeles,Cookies,Oatmeal Raisin
+236,East,New York,Bars,Carrot
+237,East,New York,Crackers,Whole Wheat
+238,West,San Diego,Cookies,Chocolate Chip
+239,East,Boston,Cookies,Arrowroot
+240,East,Boston,Cookies,Chocolate Chip
+241,East,Boston,Crackers,Whole Wheat
+242,West,Los Angeles,Bars,Bran
+243,West,Los Angeles,Cookies,Oatmeal Raisin

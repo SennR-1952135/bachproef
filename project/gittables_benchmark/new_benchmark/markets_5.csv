@@ -1,0 +1,149 @@
+,city,name,state,type
+0,Walton,Benton Family Farm,Kentucky,farm
+1,Sadieville ,Brook-Lin Jerseys,Kentucky,farm
+2,Winchester,Brookview Beef,Kentucky,farm
+3,Monticello,Coffey Farms,Kentucky,farm
+4,paris,Cow-U-Met Farm ,Kentucky,farm
+5,Paint Lick,Halcomb's Knob LLC,Kentucky,farm
+6,Falmouth ,High Spruce Farm,Kentucky,farm
+7,Liberty,Second Season Produce,Kentucky,farm
+8,Goshen,Woodland Farm,Kentucky,farm
+9,Columbia,AdairCo Farmers Market,Kentucky,market
+10,Lawrenceburg ,Anderson County Farmers Market ,Kentucky,market
+11,La Center ,Ballard County Farmers' Market,Kentucky,market
+12,Bardstown,Bardstown Farmers Market,Kentucky,market
+13,Glasgow,Barren County Regional Farmers' Market,Kentucky,market
+14,Owingsville,Bath County Farmers' Market,Kentucky,market
+15,"Beaver Dam, Kentucky",Beaver Dam Farmer's Market,Kentucky,market
+16,Louisville,Beechmont Open Air Market,Kentucky,market
+17,Berea,Berea Farmer's Market,Kentucky,market
+18,Lexington,"Bluegrass Farmers' Market, Inc.",Kentucky,market
+19,Lexington,"Bluegrass Farmers' Market, Inc.",Kentucky,market
+20,Louisville,Bluegrass Global Growers Market,Kentucky,market
+21,Mount Olivet ,Bluelicks Farmers Market,Kentucky,market
+22,Burlington,Boone County Farmers Market,Kentucky,market
+23,Glasgow,Bounty of the Barrens Farmers' Market - Summer,Kentucky,market
+24,Glasgow,Bounty of the Barrens Farmers' Market - Winter,Kentucky,market
+25,Bowling Green,Bowling Green's Original Farmers Market,Kentucky,market
+26,Ashland,Boyd County Farmers’ Market,Kentucky,market
+27,Danville,Boyle County Farmers' Market,Kentucky,market
+28,Hopkinsville,Bradford Square Farmers' Market,Kentucky,market
+29,Hardinsburg,Breckinridge County Farmers’ Produce Market,Kentucky,market
+30,Burkesville ,Burkesville Farmers Market,Kentucky,market
+31,Cadiz,Cadiz Trigg County Farmer's Market,Kentucky,market
+32,Alexandria,Campbell County Farmers Market Association,Kentucky,market
+33,Highland Heights,Campbell County Farmers Market Association,Kentucky,market
+34,Newport,Campbell County Farmers Market Association,Kentucky,market
+35,Bardwell,Carlisle County Farmers Market,Kentucky,market
+36,Grayson,Carter County Farmers’ Market,Kentucky,market
+37,Cave City,Cave City Farmer's Market,Kentucky,market
+38,Albany,Clinton County Farmers' Market,Kentucky,market
+39,Bowling Green,Community Farmers Market Bowling Green,Kentucky,market
+40,Sturgis,Country Fresh Meats and Farmer's Market,Kentucky,market
+41,Covington ,Covington Farmers Market,Kentucky,market
+42,Cynthiana,Cynthiana-Harrison County Farmers' Market,Kentucky,market
+43,Louisville,Douglass Loop Farmers' Market,Kentucky,market
+44,Murray,Downtown Farmers Market,Kentucky,market
+45,Brownsville,Edmonson County Farmers’ Market,Kentucky,market
+46,Sandy Hook,Elliott County Farmers’ Market,Kentucky,market
+47,Irvine,Estill County Farmers’ Market,Kentucky,market
+48,Richmond ,Farmers Market at EKU ,Kentucky,market
+49,Springfield,Farmers Market at the Depot,Kentucky,market
+50,Columbia ,Farmers Market on the Square,Kentucky,market
+51,Greensburg,Farmers' Market on Green River,Kentucky,market
+52,Flemingsburg,Fleming County Farmers’ Market,Kentucky,market
+53,Prestonsburg ,Floyd County Farmers Market,Kentucky,market
+54,Fort Thomas,Fort Thomas Farmers' Market - DEP's Fine Wine,Kentucky,market
+55,Fort Thomas,Fort Thomas Farmers' Market - Historic Midway Business District,Kentucky,market
+56,Fort Thomas,Fort Thomas Farmers' Market - Warden & Associates Realty,Kentucky,market
+57,Frankfort,Franklin County Farmers Market,Kentucky,market
+58,Franklin,Franklin-Simpson Farmers Market,Kentucky,market
+59,Lancaster,Garrard County Farmers Market,Kentucky,market
+60,Crittenden,Grant County Farmers' Market,Kentucky,market
+61,Williamstown,Grant County Farmers' Market,Kentucky,market
+62,Williamstown,Grant County Farmers' Market,Kentucky,market
+63,Mayfield,Graves County Mayfield Farmers' Market,Kentucky,market
+64,Mayfield,Graves County Mayfield Farmers' Market,Kentucky,market
+65,Louisville,Gray Street Farmers Market,Kentucky,market
+66,Leitchfield,Grayson County Farmers’ Market,Kentucky,market
+67,South Shore,Greenup County Farmers Market II,Kentucky,market
+68,Elizabethtown,Hardin County Farmers' Market,Kentucky,market
+69,Harlan,Harlan County Farmers Market,Kentucky,market
+70,Munfordville ,Hart County Farmers Market,Kentucky,market
+71,Elizabethtown,Heartland Whole Life,Kentucky,market
+72,Henderson,Henderson Farmers' Market,Kentucky,market
+73,New Castle,Henry County Farmers Market,Kentucky,market
+74,Hopkinsville,Hopkinsville-Christian County Downtown Farmers Market,Kentucky,market
+75,Independence,Independence Farmers' Market,Kentucky,market
+76,Tyner,Jackson County Farmers Market,Kentucky,market
+77,Nicholasville,Jessamine County Farmers Market III,Kentucky,market
+78,Paintsville,Johnson County Farmers' Market,Kentucky,market
+79,La Grange,La Grange Farmers' Market & Artisans,Kentucky,market
+80,Louisa,Lawrence County Farmers Market,Kentucky,market
+81,Lebanon ,Lebanon Market,Kentucky,market
+82,Vanceburg ,Lewis County Farmers' Market,Kentucky,market
+83,Stanford,Lincoln County Farmers Market,Kentucky,market
+84,Russellville,Logan County Farmers Market,Kentucky,market
+85,London,london-Laurel County Farmers Market,Kentucky,market
+86,Louisville,Louisville Farmers Market,Kentucky,market
+87,Louisville,Lyndon Farmers' Market,Kentucky,market
+88,Livermore ,McLean County Farmers Market,Kentucky,market
+89,Brandenburg,"Meade County Farmers Market, Inc",Kentucky,market
+90,Harrodsburg,Mercer County Farmers Market,Kentucky,market
+91,Edmonton ,Metcalfe County Farmers Market,Kentucky,market
+92,Middletown,Middletown Farmer's Market,Kentucky,market
+93,Tompkinsville,Monroe County Farmers Market,Kentucky,market
+94,Mt. Sterling,Montgomery County Farmers' Market,Kentucky,market
+95,Central City,Muhlenberg County Farmers Market III,Kentucky,market
+96,Greenville,Muhlenberg County Farmers' Market,Kentucky,market
+97,Nicholasville ,Nicholasville Farmers Market,Kentucky,market
+98,Lousiville,Old Louisville Farm Works Market,Kentucky,market
+99,Owenton,Owen County Farm and Craft Market,Kentucky,market
+100,Owensboro,Owensboro Regional Farmers' Market,Kentucky,market
+101,Booneville ,Owsley County Farmers Market,Kentucky,market
+102,Paducah,Paducah Homegrown Farmer's Market,Kentucky,market
+103,Paris,Paris/Bourbon County Farmers Market II,Kentucky,market
+104,Falmouth,Pendleton County Farmers Market,Kentucky,market
+105,Hazard,Perry County Farmers Market,Kentucky,market
+106,Louisville,Phoenix Hill NuLu Farmers' Market,Kentucky,market
+107,Pikeville,Pikeville Farmers Market,Kentucky,market
+108,Clay City,Powell County Farmers Market,Kentucky,market
+109,Prospect ,Prospect Area Farmer's Market,Kentucky,market
+110,Louisville,Rainbow Blossom Farmers' Market,Kentucky,market
+111,Carrollton,Riverview Farmers Market,Kentucky,market
+112,Brodhead,Rockcastle County Farmers Market  II,Kentucky,market
+113,Renfro Valley,Rockcastle County Farmers Market I,Kentucky,market
+114,Morehead,Rowan County Farmers Market,Kentucky,market
+115,Russell Springs,Russell Co Farmer's Market,Kentucky,market
+116,Louisville,Saint Andrew Farmers Market,Kentucky,market
+117,Georgetown,Scott County Farmers' Market,Kentucky,market
+118,Shelbyville,Shelby County Farmers Market,Kentucky,market
+119,Simpsonville,Shelby County Farmers Market II,Kentucky,market
+120,Bowling Green ,SKY Farmers Market,Kentucky,market
+121,Bowling Green ,SoKy Marketplace,Kentucky,market
+122,Somerset,Somerset Farmers Market,Kentucky,market
+123,Louisville/Jefferson County metro government (balance),South Points Farmers Market,Kentucky,market
+124,Louisville/Jefferson County metro government (balance),"Southwest Farmers Market Louisville, KY",Kentucky,market
+125,Harrods Creek,St. Francis of the Fields Farmers Market,Kentucky,market
+126,Louisville,St. Matthews Farmers Market,Kentucky,market
+127,Taylorsville ,Taylorsville Farmers Market Inc.,Kentucky,market
+128,Erlanger,The Dixie Farmers Market,Kentucky,market
+129,Louisville/Jefferson County metro government (balance),The East End Farmer’s Market,Kentucky,market
+130,Campbellsville,"The Farmers Market Association of Taylor County, Inc",Kentucky,market
+131,"Lexington, KY ",The Lexington Farmers' Market,Kentucky,market
+132,Lexington,The Lexington Farmers' Market,Kentucky,market
+133,Lexington,The Lexington Farmers' Market - Winter,Kentucky,market
+134,Somerset,The Market on Main,Kentucky,market
+135,Louisville,The Original Bardstown Road Farmers Market,Kentucky,market
+136,Elkton,Todd County Farmer's Market,Kentucky,market
+137,Jackson,UK Robinson Center Farmers Market,Kentucky,market
+138,Vine Grove ,Vine Grove Farmers Market,Kentucky,market
+139,Monticello,Wayne County Farmers Market I,Kentucky,market
+140,Louisville,Westport Rd Baptist Farmers Market,Kentucky,market
+141,Whitesburg ,Whitesburg/Letcher County Farmers Market,Kentucky,market
+142,Winchester ,Winchester Clark County Farmers' Market,Kentucky,market
+143,Jeffersontown,Winter Jeffersontown Farmers Market,Kentucky,market
+144,Campton,Wolfe County Farmers Market,Kentucky,market
+145,Versailles,Woodford County Farmers Market,Kentucky,market
+146,Versailles ,Woodford County Farmers Market,Kentucky,market
+147,Midway,Woodford County Farmers Market,Kentucky,market

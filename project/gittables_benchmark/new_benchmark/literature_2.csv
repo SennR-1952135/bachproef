@@ -1,0 +1,14 @@
+,name,notes,type
+0,HE 2327-5642,Radial velocity from median of measurements; excluding the 302.4 km/s outlier,
+1,BPS CS 22183-031,Errors in teff/logg are systematic; error in metallicity is standard deviation in metallicity. Radial velocity from http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?1992AJ....103.1987B&amp;data_type=PDF_HIGH&amp;whole_paper=YES&amp;type=PRINTER&amp;filetype=.pdf (ADS link: http://adsabs.harvard.edu/abs/1992AJ....103.1987B ) uncertainty guessed at 1 km/s,STAR
+2,BPS CS 31078-018,--,STAR
+3,CS 29491-069,Radial velocity taken from mean of -377.9; -376.3,STAR
+4,HE 1219-0312,Had to estimate radial velocity and error from Figure 1 of https://www.aanda.org/articles/aa/pdf/2009/35/aa11121-08.pdf,
+5,BPS CS 30306-132,"Errors in teff/logg are systematic. Christlieb et al. (2004) note that it could be a binary star. Has ""actinide boost"" (1 of 2 stars known as of 2004)",STAR
+6,BPS CS 22892-052,Radial velocity from http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2014AJ....147..136R,
+7,HD 221170,Radial velocity from http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2008A%26A...480...91S  no companion detected after 14 years. Errors assumed  couldnt find them in Ivans et al. (2006),GALAXY
+8,BPS CS 31082-001,"Radial velocity from 2017AJ....153.7521K""",
+9,HE 1523-0901,Radial velocity from http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2006ApJ...652.1585F  radial velocity uncertainty is assumed,
+10,BPS CS 29497-004,Actinide boost. Radial velocity from http://simbad.u-strasbg.fr/simbad/sim-ref?bibcode=2005A%26A...439..129B  assumed error on radial velocity,
+11,SDSS J23570052,--,STAR
+12,J203843.2-002333,Radial velocity from RAVE DR4  there are two measurements (-638.5 +/- 14.9; -319.6 +/- 0.5)  took the latter.,STAR

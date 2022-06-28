@@ -1,0 +1,82 @@
+,name,description,class
+0,ANC_Visit_Date,,Misc
+1,ANC_Fetal_period_week,,Misc
+2,Ans_option_yes_hindi,,Misc
+3,Ans_option_no_hindi,,Misc
+4,ANC_Disadvantages to the woman if yes specify,,Misc
+5,ANC_Bloating,,Misc
+6,ANC_excess fatigue_excess cough,,Misc
+7,ANC_swelling of head or whole body,,Misc
+8,ANC_headache,,Misc
+9,ANC_Blurred eyes,,Misc
+10,ANC_Vaginal bleeding,,Misc
+11,ANC_Acute abdominal pain,,Misc
+12,ANC_fever,,Misc
+13,ANC_Vaginal discharge,,Misc
+14,ANC_Information on danger signs,,Misc
+15,ANC_Iron_No,,Misc
+16,ANC_Iron_Partial,,Misc
+17,ANC_Iron_Fully,,Misc
+18,ANC_Whether iron pills are taken or not,,Misc
+19,ANC_Weight,,Misc
+20,ANC_Tongue_nail_Yellowness,,Misc
+21,ANC_Tongue_nail_White,,Misc
+22,ANC_Tongue_nail_Pink,,Misc
+23,ANC_Tongue and nail color,,Misc
+24,ANC_Swelling on hands and face,,Misc
+25,ANC_OBS_PO_Blood,,Misc
+26,ANC_Uterine height (in weeks),,Misc
+27,ANC_Baby_status_head down,,Misc
+28,ANC_Baby_status_Reverse,,Misc
+29,ANC_Baby_status_Horizontal,,Misc
+30,ANC_Baby_status_Skew,,Misc
+31,ANC_Baby_status_after32weeks,,Misc
+32,ANC_Babys_heartbeat_per_minute,,Misc
+33,ANC_breasts_check_normal,,Misc
+34,ANC_breasts_check_Cracked,,Misc
+35,ANC_breasts_check_for_after_32_week,,Misc
+36,ANC_Checking_by_the_vagina_only if needed,,Misc
+37,ANC_Haemoglobin,,Misc
+38,ANC_Protein_in_urine_0,,Misc
+39,ANC_Protein_in_urine_+,,Misc
+40,ANC_Protein_in_urine_++,,Misc
+41,ANC_Protein_in_urine_+++,,Misc
+42,ANC_Protein_in_urine_++++,,Misc
+43,ANC_Protein in urine,,Misc
+44,ANC_LabTest_Blood_Group,,Misc
+45,ANC_LabTest_VDRL,,Misc
+46,ANC_LabTest_HIV,,Misc
+47,ANC_Lab_Test,,ConvSet
+48,ANC_referral_HB_lessthan_7gm_evenafter26weeks,,Misc
+49,ANC_referral_Vaginal bleeding,,Misc
+50,ANC_referral_Priclampsia,,Misc
+51,ANC_referral_Infant minimization,,Misc
+52,ANC_referral_Twin children_inverted baby_baby not beating,,Misc
+53,ANC_referral_Do not move the baby (even after 28 weeks),,Misc
+54,ANC_Needofreferral,,Misc
+55,ANC_Iron pills (number),,Misc
+56,ANC_Tetanus_vaccine_1st,,Misc
+57,ANC_Tetanus_vaccine_2nd,,Misc
+58,ANC_Tetanus_vaccine_Booster,,Misc
+59,ANC_Tetanus vaccine,,Misc
+60,ANC_Other_treatments_chloroquine,,Misc
+61,ANC_Other_treatments_calcium,,Misc
+62,ANC_Other_treatments,,Misc
+63,ANC_Referral Hospital Advice,,Misc
+64,ANC_Health center,,Misc
+65,ANC_Hospital,,Misc
+66,ANC_Delivery point,,Misc
+67,ANC_Education about danger signs,,Misc
+68,ANC_Contraception device (after 28 weeks),,Misc
+69,ANC_Explain other advice,,Misc
+70,ANC_Assessment by classification form: Special investigation needed,,Misc
+71,ADULTCaseSheet_Doctors_Name_1,,Misc
+72,ADULTCaseSheet_Doctors_Name_2,,Misc
+73,ADULTCaseSheet_Doctors_Name_3,,Misc
+74,ADULTCaseSheet_Doctors_Name_4,,Misc
+75,ADULTCaseSheet_Doctors_Name_5,,Misc
+76,GLOBAL_Hindi_Name_of_Doctor,,Misc
+77,GLOBAL_Nurse/SHW_name1,,Misc
+78,GLOBAL_Nurse/SHW_name2,,Misc
+79,GLOBAL_Name_of_nurse_or_SHW_hindi,,Misc
+80,GLOBAL_Follow up after,,Misc

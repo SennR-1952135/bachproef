@@ -1,0 +1,16 @@
+,component,description,type
+0,Network,Container for all components and functions which act upon the whole network.,
+1,SubNetwork,Subsets of buses and passive branches (i.e. lines and transformers) that are connected (i.e. synchronous areas).,
+2,Bus,Electrically fundamental node where x-port objects attach.,
+3,Carrier,"Energy carrier, such as AC, DC, heat, wind, PV or coal. Buses have direct carriers and Generators indicate their primary energy carriers.  The Carrier can track properties relevant for global constraints, such as CO2 emissions.",
+4,GlobalConstraint,"Constraints for OPF that affect many components, such as CO2 emission constraints.",
+5,Line,"Lines include distribution and transmission lines, overhead lines and cables.",passive_branch
+6,LineType,Standard line types with per length values for impedances.,standard_type
+7,Transformer,2-winding transformer.,passive_branch
+8,TransformerType,Standard 2-winding transformer types.,standard_type
+9,Link,"Link between two buses with controllable active power - can be used for a transport power flow model OR as a simplified version of point-to-point DC connection OR as a lossy energy converter. NB: for a lossless bi-directional HVDC or transport link, set p_min_pu = -1 and efficiency = 1. NB: It is assumed that the links neither produce nor consume reactive power.",controllable_branch
+10,Load,PQ power consumer.,controllable_one_port
+11,Generator,Power generator.,controllable_one_port
+12,StorageUnit,Storage unit with fixed nominal-energy-to-nominal-power ratio.,controllable_one_port
+13,Store,"Generic store, whose capacity may be optimised.",controllable_one_port
+14,ShuntImpedance,Shunt y = g + jb.,passive_one_port

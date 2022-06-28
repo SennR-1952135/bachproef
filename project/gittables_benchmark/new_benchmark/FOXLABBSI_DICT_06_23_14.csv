@@ -1,0 +1,27 @@
+,status,type,code,notes
+0,-4,-4,,The 4 digit roster ID (RID) should be used to merge data
+1,-4,-4,,
+2,-4,-4,,Months from baseline rounded to nearest 6 months
+3,-4,-4,,
+4,-4,-4,,
+5,-4,-4,,
+6,-4,-4,0=Partial; 1=Complete,"Partial means that some measures are missing, but should be expected in a later version of results"
+7,-4,-4,,
+8,-4,-4,,
+9,-4,-4,,
+10,-4,-4,,
+11,-4,-4,,Only populated for ADNI GO/2
+12,-4,-4,,Only populated for ADNI GO/2
+13,-4,-4,,Only populated for ADNI-1 for historical purposes
+14,-4,-4,,
+15,-4,-4,,
+16,-4,-4,,Only populated for ADNI GO/2
+17,-4,-4,,Only populated for ADNI GO/2
+18,-4,-4,1=Good; 2=Acceptable; 3=Borderline acceptable; 4=Fail/unacceptable; 5=Significant non-disease related pathology affects measure; 7=Not rated,
+19,-4,-4,0=FAIL; 1=PASS,
+20,-4,-4,0=FAIL; 1=PASS,Only populated for ADNI GO/2
+21,-4,-4,0=FAIL; 1=PASS,Only populated for ADNI GO/2
+22,-4,-4,-4,-4
+23,-4,-4,-4,-4
+24,-4,-4,1=ADNI-1;GO=ADNI-GO;2=ADNI-2,M12 visits for GO subjects continuing into ADNI-2 are coded as ADNI-2 protocol with a v06 VISCODE
+25,-4,-4,0=FAIL/UNUSED; 1=PASS,

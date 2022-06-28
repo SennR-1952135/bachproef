@@ -1,0 +1,501 @@
+,company,industry,country
+0,Agilent Technologies Inc.,Medical Laboratories & Research,USA
+1,"Alcoa, Inc.",Aluminum,USA
+2,Apple Inc.,Electronic Equipment,USA
+3,AbbVie Inc.,Drug Manufacturers - Major,USA
+4,AmerisourceBergen Corporation,Drugs Wholesale,USA
+5,Abbott Laboratories,Medical Appliances & Equipment,USA
+6,ACE Limited,Property & Casualty Insurance,Switzerland
+7,Accenture plc,Information Technology Services,Ireland
+8,Actavis plc,Drugs - Generic,USA
+9,Adobe Systems Inc.,Application Software,USA
+10,Analog Devices Inc.,Semiconductor - Integrated Circuits,USA
+11,Archer Daniels Midland Company,Farm Products,USA
+12,"Automatic Data Processing, Inc.",Business Software & Services,USA
+13,Alliance Data Systems Corporation,Business Services,USA
+14,"Autodesk, Inc.",Technical & System Software,USA
+15,The ADT Corporation,Security & Protection Services,USA
+16,Ameren Corporation,Diversified Utilities,USA
+17,"American Electric Power Co., Inc.",Electric Utilities,USA
+18,The AES Corporation,Electric Utilities,USA
+19,Aetna Inc.,Health Care Plans,USA
+20,AFLAC Inc.,Accident & Health Insurance,USA
+21,Allergan Inc.,Drug Manufacturers - Other,USA
+22,"American International Group, Inc.",Property & Casualty Insurance,USA
+23,Apartment Investment & Management Co.,REIT - Residential,USA
+24,Assurant Inc.,Accident & Health Insurance,USA
+25,"Akamai Technologies, Inc.",Internet Information Providers,USA
+26,The Allstate Corporation,Property & Casualty Insurance,USA
+27,Allegion plc,Scientific & Technical Instruments,USA
+28,Altera Corp.,Semiconductor - Specialized,USA
+29,"Alexion Pharmaceuticals, Inc.",Biotechnology,USA
+30,Applied Materials Inc.,Semiconductor Equipment & Materials,USA
+31,Ametek Inc.,Diversified Machinery,USA
+32,Amgen Inc.,Biotechnology,USA
+33,Ameriprise Financial Inc.,Asset Management,USA
+34,American Tower Corporation,REIT - Diversified,USA
+35,Amazon.com Inc.,Catalog & Mail Order Houses,USA
+36,AutoNation Inc.,Auto Dealerships,USA
+37,Aon Corporation,Insurance Brokers,USA
+38,Apache Corp.,Independent Oil & Gas,USA
+39,Anadarko Petroleum Corporation,Independent Oil & Gas,USA
+40,Air Products & Chemicals Inc.,Chemicals - Major Diversified,USA
+41,Amphenol Corporation,Diversified Electronics,USA
+42,Airgas Inc.,Chemicals - Major Diversified,USA
+43,Allegheny Technologies Inc.,Metal Fabrication,USA
+44,Avalonbay Communities Inc.,REIT - Residential,USA
+45,Avon Products Inc.,Personal Products,USA
+46,Avery Dennison Corporation,Business Equipment,USA
+47,American Express Company,Credit Services,USA
+48,AutoZone Inc.,Auto Parts Stores,USA
+49,Boeing Co.,Aerospace/Defense Products & Services,USA
+50,Bank of America Corporation,Money Center Banks,USA
+51,Baxter International Inc.,Medical Instruments & Supplies,USA
+52,Bed Bath & Beyond Inc.,Home Furnishing Stores,USA
+53,BB&T Corporation,Regional - Southeast Banks,USA
+54,Best Buy Co. Inc.,Electronics Stores,USA
+55,CR Bard Inc.,Medical Instruments & Supplies,USA
+56,"Becton, Dickinson and Company",Medical Instruments & Supplies,USA
+57,"Beam, Inc.",Beverages - Wineries & Distillers,USA
+58,Franklin Resources Inc.,Asset Management,USA
+59,Brown-Forman Corporation,Beverages - Wineries & Distillers,USA
+60,Baker Hughes Incorporated,Oil & Gas Equipment & Services,USA
+61,Biogen Idec Inc.,Biotechnology,USA
+62,The Bank of New York Mellon Corporation,Asset Management,USA
+63,"BlackRock, Inc.",Asset Management,USA
+64,Ball Corporation,Packaging & Containers,USA
+65,"Bemis Company, Inc.",Packaging & Containers,USA
+66,Bristol-Myers Squibb Company,Drug Manufacturers - Major,USA
+67,Broadcom Corp.,Semiconductor - Integrated Circuits,USA
+68,Berkshire Hathaway Inc.,Property & Casualty Insurance,USA
+69,Boston Scientific Corporation,Medical Appliances & Equipment,USA
+70,Peabody Energy Corp.,Industrial Metals & Minerals,USA
+71,BorgWarner Inc.,Auto Parts,USA
+72,Boston Properties Inc.,REIT - Office,USA
+73,"Citigroup, Inc.",Money Center Banks,USA
+74,CA Technologies,Business Software & Services,USA
+75,"ConAgra Foods, Inc.",Processed & Packaged Goods,USA
+76,"Cardinal Health, Inc.",Drugs Wholesale,USA
+77,Cameron International Corporation,Oil & Gas Equipment & Services,USA
+78,Caterpillar Inc.,Farm & Construction Machinery,USA
+79,The Chubb Corporation,Property & Casualty Insurance,USA
+80,"CBRE Group, Inc",Property Management,USA
+81,CBS Corporation,Entertainment - Diversified,USA
+82,Coca-Cola Enterprises Inc.,Beverages - Soft Drinks,USA
+83,Crown Castle International Corp.,Diversified Communication Services,USA
+84,Carnival Corporation,Resorts & Casinos,USA
+85,Celgene Corporation,Biotechnology,USA
+86,Cerner Corporation,Healthcare Information Services,USA
+87,"CF Industries Holdings, Inc.",Agricultural Chemicals,USA
+88,CareFusion Corporation,Medical Instruments & Supplies,USA
+89,Chesapeake Energy Corporation,Independent Oil & Gas,USA
+90,CH Robinson Worldwide Inc.,Air Delivery & Freight Services,USA
+91,Cigna Corp.,Health Care Plans,USA
+92,Cincinnati Financial Corp.,Property & Casualty Insurance,USA
+93,Colgate-Palmolive Co.,Personal Products,USA
+94,Cliffs Natural Resources Inc.,Industrial Metals & Minerals,USA
+95,The Clorox Company,Housewares & Accessories,USA
+96,Comerica Incorporated,Money Center Banks,USA
+97,Comcast Corporation,Entertainment - Diversified,USA
+98,CME Group Inc.,Investment Brokerage - National,USA
+99,"Chipotle Mexican Grill, Inc.",Restaurants,USA
+100,Cummins Inc.,Diversified Machinery,USA
+101,CMS Energy Corp.,Electric Utilities,USA
+102,"CenterPoint Energy, Inc.",Gas Utilities,USA
+103,CONSOL Energy Inc.,Independent Oil & Gas,USA
+104,Capital One Financial Corp.,Credit Services,USA
+105,Cabot Oil & Gas Corporation,Independent Oil & Gas,USA
+106,"Coach, Inc.",Textile - Apparel Footwear & Accessories,USA
+107,Rockwell Collins Inc.,Aerospace/Defense Products & Services,USA
+108,ConocoPhillips,Independent Oil & Gas,USA
+109,Costco Wholesale Corporation,"Discount, Variety Stores",USA
+110,Covidien plc,Medical Instruments & Supplies,Ireland
+111,Campbell Soup Co.,Processed & Packaged Goods,USA
+112,Salesforce.com,Application Software,USA
+113,Computer Sciences Corporation,Information Technology Services,USA
+114,"Cisco Systems, Inc.",Networking & Communication Devices,USA
+115,CSX Corp.,Railroads,USA
+116,Cintas Corporation,Business Services,USA
+117,"CenturyLink, Inc.",Telecom Services - Domestic,USA
+118,Cognizant Technology Solutions Corporation,Business Software & Services,USA
+119,"Citrix Systems, Inc.",Business Software & Services,USA
+120,Cablevision Systems Corporation,CATV Systems,USA
+121,CVS Caremark Corporation,Drug Stores,USA
+122,Chevron Corporation,Major Integrated Oil & Gas,USA
+123,"Dominion Resources, Inc.",Electric Utilities,USA
+124,Delta Air Lines Inc.,Major Airlines,USA
+125,E. I. du Pont de Nemours and Company,Agricultural Chemicals,USA
+126,Deere & Company,Farm & Construction Machinery,USA
+127,Discover Financial Services,Credit Services,USA
+128,Dollar General Corporation,"Discount, Variety Stores",USA
+129,Quest Diagnostics Inc.,Medical Laboratories & Research,USA
+130,DR Horton Inc.,Residential Construction,USA
+131,Danaher Corp.,Diversified Machinery,USA
+132,Walt Disney Co.,Entertainment - Diversified,USA
+133,"Discovery Communications, Inc.",CATV Systems,USA
+134,Delphi Automotive PLC,Auto Parts,United Kingdom
+135,"Dollar Tree, Inc.","Discount, Variety Stores",USA
+136,Dun & Bradstreet Corp.,Information & Delivery Services,USA
+137,Denbury Resources Inc.,Independent Oil & Gas,USA
+138,Diamond Offshore Drilling Inc.,Oil & Gas Drilling & Exploration,USA
+139,Dover Corp.,Diversified Machinery,USA
+140,The Dow Chemical Company,Chemicals - Major Diversified,USA
+141,"Dr Pepper Snapple Group, Inc.",Beverages - Soft Drinks,USA
+142,"Darden Restaurants, Inc.",Restaurants,USA
+143,DTE Energy Co.,Electric Utilities,USA
+144,"DIRECTV, Inc.",CATV Systems,USA
+145,Duke Energy Corporation,Diversified Utilities,USA
+146,"DaVita, Inc.",Specialized Health Services,USA
+147,Devon Energy Corporation,Independent Oil & Gas,USA
+148,Electronic Arts Inc.,Multimedia & Graphics Software,USA
+149,eBay Inc.,"Specialty Retail, Other",USA
+150,Ecolab Inc.,Cleaning Products,USA
+151,Consolidated Edison Inc.,Diversified Utilities,USA
+152,Equifax Inc.,Credit Services,USA
+153,Edison International,Electric Utilities,USA
+154,Estee Lauder Companies Inc.,Personal Products,USA
+155,EMC Corporation,Data Storage Devices,USA
+156,Eastman Chemical Co.,Chemicals - Major Diversified,USA
+157,Emerson Electric Co.,Industrial Electrical Equipment,USA
+158,"EOG Resources, Inc.",Independent Oil & Gas,USA
+159,Equity Residential,REIT - Residential,USA
+160,EQT Corporation,Independent Oil & Gas,USA
+161,Express Scripts Inc.,Health Care Plans,USA
+162,Ensco plc,Oil & Gas Drilling & Exploration,United Kingdom
+163,E*TRADE Financial Corporation,Investment Brokerage - National,USA
+164,Eaton Corporation,Diversified Machinery,USA
+165,Entergy Corporation,Electric Utilities,USA
+166,Edwards Lifesciences Corp.,Medical Appliances & Equipment,USA
+167,Exelon Corporation,Diversified Utilities,USA
+168,Expeditors International of Washington Inc.,Air Delivery & Freight Services,USA
+169,Expedia Inc.,Lodging,USA
+170,Ford Motor Co.,Auto Manufacturers - Major,USA
+171,Fastenal Company,Industrial Equipment Wholesale,USA
+172,"Facebook, Inc.",Internet Information Providers,USA
+173,Freeport-McMoRan Copper & Gold Inc.,Copper,USA
+174,Family Dollar Stores Inc.,"Discount, Variety Stores",USA
+175,FedEx Corporation,Air Delivery & Freight Services,USA
+176,FirstEnergy Corp.,Electric Utilities,USA
+177,"F5 Networks, Inc.",Business Software & Services,USA
+178,"Fidelity National Information Services, Inc.",Information Technology Services,USA
+179,"Fiserv, Inc.",Business Services,USA
+180,Fifth Third Bancorp,Regional - Midwest Banks,USA
+181,"FLIR Systems, Inc.",Scientific & Technical Instruments,USA
+182,Fluor Corporation,Heavy Construction,USA
+183,Flowserve Corp.,Diversified Machinery,USA
+184,FMC Corp.,Chemicals - Major Diversified,USA
+185,"Fossil, Inc.","Recreational Goods, Other",USA
+186,"Twenty-First Century Fox, Inc.",Entertainment - Diversified,USA
+187,Forest Laboratories Inc.,Drug Manufacturers - Other,USA
+188,"First Solar, Inc.",Semiconductor - Specialized,USA
+189,"FMC Technologies, Inc.",Oil & Gas Equipment & Services,USA
+190,Frontier Communications Corporation,Telecom Services - Domestic,USA
+191,AGL Resources Inc.,Gas Utilities,USA
+192,"Gannett Co., Inc.",Publishing - Newspapers,USA
+193,General Dynamics Corp.,Aerospace/Defense Products & Services,USA
+194,General Electric Company,Diversified Machinery,USA
+195,General Growth Properties Inc.,REIT - Retail,USA
+196,Graham Holdings,Publishing - Newspapers,USA
+197,Gilead Sciences Inc.,Biotechnology,USA
+198,"General Mills, Inc.",Processed & Packaged Goods,USA
+199,Corning Inc.,Diversified Electronics,USA
+200,General Motors Company,Auto Manufacturers - Major,USA
+201,GameStop Corp.,Electronics Stores,USA
+202,Genworth Financial Inc.,Life Insurance,USA
+203,Google Inc.,Internet Information Providers,USA
+204,Genuine Parts Company,Auto Parts Wholesale,USA
+205,Gap Inc.,Apparel Stores,USA
+206,Garmin Ltd.,Scientific & Technical Instruments,Cayman Islands
+207,"The Goldman Sachs Group, Inc.",Investment Brokerage - National,USA
+208,Goodyear Tire & Rubber Co.,Rubber & Plastics,USA
+209,"W.W. Grainger, Inc.",Industrial Equipment Wholesale,USA
+210,Halliburton Company,Oil & Gas Equipment & Services,USA
+211,Harman International Industries Inc.,Electronic Equipment,USA
+212,Hasbro Inc.,Toys & Games,USA
+213,Huntington Bancshares Incorporated,Regional - Midwest Banks,USA
+214,"Hudson City Bancorp, Inc.",Savings & Loans,USA
+215,"Health Care REIT, Inc.",REIT - Healthcare Facilities,USA
+216,"HCP, Inc.",REIT - Healthcare Facilities,USA
+217,"The Home Depot, Inc.",Home Improvement Stores,USA
+218,Hess Corporation,Independent Oil & Gas,USA
+219,Hartford Financial Services Group Inc.,Property & Casualty Insurance,USA
+220,"Harley-Davidson, Inc.",Recreational Vehicles,USA
+221,Honeywell International Inc.,Diversified Machinery,USA
+222,Starwood Hotels & Resorts Worldwide Inc.,Lodging,USA
+223,Helmerich & Payne Inc.,Oil & Gas Drilling & Exploration,USA
+224,Hewlett-Packard Company,Diversified Computer Systems,USA
+225,"H&R Block, Inc.",Personal Services,USA
+226,Hormel Foods Corp.,Meat Products,USA
+227,Harris Corp.,Communication Equipment,USA
+228,Hospira Inc.,Drugs - Generic,USA
+229,Host Hotels & Resorts Inc.,REIT - Hotel/Motel,USA
+230,Hershey Co.,Confectioners,USA
+231,Humana Inc.,Health Care Plans,USA
+232,International Business Machines Corp.,Information Technology Services,USA
+233,"IntercontinentalExchange, Inc.",Diversified Investments,USA
+234,International Flavors & Fragrances Inc.,Specialty Chemicals,USA
+235,International Game Technology,Multimedia & Graphics Software,USA
+236,Intel Corporation,Semiconductor - Broad Line,USA
+237,Intuit Inc.,Application Software,USA
+238,International Paper Co.,Packaging & Containers,USA
+239,"The Interpublic Group of Companies, Inc.",Advertising Agencies,USA
+240,Ingersoll-Rand Plc,Diversified Machinery,Ireland
+241,Iron Mountain Inc.,Business Software & Services,USA
+242,"Intuitive Surgical, Inc.",Medical Appliances & Equipment,USA
+243,Illinois Tool Works Inc.,Diversified Machinery,USA
+244,Invesco Ltd.,Asset Management,USA
+245,Jabil Circuit Inc.,Printed Circuit Boards,USA
+246,Johnson Controls Inc.,Auto Parts,USA
+247,Jacobs Engineering Group Inc.,Technical Services,USA
+248,Johnson & Johnson,Drug Manufacturers - Major,USA
+249,"Juniper Networks, Inc.",Networking & Communication Devices,USA
+250,"Joy Global, Inc.",Farm & Construction Machinery,USA
+251,JPMorgan Chase & Co.,Money Center Banks,USA
+252,Nordstrom Inc.,Apparel Stores,USA
+253,Kellogg Company,Processed & Packaged Goods,USA
+254,KeyCorp,Regional - Midwest Banks,USA
+255,Kimco Realty Corporation,REIT - Retail,USA
+256,KLA-Tencor Corporation,Semiconductor Equipment & Materials,USA
+257,Kimberly-Clark Corporation,Personal Products,USA
+258,"Kinder Morgan, Inc.",Oil & Gas Pipelines,USA
+259,CarMax Inc.,Auto Dealerships,USA
+260,The Coca-Cola Company,Beverages - Soft Drinks,USA
+261,Michael Kors Holdings Ltd.,"Specialty Retail, Other",Hong Kong
+262,The Kroger Co.,Grocery Stores,USA
+263,"Kraft Foods Group, Inc.",Food - Major Diversified,USA
+264,Kohl's Corp.,Department Stores,USA
+265,Kansas City Southern,Railroads,USA
+266,Loews Corporation,Property & Casualty Insurance,USA
+267,"L Brands, Inc.",Apparel Stores,USA
+268,"Leggett & Platt, Incorporated",Home Furnishings & Fixtures,USA
+269,Lennar Corp.,Residential Construction,USA
+270,Laboratory Corp. of America Holdings,Medical Laboratories & Research,USA
+271,L-3 Communications Holdings Inc.,Aerospace/Defense Products & Services,USA
+272,Linear Technology Corp.,Semiconductor - Specialized,USA
+273,Eli Lilly & Co.,Drug Manufacturers - Major,USA
+274,Legg Mason Inc.,Asset Management,USA
+275,Lockheed Martin Corporation,Aerospace/Defense Products & Services,USA
+276,Lincoln National Corp.,Life Insurance,USA
+277,"Lorillard, Inc.",Cigarettes,USA
+278,Lowe's Companies Inc.,Home Improvement Stores,USA
+279,Lam Research Corporation,Semiconductor Equipment & Materials,USA
+280,LSI Corporation,Semiconductor - Specialized,USA
+281,Leucadia National Corp.,Meat Products,USA
+282,Southwest Airlines Co.,Regional Airlines,USA
+283,LyondellBasell Industries NV,Specialty Chemicals,Netherlands
+284,"Macy's, Inc.",Department Stores,USA
+285,Mastercard Incorporated,Credit Services,USA
+286,Macerich Co.,REIT - Retail,USA
+287,"Marriott International, Inc.",Lodging,USA
+288,Masco Corporation,General Building Materials,USA
+289,Mattel Inc.,Toys & Games,USA
+290,McDonald's Corp.,Restaurants,USA
+291,Microchip Technology Inc.,Semiconductor - Specialized,USA
+292,McKesson Corporation,Drugs Wholesale,USA
+293,Moody's Corp.,Business Services,USA
+294,"Mondelez International, Inc.",Confectioners,USA
+295,"Medtronic, Inc.",Medical Appliances & Equipment,USA
+296,"MetLife, Inc.",Life Insurance,USA
+297,"McGraw Hill Financial, Inc.",Business Services,USA
+298,Mohawk Industries Inc.,Home Furnishings & Fixtures,USA
+299,Mead Johnson Nutrition Company,Processed & Packaged Goods,USA
+300,McCormick & Co. Inc.,Processed & Packaged Goods,USA
+301,"Marsh & McLennan Companies, Inc.",Insurance Brokers,USA
+302,3M Co.,Diversified Machinery,USA
+303,Monster Beverage Corporation,Beverages - Soft Drinks,USA
+304,Altria Group Inc.,Cigarettes,USA
+305,Monsanto Co.,Agricultural Chemicals,USA
+306,The Mosaic Company,Agricultural Chemicals,USA
+307,Marathon Petroleum Corporation,Oil & Gas Refining & Marketing,USA
+308,Merck & Co. Inc.,Drug Manufacturers - Major,USA
+309,Marathon Oil Corporation,Independent Oil & Gas,USA
+310,Morgan Stanley,Investment Brokerage - National,USA
+311,Microsoft Corporation,Business Software & Services,USA
+312,"Motorola Solutions, Inc.",Communication Equipment,USA
+313,M&T Bank Corporation,Regional - Northeast Banks,USA
+314,Micron Technology Inc.,Semiconductor- Memory Chips,USA
+315,Murphy Oil Corporation,Independent Oil & Gas,USA
+316,MeadWestvaco Corporation,Packaging & Containers,USA
+317,"Mylan, Inc.",Drugs - Generic,USA
+318,"Noble Energy, Inc.",Independent Oil & Gas,USA
+319,Nabors Industries Ltd.,Oil & Gas Drilling & Exploration,Bermuda
+320,Nasdaq OMX Group Inc.,Diversified Investments,USA
+321,Noble Corp.,Oil & Gas Drilling & Exploration,Switzerland
+322,"NextEra Energy, Inc.",Electric Utilities,USA
+323,Newmont Mining Corp.,Gold,USA
+324,"Netflix, Inc.",CATV Systems,USA
+325,Newfield Exploration Co.,Independent Oil & Gas,USA
+326,NiSource Inc.,Diversified Utilities,USA
+327,Nike Inc.,Textile - Apparel Footwear & Accessories,USA
+328,Nielsen Holdings N.V.,Information & Delivery Services,USA
+329,Northrop Grumman Corporation,Aerospace/Defense - Major Diversified,USA
+330,"National Oilwell Varco, Inc.",Oil & Gas Equipment & Services,USA
+331,"NRG Energy, Inc.",Diversified Utilities,USA
+332,Norfolk Southern Corp.,Railroads,USA
+333,"NetApp, Inc.",Data Storage Devices,USA
+334,Northern Trust Corporation,Asset Management,USA
+335,Northeast Utilities,Diversified Utilities,USA
+336,Nucor Corporation,Steel & Iron,USA
+337,NVIDIA Corporation,Semiconductor - Specialized,USA
+338,Newell Rubbermaid Inc.,Housewares & Accessories,USA
+339,News Corp.,Broadcasting - TV,USA
+340,"Owens-Illinois, Inc.",Packaging & Containers,USA
+341,ONEOK Inc.,Gas Utilities,USA
+342,Omnicom Group Inc.,Advertising Agencies,USA
+343,Oracle Corporation,Application Software,USA
+344,O'Reilly Automotive Inc.,Auto Parts Stores,USA
+345,Occidental Petroleum Corporation,Independent Oil & Gas,USA
+346,"Paychex, Inc.",Staffing & Outsourcing Services,USA
+347,People's United Financial Inc.,Savings & Loans,USA
+348,Pitney Bowes Inc.,Business Equipment,USA
+349,PACCAR Inc.,Trucks & Other Vehicles,USA
+350,PG&E Corp.,Electric Utilities,USA
+351,Plum Creek Timber Co. Inc.,"Lumber, Wood Production",USA
+352,priceline.com Incorporated,Business Services,USA
+353,Precision Castparts Corp.,Metal Fabrication,USA
+354,Patterson Companies Inc.,Medical Equipment Wholesale,USA
+355,Public Service Enterprise Group Inc.,Diversified Utilities,USA
+356,"Pepsico, Inc.",Beverages - Soft Drinks,USA
+357,"PetSmart, Inc.","Specialty Retail, Other",USA
+358,Pfizer Inc.,Drug Manufacturers - Major,USA
+359,Principal Financial Group Inc.,Life Insurance,USA
+360,Procter & Gamble Co.,Personal Products,USA
+361,Progressive Corp.,Property & Casualty Insurance,USA
+362,Parker Hannifin Corporation,Industrial Equipment & Components,USA
+363,"PulteGroup, Inc.",Residential Construction,USA
+364,PerkinElmer Inc.,Medical Laboratories & Research,USA
+365,"Prologis, Inc.",REIT - Industrial,USA
+366,Pall Corp.,Diversified Machinery,USA
+367,"Philip Morris International, Inc.",Cigarettes,USA
+368,PNC Financial Services Group Inc.,Money Center Banks,USA
+369,"Pentair, Inc.",Industrial Equipment & Components,USA
+370,Pinnacle West Capital Corporation,Electric Utilities,USA
+371,"Pepco Holdings, Inc.",Electric Utilities,USA
+372,PPG Industries Inc.,Specialty Chemicals,USA
+373,PPL Corporation,Electric Utilities,USA
+374,Perrigo Co.,Drug Related Products,USA
+375,"Prudential Financial, Inc.",Life Insurance,USA
+376,Public Storage,REIT - Industrial,USA
+377,Phillips 66,Oil & Gas Refining & Marketing,USA
+378,PVH Corp.,Textile - Apparel Clothing,USA
+379,"Quanta Services, Inc.",General Contractors,USA
+380,Praxair Inc.,Chemicals - Major Diversified,USA
+381,Pioneer Natural Resources Co.,Independent Oil & Gas,USA
+382,QUALCOMM Incorporated,Communication Equipment,USA
+383,"QEP Resources, Inc.",Oil & Gas Pipelines,USA
+384,"Ryder System, Inc.",Rental & Leasing Services,USA
+385,Reynolds American Inc.,Cigarettes,USA
+386,Rowan Companies Inc.,Oil & Gas Drilling & Exploration,USA
+387,"Regeneron Pharmaceuticals, Inc.",Biotechnology,USA
+388,Regions Financial Corp.,Regional - Southeast Banks,USA
+389,Robert Half International Inc.,Staffing & Outsourcing Services,USA
+390,"Red Hat, Inc.",Application Software,USA
+391,Transocean Ltd.,Oil & Gas Drilling & Exploration,Switzerland
+392,Ralph Lauren Corporation,Textile - Apparel Clothing,USA
+393,Rockwell Automation Inc.,Diversified Machinery,USA
+394,Roper Industries Inc.,Diversified Machinery,USA
+395,Ross Stores Inc.,Apparel Stores,USA
+396,Range Resources Corporation,Independent Oil & Gas,USA
+397,"Republic Services, Inc.",Waste Management,USA
+398,Raytheon Co.,Aerospace/Defense Products & Services,USA
+399,Starbucks Corporation,Specialty Eateries,USA
+400,SCANA Corp.,Electric Utilities,USA
+401,The Charles Schwab Corporation,Investment Brokerage - National,USA
+402,Spectra Energy Corp.,Oil & Gas Pipelines,USA
+403,Sealed Air Corporation,Packaging & Containers,USA
+404,The Sherwin-Williams Company,Specialty Chemicals,USA
+405,Sigma-Aldrich Corporation,Specialty Chemicals,USA
+406,The J. M. Smucker Company,Processed & Packaged Goods,USA
+407,Schlumberger Limited,Oil & Gas Equipment & Services,USA
+408,SLM Corporation,Credit Services,USA
+409,Snap-on Inc.,Small Tools & Accessories,USA
+410,SanDisk Corp.,Data Storage Devices,USA
+411,"Scripps Networks Interactive, Inc.",Broadcasting - TV,USA
+412,Southern Company,Diversified Utilities,USA
+413,Simon Property Group Inc.,REIT - Retail,USA
+414,"Staples, Inc.","Specialty Retail, Other",USA
+415,"Stericycle, Inc.",Waste Management,USA
+416,Sempra Energy,Diversified Utilities,USA
+417,"SunTrust Banks, Inc.",Money Center Banks,USA
+418,St. Jude Medical Inc.,Medical Appliances & Equipment,USA
+419,State Street Corp.,Asset Management,USA
+420,Seagate Technology PLC,Data Storage Devices,Ireland
+421,Constellation Brands Inc.,Beverages - Wineries & Distillers,USA
+422,"Stanley Black & Decker, Inc.",Machine Tools & Accessories,USA
+423,Southwestern Energy Co.,Independent Oil & Gas,USA
+424,Safeway Inc.,Grocery Stores,USA
+425,Stryker Corp.,Medical Appliances & Equipment,USA
+426,Symantec Corporation,Security Software & Services,USA
+427,Sysco Corp.,Food Wholesale,USA
+428,"AT&T, Inc.",Telecom Services - Domestic,USA
+429,Molson Coors Brewing Company,Beverages - Brewers,USA
+430,Teradata Corporation,Data Storage Devices,USA
+431,"TECO Energy, Inc.",Electric Utilities,USA
+432,"Integrys Energy Group, Inc.",Gas Utilities,USA
+433,TE Connectivity Ltd.,Diversified Electronics,Switzerland
+434,Target Corp.,"Discount, Variety Stores",USA
+435,Tenet Healthcare Corp.,Hospitals,USA
+436,Tiffany & Co.,Jewelry Stores,USA
+437,"The TJX Companies, Inc.",Department Stores,USA
+438,Torchmark Corp.,Life Insurance,USA
+439,"Thermo Fisher Scientific, Inc.",Medical Laboratories & Research,USA
+440,TripAdvisor Inc.,Internet Information Providers,USA
+441,"T. Rowe Price Group, Inc.",Asset Management,USA
+442,"The Travelers Companies, Inc.",Property & Casualty Insurance,USA
+443,Tractor Supply Company,"Specialty Retail, Other",USA
+444,Tyson Foods Inc.,Meat Products,USA
+445,Tesoro Corporation,Oil & Gas Refining & Marketing,USA
+446,"Total System Services, Inc.",Credit Services,USA
+447,Time Warner Cable Inc.,CATV Systems,USA
+448,Time Warner Inc.,Entertainment - Diversified,USA
+449,Texas Instruments Inc.,Semiconductor - Broad Line,USA
+450,Textron Inc.,Aerospace/Defense - Major Diversified,USA
+451,Tyco International Ltd.,Security & Protection Services,Switzerland
+452,"Unitedhealth Group, Inc.",Health Care Plans,USA
+453,Unum Group,Accident & Health Insurance,USA
+454,Union Pacific Corporation,Railroads,USA
+455,"United Parcel Service, Inc.",Air Delivery & Freight Services,USA
+456,Urban Outfitters Inc.,Apparel Stores,USA
+457,U.S. Bancorp,Regional - Midwest Banks,USA
+458,United Technologies Corp.,Aerospace/Defense Products & Services,USA
+459,"Visa, Inc.",Credit Services,USA
+460,Varian Medical Systems Inc.,Medical Appliances & Equipment,USA
+461,V.F. Corporation,Textile - Apparel Clothing,USA
+462,"Viacom, Inc.",Entertainment - Diversified,USA
+463,Valero Energy Corporation,Oil & Gas Refining & Marketing,USA
+464,Vulcan Materials Company,General Building Materials,USA
+465,Vornado Realty Trust,REIT - Diversified,USA
+466,"VeriSign, Inc.",Internet Information Providers,USA
+467,Vertex Pharmaceuticals Incorporated,Biotechnology,USA
+468,"Ventas, Inc.",REIT - Healthcare Facilities,USA
+469,Verizon Communications Inc.,Telecom Services - Domestic,USA
+470,Walgreen Co.,Drug Stores,USA
+471,Waters Corp.,Scientific & Technical Instruments,USA
+472,Western Digital Corp.,Data Storage Devices,USA
+473,Wisconsin Energy Corp.,Electric Utilities,USA
+474,Wells Fargo & Company,Money Center Banks,USA
+475,"Whole Foods Market, Inc.",Grocery Stores,USA
+476,Whirlpool Corp.,Appliances,USA
+477,Windstream Corporation,Telecom Services - Domestic,USA
+478,WellPoint Inc.,Health Care Plans,USA
+479,"Waste Management, Inc.",Waste Management,USA
+480,"Williams Companies, Inc.",Oil & Gas Pipelines,USA
+481,Wal-Mart Stores Inc.,"Discount, Variety Stores",USA
+482,"WPX Energy, Inc.",Independent Oil & Gas,USA
+483,Western Union Co.,Credit Services,USA
+484,Weyerhaeuser Co.,"Lumber, Wood Production",USA
+485,Wyndham Worldwide Corporation,Lodging,USA
+486,Wynn Resorts Ltd.,Resorts & Casinos,USA
+487,United States Steel Corp.,Steel & Iron,USA
+488,Xcel Energy Inc.,Electric Utilities,USA
+489,XL Group plc,Property & Casualty Insurance,Ireland
+490,Xilinx Inc.,Semiconductor - Integrated Circuits,USA
+491,Exxon Mobil Corporation,Major Integrated Oil & Gas,USA
+492,DENTSPLY International Inc.,Medical Instruments & Supplies,USA
+493,Xerox Corp.,Information Technology Services,USA
+494,Xylem Inc.,Diversified Machinery,USA
+495,Yahoo! Inc.,Internet Information Providers,USA
+496,"Yum! Brands, Inc.",Restaurants,USA
+497,Zions Bancorp.,Regional - Pacific Banks,USA
+498,"Zimmer Holdings, Inc.",Medical Appliances & Equipment,USA
+499,Zoetis Inc.,Drugs - Generic,USA

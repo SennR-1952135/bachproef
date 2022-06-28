@@ -1,0 +1,24 @@
+,class,description
+0,Texture2D,Cyclomatic complexity of the method is 9
+1,Scene,Cyclomatic complexity of the method is 9
+2,Scene,"The length of the statement  ""                    shaderPerPixel.SetUniform3(gl' ""DiffuseMaterial""' mesh.material.Diffuse.r' mesh.material.Diffuse.g' mesh.material.Diffuse.b); "" is 125."
+3,Scene,"The length of the statement  ""                    shaderPerPixel.SetUniform3(gl' ""AmbientMaterial""' mesh.material.Ambient.r' mesh.material.Ambient.g' mesh.material.Ambient.b); "" is 125."
+4,Scene,"The length of the statement  ""                    shaderPerPixel.SetUniform3(gl' ""SpecularMaterial""' mesh.material.Specular.r' mesh.material.Specular.g' mesh.material.Specular.b); "" is 129."
+5,Texture2D,The following statement contains a magic number: targetWidth = size / 2;
+6,Texture2D,The following statement contains a magic number: targetHeight = size / 2;
+7,Scene,The following statement contains a magic number: const float S = 0.46f;
+8,Scene,The following statement contains a magic number: projectionMatrix = glm.frustum(-S' S' -H' H' 1' 100);
+9,Scene,The following statement contains a magic number: mat4 translation = glm.translate(mat4.identity()' new vec3(0' 0' -40));
+10,Scene,The following statement contains a magic number: mesh.indicesPerFace == 4
+11,Scene,"The following statement contains a magic number: shaderPerPixel.SetUniform3(gl' ""LightPosition""' 0.25f' 0.25f' 10f);"
+12,Scene,"The following statement contains a magic number: shaderPerPixel.SetUniform3(gl' ""LightPosition""' 0.25f' 0.25f' 10f);"
+13,Scene,"The following statement contains a magic number: shaderPerPixel.SetUniform3(gl' ""LightPosition""' 0.25f' 0.25f' 10f);"
+14,Scene,The following statement contains a magic number: mesh.indicesPerFace == 4
+15,Scene,The following statement contains a magic number: verticesVertexBuffer.SetData(gl' VertexAttributes.Position'                                   mesh.vertices.SelectMany(v => v.to_array()).ToArray()'                                   false' 3);
+16,Scene,The following statement contains a magic number: normalsVertexBuffer.SetData(gl' VertexAttributes.Normal'                                              mesh.normals.SelectMany(v => v.to_array()).ToArray()'                                              false' 3);
+17,Scene,The following statement contains a magic number: texCoordsVertexBuffer.SetData(gl' VertexAttributes.TexCoord'                                                mesh.uvs.SelectMany(v => v.to_array()).ToArray()'                                                false' 2);
+18,Scene,The following statement contains a magic number: scaleFactor = 8.0f/max;
+19,MainWindow,The following statement contains a magic number: theta += 0.01f;
+20,MainWindow,The following statement contains a magic number: switch(comboBoxPolygonMode.SelectedIndex)              {                  case 0: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Points);                      break;                  case 1: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Lines);                      break;                  case 2: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Filled);                      break;              }
+21,MainWindow,The following switch statement is missing a default case: switch(comboBoxRenderMode.SelectedIndex)              {                  case 0: scene.RenderImmediateMode(gl); break;                  case 1: scene.RenderRetainedMode(gl); break;              }
+22,MainWindow,The following switch statement is missing a default case: switch(comboBoxPolygonMode.SelectedIndex)              {                  case 0: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Points);                      break;                  case 1: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Lines);                      break;                  case 2: openGlCtrl.OpenGL.PolygonMode(FaceMode.FrontAndBack' PolygonMode.Filled);                      break;              }

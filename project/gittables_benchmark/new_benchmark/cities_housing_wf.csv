@@ -1,0 +1,51 @@
+,rank,city,state
+0,1.0,New York,NY
+1,2.0,Los Angeles,CA
+2,3.0,Chicago,IL
+3,9.0,Dallas,TX
+4,5.0,Philadelphia,PA
+5,24.0,Washington,DC
+6,44.0,Miami,FL
+7,40.0,Atlanta,GA
+8,22.0,Boston,MA
+9,14.0,San Francisco,CA
+10,59.0,Riverside,CA
+11,6.0,Phoenix,AZ
+12,,Seattle,WA
+13,,Minneapolis-St Paul,MN
+14,8.0,San Diego,CA
+15,58.0,St. Louis,MO
+16,53.0,Tampa,FL
+17,26.0,Baltimore,MD
+18,23.0,Denver,CO
+19,61.0,Pittsburgh,PA
+20,28.0,Portland,OR
+21,17.0,Charlotte,NC
+22,35.0,Sacramento,CA
+23,77.0,Orlando,FL
+24,65.0,Cincinnati,OH
+25,48.0,Cleveland,OH
+26,37.0,Kansas City,MO
+27,,Las Vegas,NV
+28,15.0,Columbus,OH
+29,13.0,Indianapolis,IN
+30,10.0,San Jose,CA
+31,11.0,Austin,TX
+32,39.0,Virginia Beach,VA
+33,25.0,Nashville,TN
+34,,Providence,RI
+35,30.0,Milwaukee,WI
+36,12.0,Jacksonville,FL
+37,20.0,Memphis,TN
+38,29.0,Oklahoma,OK
+39,27.0,Louisville,KY
+40,,Hartford,CT
+41,,Richmond,VA
+42,,New Orleans,LA
+43,73.0,Buffalo,NY
+44,42.0,Raleigh,NC
+45,100.0,Birmingham,AL
+46,,Rochester,NY
+47,,Grand Rapids,MI
+48,33.0,Tucson,AZ
+49,46.0,Tulsa,OK

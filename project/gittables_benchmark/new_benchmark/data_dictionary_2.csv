@@ -1,0 +1,256 @@
+,name,description,type,format
+0,Name,Simplified unique name of the player,str,
+1,Current Cost,Current cost of the player,float,£{:.1f}m
+2,Current Cost x10,Current cost of the player times 10,float,£{:.1f}m
+3,Fixture Cost,Cost of the player at the time of the fixture.,float,£{:.1f}m
+4,Game Cost,Cost of the player at the time of the fixture.,float,£{:.1f}m
+5,Fixtures Ago,"How many fixtures ago from now a fixture was for each player. The last fixture is 1, the one before is 2, etc.",int,{:.0f}
+6,Field Position,"Position of the player. Either GK, DEF, MID, FWD.",str,
+7,Total Points,Total number of points this season,int,{:.0f} pts
+8,Selected?,Is the player in the user's team?,bool,{:}
+9,Captain?,Is the player selected to be the captain?,bool,{:}
+10,Vice Captain?,Is the player selected to be the vice captain?,bool,{:}
+11,Points Per Cost,Total number of points divided by the player cost. This is can be an indicator for whether the player is undervalued or overpriced.,float,{:.1f}
+12,Minutes Percent,Percent of total number of minutes played this season compared to maximum played by any player,float,{:.0f}%
+13,Minutes Played,Number of minutes the player has played this season,int,{:.0f} min
+14,Percent Selected,Percentage of participants who currently have the player in their team,float,{:.1f}%
+15,Fixture Percent Selected,Percentage of participants who select the player for this fixture,float,{:.1f}%
+16,News And Date,News about the players and the date when it was added,str,
+17,News,News about the players,str,
+18,News Date,Date when news of the player was last updated,datetime64,
+19,Player Team ID,ID of the team that the player is in that is unique across seasons,int,
+20,Player Team Code,ID of the team that the player is in,int,
+21,First Name,First name of the player,str,
+22,Last Name,Last name of the player,str,
+23,Player Code,ID of the player that is unique across seasons,int,{:.1f}
+24,Long Name,First and last name of the player,str,
+25,Name and Short Team,Name of the player and the short name of his team,str,
+26,Chance Avail This GW,Probability of the player will be available for playing the next game,float,{:.0f}%
+27,Chance Avail Next GW,Probability of the player will be available for playing the game after next,float,{:.0f}%
+28,Team ID,ID of the team for this season.,int,{:.1f}
+29,Team Code,ID of the team that is unique across seasons,int,{:.1f}
+30,Team Short Name,Short name of the team,str,
+31,Team Name,Name of the team,str,
+32,Team Strength,Rating of the team's strength on a scale from 2 to 5,int,{:.1f}
+33,Team Short Name Home,Team short name playing at home,str,
+34,Team Name Home,Team name playing at home,str,
+35,Team Short Name Away,Team short name playing at away,str,
+36,Team Name Away,Team name playing at away,str,
+37,Team Last Updated,The date/time when the data for this team was last loaded from the FPL API.,datetime64,
+38,Fixture Code,ID of the fixture that is unique across seasons,int,{:.1f}
+39,Fixture Strength Home,Strength of the home team for a specific fixture,int,{:.0f}
+40,Fixture Strength Away,Strength of the away team for a specific fixture,int,{:.0f}
+41,Rel. Fixture Strength,Strength of this team relative to the opponent team for a specific fixture,float,{:.2f}
+42,Rel. Fixture Strength Home,Strength of the home team relative to the away team for a specific fixture,float,{:.2f}
+43,Rel. Fixture Strength Away,Strength of the away team relative to the home team for a specific fixture,float,{:.2f}
+44,Rel. Fixture Strength Finished GWs,Average relative strengths of all completed fixtures (higher values indicate lower difficulty),float,{:.2f}
+45,Rel. Fixture Strength Next GW,Average relative strengths of the next fixture (higher values indicate lower difficulty),float,{:.2f}
+46,Rel. Fixture Strength Next 8 GWs,Average relative strengths of the next five fixtures (higher values indicate lower difficulty),float,{:.2f}
+47,Rel. Fixture Strength GWs To Half,Average relative strengths of all fixtures left up to half of the season or the end of the season if the second half has started (higher values indicate lower difficulty),float,{:.2f}
+48,Rel. Fixture Strength GWs To End,Average relative strengths of all fixtures left for the season (higher values indicate lower difficulty),float,{:.2f}
+49,Is Home?,Whether the team is playing at home or not,bool,{:}
+50,Opp Team ID,ID of the opposing team,int,{:.0f}
+51,Fixture Short Name,"Short names of teams, e.g. ARS-BUR",str,
+52,Fixture Short Name FDR,"Short names of teams with difficulty score, e.g. ARS-BUR (2)",str,
+53,Rel Fixture Strength,Relative strength of this fixture compared to previous ones. This generally a factor between 0.5 and 2. A factor below 1 indicates that this fixture is more difficult than the previous ones.,float,{:.1f}
+54,Next GW,Number of fixtures to the next game week for a specifc team. This is 1 except after the last game week. Note that there occasionally can be two fixtures in one game week.,int,
+55,Next 8 GWs,Number of fixtures to next five game weeks for a specific team. This is the minimum of 5 and the number of the game weeks left for the current season. Note that there occassionally can be two fixtures in one game week.,int,
+56,GWs To Half,Number of fixtures to the end of the current half of the season for a specific team. Note that there occasionally can be two fixtures in one game week.,int,
+57,GWs To End,Number of fixtures to the end of the season for a specific team. Note that there occasionally can be two fixtures in one game week.,int,
+58,Total Points Consistency,Consistency of the total point for the player up to the current GW. It is calculated as the average of the points relative to the maximum points and expressed as a percentage so that complete consistency results in 100%.,int,{:.0f}%
+59,Current Points Consistency,Consistency of the total point for the player up to the current GW. It is calculated as the average of the points relative to the maximum points and expressed as a percentage so that complete consistency results in 100%.,int,{:.0f}%
+60,Total Points Recent Fixtures,Total number of points that this player earned during the look back period.,int,{:.0f}pts
+61,ICT Index Recent Fixtures,"Sum of all influence, creativity and thread index scores that this player earned during the look back period.",float,{:.1f}
+62,Influence Recent Fixtures,Sum of all influence points that this player earned during the look back period.,float,{:.1f}
+63,Creativity Recent Fixtures,Sum of all creativity points that this player earned during the look back period.,float,{:.1f}
+64,Threat Recent Fixtures,Sum of all thread points that this player earned during the look back period.,float,{:.1f}
+65,Avg ICT Index Recent Fixtures,"Average of all influence, creativity and thread index scores that this player earned during the look back period.",float,{:.1f}
+66,Avg Influence Recent Fixtures,Average of all influence points that this player earned during the look back period.,float,{:.1f}
+67,Avg Creativity Recent Fixtures,Average of all creativity points that this player earned during the look back period.,float,{:.1f}
+68,Avg Threat Recent Fixtures,Average of all thread points that this player earned during the look back period.,float,{:.1f}
+69,Avg Total Points Recent Fixtures,Total number of points that this player earned during the look back period.,int,{:.0f}pts
+70,Fixtures Played Recent Fixtures,Number of fixtures that this player played during the look back period.. A fixture counts as played if the player played for at least one minute.,int,{:.0f}
+71,Stats Completeness,Fraction of available fixture information over the player fixture look back window.,str,
+72,Stats Completeness Percent,Percentage of available fixture information over the player fixture look back window.,float,{:.0f}%
+73,Selling Price,Money received when selling player,float,£{:.1f}m
+74,Purchase Price,Money spent when buying player,float,£{:.1f}m
+75,Transfers In This GW,Total number of participants buying the player for the upcoming game week. This is the transfer number displayed on the home page in the transfers section.,int,{:.0f}
+76,Total Transfers In,Number of manager that transferred the player in since the beginning of the season.,int,{:.0f}
+77,Transfers Out This GW,Total number of participants selling the player for the upcoming game week. This is the transfer number displayed on the home page in the transfers section.,int,{:.0f}
+78,Total Transfers Out,Number of manager that transferred the player out since the beginning of the season.,int,{:.0f}
+79,Corners & Ind. Free Kicks Order,Rank of the player within his team for taking corner and indirect free kicks.,int,{:.0f}
+80,Direct Free Kicks Order,Rank of the player within his team for taking direct free kicks.,int,{:.0f}
+81,Penalties Order,Rank of the player within his team for taking penalties.,int,{:.0f}
+82,Dream Team Count,Number of time the player has been in the dream team this season.,int,{:.0f}
+83,In Dream Team,Is the player currently in the Dream Team?,bool,{:}
+84,Form,Average points the player received for each fixture played in the last 30 days.,float,{:.1f}
+85,Profile Picture,Name of the player profile picture.,str,
+86,Goals Scored,Number of goals scored by the player since the beginning of the season.,int,{:.0f}
+87,Assists,Number of assists to goals by the player since the beginning of the season.,int,{:.0f}
+88,Clean Sheets,"Number of clean sheets that the player was awarded since the beginning of the season. Note that if a player does not play during a fixture with a clean sheet, the clean sheet count for this player will not increase.",int,{:.0f}
+89,Goals Conceded,Number of goals conceded while the player was playing since the beginning of the season.,int,{:.0f}
+90,Own Goals,Number of own goals scored by the player since the beginning of the season.,int,{:.0f}
+91,Penalties Saved,Number of penalties saved by the player since the beginning of the season.,int,{:.0f}
+92,Penalties Missed,Number of penalties missed by the player since the beginning of the season.,int,{:.0f}
+93,Yellow Cards,Number of yellow cards received by the player since the beginning of the season.,int,{:.0f}
+94,Red Cards,Number of red cards received by the player since the beginning of the season.,int,{:.0f}
+95,Saves,Number of saves the player has made since the beginning of the season.,int,{:.0f}
+96,Bonus Points,Number of bonus points the player has earned since the beginning of the season.,int,{:.0f}
+97,BPS Score,Score of the player since the beginning of the season according to the Bonus Point System (see https://www.premierleague.com/news/106533).,int,{:.0f}
+98,ICT Index,"ICT Index as calculated by FPL based on the Influence, Creativity and Threat.",float,{:.1f}
+99,ICT Index Rank,ICT Index of the player compared to others as calculated by FPL. The lower the rank the better.,int,{:.0f}
+100,Influence,Degree to which the player has made an impact throughout the season as calculated by FPL. It takes into account events and actions that could directly or indirectly effect the outcome of the fixture. At the top level these are decisive actions like goals and assists. But the Influence score also processes significant defensive actions to analyse the effectiveness of defenders and goalkeepers.,float,{:.1f}
+101,Influence Rank,Influence of the player compared to others as calculated by FPL. The lower the rank the better.,int,{:.0f}
+102,Creativity,"Performance of the player in terms of producing goalscoring opportunities for others as calculated by FPL. It can be used as a guide to identify the players most likely to supply assists. While this analyses frequency of passing and crossing, it also considers pitch location and quality of the final ball.",float,{:.1f}
+103,Creativity Rank,Creativity of the player compared to others as calculated by FPL. The lower the rank the better.,int,{:.0f}
+104,Threat,"Threat of the player on goal as calculated by FPL. It gauges individuals most likely to score goals. While attempts are the key action, the Index looks at pitch location, giving greater weight to actions that are regarded as the best chances to score.",float,{:.1f}
+105,Threat Rank,Threat of the player compared to others as calculated by FPL. The lower the rank the better.,int,{:.0f}
+106,Team FDR,Difficulty score of the team (1: Easy to 5: Difficult),int,{:.0f}
+107,Started,Whether the game has started,bool,
+108,Finished,Whether the game has finished,bool,
+109,Field Position Code,ID of the position that the player plays in,int,
+110,Fixture ID,ID of the fixture.,int,
+111,Player ID,ID of the player.,int,{:.1f}
+112,Fixture Total Points,Total points that the player was awarded for the fixture.,int,{:.0f}pts
+113,Fixture Minutes Played,Number of minutes the player played at the fixture.,int,
+114,Fixture Cost x10,The cost of the player at the end of the season in millions times 10.,float,{:.0f}
+115,Fixture Goals Scored,Number of goals scored by the player during the match.,int,{:.0f}
+116,Fixture Assists,Number of assists to goals by the player during the match.,int,{:.0f}
+117,Fixture Clean Sheets,"Number of clean sheets that the player was awarded during the match. Note that if a player does not play during a fixture with a clean sheet, the clean sheet count for this player will not increase.",int,{:.0f}
+118,Fixture Goals Conceded,Number of goals conceded while the player was playing during the match.,int,{:.0f}
+119,Fixture Own Goals,Number of own goals scored by the player during the match.,int,{:.0f}
+120,Fixture Penalties Saved,Number of penalties saved by the player during the match.,int,{:.0f}
+121,Fixture Penalties Missed,Number of penalties missed by the player during the match.,int,{:.0f}
+122,Fixture Yellow Cards,Number of yellow cards received by the player during the match.,int,{:.0f}
+123,Fixture Red Cards,Number of red cards received by the player during the match.,int,{:.0f}
+124,Fixture Saves,Number of saves the player has made during the match.,int,{:.0f}
+125,Fixture Bonus Points,Number of bonus points the player has earned during the match.,int,{:.0f}
+126,Fixture BPS Score,Score of the player for the match according to the Bonus Point System (see https://www.premierleague.com/news/106533).,int,{:.0f}
+127,Fixture ICT Index,"ICT Index for the match as calculated by FPL based on the Influence, Creativity and Threat.",float,{:.1f}
+128,Fixture Influence,Degree to which the player has made an impact during the match as calculated by FPL. It takes into account events and actions that could directly or indirectly effect the outcome of the fixture. At the top level these are decisive actions like goals and assists. But the Influence score also processes significant defensive actions to analyse the effectiveness of defenders and goalkeepers.,float,{:.1f}
+129,Fixture Creativity,"Performance of the player in terms of producing goalscoring opportunities for others during the match as calculated by FPL. It can be used as a guide to identify the players most likely to supply assists. While this analyses frequency of passing and crossing, it also considers pitch location and quality of the final ball.",float,{:.1f}
+130,Fixture Threat,"Threat of the player on goal during the match as calculated by FPL. It gauges individuals most likely to score goals. While attempts are the key action, the Index looks at pitch location, giving greater weight to actions that are regarded as the best chances to score.",float,{:.1f}
+131,Fixture Transfers In,Total number of participants who bought the player before the match.,int,{:.0f}
+132,Fixture Transfers Out,Total number of participants who sold the player before the match.,int,{:.0f}
+133,Away Team ID,ID of the away team for the fixture,int,{:.0f} min
+134,Home Team ID,ID of the home team for the fixture,int,
+135,Away Team Score,Goals scored by the away team,int,
+136,Home Team Score,Goals scored by the home team,int,
+137,Away Team FDR,Difficulty score of the away team (1: Easy to 5: Difficult),int,
+138,Home Team FDR,Difficulty score of the home team (1: Easy to 5: Difficult),int,
+139,Game Week,Game week of the fixture (1 to 38),int,{:.0f}
+140,Current Game Week,Current game week for the team.,int,{:.0f}
+141,Kick Off Time,Kick off date and time of the fixture.,datetime64,
+142,Team Position,"Position in the team selection, e.g. 0 is the goal keeper.",int,{:.0f}
+143,Point Factor,"Multiplier for calculating the expected points at the team level. This value is 0 for players that are not selected, 2 for the captain and 1 for the rest.",int,
+144,Player Last Updated,Date/time when the data for this player was last loaded from the FPL API.,datetime64,
+145,Fixtures Next GW,"Next fixture of the team, including strength of opposing team.",str,
+146,Fixtures Next 8 GWs,"Next 8 fixtures of the team, including strengths of opposing teams.",str,
+147,Fixture Last Updated,Date/time when the data for this fixture was last loaded from the FPL API.,datetime64,
+148,Expected Points GW 1,Points that the player is expected to earn in game week 1.,float,{:.0f}pts
+149,Expected Points GW 2,Points that the player is expected to earn in game week 2.,float,{:.0f}pts
+150,Expected Points GW 3,Points that the player is expected to earn in game week 3.,float,{:.0f}pts
+151,Expected Points GW 4,Points that the player is expected to earn in game week 4.,float,{:.0f}pts
+152,Expected Points GW 5,Points that the player is expected to earn in game week 5.,float,{:.0f}pts
+153,Expected Points GW 6,Points that the player is expected to earn in game week 6.,float,{:.0f}pts
+154,Expected Points GW 7,Points that the player is expected to earn in game week 7.,float,{:.0f}pts
+155,Expected Points GW 8,Points that the player is expected to earn in game week 8.,float,{:.0f}pts
+156,Expected Points GW 9,Points that the player is expected to earn in game week 9.,float,{:.0f}pts
+157,Expected Points GW 10,Points that the player is expected to earn in game week 10.,float,{:.0f}pts
+158,Expected Points GW 11,Points that the player is expected to earn in game week 11.,float,{:.0f}pts
+159,Expected Points GW 12,Points that the player is expected to earn in game week 12.,float,{:.0f}pts
+160,Expected Points GW 13,Points that the player is expected to earn in game week 13.,float,{:.0f}pts
+161,Expected Points GW 14,Points that the player is expected to earn in game week 14.,float,{:.0f}pts
+162,Expected Points GW 15,Points that the player is expected to earn in game week 15.,float,{:.0f}pts
+163,Expected Points GW 16,Points that the player is expected to earn in game week 16.,float,{:.0f}pts
+164,Expected Points GW 17,Points that the player is expected to earn in game week 17.,float,{:.0f}pts
+165,Expected Points GW 18,Points that the player is expected to earn in game week 18.,float,{:.0f}pts
+166,Expected Points GW 19,Points that the player is expected to earn in game week 19.,float,{:.0f}pts
+167,Expected Points GW 20,Points that the player is expected to earn in game week 20.,float,{:.0f}pts
+168,Expected Points GW 21,Points that the player is expected to earn in game week 21.,float,{:.0f}pts
+169,Expected Points GW 22,Points that the player is expected to earn in game week 22.,float,{:.0f}pts
+170,Expected Points GW 23,Points that the player is expected to earn in game week 23.,float,{:.0f}pts
+171,Expected Points GW 24,Points that the player is expected to earn in game week 24.,float,{:.0f}pts
+172,Expected Points GW 25,Points that the player is expected to earn in game week 25.,float,{:.0f}pts
+173,Expected Points GW 26,Points that the player is expected to earn in game week 26.,float,{:.0f}pts
+174,Expected Points GW 27,Points that the player is expected to earn in game week 27.,float,{:.0f}pts
+175,Expected Points GW 28,Points that the player is expected to earn in game week 28.,float,{:.0f}pts
+176,Expected Points GW 29,Points that the player is expected to earn in game week 29.,float,{:.0f}pts
+177,Expected Points GW 30,Points that the player is expected to earn in game week 30.,float,{:.0f}pts
+178,Expected Points GW 31,Points that the player is expected to earn in game week 31.,float,{:.0f}pts
+179,Expected Points GW 32,Points that the player is expected to earn in game week 32.,float,{:.0f}pts
+180,Expected Points GW 33,Points that the player is expected to earn in game week 33.,float,{:.0f}pts
+181,Expected Points GW 34,Points that the player is expected to earn in game week 34.,float,{:.0f}pts
+182,Expected Points GW 35,Points that the player is expected to earn in game week 35.,float,{:.0f}pts
+183,Expected Points GW 36,Points that the player is expected to earn in game week 36.,float,{:.0f}pts
+184,Expected Points GW 37,Points that the player is expected to earn in game week 37.,float,{:.0f}pts
+185,Expected Points GW 38,Points that the player is expected to earn in game week 38.,float,{:.0f}pts
+186,Expected Points Next GW,Points that the player is expected to earn in the upcoming game week.,float,{:.0f}pts
+187,Expected Points Next 2 GWs,Points that the player is expected to earn over the next 2 game weeks,float,{:.0f}pts
+188,Expected Points Next 3 GWs,Points that the player is expected to earn over the next 3 game weeks,float,{:.0f}pts
+189,Expected Points Next 4 GWs,Points that the player is expected to earn over the next 4 game weeks,float,{:.0f}pts
+190,Expected Points Next 5 GWs,Points that the player is expected to earn over the next 5 game weeks,float,{:.0f}pts
+191,Expected Points Next 6 GWs,Points that the player is expected to earn over the next 6 game weeks,float,{:.0f}pts
+192,Expected Points Next 7 GWs,Points that the player is expected to earn over the next 7 game weeks,float,{:.0f}pts
+193,Expected Points Next 8 GWs,Points that the player is expected to earn over the next 8 game weeks,float,{:.0f}pts
+194,Expected Points Next 9 GWs,Points that the player is expected to earn over the next 9 game weeks,float,{:.0f}pts
+195,Expected Points Next 10 GWs,Points that the player is expected to earn over the next 10 game weeks,float,{:.0f}pts
+196,Expected Points Next 11 GWs,Points that the player is expected to earn over the next 11 game weeks,float,{:.0f}pts
+197,Expected Points Next 12 GWs,Points that the player is expected to earn over the next 12 game weeks,float,{:.0f}pts
+198,Expected Points Next 13 GWs,Points that the player is expected to earn over the next 13 game weeks,float,{:.0f}pts
+199,Expected Points Next 14 GWs,Points that the player is expected to earn over the next 14 game weeks,float,{:.0f}pts
+200,Expected Points Next 15 GWs,Points that the player is expected to earn over the next 15 game weeks,float,{:.0f}pts
+201,Expected Points Next 16 GWs,Points that the player is expected to earn over the next 16 game weeks,float,{:.0f}pts
+202,Expected Points Next 17 GWs,Points that the player is expected to earn over the next 17 game weeks,float,{:.0f}pts
+203,Expected Points Next 18 GWs,Points that the player is expected to earn over the next 18 game weeks,float,{:.0f}pts
+204,Expected Points Next 19 GWs,Points that the player is expected to earn over the next 19 game weeks,float,{:.0f}pts
+205,Expected Points Next 20 GWs,Points that the player is expected to earn over the next 20 game weeks,float,{:.0f}pts
+206,Expected Points Next 21 GWs,Points that the player is expected to earn over the next 21 game weeks,float,{:.0f}pts
+207,Expected Points Next 22 GWs,Points that the player is expected to earn over the next 22 game weeks,float,{:.0f}pts
+208,Expected Points Next 23 GWs,Points that the player is expected to earn over the next 23 game weeks,float,{:.0f}pts
+209,Expected Points Next 24 GWs,Points that the player is expected to earn over the next 24 game weeks,float,{:.0f}pts
+210,Expected Points Next 25 GWs,Points that the player is expected to earn over the next 25 game weeks,float,{:.0f}pts
+211,Expected Points Next 26 GWs,Points that the player is expected to earn over the next 26 game weeks,float,{:.0f}pts
+212,Expected Points Next 27 GWs,Points that the player is expected to earn over the next 27 game weeks,float,{:.0f}pts
+213,Expected Points Next 28 GWs,Points that the player is expected to earn over the next 28 game weeks,float,{:.0f}pts
+214,Expected Points Next 29 GWs,Points that the player is expected to earn over the next 29 game weeks,float,{:.0f}pts
+215,Expected Points Next 30 GWs,Points that the player is expected to earn over the next 30 game weeks,float,{:.0f}pts
+216,Expected Points Next 31 GWs,Points that the player is expected to earn over the next 31 game weeks,float,{:.0f}pts
+217,Expected Points Next 32 GWs,Points that the player is expected to earn over the next 32 game weeks,float,{:.0f}pts
+218,Expected Points Next 33 GWs,Points that the player is expected to earn over the next 33 game weeks,float,{:.0f}pts
+219,Expected Points Next 34 GWs,Points that the player is expected to earn over the next 34 game weeks,float,{:.0f}pts
+220,Expected Points Next 35 GWs,Points that the player is expected to earn over the next 35 game weeks,float,{:.0f}pts
+221,Expected Points Next 36 GWs,Points that the player is expected to earn over the next 36 game weeks,float,{:.0f}pts
+222,Expected Points Next 37 GWs,Points that the player is expected to earn over the next 37 game weeks,float,{:.0f}pts
+223,Expected Points Next 38 GWs,Points that the player is expected to earn over the next 38 game weeks,float,{:.0f}pts
+224,Expected Points GWs To Half,Points that the player is expected to earn over remaining game weeks of the current half season.,float,{:.0f}pts
+225,Expected Points GWs To End,Points that the player is expected to earn over remaining game weeks of the current season.,float,{:.0f}pts
+226,Season Total Points,Points that the player earned over the whole season.,int,{:.0f}pts
+227,Season Minutes,Minutes played over the whole season.,int,{:.0f} min
+228,Season ICT Index,ICT Index at the end of the season as calculated by Fantasy Premier Leauge.,float,{:.1f}
+229,Last Season Total Points,Points that the player earned during the previous season.,int,{:.0f}pts
+230,Expected Points,Points that the player is expected to earn for the game week.,int,{:.0f}pts
+231,Expected Goals For,Goals that the team of the player is expected to score for the game week.,int,{:.0f}
+232,Expected Goals Against,Goals that the team of the player is expected to conceded for the game week.,int,{:.0f}
+233,GW ID,Game week ID. These range from 1 to 38.,int,{:.0f}
+234,GW Name,"Name of the game week, e.g. Gameweek 1.",str,
+235,Is GW Finished?,Whether the game week has finished.,bool,{:}
+236,Is Prev GW?,Whether this game week is the game week that has been just completed.,bool,{:}
+237,Is Curr GW?,Whether this game week is the current game week.,bool,{:}
+238,Is Next GW?,Whether this game week is the next game week.,bool,{:}
+239,GW Deadline,Deadline for this game week. Changes can be made up to that point but not after.,datetime64,
+240,Average GW Score,Average score for the game week.,int,{:.0f}
+241,GW Data Checked,Whether the data has been checked for the game week.,int,{:.0f}
+242,Highest GW Score,Highest score for the game week.,int,{:.0f}
+243,GW Chips Played,JSON with info of how many chips were played by type for the game week.,str,
+244,GW Most Selected Player ID,ID of the player that most managers included in their team for the game week.,int,{:.0f}
+245,GW Most Transferred In Player ID,ID of the player that most managers transferred into their team for the game week.,int,{:.0f}
+246,GW Transfers,Total number of transfers for the game week.,int,{:.0f}
+247,GW Most Captained Player ID,ID of the player that most managers captained for the game week.,int,{:.0f}
+248,GW Most Vice Captained Player ID,ID of the player that most managers vice captained for the game week.,int,{:.0f}
+249,GW Last Updated,Date/time when the data for this game week was last loaded from the FPL API.,datetime64,
+250,Rel Att Fixture Strength Home,Relative attacking strength of the team for the fixture for scaling the expected points of mid fielders and forwards both when playing at home,float,{:.1f}
+251,Rel Att Fixture Strength Away,Relative attacking strength of the team for the fixture for scaling the expected points of mid fielders and forwards both when playing away,float,{:.1f}
+252,Rel Def Fixture Strength Home,Relative defensive strength of the team for the fixture for scaling the expected points of mid fielders and forwards both when playing at home,float,{:.1f}
+253,Rel Def Fixture Strength Away,Relative defensive strength of the team for the fixture for scaling the expected points of mid fielders and forwards both when playing away,float,{:.1f}
+254,Rel Strength,Relative strength for this fixture compared to the average strength so far,float,{:.1f}

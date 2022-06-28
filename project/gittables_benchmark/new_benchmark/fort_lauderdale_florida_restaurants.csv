@@ -1,0 +1,326 @@
+,name,address,type
+0,Kaluz Restaurant,3300 E Commercial Blvd,Restaurant
+1,Coconuts,429 Seabreeze Blvd,Seafood
+2,The Foxy Brown,723 E Broward Blvd,American
+3,Chima Steakhouse,2400 E Las Olas Blvd,Steak
+4,Premiere Cafe & Bar,3110 Belmar St,Argentinian
+5,Gilbert's 17th Street Grill,1821 Cordova Rd,American
+6,Greek Islands Taverna,3300 N Ocean Blvd,Greek
+7,Kelly's Landing New England Seafood,1305 SE 17th St,Seafood
+8,La Dolce Vita,3331 NE 33rd St,Italian
+9,Cafe Seville,2768 E Oakland Park Blvd,Spanish
+10,Canyon Restaurant,1818 E Sunrise Blvd,Southwestern American
+11,Hardy Park Bistro,21 SW 7th St,New American
+12,Rendezvous,2525 Marina Bay Dr W,Seafood
+13,Caffe Europa,910 E Las Olas Blvd,Italian
+14,Mini Pita Mediterranean Cafe,1019 W State Rd 84,Mediterranean
+15,Wild Sea Oyster Bar & Grille,620 E Las Olas Blvd,Oyster Bar
+16,Lona Cocina Tequileria,321 N Fort Lauderdale Beach Blvd #4204,Mexican
+17,Fresh First,1637 SE 17th St,Gluten Free
+18,Green Bar & Kitchen,1075 SE 17th St,Vegan
+19,Doc B's Restaurant + Bar (Fort Lauderdale),452 N Federal Hwy,American
+20,The Hummus House,900 NE 20th Ave,Vegetarian
+21,Jeanluc caribbean cuisine,1519 NE 4th Ave,Caribbean
+22,OCEAN2000,2000 N Ocean Blvd,Seafood
+23,Louie Bossi's Ristorante Bar Pizzeria,1032 E Las Olas Blvd,Italian
+24,Primanti Brothers,901 N Fort Lauderdale Beach Blvd,American
+25,Casablanca Cafe,3049 Alhambra St,Restaurant
+26,Luigi's Coal Oven Pizza,1415 E Las Olas Blvd,Pizza
+27,Boatyard,1555 SE 17th St,Seafood
+28,Casa D'Angelo Ristorante,1201 N Federal Hwy #5a,Italian
+29,Burlock Coast,1 N Fort Lauderdale Beach Blvd,Seafood
+30,Top Hat Deli,415 NE 3rd St,Restaurant
+31,Shooters Waterfront,3033 NE 32nd Ave,American
+32,15th Street Fisheries,1900 SE 15th St,Seafood
+33,El Camino Fort Lauderdale,817 E Las Olas Blvd,Mexican
+34,925 Nuevo's Cubano's,925 N Andrews Ave,Cuban
+35,The Capital Grille - Curbside Takeout & Delivery,2430 E Sunrise Blvd,Fine Dining
+36,3030 Ocean Restaurant & Bar,3030 Holiday Dr,Restaurant
+37,Bistro Mezzaluna,1821 SE 10th Ave,Italian
+38,Southport Raw Bar & Restaurant,1536 Cordova Rd,Seafood
+39,S3-Sun Surf Sand,"the Hilton, 505 N Fort Lauderdale Beach Blvd",New American
+40,El Vez Fort Lauderdale,401 N Fort Lauderdale Beach Blvd,Mexican
+41,Shuck N Dive,650 N Federal Hwy,Cajun
+42,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+43,The Hummus House,900 NE 20th Ave,Vegetarian
+44,Old Heidelberg Restaurant,"900 Marina Mile Blvd West State Road 84, SW 24th St",Brasserie
+45,Casa Calabria,"Inside Ocean Manor Beach Resort, 4040 Galt Ocean Dr L15",Southern Italian
+46,Dolce Salato Pizza & Gelato Fort Lauderdale,2406 Wilton Dr,Pizza
+47,The Riverside Market Cafe,608 SW 12th Ave,Cafe
+48,Mojo Fort Lauderdale,4140 N Federal Hwy,Italian
+49,Rocco's Tacos & Tequila Bar,1313 E Las Olas Blvd,Mexican
+50,Casa Sensei,1200 E Las Olas Blvd STE 101,Asian
+51,Steak 954,401 N Fort Lauderdale Beach Blvd,Steak
+52,Royal Pig Pub & Kitchen,350 E Las Olas Blvd,American
+53,Quarterdeck Restaurants,2933 E Las Olas Blvd,Seafood
+54,Cafe Vico Restaurant,1125 N Federal Hwy,Italian
+55,Sette Bello Ristorante,6241 N Federal Hwy,Italian
+56,Sapido | Restaurant & Café,111 SE 8th Ave,Italian
+57,Pelican Landing,"Pier Sixty-Six Marina, 2301 SE 17th St",Grill
+58,Truluck's,2584A E Sunrise Blvd,Seafood
+59,Serafina | Italian Restaurant,926 NE 20th Ave,Italian
+60,Timpano Italian Chophouse,450 E Las Olas Blvd,Restaurant
+61,Valentino Cucina Italiana,620 Federal Hwy,Italian
+62,Scolapasta Bistro,3358 NE 33rd St,Organic
+63,Smoke BBQ Restaurant & Catering,3351 NE 32nd St,Barbecue
+64,bella monte italian deli,2688 E Atlantic Blvd,Deli
+65,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+66,Dune Fort Lauderdale,2200 N Ocean Blvd,Restaurant
+67,Seasons 52 - Takeout & Delivery Available,2428 E Sunrise Blvd,New American
+68,Zuckerello's,3017 E Commercial Blvd,Italian
+69,Rustic Inn Crabhouse,4331 Anglers Ave,Restaurant
+70,Big City Tavern,609 E Las Olas Blvd,American
+71,Pirate Republic Seafood Restaurant,400 SW 3rd Ave,Seafood
+72,Mai-Kai Restaurant and Polynesian Show,3599 N Federal Hwy,Polynesian restaurant
+73,The Chimney House - Grill & Cafe,701 W Las Olas Blvd,Latin American
+74,Spazio,239 S Fort Lauderdale Beach Blvd,Italian
+75,Nick's Italian Restaurant,3496 N Ocean Blvd,Italian
+76,Asia Bay,1111 E Las Olas Blvd,Asian
+77,Lester's Diner,250 FL-84,Diner
+78,Sea Level Restaurant - Ocean Bar,3030 Holiday Dr,Seafood
+79,G&B Oyster Bar,429 Seabreeze Blvd,Seafood
+80,El Tamarindo Cafe,233 FL-84,Nuevo Latino restaurant
+81,Lobster Bar Sea Grille,450 E Las Olas Blvd Suite 190,Seafood
+82,Floridian Restaurant,1410 E Las Olas Blvd,American
+83,Laspada's Original Hoagies - 17th Street,1495 SE 17th St D,Sandwich
+84,Cubano's by Mario,1611 N Federal Hwy,Cuban
+85,The Grill,"2401 W Cypress Creek Rd, Bldg 1",Restaurant
+86,bella monte italian deli,2688 E Atlantic Blvd,Deli
+87,Grand Cafe,12389 Pembroke Rd,Restaurant
+88,Morton's The Steakhouse,500 E Broward Blvd Suite 127,Restaurant
+89,Ambry Restaurant,3016 E Commercial Blvd,American
+90,Sky Thai Sushi,350 E Las Olas Blvd,Thai
+91,Regina's Farm ( Fazendinha da Regina),1101 Middle St,Brazilian
+92,Argentino Las Olas,813 E Las Olas Blvd,Argentinian
+93,Cafe Italia Authentic Italian Restaurant Fort Lauderdale - Since 1993,3471 N Federal Hwy,Italian
+94,YOLO (You Only Live Once),333 E Las Olas Blvd,New American
+95,Oria Osteria & Terrazza,3333 NE 32nd Ave,Restaurant
+96,La Bamba Mexican and Spanish Restaurants,1901 Cordova Rd,Mexican
+97,One Door East,620 S Federal Hwy,American
+98,IL Mulino,1800 E Sunrise Blvd,Italian
+99,Texas de Brazil,2457 E Sunrise Blvd,Steak
+100,The Bake Bar Ristorante,3354 N Ocean Blvd,Italian
+101,Jet Runway Cafe,5540 NW 21st Terrace,American
+102,Ferdos Grill,4300 N Federal Hwy,Middle Eastern
+103,Del Frisco's Grille,501 E Las Olas Blvd Ste 150,Steak
+104,The DownTowner,10 S New River Dr E,Restaurant
+105,Noodles Panini,821 E Las Olas Blvd,Italian
+106,Bo's Pub,1309 E Las Olas Blvd,Restaurant
+107,Tropical Acres Steakhouse,2500 Griffin Rd,Steak
+108,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+109,The Hummus House,900 NE 20th Ave,Vegetarian
+110,Kitchenetta,2850 N Federal Hwy,Italian
+111,Cafe Martorano,3343 E Oakland Park Blvd,Italian
+112,Myapapaya juicery + kitchen,1040 Bayview Dr #100,Health Food
+113,Rainbow Palace,2787 E Oakland Park Blvd #214,Chinese
+114,Catfish Deweys,4003 N Andrews Ave,Seafood
+115,Suan Thai and Japanese Restaurant,290 N Federal Hwy,Thai
+116,American Social,721 E Las Olas Blvd,Sports bar
+117,Coastal,601 N Fort Lauderdale Beach Blvd,Italian
+118,La Bonne Crepe,815 E Las Olas Blvd,French
+119,Oceans Grille,3720 N Ocean Blvd,Seafood
+120,Thasos,3330 E Oakland Park Blvd,Greek
+121,Luigis Tuscan Grill,1105 E Las Olas Blvd,Italian
+122,Las Vegas Cuban Cuisine,2807 E Oakland Park Blvd,Cuban
+123,La Bamba Mexican & Spanish Restaurant,4245 N Federal Hwy,Mexican
+124,Inkanto Peruvian Cuisine,1672 E Oakland Park Blvd,Peruvian
+125,"Taco Bar, Mexican restaurant",2306 E Oakland Park Blvd,Mexican
+126,LongHorn Steakhouse - Curbside To Go Available,6225 N Andrews Ave,Steak
+127,Ruth's Chris Steak House,2525 N Federal Hwy,Steak
+128,Steelpan Kitchen & Bar,999 N Fort Lauderdale Beach Blvd,Restaurant
+129,Sandbar Grille,2030 N Atlantic Blvd,Grill
+130,bella monte italian deli,2688 E Atlantic Blvd,Deli
+131,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+132,The Cheesecake Factory,600 E Las Olas Blvd,Restaurant
+133,B Square Burgers,1021 E Las Olas Blvd,American
+134,Bistro 17 Restaurant,1617 SE 17th St,American
+135,Illios,505 N Fort Lauderdale Beach Blvd,American
+136,Boccaccino Cafe and Pizzeria,401 S Fort Lauderdale Beach Blvd,Italian
+137,Quvo Tacos & Craft Beer,4354 N Federal Hwy,Mexican
+138,Blue Moon Fish Co.,4405 W Tradewinds Ave,Seafood
+139,Temple Street Eatery,416 N Federal Hwy,Restaurant
+140,O-B House - Fort Lauderdale,333 Himmarshee St,Breakfast
+141,Bar Rita,1401 S Andrews Ave,Mexican
+142,Sage French Cafe,2378 N Federal Hwy,French
+143,KOUSINE Peruvian Kitchen,841 N Fort Lauderdale Beach Blvd,Peruvian
+144,Tropical Cafe Restaurant,915 N Federal Hwy,Cuban
+145,Tsukuro,225 S Fort Lauderdale Beach Blvd,Sushi
+146,BlueFire Grille,6650 N Andrews Ave,American
+147,ETARU Las Olas,500 E Las Olas Blvd,Restaurant
+148,Don Arturo Bar & Restaurant,1198 SW 27th Ave,Cuban
+149,SuViche – Sushi and Ceviche,401 E Las Olas Blvd Suite 150,Sushi
+150,Cabo Blanco Restaurant,948 NE 62nd St,Peruvian
+151,Betty's Soul Food Restaurant,601 NW 22nd Rd,Soul
+152,bella monte italian deli,2688 E Atlantic Blvd,Deli
+153,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+154,Gran Forno Pronto,704 E Las Olas Blvd,Italian
+155,Jackson's Prime,3300 NE 32nd St,Steak
+156,Sushi Rock Cafe,1515 E Las Olas Blvd,Sushi
+157,Las Orquideas Restaurant Fort Lauderdale,5640 N Federal Hwy,Colombian
+158,Cafe' Primavera,2500 E Commercial Blvd A,Northern Italian
+159,Osteria Acqua E Farina,1145 Federal Hwy,Pizza
+160,GG's of New York,5440 FL-7,Pizza
+161,Boathouse At The Riverside,620 E Las Olas Blvd,Restaurant
+162,Beehive Kitchen,200 E Las Olas Blvd #110,Health Food
+163,Indian Harbor,1830 Cordova Rd,Indian
+164,Good Spirit's Fifth & Fed,476 N Federal Hwy,Restaurant
+165,Sushi-One,23 N Federal Hwy,Takeout Restaurant
+166,Le Patio - The tiniest cutest Restaurant in South Florida,2401 NE 11th Ave,European
+167,The Hummus House,900 NE 20th Ave,Vegetarian
+168,The Old River House Trading Post and Fish Docks,301 SW 3rd Ave,New American
+169,Talento Restaurant,1307 E Las Olas Blvd,Italian
+170,Cypress Nook German Restaurant,201 E McNab Rd,German
+171,Himmarshee Public House,201 SW 2nd St,Restaurant
+172,17th Street Thai Sushi,1515 SE 17th St #100,Sushi
+173,Falafel Time,1306 E Las Olas Blvd,Israeli
+174,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+175,The Hummus House,900 NE 20th Ave,Vegetarian
+176,Tarpon River Brewing,280 SW 6th St,Brewery
+177,Red Door Asian Bistro & Hibachi,625 E Las Olas Blvd,Asian Fusion
+178,ethos Greek Bistro,2055 Wilton Dr,Greek
+179,Andy's Live Fire Grill & Bar,1843 Federal Hwy,Restaurant
+180,Casareccio Italian Trattoria TAPAS VINO 1386,"1386 South, Federal Hwy",Sicilian restaurant
+181,The Poke House,666 N Federal Hwy,Japanese
+182,Riva,3030 Holiday Dr,American
+183,Colada Cuban Cafe,525 N Federal Hwy,Restaurant
+184,Olive Garden Italian Restaurant,5550 N Federal Hwy,Italian
+185,Outback Steakhouse,1801 SE 10th Ave,Steak
+186,Tokyo & Filipino Cuisine Buffet,1015 SE 17th St,Filipino
+187,Posh,"3530, 110 N Federal Hwy #101",Sushi
+188,Manhattan NY - Restaurant & Pizza,1923 Cordova Rd,Italian
+189,Laspada's Original Hoagies - Lauderdale-By-The-Sea,233 Commercial Blvd,Italian
+190,Li'l Red's Bar-B-Que,1705 W State Rd 84,Barbecue
+191,Jalisco Restaurant,700 N Federal Hwy,Mexican
+192,The Whole Enchilada,745 N Federal Hwy,Mexican
+193,TRP Taste,"1, W Las Olas Blvd suite 100",Restaurant
+194,P.F. Chang's,2418 E Sunrise Blvd,Chinese
+195,Sweet Nectar,1017 E Las Olas Blvd #2321,American
+196,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+197,The Hummus House,900 NE 20th Ave,Vegetarian
+198,Tarpon River Brewing,280 SW 6th St,Brewery
+199,Red Door Asian Bistro & Hibachi,625 E Las Olas Blvd,Asian Fusion
+200,ethos Greek Bistro,2055 Wilton Dr,Greek
+201,Las Carnitas Latin Food,3221 Davie Blvd,Latin American
+202,El Guanaco Taqueria Y Antojitos,331 NE 44th St,Mexican
+203,Sushi Song,209 SW 2nd Ave,Sushi
+204,Squiggy's,207 SW 2nd St,Pizza
+205,DoughBoys Pizzeria & Italian Restaurant,829 SE 17th St,Pizza
+206,Café Roma italy,1 E Broward Blvd,Restaurant
+207,Henry's Sandwich Station,545 NW 1st Ave,Sandwich
+208,Jerk Machine at Ft Lauderdale,317 SW 6th St,Restaurant
+209,Benihana,276 E Commercial Blvd,Japanese
+210,Spatch Peri-Peri Grilled Chicken,468 N Federal Hwy,Chicken
+211,Christina Wan's Mandarin House,664 N Federal Hwy,Chinese
+212,IHOP,1101 N Federal Hwy,Restaurant
+213,Township FTL,219 S Andrews Ave,Restaurant
+214,Oceanview Restaurant,3030 Holiday Dr,American
+215,SpaJuiceBar,1217 E Las Olas Blvd,Juice
+216,California Pizza Kitchen at Ft. Lauderdale,2301 N Federal Hwy,Pizza
+217,Las Colinas Restaurant,2724 N Andrews Ave,Cuban
+218,bella monte italian deli,2688 E Atlantic Blvd,Deli
+219,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+220,Tijuana Flats,1619 E Sunrise Blvd,Tex Mex
+221,Waxy's Irish Pub,1095 SE 17th St,Irish pub
+222,Tipico Cafe,1910 E Sunrise Blvd,Mexican
+223,Las Carnitas Latin Food,3221 Davie Blvd,Latin American
+224,El Guanaco Taqueria Y Antojitos,331 NE 44th St,Mexican
+225,Offerdahl's Off-The-Grill,401 E Las Olas Blvd,Restaurant
+226,Red Lobster,5950 N Federal Hwy,Seafood
+227,Bombay Darbar,1521 E Las Olas Blvd,Indian
+228,IHOP,1241 Federal Hwy,Restaurant
+229,Hooters,17 S Atlantic Blvd #304,American
+230,Hot Dog Heaven,101 E Sunrise Blvd,Hot Dog
+231,Wild Thyme Oceanside Eatery,601 N Fort Lauderdale Beach Blvd,Restaurant
+232,Anthony's Pronto Kitchen,656 N Federal Hwy,Italian
+233,Vale Food Co,420 N Federal Hwy,Health Food
+234,Dicey Riley's Irish Pub,217 SW 2nd St,Irish pub
+235,Gran Forno Bakery,1235 E Las Olas Blvd,Bakery
+236,Bob & Wilson's,450 E Las Olas Blvd,Sandwich
+237,Pizza Craft Artisan Pizzeria & Cocktail Bar,330 Himmarshee St #1,Restaurant
+238,JB&C Juice Bar & Cafe,924 N Flagler Dr,Health Food
+239,Vegan Fine Foods,330 SW 2nd St #102,Restaurant
+240,The Hummus House,900 NE 20th Ave,Vegetarian
+241,Pizza City,1509 E Las Olas Blvd #2345,Italian
+242,Las Olas Centre I,450 E Las Olas Blvd,Corporate office
+243,New York Subs and Wings and Cheesesteaks,107 SW 6th St,Hamburger
+244,Empire Pizza Cafe,15 N Federal Hwy,Pizza
+245,Piazza Italia,904 E Las Olas Blvd,Italian
+246,Reflexion Restaurant,300 W Sunrise Blvd,Haitian
+247,Boston Market,1781 E Commercial Blvd,American
+248,Casavana,152 Coral Reef,Cuban
+249,Titie Restaurant & Lounge,300 W Sunrise Blvd,Restaurant
+250,East China,910 N Federal Hwy,Chinese
+251,Piman Cafe Restaurant,1560 NE 4th Ave,Haitian
+252,Sarpino’s Pizzeria,100 E Broward Blvd Suite 103,Pizza Delivery
+253,Salad Bowl,100 E Broward Blvd STE 107,Salad
+254,Marty's Bar & Grill,905 S Andrews Ave,Grill
+255,Bo's Beach,600 Seabreeze Blvd,Restaurant
+256,Boulevard Kitchen + Juice Bar,701 E Broward Blvd suite f,Health Food
+257,Tap 42 Fort Lauderdale,1411 S Andrews Ave,Gastropub
+258,Subway,401 E Las Olas Blvd,Sandwich
+259,Aruba Beach Cafe,1 Commercial Blvd,Seafood
+260,TUK TUK Burger,101 SE 3rd Ave,Fast Food
+261,The Hummus House,900 NE 20th Ave,Vegetarian
+262,Alaska Airlines - Fort Lauderdale,100 Terminal Dr,Airline
+263,The Wilder,701 E Broward Blvd,Restaurant
+264,Sea Watch On the Ocean,6002 N Ocean Blvd,Seafood
+265,Pollo Tropical,1819 S Federal Hwy,Chicken
+266,Marina 84 Fort Lauderdale,2440 W State Rd 84,Restaurant
+267,Vito's Gourmet Pizza,1489 SE 17th St Suite 1-D,Italian
+268,McDonald's,27 W Broward Blvd,Fast Food
+269,Tower Club - Fort Lauderdale,100 SE 3rd Ave 28th Floor,Wedding venue
+270,The Terrace Grill,299 N Federal Hwy,Italian
+271,IHOP,3101 W Oakland Park Blvd,Restaurant
+272,Red Chilies Restaurant in Fort Lauderdale,2275 W State Rd 84,Restaurant
+273,Harbor Shops,1947 Cordova Rd #1900,Shopping mall
+274,D.O.DOUBLE G,636 N Federal Hwy,Restaurant
+275,Ann's Florist Coffee & Wine Bar,1001 E Las Olas Blvd,Restaurant
+276,Wine + Garden,608 Breakers Ave,Wine bar
+277,First Watch - Sea Ranch Center,4715 N Ocean Dr,Breakfast
+278,Cafe Martorano,Oakland Park Blvd,Italian
+279,Jungle Queen Riverboat,801 Seabreeze Blvd,Tourist attraction
+280,Mulligan's Beach House- Lauderdale-by-the-Sea,14C Commercial Blvd,Restaurant
+281,Top Hat Cafe,1 E Broward Blvd,Restaurant
+282,Stoner's Pizza Joint,1509 E Las Olas Blvd,Pizza
+283,bella monte italian deli,2688 E Atlantic Blvd,Deli
+284,Golden House Chinese Restaurant,1280 Powerline Rd #1,Chinese
+285,Checkers,400 E Sunrise Blvd,Restaurant
+286,China Panda,112 Davie Blvd,Chinese
+287,NYSW Jazz Lounge,107 SW 6th St,Restaurant
+288,Invasive Species Brewing,726 NE 2nd Ave,Brewery
+289,Pan'e Dolci Italian Bakery,613 E Las Olas Blvd,Restaurant
+290,KFC,401 W Broward Blvd,Chicken
+291,Thats a Wrap Sandwich Co,110 SE 6th St,Sandwich
+292,Booze Garden,111-A SW 2nd Ave,Bar
+293,Cecibon Restaurant,1395 W Sunrise Blvd,Haitian
+294,Premo's Subs,195 N Federal Hwy,Sandwich
+295,Golden Lyon Vintage Pub,620 E Las Olas Blvd,Bar
+296,Mr Nick's Sub Shop,108 SE 1st St,Sandwich
+297,Java & Jam,301 E Las Olas Blvd,Coffee shop
+298,Briny's Irish Pub,220 SW 2nd St,Bar
+299,Lauderdale Yacht Club,1725 SE 12th St,Yacht club
+300,1800 Bistro & Bar,1800 S Federal Hwy,Restaurant
+301,G Bar & Grill,1881 SE 17th St,Restaurant
+302,Pollo Tropical,300 FL-7,Chicken
+303,Casa Del Mare Ristorante,619A N Fort Lauderdale Beach Blvd,Italian
+304,Nanou French Bakery & Café,2915 E Las Olas Blvd,Bakery
+305,Checkers,400 E Sunrise Blvd,Restaurant
+306,China Panda,112 Davie Blvd,Chinese
+307,NYSW Jazz Lounge,107 SW 6th St,Restaurant
+308,Invasive Species Brewing,726 NE 2nd Ave,Brewery
+309,Pan'e Dolci Italian Bakery,613 E Las Olas Blvd,Restaurant
+310,KFC,401 W Broward Blvd,Chicken
+311,Checkers Old Munchen,2209 E Atlantic Blvd,German
+312,Rooftop @ 1WLO,1 W Las Olas Blvd #700,Bar
+313,Trattoria Novello,2663 E Atlantic Blvd,Italian
+314,Council Oak Steaks & Seafood (in Seminole Hard Rock),1 Seminole Way,Seafood
+315,Cafe Maxx,2601 E Atlantic Blvd,Restaurant
+316,Taco Masala - By Arun's Indian Kitchen,5415 N University Dr,Indian
+317,Runas Peruvian Cuisine,219 N 21st Ave,Peruvian
+318,Vienna Wine Bar,9100 W State Rd 84,European
+319,The Melting Pot,10374 W Sample Rd,Fondue
+320,Monkitail,3555 S Ocean Dr,Restaurant
+321,"Padrino's Cuban, Hallandale Beach",2500 E Hallandale Beach Blvd,Cuban
+322,Rock n Roll Ribs,4651 State rd 7 (us441,Barbecue
+323,Riverside Hotel Fort Lauderdale,,3-star hotel
+324,W Fort Lauderdale,401 N Fort Lauderdale Beach Blvd,5-star hotel

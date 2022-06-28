@@ -1,0 +1,364 @@
+,name,address,city,state,type
+0,14 TH ST GROCERY AND HALAL MEAT,398 14th St NW,Atlanta,GA,Specialty Health Store
+1,Bennett's Market and Del,568 Boulevard SE,Atlanta,GA,Specialty Health Store
+2,Candler Park Market,1642 McLendon Ave NE,Atlanta,GA,Specialty Health Store
+3,Discount Meat World,2595 Donald Lee Hollowell Pkwy NW,Atlanta,GA,Specialty Health Store
+4,Fruit Veggies & Herbs,2085 Campbellton Rd SW,Atlanta,GA,Specialty Health Store
+5,Almadina Halal Meat Market ,,,,
+6,Halal N Halal Meat Market,759 Dill Ave SW,Atlanta,GA,Specialty Health Store
+7,Intown Market LLC,349 Decatur St SE,Atlanta,GA,Specialty Health Store
+8,Little's Food Store,198 Carroll St SE,Atlanta,GA,Specialty Health Store
+9,Lucy's Market,56 E Andrews Dr NW,Atlanta,GA,Specialty Health Store
+10,Savi Provisions,988 Peachtree St NE,Atlanta,GA,Specialty Health Store
+11,Sean's Harvest Market,"500 Amsterdam Ave NE, Atlanta, GA ",Atlanta,GA,Specialty Health Store
+12,Sevananda Natural Foods Market,467 Moreland Ave NE,Atlanta,GA,Specialty Health Store
+13,The Mercantile,1660 DeKalb Ave NE #150,Atlanta,GA,Specialty Health Store
+14,The Spotted Trotter- Kirkwood ,1610 Hosea L Williams Dr NE,Atlanta,GA,Specialty Health Store
+15,Alon's Bakery & Market - Morningside,1394 North Highland Avenue Northeast,Atlanta,GA,Specialty Health Store
+16,Discount Meat Market,,,,
+17,B & K Grocery Store,1265 Lee St SW # C,Atlanta,GA,Small Grocery
+18,Big Bear Foods,683 Joseph E Lowery Blvd SW,Atlanta,GA,Small Grocery
+19,Carver Neighborhood Market,1297 McDonough Blvd SE,Atlanta,GA,Small Grocery
+20,Fieste Food,2455 Piedmont Rd NE,Atlanta,GA,Supercenters
+21,Mercado Acapulco Y Taqueria,2179 Cheshire Bridge Rd NE,Atlanta,GA,Supercenters
+22,El Progreso #1,199 Cleveland Ave SW ,Atlanta,GA,Supercenters
+23,Target Atlantic Station 18th,375 18th St NW,Atlanta,GA,Supercenters
+24,Target_Caroline,1275 Caroline St NE,Atlanta,GA,Supercenters
+25,Target_PeachtreeLenox,3535 Peachtree Rd,Atlanta,GA,Supercenters
+26,Target_PiedmontLinPlaza,2539 Piedmont Rd NE,Atlanta,GA,Supercenters
+27,Walmart_MLK ,835 M.L.K. Jr Dr NW,Atlanta,GA,Supercenters
+28,WalmartCampus5thSt,86 5th St NW,Atlanta,GA,Supercenters
+29,WalmartExp_DeltaBlvd,1030 Delta Blvd,Atlanta,GA,Supercenters
+30,Buy Low Super Market,820 James Jackson Pkwy NW,Atlanta,GA,Traditional Grocery Stores
+31,Fresh Market Roswell Rd,4405 Roswell Rd,Atlanta ,,
+32,Fresh Market_Peachtree,2099 Peachtree Rd NW,Atlanta,GA,Traditional Grocery Stores
+33,Kroger_Caroline,1225 Caroline St NE,Atlanta,GA,Traditional Grocery Stores
+34,Kroger_Cascade,590 Cascade Ave SW,Atlanta,GA,Traditional Grocery Stores
+35,Kroger_GlenwoodPlace,800 Glenwood Ave SE,Atlanta,GA,Traditional Grocery Stores
+36,Kroger_HeadlandDR,3030 Headland Dr SW,Atlanta,GA,Traditional Grocery Stores
+37,Kroger_HowellMill,1715 Howell Mill Rd NW,Atlanta,GA,Traditional Grocery Stores
+38,Kroger_MetropolitanPKWY,2685 Metropolitan Pkwy SW,Atlanta,GA,Traditional Grocery Stores
+39,Kroger_Monroe,1700 Monroe Dr NE ,Atlanta,GA,Traditional Grocery Stores
+40,Kroger_Piedmont,3330 Piedmont Rd NE,Atlanta,GA,Traditional Grocery Stores
+41,Piggly Wiggly,1257 Moreland Ave SE,Atlanta,GA,Traditional Grocery Stores
+42,Publix Super Market at Ansley Mall,1544 Piedmont Ave NE,Atlanta,GA,Traditional Grocery Stores
+43,Publix Super Market at Howell Mill Village,2020 Howell Mill Rd NW A,Atlanta,GA,Traditional Grocery Stores
+44,Publix Super Market at Ponce,1001 Ponce De Leon Ave NE,Atlanta,GA,Traditional Grocery Stores
+45,Publix Super Market at The Peach,2900 Peachtree Rd,Atlanta,GA,Traditional Grocery Stores
+46,Publix Super Market In Atlantic Station,1380 Atlantic Dr NW,Atlanta,GA,Traditional Grocery Stores
+47,Publix_Carnia_ Princeton Lakes,3730 Carmia Dr SW Ste 200,Atlanta,GA,Traditional Grocery Stores
+48,Publix_CheshireSq,2325 Cheshire Bridge Rd NE,Atlanta,GA,Traditional Grocery Stores
+49,Publix_Lenox3535_Peachtree,3535 Peachtree Rd,Atlanta,GA,Traditional Grocery Stores
+50,Publix_Peachtree_Midtown ,950_w_PeachtreeNE,Atlanta,GA,Traditional Grocery Stores
+51,Publix_PEachtreeBattle,2365 Peachtree Rd NE,Atlanta,GA,Traditional Grocery Stores
+52,Publix_Piedmont,595 Piedmont Ave NE,Atlanta,GA,Traditional Grocery Stores
+53,Publix_Roswell_ChastainSq,4279 Roswell Rd NE #300,Atlanta,GA,Traditional Grocery Stores
+54,Publix_WestPacesFerry,1250WestPacesFerryRdNW,Atlanta,GA,Traditional Grocery Stores
+55,Sprouts Farmers Market,1845 Piedmont Ave NE #500,Atlanta,GA,Traditional Grocery Stores
+56,The Fresh Market_Roswell,4405 Roswell Rd NE,Atlanta,GA,Traditional Grocery Stores
+57,Trader Joe's_Monroe,931 Monroe Cir NE,Atlanta,GA,Traditional Grocery Stores
+58,Trader Joe's_Peachtree,3183 Peachtree Rd,Atlanta,GA,Traditional Grocery Stores
+59,Wayfield Foods,3050-H M.L.K. Jr Dr SW,Atlanta,GA,Traditional Grocery Stores
+60,Wayfield Foods,3435 Roosevelt hwy,Atlanta,GA,Traditional Grocery Stores
+61,Whole Foods Market_WestPacesFerry,77 West Paces Ferry Rd NW,Atlanta,GA,Traditional Grocery Stores
+62,whole foods_Peachtree,3434 Peachtree Rd,,GA,Traditional Grocery Stores
+63,Whole Foods_Ponce,650 Ponce De Leon Ave NE,Atlanta,GA,Traditional Grocery Stores
+64,Whole Foods Briarcliff,,,,Traditional Grocery Stores
+65,L & M Market,785 Argonne Ave NE,Atlanta,GA,Healthy Corner Stores
+66,Atlanta Food Mart,1190 Metropolitan Prkwy,Atlanta,GA,Healthy Corner Stores
+67,Lakewood Food Mart,"2808 Lakewood Avenue, Suite B, ",Atlanta,GA,Healthy Corner Stores
+68,Texaco/EZ Market,2100 Metropolitan Parkway,Atlanta,GA,Healthy Corner Stores
+69,Quality Meat Market,2034 Sylvan Road SW,Atlanta,GA,Healthy Corner Stores
+70,East Atlanta Village Farmers Market,561 Flat Shoals Ave,Atlanta,GA,Farmers Markets
+71,Freedom Farmers Market,453 Freedom Pwky NE ,Atlanta,GA,Farmers Markets
+72,Good Samaritan Urban Farm & Market,1015 Donald Lee Hollowell Pkwy NW ,Atlanta,GA,Farmers Markets
+73,Grant Park Farmers Market,600 Cherokee Ave SE,Atlanta,GA,Farmers Markets
+74,Westside Growers Market,North ave Joseph Lowery,Atlanta,GA,Farmers Markets
+75,Peachtree Rd Farmers Market,2744 Peachtree Rd NW,Atlanta,GA,Farmers Markets
+76,Ponce City Market,675 Ponce de Leon Ave,Atlanta,GA,Farmers Markets
+77,West End Beltline Farmers Market,1354 Ralph D. Abernathy Blvd,Atlanta,GA,Farmers Markets
+78,Green Market at Piedmont Park,12th and Piedmont Ave. ,Atlanta,GA,Farmers Markets
+79,GA Tech Farmer's Market,349 Ferst Drive ,Atlanta,GA,Farmers Markets
+80,Five Points Marta Station Farmer's Market,30 Alabama St SW,Atlanta,GA,Farmers Markets
+81,West End Marta Station Farmer's Market,680 Lee St ,Atlanta,GA,Farmers Markets
+82,HE Holmes Marta Station Farmer's Market,70 Hamilton E Holmes Dr NW,Atlanta,GA,Farmers Markets
+83,College Park Marta Station Farmer's Market,,Atlanta ,GA,Farmers Markets 
+84,Dunwoody Farmer's Market,4770 North Peachtree Rd,Dunwoody,GA,Farmers Markets
+85,East Point Farmer's Market,2757 East Point St,East Point,GA,Farmers Markets
+86,Avondale Estates Market,678 Joseph E. Boone Blvd NW,Atlanta,GA,Farmers Markets
+87,Atlanta State Farmer's Market,16 Forest Parkway,Forest Park,GA,Farmers Markets
+88,Truly Living Well Center For Natural,324 Lawton St,Atlanta,GA,Farmers Markets
+89,Morningside Farmers Market,1393 North Highland Avenue Northeast,Atlanta,GA,Farmers Markets
+90,Peachtree Center Farmers Market,"
+225 Peachtree St. NE,",Atlanta,GA,Farmers Markets
+91,Adamsville Elementary School,286 WILSON MILL RD SW,Atlanta,GA,Garden
+92,BEECHER HILLS ELEMENTARY SCHOOL,2257 BOLLING BROOK DR SW,Atlanta,GA,Garden
+93,BOLTON ACADEMY,2268 ADAMS DR NW,Atlanta,GA,Garden
+94,BURGESS-PETERSON ELEMENTARY SCHOOL,2025 Jonesboro Road,Atlanta,GA,Garden
+95,CASCADE ELEMENTARY SCHOOL,2326 VENETIAN DR SW,Atlanta,GA,Garden
+96,CENTENNIAL CHARTER ACADEMY,531 Luckie Street,Atlanta,GA,Garden
+97,CHARLES DREW CHARTER SCHOOL,301 E LAKE BLVD SE,Atlanta,GA,Garden
+98,CLEVELAND ELEMENTARY SCHOOL,2672 OLD HAPEVILLE RD SW,Atlanta,GA,Garden
+99,CONNALLY ELEMENTARY SCHOOL,1654 S ALVARADO TER SW,Atlanta,GA,Garden
+100,CORETTA SCOTT KING YOUNG WOMEN'S ACADEMY MIDDLE SC,1190 Northwest Dr.,Atlanta,GA,Garden
+101,Crawford W. Long Middle School,3200 Latona Drive,Atlanta,GA,Garden
+102,D. H. STANTON ELEMENTARY SCHOOL,970 MARTIN ST SE,Atlanta,GA,Garden
+103,DEERWOOD ACADEMY SCHOOL,3070 FAIRBURN RD SW,Atlanta,GA,Garden
+104,DOBBS ELEMENTARY SCHOOL,2025 JONESBORO RD SE,Atlanta,GA,Garden
+105,DUNBAR ELEMENTARY SCHOOL,500 Whitehall Terrace SW,Atlanta,GA,Garden
+106,FICKETT ELEMENTARY SCHOOL,3935 RUX RD SW,Atlanta,GA,Garden
+107,GARDEN HILLS ELEMENTARY SCHOOL,"285 Sheridan Drive, NE",Atlanta,GA,Garden
+108,George Alexander Towns Elementary,760 Bolton Road,Atlanta,GA,Garden
+109,GIDEONS ELEMENTARY SCHOOL,897 WELCH ST SW,Atlanta,GA,Garden
+110,GROVE PARK ELEMENTARY SCHOOL,20 EVELYN WAY NW,Atlanta,GA,Garden
+111,HERITAGE ACADEMY ELEMENTARY,3500 VILLA CIR SE,Atlanta,GA,Garden
+112,HOPE HILL ELEMENTARY SCHOOL,112 BOULEVARD NE,Atlanta,GA,Garden
+113,HUMPHRIES ELEMENTARY SCHOOL,3029 HUMPHRIES DR SE,Atlanta,GA,Garden
+114,HUTCHINSON ELEMENTARY SCHOOL,650 CLEVELAND AVE SW,Atlanta,GA,Garden
+115,INTOWN CHARTER ACADEMY,386 PINE ST NE,Atlanta,GA,Garden
+116,KIMBERLY ELEMENTARY SCHOOL,3090 McMurray Dr. SW,Atlanta,GA,Garden
+117,KINDEZI,98 ANDERSON AVE NW,Atlanta,GA,Garden
+118,KING MIDDLE SCHOOL,545 HILL ST SE,Atlanta,GA,Garden
+119,KIPP STRIVE PRIMARY SCHOOL,1448 LUCILE AVE SW,Atlanta,GA,Garden
+120,M Agnes Jones Elementary,1040 FAIR ST SW,Atlanta,GA,Garden
+121,MILES ELEMENTARY SCHOOL,4215 Bakers Ferry RD SW,Atlanta,GA,Garden
+122,MORNINGSIDE ELEMENTARY SCHOOL,1053 E ROCK SPRINGS RD NE,Atlanta,GA,Garden
+123,PARKSIDE ELEMENTARY SCHOOL,685 Mercer St. SE,Atlanta,GA,Garden
+124,PEYTON FOREST ELEMENTARY SCHOOL,301 Peyton Road,Atlanta,GA,Garden
+125,Sarah Smith Intermediate,4141 Wieuca Rd,Atlanta,GA,Garden
+126,Sarah Smith Primary School,370 Old Ivy Road,Atlanta,GA,Garden
+127,SLATER ELEMENTARY SCHOOL,1320 PRYOR RD SW,Atlanta,GA,Garden
+128,SPRINGDALE PARK ELEMENTARY SCHOOL,1246 PONCE DE LEON AVE NE,Atlanta,GA,Garden
+129,The Howard School,1192 Foster St NW,Atlanta,GA,Garden
+130,TOOMER ELEMENTARY SCHOOL,65 ROGERS ST NE,Atlanta,GA,Garden
+131,Usher-Collier Heights Elementary,631 Harwell Road,Atlanta,GA,Garden
+132,Warren T Jackson Elementary School,1325 MOUNT PARAN RD NW,Atlanta,GA,Garden
+133,Wesley International Academy,211 Memorial Drive,Atlanta,GA,Garden
+134,WEST MANOR ELEMENTARY SCHOOL,570 LYNHURST DR SW,Atlanta,GA,Garden
+135,William J Scott ELEMENTARY SCHOOL,1752 Hollywood Road,Atlanta,GA,Garden
+136,WOODSON ELEMENTARY SCHOOL,1605 DONALD LEE HOLLOWELL PKWY,Atlanta,GA,Garden
+137,Greenleaf Community Gardens,,,,
+138,AD Williams Park,James Jackson Parkway,Atlanta,GA,Garden
+139,Welch Street Community Garden,Welch Street,Atlanta,GA,Garden
+140,Redoubt Garden at ACFB,732 Joseph E. Lowery Blvd,Atlanta,GA,Garden
+141,Peachtree Hills Park Community Garden,Peachtree Hills Avenue NE,Atlanta,GA,Garden
+142,Atwood Street Garden,Atwood Street SW,Atlanta,GA,Garden
+143,,,,,
+144,Veranda at Carver Senior Residences Community Garden,Thirkeld Avenue,Atlanta,GA,Garden
+145,Blue Heron Nature Preserve Community Garden,Roswell Road,Atlanta,GA,Garden
+146,Patchwork City Farms at Brown Middle School,765 Peeples Street SW,Atlanta,GA,Garden
+147,Brownwood Park Community Garden,Pendleton Street,Atlanta,GA,Garden
+148,East Lake Senior Tower,380 E Lake Blvd SE,Atlanta,GA,Garden
+149,Cabbagetown Community Garden,Berean Avenue SE,Atlanta,GA,Garden
+150,Canterbury Court Retirement Community,Peachtree Road NE,Atlanta,GA,Garden
+151,Capitol Avenue High Rise Community Garden,Hank Aaron Drive,Atlanta,GA,Garden
+152,Capitol View Community Garden,Athens Avenue SW,Atlanta,GA,Garden
+153,Anderson Park Community Garden,Calloway Drive,Atlanta,GA,Garden
+154,Little Nancy Creek Community Garden,Peachtree-Dunwoody Road NE,Atlanta,GA,Garden
+155,City of Refuge,Andrews Street NW,Atlanta,GA,Garden
+156,Mattie Freeland Community Garden,Echo Street,Atlanta,GA,Garden
+157,Cosby Spear Memorial Tower Community Garden,355 North Avenue,Atlanta,GA,Garden
+158,Collier Heights Park Community Garden,Collier Drive NW,Atlanta,GA,Garden
+159,Kirkwood Urban Forest and Community Garden,Dixie Street SE,Atlanta,GA,Garden
+160,East Lake Urban Farm,2nd Avenue,Atlanta,GA,Farm
+161,Four Corners Park Community Garden,Hank Aaron Drive SW,Atlanta,GA,Garden
+162,Gilliam Park Community Garden,Wade Avenue,Atlanta,GA,Garden
+163,Brightside at Oakleaf Mennonite Farm,Bouldercrest Drive,Atlanta,GA,Farm
+164,Atlanta Tapestry Community Garden,E. Confederate Avenue,Atlanta,GA,Garden
+165,Truly Living Well - Harbin Road,Harbin Road,Atlanta,GA,Farm
+166,Outdoor Activity Center,Richarland Road SW,Atlanta,GA,Garden
+167,Good Shepherd Community Garden,445 Lawton Street,Atlanta,GA,Garden
+168,Rose Circle Park Community Garden,Joseph E. Lowery Blvd,Atlanta,GA,Garden
+169,Westview Community Garden,S. Gordon Street SW,Atlanta,GA,Garden
+170,Wesley International Academy,Connally Street SE,Atlanta,GA,Orchard
+171,Truly Living Well - Wheat Street,Hilliard Street,Atlanta,GA,Farm
+172,Villages at Carver - YMCA Boys and Girls Club,Pryor Road,Atlanta,GA,Garden
+173,Sullivan Center Community Garden,Dill Avenue SW,Atlanta,GA,Garden
+174,Piedmont Park Urban Orchard,Monroe Drive,Atlanta,GA,Orchard
+175,Mulberry Fields Community Garden,Candler Street,Atlanta,GA,Garden
+176,Mays High School Orchard,Benjamin E. Mays Drive,Atlanta,GA,Orchard
+177,Lang Carson Park Community Garden (R-Town Community Garden),Flat Shoals Avenue,Atlanta,GA,Orchard
+178,Lang Carson Park Community Garden (R-Town Community Garden),Flat Shoals Avenue,Atlanta,GA,Garden
+179,KIPP Strive Academy Urban Orchard,Lucile Avenue SW,Atlanta,GA,Orchard
+180,Harnett/ Oakland City Community Garden,Bridges Avenue,Atlanta,GA,Garden
+181,Rosa Burney - HABESHA,Fulton Street SW,Atlanta,GA,Garden
+182,Grady High School Orchard,Monroe Drive,Atlanta,GA,Orchard
+183,Garden Hills Elementary School Orchard,Delmont Drive,Atlanta,GA,Orchard
+184,Education Garden at Piedmont Park,Monroe Drive,Atlanta,GA,Garden
+185,Drew Charter School Orchard,E Lake Blvd SE,Atlanta,GA,Orchard
+186,Crim High School Orchard,Memorial Drive SE,Atlanta,GA,Orchard
+187,Crawford Long Middle School Orchard,Latona Drive,Atlanta,GA,Orchard
+188,Burgess Peterson Academy Orchard,Glenwood Avenue,Atlanta,GA,Garden
+189,Burgess Peterson Academy Orchard,Glenwood Avenue,Atlanta,GA,Orchard
+190,Boulevard Heights Community Garden,Schuyler Avenue SE,Atlanta,GA,Garden
+191,Atlanta Fire Station #29 Orchard,Monroe Drive,Atlanta,GA,Orchard
+192,Atlanta Fire Station #27 Orchard,Northside Drive NW,Atlanta,GA,Orchard
+193,Atlanta Fire Station #25 Orchard,Benjamin E. Mays Drive,Atlanta,GA,Orchard
+194,Atlanta Fire Station #13 Orchard,Metropolitan Avenue SE,Atlanta,GA,Orchard
+195,Atlanta Fire Station #10 Orchard,Boulevard SE,Atlanta,GA,Orchard
+196,Atlanta Charter Middle School,Essie Avenue SE,Atlanta,GA,Orchard
+197,Atlanta Botanical Gardens,Piedmont Avenue,Atlanta,GA,Garden
+198,7th Day Adventist Community Garden (Berean Academy),Hamilton E Holmes Dr NW,Atlanta,GA,Garden
+199,Atlanta Mission Urban Garden,Ivan Allen Jr Blvd NW,Atlanta,GA,Garden
+200,Buckhead Men's Garden Club,W Paces Ferry,Atlanta,GA,Garden
+201,Poncey Highland Community Garden (Freedom Park),Freedom Parkway,Atlanta,GA,Garden
+202,Grove Park Community Garden,Hortense Place,Atlanta,GA,Garden
+203,Selena S. Butler Community Garden,Wm Holmes Borders Sr. Drive SE,Atlanta,GA,Garden
+204,West End - Mother Clyde Community Garden,Oak Street,Atlanta,GA,Garden
+205,Northside Shepherd Senior Center/ Vivian T. Minor Adult Daycare Community Garden,1705 Commerce Drive,Atlanta,GA,Garden
+206,South Bend Park Community Garden,Compton Drive,Atlanta,GA,Garden
+207,Community Life at Brookside Park Apartments,2000 Rambling Drive SW,Atlanta,GA,Garden
+208,Druid Hill United Methodist Church,1200 Ponce de Leon Avenue NE,Atlanta,GA,Garden
+209,Parkview Community Garden at DeKalb Memorial Park,Wilkinson Drive,Atlanta,GA,Garden
+210,Super Giant Food Urban Health Initiative Community Garden,2176 Donald Lee Hollowell NW,Atlanta,GA,Garden
+211,Mary Lin Elementary School,586 Candler Park Drive NE,Atlanta,GA,Garden
+212,Atlanta Harm Reduction Coalition,472 Paines Avenue NW,Atlanta,GA,Garden
+213,Marian Road Senior High Rise,760 Sidney Marcus Blvd NW,Atlanta,GA,Garden
+214,Loring Heights Community Garden,426 Deering Road,Atlanta,GA,Garden
+215,QLS Haven & Garden Apartments,1840 & 1870 Campbellton Road,Atlanta,GA,Garden
+216,Georgia Citizens Coalition on Hunger,9 Gammon Avenue,Atlanta,GA,Garden
+217,Holy Comforter Episcopal Church,737 Woodland Avenue SE,Atlanta,GA,Garden
+218,First Existentialist Church,470 Candler Park Drive,Atlanta,GA,Garden
+219,English Avenue Urban Farm,North Avenue and Joseph E. Lowery Blvd,Atlanta,GA,Farm
+220,Edgewood Community Learning Garden,Hardee Street and Mayson Avenue,Atlanta,GA,Garden
+221,Edgewood Court Residential Association,1572 Hardee Street,Atlanta,GA,Garden
+222,Dog Head Farm,Birch Street SW,Atlanta,GA,Farm
+223,Covenant House,1559 Johnson Road NW,Atlanta,GA,Garden
+224,Auburn Neighborhood Senior Center,300 Edgewood Avenue SE,Atlanta,GA,Garden
+225,Emmaus House,1017 Hank Aaron Drive SE,Atlanta,GA,Garden
+226,Historic Westside Gardens,"Joseph E Boone, Elm Street and Sunset Avenue",Atlanta,GA,Farm
+227,GLEN Project,Vine Street and Delbridge Street,Atlanta,GA,Garden
+228,Grant Park Community Garden,Grant Street SE,Atlanta,GA,Garden
+229,Omenala Griot - HABESHA,337 Dargan Place SW,Atlanta,GA,Garden
+230,Ashview Urban Farm,Holderness Street SW,Atlanta,GA,Farm
+231,Darnell Center,Fairburn Road,Atlanta,GA,Garden
+232,Villages at Carver Community Garden,Pryor Road,Atlanta,GA,Garden
+233,Hunter Hills Community Garden,Troy and Boone,Atlanta,GA,Garden
+234,Good Samaritan Health Center,Donald Lee Hollowell Pkwy,Atlanta,GA,Garden
+235,Hawk Hollow Garden,2304 1st Avenue,Atlanta,GA,Garden
+236,East Atlanta Village Learning Garden,Stokeswood Avenue,Atlanta,GA,Garden
+237,Georgia Avenue Senior Tower,174 Georgia Avenue,Atlanta,GA,Garden
+238,Open Hand Garden,181 Armour Drive NE,Atlanta,GA,Garden
+239,Inman Middle School,774 Virginia Ave NE,Atlanta,GA,Garden
+240,Morningside Community Garden,Hillpine Drive at the Georgia Power lines,Atlanta,GA,Garden
+241,Wonderoot Community Garden,982 Memorial Drive,Atlanta,GA,Garden
+242,West End Community Garden Nursery,1285 Ralph David Abernathy Blvd SW,Atlanta,GA,Garden
+243,3x3 Project,307 Walker Street SW,Atlanta,GA,Garden
+244,Ashby Circle Playlot,Ashby Circle NW,Atlanta,GA,Orchard
+245,Maynard H. Jackson High School,801 Glenwood Avenue SE,Atlanta,GA,Orchard
+246,Operation PEACE,420 Boulevard,Atlanta,GA,Orchard
+247,Fresh Roots Farm,1260 Foster Street,Atlanta,GA,Farm
+248,Paideia School,,Atlanta,GA,Garden
+249,Big Bethel Village,500 Richard Allen Blvd SW,Atlanta,GA,Garden
+250,Thomasville Center of Hope Boys and Girls Club,1835 Henry Thomas Drive SE,Atlanta,GA,Garden
+251,Elm Street Urban Farm,380 Elm Street NW,Atlanta,GA,Garden
+252,Atlanta Neighborhood Charter School Farm,688 Grant Street,Atlanta,GA,Garden
+253,St. Nicholas Orthox Academy Garden,543 Cherokee Ave SE,Atlanta,GA,Garden
+254,Back to Eden,291 Hamilton E Holmes Dr NW,Atlanta,GA,Garden
+255,Pittman Park/Brother Moore Garden,950 Garibaldi St SW,Atlanta,GA,Garden
+256,Gilliam's Garden,Oakland Terrace,Atlanta,GA,Garden
+257,Coan Edible School Yard,Hardee Street,Atlanta,GA,Garden
+258,HABESHA,477 Windsor Street SW,Atlanta,GA,Orchard
+259,Welch Street Community Garden,975 Welch Street,Atlanta,GA,Orchard
+260,Outdoor Activity Center,1442 Richland Road,Atlanta,GA,Orchard
+261,Wesley International Academy,211 Memorial Drive,Atlanta,GA,Orchard
+262,Gateway Park,Brantley Street NE,Atlanta,GA,Orchard
+263,Northwest Youth Power Early Learning Center,1225 Donald Lee Hollowell Parkway,Atlanta,GA,Orchard
+264,Omenala Griot African Teaching Museum,337 Dargan Place,Atlanta,GA,Orchard
+265,Kindezi School,1890 Detroit Avenue,Atlanta,GA,Orchard
+266,Toomer Elementary School,65 Rogers Street,Atlanta,GA,Orchard
+267,Coan Middle School,1503 Hardee Street,Atlanta,GA,Orchard
+268,Dekalb Memorial Park,353 Wilkinson Drive,Atlanta,GA,Orchard
+269,East Atlanta Village Farmers Market,561 Flat Shoals Avenue,Atlanta,GA,Orchard
+270,Brownwood Park,602 Brownwood Avenue,Atlanta,GA,Orchard
+271,Branan Towers,1200 Glenwood Avenue,Atlanta,GA,Orchard
+272,Patchworks City Farms,765 Peeples Street,Atlanta,GA,Orchard
+273,Brown Middle School Beltline Orchard,Beecher Street & Peeples Street,Atlanta,GA,Orchard
+274,Good Shepherd Agro Ecology Center,445 Lawton Street,Atlanta,GA,Orchard
+275,Erskine Fountain Community Orchards,Cherokee Avenue & Orchard Street,Atlanta,GA,Orchard
+276,Doghead Farm,1117 Birch Street,Atlanta,GA,Orchard
+277,Gilliam's Community Garden,1286 Oakland Terrace,Atlanta,GA,Orchard
+278,Providence Missionary Baptist Church,2295 Benjamin E Mays Drive,Atlanta,GA,Orchard
+279,Lake Claire Community Land Trust,280 Arizona Avenue,Atlanta,GA,Orchard
+280,Mary Lin Elementary School,586 Candler Park Drive,Atlanta,GA,Orchard
+281,Vine City Neighborhood Orchard,292 Sunset Avenue,Atlanta,GA,Orchard
+282,Washington Park,102 Ollie Street,Atlanta,GA,Orchard
+283,Tapestry Community Garden,842 East Confederate Avenue,Atlanta,GA,Orchard
+284,Choosewood Park Neighborhood Orchard,1334 Grant Street,Atlanta,GA,Orchard
+285,Truly Living Well,75 Hilliard Street,Atlanta,GA,Orchard
+286,Cosby Spear Memorial Tower,355 North Avenue,Atlanta,GA,Orchard
+287,Homegrown Restaurant,Memorial Drive,Atlanta,GA,Farm
+288,Blackshere Community Garden,14 Meldon Avenue,Atlanta,GA,Garden
+289,Cinnamon City Farms,1490 Joseph E. Boone,Atlanta,GA,Garden
+290,Farm Chastain,4001 Powers Ferry Rd,Atlanta,GA,Garden
+291,Howell Station Community Garden,1150 Niles Ave NW,Atlanta,GA,Garden
+292,John Harland Boys & Girls Club Garden,434 Peeples St SW,Atlanta,GA,Garden
+293,Jospeh B. Whitehead Boys & Girls Club,1900 Lakewood Ave.,Atlanta,GA,Garden
+294,Mena's farm,544 Elmwood Rd,Atlanta,GA,Garden
+295,My Sisters Atlanta Union Mission House,921 Howell Mill Rd,Atlanta,GA,Garden
+296,Pearl Academy Agriculture and Environmental Center,1722 Harbin Road SW,Atlanta,GA,Garden
+297,San Pedro Community Garden at Westview,1540 Olympian Circle SW,Atlanta,GA,Garden
+298,Seeds of Life Community Garden,2820 Peachtree Road NW,Atlanta,GA,Garden
+299,The Mustard Seed Garden at St. Luke's,435 Peachtree Street NE,Atlanta,GA,Garden
+300,The Veranda at Carver,217 Thirkeld Ave,Atlanta,GA,Garden
+301,Welcome House (Caring Works),234 Memorial Drive,Atlanta,GA,Garden
+302,Post Collier Hills Community Garden,914 Collier Road NW,Atlanta,GA,Garden
+303,Post Lindbergh Community Garden,485 Lindbergh Place NE,Atlanta,GA,Garden
+304,Post Peachtree Hills Community Garden,350 Peachtree Hills Ave NE,Atlanta,GA,Garden
+305,Post Renaissance Community Garden,400 Central Park Place,Atlanta,GA,Garden
+306,Post Stratford Community Garden,3400 Stratford Road,Atlanta,GA,Garden
+307,East Lake Community Learning Garden,56 2nd Avenue Southeast,Atlanta,GA,Garden
+308,Fire Station 1 Garden,71 Elliott St SW,Atlanta,GA,Garden
+309,Fire Station 10 Garden,447 Boulevard SE,Atlanta,GA,Garden
+310,Fire Station 11 Garden,165 16th St NW,Atlanta,GA,Garden
+311,Fire Station 12 Garden,1288 DeKalb Ave NE,Atlanta,GA,Garden
+312,Fire Station 13 Garden,431 Flat Shoals Ave SE,Atlanta,GA,Garden
+313,Fire Station 16 Garden,1048 Joseph E Boone Blvd,Atlanta,GA,Garden
+314,Fire Station 25 Garden,2349 Benjamin E. Mays Dr SW,Atlanta,GA,Garden
+315,Fire Station 27 Garden,4260 Northside Dr NW,Atlanta,GA,Garden
+316,Fire Station 28 Garden,1925 Hollywood Dr NW,Atlanta,GA,Garden
+317,Fire Station 29 Garden,2167 Monroe Dr NE,Atlanta,GA,Garden
+318,Fire Staion 34 Garden,3671 Southside Industrial Pkwy,Atlanta,GA,Garden
+319,Fire Station 38 Garden,2911 Donald L. Hollowell Parkway NW,Atlanta,GA,Garden
+320,Fire Station 5 Garden,2825 Campbellton Rd SW,Atlanta,GA,Garden
+321,Fire Station 8 Garden,1711 Marietta Blvd NW,Atlanta,GA,Garden
+322,,Whitehall Terrace SW,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+323,,590 Whitehall Terrace SW,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+324,,251 Sunset Ave,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+325,,1227 Princess Ave,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+326,,1597 Campbellton Rd SW,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+327,,1612 Glenview Dr,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+328,,790 E.Morningside Dr,Atlanta,GA,AgLanta Grows-A-Lot Urban Garden 
+329,La Canasta Grocery Store,178 Northwood Dr,Atlanta,GA,Small Grocery
+330,Nuts 'N Berries,4274 Peachtree Rd NE,Atlanta,GA,Specialty Health Store
+331,Brito Supermarket,3020 Buford Hwy NE,Atlanta,GA,Small Grocery
+332,Merkato Market,3300 Buford Hwy NE,Atlanta,GA,Small Grocery
+333,Dinho Market of Atlanta,5379 New Peachtree Rd,Atlanta,GA,Small Grocery
+334,Oriental Food Mart Inc,5091 Buford Hwy NE,Atlanta,GA,Small Grocery
+335,The Kosher Gourmet,2153 Briarcliff Rd NE,Atlanta,GA,Small Grocery
+336,Carniceria El Ejido,3145 Main St,Atlanta,GA,Small Grocery
+337,Kroger,1160 Moreland Ave SE,Atlanta,GA,Traditional Grocery Store
+338,Walmart,1105 Research Center,Atlanta,GA,Supercenter
+339,GNT Foods ,874 Cleveland Ave,Atlanta,GA,Small Grocery
+340,Kroger,3300 Cobb Pkwy SE #100,Atlanta,GA,Traditional Grocery Store
+341,Publix West Paces Ferry ,2451 Cumberland Pkwy SE,Atlanta,GA,Traditional Grocery Store
+342,Publix Super Market at East Lake,2235 Glenwood Ave SE,Atlanta,GA,Traditional Grocery Store
+343,Kroger,"1799 Briarcliff Rd, NE",Atlanta,GA,Traditional Grocery Store
+344,Wayfield Foods Inc ,2020 Headland Dr,Atlanta,GA,Traditional Grocery Store
+345,Walmart,844 Cleveland Ave,Atlanta,GA,Traditional Grocery Store
+346,Publix Super Market at Shallowford Exchange,2562 Shallowford Rd,Atlanta,GA,Traditional Grocery Store
+347,Publix Supermarket,3695 Cascade Rd,Atlanta,GA,Traditional Grocery Store
+348,"Wayfield Foods, Inc",3465 Main St,Atlanta,GA,Traditional Grocery Store
+349,Target_DruidHills ,2400 N Druid Hills Rd NE,Atlanta,GA,Traditional Grocery Store
+350,Publix Super Market at Toco Hills Shopping Center,2969 N Druid Hills Rd,Atlanta,GA,Traditional Grocery Store
+351,Whole Foods Market,2111 Briarcliff Rd NE,Atlanta,GA,Traditional Grocery Store
+352,Whole Foods Market,5930 Roswell Rd,Atlanta,GA,Traditional Grocery Store
+353,ALDI ,3963 Buford Hwy NE,Atlanta,GA,Traditional Grocery Store
+354,Wayfield Foods Inc -,3435 Roosevelt Hwy,Atlanta,GA,Traditional Grocery Store
+355,Target,2400 N Druid Hills Rd NE,Atlanta,GA,Traditional Grocery Store
+356,Earth Fare,1578 Avenue Pl #200,Atlanta,GA,Traditional Grocery Store
+357,Piggly Wiggly ,3100 Washington Rd,East Point ,GA,Traditional Grocery Store
+358,Savi Provisions,1388 Dresden Dr,Atlanta,GA,Healthy Corner Store
+359,Khanh Tam Oriental Market,4051 Buford Hwy NE,Atlanta,GA,Small Grocery
+360,Malincho Euro Market & Cafe,2800 Spring Rd SE,Atlanta,GA,Specialty Store - No Groceries
+361,El Progreso Supermarket,1720 Vesta Ave ,Atlanta,GA,Small Grocery

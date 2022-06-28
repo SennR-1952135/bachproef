@@ -1,0 +1,193 @@
+,name,description,area
+0,Consonant Inventories,,Phonology
+1,Vowel Quality Inventories,,Phonology
+2,Consonant-Vowel Ratio,,Phonology
+3,Voicing in Plosives and Fricatives,,Phonology
+4,Voicing and Gaps in Plosive Systems,,Phonology
+5,Uvular Consonants,,Phonology
+6,Glottalized Consonants,,Phonology
+7,Lateral Consonants,,Phonology
+8,The Velar Nasal,,Phonology
+9,Vowel Nasalization,,Phonology
+10,Nasal Vowels in West Africa,,Phonology
+11,Front Rounded Vowels,,Phonology
+12,Syllable Structure,,Phonology
+13,Tone,,Phonology
+14,Fixed Stress Locations,,Phonology
+15,Weight-Sensitive Stress,,Phonology
+16,Weight Factors in Weight-Sensitive Stress Systems,,Phonology
+17,Rhythm Types,,Phonology
+18,Absence of Common Consonants,,Phonology
+19,Presence of Uncommon Consonants,,Phonology
+20,Fusion of Selected Inflectional Formatives,,Morphology
+21,Exponence of Selected Inflectional Formatives,,Morphology
+22,Exponence of Tense-Aspect-Mood Inflection,,Morphology
+23,Inflectional Synthesis of the Verb,,Morphology
+24,Locus of Marking in the Clause,,Morphology
+25,Locus of Marking in Possessive Noun Phrases,,Morphology
+26,Locus of Marking: Whole-language Typology,,Morphology
+27,Zero Marking of A and P Arguments,,Morphology
+28,Prefixing vs. Suffixing in Inflectional Morphology,,Morphology
+29,Reduplication,,Morphology
+30,Case Syncretism,,Morphology
+31,Syncretism in Verbal Person/Number Marking,,Morphology
+32,Number of Genders,,Nominal Categories
+33,Sex-based and Non-sex-based Gender Systems,,Nominal Categories
+34,Systems of Gender Assignment,,Nominal Categories
+35,Coding of Nominal Plurality,,Nominal Categories
+36,Occurrence of Nominal Plurality,,Nominal Categories
+37,Plurality in Independent Personal Pronouns,,Nominal Categories
+38,The Associative Plural,,Nominal Categories
+39,Definite Articles,,Nominal Categories
+40,Indefinite Articles,,Nominal Categories
+41,Inclusive/Exclusive Distinction in Independent Pronouns,,Nominal Categories
+42,Inclusive/Exclusive Forms in Pama-Nyungan,,Nominal Categories
+43,Inclusive/Exclusive Distinction in Verbal Inflection,,Nominal Categories
+44,Distance Contrasts in Demonstratives,,Nominal Categories
+45,Pronominal and Adnominal Demonstratives,,Nominal Categories
+46,Third Person Pronouns and Demonstratives,,Nominal Categories
+47,Gender Distinctions in Independent Personal Pronouns,,Nominal Categories
+48,Politeness Distinctions in Pronouns,,Nominal Categories
+49,Indefinite Pronouns,,Nominal Categories
+50,Intensifiers and Reflexive Pronouns,,Nominal Categories
+51,Person Marking on Adpositions,,Nominal Categories
+52,Number of Cases,,Nominal Categories
+53,Asymmetrical Case-Marking,,Nominal Categories
+54,Position of Case Affixes,,Nominal Categories
+55,Comitatives and Instrumentals,,Nominal Categories
+56,Ordinal Numerals,,Nominal Categories
+57,Distributive Numerals,,Nominal Categories
+58,Numeral Classifiers,,Nominal Categories
+59,Conjunctions and Universal Quantifiers,,Nominal Categories
+60,Position of Pronominal Possessive Affixes,,Nominal Categories
+61,Obligatory Possessive Inflection,,Nominal Syntax
+62,Number of Possessive Nouns,,Nominal Syntax
+63,Possessive Classification,,Nominal Syntax
+64,"Genitives, Adjectives and Relative Clauses",,Nominal Syntax
+65,Adjectives without Nouns,,Nominal Syntax
+66,Action Nominal Constructions,,Nominal Syntax
+67,Noun Phrase Conjunction,,Nominal Syntax
+68,Nominal and Verbal Conjunction,,Nominal Syntax
+69,Perfective/Imperfective Aspect,,Verbal Categories
+70,The Past Tense,,Verbal Categories
+71,The Future Tense,,Verbal Categories
+72,The Perfect,,Verbal Categories
+73,Position of Tense-Aspect Affixes,,Verbal Categories
+74,The Morphological Imperative,,Verbal Categories
+75,The Prohibitive,,Verbal Categories
+76,Imperative-Hortative Systems,,Verbal Categories
+77,The Optative,,Verbal Categories
+78,Situational Possibility,,Verbal Categories
+79,Epistemic Possibility,,Verbal Categories
+80,Overlap between Situational and Epistemic Modal Marking,,Verbal Categories
+81,Semantic Distinctions of Evidentiality,,Verbal Categories
+82,Coding of Evidentiality,,Verbal Categories
+83,Suppletion According to Tense and Aspect,,Verbal Categories
+84,Suppletion in Imperatives and Hortatives,,Verbal Categories
+85,Verbal Number and Suppletion,,Verbal Categories
+86,"Order of Subject, Object and Verb",,Word Order
+87,"Languages with two Dominant Orders of Subject, Object, and Verb",,Word Order
+88,Order of Subject and Verb,,Word Order
+89,Order of Object and Verb,,Word Order
+90,"Order of Object, Oblique, and Verb",,Word Order
+91,Order of Adposition and Noun Phrase,,Word Order
+92,Order of Genitive and Noun,,Word Order
+93,Order of Adjective and Noun,,Word Order
+94,Order of Demonstrative and Noun,,Word Order
+95,Order of Numeral and Noun,,Word Order
+96,Order of Relative Clause and Noun,,Word Order
+97,Prenominal relative clauses,,Word Order
+98,Postnominal relative clauses,,Word Order
+99,Internally-headed relative clauses,,Word Order
+100,Correlative relative clauses,,Word Order
+101,Adjoined relative clauses,,Word Order
+102,Double-headed relative clauses,,Word Order
+103,Order of Degree Word and Adjective,,Word Order
+104,Position of Polar Question Particles,,Word Order
+105,Position of Interrogative Phrases in Content Questions,,Word Order
+106,Order of Adverbial Subordinator and Clause,,Word Order
+107,Relationship between the Order of Object and Verb and the Order of Adposition and Noun Phrase,,Word Order
+108,Relationship between the Order of Object and Verb and the Order of Relative Clause and Noun,,Word Order
+109,Relationship between the Order of Object and Verb and the Order of Adjective and Noun,,Word Order
+110,Alignment of Case Marking of Full Noun Phrases,,Simple Clauses
+111,Alignment of Case Marking of Pronouns,,Simple Clauses
+112,Alignment of Verbal Person Marking,,Simple Clauses
+113,Expression of Pronominal Subjects,,Simple Clauses
+114,Verbal Person Marking,,Simple Clauses
+115,Third Person Zero of Verbal Person Marking,,Simple Clauses
+116,Order of Person Markers on the Verb,,Simple Clauses
+117,Ditransitive Constructions: The Verb 'Give',,Simple Clauses
+118,Reciprocal Constructions,,Simple Clauses
+119,Passive Constructions,,Simple Clauses
+120,Antipassive Constructions,,Simple Clauses
+121,Productivity of the Antipassive Construction,,Simple Clauses
+122,Applicative Constructions,,Simple Clauses
+123,Other Roles of Applied Objects,,Simple Clauses
+124,Periphrastic Causative Constructions,,Simple Clauses
+125,Nonperiphrastic Causative Constructions,,Simple Clauses
+126,Negative Morphemes,,Simple Clauses
+127,Symmetric and Asymmetric Standard Negation,,Simple Clauses
+128,Subtypes of Asymmetric Standard Negation,,Simple Clauses
+129,Negative Indefinite Pronouns and Predicate Negation,,Simple Clauses
+130,Polar Questions,,Simple Clauses
+131,Predicative Possession,,Simple Clauses
+132,Predicative Adjectives,,Simple Clauses
+133,Nominal and Locational Predication,,Simple Clauses
+134,Zero Copula for Predicate Nominals,,Simple Clauses
+135,Comparative Constructions,,Simple Clauses
+136,Relativization on Subjects,,Complex Sentences
+137,Relativization on Obliques,,Complex Sentences
+138,'Want' Complement Subjects,,Complex Sentences
+139,Purpose Clauses,,Complex Sentences
+140,'When' Clauses,,Complex Sentences
+141,Reason Clauses,,Complex Sentences
+142,Utterance Complement Clauses,,Complex Sentences
+143,Hand and Arm,,Lexicon
+144,Finger and Hand,,Lexicon
+145,Cultural Categories of Languages with Identity of 'Finger' and 'Hand',,Lexicon
+146,Numeral Bases,,Lexicon
+147,Number of Non-Derived Basic Colour Categories,,Lexicon
+148,Number of Basic Colour Categories,,Lexicon
+149,Green and Blue,,Lexicon
+150,Red and Yellow,,Lexicon
+151,M-T Pronouns,,Lexicon
+152,M in First Person Singular,,Lexicon
+153,N-M Pronouns,,Lexicon
+154,M in Second Person Singular,,Lexicon
+155,Tea,,Lexicon
+156,Irregular Negatives in Sign Languages,,Sign Languages
+157,Question Particles in Sign Languages,,Sign Languages
+158,Writing Systems,,Other
+159,Para-Linguistic Usages of Clicks,,Other
+160,Order of Negative Morpheme and Verb,,Word Order
+161,Obligatory Double Negation,,Word Order
+162,Optional Double Negation,,Word Order
+163,Optional Triple Negation,,Word Order
+164,Preverbal Negative Morphemes,,Word Order
+165,Postverbal Negative Morphemes,,Word Order
+166,Minor morphological means of signaling negation,,Word Order
+167,"Position of Negative Word With Respect to Subject, Object, and Verb",,Word Order
+168,Position of negative words relative to beginning and end of clause and with respect to adjacency to verb,,Word Order
+169,Languages with different word order in negative clauses,,Word Order
+170,The Position of Negative Morphemes in SVO Languages,,Word Order
+171,Multiple Negative Constructions in SVO Languages,,Word Order
+172,Obligatory Double Negation in SVO languages,,Word Order
+173,Optional Double Negation in SVO languages,,Word Order
+174,NegSVO Order,,Word Order
+175,SNegVO Order,,Word Order
+176,SVNegO Order,,Word Order
+177,SVONeg Order,,Word Order
+178,The Position of Negative Morphemes in SOV Languages,,Word Order
+179,Multiple Negative Constructions in SOV Languages,,Word Order
+180,Obligatory Double Negation in SOV languages,,Word Order
+181,Optional Double Negation in SOV languages,,Word Order
+182,NegSOV Order,,Word Order
+183,SNegOV Order,,Word Order
+184,SONegV Order,,Word Order
+185,SOVNeg Order,,Word Order
+186,The Position of Negative Morphemes in Verb-Initial Languages,,Word Order
+187,Double negation in verb-initial languages,,Word Order
+188,Verb-Initial with Preverbal Negative,,Word Order
+189,Verb-Initial with Negative that is Immediately Postverbal or between Subject and Object,,Word Order
+190,Verb-Initial with Clause-Final Negative,,Word Order
+191,The Position of Negative Morphemes in Object-Initial Languages,,Word Order

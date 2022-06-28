@@ -1,0 +1,28 @@
+,code,name
+0,DDV,Struktura DDV
+1,OS-SUM,Znesek osnov za DDV
+2,OS-ODB,- odbitni DDV
+3,OS-ODB-IZST,- izstopni DDV
+4,OS-ODB-IZST-0,Prodaja oproščena DDV
+5,OS-ODB-IZST-8.5,Prodaja po znižani stopnji DDV
+6,OS-ODB-IZST-20,Prodaja po osnovni stopnji DDV
+7,OS-ODB-VST,- vstopni DDV
+8,OS-ODB-VST-0,Nabave oproščene DDV
+9,OS-ODB-VST-8.5,Nabave po znižani stopnji DDV
+10,OS-ODB-VST-20,Nabave po osnovni stopnji DDV
+11,OS-NEODB,- neodbitni DDV
+12,OS-NEODB-VST,- vstopni DDV
+13,OS-NEODB-VST-8.5,Nabave po znižani stopnji DDV
+14,OS-NEODB-VST-20,Nabave po osnovni stopnji DDV
+15,ZN-SUM,Znesek DDV
+16,ZN-ODB,- odbitni DDV
+17,ZN-ODB-IZST,- izstopni DDV
+18,ZN-ODB-IZST-8.5,Izstopni DDV - znižana stopnja
+19,ZN-ODB-IZST-20,Izstopni DDV - osnovna stopnja
+20,ZN-ODB-VST,- vstopni DDV
+21,ZN-ODB-VST-8.5,Vstopni DDV - znižana stopnja
+22,ZN-ODB-VST-20,Vstopni DDV - osnovna stopnja
+23,ZN-NEODB,- neodbitni DDV
+24,ZN-NEODB-VST,- vstopni DDV
+25,ZN-NEODB-VST-8.5,Neodbitni DDV – znižana stopnja
+26,ZN-NEODB-VST-20,Neodbitni DDV – osnovna stopnja

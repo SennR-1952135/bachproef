@@ -1,0 +1,8 @@
+,name
+0,payment.mode
+1,payment.order
+2,payment.line
+3,account.journal payment
+4,account.invoice payment
+5,account.move.line payment
+6,payment.order manager

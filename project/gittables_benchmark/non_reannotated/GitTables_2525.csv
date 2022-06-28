@@ -1,0 +1,7 @@
+,name
+0,auditlog_rule_user
+1,auditlog_log_user
+2,auditlog_log_line_user
+3,auditlog_rule_manager
+4,auditlog_log_manager
+5,auditlog_log_line_manager

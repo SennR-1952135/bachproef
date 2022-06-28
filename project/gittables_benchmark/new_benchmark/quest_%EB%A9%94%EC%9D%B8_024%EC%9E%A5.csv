@@ -1,0 +1,273 @@
+,language,type,name,origin
+0,Japanese,synopsis,,死を司る星晶獣セレストは再び<span>[플레이어]</span>一行の前に立ちはだかる。その姿に一行は絶望しかけるが、セレストを倒す方法は確かにある、とドランクは口にする。
+1,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行は、</span><br><span class='scene-font-katari'>ついに姿を現した星晶獣セレストを</span><br><span class='scene-font-katari'>確かにその手で葬り去る。</span>
+2,Japanese,detail,,<span class='scene-font-katari'>しかし、死を司る幽霊船の星晶獣は、</span><br><span class='scene-font-katari'>何事もなかったかのように、</span><br><span class='scene-font-katari'>再び一同の前に立ちはだかるのだった。</span>
+3,Japanese,detail,セレスト,…………
+4,Japanese,detail,비,どうなってんだよいったい！<br>こいつはさっき、<br>オイラ達が倒したはずだぜ！？
+5,Japanese,detail,이오,まさに悪夢ね……<br>もしかして、何度倒しても甦るとか<br>言うんじゃないでしょーね！？
+6,Japanese,detail,フェリ,星晶獣セレストは死を奪う力を持つ……<br>まさかそれを使って……！？
+7,Japanese,detail,카타리나,そういうことなのか……？<br>だとすれば、<br>私達にはもう、為す術が……
+8,Japanese,detail,드랑크,いんやぁ！ 大丈夫！<br>こいつを倒す方法なら、<br>ちゃーんとあるよ！
+9,Japanese,detail,로제타,ふふ……頼もしいわね。<br>でもまずは、<br>寄って来ている魔物の相手をしないとね。
+10,Japanese,detail,로제타,さぁ、[플레이어]。<br>まだ諦めるには早いみたいだし、<br>油断せずにいくわよ！！
+11,Japanese,synopsis,,一行が倒したのはセレストの幽体であり、今度は本体を倒せば良いと語るドランクだが、やけにセレストに詳しいその様子に一行は疑念を抱く。しかし、<span>[플레이어]</span>の一声に、一行はドランクを信じることを決める。
+12,Japanese,detail,드랑크,つまりね？<br>あれはセレストの幽霊みたいなもんで、<br>本体を倒せば万事解決ってわけ！
+13,Japanese,detail,카타리나,その情報は確かなのか？<br>ずいぶんとこの星晶獣に関して、<br>詳しいようだが……
+14,Japanese,detail,드랑크,まぁ、信じる信じないは、<br>君達次第だよねぇ！
+15,Japanese,detail,드랑크,[플레이어]は、<br>どう思うんだい？
+16,Japanese,sel1_txt,,<span class='scene-font-katari'>ドランクを信じよう</span>
+17,Japanese,sel2_txt,,<span class='scene-font-katari'>いまはドランクに賭けるしかない</span>
+18,Japanese,detail,비,ここまできた以上、<br>もう信じるしかねーよな！
+19,Japanese,detail,비,ドランク！<br>頼むから期待を裏切るんじゃねーぜ！
+20,Japanese,detail,카타리나,確かにそれもあるな……<br>他に有効な手段も、<br>思い浮かびそうにない……
+21,Japanese,detail,비,ここまできたらやるしかねーよな！<br>ドランク！<br>頼むから期待を裏切らないでくれよ！
+22,Japanese,detail,드랑크,まっかせといてよねぇ～！<br>勉強家の名に恥じない活躍を<br>見せてあげちゃうからさぁ！
+23,Japanese,detail,이오,それならまずは、<br>他の魔物を蹴散らしちゃわないとね！<br>イオちゃんが一網打尽にしてあげる！
+24,Japanese,synopsis,,セレスト本体の居場所を探すのは自分に任せてほしい、と意気込むルリア。一行はスツルム、ドランクと共に群がる魔物達を倒しにかかる。
+25,Japanese,detail,로제타,だいぶ魔物も片付いてきたわね……<br>早くセレストの本体を、<br>探したいところだけど……
+26,Japanese,detail,루리아,星晶獣を探すのなら、<br>私に任せてください！
+27,Japanese,detail,루리아,セレストの本体なら、<br>きっと強い力を放ってるはずです！
+28,Japanese,detail,슈투름,適材適所……<br>魔物との戦闘はあたし達に任せろ。
+29,Japanese,detail,드랑크,おやおやぁ？<br>ついにスツルム殿も<br>やる気になって……痛ってぇ！？
+30,Japanese,detail,슈투름,中途半端が嫌いなだけだ……<br>やるぞ、[플레이어]。<br>邪魔する魔物は返り討ちだ……！！
+31,Japanese,synopsis,,霧に気配を紛れさせるセレストをなかなか見つけられないルリア。途方に暮れる一行の目の前でセレストはゾンビの魔物を食らい、力の回復を行う。村人の危機を察したフェリはひとり走り去ってしまう。
+32,Japanese,detail,루리아,ど、どうしよう、[플레이어]……<br>ごめんなさい……<br>セレストを探せそうにありません……
+33,Japanese,detail,비,なんだって！？<br>ど、どういうことだよ？
+34,Japanese,detail,루리아,霧に紛れて、<br>気配が島中に広がってるんです……<br>これじゃ本体がどこにいるかなんて……
+35,Japanese,detail,카타리나,マズイな……<br>この霧では目視で探そうにも、<br>そう遠くまで探すことは出来ないぞ……
+36,Japanese,detail,セレスト,…………
+37,Japanese,detail,이오,ね、ねぇ、あいつなにしてるの！？<br>いま、もしかして……
+38,Japanese,detail,루리아,ゾンビの魔物を……食べてる。
+39,Japanese,detail,로제타,ゾンビや幽霊……<br>自分に近い存在を食べることで、<br>力の回復をするつもりなのかしら……
+40,Japanese,detail,비,おい、待てよ！<br>そうすっと、村の連中も<br>危ないんじゃねーか！？
+41,Japanese,detail,フェリ,……っ！！
+42,Japanese,detail,카타리나,あっ！ おい！ フェリ！<br>どこへ行くんだ！？ 危ないぞ！！
+43,Japanese,detail,이오,危ないのはこっちも一緒よ！<br>魔物が来てるわ！<br>油断してたら、やられちゃうわよ！
+44,Japanese,synopsis,,息を切らして戻ってきたフェリはセレストの捜索を快諾してくれた村人達を連れていた。頼もしい味方の存在に喜ぶ一行は、邪魔な魔物達を追い払う。
+45,Japanese,detail,フェリ,はぁ……はぁ……<br>ルリア！ [플레이어]！
+46,Japanese,detail,루리아,フェリちゃん！？<br>それに……！
+47,Japanese,detail,村人１,人手が必要なんだって？<br>任せてくれよ！
+48,Japanese,detail,村人２,話はフェリちゃんから聞いたわ。<br>私達にも手伝わせて頂戴。
+49,Japanese,detail,フェリ,村の人達を連れてきた……<br>これだけいれば目視で探しても、<br>島中をカバー出来るはず……！
+50,Japanese,detail,フェリ,ここは私達の島で……<br>あいつは私達の敵だ……！！<br>私達にも手伝わせてくれ！
+51,Japanese,detail,비,こいつぁ助かるぜ！<br>なぁ！ [플레이어]！
+52,Japanese,detail,카타리나,島を知り尽くしている住人達か……<br>これ以上頼もしい味方はいないな！
+53,Japanese,detail,비,よっしゃ！ となりゃあ、<br>オイラ達は邪魔な魔物を追っ払うぞ！<br>いこうぜ！ [플레이어]！
+54,Japanese,synopsis,,村人達の協力もあり、ついにセレストを発見する<span>[플레이어]</span>一行。星晶獣セレストと決着をつけるべく、一行は魔物を蹴散らしながらセレストの元へと向かう。
+55,Japanese,detail,마물,……！！ ……！！
+56,Japanese,detail,フェリ,うん……うん、そうか。<br>ありがとう。
+57,Japanese,detail,フェリ,ルリア！ [플레이어]！<br>向こうの崖のあたりで、<br>それらしい船が見つかった！
+58,Japanese,detail,카타리나,ついに見つかったか！<br>しかし、<br>すぐに赴くのは難しそうだ……
+59,Japanese,detail,마물,グオオオォォッ！！
+60,Japanese,detail,로제타,この子を片付けないと、<br>どうやらここは通れなさそうだものね。
+61,Japanese,detail,비,いつセレストが<br>村の奴らに危害を<br>加えるともわからねぇ……
+62,Japanese,detail,비,こんな奴、さっさと倒して、<br>先に進もうぜ！
+63,Japanese,synopsis,,セレストの元へと急ぐ<span>[플레이어]</span>一行。崖の影に隠れていたセレストを発見できたのは村人達のおかげだ、とフェリは話し、最後の決着に向け気を引き締める。
+64,Japanese,detail,이오,この先よね！<br>セレストの本体が居るっていうのは！
+65,Japanese,detail,フェリ,そうだ！<br>崖の影で隠れるようにしていたらしい。
+66,Japanese,detail,로제타,そんな場所、少人数で探してたら、<br>絶対に見つかりっこなかったわね。
+67,Japanese,detail,루리아,ふふふ……お手柄ですね！<br>フェリちゃん！
+68,Japanese,detail,フェリ,私の力じゃない……<br>村のみんなが協力してくれたから……<br>だから見つけることが出来た。
+69,Japanese,detail,フェリ,私ひとりの力じゃ、<br>きっと何も出来なかった……
+70,Japanese,detail,フェリ,それにまだ、<br>決着がついたわけじゃない。<br>油断は出来ないぞ。
+71,Japanese,detail,카타리나,その通りだな……<br>[플레이어]！<br>気を引き締めていくぞ！
+72,Japanese,synopsis,,ついにセレスト本体へとたどり着く<span>[플레이어]</span>一行。皆のおかげでここまで来ることが出来た、とフェリは礼を述べ、村の皆を解放するため、一行と共にセレストへと挑む。
+73,Japanese,detail,セレスト,…………
+74,Japanese,detail,비,こいつは間違いなく本体だよな……？<br>って、ドランクの奴、<br>またどっか行っちまったのか？
+75,Japanese,detail,카타리나,さぁな……<br>恐らく、自分達の役目は<br>既に全うしたと判断したんだろう。
+76,Japanese,detail,카타리나,今回は、<br>彼らの助けもあったからこそ、<br>ここまで来ることが出来たからな。
+77,Japanese,detail,フェリ,本当に……<br>私がずっと館に籠りきりじゃ、<br>きっとこの結末は得られなかった……
+78,Japanese,detail,フェリ,ありがとう、ルリア、[플레이어]。<br>改めて礼を言わせてほしい。
+79,Japanese,detail,루리아,ふふ……フェリちゃん、<br>お礼を言うのは、<br>全部が無事に終わってからです！
+80,Japanese,detail,이오,ふふんっ！<br>ま、このイオちゃんがいる時点で、<br>負けるなんてありえないけどねっ！
+81,Japanese,detail,로제타,ふふふ……<br>ようやくここまで来たんだもの、<br>ここで負けちゃ格好悪いわよね。
+82,Japanese,detail,비,ここでしっかり、<br>決着つけてやろうぜ！<br>なぁ！ [플레이어]！
+83,Japanese,detail,フェリ,[플레이어]……<br>私からも頼む……
+84,Japanese,detail,フェリ,どうか……どうかこの島に、<br>正しい秩序を取り返してくれ……！！
+85,Japanese,synopsis,,セレストを倒し村人達が消えていく中、何故かフェリだけが消えることなく残る。そのことに、自分にはまだやることがあるのだろう、とフェリは微笑む。そして別行動をとっていたドランクはスツルムに、この島を訪れた真の目的を明かすのだった。
+86,Japanese,detail,フェリ,これで……全てが終わったのか……
+87,Japanese,detail,루리아,星晶獣セレストの力……<br>確かに受け取りました。
+88,Japanese,detail,비,おっ！<br>霧が薄くなって、<br>光が差してきたな！
+89,Japanese,detail,,<span class='scene-font-katari'>それを合図とするかのように、</span><br><span class='scene-font-katari'>村人達は、ひとりまたひとりと、</span><br><span class='scene-font-katari'>その姿を砂に変えていく。</span>
+90,Japanese,detail,,<span class='scene-font-katari'>消えていく村人達は、</span><br><span class='scene-font-katari'>皆一様に明るく晴れやかな</span><br><span class='scene-font-katari'>笑顔を浮かべていた。</span>
+91,Japanese,detail,フェリ,じゃあ……私もそろそろだろ。
+92,Japanese,detail,루리아,うん……じゃあね、フェリちゃん。
+93,Japanese,detail,フェリ,短い間だったけど、<br>お前達には本当に世話になった……<br>悪いが私は先に向こうへ往っている……
+94,Japanese,detail,フェリ,何十年……何百年か後に再会したら、<br>その時には、<br>お前達の冒険の話を聞かせてくれ。
+95,Japanese,detail,루리아,はい……
+96,Japanese,detail,비,うぅ……<br>む、向こうでも元気でいろよな！
+97,Japanese,detail,,<span class='scene-font-katari'>フェリは[플레이어]達に別れを告げ、</span><br><span class='scene-font-katari'>ゆっくりと目を閉じ時を待つ。</span>
+98,Japanese,detail,,<span class='scene-font-katari'>しかし、いくら待とうとも、</span><br><span class='scene-font-katari'>フェリの身体が霞の中に</span><br><span class='scene-font-katari'>消えていくことはなかった。</span>
+99,Japanese,detail,비,おいおい、どうなってんだよ！？<br>さっきの感動の別れが、<br>台無しじゃねーか！？
+100,Japanese,detail,루리아,いいじゃないですかビィさん！<br>理由はどうあれ、<br>消えないで済んだんですから！
+101,Japanese,detail,카타리나,しかし、どういうことなんだ？<br>他に残っている村人などは、<br>居ないようだが……
+102,Japanese,detail,フェリ,いや……恐らく消えたのだ……<br>人を拒み続けた、名無しの幽霊が、な。
+103,Japanese,detail,フェリ,ここにいるのは、<br>新しい名前をもらった、新しい私だ。
+104,Japanese,detail,フェリ,きっとまだ私にはやることがある……<br>だから、消えることなく、<br>この世に残ったんだろう。
+105,Japanese,detail,루리아,ふふ……<br>そういうことなのかもしれませんね。
+106,Japanese,detail,루리아,フェリちゃんが、<br>ご家族と再会出来るのは、<br>もう少し先のことになりそうですね。
+107,Japanese,detail,フェリ,そうだな……<br>ただ、今回の件でいいものが見られた。
+108,Japanese,detail,フェリ,だから、家族との再会は、<br>もう少し先の楽しみにしとくさ。
+109,Japanese,detail,루리아,いいもの、ですか？
+110,Japanese,detail,フェリ,ふふふ……そうだ。<br>それが見られただけで、<br>いまの私には十分だ。
+111,Japanese,detail,슈투름,ドランク……<br>いい加減教えろ、<br>お前は何が目的だったんだ？
+112,Japanese,detail,슈투름,セレストにお宝なんてないのは、<br>最初から知っていたんだろう？
+113,Japanese,detail,드랑크,ん～、そぉだねぇ～<br>実を言うと僕さぁ、<br>大のお婆ちゃんっ子なんだよねぇ～
+114,Japanese,detail,슈투름,……はぁ？
+115,Japanese,detail,드랑크,僕のお婆ちゃんは<br>年中霧の立ち込める、<br>小さな島の出身でさぁ……
+116,Japanese,detail,드랑크,子供の頃は身体が弱くって、<br>治療のために、家族と離れて、<br>別の群島で暮らしてたんだよね。
+117,Japanese,detail,드랑크,それで治療が終わって、<br>故郷の島に帰ろうとしたんだけど……<br>何故だか島に近づけなかったんだって。
+118,Japanese,detail,슈투름,まさか……<br>その、お前のお婆様の<br>故郷の島って……
+119,Japanese,detail,드랑크,それ以来、最愛のお姉さんとも、<br>生き別れになっててさぁ。
+120,Japanese,detail,드랑크,いっつもお婆ちゃんは、<br>そのお姉さんのことを心配してたわけ。
+121,Japanese,detail,드랑크,子供の頃から聞いてた話だからさぁ。<br>一度でいいから、<br>会ってみたかったんだよね。
+122,Japanese,detail,슈투름,そうか……<br>そういう理由があったんだな。
+123,Japanese,detail,슈투름,それで……<br>実際に会ってみた感想はどうだ？
+124,Japanese,detail,드랑크,お婆ちゃんが言ってた通りの、<br>可愛い子だったねぇ～
+125,Japanese,detail,드랑크,出来ることなら……<br>お婆ちゃんと同じだけ歳を重ねた、<br>しわくちゃの姿が見たかったけどね。
+126,Japanese,detail,슈투름,それは……
+127,Japanese,detail,드랑크,さぁって！<br>湿っぽいお話はこれで終わり！
+128,Japanese,detail,드랑크,ねぇねぇ、スツルム殿、<br>次はどこへ行こうか？
+129,Japanese,detail,드랑크,アウギュステに行って、<br>バカンスなんていうのも、<br>悪くないかもねぇ～！
+130,Japanese,detail,슈투름,残念だが……それはお預けだ。<br>仕事の依頼が入っていたはずだぞ。
+131,Japanese,detail,드랑크,じゃあ、そのお仕事はすっぽかそう！<br>よし、決まり！<br>それじゃあ、さっそく……痛てッ！？
+132,Japanese,detail,슈투름,信用第一だ……あたし達の仕事はな。<br>ほら、もう行くぞ……
+133,Japanese,detail,드랑크,ああ、待って待ってスツルム殿！<br>置いてかないでぇ～！
+134,Japanese,detail,,<span class='scene-font-katari'>思わぬ出会いを得た[플레이어]一行は</span><br><span class='scene-font-katari'>グランサイファーを修理するため、</span><br><span class='scene-font-katari'>あらためてガロンゾを目指す。</span>
+135,Japanese,detail,,<span class='scene-font-katari'>[플레이어]一行の進む先には、</span><br><span class='scene-font-katari'>更なる出会いと事件が</span><br><span class='scene-font-katari'>待ち構えているのだった。</span>
+136,English,synopsis,,"Celeste rises again before [플레이어] and the others. They soon fall into despair, but Drang reassures them, saying they'll find a way to defeat it."
+137,English,detail,,"Celeste appears before [플레이어] and the others, though they're certain they'd just defeated it."
+138,English,detail,,"But this primal beast of death seems undeterred, rising to block their path once more."
+139,English,detail,Celeste,...
+140,English,detail,Vyrn,What's going on here? I thought we totally crushed that thing!
+141,English,detail,Io,"This is a nightmare... Does that mean that no matter how many times we defeat it, it'll just come back?"
+142,English,detail,Ferry,Celeste has the power to overrule death... Could it have used that power?
+143,English,detail,Katalina,"It looks like it has... In that case, there's no way for us to go up against it..."
+144,English,detail,Drang,Don't worry! It'll be just fine! We'll find a way to defeat it!
+145,English,detail,Rosetta,I like your attitude! But first we need to get rid of these monsters heading our way.
+146,English,detail,Rosetta,"Off we go, [플레이어]! Don't let your guard down because it's too soon to give up hope!"
+147,English,synopsis,,"Drang says that what they defeated was Celeste's ghost, and that they need to find the real Celeste. [플레이어] decides to trust Drang, changing the hearts of the doubtful crew."
+148,English,detail,Drang,"So... that thing back there was Celeste's ghost or something, but if we find and defeat the real one, then that should settle it!"
+149,English,detail,Katalina,"You seem to know a lot about this primal beast, but are you sure about this?"
+150,English,detail,Drang,It's up to you whether to believe me or not!
+151,English,detail,Drang,"What do you think, [플레이어]?"
+152,English,sel1_txt,,I believe you.
+153,English,sel2_txt,,We've got no choice but to trust you.
+154,English,detail,Vyrn,"Well, after coming this far, we've got no choice but to believe you!"
+155,English,detail,Vyrn,Drang! You better not let us down!
+156,English,detail,Katalina,Looks like it... I can't think of any better ideas right now.
+157,English,detail,Vyrn,"We've come this far, so we've gotta try it! Drang, you better not let us down!"
+158,English,detail,Drang,You can count on me! I'll show you how clever I really am!
+159,English,detail,Io,"That's nice and all, but we've got some monsters to take care of! I'll get them in one sweep!"
+160,English,synopsis,,"Lyria says she can help find the real Celeste. With Sturm and Drang fully on board with the plan, [플레이어] and the crew attack the swarm of monsters approaching."
+161,English,detail,Rosetta,We've fought through a lot of monsters now... I think we should start looking for the real Celeste.
+162,English,detail,Lyria,"If we're looking for a primal beast, then leave the search to me!"
+163,English,detail,Lyria,The real Celeste should be giving off a strong aura!
+164,English,detail,Sturm,Sounds like you're the right person for the job... So leave the monsters to us.
+165,English,detail,Drang,"Oh-ho-ho, what's this? Even Sturm is starting to get into the chase—ow!"
+166,English,detail,Sturm,"Look, it's either all in or nothing for me. So let's do it, [플레이어]. Let's get these monsters standing in our way!"
+167,English,synopsis,,"Lyria is unable to find any clear signs of Celeste because of the mist. Suddenly a ghostly Celeste appears and eats a zombie to regain power. Worried about the villagers, Ferry runs off on her own."
+168,English,detail,Lyria,"Oh no... I'm so sorry, [플레이어]. I don't think I can find Celeste..."
+169,English,detail,Vyrn,Say what! What does that mean?
+170,English,detail,Lyria,Its aura is spread all over the island because of the mist... I just can't find the real Celeste.
+171,English,detail,Katalina,Then we're in trouble. Searching with the naked eye is no good in this thick fog...
+172,English,detail,Celeste,...
+173,English,detail,Io,H-hey! What's it doing? Are my eyes fooling me?
+174,English,detail,Lyria,It's... eating a zombie!
+175,English,detail,Rosetta,Zombies and ghosts... Maybe it's trying to restore power by eating creatures like itself.
+176,English,detail,Vyrn,Hold on just a minute! Doesn't that mean the villagers are in danger?
+177,English,detail,Ferry,!
+178,English,detail,Katalina,Wait! Ferry! Where are you going? You'll be in danger!
+179,English,detail,Io,We're already in danger! Monsters are coming! And they'll get you if you're careless!
+180,English,synopsis,,"Ferry returns with villagers eager to help search for Celeste. Delighted by their arrival, [플레이어] and the others set about defeating the monsters in their way."
+181,English,detail,Ferry,<span class='scene-font-italic'>Pant... Pant...</span> Lyria! [플레이어]!
+182,English,detail,Lyria,It's Ferry! And look who else!
+183,English,detail,Villager 1,Need some help? Leave it to us!
+184,English,detail,Villager 2,Ferry told us everything. We want to help.
+185,English,detail,Ferry,"I brought the villagers. If we have to search, then together we should be able to cover the entire island!"
+186,English,detail,Ferry,This is our island. And that's our enemy. We won't just sit around!
+187,English,detail,Vyrn,"Well that's a big help! Right, [플레이어]?"
+188,English,detail,Katalina,I can't think of better allies than the very people who know this island by heart.
+189,English,detail,Vyrn,"All right! Let's get rid of these annoying monsters and be on our way! Come on, [플레이어]!"
+190,English,synopsis,,"[플레이어] and the others learn of Celeste's whereabouts. They set out to defeat her, battling monsters that cross their path along the way."
+191,English,detail,Monster,...!
+192,English,detail,Ferry,"Yes... Ah, I see. Thanks!"
+193,English,detail,Ferry,Lyria! [플레이어]! A ghost ship was spotted near that cliff in the distance!
+194,English,detail,Katalina,"We finally found it! However, it might be difficult to get there right away..."
+195,English,detail,Monster,Groarrr!
+196,English,detail,Rosetta,"It would seem that unless we do something about this little one, we can't pass through here."
+197,English,detail,Vyrn,And there's no telling when Celeste will drop the anchor on the villagers!
+198,English,detail,Vyrn,So let's pummel this thing and get going!
+199,English,synopsis,,"[플레이어] and the others hurry toward the cliff where Celeste is hiding. Ferry is grateful the villagers helped them find the primal beast, and is determined fight for them until the end."
+200,English,detail,Io,Right up ahead! That's where the real Celeste is!
+201,English,detail,Ferry,I see now! It was trying to hide in the shadow of the cliff.
+202,English,detail,Rosetta,It would've been impossible to find in a place like that without lots of people searching.
+203,English,detail,Lyria,"We did it all thanks to you, Ferry!"
+204,English,detail,Ferry,It's not me but the villagers you should be thanking. They're the reason we could find her.
+205,English,detail,Ferry,Surely nothing would've been accomplished if I'd acted alone...
+206,English,detail,Ferry,But it's not over yet! We have to stay sharp.
+207,English,detail,Katalina,"I'm with you on this one. [플레이어], time to focus!"
+208,English,synopsis,,"[플레이어] and the crew find the real Celeste, but Sturm and Drang have disappeared again. Ferry thanks [플레이어] and makes one last wish that order be restored to the island."
+209,English,detail,Celeste,...
+210,English,detail,Vyrn,"That's the real Celeste, all right... Whoa! Did Sturm and Drang wander off somewhere again?"
+211,English,detail,Katalina,Who knows? Maybe they decided they'd fulfilled their obligations.
+212,English,detail,Katalina,"After all, those two played a great deal in getting us this far."
+213,English,detail,Ferry,We certainly couldn't have pulled this off if I'd stayed shut in the mansion...
+214,English,detail,Ferry,"Thank you, Lyria and [플레이어]. I'm very grateful for what you've done."
+215,English,detail,Lyria,"Oh, Ferry... Save your thanks until we actually get all this taken care of!"
+216,English,detail,Io,"Ha! As long as I'm around, there's no way we can lose!"
+217,English,detail,Rosetta,It would be a real shame if we came this far only to be beaten.
+218,English,detail,Vyrn,"So we're gonna settle this once and for all! Right, [플레이어]?"
+219,English,detail,Ferry,"I'll make one last wish, [플레이어]..."
+220,English,detail,Ferry,Please... Restore order to this island!
+221,English,synopsis,,"Celeste is defeated and the villagers disappear. But Ferry remains, saying that she still has a part to play in this world. Drang reveals to Sturm his true purpose for coming to the island."
+222,English,detail,Ferry,Is it... all over now?
+223,English,detail,Lyria,I've absorbed Celeste's power...
+224,English,detail,Vyrn,Look! The mist has faded and sunlight is breaking through!
+225,English,detail,,"In the next moment, the villagers turn to sand."
+226,English,detail,,"But a bright, beaming smile can be seen on each of their faces as they disappear."
+227,English,detail,Ferry,Well... I guess it's my turn soon.
+228,English,detail,Lyria,"Yeah... It was nice meeting you, Ferry."
+229,English,detail,Ferry,"We were together only a short time, but you helped me so much. Now... I must go somewhere far away..."
+230,English,detail,Ferry,"If we should meet again decades or centuries from now, I'd love to hear of all your adventures."
+231,English,detail,Lyria,Okay...
+232,English,detail,Vyrn,Y-you... take care of yourself over there...
+233,English,detail,,"After saying her goodbyes, Ferry closes her eyes and waits quietly to fade."
+234,English,detail,,But some time passes and Ferry has yet to disappear.
+235,English,detail,Vyrn,"Hey, what's going on? All our weepy goodbyes were for nothin'!"
+236,English,detail,Lyria,"No need to fuss, Vyrn! As long as she's still here, who cares why?"
+237,English,detail,Katalina,"But still, what does it all mean? There don't seem to be any people still around..."
+238,English,detail,Ferry,No... She's gone for sure. That nameless ghost who shut her heart from others...
+239,English,detail,Ferry,Here stands a new me with a new name.
+240,English,detail,Ferry,I still have a part to play. So I remain here in this world and I'm not going away.
+241,English,detail,Lyria,That sounds like reason enough to me!
+242,English,detail,Lyria,I guess you're going to have to wait a little while longer before you can reunite with your family though.
+243,English,detail,Ferry,"Yeah... But through all this, I discovered something wonderful."
+244,English,detail,Ferry,So a reunion with my family will keep being something to look forward to in the future.
+245,English,detail,Lyria,Wait... You discovered something wonderful?
+246,English,detail,Ferry,That's right. And that discovery was just what I needed!
+247,English,detail,Sturm,"Drang, just tell me already... What were you trying to achieve back there?"
+248,English,detail,Sturm,"You knew from the beginning that Celeste had no treasure, right?"
+249,English,detail,Drang,"All right, I'll come clean... You see, I've always had a soft spot for my granny."
+250,English,detail,Sturm,Excuse me?
+251,English,detail,Drang,And she came from a small island that was enshrouded by mist all year round...
+252,English,detail,Drang,"But she was sickly as a child, so she left her family to get treatment. Moved to a whole other island..."
+253,English,detail,Drang,"She tried returning to her home once she was well, but somehow... she couldn't get near the island."
+254,English,detail,Sturm,You're kidding me... Her misty-island homeland was...
+255,English,detail,Drang,"She'd been living apart from her dear big sister the whole time, you see."
+256,English,detail,Drang,So Granny was always worried about her.
+257,English,detail,Drang,"When I was a kid, she'd tell me all about her big sister. And I always wanted to meet her, if only once."
+258,English,detail,Sturm,I see... So that's why you came.
+259,English,detail,Sturm,Well? How do you feel now you've met her?
+260,English,detail,Drang,She's as adorable as Granny said!
+261,English,detail,Drang,But If I could... I would've liked to have seen an old biddy... All wrinkly like Granny.
+262,English,detail,Sturm,Well...
+263,English,detail,Drang,All right! That's enough of the sob stories!
+264,English,detail,Drang,"So, Sturm, where are we off to next?"
+265,English,detail,Drang,It wouldn't hurt to go to Auguste for a vacation!
+266,English,detail,Sturm,Too bad. That's going to have to wait since we've got another mission.
+267,English,detail,Drang,"Oh, we'll just blow it off! Good, that settles it! Let's hit the beach and—ow!"
+268,English,detail,Sturm,"In our line of work, trust is paramount. Now, come on..."
+269,English,detail,Drang,"Wait, Sturm! Wait! Don't leave me here!"
+270,English,detail,,[플레이어] and the crew set off again for Golonzo to have the Grandcypher repaired.
+271,English,detail,,"But on that island, a more curious encounter awaits them."

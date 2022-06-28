@@ -1,0 +1,138 @@
+,year,country,city
+0,2015,United States,New York
+1,2015,United Kingdom,Cambridge
+2,2015,Netherlands,Amsterdam
+3,2015,United Kingdom,Edinburgh
+4,2015,Germany,Heidelberg
+5,2015,Austria,Vienna
+6,2015,United States,"Washington, D.C."
+7,2014,Germany;United States;Germany,Berlin;Boston;Heidelberg
+8,2014,Japan;Japan,Kawaguchi;Kyoto
+9,2014,Germany,Potsdam
+10,2014,United Kingdom,Cambridge
+11,2014,United States,New York
+12,2014,Germany;Germany,Potsdam;Aachen
+13,2014,Spain,Madrid
+14,2014,Japan,Niigata
+15,2014,India;India,Mumbai;Guntur
+16,2014,United States,East Lansing
+17,2014,United Kingdom,Cambridge
+18,2014,United Kingdom,Cambridge
+19,2014,Czech Republic,Prague
+20,2014,United States,Los Angeles
+21,2014,Netherlands,Amsterdam
+22,2014,United States,St. Louis
+23,2014,United States,Los Angeles
+24,2014,China,Beijing
+25,2013,Spain;United Kingdom,Sevilla;Brighton
+26,2013,France,Jouy-en-Josas
+27,2013,United States,Stanford
+28,2013,France;United States;France;France,"Marseille;Washington, D.C.;Paris;Saint Paul lez Durance"
+29,2013,United States,Seattle
+30,2013,Australia,Brisbane
+31,2013,United States,Minneapolis
+32,2013,,
+33,2013,United States,St. Louis
+34,2013,United States,Seattle
+35,2013,United States,Cold Spring Harbor
+36,2012,France;France;France,Saint Martin d'Heres;Grenoble;Paris
+37,2012,Japan,Mishima
+38,2012,Italy,Pisa
+39,2012,Japan;Japan,Tokyo;Tokyo
+40,2012,United States,Ames
+41,2012,United States,Los Angeles
+42,2012,Italy,Verona
+43,2012,United States,New Haven
+44,2012,United States,St. Louis
+45,2012,United States,Los Angeles
+46,2011,Australia,Brisbane
+47,2011,United States,Chapel Hill
+48,2011,Japan,Tokyo
+49,2011,Portugal,Oeiras
+50,2011,United States,Los Angeles
+51,2011,United States,Nashville
+52,2011,United States,New York
+53,2011,United States,Los Angeles
+54,2011,United States;United States,Berkeley;Albany
+55,2010,United States,San Diego
+56,2010,United States,New Haven
+57,2010,United States,Worcester
+58,2010,United States,"Washington, D.C."
+59,2010,United States,"Washington, D.C."
+60,2010,Canada,Burnaby
+61,2010,United States,San Diego
+62,2010,France;France,Paris;Paris
+63,2010,France;France,Evry;Rennes
+64,2010,Japan,Nagoya
+65,2009,United States,Worcester
+66,2009,Norway,Oslo
+67,2009,United States,St. Louis
+68,2009,Canada,Montreal
+69,2009,Germany,Freiburg im Breisgau
+70,2009,United States,Berkeley
+71,2009,Mexico;Germany,Texcoco;Potsdam
+72,2009,Japan;Japan,Okayama;Kyoto
+73,2009,Spain,Sevilla
+74,2009,Sweden,Stockholm
+75,2009,United States,Philadelphia
+76,2008,United States,Columbia
+77,2008,United States;United States,Davis;Houston
+78,2008,United States;United States,San Diego;San Diego
+79,2008,China,Beijing
+80,2008,United Kingdom,Leicester
+81,2008,Japan,Nagoya
+82,2008,United States;United States,San Diego;Piscataway
+83,2008,France;Italy,Marseille;Verona
+84,2007,United States,Philadelphia
+85,2007,United States,Los Angeles
+86,2007,,
+87,2007,United States,New Haven
+88,2007,United States,New Haven
+89,2006,United States,San Diego
+90,2006,United States,Birmingham
+91,2006,Australia;France,Melbourne;Paris
+92,2006,Canada,Saskatoon
+93,2005,United States,San Diego
+94,2005,Germany,Jena
+95,2005,United Kingdom,Edinburgh
+96,2005,United States,Worcester
+97,2005,United States,San Francisco
+98,2005,United States,San Diego
+99,2005,Japan,Nagoya
+100,2005,Belgium;France,Ghent;Paris
+101,2004,United States,Berkeley
+102,2004,Canada;Canada,Toronto;Toronto
+103,2004,Netherlands,Amsterdam
+104,2004,Germany,Potsdam
+105,2004,United States,"Washington, D.C."
+106,2004,Japan,Wako
+107,2003,Japan;United States,Nagasaki;San Diego
+108,2003,France,Saint Paul lez Durance
+109,2003,China,Beijing
+110,2003,United States,Rockville
+111,2002,Sweden,Stockholm
+112,2002,United States,Austin
+113,2002,France,Paris
+114,2001,Germany,Darmstadt
+115,2001,United States,St. Louis
+116,2001,United States,Durham
+117,2001,United States,Seattle
+118,2000,United States,New York
+119,1999,Austria;Germany,Vienna;Dresden
+120,1998,United States,Houston
+121,1998,United States,Los Angeles
+122,1996,United States;United States,Boston;Austin
+123,1995,Germany,Erlangen
+124,1994,United States,Austin
+125,1994,United States,Houston
+126,1993,United States;Spain,Cambridge;Valencia
+127,1991,Canada,Guelph
+128,1988,Netherlands,Amsterdam
+129,1986,Switzerland,Geneva
+130,1986,United States,Tampa
+131,1979,Norway,Bergen
+132,1977,United States,San Diego
+133,1977,United States,Chicago
+134,1974,United States,Boulder
+135,1970,United States,Cambridge
+136,1968,,

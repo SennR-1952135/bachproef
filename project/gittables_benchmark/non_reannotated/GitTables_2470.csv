@@ -1,0 +1,43 @@
+,notes
+0,not in grammar
+1,ID
+2,OPTIONAL_ID
+3,
+4,
+5,
+6,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,SAMPLER_IMAGE_FORMAT
+22,returned as result value only
+23,returned as result value only
+24,used to make a spec section
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,"it's an ID, not in grammar"
+36,"should be on opstore, but hacked in opcode.cpp"
+37,"it's an ID, not in grammar"
+38,
+39,"it's an ID, not in grammar"
+40,"it's an ID, not in grammar"
+41,

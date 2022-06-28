@@ -1,0 +1,40 @@
+,year,country,city
+0,2000,United Kingdom,London
+1,2000,United States,Stanford
+2,2000,United States,Beverly
+3,2000,Italy,Rome
+4,1999,United States,Boston
+5,1999,Germany,Munich
+6,1999,United States,Cambridge
+7,1999,United States,Boston
+8,1999,Netherlands,Amsterdam
+9,1999,United States;United States,New York;New York
+10,1999,,
+11,1999,United States,Dallas
+12,1999,United States,Research Triangle Park
+13,1999,Netherlands,Leiden
+14,1998,United States,Stanford
+15,1998,United States;United States;United States,Cambridge;Boston;Cambridge
+16,1998,United States,San Francisco
+17,1998,Japan,Sapporo
+18,1998,United States,Piscataway
+19,1998,United States,Boston
+20,1998,United States,Stanford
+21,1998,United States,Stanford
+22,1997,United States,Waltham
+23,1997,United States,Stanford
+24,1996,United States,Houston
+25,1995,United States,Chapel Hill
+26,1995,United States,Boston
+27,1995,United States,Galveston
+28,1995,United States,Cambridge
+29,1993,United States,Nashville
+30,1993,United States;Canada,Boston;Saskatoon
+31,1993,United States,Stony Brook
+32,1991,United States,Boston
+33,1991,France,Saint-Aubin
+34,1990,Italy;France,Rome;Gif-sur-Yvette
+35,1990,United States,Boston
+36,1989,United States,Seattle
+37,1988,United States,Seattle
+38,1988,United States,San Diego

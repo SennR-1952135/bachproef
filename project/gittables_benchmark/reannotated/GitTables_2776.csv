@@ -1,0 +1,10 @@
+,name
+0,operations.operation.code
+1,operations.operation.code.manager
+2,operations.operation
+3,operations.operation.manager
+4,mrp_production_user
+5,mrp_production_manager
+6,mrp.production.workcenter.line
+7,mrp.production.workcenter.line.manager
+8,mrp.workorder.manager

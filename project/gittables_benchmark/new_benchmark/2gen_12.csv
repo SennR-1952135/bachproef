@@ -1,0 +1,56 @@
+,year,country,city
+0,2016,Japan;Japan,Suita;Fukuoka
+1,2016,China;United States,Guangzhou;Bethesda
+2,2016,United States;United States,Denver;Boulder
+3,2016,China,Taiyuan
+4,2016,United States,Atlanta
+5,2015,China,Taiyuan
+6,2015,United States,Cambridge
+7,2015,China,Beijing
+8,2015,United States,Atlanta
+9,2014,China,Beijing
+10,2014,United States,Boston
+11,2014,United States,Chapel Hill
+12,2014,Singapore;United States,Singapore City;Los Angeles
+13,2014,China,Beijing
+14,2014,Italy,Milan
+15,2014,United Kingdom,Manchester
+16,2013,United States,Cambridge
+17,2013,United States,Boston
+18,2013,United States;United States,Boston;Cambridge
+19,2013,United States;United States,New York;Houston
+20,2013,United States,Chapel Hill
+21,2013,United States,Chicago
+22,2013,United States,Cambridge
+23,2013,United Kingdom,London
+24,2012,United States;United States,Boston;Cambridge
+25,2012,United States;United States,Boston;Cambridge
+26,2012,Portugal,Porto
+27,2012,Japan,Sendai
+28,2012,United States,Houston
+29,2012,South Korea,Seoul
+30,2012,United States;United States,Cambridge;Cambridge
+31,2012,United States,New York
+32,2012,United States,Rochester
+33,2012,United States,Ann Arbor
+34,2012,Germany;United States,Munich;New York
+35,2011,United States,Cambridge
+36,2011,United States,Boston
+37,2011,United States;United States,Boston;Cambridge
+38,2011,Japan;Japan,Chuo-ku;Chuo-ku
+39,2010,United States,Chapel Hill
+40,2010,South Korea,Seoul
+41,2010,United States,Cleveland
+42,2010,Japan;Japan,Kawaguchi;Tokyo
+43,2009,United States,New York
+44,2009,United States;United States;United States,Boston;Boston;Cambridge
+45,2009,United States,Los Angeles
+46,2009,United States,St. Louis
+47,2009,United States,Bethesda
+48,2009,Japan,Tokyo
+49,2008,United States;United States;United States,Boston;Boston;Cambridge
+50,2008,United States;United States,Research Triangle Park;Bethesda
+51,2007,Germany,Munich
+52,2006,United States;United States,Nashville;Nashville
+53,2006,United Kingdom,Leicester
+54,1999,United States,Bethesda

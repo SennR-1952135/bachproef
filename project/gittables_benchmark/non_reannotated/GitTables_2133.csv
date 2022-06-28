@@ -1,0 +1,28 @@
+,name
+0,Taxon.group
+1,Consumer.identity
+2,Citation
+3,Survey ID
+4,SpaceTime.replicate
+5,Survey.population.split
+6,Subpopulation type
+7,Empty.stomachs.count
+8,Total.stomachs.count
+9,Percent.feeding.given
+10,Diet.richness.minimum
+11,Diet.resolution.finest
+12,Time.averaging
+13,Space.averaging
+14,Ecosystem
+15,Feeding.data.type
+16,Rate.limiting.step
+17,Latitude
+18,Temperature
+19,Handling.times.available
+20,Abundances.available
+21,Year
+22,Month
+23,Day
+24,Hour
+25,Second
+26,Notes

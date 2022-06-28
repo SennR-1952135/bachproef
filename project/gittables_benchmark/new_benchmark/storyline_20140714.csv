@@ -1,0 +1,112 @@
+,type,name,duration
+0,place,Laura's Home,39607
+1,move,walking,4308
+2,place,Ceiba,2841
+3,move,walking,440
+4,place,NTN24,14468
+5,move,bus,1896
+6,move,walking,220
+7,place,Safeway,1488
+8,move,bus,184
+9,move,walking,542
+10,place,Laura's Home,20409
+11,place,Laura's Home,28942
+12,move,walking,317
+13,place,"WMATA Bus Stop #1001805 (31, 32, 36)",572
+14,move,transport,1503
+15,move,walking,394
+16,place,Starbucks,9321
+17,move,walking,823
+18,place,Eat at National Place,269
+19,move,walking,806
+20,place,NTN24,4408
+21,move,walking,831
+22,place,NTN24,16115
+23,move,transport,2108
+24,move,walking,486
+25,place,Laura's Home,19505
+26,place,Laura's Home,29379
+27,move,walking,503
+28,place,Whole Foods Market,533
+29,move,walking,674
+30,place,Laura's Home,12783
+31,move,walking,366
+32,move,bus,1742
+33,move,walking,242
+34,place,NTN24,499
+35,move,walking,460
+36,place,The Willard Intercontinental,2531
+37,move,walking,500
+38,place,NTN24,16350
+39,move,walking,438
+40,place,Ceiba,1769
+41,move,walking,280
+42,place,"WMATA Bus Stop #1001060 (11Y, 32, 36)",653
+43,move,bus,1450
+44,move,walking,391
+45,place,Laura's Home,4905
+46,place,Laura's Home,8716
+47,place,Laura's Home,29872
+48,move,walking,454
+49,move,transport,1711
+50,move,walking,430
+51,place,NTN24,381
+52,move,walking,151
+53,place,Starbucks,7802
+54,move,walking,976
+55,place,Noodles On 11,3445
+56,move,walking,496
+57,place,NTN24,562
+58,move,walking,868
+59,place,Hamilton Crowne Plaza,5542
+60,move,walking,400
+61,place,Starbucks,11937
+62,move,walking,375
+63,place,A-1 Wines & Liquors,471
+64,move,walking,241
+65,place,"NTN24-Washington, DC",19358
+66,move,car,848
+67,place,Laura's Home,82
+68,place,Laura's Home,36484
+69,move,walking,2146
+70,place,Starbucks,6028
+71,move,bus,464
+72,place,Place in West End,237
+73,move,walking,424
+74,move,underground,420
+75,move,walking,575
+76,place,Eat at National Place,2505
+77,move,walking,579
+78,place,Starbucks,3802
+79,move,walking,1498
+80,place,Starbucks,371
+81,move,walking,215
+82,place,"NTN24-Washington, DC",15365
+83,move,bus,1709
+84,move,walking,360
+85,place,Laura's Home,13218
+86,place,Laura's Home,52361
+87,move,walking,2184
+88,place,DSW,918
+89,move,walking,254
+90,place,CB2,710
+91,move,walking,980
+92,place,Sequoia,11457
+93,move,walking,846
+94,move,car,731
+95,place,Laura's Home,15959
+96,place,Laura's Home,41958
+97,move,walking,523
+98,place,Slate Wine Bar,3149
+99,move,walking,172
+100,place,CVS/pharmacy,985
+101,move,walking,554
+102,place,Georgetown Flea Market,947
+103,move,walking,289
+104,place,Shanghai Lounge,3763
+105,move,walking,226
+106,place,Safeway,4198
+107,move,walking,1301
+108,place,Laura's Home,3120
+109,move,walking,1107
+110,place,Laura's Home,24108

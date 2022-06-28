@@ -1,0 +1,216 @@
+,symbol,name,industry
+0,WTI,"W&T Offshore, Inc.",Oil & Gas Production
+1,WPC,W.P. Carey Inc.,Real Estate Investment Trusts
+2,WRB,W.R. Berkley Corporation,Property-Casualty Insurers
+3,WRB^B,W.R. Berkley Corporation,
+4,WRB^C,W.R. Berkley Corporation,
+5,GRA,W.R. Grace & Co.,Major Chemicals
+6,GWW,"W.W. Grainger, Inc.",Office Equipment/Supplies/Services
+7,WNC,Wabash National Corporation,Construction/Ag Equipment/Trucks
+8,WBC,Wabco Holdings Inc.,Auto Manufacturing
+9,WDR,"Waddell & Reed Financial, Inc.",Investment Bankers/Brokers/Service
+10,WGBS,"WaferGen Bio-systems, Inc.",Biotechnology: Laboratory Analytical Instruments
+11,WAGE,"WageWorks, Inc.",Business Services
+12,WBA,"Walgreens Boots Alliance, Inc.",Medical/Nursing Services
+13,WD,"Walker & Dunlop, Inc.",Finance: Consumer Services
+14,WMT,"Wal-Mart Stores, Inc.",Department/Specialty Retail Stores
+15,DIS,Walt Disney Company (The),Television Services
+16,WAC,Walter Investment Management Corp.,Finance: Consumer Services
+17,WRES,"Warren Resources, Inc.",Oil & Gas Production
+18,WAFD,"Washington Federal, Inc.",Savings Institutions
+19,WAFDW,"Washington Federal, Inc.",Savings Institutions
+20,WRE,Washington Real Estate Investment Trust,
+21,WASH,"Washington Trust Bancorp, Inc.",Major Banks
+22,WFBI,WashingtonFirst Bankshares Inc,Major Banks
+23,WCN,"Waste Connections, Inc.",Environmental Services
+24,WM,"Waste Management, Inc.",Environmental Services
+25,WAT,Waters Corporation,Biotechnology: Laboratory Analytical Instruments
+26,WSBF,"Waterstone Financial, Inc.",Savings Institutions
+27,WSO.B,"Watsco, Inc.",
+28,WSO,"Watsco, Inc.",Industrial Machinery/Components
+29,WTS,"Watts Water Technologies, Inc.",Metal Fabrications
+30,WVE,WAVE Life Sciences Ltd.,Major Pharmaceuticals
+31,W,Wayfair Inc.,Catalog/Specialty Distribution
+32,WAYN,Wayne Savings Bancshares Inc.,Savings Institutions
+33,WSTG,"Wayside Technology Group, Inc.",Retail: Computer Software & Peripheral Equipment
+34,WCIC,"WCI Communities, Inc.",Homebuilding
+35,WDFC,WD-40 Company,Major Chemicals
+36,WFT,Weatherford International plc,Metal Fabrications
+37,FLAG,WeatherStorm Forensic Accounting Long Short ETF,
+38,WEB,"Web.com Group, Inc.",Computer Software: Prepackaged Software
+39,WBMD,WebMD Health Corp,Business Services
+40,WBS,Webster Financial Corporation,
+41,WBS^E,Webster Financial Corporation,
+42,WEC,"WEC Energy Group, Inc.",Power Generation
+43,WB,Weibo Corporation,"Computer Software: Programming, Data Processing"
+44,WTW,Weight Watchers International Inc,Other Consumer Services
+45,WRI,Weingarten Realty Investors,Real Estate Investment Trusts
+46,WMK,"Weis Markets, Inc.",Food Chains
+47,WCG,"WellCare Health Plans, Inc.",Medical Specialities
+48,WEBK,"Wellesley Bancorp, Inc.",Banks
+49,WFC,Wells Fargo & Company,Major Banks
+50,WFC.WS,Wells Fargo & Company,
+51,WFC^J,Wells Fargo & Company,
+52,WFC^L,Wells Fargo & Company,
+53,WFC^N,Wells Fargo & Company,
+54,WFC^O,Wells Fargo & Company,
+55,WFC^P,Wells Fargo & Company,
+56,WFC^Q,Wells Fargo & Company,
+57,WFC^R,Wells Fargo & Company,
+58,WFC^T,Wells Fargo & Company,
+59,WFC^V,Wells Fargo & Company,
+60,WFC^W,Wells Fargo & Company,
+61,WFE^A,Wells Fargo & Company,
+62,EOD,Wells Fargo Global Dividend Opportunity Fund,
+63,EAD,Wells Fargo Income Opportunities Fund,
+64,ERC,Wells Fargo Multi-Sector Income Fund,
+65,ERH,Wells Fargo Utilities and High Income Fund,
+66,HCN,Welltower Inc.,Real Estate Investment Trusts
+67,HCN^I,Welltower Inc.,
+68,HCN^J,Welltower Inc.,
+69,WEN,Wendy&#39;s Company (The),Restaurants
+70,WERN,"Werner Enterprises, Inc.",Trucking Freight/Courier Services
+71,WSBC,"WesBanco, Inc.",Major Banks
+72,WAIR,"Wesco Aircraft Holdings, Inc.",Wholesale Distributors
+73,WCC,"WESCO International, Inc.",Telecommunications Equipment
+74,WTBA,West Bancorporation,Major Banks
+75,WSTC,West Corporation,Business Services
+76,WMAR,"West Marine, Inc.",Automotive Aftermarket
+77,WST,"West Pharmaceutical Services, Inc.",Specialty Chemicals
+78,WABC,Westamerica Bancorporation,Major Banks
+79,WR,"Westar Energy, Inc.",Power Generation
+80,WBB,"Westbury Bancorp, Inc.",Major Banks
+81,WSTL,"Westell Technologies, Inc.",Telecommunications Equipment
+82,WAL,Western Alliance Bancorporation,Major Banks
+83,WEA,Western Asset Bond Fund,
+84,ESD,Western Asset Emerging Markets Debt Fund Inc,
+85,EMD,"Western Asset Emerging Markets Income Fund, Inc",
+86,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,
+87,EHI,Western Asset Global High Income Fund Inc,
+88,GDF,"Western Asset Global Partners Income Fund, Inc.",
+89,HIX,Western Asset High Income Fund II Inc.,
+90,HIO,"Western Asset High Income Opportunity Fund, Inc.",
+91,HYI,Western Asset High Yield Defined Opportunity Fund Inc.,
+92,SBI,Western Asset Intermediate Muni Fund Inc,
+93,IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,
+94,MHY,"Western Asset Managed High Income Fund, Inc.",
+95,MMU,"Western Asset Managed Municipals Fund, Inc.",
+96,WMC,Western Asset Mortgage Capital Corporation,Real Estate Investment Trusts
+97,DMO,Western Asset Mortgage Defined Opportunity Fund Inc,
+98,MTT,Western Asset Municipal Defined Opportunity Trust Inc,
+99,MHF,"Western Asset Municipal High Income Fund, Inc.",
+100,MNP,"Western Asset Municipal Partners Fund, Inc.",
+101,GFY,Western Asset Variable Rate Strategic Fund Inc.,
+102,SBW,Western Asset Worldwide Income Fund Inc.,
+103,WIW,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,
+104,WIA,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,
+105,WRN,Western Copper and Gold Corporation,Precious Metals
+106,WDC,Western Digital Corporation,Electronic Components
+107,WGP,"Western Gas Equity Partners, LP",Natural Gas Distribution
+108,WES,"Western Gas Partners, LP",Natural Gas Distribution
+109,WNRL,"Western Refining Logistics, LP",Natural Gas Distribution
+110,WNR,"Western Refining, Inc.",Integrated oil Companies
+111,WU,Western Union Company (The),Business Services
+112,WFD,"Westfield Financial, Inc.",Savings Institutions
+113,WAB,Westinghouse Air Brake Technologies Corporation,Railroads
+114,WLK,Westlake Chemical Corporation,Major Chemicals
+115,WLKP,Westlake Chemical Partners LP,Major Chemicals
+116,WLB,Westmoreland Coal Company,Coal Mining
+117,WMLP,"Westmoreland Resource Partners, LP",Coal Mining
+118,WBK,Westpac Banking Corporation,Commercial Banks
+119,WPRT,Westport Innovations Inc,Industrial Machinery/Components
+120,WRK,Westrock Company,Containers/Packaging
+121,WHG,Westwood Holdings Group Inc,Investment Managers
+122,WEX,WEX Inc.,Business Services
+123,WEYS,"Weyco Group, Inc.",Apparel
+124,WY,Weyerhaeuser Company,Real Estate Investment Trusts
+125,WY^A,Weyerhaeuser Company,
+126,WGL,WGL Holdings Inc,Oil/Gas Transmission
+127,WHLR,"Wheeler Real Estate Investment Trust, Inc.",Real Estate Investment Trusts
+128,WHLRP,"Wheeler Real Estate Investment Trust, Inc.",Real Estate Investment Trusts
+129,WHLRW,"Wheeler Real Estate Investment Trust, Inc.",Real Estate Investment Trusts
+130,WHR,Whirlpool Corporation,Consumer Electronics/Appliances
+131,WTM,"White Mountains Insurance Group, Ltd.",Property-Casualty Insurers
+132,WHF,"WhiteHorse Finance, Inc.",
+133,WHFBL,"WhiteHorse Finance, Inc.",
+134,WSR,Whitestone REIT,Real Estate Investment Trusts
+135,WWAV,Whitewave Foods Company (The),Packaged Foods
+136,WLL,Whiting Petroleum Corporation,Oil & Gas Production
+137,WFM,"Whole Foods Market, Inc.",Food Chains
+138,WYY,WidePoint Corporation,EDP Services
+139,WILN,Wi-Lan Inc,Multi-Sector Companies
+140,WHLM,"Wilhelmina International, Inc.",Professional Services
+141,WVVI,"Willamette Valley Vineyards, Inc.",Beverages (Production/Distribution)
+142,WVVIP,"Willamette Valley Vineyards, Inc.",Beverages (Production/Distribution)
+143,WG,"Willbros Group, Inc.",Oilfield Services/Equipment
+144,WLDN,"Willdan Group, Inc.",Military/Government/Technical
+145,WMB,"Williams Companies, Inc. (The)",Natural Gas Distribution
+146,WPZ,Williams Partners LP,Natural Gas Distribution
+147,WSM,"Williams-Sonoma, Inc.",Home Furnishings
+148,WLFC,Willis Lease Finance Corporation,Industrial Specialties
+149,WLTW,Willis Towers Watson Public Limited Company,Specialty Insurers
+150,WIBC,"Wilshire Bancorp, Inc.",Major Banks
+151,WIN,"Windstream Holdings, Inc.",Telecommunications Equipment
+152,WING,Wingstop Inc.,Restaurants
+153,WINA,Winmark Corporation,Other Specialty Stores
+154,WGO,"Winnebago Industries, Inc.",Homebuilding
+155,WINS,Wins Finance Holdings Inc.,Business Services
+156,FUR,Winthrop Realty Trust,Real Estate Investment Trusts
+157,WTFC,Wintrust Financial Corporation,Major Banks
+158,WTFCM,Wintrust Financial Corporation,Major Banks
+159,WTFCW,Wintrust Financial Corporation,Major Banks
+160,WIT,Wipro Limited,EDP Services
+161,WTT,"Wireless Telecom Group,  Inc.",Electrical Products
+162,AGND,WisdomTree Barclays U.S. Aggregate Bond Negative Duration Fund,
+163,AGZD,WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund,
+164,HYND,WisdomTree BofA Merrill Lynch High Yield Bond Negative Duratio,
+165,HYZD,WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fu,
+166,CXSE,WisdomTree China ex-State-Owned Enterprises Fund,
+167,EMCG,WisdomTree Emerging Markets Consumer Growth Fund,
+168,EMCB,WisdomTree Emerging Markets Corporate Bond Fund,
+169,DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,
+170,DXGE,WisdomTree Germany Hedged Equity Fund,
+171,WETF,"WisdomTree Investments, Inc.",Investment Bankers/Brokers/Service
+172,DXJS,WisdomTree Japan Hedged SmallCap Equity Fund,
+173,JGBB,WisdomTree Japan Interest Rate Strategy Fund,
+174,DXKW,WisdomTree Korea Hedged Equity Fund,
+175,GULF,WisdomTree Middle East Dividend Fund,
+176,CRDT,WisdomTree Strategic Corporate Bond Fund,
+177,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,
+178,DGRS,WisdomTree U.S. SmallCap Quality Dividend Growth Fund,
+179,DXPS,WisdomTree United Kingdom Hedged Equity Fund,
+180,UBND,WisdomTree Western Asset Unconstrained Bond Fund,
+181,WIX,Wix.com Ltd.,"Computer Software: Programming, Data Processing"
+182,WLRH,WL Ross Holding Corp.,Business Services
+183,WLRHU,WL Ross Holding Corp.,Business Services
+184,WLRHW,WL Ross Holding Corp.,Business Services
+185,WMIH,WMIH Corp.,Finance: Consumer Services
+186,WNS,WNS (Holdings) Limited,Business Services
+187,WBKC,"Wolverine Bancorp, Inc.",Banks
+188,WWW,"Wolverine World Wide, Inc.",Shoe Manufacturing
+189,WWD,"Woodward, Inc.",Industrial Machinery/Components
+190,WF,Woori Bank,Commercial Banks
+191,WDAY,"Workday, Inc.",EDP Services
+192,WKHS,"Workhorse Group, Inc.",Auto Manufacturing
+193,WK,Workiva Inc.,Computer Software: Prepackaged Software
+194,WRLD,World Acceptance Corporation,Finance: Consumer Services
+195,INT,World Fuel Services Corporation,Oil Refining/Marketing
+196,WPT,"World Point Terminals, LP",Oil Refining/Marketing
+197,WWE,"World Wrestling Entertainment, Inc.",Movies/Entertainment
+198,WOR,"Worthington Industries, Inc.",Steel/Iron Ore
+199,WOWO,Wowo Limited,EDP Services
+200,WPG,WP Glimcher Inc.,Real Estate Investment Trusts
+201,WPG^H,WP Glimcher Inc.,
+202,WPG^I,WP Glimcher Inc.,
+203,WPCS,WPCS International Incorporated,Telecommunications Equipment
+204,WPPGY,WPP plc,Advertising
+205,WPX,"WPX Energy, Inc.",Oil & Gas Production
+206,WPXP,"WPX Energy, Inc.",Oil & Gas Production
+207,WMGI,Wright Medical Group N.V.,Industrial Specialties
+208,WMGIZ,Wright Medical Group N.V.,Industrial Specialties
+209,WSFS,WSFS Financial Corporation,Major Banks
+210,WSFSL,WSFS Financial Corporation,Major Banks
+211,WSCI,WSI Industries Inc.,Industrial Machinery/Components
+212,WVFC,WVS Financial Corp.,Banks
+213,WYN,Wyndham Worldwide Corp,Hotels/Resorts
+214,WYNN,"Wynn Resorts, Limited",Hotels/Resorts

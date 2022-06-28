@@ -1,0 +1,683 @@
+,code,name,category
+0,4,Kadak Chai,23682
+1,5,Elaichi Chai,23682
+2,6,Adrak Chai,23682
+3,7,Masala Chai,23682
+4,8,Luang Chai,23682
+5,9,Cinnamon Chai,23682
+6,10,Chocolate Chai,23682
+7,11,Extra Adrak Flavor,23682
+8,12,Extra Elaichi Flavor,23682
+9,13,Green Tea,23687
+10,14,Earl Grey,23687
+11,15,Kesar Suleimani,23687
+12,16,Kashmiri Kahwa,23687
+13,17,Green Tea Lemon,23687
+14,18,Green Tea Honey,23687
+15,20,Morroccon Mint,23687
+16,21,Mango Ice Tea,23688
+17,22,Lemon Ice Tea,23688
+18,23,Peach Ice Tea,23688
+19,24,Orange Ice Tea,23688
+20,25,Egg Burger,23689
+21,26,Mr Fresher,23689
+22,27,BBQ,23689
+23,28,CK Tadka Burger,23689
+24,29,Tom Mayo,23689
+25,30,Egg Sandwich,23690
+26,31,CK Sandwich,23690
+27,32,Exotic Corn Mayo,23690
+28,33,Cheese Chutney,23690
+29,35,Veg Club,23690
+30,37,Exotic Mayo Sandwich,23690
+31,38,Desi Noodle,23702
+32,39,Burnt Garlic Maggi,23702
+33,40,Anda Noodle,23702
+34,41,Mexican Maggi,23702
+35,42,Italian Noodles,23702
+36,43,Banana Shake,23692
+37,44,Vanilla Shake,23692
+38,45,Chocolate Shake,23692
+39,46,Caramel Shake,23692
+40,47,CK Secret Shake,23692
+41,48,Mango Shake,23692
+42,49,Kiwi Mint Banana,23693
+43,50,Strawberry Smoothie,23693
+44,51,Berry Blast,23693
+45,52,Masala Lemonade,23694
+46,53,Passion Fruit Lemonade,23694
+47,54,Apple Mojito,23694
+48,55,Cucumber Mint Splash,23694
+49,56,Minty Melon,23694
+50,57,Mexican Bhel,23695
+51,58,Indori Upma,23695
+52,59,Vegetable Upma,23695
+53,60,Sprouts Raw,23695
+54,61,Sprouts Sauted,23695
+55,62,French Fries – Piri Piri,58896
+56,63,CK Cheesy Blast,23695
+57,64,Chilli Garlic Cheese Toast,23695
+58,65,Nachos with Dip,23695
+59,67,Half Fry,23696
+60,68,Full Fry,23696
+61,69,Masala Omlette,23696
+62,70,Egg Ghotala,23696
+63,71,White Sauce Pasta,23697
+64,72,CK Pasta,23697
+65,73,Veg Biryani,23698
+66,74,Anda Biryani,23698
+67,76,Indian Filter Kaapi,23685
+68,77,Indian Filter Kaapi Large,23685
+69,78,Sultan’s Kaapi,23685
+70,79,Cinammon Kaapi,23685
+71,80,Thandi Kaapi,23701
+72,81,Frappe,23701
+73,82,Vanilla Kaapi,23701
+74,83,CK Secret Kaapi,23701
+75,84,Chocolate Kaapi,23701
+76,85,Orange Slush,23700
+77,86,Mango Slush,23700
+78,87,Strawberry Slush,23700
+79,88,Kala Khatta Slush,23700
+80,89,Masala Doodh Hot,23699
+81,90,Masala Doodh Cold,23699
+82,91,Hot Chocolate Large,23699
+83,92,Thandi Gulabo,23699
+84,93,Water Bottle 500 ML,23703
+85,94,Water Bottle 1 Ltr,23703
+86,95,Extra Cheese Slice,23703
+87,96,Extra Cheese Grated,23703
+88,97,Extra Burger Bun,23703
+89,98,Extra IFC Decoaction,23703
+90,99,Extra Dip,23703
+91,100,Brownie Sundae,23703
+92,101,Chocolate Wallnut Brownie,23703
+93,102,Popping Bubbles,23703
+94,103,Vanilla Ice Cream Scoop,23703
+95,104,Chocolate Ice Cream Scoop,23703
+96,105,Extra Sev,23703
+97,106,Paneer Paties,23704
+98,107,Baked Samosa,23704
+99,108,Bana Ke,23703
+100,109,Corn Puff,23704
+101,110,Manchurian Puff,23704
+102,111,Classic Maggi,23702
+103,112,Vegetable Maggi,23702
+104,113,Spicy Garlic Maggi,23702
+105,114,Masala Nimbu Pani,23694
+106,115,Scrap Key,23703
+107,116,Nutella Bread Spread,23690
+108,117,Garlic Butter Bread Spread,23690
+109,119,Oreo Shake,23692
+110,120,Mango Smoothie,23693
+111,121,CK Nimbu Pani,23694
+112,118,Honey Chilli Potato,23695
+113,122,Americano,23685
+114,123,CK Cheesy Blast Fries,58896
+115,124,Irani Chai,23682
+116,125,Maska Bun,23704
+117,126,CK Cheesy Blast Omelette,23696
+118,127,Masala Oats,23695
+119,128,Vegetabe Oats,23695
+120,155,Adrak Chai Large,23682
+121,156,Kadak Chai Large,23682
+122,157,Elaichi Chai Large,23682
+123,158,Masala Chai Large,23682
+124,159,Laung Chai Large,23682
+125,160,Cinnamon Chai Large,23682
+126,161,Chocolate Chai Large,23682
+127,RM083,Burger bun,35541
+128,RM084,Plain Loaf,35541
+129,RM085,Bread Slice,35541
+130,RM086,Egg,35541
+131,RM087,M Fold paper,35541
+132,RM088,Toilet Roll,35541
+133,RM089,Tissue,35541
+134,RM090,Aluminium Foil,35541
+135,RM091,Kitchen Roll ( utility roll ),35541
+136,RM092,Glass Cleaner,35541
+137,RM093,Floor Cleaner,35541
+138,RM001,Chilli honey sauce,35541
+139,RM002,Chocolate Hot Fudge,35541
+140,RM003,Tomato ketchup,35541
+141,RM004,Mayonnaise,35541
+142,RM005,Salsa sauce,35541
+143,RM006,Gouda cheese,35541
+144,RM007,Makhani Spread,35541
+145,RM008,Chilli Cheese Blend,35541
+146,RM082,Plastic Fork,35541
+147,RM081,Pasta container lid,35541
+148,RM080,Disposal Plates Small,35541
+149,RM079,Disposal Plates Big,35541
+150,RM078,Straw,35541
+151,RM077,Stirrer,35541
+152,RM076,Plastic Spoon,35541
+153,RM075,Pasta container,35541
+154,RM074,Paper Cup 100 ml Tea,35541
+155,RM073,Krusher lid,35541
+156,RM072,Krusher Glass 350,35541
+157,RM071,Hand Gloves,35541
+158,RM070,Comfort Cap,35541
+159,RM069,Water Glass,35541
+160,RM068,Ice Cube,35541
+161,RM067,Kashmiri Kahwa Pouch,35541
+162,RM066,Orange Tea Mix,35541
+163,RM065,Peach Tea Mix,35541
+164,RM064,Lemon Tea Mix,35541
+165,RM063,Kesar spice drop,35541
+166,RM062,Nachos,35541
+167,cmb2,Nachos Lemonade Combo,40086
+168,cmb1,Upma Kaapi Combo,40086
+169,162,Choco & Esp Mousse,23699
+170,RM014,Water Melon,35541
+171,RM044,Garbage bag large,35541
+172,RM045,Chips,35541
+173,RM046,Sev Barik,35541
+174,RM047,Ghotala mix masala,35541
+175,RM048,Masala Lemonade Mix,35541
+176,RM049,Home Made Masala,35541
+177,RM050,Coffee,35541
+178,RM051,White Pasta Sauce Mix,35541
+179,RM015,Apple,35541
+180,RM016,Banana,35541
+181,RM017,Garlic clove,35541
+182,RM018,Lettuce,35541
+183,RM019,Mint leaves,35541
+184,RM021,Onion,35541
+185,RM022,Sprouts (mong & Moth),35541
+186,RM023,Tomato,35541
+187,RM024,Lemon,35541
+188,RM025,Adrak,35541
+189,RM026,Capsicum Green,35541
+190,RM027,Capsicum Red,35541
+191,RM028,Capsicum Yellow,35541
+192,RM029,Green Chilli,35541
+193,RM030,Corriander leafs,35541
+194,RM031,Cucumber,35541
+195,RM032,Curd,35541
+196,RM033,Water Bottle 1 Ltr,35541
+197,RM038,Pizza Paste Sauce,35541
+198,RM039,Pasta,35541
+199,RM040,Olive Oil,35541
+200,RM041,Paper bag Small,35541
+201,RM042,Paper Bag Large,35541
+202,RM043,Garbage Bag Small,35541
+203,RM052,White Pepper powder,35541
+204,RM053,Luang powder,35541
+205,RM054,Cinnamon powder,35541
+206,RM055,Black Pepper powder,35541
+207,RM056,Elaichi Powder,35541
+208,RM057,Tray Mate,35541
+209,RM058,Burger Wrapper,35541
+210,RM059,Leaflets,35541
+211,RM060,Tea,35541
+212,RM061,Nutmeg Powder,35541
+213,RM094,Duster,35541
+214,RM095,Toilet Cleaner,35541
+215,RM096,Broom,35541
+216,RM097,Dry Mope,35541
+217,RM098,Wet Mope,35541
+218,RM099,Wiper,35541
+219,RM100,Glass Wiper,35541
+220,RM101,Scrubber,35541
+221,RM102,Hard Broom,35541
+222,RM103,Sponge Wipe,35541
+223,RM109,Jeeravan,35541
+224,RM115,Salt,35541
+225,RM116,Upma,35541
+226,RM117,Honey,35541
+227,RM118,rice,35541
+228,RM119,Chai Masala,35541
+229,RM120,Chat Masala,35541
+230,RM121,Nutella,35541
+231,RM122,Sugar,35541
+232,RM123,Soya Oil,35541
+233,RM124,Chicken Masala,35541
+234,RM125,Black Salt,35541
+235,RM126,Oreo cookies,35541
+236,RM104,clean wrap.,35541
+237,RM105,hand wash,35541
+238,RM106,Dish Wash Soap,35541
+239,RM107,Room Freshner.,35541
+240,RM108,Sugar Free Sachet,35541
+241,RM135,Green apple syrup,35541
+242,RM136,Mint mojito syrup,35541
+243,RM137,Passion fruit syrup,35541
+244,RM139,Water Melon syrup,35541
+245,RM140,Caramel sauce,35541
+246,RM142,Water Bottle 500 ml,35541
+247,RM143,Magic masala,35541
+248,RM144,Noodles ( Maggi ),35541
+249,RM145,Garlic oregano,35541
+250,RM146,Chilli Flakes,35541
+251,RM147,Mango squash,35541
+252,RM127,Milk Masala,35541
+253,RM128,Roohafza,35541
+254,RM129,Cheese,35541
+255,RM130,Cheese Spread,35541
+256,RM132,Butter ,35541
+257,RM133,Cheese slice,35541
+258,RM134,Milk,35541
+259,RM155,Whipped cream,35541
+260,RM156,cooking cream,35541
+261,RM158,Earl Grey Sachet,35541
+262,RM159,Green Tea,35541
+263,RM160,green peas,35541
+264,RM161,Corn,35541
+265,RM162,Blueberry crush,35541
+266,RM165,C.K pasta Mix,35541
+267,164,Choco chip Loaf,35541
+268,RM166,Maggi masala,35541
+269,RM148,Kala Khatta squash,35541
+270,RM149,Orange squash,35541
+271,RM150,Kiwi Crush,35541
+272,RM151,Strawberry crush,35541
+273,RM152,Banana crush,35541
+274,RM153,Herb Chilli Patty,35541
+275,RM154,French Fries 6mm,35541
+276,RM181,Tomato ketchup Sachet,35541
+277,RM182,CC Roll,35541
+278,RM183,Printer Roll,35541
+279,RM184,Piri Piri Masala,35541
+280,RM169,Water,35541
+281,RM170,Green Chutney,35541
+282,RM171,Egg Mix,35541
+283,RM172,Noodles mix,35541
+284,RM010,Choco & Esp Mousse,35541
+285,RM173,Burnt Garlic Mix,35541
+286,RM174,Popping Bubbles,35541
+287,167,CK Brownie Blast,23692
+288,RM175,Amchur,35541
+289,RM179,Maggie masala ,35541
+290,RM180,White Sugar  Sachet,35541
+291,RM193,Red chilli powder,35541
+292,RM0185,Bun Maska,35541
+293,cmb3,White Pasta Combo,40086
+294,cmb4,CK Pasta Combo,40086
+295,RM185,Foil Box With Lid,35541
+296,RM186,Voucher Book,35541
+297,RM187,Biryani Mix,35541
+298,RM188,Masala Mix,35541
+299,rm205,Shake Base,35541
+300,75,Ghotala Biryani,23698
+301,RM189,Jeera Whole,35541
+302,RM190,kitchen king masala,35541
+303,RM191,Mutton Masala ,35541
+304,173,French fries - Salted,58896
+305,RM192,Garam masala,35541
+306,169,Extra Luang Flavor,23703
+307,RM176,Corn Puff,35541
+308,RM177,Baked Samosa,35541
+309,RM178,Paneer puff,35541
+310,170,Extra Masala Flavor,23703
+311,171,Extra Cinnamon Flavor,23703
+312,172,Extra Chocolate Flavor,23703
+313,rm202,Thandi Kaapi Base,35541
+314,rm203,Vanilla Ice Cream,35541
+315,RM197,Manchurian Puff,35541
+316,RM011,Black Forest,35541
+317,RM009,Choco chip loaf,35541
+318,165,Black Forest,23704
+319,RM221,Aromatic Mix,35541
+320,RM222,Chilli Garlic Spread,35541
+321,RM223,Pav,23704
+322,RM224,Paneer,35541
+323,226,Paneer Bhurji,45432
+324,227,Anda Bhurji,45432
+325,RM198,Lemon Juice,35541
+326,RM199,Salsa Sauce Mix,35541
+327,168,Extra Honey,23703
+328,rm200,Coffee Decoction,35541
+329,233,Punjabi Tadka Burger,23689
+330,234,Chilli Garlic Cheese,23690
+331,rm201,maska malai,35541
+332,236,Water Bottle 200 ML,35541
+333,del01,Delivery,35541
+334,rm211,Choco Wallnut Brownie,35541
+335,RM020,cheezy jalapeno,35541
+336,rm212,chai glass 100 ml,35541
+337,RM213,Chunky Glass,35541
+338,RM214,Sandwich Plates,35541
+339,RM215,Serving Pasta Bowl ,35541
+340,RM216,Steel spoon,35541
+341,RM217,Steel fork,35541
+342,rm204,Chocolate Ice Cream,35541
+343,rm206,Base Sauce Burger,35541
+344,rm207,Emp Meal,35541
+345,rm208,Sour Cream,35541
+346,rm209,Chilli Onion Spread,35541
+347,rm210,Ginger Garlic Paste,35541
+348,174,Employee Meal,23698
+349,rm218,Lime Seasoning,35541
+350,rm219,Boiled Rice,35541
+351,RM220,Frozen Veg Mix,35541
+352,225,Upwas Kaapi,23701
+353,228,Extra Pav,23703
+354,229,Upwas Shake,23692
+355,230,Sabudana Khichdi,23695
+356,185,Chai Spl,23682
+357,252,Paneer Sandwich,23690
+358,235,Bhurji Mix,35541
+359,RM226,Passion Fruit Bubble,23703
+360,RM227,Strawberry Bubble,23703
+361,RM228,Blueberry Bubble,23703
+362,RM225,Green Apple Bubble,23703
+363,241,Masala Pav,23695
+364,242,Small Kulladh,23703
+365,RM233,Veg Patty,35541
+366,RM234,Schezwan Sauce,35541
+367,RM235,Tandoori Spread,35541
+368,237,Green Apple Bubbled Iced Tea,56467
+369,238,Passion Fruit Bubbled Iced Tea,56467
+370,239,Blueberry Bubbled Iced Tea,56467
+371,240,Strawberry Bubbled Iced Tea,56467
+372,249,Handi Doodh,23699
+373,250,Mix Vegetable Soup,58897
+374,RM229,Tomato Soup Mix,35541
+375,243,Large Kulladh,23703
+376,RM230,Mushroom Soup Mix,35541
+377,RM231,Veg Soup Mix,35541
+378,251,Sweet Corn Soup,58897
+379,RM232,Sweet Corn Soup Mix,35541
+380,253,Kulladh Chai,23682
+381,244,Cheesy Salsa Fries,58896
+382,245,Paneer Biryani,23698
+383,246,Customise Fries,58896
+384,247,Tomato Soup,58897
+385,248,Creamy Mushroom,58897
+386,254,Kulladh Chai Large,23682
+387,258,CK Chocolate Pack of 2,23695
+388,MY21,Cheese Stuffed,72254
+389,MY22,Classic,23702
+390,MY23,chilli onion  garlic Maggi,23702
+391,MY24,Double Masala,23702
+392,MY25,cheese Maggi,23702
+393,MY26,Corn Mayo Maggi,23702
+394,MY01,Coleslaw Kacha,72255
+395,MY02,Tandoori Kacha,72255
+396,MY03,Masala Sandwich ,72255
+397,MY04,Cheesy Chutneuy,72255
+398,MY05,Corn mayo,72255
+399,256,CK Sweet Khaari,23682
+400,MY06,Veg club ,72255
+401,MY07,Chilli Garlic,72255
+402,MY08,Old School Veg,72248
+403,257,CK Spicy Khaari,23682
+404,MY09,Old School Cheese,72248
+405,MY10,Tom Mayo,72248
+406,MY11,Punjabi Tadka ,72248
+407,MY12,Vada Paav ,72258
+408,MY13,Cheese Vada Paav ,72258
+409,MY14,Chilli Garlic,72258
+410,MY20,Stuffed,72254
+411,255,CK Khaari,23682
+412,MY15,Masala Papad platter,23695
+413,MY16,Bhel Puri,23695
+414,MY17,Mexican Bhel,23695
+415,MY18,Nachos,23695
+416,MY19,Baked,72254
+417,259,CK Chocolate Pack of 3,23695
+418,MY27,Burnt Garlic,23702
+419,MY52,Elaichi,23682
+420,MY53,Laung,23682
+421,MY54,Kesar,23682
+422,MY55,Masala ,23682
+423,MY56,IFC,23685
+424,MY57,Sultans Kaapi,23685
+425,MY58,Cinnamon Kaapi,23685
+426,MY59,Kesar Sulemani,72256
+427,MY60,CK Kahwa,72256
+428,MY61,Moroccan Mint,72256
+429,MY62,Green Tea,72256
+430,MY63,Lemon Green Tea,72256
+431,MY64,Earl Grey,72256
+432,MY51,Adrak,23682
+433,MY28,Italian noodles,23702
+434,MY29,Salted,58896
+435,MY30,Piri piri,58896
+436,MY31,Fries n Sauces ,58896
+437,MY32,Vanila And Chocolate,72251
+438,MY33,Butter toasts,72257
+439,MY34,Nutella Toasts,72257
+440,MY35,Garlic Potato,72252
+441,MY36,Smileys,72252
+442,MY37,Cheese Nuggets,72252
+443,MY38,wedges,72252
+444,MY39,White,72253
+445,MY40,Ck Pasta,72253
+446,MY41,Veg Steam,72250
+447,MY42,Paneer Steam,72250
+448,MY43,Cheese Steam,72250
+449,MY44,Deep Fried Veg,72250
+450,MY45,Deep Fried Paneer,72250
+451,MY46,Deep fried Cheese,72250
+452,MY47,Pan tossed momos Veg,72250
+453,MY48,Pan tossed momos Paneer,72250
+454,MY49,Pan tossed momos Cheese,72250
+455,cmb5,Veg Club Combo,40086
+456,cmb6,Paneer Sandwich Combo,40086
+457,cmb7,Tom Mayo Combo,40086
+458,cmb8,Combo for 2,40086
+459,cmb9,Family Combo 1,40086
+460,cmb10,Family Combo 2,40086
+461,MY50,Kadak,23682
+462,MY65,Lemon Ice Tea,72246
+463,MY66,Peach Ice Tea,72246
+464,MY67,Orange Ice Tea,72246
+465,MY68,Orange ,23700
+466,MY69,Mango,23700
+467,MY70,Strawberry,23700
+468,MY71,Kala Khatta,23700
+469,MY72,Chocolate Kaapi,72247
+470,MY73,Vanila Kaapi,72247
+471,MY74,Masala lemonade / Nimbu paani,23694
+472,MY75,Apple mojito,23694
+473,MY76,Banana ,23692
+474,MY77,Chocolate,23692
+475,MY78,Kiwi Mint banana,23693
+476,MY79,Strawberry,23693
+477,MY80,Classic cold ,72249
+478,MY81,Ck cold,72249
+479,MY82,Orange (S),23700
+480,MY83,Mango (S),23700
+481,MY84,Strawberry (S),23700
+482,MY85,Kala Khatta (S),23700
+483,264,Paneer Momos Steamed,77742
+484,RM236,Samosa,72254
+485,266,Veg Momos Fried,77742
+486,267,Paneer Momos Fried,77742
+487,260,Samosa Banake,72254
+488,RM237,Hot Chocolate Powder,35541
+489,269,Veg Momos Pan Tossed,77742
+490,261,Hot Chocolate Small,23699
+491,MY 86,Water Bottle 500 ml ,74700
+492,MY 87,Extra Grated Cheese ,74700
+493,MY 88,Extra Cheese Slice,74700
+494,MY 89,Extra Dip,74700
+495,MY 90,Extra IFC,74700
+496,MY 93,Adrak Chai Full,23682
+497,MY 94,Elaichi Chai Full,23682
+498,MY 95,Masala Chai Full,23682
+499,MY 91,Chocolate Chai Half,23682
+500,MY 92,Chocolate Chai Full,23682
+501,MY 96,Kadak Chai Full,23682
+502,MY 97,Kesar Chai Full,23682
+503,RM 238,Kesar Syrup,35541
+504,MY 99,Vanilla Ice Cream Scoop,74700
+505,MY 100,Chocolate Ice Cream Scoop,74700
+506,262,Chips,23703
+507,263,Veg Momos Steamed,77742
+508,RM1001,Nachos,78080
+509,RM1018,Disposal Plates Small,78080
+510,RM1019,Pasta container lid,78080
+511,RM1020,Plastic Fork,78080
+512,RM1021,Burger bun,78080
+513,RM1022,Plain Loaf,78080
+514,RM1023,Bread Slice,78080
+515,RM1024,Egg,78080
+516,RM1025,Tissue,78080
+517,RM1026,Aluminium Foil,78080
+518,RM1027,Kitchen Roll ( utility roll ),78080
+519,RM1028,Floor Cleaner,78080
+520,RM1029,Chocolate Hot Fudge,78080
+521,RM1030,Tomato ketchup,78080
+522,RM1031,Mayonnaise,78080
+523,RM1032,Salsa sauce,78080
+524,RM1033,Gouda cheese,78080
+525,RM1034,Makhani Spread,78080
+526,RM1035,Chilli Cheese Blend,78080
+527,RM1036,Apple,78080
+528,RM1037,Banana,78080
+529,RM1038,Garlic clove,78080
+530,RM1039,Lettuce,78080
+531,RM1040,Mint leaves,78080
+532,RM1041,Onion,78080
+533,RM1042,Tomato,78080
+534,RM1043,Lemon,78080
+535,RM1044,Adrak,78080
+536,RM1045,Capsicum Green,78080
+537,RM1046,Capsicum Red,78080
+538,RM1047,Capsicum Yellow,78080
+539,RM1002,Lemon Tea Mix,78080
+540,RM1003,Peach Tea Mix,78080
+541,RM1004,Orange Tea Mix,78080
+542,RM1005,Kashmiri Kahwa Pouch,78080
+543,RM1009,Hand Gloves,78080
+544,RM1010,Krusher Glass 350,78080
+545,RM1006,Ice Cube,78080
+546,RM1007,Water Glass,78080
+547,RM1008,Comfort Cap,78080
+548,RM1011,Krusher lid,78080
+549,RM1012,Paper Cup 100 ml Tea,78080
+550,RM1013,Pasta container,78080
+551,RM1014,Plastic Spoon,78080
+552,RM1015,Stirrer,78080
+553,RM1016,Straw,78080
+554,RM 239,Veg Momos,35541
+555,RM 240,Paneer Momos,35541
+556,RM 241,Cheese Momos,35541
+557,RM1017,Disposal Plates Big,78080
+558,265,Cheese Momos Steamed,77742
+559,268,Cheese Momos Fried,77742
+560,RM 242,Momos mix,35541
+561,270,Paneer Momos Pan Tossed,77742
+562,271,Cheese Momos Pan Tossed,77742
+563,RM1048,Green Chilli,78080
+564,RM1073,Tea,78080
+565,RM1074,Nutmeg Powder,78080
+566,RM1075,Duster,78080
+567,RM1076,Broom,78080
+568,RM1077,Dry Mope,78080
+569,RM1078,Wet Mope,78080
+570,RM1079,Wiper,78080
+571,RM1080,Scrubber,78080
+572,RM1081,Sponge Wipe,78080
+573,RM1082,clean wrap.,78080
+574,RM1083,hand wash,78080
+575,RM1084,Dish Wash Soap,78080
+576,RM1085,Room Freshner.,78080
+577,RM1086,Sugar Free Sachet,78080
+578,RM1049,Corriander leafs,78080
+579,RM1050,Cucumber,78080
+580,RM1051,Curd,78080
+581,RM1052,Water Bottle 1 Ltr,78080
+582,RM1053,Pizza Paste Sauce,78080
+583,RM1054,Pasta,78080
+584,RM1055,Olive Oil,78080
+585,RM1056,Paper bag Small,78080
+586,RM1057,Paper Bag Large,78080
+587,RM1058,Garbage Bag Small,78080
+588,RM1059,Garbage bag large,78080
+589,RM1060,Chips,78080
+590,RM1061,Sev Barik,78080
+591,RM1062,Masala Lemonade Mix,78080
+592,RM1063,Home Made Masala,78080
+593,RM1064,Coffee,78080
+594,RM1065,White Pasta Sauce Mix,78080
+595,RM1066,Luang powder,78080
+596,RM1067,Cinnamon powder,78080
+597,RM1068,Black Pepper powder,78080
+598,RM1069,Elaichi Powder,78080
+599,RM1070,Tray Mate,78080
+600,RM1071,Burger Wrapper,78080
+601,RM1072,Leaflets,78080
+602,RM1087,Jeeravan,78080
+603,RM1112,Strawberry crush,78080
+604,RM1113,Banana crush,78080
+605,RM1114,Herb Chilli Patty,78080
+606,RM1115,French Fries 6mm,78080
+607,RM1116,cooking cream,78080
+608,RM1117,Earl Grey Sachet,78080
+609,RM1118,Green Tea,78080
+610,RM1119,Corn,78080
+611,RM1120,C.K pasta Mix,78080
+612,RM1121,Water,78080
+613,RM1122,Green Chutney,78080
+614,RM1123,Noodles mix,78080
+615,RM1124,Burnt Garlic Mix,78080
+616,RM1125,White Sugar  Sachet,78080
+617,RM1088,Salt,78080
+618,RM1089,Honey,78080
+619,RM1090,rice,78080
+620,RM1091,Chai Masala,78080
+621,RM1092,Chat Masala,78080
+622,RM1093,Nutella,78080
+623,RM1094,Sugar,78080
+624,RM1095,Soya Oil,78080
+625,RM1096,Black Salt,78080
+626,RM1097,Oreo cookies,78080
+627,RM1098,Cheese,78080
+628,RM1099,Butter ,78080
+629,RM1100,Cheese slice,78080
+630,RM1101,Milk,78080
+631,RM1102,Green apple syrup,78080
+632,RM1103,Mint mojito syrup,78080
+633,RM1104,Water Bottle 500 ml,78080
+634,RM1105,Noodles ( Maggi ),78080
+635,RM1106,Garlic oregano,78080
+636,RM1107,Chilli Flakes,78080
+637,RM1108,Mango squash,78080
+638,RM1109,Kala Khatta squash,78080
+639,RM1110,Orange squash,78080
+640,RM1111,Kiwi Crush,78080
+641,RM1126,Tomato ketchup Sachet,78080
+642,RM1151,Momos mix,78080
+643,RM1152,Vada Patty,78080
+644,RM1153,Potato Wedges,78080
+645,RM1154,Smily,78080
+646,RM1155,Cheese Nuggets,78080
+647,RM1156,Chocolate Muffin,78080
+648,RM1157,Vanilla Muffin,78080
+649,RM1158,Sake Base Mix,78080
+650,RM1159,Chilli Onion Maggi Mix,78080
+651,RM1160,Doubble Masala Maggi Mix,78080
+652,RM1161,Pav Bread,78080
+653,RM1162,Carrot,78080
+654,RM1163,Cabbage,78080
+655,RM1127,CC Roll,78080
+656,RM1128,Printer Roll,78080
+657,RM1129,Piri Piri Masala,78080
+658,RM1130,Foil Box With Lid,78080
+659,RM1131,Voucher Book,78080
+660,RM1132,Baked Samosa,78080
+661,RM1133,Lemon Juice,78080
+662,RM1134,Salsa Sauce Mix,78080
+663,RM1135,Coffee Decoction,78080
+664,RM1136,Thandi Kaapi Base,78080
+665,RM1137,Vanilla Ice Cream,78080
+666,RM1138,Chocolate Ice Cream,78080
+667,RM1139,Shake Base,78080
+668,RM1140,cheezy jalapeno,78080
+669,RM1141,chai glass 100 ml,78080
+670,RM1142,Chunky Glass,78080
+671,RM1143,Chilli Garlic Spread,78080
+672,RM1144,Delivery,78080
+673,RM1145,Veg Patty,78080
+674,RM1146,Schezwan Sauce,78080
+675,RM1147,Tandoori Spread,78080
+676,RM1148,Veg Momos,78080
+677,RM1149,Paneer Momos,78080
+678,RM1150,Cheese Momos,78080
+679,RM 253,CK Chocolate,35541
+680,RM 254,Aam Panna Mix,35541
+681,272,Aam Panna,23694

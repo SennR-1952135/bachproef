@@ -1,0 +1,127 @@
+,status,creator,description
+0,Closed,ggregory,"Cannot run unit tests from Ant 1.7.0 (Sun) Java 1.3.1.
+
+> From: Jörg Schaible [mailto:Joerg.Schaible@Elsag-Solutions.com]
+> Sent: Thursday, January 10, 2008 10:56 PM
+> To: Jakarta Commons Developers List
+> Subject: RE: [VOTE] Release commons-fileupload 1.2.1 (rc3)
+> 
+> Hi Gary,
+> 
+> Gary Gregory wrote:
+> > Hello:
+> >
+> > The ant build in this RC fails on Sun Java 1.3.1 [1] because
+> > the unit tests use the XML formatter which depend on W3C
+> > code. The W3C code is in Java 1.4 but not 1.3. The ant build
+> > also reports, apparently non-fatal errors [1] when attempting
+> > to fetch non-existent files out of the maven repos.
+> >
+> > Personally, I no longer care about 1.3.1 but I thought you might like
+> > to know.
+> 
+> This can be fixed by adding Xalan 2.7.0 to Ant's lib, but you have to use the one
+> from Apache's Maven repo, not the one from their distribution. Se
+> http://jira.codehaus.org/browse/HAUS-1572
+
+That does not work for me, no matter what version of Xalan I put in ANT_HOME/lib, I always get:
+{noformat} 
+Using loader null on class org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter: java.lang.NoClassDefFoundError: org/w3c/dom/Node
+	at org.apache.tools.ant.taskdefs.optional.junit.FormatterElement.createFormatter(FormatterElement.java:241)
+	at org.apache.tools.ant.taskdefs.optional.junit.FormatterElement.createFormatter(FormatterElement.java:214)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.transferFormatters(JUnitTestRunner.java:818)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:910)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:766)
+--- Nested Exception ---
+java.lang.NoClassDefFoundError: org/w3c/dom/Node
+	at java.lang.Class.forName0(Native Method)
+	at java.lang.Class.forName(Class.java:115)
+	at org.apache.tools.ant.taskdefs.optional.junit.FormatterElement.createFormatter(FormatterElement.java:232)
+	at org.apache.tools.ant.taskdefs.optional.junit.FormatterElement.createFormatter(FormatterElement.java:214)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.transferFormatters(JUnitTestRunner.java:818)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.launch(JUnitTestRunner.java:910)
+	at org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner.main(JUnitTestRunner.java:766)
+{noformat} 
+Then I read:
+
+http://ant.apache.org/faq.html#junit-no-runtime-xml
+
+This states that the only way to fix this is to fix one's build.xml file like so:
+""the easiest solution is to add
+{code:xml}
+<pathelement path=""${ant.home}/lib/xml-apis.jar:${ant.home}/lib/xercesImpl.jar""/>
+{code}
+to your task's <classpath>.""
+I implemented this and the build succeeded. So I am submitting the attached patch to build.xml. This path element is ignored by Java versions >= 1.4 since one must use the override mechanism to use different XML libs than what is in the runtime.
+
+Thank you,
+Gary
+"
+1,Closed,zmonster,"The LimitedInputStream *IS* correctly raising a FileUploadBase.FileSizeLimitExceededException in the event of a too-large file.  HOWEVER, the exception isn't getting *processed* until AFTER all of the data is read.  This is because of what appears to be a bug in MultipartStream.ItemInputStream.close() (or a bug in close handling after the FileSizeLimitExceededException is raised).  After the LimitedInputStream correctly raises the file size exception, someone attempts to close the MultipartStream, but the close() method repeatedly calls 'makeAvailable()' which ends up reading the rest of the file upload data anyways, REGARDLESS of the size limit exception being raised."
+2,Closed,martynas,"[fileupload]
+in class :
+package org.apache.commons.fileupload;
+public abstract class FileUploadBase {
+
+    protected byte[] getBoundary(String contentType) {
+        ParameterParser parser = new ParameterParser();
+        parser.setLowerCaseNames(true);
+        // Parameter parser can handle null input
+        Map params = parser.parse(contentType, ';');
+        String boundaryStr = (String) params.get(""boundary"");
+
+        if (boundaryStr == null) {
+            return null;
+        }
+        byte[] boundary;
+        try {
+            boundary = boundaryStr.getBytes(""ISO-8859-1"");
+        } catch (UnsupportedEncodingException e) {
+            boundary = boundaryStr.getBytes();
+        }
+        return boundary;
+    }
+
+}
+
+String :  Map params = parser.parse(contentType, ';');
+doesn't match http://www.ietf.org/rfc/rfc1867.txt document
+because in all examples:
+Content-type: multipart/form-data , boundary=AaB03x
+Content-type: multipart/form-data, boundary=AaB03x
+Content-type: multipart/mixed, boundary=BbC04y
+
+boundary separated by comma (but not semicolon)"
+3,Closed,mgroeger,"Upload for very small files failed. The size (of failing) is lass than 58/59 bytes.
+It depends on the exact size of the keepRegion variable of the MultipartStream.
+
+Files less than this size contain no data at the target."
+4,Closed,marksinke,"In commons-transaction 1.2 the MultipartStream class has 2 public constructors. Both are deprecated; however their implementation delegates to non-visible (package-private) constructors. There are two issues here:
+
+1. the deprecated, delegating constructors use a null pointer for the progress notifier, which in turn yield a NullPointerException when you try to use them
+2. the non-deprecated constructors are not visible.
+
+Hence, I cannot really upgrade from 1.0 to 1.2.
+
+Thanks,
+
+Mark."
+5,Closed,bird_owl,"This problem happens only with files shorer then boundary string generated by browser and only with Firefox using HTTPS protocol.
+For some reason in this particular environment inputStream.read() in MultipartStream.ItemInputStream.makeAvailable() reads not whole HTTP response body, but only file content before boundary string. 
+I've created a patch fixing this issue."
+6,Closed,tv,"When upgrading the Turbine code to commons-fileupload 1.2, I got NPEs in Unit tests dealing with DiskFileItems. In that special case, a FileItem was created like this:
+
+        ParameterParser pp = new DefaultParameterParser();
+        DiskFileItemFactory factory = new DiskFileItemFactory(10240, new File("".""));
+
+        FileItem test = factory.createItem(""upload-field"", ""application/octet-stream"", false, null);
+
+        pp.add(""upload-field"", test);
+
+        assertTrue(pp.toString().startsWith(""{upload-field=[name=null""));
+
+pp.toString() causes a call to test.toString() which (among other things) calls dfos.getFile(). This fails because dfos is not initialized before getOutputStream() is called."
+7,Closed,amichai,"MultipartStream enforces a maximum headers section size limit to prevent abuse. However, when the limit is reached, it silently discards the rest of the headers block, and returns an invalid partial headers string back to FileUploadBase. There it may, depending on the data and location of the cutoff, either return partial headers, return among them an invalid header, or throw an undocumented IllegalStateException.
+Instead, it should inform the caller that the headers are not properly processed - whether or not the oversized headers are due to a malformed stream or not, after cutting them off they certainly become malformed.
+
+The attached patch fixes this by having MultipartStream throw a MalformedStreamException when the limit is reached, as it does if other errors occur. This both leaves existing error handling (whomever catches such an exception) unchanged, and seems right since an extremely oversized header block is likely due to a malformed stream. This change further guarantees that if the exception is not thrown, the returned headers string must be valid, which simplifies processing in FileUploadBase (also included in the patch)."

@@ -1,0 +1,7 @@
+,name
+0,perm.purchase.PurchaseRequestCreator.r
+1,perm.purchase.PurchaseRequest.r
+2,perm.purchase.PurchaseRequestCreator.rwc
+3,perm.purchase.PurchaseRequest.rwc
+4,perm.purchase.PurchaseRequestCreator.rwcde
+5,perm.purchase.PurchaseRequest.rwcde

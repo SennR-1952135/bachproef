@@ -1,0 +1,102 @@
+,status,description,region
+0,Awarded,Contract Award Notice following a G-Cloud 11 Award #11. NHSX Covid-19 App: Security Testing contract with NCC Group (2),Any region
+1,Awarded,Contract Award Notice following a G-Cloud 11 Award #6.  NHS Covid-19 App Security Testing contract with NCC Group,Any region
+2,Awarded,"***Please note this is not a call for competition***
+This contract was awarded to NCC Group Ltd via a direct award through the G-Cloud 11 Framework. The contract was for Penetration testing for Web Applications and Service / API Assessment.",United Kingdom
+3,Awarded,Cyber Security Consultancy for ports systems,Any region
+4,Awarded,"To cover a single aspect of the current contract, 'PSN IT Health Check by a CESG Check accredited provider'",South West
+5,Awarded,ICT Security Testing,South West
+6,Awarded,Provision of single license software escrow agrement,West Midlands
+7,Awarded,"Professional services of a cyber incident management provider to improve first response, incident investigation and digital evidence recovery.
+",West Midlands
+8,Awarded,IT graphics services.,South West
+9,Awarded,For the provision of a Retained Cyber Security healthcheck service.,
+10,Awarded,For the provision of a Retained Cyber Security response service.,
+11,Awarded,"Managed Detection and Response Services minimise the time to detect cyber threats present in IT environments and reduces the impact of identified breaches through immediate action to contain and remediate adversarial activities. This is related to the establishment of a Lighthouse laboratory as part of the UK Government response to the COVID-19 pandemic.
+
+In its response to COVID-19 and with only days available, MDC, on behalf of the Department of Health and Social Care, is entering into contracts without competition or advertising the requirement. In accordance with the Public Contracts Regulations (2015) and Procurement Policy Note 01/20, the following tests have been met:
+•	There are genuine reasons for extreme urgency - the response to the COVID-19 consequences needs to be immediate because of public health risks.
+•	The events that have led to the need for extreme urgency were unforeseen - the COVID-19 situation is so novel that the consequences are not something that MDC could have predicted.
+•	It is impossible to comply with the usual timescales in the Public Contract Regulations (2015) - there is no time to run an accelerated procurement under the open or restricted procedures or competitive procedures with negotiation, nor does the MDC have access to an existing commercial agreement such as a framework or dynamic purchasing system.
+The situation is not attributable to the MDC - MDC has not done anything to cause or contribute to the need for extreme urgency.",England
+12,Awarded,"Providing specialist technical support to Code Assisted Security Assessments, Product Vulnerability Research and APEX /.NET/Java Security Assessments.",
+13,Awarded,"Ofgem currently stores system administration usernames and passwords in a shared software product where everyone in each team can see all usernames and passwords with system administration rights. There is no protection around these files, so each user with rights may change, or even delete system admin credentials. In addition, most of those usernames are generic ""Admin"" users and not assigned to individuals making auditing specific privileged user activity nearly difficult.
+Lastly, we have limited sys admin resources to create new server services, administrate existing one and collapse services identified for decommissioning.
+We are looking for a technical solution supported by PAM professional services  that helps resolve the risk associated with unmonitored, unlimited priviledged access to Ofgems infrastructure systems and gain control over the privileged accounts to the technical assets
+For more information see attached document - 2020-008 Privileged Access Management (PAM) Tool ITT",London
+14,Awarded,"Contract for the Emergency Cyber Incident Response to the University of
+Birmingham",
+15,Awarded,Managed Detection and Response Services minimise the time to detect cyber threats present in IT environments and reduces the impact of identified breaches through immediate action to contain and remediate adversarial activities.,North West
+16,Awarded,Second time only extension to Contract CCTS19A10,"United Kingdom,Isle of Man,Channel Islands"
+17,Awarded,Provision of information security awareness services.,South West
+18,Awarded,RM1557/CCT731 - IT Health Check and Forensic Analysis for DART and DIMDb,South West
+19,Awarded,For the supply of Digital Testing Project,Any region
+20,Awarded,"Internal Procurement - CCS require a Supplier to perform an IT 'Health Check' on the CCS Digital Travel website.  This will check for bugs, vulnerabilities and issues.",Any region
+21,Awarded,Cyber Maturity Assessment & Improvement 30/09/19 - 31/03/20,Any region
+22,Awarded,IT Health Check,
+23,Awarded,The requirement is for a contract of two years.,Any region
+24,Awarded,"Derby City Council is seeking expressions of interest from suitably experienced and competent software providers who can deliver a fully integrated NHS Health Check IT Software package.  This will involve the ability to capture and link data through the NHS Health Check process ensuring associated pathways and data transfers take place legally and efficiently. 
+
+The software solution is designed to support the process for both GP practices and third party providers delivering health checks in the community, and will support the operational process and monitor the performance and effectiveness of this programme. 
+
+There will be a comprehensive suite of reporting and analytical tools to support the information requirements both locally and nationally.  
+
+The successful bidder for the provision of the software will be expected to work with up to 30 practices and all community providers who support the local delivery of health checks.
+
+The NHS Health Check IT solution will support the following requirements: 
+•	Identification of the eligible populations for Derby City (The software must have a function to categorise the eligible population by their status in the Health Check process)
+•	Assist GP practices and third party providers to deliver the programme, providing a solution to capture and link community health check data with GP practices.
+•	Issue patient invitation letters on behalf of practices who have opted out of the NHS Health Check Programme
+•	Provide programme activity and outcome reports for Derby City Council by GP practice and community provider.
+
+Please note, suppliers wishing to express interest and obtain the documentation, must do so by 14:00 on 14/10/2016. It is recommended that you express interest and obtain the documentation well before this time to allow sufficient time to prepare and submit a comprehensive response. The deadline for returns is 14:00 on 17/10/. You must visit https://www.eastmidstenders.org to express interest and obtain the documents, (please note we will only accept expressions of interest through the e-tendering system).",East Midlands
+25,Awarded,This agreement is for provision of 24/7 monitoring and alert investigation services with unified threat management capability. Includes intrusion detection with supporting escalation activity according to incident severity. Delivered from Security Operations Centre.,Any region
+26,Awarded,DOS call off contract,Any region
+27,Awarded,Cyber Security Framework call-off,Any region
+28,Awarded,Contract called off from Government Framework RM1043.,South West
+29,Awarded,"DCMS require a study on the alignment of cyber assurance to the security standards used by UK telecommunications companies.  The study seeks to identify the set of existing standards, component parts and their respective strengths / weaknesses.",Any region
+30,Awarded,"This contract has already been awarded and is published for transparency purposes.
+The Cabinet Office supports the Prime Minister and ensures the effective running of government. It is also the corporate headquarters for government, in partnership with HM Treasury, and takes the lead in certain critical policy areas.
+Contract for IT Health Checks, Forensic work and Certified Cyber Security Support.
+The contract is a call-off from the CCS G-Cloud 10 framework ref RM1557.10.",London
+31,Awarded,"This contract has already been awarded and is published for transparency purposes.
+The Cabinet Office supports the Prime Minister and ensures the effective running of government. It is also the corporate headquarters for government, in partnership with HM Treasury, and takes the lead in certain critical policy areas.
+Contract for DDoS testing of a web application.
+The contract is a call-off from the CCS G-Cloud 10 framework ref RM1557.10.",London
+32,Awarded,"The Medicines and Healthcare products Regulatory Agency (the Agency) wishes to consolidate its security testing requirement for the next 3 years. 
+
+Our transformation programme will require ambitious timelines in our projects and programmes. The need to deliver security testing requirements flexibly and possibly at short notice will be key. For this reason, we are seeking a 'call off' type arrangement with a single specialist security testing provider so security testing requirements can be met flexibly, at possibly short notice so not delaying project timelines and to a consistent and high quality.
+In addition to security testing associated with projects the Agency retains a requirement for annual IT Health Checks at its MHRA/CPRD centre and at NIBSC, not least to support its PSN and PND accreditations. However, given the nature of these tests then it is fully expected that a longer lead in period will need to be agreed with the chosen supplier.",London
+33,Awarded,Contract for the provision of various ICT health and compliance checks,East Midlands
+34,Awarded,"We require a developer experienced in Ruby on Rails to carry out a review of the code used to develop the WAVES system. This should replicate the kind of peer review normally carried out as part of an ongoing development pipeline.
+This should focus on whether standard Ruby practices have been followed, whether there are any emerging practices which could have been adopted, and whether the system as a whole has been designed and developed in a manner which allows for it to be easily accessible to any third party that might be required to adapt or maintain the system in future.",Any region
+35,Awarded,Electricity Generation Cyber Scoping and Cross-Sector Risk Assessment,London
+36,Awarded,Code review to support the development and build of a new digital service which will replace an existing legacy system.,
+37,Awarded,"Procurement of a Cyber Security health check company to perform vulnerability assessments and penetration tests on DVLA's infrastructure and applications (both physical and cloud based).  They must be PCI ASV approved and hold CESG, CHECK, CREST STAR and Cyber essential status.",
+38,Awarded,"DVLA are looking for an independent QSA to provide PCI -DSS deliverables, support, advice and guidance. The DVLA anticipate 2 - 3 days per quarter year (with some flexibility built in) from the QSA for a term of 2 +1 year.",
+39,Awarded,"GLA London.gov security assessment of a number of its technology and digital systems to identify threats, vulnerability and weaknesses, and provide better understanding of information assurance and maintain best practice by conforming to legal and industry  regulations to maintain a secure system.",London
+40,Awarded,"This contract is for the supply of Cyber Security Support Services to Innovate UK, procured via a further competition off the CCS RM3764ii Cyber Security Services 2 framework agreement.",Any region
+41,Awarded,Cyber Security health check company  to perform vulnerability assessments and penetration tests on the DVLA infrastructure and applications both physical and cloud based.,
+42,Awarded,Provision of Service of web and application testing,London
+43,Awarded,The provision of penetration of testing services for the Department of International Trade (including UKEF),Any region
+44,Awarded,Forensic Assessment to CMS servers and Management Terminals,Wales
+45,Awarded,National resource testing performance planning,Any region
+46,Awarded,"A scan of the domains under services.gov.uk which are under GDS control.
+A research task using open source information.
+A small number of CHECK penetration tests for up to 4 departments, (authorised by those departments).
+Draft findings report by 10 February 2016.
+Final report in by 24 February 2016.",Any region
+47,Awarded,The GMC requires a supplier who can conduct testing on various applications and elements of supporting infrastructure.,"Scotland,North West,South East,Wales,Northern Ireland,London"
+48,Awarded,"Lancaster University is seeking to appoint a trusted partner who will perform security penetration testing. 
+
+On an on-going basis Lancaster University requires various IT applications and elements of supporting infrastructure to be security penetration tested.  This testing comes from several requirements many of which will be conducted as part of forward planned operational and project work streams.  The focus of this security testing is to ensure the IS services keep pace with industry standards in parallel to the constant threats facing an organisation such as Lancaster University.
+
+This tender is being conducted electronically using the University’s e-tendering system, which can be found at https://in-tendhost.co.uk/lancaster/",North West
+49,Awarded,The GLA would like to procure the services of a suitable company to conduct a security assessment of a number of its technology/digital systems,London
+50,Awarded,Provision of a Full Verification Service,South West
+51,Awarded,Call Off - Assuring Data Security Across the Health and Social Care Sector Testing,Any region
+52,Awarded,NLEDP ITHC provider services for NLEDP Tranche 1,Any region
+53,Awarded,"NHS Shared Business Services has been working closely with NHS Digital on the development of the Cyber Security Services framework agreement, to offer an additional solution to support the existing portfolio of security solutions currently available. The aim of the new framework agreement will be to provide NHS organisations with an even greater number of cyber security service options and approved suppliers.
+
+It is therefore envisaged that this framework agreement will be used to support services currently offered by NHS Digital to health and care organisations. The new framework will also offer services not covered by NHS Digital (lots 1 & 3).",Any region
+54,Awarded,"Smartmedia Ticketing, Mobile Technology, Reader Technology and Smartmedia Transit System Security",London

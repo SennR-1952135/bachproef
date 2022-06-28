@@ -1,0 +1,109 @@
+,name,description,team,owner
+0,Clickable Prototype,https://marvelapp.com/2hfbc7,,Igor T-developer
+1,'Upload data' page,,,Anna S-developer
+2,Chart selection stub (predefined set of charts for particualr data),,,Anna S-developer
+3,Drawing chart by configuration (with current tauCharts),,,Anna S-developer
+4,Chart preview generation,"Options and libs to consider:
+- https://github.com/tmpvar/jsdom
+- phantomjs
+- simply render svg into small boxes instead of image
+",,Anna S-developer
+5,Chart selection heuristic v.1: Scatterplot,,,Anna S-developer
+6,Provide stability and tests for file upload and request,"Readable errors for end-user
+Readable reasons of failures to dev log
+Server should not be shut down
+Unsupported data message
+",,Oleg Se-developer
+7,UX: Add & Selection Chart for new concept,"Dashboard like concept for adding and selecting chart
+Breadcrumbs addapation
+",,Oleg Se-developer
+8,Fix design for file upload,"Current one is not good. -> remove upload button, make whole zone clickable, remove choose file button, make UI attractive
+",,Oleg Se-developer
+9,UX: Messages/Warnings/Errors in system,,,Oleg Se-developer
+10,Dashboards & Charts Mechanic: change order,,,Oleg Se-developer
+11,Python automation,"Installing python itself and all the necessary dependencies should be easy (perfect if one-click) for everybody on Mac and Windows.
+Create additional levels of logging to discover issues with start and run
+Create functional/unit tests for functionality related to python
+Create drop/:id/auto test (smoke)
+",,Anna S-developer
+12,Chart selection heuristic v.2: Scatterplor,"- bubble charts support
+- better categories selection
+",,Anna S-developer
+13,Chart selection heuristic v.1: Line,,,Anna S-developer
+14,Chart selection heuristic v.1: Bar chart,,,Anna S-developer
+15,Chart selection heuristic v.2,"- improve categories selection
+- merge categories' ids and names
+- aggregations
+",,Anna S-developer
+16,'Chart selection' page,,,Anna S-developer
+17,Anonymous space,,,Oleg Se-developer
+18,Space and dashboard auto-creation by url,,,Oleg Se-developer
+19,Client dependency management improvements,"Bower and require integration will be investigated and improved in this story.
+",,Anna S-developer
+20,Production deployment optimizations,"- investigate warnings during npm install and bower install
+- minimization and uglyfication of *.js files
+- changing requirejs configuration to use minified libraries versions
+- app health monitoring routines
+- css optimization
+- create server upload folder if being installed on new machine
+- fix bower versions
+- introduce some basic document generation
+",,Anna S-developer
+21,Functional tests minimal set,,,Anna S-developer
+22,tauCharts improvements,"provide an option to turn axes off (for small/middle view) [api]
+ordinal axes support [scatterplot]
+order items by x axis values [scatterplot]
+missing 'color' axis support [legend]
+missing values support (NaN) [base]
+TP datetime recognition and support [base]
+Provide an option to use tauCharts with require [base]
+Margins configurable or related to chart size [base]
+Add possibility to render chart into particular DOM node (reactjs integration) [api]
+Provide and options to pass chart configuration in JSON (serialize/deserialize) [api]
+Projection plugin acts strange when projects cycle times [projection]
+",,Anna S-developer
+23,Make dashboards names case-insesitive for resolving in urls,,,Oleg Se-developer
+24,add to tauCharts stacked one,,,Oleg Se-developer
+25,Chart is not re-rendered after navigating from left previews menu,,,Anna S-developer
+26,Upload does not work if file extension is not .json,,,Anna S-developer
+27,Store uploaded data in db,,,Anna S-developer
+28,RESTful API,"Make API RESTful, design nice routes, put node-restful into use
+",,Anna S-developer
+29,"Upload files via stream, not temp folder",,,Anna S-developer
+30,Log issues,- does not log error if upload folder does not exist (400 status now),,Anna S-developer
+31,Append URL source,,,Oleg Se-developer
+32,User pseudologin on first visit,"When '/' url is opened user asked for his name and redirected to that space.
+",,Anna S-developer
+33,User Log Page should be designed and created,,,Oleg Se-developer
+34,Nested JSON clever parsing,"Scenarios
+JSON Array with simple objects gives one data source
+This one [ { a: 1}, { a: 2}, { a: 3} ]
+gives us [ { a: 1}, { a: 2}, { a: 3} ]
+JSON object with several keys gives several data sources
+This one
+{
+b: [ { i: 1}, { i: 2}, { i: 3} ],
+c: [ { r: 1}, { r: 2}, { r: 3} ]
+}
+gives us
+[ { i: 1}, { i: 2}, { i: 3} ] with name ""b"" and [ { r: 1}, { r: 2}, { r: 3} ] with name ""c""
+JSON Array object with objects which has nested arrays gives us several data sources
+This one
+[{
+i: 1, a: [{n: 1}, {n: 5} ]
+},
+{
+i: 2, a: [{n: 3}]
+}]
+gives us
+[ { i: 1, ""a count"": 2, ""a sum n"": 6 }, { i: 2, ""a count"": 1, ""a sum n"": 3} with base name ""i""
+and
+[
+{ 'a.n': 1, i: 1 },
+{ 'a.n': 5, i: 1 },
+{ 'a.n': 3, i: 2 }
+]
+with base name ""a""
+TECH NOTE: Should be a way to ext AGGREGATION methods in easy way for last one scenario",,Oleg Se-developer
+35,CSV format parsing,,,Oleg Se-developer
+36,REST API tests,Add test for node restful,,Anna S-developer

@@ -1,0 +1,9 @@
+,code,type
+0,MOUNT-PROC,Proc. Assembly workbench
+1,MOUNT-DRILL,Drilling workbench
+2,MOUNT-ELEC,Electric workbench
+3,CONTR-QUAL,Quality control
+4,CLEAN,Cleaning
+5,WRAP,Wrapping
+6,CONTR-TEST,Tests workbench
+7,SHIP,Product stock picking

@@ -1,0 +1,749 @@
+,name,country,category
+0,"Forethought, Inc.", United States,saas
+1,Network Innovations, United States,saas
+2,Orion Network Systems, United States,saas
+3,Styleware, United States,saas
+4,Nashoba Systems, United States,saas
+5,Coral Software, United States,saas
+6,Consumers Software, Canada,saas
+7,Fox Software, United States,saas
+8,SOFTIMAGE, Canada,saas
+9,Altamira Software, United States,saas
+10,NextBase, United Kingdom,saas
+11,One Tree Software, United States,saas
+12,RenderMorphics, United States,saas
+13,Network Managers, United Kingdom,saas
+14,The Blue Ribbon SoundWorks, United States,saas
+15,Netwise, United States,saas
+16,Bruce Artwick Organization, United States,saas
+17,Vermeer Technologies, United States,saas
+18,VGA-Animation Software Div, Germany,saas
+19,Colusa Software, United States,saas
+20,EXOS Inc., United States,hardware
+21,Aspect Software Engineering, United States,saas
+22,eShop Inc., United States,saas
+23,Electric Gravity, United States,media
+24,Panorama Software Sys-On-Line, Canada,saas
+25,NetCarta, United States,saas
+26,NeXT, United States,saas
+27,Interse, United States,saas
+28,WebTV Networks, United States,hardware
+29,Dimension X, United States,saas
+30,Cooper & Peters, United States,saas
+31,LinkAge Software, Canada,saas
+32,VXtreme, United States,media
+33,Power Computing Corporation, United States,hardware
+34,Hotmail, United States,social
+35,Flash Communications, United States,saas
+36,Firefly, United States,social
+37,Bookpages, United Kingdom,content
+38,Telebook, Germany,commerce
+39,IMDb, United Kingdom,media
+40,MESA Group, United States,saas
+41,PlanetAll, United States,social
+42,Junglee, United States,commerce
+43,Valence Research, United States,saas
+44,LinkExchange, United States,analytics
+45,MindCorps Incorporated, United States,analytics
+46,Xemplar Education, United Kingdom,saas
+47,FASA Interactive, United States,saas
+48,CompareNet, United States,analytics
+49,Numinous Technologies, United States,saas
+50,LiveBid.com, United States,commerce
+51,Interactive Objects-Digital, United States,saas
+52,e-Niche Incorporated, United States,saas
+53,Alexa Internet, United States,saas
+54,Jump Networks, United States,content
+55,Woot, United States,commerce
+56,ShadowFactor Software, United States,saas
+57,Omnibrowse, United States,saas
+58,Intrinsa, United States,saas
+59,Sendit, Sweden,saas
+60,Zoomit, Canada,saas
+61,STNC, United Kingdom,saas
+62,Softway Systems, United States,saas
+63,Convergence Corporation, United States,hardware
+64,Entropic, United States,saas
+65,Raycer Graphics, United States,chips
+66,Tool Crib of the North, United States,commerce
+67,Back to Basics Toys, United States,commerce
+68,Leep Technology Inc., United States,analytics
+69,SoundJam MP, United States,saas
+70,Visio Corporation, United States,saas
+71,NetSelector, United States,saas
+72,Peach Networks, Israel,saas
+73,Astarte-DVD Authoring Software, Germany,saas
+74,Titus Communications, United States,saas
+75,Bungie Software, United States,saas
+76,NetGames, United States,media
+77,MongoMusic, United States,media
+78,Pacific Microsonics, United States,media
+79,Digital Anvil, United States,media
+80,Bluefish Labs, United States,saas
+81,Dejavue, United States,social
+82,Great Plains Software, United States,saas
+83,Intellisol International, Canada,saas
+84,Ensemble Studios, United States,media
+85,bluebuzz, United States,saas
+86,NCompass Labs, Canada,saas
+87,Maximal Innovative Intelligence, Israel,analytics
+88,Yupi, United States,content
+89,Spruce Technologies, United States,saas
+90,Outride, United States,saas
+91,Egghead Software, United States,saas
+92,PowerSchool, United States,analytics
+93,Nothing Real, United States,saas
+94,Zayante, United States,chips
+95,Sales Management Systems, United States,analytics
+96,Silicon Grail Corp-Chalice, United States,saas
+97,Propel Software, United States,saas
+98,Prismo Graphics, United States,saas
+99,Emagic, Germany,saas
+100,Navision, Denmark,saas
+101,Mobilocity, United States,saas
+102,XDegrees, United States,saas
+103,Rare, United Kingdom,media
+104,Vicinity, United States,saas
+105,Pyra Labs, United States,content
+106,Connectix, United States,saas
+107,DCG, Australia,saas
+108,Applied Semantics, United States,saas
+109,Neotonic Software, United States,saas
+110,PlaceWare, United States,social
+111,GeCAD Software, Romania,security
+112,3DO Co-High Heat Baseball, United States,media
+113,Kaltix, United States,search
+114,Sprinks, United States,commerce
+115,Genius Labs, United States,saas
+116,Encore Business Solutions, United States,saas
+117,ActiveViews, United States,analytics
+118,Ignite Logic, United States,content
+119,Picasa, United States,content
+120,Lookout Software, United States,saas
+121,Joyo.com, China,hardware
+122,ZipDash, United States,saas
+123,Where2, Australia,saas
+124,Keyhole, United States,analytics
+125,GIANT Company Software, United States,saas
+126,smallparts.com, United States,commerce
+127,SchemaSoft, Canada,saas
+128,en'tegrate, United States,saas
+129,Urchin Software Corporation, United States,analytics
+130,FingerWorks, United States,hardware
+131,BookSurge, United States,commerce
+132,Groove Networks, United States,saas
+133,Mobipocket, France,saas
+134,MessageCast, United States,social
+135,Dodgeball, United States,social
+136,Tsinghua-Shenxun-Cert Asts, China,saas
+137,Sybari Software Inc., United States,saas
+138,Reqwireless, Canada,saas
+139,CustomFlix, United States,commerce
+140,Akwan Information Technologies, Brazil,search
+141,Android, United States,hardware
+142,Teleo Inc., United States,saas
+143,FrontBridge Technologies, United States,saas
+144,Alacris Inc., United States,saas
+145,Skia, United States,saas
+146,media-streams.com,  Switzerland,media
+147,5th Finger, Australia,saas
+148,Phatbits, United States,saas
+149,allPAY, Germany,saas
+150,bruNET, Germany,social
+151,dMarc Broadcasting, United States,commerce
+152,UMT-Software and IP Assets, United States,saas
+153,MotionBridge, France,search
+154,Seadragon Software, United States,saas
+155,Measure Map, United States,analytics
+156,Shopbop, United States,commerce
+157,Apptimum Inc., United States,saas
+158,Onfolio Inc., United States,saas
+159,Upstartle, United States,saas
+160,@Last Software, United States,saas
+161,Lionhead Studios, United Kingdom,media
+162,Orion, Australia,saas
+163,AssetMetrix, Canada,saas
+164,Massive Inc., United States,media
+165,Vexcel, United States,saas
+166,DeepMetrix, United States,commerce
+167,2Web Technologies, United States,saas
+168,ProClarity Corp., United States,analytics
+169,iView Multimedia, United Kingdom,media
+170,Softricity, United States,saas
+171,Winternals Software, United States,saas
+172,Whale Communications, Israel,saas
+173,Neven Vision Germany, Germany,saas
+174,Gteko, Israel,saas
+175,TextPayMe, United States,commerce
+176,DesktopStandard, United States,saas
+177,YouTube, United States,media
+178,Colloquis, United States,social
+179,Silicon Color, United States,saas
+180,JotSpot, United States,saas
+181,Proximity, Australia,saas
+182,Endoxon,  Switzerland,saas
+183,Adscape, United States,content
+184,Medstory, United States,search
+185,Trendalyzer, Sweden,analytics
+186,devBiz Business Solutions, United States,saas
+187,DoubleClick, United States,commerce
+188,Tonic Systems, United States,saas
+189,Marratech, Sweden,saas
+190,ScreenTonic, France,commerce
+191,Tellme Networks, United States,saas
+192,SoftArtisans, United States,saas
+193,GreenBorder, United States,security
+194,Digital Photography Review, United Kingdom,media
+195,Brilliance Audio, United States,media
+196,Crusix, United States,saas
+197,Panoramio, Spain,media
+198,FeedBurner, United States,content
+199,Engyro, United States,saas
+200,PeakStream, United States,saas
+201,Stratature, United States,analytics
+202,Zenter, United States,saas
+203,Savvis Inc-Data Centers, United States,analytics
+204,GrandCentral, United States,saas
+205,Postini, United States,security
+206,ParaKey, United States,content
+207,ImageAmerica, United States,media
+208,"aQuantive, Inc.", United States,analytics
+209,"AdECN, Inc.", United States,commerce
+210,Zingku, United States,social
+211,Jellyfish.com, United States,commerce
+212,Parlano, United States,social
+213,Jaiku, Finland,social
+214,Global Care Solutions, Thailand,saas
+215,HOB Business Solutions, Denmark,saas
+216,Musiwave, France,media
+217,Multimap.com, United Kingdom,saas
+218,Withoutabox, United States,media
+219,Calista Technologies, United States,saas
+220,Audible, United States,content
+221,Caligari Corporation, United States,saas
+222,YaData, Israel,analytics
+223,Rapt Inc., United States,analytics
+224,Komoku, United States,saas
+225,90 Degree Software, Canada,saas
+226,Farecast, United States,analytics
+227,Danger Inc., United States,hardware
+228,P.A. Semi, United States,chips
+229,Fast Search & Transfer ASA, Norway,search
+230,Kidaro, United States,saas
+231,Quadreon, Belgium,saas
+232,Navic Networks, United States,media
+233,ConnectU, United States,social
+234,Fabric.com, United States,commerce
+235,Mobicomp, Portugal,saas
+236,Omnisio, United States,saas
+237,AbeBooks, Canada,commerce
+238,Powerset, United States,search
+239,Shelfari, United States,social
+240,TNC, South Korea,saas
+241,DATAllegro, United States,hardware
+242,Greenfield Online, United States,analytics
+243,Reflexive Entertainment, United States,media
+244,Box Office Mojo, United States,content
+245,3DV Systems, Israel,hardware
+246,Lexcycle, United States,saas
+247,BigPark Inc., Canada,media
+248,Rosetta Biosoftware, United States,saas
+249,SnapTell, United States,saas
+250,Placebase, United States,content
+251,On2, United States,saas
+252,FriendFeed, United States,social
+253,reCAPTCHA, United States,saas
+254,Interactive Supercomputing, United States,saas
+255,Zappos, United States,commerce
+256,Gizmo5, United States,saas
+257,AdMob, United States,commerce
+258,Teracent, United States,commerce
+259,Lala.com, United States,media
+260,AppJet, United States,saas
+261,Opalis Software, Canada,saas
+262,Quattro Wireless, United States,commerce
+263,"Sentillion, Inc.", United States,saas
+264,Touchco, United States,hardware
+265,Aardvark, United States,search
+266,reMail, United States,saas
+267,Octazen,Malaysia,saas
+268,Picnik, United States,media
+269,Divvyshot, United States,media
+270,DocVerse, United States,content
+271,Episodic, United States,media
+272,Plink, United Kingdom,search
+273,Agnilux, United States,chips
+274,Intrinsity, United States,chips
+275,Siri, United States,saas
+276,LabPixies, Israel,media
+277,BumpTop, Canada,hardware
+278,Gipsy Moth Studios,,saas
+279,Friendster (patents), United States,social
+280,Global IP Solutions, United States,saas
+281,Simplify Media, United States,media
+282,Ruba.com, United States,content
+283,ShareGrove, United States,social
+284,Invite Media, United States,media
+285,Zenbe, United States,social
+286,Nextstop, United States,social
+287,Poly9, Canada,saas
+288,Metaweb, United States,search
+289,Zetawire, Canada,saas
+290,Instantiations, United States,saas
+291,Slide.com, United States,media
+292,Jambool, United States,saas
+293,Chai Labs, United States,search
+294,Like.com, United States,search
+295,Hot Potato, United States,social
+296,Angstro, United States,social
+297,SocialDeck, Canada,social
+298,Amie Street, United States,commerce
+299,Quiksee, Israel,saas
+300,IMSense, United Kingdom,hardware
+301,Polar Rose, Sweden,ai
+302,Plannr, United States,social
+303,BlindType, Greece,saas
+304,BuyVIP, Spain,commerce
+305,"AVIcode, Inc.", United States,analytics
+306,Drop.io, United States,media
+307,"Canesta, Inc.", United States,chips
+308,Quidsi, United States,commerce
+309,Toby Press, United States,media
+310,Phonetic Arts, United Kingdom,saas
+311,Widevine Technologies, United States,media
+312,eBook Technologies, United States,hardware
+313,LoveFilm, United Kingdom,media
+314,SayNow, United States,social
+315,Rel8tion, United States,saas
+316,Zynamics, Germany,security
+317,Beluga, United States,social
+318,BeatThatQuote.com, United Kingdom,commerce
+319,Next New Networks, United States,media
+320,Green Parrot Pictures, Ireland,media
+321,Snaptu,Israel,saas
+322,RecRec, United States,social
+323,PushLife, Canada,commerce
+324,ITA Software, United States,saas
+325,TalkBin, United States,media
+326,DayTum, United States,analytics
+327,Skype Technologies, Luxembourg,social
+328,Sparkbuy, United States,commerce
+329,PostRank, Canada,analytics
+330,Prodiance, United States,saas
+331,Admeld, United States,commerce
+332,Sofa, United States,saas
+333,MailRank, United States,saas
+334,SageTV, United States,media
+335,The Book Depository, United Kingdom,commerce
+336,Punchd, United States,saas
+337,Fridge, United States,social
+338,PittPatt, United States,ai
+339,Pushbutton, United Kingdom,saas
+340,C3 Technologies, Sweden,saas
+341,Dealmap, United States,commerce
+342,Push Pop Press, United States,media
+343,Motorola Mobility, United States,hardware
+344,Double Helix Games, United States,media
+345,Zave Networks, United States,commerce
+346,Zagat, United States,content
+347,DailyDeal, Germany,commerce
+348,Friend.ly, United States,social
+349,SocialGrapple, Canada,analytics
+350,Twisted Pixel Games, United States,media
+351,Strobe, United States,saas
+352,Apture, United States,search
+353,Katango, United States,social
+354,VideoSurf Inc., United States,media
+355,Gowalla, United States,social
+356,RightsFlow, United States,saas
+357,Clever Sense, United States,saas
+358,Anobit, Israel,saas
+359,WIMM Labs, United States,hardware
+360,Teachstreet, United States,content
+361,Caffeinatedmind, United States,saas
+362,Chomp, United States,search
+363,Milk, United States,media
+364,Kiva Systems, United States,hardware
+365,TxVia, United States,saas
+366,Instagram, United States,social
+367,Tagtile, United States,analytics
+368,Evi, United Kingdom,hardware
+369,Avalon Books, United States,commerce
+370,Glancee, United States,social
+371,Lightbox.com,United Kingdom,media
+372,Karma, United States,social
+373,Redmatica, Italy,saas
+374,Meebo, United States,social
+375,Press Play, Denmark,media
+376,Quickoffice, United States,saas
+377,Face.com,Israel,ai
+378,UpNext, United States,saas
+379,Perceptive Pixel, United States,media
+380,Spool, United States,content
+381,Yammer, United States,social
+382,Sparrow, France,content
+383,Acrylic Software,Canada,saas
+384,AuthenTec, United States,saas
+385,Wildfire Interactive, United States,commerce
+386,Threadsy, United States,social
+387,VirusTotal.com, Spain,saas
+388,Nik Software, United States,saas
+389,Particle, United States,saas
+390,Viewdle, Ukraine,ai
+391,PhoneFactor, United States,saas
+392,StorSimple, United States,saas
+393,MarketingPilot, United States,saas
+394,Incentive Targeting, United States,commerce
+395,BufferBox, Canada,commerce
+396,Novauris Technologies, United Kingdom,ai
+397,OttoCat, United States,search
+398,id8 Group R2 Studios, United States,media
+399,IVONA Software, United States,saas
+400,Pando Networks, United States,media
+401,Channel Intelligence, United States,saas
+402,Atlas Solutions, United States,analytics
+403,osmeta, United States,saas
+404,Storylane (Mixtent), United States,social
+405,MetricsHub, United States,analytics
+406,DNNresearch, Canada,ai
+407,Hot Studio, United States,content
+408,Talaria Technologies, United States,saas
+409,Netbreeze,  Switzerland,analytics
+410,WiFiSlam, United States,saas
+411,Goodreads, United States,content
+412,Behavio, United States,ai
+413,Wavii, United States,social
+414,Spaceport, United States,media
+415,Parse, United States,saas
+416,Liquavista, Netherlands,hardware
+417,Makani Power, United States,hardware
+418,InRelease, Canada,saas
+419,Waze, Israel,saas
+420,Monoidics,United Kingdom,saas
+421,Locationary, Canada,content
+422,HopStop.com, United States,content
+423,Passif Semiconductor, United States,chips
+424,Jibbigo, United States,ai
+425,Matcha, United States,content
+426,Embark, United States,content
+427,AlgoTrim, Sweden,analytics
+428,Nokia mobile phones unit, Finland,hardware
+429,Bump, United States,saas
+430,Flutter, United States,ai
+431,Cue, United States,saas
+432,"TenMarks Education, Inc.", United States,content
+433,HLW Software, Austria,saas
+434,Onavo,Israel,analytics
+435,FlexyCore, France,hardware
+436,Apiphany, United States,saas
+437,PrimeSense, Israel,saas
+438,Acunu, United States,content
+439,Topsy, United States,analytics
+440,Schaft, Japan,hardware
+441,Industrial Perception, United States,hardware
+442,Redwood Robotics, United States,hardware
+443,Meka Robotics, United States,hardware
+444,Holomni, United States,hardware
+445,Bot & Dolly, United States,hardware
+446,Autofuss, United States,hardware
+447,SportStream, United States,media
+448,BroadMap, United States,conent
+449,Catch.com, United States,saas
+450,Dryft, United States,saas
+451,SnappyLabs, United States,saas
+452,Bitspin,  Switzerland,saas
+453,Parature, United States,saas
+454,Little Eye Labs,India,analytics
+455,Branch, United States,social
+456,Nest Labs, United States,hardware
+457,Impermium, United States,security
+458,DeepMind Technologies, United Kingdom,saas
+459,SlickLogin, Israel,security
+460,WhatsApp, United States,social
+461,Burstly, United States,saas
+462,spider.io, United Kingdom,security
+463,GreenThrottle, United States,media
+464,Oculus VR, United States,hardware
+465,Ascenta,United Kingdom,hardware
+466,ComiXology, United States,media
+467,Titan Aerospace, United States,hardware
+468,ProtoGeo Oy,Finland,saas
+469,GreenButton, New Zealand,saas
+470,Capptain, France,saas
+471,LuxVue Technology, United States,hardware
+472,Rangespan, United Kingdom,analytics
+473,Adometry, United States,analytics
+474,Appetas, United States,saas
+475,Stackdriver, United States,analytics
+476,MyEnergy, United States,saas
+477,Quest Visual, United States,saas
+478,Divide, United States,saas
+479,Spotsetter, United States,search
+480,Skybox Imaging, United States,saas
+481,mDialog, Canada,media
+482,Alpental Technologies, United States,hardware
+483,Dropcam, United States,hardware
+484,Appurify, United States,analytics
+485,Swell, United States,media
+486,BookLamp, United States,analytics
+487,Songza, United States,media
+488,SyntaxTree, France,saas
+489,InMage, United States,saas
+490,drawElements, Finland,saas
+491,Beats Electronics, United States,hardware
+492,Inception Mobile Inc., Canada,saas
+493,Emu, United States,analytics
+494,Director, United States,media
+495,PrivateCore, United States,security
+496,LiveRail, United States,media
+497,Jetpac, United States,media
+498,Gecko Design, United States,hardware
+499,Twitch Interactive, United States,media
+500,Rooftop Media, United States,media
+501,Zync Render, United States,saas
+502,WaveGroup Sound, United States,media
+503,Lift Labs, United States,ai
+504,Polar, United States,analytics
+505,Prss, Netherlands,content
+506,Firebase, United States,saas
+507,Dark Blue Labs & Vision Factory, United Kingdom,ai
+508,Revolv, United States,hardware
+509,Mojang, Sweden,media
+510,Aorato, Israel,security
+511,RelativeWave, United States,saas
+512,Acompli, United States,content
+513,GoodGame, United States,media
+514,HockeyApp, Germany,analytics
+515,Vidmaker, United States,media
+516,Camel Audio, United Kingdom,media
+517,Wit.ai, United States,ai
+518,Quickfire Networks, United States,saas
+519,Equivio, Israel,ai
+520,Semetric, United Kingdom,analytics
+521,Annapurna Labs, Israel,hardware
+522,Revolution Analytics, United States,analytics
+523,"Sunrise Atelier, Inc.", United States,saas
+524,Launchpad Toys, United States,media
+525,Odysee, United States,media
+526,N-trig, Israel,hardware
+527,Softcard, United States,saas
+528,Red Hot Labs, United States,analytics
+529,2lemetry, United States,saas
+530,"TheFind, Inc.", United States,commerce
+531,FoundationDB, United States,analytics
+532,LiveLoop, United States,content
+533,Coherent Navigation, United States,saas
+534,Shoefitr, United States,saas
+535,LinX, Israel,hardware
+536,"Datazen Software, Inc.", Canada,saas
+537,Thrive Audio, Ireland,hardware
+538,Skillman & Hackett, United States,media
+539,ClusterK, United States,saas
+540,Metaio, Germany,saas
+541,Timeful, United States,saas
+542,Surreal Vision,United Kingdom,hardware
+543,Pulse.io, United States,analytics
+544,6Wunderkinder, Germany,saas
+545,BlueStripe Software, United States,saas
+546,Agawi, United States,saas
+547,AppThwack, United States,saas
+548,Pebbles,Israel,hardware
+549,FieldOne Systems LLC, United States,saas
+550,Pixate, United States,saas
+551,Incent Games Inc., United States,media
+552,Mapsense, United States,analytics
+553,VocalIQ, United Kingdom,saas
+554,Perceptio, United States,ai
+555,Elemental Technologies, United States,software
+556,"VoloMetrix, Inc.", United States,analytics
+557,Adallom, Israel,security
+558,"Double Labs, Inc.", United States,saas
+559,Oyster, United States,content
+560,Safaba Translation Systems, United States,saas
+561,Adxstudio Inc., Canada,analytics
+562,Jibe Mobile, United States,saas
+563,Havok, Ireland,media
+564,Endaga, United States,hardware
+565,Digisfera, Portugal,media
+566,Faceshift,  Switzerland,saas
+567,Mobile Data Labs, United States,analytics
+568,Secure Islands Technologies Ltd., Israel,saas
+569,bebop, United States,saas
+570,Fly Labs, United States,media
+571,Orbeus, United States,saas
+572,Metanautix, United States,analytics
+573,"Talko, Inc.", United States,social
+574,Emotient, United States,ai
+575,Colis Priv�, France,commerce
+576,Teacher Gaming LLC, Finland,media
+577,LearnSprout, United States,content
+578,Flyby Media, United States,content
+579,LegbaCore, United States,security
+580,Groove, Canada,saas
+581,NICE, Italy,saas
+582,BandPage, United States,media
+583,Emvantage Payments, India,saas
+584,Pie, Singapore,social
+585,Xamarin, United States,saas
+586,SwiftKey, United Kingdom,saas
+587,MSQRD (Masquerade),Belarus,media
+588,Synergyse, Canada,saas
+589,Solair, Italy,hardware
+590,Two Big Ears,United Kingdom,hardware
+591,Wand Labs, United States,social
+592,Webpass, United States,saas
+593,Moodstocks, France,ai
+594,Anvato, United States,media
+595,Kifi, United States,search
+596,Cloud9 IDE, United States,saas
+597,LaunchKit, United States,saas
+598,Turi, United States,ai
+599,Orbitera, United States,saas
+600,Beam, United States,media
+601,"Curse, Inc.", United States,media
+602,Genee, United States,ai
+603,Gliimpse, United States,analytics
+604,Apigee, United States,analytics
+605,Urban Engines, United States,analytics
+606,API.AI, United States,ai
+607,Nascent Objects, United States,hardware
+608,Tuplejump, India,ai
+609,Infiniled,Ireland,hardware
+610,FameBit, United States,media
+611,Eyefluence, United States,hardware
+612,Westland, India,commerce
+613,Zurich Eye,Switzerland,hardware
+614,Partpic, United States,saas
+615,LeapDroid, United States,saas
+616,CrowdTangle, United States,analytics
+617,Faciometrics, United States,ai
+618,Qwiklabs, United States,saas
+619,Indoor.io, Finland,content
+620,LinkedIn, United States,social
+621,Cronologics, United States,hardware
+622,Limes Audio, Sweden,media
+623,harvest.ai, United States,saas
+624,Blink Home, United States,security
+625,Maluuba, Canada,ai
+626,Simplygon, Sweden,saas
+627,Fabric, United States,saas
+628,Thinkbox Software, United States,saas
+629,Do.com, United States,saas
+630,Kaggle, United States,saas
+631,AppBridge, United States,saas
+632,Workflow, United States,saas
+633,Deis, United States,saas
+634,Intentional Software, United States,saas
+635,Beddit, Finland,hardware
+636,Owlchemy Labs, United States,media
+637,Lattice Data, United States,ai
+638,Hexadite, Israel,security
+639,Whole Foods Market, United States,commerce
+640,SensoMotoric Instruments, Germany,hardware
+641,Cloudyn, Israel,analytics
+642,Souq.com, United Arab Emirates,commerce
+643,Halli Labs, India,ai
+644,Graphiq, United States,saas
+645,GameSparks, United Kingdom,media
+646,Ozlo, United States,ai
+647,Fayteq AG,Germany,ai
+648,Cycle Computing, United States,saas
+649,AIMatter, Belarus,ai
+650,Wing.ae, United Arab Emirates,commerce
+651,HTC (portions), Taiwan,hardware
+652,Vrvana, Canada,hardware
+653,Bitium, United States,security
+654,Regaind, France,ai
+655,init.ai, United States,saas
+656,PowerbyProxi, New Zealand,hardware
+657,Body Labs, United States,ai
+658,AltspaceVR, United States,saas
+659,Relay Media, United States,saas
+660,60db, United States,media
+661,tbh, United States,social
+662,SWNG, United States,media
+663,InVisage Technologies, United States,hardware
+664,Goo Technologies, United States,saas
+665,Spektral, Denmark,hardware
+666,Pop Up Archive, United States,search
+667,Laserlike, United States,ai
+668,Silk Labs, United States,ai
+669,Tueo Health, United States,hardware
+670,Silicon Valley Data Science, United States,analytics
+671,Buddybuild, Canada,saas
+672,Avere Systems, United States,hardware
+673,Redux, United Kingdom,hardware
+674,Sqrrl, United States,saas
+675,Confirm, United States,security
+676,Playfab, United States,saas
+677,Ring, United States,security
+678,Texture," United States,  Canada",media
+679,Tenor, United States,social
+680,Accept.com, United States,commerce
+681,Velostrata, Israel,saas
+682,Cask, United States,analytics
+683,Semantic Machines, United States,ai
+684,Ninja Theory, United Kingdom,media
+685,Undead Labs, United States,media
+686,Compulsion Games, Canada,media
+687,Playground Games, United Kingdom,media
+688,Flipgrid, United States,content
+689,Bonsai, United States,ai
+690,PillPack, United States,commerce
+691,Bloomsbury AI,United Kingdom,ai
+692,Redkix,Israel,social
+693,GraphicsFuzz, United Kingdom,hardware
+694,Vidpresso, United States,media
+695,Tapzo, India,saas
+696,Akonia Holographics, United States,hardware
+697,Lobe, United States,ai
+698,Senosis, United States,saas
+699,Shazam, United Kingdom,saas
+700,Onward, United States,ai
+701,Dialog Semiconductor (portions), United Kingdom,chips
+702,GitHub, United States,content 
+703,Dreambit,Israel,search
+704,inXile Entertainment, United States,media
+705,Obsidian Entertainment, United States,media
+706,XOXCO, United States,ai
+707,FSLogix, United States,saas
+708,Workbench, United States,content
+709,Platoon, United Kingdom,content
+710,Sigmoid Labs, India,saas
+711,CloudEndure, Israel,saas
+712,Superpod, United States,search
+713,TSO Logic, Canada,saas
+714,Citus Data, United States,analytics
+715,Chainspace,United Kingdom,saas
+716,DataSense, United States,analytics
+717,GrokStyle, United States,search
+718,Eero, United States,hardware
+719,Alooma, Israel,saas
+720,Stamplay, Italy,saas
+721,Nightcorn, Germany,media
+722,Canvas Technology, United States,hardware
+723,Express Logic, United States,hardware
+724,Amiato, United States,saas
+725,Sizmek, United States,commerce
+726,Looker, United States,saas
+727,Double Fine Productions, United States,media
+728,Bebo, United States,social
+729,Drive.ai, United States,ai
+730,Elastifile, United States,saas
+731,Intel's smartphone modem business, United States,hardware
+732,BlueTalon, United States,security
+733,E8 Storage, Israel,saas
+734,PromoteIQ, United States,analytics
+735,jClarity, United States,saas
+736,CTRL-labs, United States,ai
+737,Servicefriend,Israel,ai
+738,Movere, United States,saas
+739,Yap, United States,saas
+740,Biba Systems, United States,saas
+741,IGDB, Sweden,media
+742,INLT, United States,saas
+743,Socratic, United States,content
+744,Mover, Canada,saas
+745,Dispatch, United States,saas
+746,OurHouse.com, United States,commerce
+747,,,

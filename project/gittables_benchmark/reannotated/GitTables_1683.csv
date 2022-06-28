@@ -1,0 +1,9 @@
+,class
+0,ConfiguredProject
+1,IDirectWriteAccess
+2,IProjectServices
+3,IUnconfiguredProjectServices
+4,ProjectService
+5,UnconfiguredProject
+6,IVsBrowseObjectContext
+7,IVsBrowseObjectContext

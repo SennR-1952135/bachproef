@@ -1,0 +1,295 @@
+,type,name,duration
+0,place,Home,23215
+1,move,walking,1284
+2,place,Place in Allston,4015
+3,move,walking,470
+4,place,Aldrich Hall,22569
+5,move,walking,522
+6,place,Harvard Innovation Lab,2004
+7,move,walking,677
+8,place,Spangler Center,2835
+9,move,walking,194
+10,place,Batten Hall,3403
+11,move,walking,1701
+12,place,Home,3642
+13,move,walking,586
+14,place,Home,17653
+15,move,walking,203
+16,place,Broadway Marketplace,225
+17,move,walking,247
+18,place,Home,16102
+19,move,walking,322
+20,place,Bank of America ATM,128
+21,move,walking,220
+22,place,Home,16487
+23,place,Home,23783
+24,move,walking,1358
+25,place,Spangler Center,3442
+26,move,walking,401
+27,place,Aldrich Hall,15452
+28,move,walking,357
+29,place,Harvard Innovation Lab,6322
+30,move,walking,976
+31,place,Harvard Alumni Association,5734
+32,move,walking,444
+33,place,Starbucks,19317
+34,move,walking,1117
+35,place,Home,7693
+36,place,Home,23620
+37,move,walking,1271
+38,place,Aldrich Hall,29441
+39,move,walking,1617
+40,place,Home,6448
+41,move,walking,1277
+42,place,One Western Avenue,17577
+43,move,walking,1537
+44,place,Home,3612
+45,place,Home,23659
+46,move,walking,1298
+47,place,Aldrich Hall,23686
+48,move,walking,1159
+49,place,Keezer's,2528
+50,move,walking,1301
+51,place,Home,6979
+52,move,walking,886
+53,place,Place in Cambridgeport,299
+54,move,walking,632
+55,move,transport,1291
+56,move,walking,302
+57,place,The Westin Copley Place,1045
+58,move,walking,125
+59,place,The Westin Copley Place,21211
+60,place,The Westin Copley Place,1794
+61,move,transport,958
+62,place,Home,35659
+63,move,walking,218
+64,place,Darwin's Ltd.,4962
+65,move,walking,1544
+66,place,Keezer's,209
+67,move,walking,1236
+68,place,Aldrich Hall,38531
+69,move,walking,1290
+70,move,walking,306
+71,place,Home,32540
+72,move,walking,718
+73,place,Finale Desserterie & Bakery,4970
+74,move,walking,289
+75,place,Xfund,899
+76,move,walking,1430
+77,place,Aldrich Hall,11075
+78,move,walking,1310
+79,place,CVS/pharmacy,188
+80,move,walking,595
+81,place,Home,32078
+82,place,Home,42497
+83,move,transport,1000
+84,place,Aldrich 007,917
+85,move,walking,398
+86,place,Spangler Center,1188
+87,move,walking,1169
+88,place,Starbucks,4463
+89,move,walking,666
+90,place,Home,11057
+91,move,walking,757
+92,place,First Printer,5762
+93,move,walking,755
+94,place,Home,15772
+95,place,Home,27599
+96,move,walking,1300
+97,place,Aldrich Hall,15091
+98,move,walking,524
+99,place,Harvard Innovation Lab,6333
+100,move,walking,411
+101,place,Spangler Center,13340
+102,move,walking,308
+103,move,transport,490
+104,place,Henrietta's Table,8796
+105,move,walking,1300
+106,place,Home,10909
+107,place,Home,23750
+108,move,walking,1320
+109,place,Aldrich Hall,28179
+110,move,walking,1626
+111,place,Home,9000
+112,move,walking,283
+113,place,Broadway Marketplace,353
+114,move,walking,234
+115,place,Home,21655
+116,place,Home,24556
+117,move,walking,281
+118,place,Starbucks,193
+119,move,walking,1213
+120,place,Aldrich Hall,18697
+121,move,walking,1710
+122,place,Home,20987
+123,place,Home,3489
+124,move,walking,1286
+125,place,Aldrich Hall,19590
+126,move,walking,1448
+127,place,Home,4222
+128,move,transport,1676
+129,move,walking,763
+130,place,New England Aquarium,4178
+131,place,New England Aquarium,1126
+132,move,transport,1802
+133,place,One Western Avenue,4272
+134,move,walking,1101
+135,place,Orinoco,6433
+136,move,walking,1106
+137,place,Jon Scherr Home,7073
+138,move,walking,1738
+139,place,Home,4560
+140,place,Home,36498
+141,move,walking,632
+142,place,The Boathouse,6045
+143,move,walking,311
+144,place,RadioShack,1390
+145,move,walking,534
+146,place,Peet's Coffee & Tea,1910
+147,move,walking,816
+148,place,Home,28164
+149,place,Home,121
+150,move,walking,310
+151,place,Home,32235
+152,move,walking,799
+153,place,Night Market,4915
+154,move,walking,949
+155,place,Home,10003
+156,place,Home,42425
+157,move,walking,871
+158,place,Russell House Tavern,5657
+159,move,walking,659
+160,place,Broadway Marketplace,658
+161,move,walking,300
+162,place,Home,35831
+163,place,Home,24413
+164,move,walking,1421
+165,place,Aldrich Hall,16823
+166,move,walking,1032
+167,place,Tory Row,6006
+168,move,walking,274
+169,place,Grafton Street Pub,236
+170,move,walking,593
+171,place,Home,8048
+172,move,walking,860
+173,place,Orinoco,2694
+174,move,walking,824
+175,place,Home,23177
+176,place,Home,24554
+177,move,walking,1298
+178,place,Aldrich Hall,19419
+179,move,walking,226
+180,place,Place in Allston,994
+181,place,One Western Avenue,1189
+182,move,walking,1145
+183,place,Wagamama,186
+184,move,walking,483
+185,place,Starbucks,6127
+186,move,walking,584
+187,place,Place in Old Cambridge,551
+188,move,walking,451
+189,place,Home,20768
+190,move,transport,697
+191,place,Aryan Sameri Home,7728
+192,place,Aryan Sameri Home,3316
+193,move,transport,798
+194,place,Home,30007
+195,move,walking,635
+196,place,Tory Row,3607
+197,move,walking,672
+198,place,Home,14243
+199,move,walking,165
+200,move,transport,3009
+201,move,walking,152
+202,place,Boston Logan International Airport (BOS),448
+203,move,walking,151
+204,place,jetBlue Airways,1306
+205,move,transport,6166
+206,place,Ronald Reagan Washington National Airport (DCA),990
+207,move,walking,337
+208,move,transport,990
+209,place,Laura's Home,19410
+210,place,Laura's Home,33562
+211,move,walking,861
+212,place,Whole Foods Market,972
+213,move,transport,1409
+214,move,walking,206
+215,move,walking,186
+216,place,"NTN24-Washington, DC",998
+217,move,transport,1696
+218,move,walking,151
+219,place,Roger Santodomingo's Home,16714
+220,move,transport,2732
+221,move,walking,273
+222,place,CB2,1074
+223,move,walking,546
+224,place,Apple Store,6825
+225,move,walking,121
+226,move,transport,479
+227,move,walking,307
+228,place,Whole Foods Market,294
+229,move,walking,549
+230,place,Laura's Home,15020
+231,place,Laura's Home,46407
+232,move,walking,636
+233,move,transport,1412
+234,move,walking,272
+235,place,Place in Thomas Circle,656
+236,move,walking,785
+237,place,Place in Kalorama Triangle,3386
+238,move,walking,607
+239,move,transport,786
+240,place,TJ Maxx & HomeGoods,5882
+241,move,walking,365
+242,move,transport,631
+243,move,walking,331
+244,place,Laura's Home,24246
+245,place,Laura's Home,47250
+246,move,walking,1959
+247,place,Pinstripes,299
+248,move,walking,549
+249,place,Farmers Fishers Bakers,6148
+250,move,walking,486
+251,place,TJ Maxx & HomeGoods,2053
+252,move,walking,421
+253,move,transport,661
+254,move,walking,362
+255,place,Laura's Home,26215
+256,place,Laura's Home,38211
+257,move,transport,1141
+258,place,Place in Ronald Reagan Washington National Airport,314
+259,move,walking,370
+260,place,Place in Ronald Reagan Washington National Airport,8485
+261,move,transport,3371
+262,move,walking,240
+263,place,Place in Logan International Airport,2226
+264,move,transport,2888
+265,move,transport,335
+266,place,Fitzsimmons Home,16861
+267,place,Fitzsimmons Home,47204
+268,move,transport,879
+269,place,Chipotle Mexican Grill,1356
+270,move,walking,156
+271,move,transport,471
+272,place,Place in Geneva,1001
+273,move,transport,286
+274,place,Fitzsimmons Home,960
+275,move,transport,1043
+276,place,Sam's Club,1646
+277,move,transport,129
+278,move,walking,240
+279,place,Place in Walmart,604
+280,move,transport,473
+281,place,Fitzsimmons Home,29951
+282,place,Fitzsimmons Home,42077
+283,move,walking,122
+284,move,transport,754
+285,place,Fitzsimmons Home,3311
+286,move,transport,207
+287,place,Place in Batavia,2688
+288,move,transport,537
+289,place,999 S Batavia Ave,4803
+290,move,walking,584
+291,place,Fitzsimmons Home,31317
+292,place,Fitzsimmons Home,86400
+293,place,Fitzsimmons Home,32464

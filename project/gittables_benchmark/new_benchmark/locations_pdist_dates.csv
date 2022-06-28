@@ -1,0 +1,42 @@
+,city,state,country,continent
+0,Amsterdam,,Netherlands,Europe
+1,Barcelona,Cataluña,Spain,Europe
+2,Berlin,Berlin,Germany,Europe
+3,Birmingham,West Midlands,United Kingdom,Europe
+4,Boston,Massachusetts,United States,North America
+5,Brussels,Brussels,Belgium,Europe
+6,Chicago,Illinois,United States,North America
+7,Copenhagen,,Denmark,Europe
+8,Hamburg,Hamburg,Germany,Europe
+9,Hong Kong,Hong Kong,China,Asia
+10,Istanbul,,Turkey,Europe
+11,Lisbon,Lisbon and Tagus Valley,Portugal,Europe
+12,London,London,United Kingdom,Europe
+13,Los Angeles,Los Angeles,United States,North America
+14,Lyon,,France,Europe
+15,Madrid,Madrid,Spain,Europe
+16,Manchester,North West,United Kingdom,Europe
+17,Melbourne,Victoria,Australia,Australia
+18,Mexico City,,Mexico,North America
+19,Milan,Lombardia,Italy,Europe
+20,Monaco,,Monaco,Europe
+21,Montréal,Quebec,Canada,North America
+22,Moscow,Moscow,Russia,Europe
+23,New York City,New York,United States,North America
+24,Paris,,France,Europe
+25,Philadelphia,Pennsylvania,United States,North America
+26,Rhine-Ruhr,North Rhine-Westphalia,Germany,Europe
+27,Rome,Lazio,Italy,Europe
+28,San Francisco,San Francisco,United States,North America
+29,São Paulo,São Paulo,Brazil,South America
+30,Seattle,Washington,United States,North America
+31,Seoul,Seoul,South Korea,Asia
+32,Singapore,,Singapore,Asia
+33,St. Petersburg,St. Petersburg,Russia,Europe
+34,Stockholm,Stockholm,Sweden,Europe
+35,Sydney,New South Wales,Australia,Australia
+36,Tokyo,Tokyo,Japan,Asia
+37,Toronto,Ontario,Canada,North America
+38,Vancouver,British Columbia,Canada,North America
+39,Vienna,Vienna,Austria,Europe
+40,Washington DC,District of Columbia,United States,North America

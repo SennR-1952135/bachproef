@@ -1,0 +1,71 @@
+,year,country,city
+0,2011,United States,Seattle
+1,2011,Germany;Germany,Heidelberg;Heidelberg
+2,2011,Japan,Kyoto
+3,2011,China;United States,Beijing;Boston
+4,2011,United States,Boston
+5,2011,Japan,Kodaira
+6,2011,United States,Bethesda
+7,2011,United States,Seattle
+8,2011,China;China,Nanjing;Tianjin
+9,2011,Japan,Suita
+10,2010,Netherlands,Maastricht
+11,2010,United States,Chicago
+12,2010,United States,Seattle
+13,2010,Italy,Milan
+14,2010,United States,Seattle
+15,2010,United Kingdom,Glasgow
+16,2010,United Kingdom,London
+17,2010,United States,Lebanon
+18,2010,United States,Newark
+19,2010,Japan,Suita
+20,2010,China,Nanjing
+21,2010,Japan,Chuo-ku
+22,2010,United States,Notre Dame
+23,2010,Netherlands,Leiden
+24,2010,Netherlands,Amsterdam
+25,2010,Slovenia,Ljubljana
+26,2010,Netherlands,Amsterdam
+27,2010,,
+28,2010,China;China,Shanghai;Shanghai
+29,2010,Netherlands;Netherlands,Maastricht;Maastricht
+30,2010,Australia,Brisbane
+31,2010,China,Harbin
+32,2009,Germany;Germany,Wurzburg;Aachen
+33,2009,United States;United States,Dallas;Boulder
+34,2009,Japan,Suita
+35,2009,Singapore,Singapore City
+36,2009,Japan,Kagoshima
+37,2009,Canada,Edmonton
+38,2009,China;United States,Shanghai;Boston
+39,2009,United States,Los Angeles
+40,2009,Hong Kong,Shatin
+41,2008,United States,St. Louis
+42,2008,United States,Boston
+43,2008,United States,Dallas
+44,2008,China,Nanjing
+45,2008,United States;United States,San Francisco;San Francisco
+46,2008,United States,Dallas
+47,2008,Switzerland,Geneva
+48,2008,United States,Seattle
+49,2008,United Kingdom,Oxford
+50,2007,United States,Boston
+51,2007,South Korea,Yongin
+52,2007,Sweden,Gothenburg
+53,2007,United States,Richardson
+54,2006,United States,Boulder
+55,2006,France,Paris
+56,2006,Germany,Munich
+57,2006,United States,Chapel Hill
+58,2006,United States,Louisville
+59,2004,United States,Hanover
+60,2004,Germany,Frankfurt am Main
+61,2004,Italy;Italy,Bologna;Verona
+62,2004,France;France,Strasbourg;Strasbourg
+63,2004,United States,Pittsburgh
+64,2003,United Kingdom,London
+65,2000,Germany,Munich
+66,1998,United States,Hartford
+67,1993,United States,Boston
+68,1989,Switzerland,"Zurich ZH,"
+69,1972,,

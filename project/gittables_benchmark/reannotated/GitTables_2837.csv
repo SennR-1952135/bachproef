@@ -1,0 +1,16 @@
+,name
+0,perm.talent.TrainingCategory.r
+1,perm.talent.Training.r
+2,perm.talent.TrainingSession.r
+3,perm.talent.Skill.r
+4,perm.talent.TalentSource.r
+5,perm.talent.TrainingCategory.rwc
+6,perm.talent.Training.rwc
+7,perm.talent.TrainingSession.rwc
+8,perm.talent.Skill.rwc
+9,perm.talent.TrainingRegister.rwc
+10,perm.talent.TrainingCategory.rwcde
+11,perm.talent.Training.rwcde
+12,perm.talent.TrainingSession.rwcde
+13,perm.talent.Skill.rwcde
+14,perm.talent.TrainingRegister.rwcde

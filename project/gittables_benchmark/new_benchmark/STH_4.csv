@@ -1,0 +1,144 @@
+,name,artist,type
+0,Acidic Sliver,Jeff Miracola,Creature — Sliver
+1,Amok,Dermot Power,Enchantment
+2,Awakening,Dan Frazier,Enchantment
+3,Bandage,Rebecca Guay,Instant
+4,Bottomless Pit,Kev Walker,Enchantment
+5,Brush with Death,Stephen Daniele,Sorcery
+6,Bullwhip,Brom,Artifact
+7,Burgeoning,Randy Gallegos,Enchantment
+8,Calming Licid,D. Alexander Gregory,Creature — Licid
+9,Cannibalize,Robert Bliss,Sorcery
+10,Carnassid,Brom,Creature — Beast
+11,Change of Heart,Ron Spencer,Instant
+12,Cloud Spirit,Randy Gallegos,Creature — Spirit
+13,Constant Mists,Dermot Power,Instant
+14,Contemplation,Brom,Enchantment
+15,Contempt,Val Mayerik,Enchantment — Aura
+16,Conviction,Paolo Parente,Enchantment — Aura
+17,Convulsing Licid,Scott Kirschner,Creature — Licid
+18,Corrupting Licid,Thomas M. Baxa,Creature — Licid
+19,Craven Giant,Brian Snõddy,Creature — Giant
+20,Crossbow Ambush,Kev Walker,Instant
+21,Crovax the Cursed,Pete Venters,Legendary Creature — Vampire
+22,Crystalline Sliver,L. A. Williams,Creature — Sliver
+23,Dauthi Trapper,Thomas M. Baxa,Creature — Dauthi Minion
+24,Death Stroke,Colin MacNeil,Sorcery
+25,Dream Halls,Matthew D. Wilson,Enchantment
+26,Dream Prowler,Richard Kane Ferguson,Creature — Illusion
+27,Duct Crawler,Stephen Daniele,Creature — Insect
+28,Dungeon Shade,Jason Alexander Behnke,Creature — Shade Spirit
+29,Elven Rite,Jeff Miracola,Sorcery
+30,Endangered Armodon,Kev Walker,Creature — Elephant
+31,Ensnaring Bridge,Pete Venters,Artifact
+32,Evacuation,Rob Alexander,Instant
+33,Fanning the Flames,Ron Spencer,Sorcery
+34,Flame Wave,Donato Giancola,Sorcery
+35,Fling,Paolo Parente,Instant
+36,Flowstone Blade,L. A. Williams,Enchantment — Aura
+37,Flowstone Hellion,Daren Bader,Creature — Hellion Beast
+38,Flowstone Mauler,Paolo Parente,Creature — Beast
+39,Flowstone Shambler,Jim Nelson,Creature — Beast
+40,Foul Imp,Jim Nelson,Creature — Imp
+41,Furnace Spirit,Jeff Miracola,Creature — Spirit
+42,Gliding Licid,Heather Hudson,Creature — Licid
+43,Grave Pact,Scott Kirschner,Enchantment
+44,Hammerhead Shark,Stephen Daniele,Creature — Fish
+45,Heartstone,John Matson,Artifact
+46,Heat of Battle,Matthew D. Wilson,Enchantment
+47,Hermit Druid,Heather Hudson,Creature — Human Druid
+48,Hesitation,Pete Venters,Enchantment
+49,Hibernation Sliver,Scott Kirschner,Creature — Sliver
+50,Hidden Retreat,Terese Nielsen,Enchantment
+51,Honor Guard,Joel Biske,Creature — Human Soldier
+52,Horn of Greed,Jeff Miracola,Artifact
+53,Hornet Cannon,Ron Spencer,Artifact
+54,Intruder Alarm,Donato Giancola,Enchantment
+55,Invasion Plans,Pete Venters,Enchantment
+56,Jinxed Ring,M. W. Kaluta & DiTerlizzi,Artifact
+57,Lab Rats,DiTerlizzi,Sorcery
+58,Lancers en-Kor,Pete Venters,Creature — Kor Soldier
+59,Leap,Kev Walker,Instant
+60,Lowland Basilisk,Randy Gallegos,Creature — Basilisk
+61,Mana Leak,Christopher Rush,Instant
+62,Mask of the Mimic,Heather Hudson,Instant
+63,Megrim,Donato Giancola,Enchantment
+64,Mind Games,Andrew Robinson,Instant
+65,Mind Peel,Adam Rex,Sorcery
+66,Mindwarper,Paolo Parente,Creature — Spirit
+67,Mob Justice,Ron Spencer,Sorcery
+68,Mogg Bombers,Dermot Power,Creature — Goblin
+69,Mogg Flunkies,Brom,Creature — Goblin
+70,Mogg Infestation,Pete Venters,Sorcery
+71,Mogg Maniac,Brian Snõddy,Creature — Goblin
+72,Morgue Thrull,Robert Bliss,Creature — Thrull
+73,Mortuary,Robert Bliss,Enchantment
+74,Mox Diamond,Dan Frazier,Artifact
+75,Mulch,Rebecca Guay,Sorcery
+76,Nomads en-Kor,Val Mayerik,Creature — Kor Nomad Soldier
+77,Overgrowth,Rob Alexander,Enchantment — Aura
+78,Portcullis,Kev Walker,Artifact
+79,Primal Rage,Brian Snõddy,Enchantment
+80,Provoke,Terese Nielsen,Instant
+81,Pursuit of Knowledge,DiTerlizzi,Enchantment
+82,Rabid Rats,Matthew D. Wilson,Creature — Rat
+83,Ransack,Ron Spencer,Sorcery
+84,Rebound,Doug Chaffee,Instant
+85,Reins of Power,Colin MacNeil,Instant
+86,Revenant,Terese Nielsen,Creature — Spirit
+87,Rolling Stones,John Matson,Enchantment
+88,Ruination,Dermot Power,Sorcery
+89,Sacred Ground,Terese Nielsen,Enchantment
+90,Samite Blessing,Rebecca Guay,Enchantment — Aura
+91,Scapegoat,Daren Bader,Instant
+92,Seething Anger,Val Mayerik,Sorcery
+93,Serpent Warrior,Ron Spencer,Creature — Snake Warrior
+94,Shaman en-Kor,Jeff Miracola,Creature — Kor Cleric Shaman
+95,Shard Phoenix,Paolo Parente,Creature — Phoenix
+96,Shifting Wall,Michael Sutfin,Artifact Creature — Wall
+97,Shock,Randy Gallegos,Instant
+98,Sift,Pete Venters,Sorcery
+99,Silver Wyvern,Colin MacNeil,Creature — Drake
+100,Skeleton Scavengers,Brian Snõddy,Creature — Skeleton
+101,Skyshroud Archer,Jeff Miracola,Creature — Elf Archer
+102,Skyshroud Falcon,Mike Raabe,Creature — Bird
+103,Skyshroud Troopers,DiTerlizzi,Creature — Elf Druid Warrior
+104,Sliver Queen,Ron Spencer,Legendary Creature — Sliver
+105,Smite,Daren Bader,Instant
+106,Soltari Champion,Adam Rex,Creature — Soltari Soldier
+107,Spike Breeder,Adam Rex,Creature — Spike
+108,Spike Colony,Douglas Shuler,Creature — Spike
+109,Spike Feeder,Heather Hudson,Creature — Spike
+110,Spike Soldier,Randy Elliott,Creature — Spike Soldier
+111,Spike Worker,Daniel Gelon,Creature — Spike
+112,Spindrift Drake,Anthony S. Waters,Creature — Drake
+113,Spined Sliver,Ron Spencer,Creature — Sliver
+114,Spined Wurm,Keith Parkinson,Creature — Wurm
+115,Spirit en-Kor,John Matson,Creature — Kor Spirit
+116,Spitting Hydra,Daren Bader,Creature — Hydra
+117,Stronghold Assassin,Matthew D. Wilson,Creature — Zombie Assassin
+118,Stronghold Taskmaster,Brom,Creature — Giant Minion
+119,Sword of the Chosen,Adam Rex,Legendary Artifact
+120,Temper,Matthew D. Wilson,Instant
+121,Tempting Licid,Randy Gallegos,Creature — Licid
+122,Thalakos Deceiver,Andrew Robinson,Creature — Thalakos Wizard
+123,Tidal Surge,Doug Chaffee,Sorcery
+124,Tidal Warrior,Daren Bader,Creature — Merfolk Warrior
+125,Torment,Paolo Parente,Enchantment — Aura
+126,Tortured Existence,Keith Parkinson,Enchantment
+127,Venerable Monk,Terese Nielsen,Creature — Human Monk Cleric
+128,Verdant Touch,M. W. Kaluta & DiTerlizzi,Sorcery
+129,Victual Sliver,Terese Nielsen,Creature — Sliver
+130,Volrath's Gardens,Rob Alexander,Enchantment
+131,Volrath's Laboratory,Brom,Artifact
+132,Volrath's Shapeshifter,Ron Spencer,Creature — Shapeshifter
+133,Volrath's Stronghold,Kev Walker,Legendary Land
+134,Walking Dream,Richard Kane Ferguson,Creature — Illusion
+135,Wall of Blossoms,Heather Hudson,Creature — Plant Wall
+136,Wall of Essence,Adam Rex,Creature — Wall
+137,Wall of Razors,Michael Sutfin,Creature — Wall
+138,Wall of Souls,John Matson,Creature — Wall
+139,Wall of Tears,Rebecca Guay,Creature — Wall
+140,Warrior Angel,Brom,Creature — Angel Warrior
+141,Warrior en-Kor,Stephen Daniele,Creature — Kor Warrior Knight
+142,Youthful Knight,Rebecca Guay,Creature — Human Knight

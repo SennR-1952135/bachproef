@@ -1,0 +1,7 @@
+,name
+0,library.book_default
+1,library.book_librarian
+2,library.book_category_default
+3,library.book_category_librarian
+4,library.book_rent_default
+5,library.book_rent_librarian

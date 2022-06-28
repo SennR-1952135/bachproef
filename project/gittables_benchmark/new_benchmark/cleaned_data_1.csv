@@ -1,0 +1,256 @@
+,name,state,region
+0,balu shahi,West Bengal,East
+1,boondi,Rajasthan,West
+2,gajar ka halwa,Punjab,North
+3,ghevar,Rajasthan,West
+4,gulab jamun,West Bengal,East
+5,imarti,West Bengal,East
+6,jalebi,Uttar Pradesh,North
+7,kaju katli,All State,All Region
+8,kalakand,West Bengal,East
+9,kheer,All State,All Region
+10,laddu,All State,All Region
+11,lassi,Punjab,North
+12,nankhatai,All State,All Region
+13,petha,Uttar Pradesh,North
+14,phirni,Odisha,East
+15,rabri,Uttar Pradesh,North
+16,sheera,Maharashtra,West
+17,singori,Uttarakhand,North
+18,sohan halwa,Uttar Pradesh,North
+19,sohan papdi,Maharashtra,West
+20,chhena jalebi,Odisha,East
+21,chhena kheeri,Odisha,East
+22,chhena poda,Odisha,East
+23,cham cham,West Bengal,East
+24,kheer sagar,Odisha,East
+25,ledikeni,West Bengal,East
+26,lyangcha,Assam,North East
+27,malapua,Bihar,North
+28,mihidana,West Bengal,East
+29,misti doi,West Bengal,East
+30,pantua,West Bengal,East
+31,pithe,Assam,North East
+32,rasabali,Odisha,East
+33,ras malai,West Bengal,East
+34,rasgulla,West Bengal,East
+35,sandesh,West Bengal,East
+36,adhirasam,West Bengal,East
+37,ariselu,Andhra Pradesh,South
+38,bandar laddu,Andhra Pradesh,South
+39,chikki,Maharashtra,West
+40,dharwad pedha,Karnataka,South
+41,double ka meetha,Telangana,South
+42,gavvalu,Andhra Pradesh,South
+43,kakinada khaja,Andhra Pradesh,South
+44,kuzhi paniyaram,Kerala,South
+45,mysore pak,Karnataka,South
+46,obbattu holige,Karnataka,South
+47,palathalikalu,Andhra Pradesh,South
+48,poornalu,Andhra Pradesh,South
+49,pongal,Tamil Nadu,South
+50,pootharekulu,Andhra Pradesh,South
+51,qubani ka meetha,Telangana,South
+52,sheer korma,Telangana,South
+53,unni appam,Tamil Nadu,South
+54,kajjikaya,Andhra Pradesh,South
+55,anarsa,Maharashtra,West
+56,basundi,Gujarat,West
+57,dhondas,Maharashtra,West
+58,doodhpak,Gujarat,West
+59,mahim halwa,Maharashtra,West
+60,modak,Maharashtra,West
+61,shankarpali,Maharashtra,West
+62,shrikhand,Maharashtra,West
+63,sutar feni,Maharashtra,West
+64,maach jhol,Assam,North East
+65,pork bharta,Tripura,North East
+66,chak hao kheer,Manipur,North East
+67,galho,Nagaland,North East
+68,aloo gobi,Punjab,North
+69,aloo tikki,Punjab,North
+70,aloo matar,Punjab,North
+71,aloo methi,Punjab,North
+72,aloo shimla mirch,Punjab,North
+73,bhatura,Punjab,North
+74,bhindi masala,Punjab,North
+75,biryani,Telangana,South
+76,butter chicken,NCT of Delhi,North
+77,chana masala,Punjab,North
+78,chapati,Maharashtra,West
+79,chicken razala,West Bengal,East
+80,chicken tikka masala,Punjab,North
+81,chicken tikka,Punjab,North
+82,chole bhature,Punjab,North
+83,daal baati churma,Rajasthan,West
+84,daal puri,West Bengal,East
+85,dal makhani,Punjab,North
+86,dal tadka,Punjab,North
+87,dum aloo,Jammu & Kashmir,North
+88,poha,Maharashtra,West
+89,fara,Chhattisgarh,Central
+90,kachori,Uttar Pradesh,North
+91,kadai paneer,Punjab,North
+92,kadhi pakoda,Haryana,North
+93,karela bharta,Punjab,North
+94,khichdi,All State,All Region
+95,kofta,Uttar Pradesh,North
+96,kulfi falooda,All State,All Region
+97,lauki ke kofte,Uttar Pradesh,North
+98,lauki ki subji,All State,All Region
+99,litti chokha,Bihar,North
+100,makki di roti sarson da saag,Punjab,North
+101,misi roti,Punjab,North
+102,mushroom do pyaza,Punjab,North
+103,mushroom matar,Punjab,North
+104,naan,Punjab,North
+105,navrattan korma,Uttar Pradesh,North
+106,palak paneer,Punjab,North
+107,paneer butter masala,Punjab,North
+108,paneer tikka masala,Punjab,North
+109,pani puri,All State,All Region
+110,panjeeri,Uttar Pradesh,North
+111,papad,All State,All Region
+112,paratha,Punjab,North
+113,pattor,Rajasthan,West
+114,pindi chana,Punjab,North
+115,rajma chaval,All State,North
+116,rongi,Punjab,North
+117,samosa,All State,All Region
+118,sattu ki roti,Bihar,North
+119,shahi paneer,Punjab,North
+120,shahi tukra,Telangana,South
+121,vegetable jalfrezi,Punjab,North
+122,tandoori chicken,Punjab,North
+123,tandoori fish tikka,Punjab,North
+124,attu,Andhra Pradesh,South
+125,avial,Kerala,South
+126,bisi bele bath,Karnataka,South
+127,currivepillai sadam,Tamil Nadu,South
+128,dosa,All State,South
+129,idiappam,Tamil Nadu,South
+130,idli,All State,South
+131,kanji,Kerala,South
+132,kaara kozhambu,Tamil Nadu,South
+133,keerai kootu,Tamil Nadu,South
+134,keerai masiyal,Tamil Nadu,South
+135,keerai sadam,Tamil Nadu,South
+136,keerai poriyal,Tamil Nadu,South
+137,beef fry,Kerala,South
+138,kootu,Tamil Nadu,South
+139,kos kootu,Tamil Nadu,South
+140,koshambri,Karnataka,South
+141,kothamali sadam,Tamil Nadu,South
+142,kuzhakkattai,Tamil Nadu,South
+143,kuzhambu,Tamil Nadu,South
+144,masala dosa,All State,South
+145,pachadi,All State,South
+146,paniyaram,Tamil Nadu,South
+147,papadum,Kerala,South
+148,paravannam,Kerala,South
+149,payasam,All State,South
+150,paruppu sadam,Tamil Nadu,South
+151,pesarattu,Andhra Pradesh,South
+152,poriyal,Tamil Nadu,South
+153,puli sadam,Tamil Nadu,South
+154,rasam,All State,South
+155,puttu,Kerala,South
+156,sambar,All State,South
+157,sandige,Karnataka,South
+158,sevai,All State,South
+159,thayir sadam,Tamil Nadu,South
+160,theeyal,Kerala,South
+161,uttapam,All State,South
+162,vada,All State,South
+163,chicken varuval,Tamil Nadu,South
+164,upma,All State,All Region
+165,amti,Maharashtra,West
+166,zunka,Maharashtra,West
+167,kolim jawla,Maharashtra,West
+168,saath,Gujarat,West
+169,bajri no rotlo,Gujarat,West
+170,coconut vadi,Maharashtra,West
+171,bhakri,Maharashtra,West
+172,bombil fry,Maharashtra,West
+173,chakali,Maharashtra,West
+174,chevdo,Gujarat,West
+175,chorafali,Gujarat,West
+176,copra paak,Gujarat,West
+177,daal dhokli,Gujarat,West
+178,kutchi dabeli,Gujarat,West
+179,dahi vada,Maharashtra,West
+180,dalithoy,Maharashtra,West
+181,dhokla,Gujarat,West
+182,dudhi halwa,Gujarat,West
+183,gatta curry,Rajasthan,West
+184,gud papdi,Gujarat,West
+185,ghooghra,Gujarat,West
+186,handwo,Gujarat,West
+187,halvasan,Gujarat,West
+188,jeera aloo,Gujarat,West
+189,kansar,Gujarat,West
+190,keri no ras,Gujarat,West
+191,khakhra,Gujarat,West
+192,khandvi,Gujarat,West
+193,kombdi vade,Maharashtra,West
+194,laapsi,Madhya Pradesh,Central
+195,koshimbir,Maharashtra,West
+196,methi na gota,Gujarat,West
+197,mohanthal,Gujarat,West
+198,muthiya,Gujarat,West
+199,patra,Gujarat,West
+200,pav bhaji,Maharashtra,West
+201,puri bhaji,Maharashtra,West
+202,sabudana khichadi,Maharashtra,West
+203,sev khamani,Gujarat,West
+204,sev tameta,Gujarat,West
+205,namakpara,Gujarat,West
+206,sukhdi,Maharashtra,West
+207,surnoli,Maharashtra,West
+208,thalipeeth,Maharashtra,West
+209,undhiyu,Gujarat,West
+210,veg kolhapuri,Maharashtra,West
+211,vindaloo,Goa,West
+212,lilva kachori,Gujarat,West
+213,mag dhokli,Gujarat,West
+214,khichu,Gujarat,West
+215,thepla,Gujarat,West
+216,farsi puri,Gujarat,West
+217,khaman,Gujarat,West
+218,turiya patra vatana sabji,Gujarat,West
+219,churma ladoo,Rajasthan,West
+220,cheera doi,West Bengal,East
+221,gheela pitha,Assam,North East
+222,khar,Assam,North East
+223,kumol sawul,Assam,North East
+224,luchi,West Bengal,East
+225,alu pitika,Assam,North East
+226,masor tenga,Assam,North East
+227,bengena pitika,Assam,North East
+228,bilahi maas,Assam,North East
+229,black rice,Manipur,North East
+230,bora sawul,Assam,North East
+231,brown rice,All State,All Region
+232,chingri malai curry,West Bengal,East
+233,goja,West Bengal,East
+234,hando guri,Assam,North East
+235,haq maas,Assam,North East
+236,chingri bhape,West Bengal,East
+237,kabiraji,West Bengal,East
+238,khorisa,Assam,North East
+239,koldil chicken,Assam,North East
+240,konir dom,Assam,North East
+241,koldil duck,Assam,North East
+242,masor koni,Assam,North East
+243,mishti chholar dal,West Bengal,East
+244,pakhala,Odisha,East
+245,pani pitha,Assam,North East
+246,payokh,Assam,North East
+247,prawn malai curry,West Bengal,East
+248,red rice,All State,All Region
+249,shukto,West Bengal,East
+250,til pitha,Assam,North East
+251,bebinca,Goa,West
+252,shufta,Jammu & Kashmir,North
+253,mawa bati,Madhya Pradesh,Central
+254,pinaca,Goa,West

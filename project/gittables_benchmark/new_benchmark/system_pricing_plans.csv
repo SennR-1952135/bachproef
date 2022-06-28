@@ -1,0 +1,290 @@
+,currency,description,name
+0,CAD,20% off our regular price for Mac students only! ,McMaster Student Monthly
+1,CAD,9¢/minute - the most flexible SoBi plan. ,Pay As You Go
+2,CAD,Prepaid credit cards are allowed. Rider must carry positive balance and have a confirmed email address. ,Prepaid Pay As You Go
+3,CAD,,Monthly Member
+4,USD,"Monthly Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. Plus One-Time $15 Enrollment Fee, Auto-Renew Enabled.",Local30
+5,USD,ONLY FOR RIDERS AGE 13-17. Annual Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. Comes with helmet. ,Local365 Youth (age 13-17 riders)
+6,USD,Annual Membership includes unlimited 60-minute trips. $4 per each additional 30 minutes. B-connected access to other B-cycle cities included.,Local365
+7,USD,24-Hour Access Pass includes unlimited 60-minute trips. $4 per each additional 30 minutes.,Explorer
+8,USD,Non-students/staff will be charged $86.60 for a Local365. HT Ram mem includes unlimited 60-min trips. $4 per each additional 30 mins. Only valid for current Huston-Tillotson University students/staff.,HT Ram Membership
+9,USD,$18 + tax. 72-HR Access Pass includes unlimited 60-min trips.,3-Day Explorer
+10,USD,$1 to start/$2 for 1st 30 min of riding/$4 each add'l 30 min,Single Trip Ride
+11,USD,Annual Membership includes unlimited 60-min. trips & Guest Pass w/ 8 Trips for a Friend. $4 per each add'l 30 mins. Main member pass includes B-connected access to other B-cycle cities.,Local365+Guest Pass
+12,USD,$1.09/mo. MUST USE UT ISSUED E-MAIL. Non-students will be charged $12.99 for day pass. Student membership includes unlimited 60-min. trips. $4 each add'l 30 min. Only valid for current UT students.,U.T. Student Membership
+13,USD,,7 Day
+14,USD,,Annual
+15,USD,,Annual
+16,USD,,30 Day
+17,USD,A three day pass with unlimited 30 minute trips.,Visiting Voyager Pass
+18,USD,30 minute single ride pass to BikeLNK,Quick Tripper Pass
+19,USD,"Aluminum Access with perks! A limited edition B-Card, limited edition t-shirt, & $50 Downtown Lincoln Gift Card to celebrate being a hardcore BikeLNK supporter.",Founding Member
+20,USD,An annual pass with unlimited 30 minute trips.,Aluminum Access
+21,USD,A monthly pass with unlimited 30 minute trips.,Monthly Member
+22,USD,"$5 one-time sign-up fee. All trips charged at $.08/min, including reservation and hold time. User may rent up to 4 bikes. $2 fee for parking out of a station and $10 fee for parking outside of service area apply. Improperly secured bikes may be charged a $5 fee. Please always lock your bike to a BIKETOWN station or public bike rack when you end your trip. Eligible for BIKETOWN Bonus when applicable. ",Pay-As-You-Go
+23,USD,$19/month. Additional bikes billed at $0.08/min. Free time applies to first bike only. $2 fee for ending trip outside of a station and $10 fee for ending trip out of system area apply. Improperly secured bikes may be charged a $5 fee. Please always lock your bike to a BIKETOWN station or public bike rack when you end your trip. Eligible for BIKETOWN Bonus when applicable. ,Month-to-Month 
+24,USD,$99 upfront for annual membership. Additional bikes billed at $0.08/min. Free time applies to first bike only. $10 fee for ending trip out of system area applies. Improperly secured bikes may be charged a $5 fee. Please always lock your bike to a BIKETOWN station or public bike rack when you end your trip. Eligible for BIKETOWN Bonus when applicable. ,Annual Membership
+25,USD,Please be sure to sign up using the email provided by your employer. This will gain you access to all BRiteBikes around Bishop Ranch for free!,Bishop Ranch Tenant Plan
+26,USD,"Examples: gmail, yahoo, hotmail, comcast, etc. Signing up for this plan means you do not have an email address provided by your employer. We will have to verify your identity with your employer so it may take sometime for your account to become active. Thank you for your patience.",Bishop Ranch Tenant Plan - Companies Using Common Email Domains
+27,USD,"Student Annual membership provides members with one hour of free ride time daily. 
+
+You must use a valid student email address to be eligible for the discounted student annual rate and respond to the email confirmation before your account will be activated.
+
+Any rides over one hour will be charged at the Pay As You Go rate of $5/hour, which is prorated to the minute.
+
+Membership renews automatically unless the member turns off the auto-renew feature.
+
+Bikes may be put on hold. Hold time counts just like ride time.
+
+You can rent up to six bikes on a single account, but each additional rental is charged at the Pay As You Go rate of $5/hour, prorated.",Student Annual Membership
+28,USD,"The Premium Annual Membership plan offers two hours of 'free' ride time a day.
+
+For all rides over two hours users will be charged at a rate of $5 per hour, which is prorated to the minute.
+
+All memberships renew automatically unless the member  turns off auto-renew.
+
+Premium members do not pay the $2 Out of Hub fee for locking a bike away from a station hub. 
+
+You can rent up to six bikes on a single account but each additional rental is charged at the Pay As You Go rate of $5/hour.
+",Premium Annual Membership
+29,USD,"The Monthly Membership provides one hour of 'free' ride time every day for 30 days. Any time over one hour is charged at a rate of $5/hour, which is prorated based on actual ride time.
+
+Monthly membership does not renew automatically. If you want to continue your membership month-to-month you will need to turn on the auto-renew feature inside your account.
+
+Putting a bike on hold counts just like ride time.
+
+You can rent up to six bikes on one account. Each additional bike rental will be charged at the $5/hour Pay As You Go rate.",Monthly Membership
+30,USD,"Annual membership provides users one hour of free ride time daily. Any trips over an hour will be charged at the Pay As You Go rate of $5/hour, prorated to the minute. 
+
+All memberships renew automatically unless you turn off the auto-renew feature through your account home page.
+
+Bikes can be put on hold, but hold time counts just like ride time.
+
+You can rent up to six bikes on a single account, but each additional bike will be charged at the Pay As You Go rate of $5/hour.",Annual Membership
+31,USD,"This plan charges a rate of $5 per hour prorated, which is deducted from your initial investment as you ride the bike. If you exceed your initial investment additional time is charged at the same prorated rate.
+
+Locking a bike stops the clock and ends the trip. Locking away from a station hub results in a $2 fee every time the bike is locked away from a station hub.
+  
+If you choose to use the 'Hold' function on the bike, you will be charged at the same $5/hour rate as if you were riding the bike.
+
+You can rent up to six bikes on a single account, each additional rental is charged the same $5/hour rate.",Pay as you Go
+32,USD,Get an unlimited number of 60 minute trips and ride for no extra cost in 25 cities around the country. Overtime fees for trips over 60 minutes: $3 per half hour,Republic Rider (Annual)
+33,USD,This auto-renewing monthly subscription gets you an unlimited number of 30 minute trips. Overtime fees for trips over 30 minutes: $3 per half hour,People's Pedaler (Monthly)
+34,USD,"Only pay for what you use. $2 for the first half hour of each trip, $3 for every half hour after that.",Casual Cruiser (Pay-Per-Trip)
+35,USD,Just visiting? Get an unlimited number of 30 minute trips for a 24 hour period. Overtime fees for trips over 30 minutes: $3 per half hour.,Day Tripper (24 hour)
+36,USD,90 minutes of ride time everyday for 1 year. Valid ucla.edu email address required. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $0.12 per minute. All other fees and credits are described in the rental policy. ,UCLA Annual 
+37,USD,"Minimum purchase of $7 is charged upon sign up to initiate a prepaid balance on the account. Rent up to 6 bikes at the same time charged at the same rate, $7/hour prorated by the minute. All ride time over the initial preloaded amount is charged $7/hour prorated by the minute.
+",Pay As You Go
+38,USD,This plan will renew until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 90 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,Monthly 
+39,USD,"Bike Share for All equity plan. Send photo verification of the account holder's EBT card CHIRLA membership card, or proof that you reside within one of our low-income housing partners to info@bikeshareconnect.com to qualify for this plan. At this time these are the only methods of verification.",Bike Share for All 
+40,USD,Membership will renew annually until the auto-renewal setting is changed or subscription is canceled by Rider. Overage fees not included in the plan will be billed monthly. This plan includes 90 minutes of rental time each calendar day for 365 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,Annual 
+41,USD,Membership fees will be charged every 30 days until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 90 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $7/hour prorated by the minute. All other fees and credits are described in the Rental Policy. ,Academic 
+42,USD,,7 Day
+43,USD,,Annual
+44,USD,If you have a Pay As You Go Pass and want to upgrade call 414-931-1121 before sign-up. The 30-Day Pass gives you unlimited 60-minute trips for 30 days and $3/30 minutes for trips over 60-minutes.,30-Day Pass
+45,USD,If you have a Pay As You Go Pass and want to upgrade call 414-931-1121 before sign-up. The Annual Pass gives you unlimited 60-minute trips for 365 days and $3/30 minutes for trips over 60-minutes.,Annual Pass
+46,USD,The Buslr is specifically designed to go on the back of the MCTS M-Card. The Buslr Pass gives you unlimited 60 minute trips for 365 days. Trips in excess of 60 minutes will be charged $3/30 minutes.,Buslr Card
+47,USD,The Annual+ Pass gives you unlimited 120-minute trips for 365 days and $3/30 minutes for trips over 120-minutes. You will also get a FREE Bicycle Benefits Sticker!,Annual+ Pass
+48,USD,With the 24hr pass you can ride 2hrs before having to dock.  Remember as long as you dock every 2hrs your membership is only $8.  If you go over 2hrs you will incur usage fees.,24-Hour Pass
+49,USD,Save $20 when you purchase an entire year of rides with Charlotte Bcycle. Enjoy unlimited 120 minute rides. Don't forget to dock every 2 hours to avoid usage fees. ,Annual Membership
+50,USD,"Enjoy unlimited 120-minutes rides for a month! Rides longer than 2 hours are subject to a usage fee of $4 per additional 30 minutes. Don't forget to dock every 2 hours, in order to avoid usage fees. ",Monthly - Regular
+51,USD,,24 Hour
+52,USD,,Annual
+53,USD,,Monthly
+54,USD,Free for current APSU Students. MUST USE APSU ISSUED E-MAIL & PROMO CODE.  A promo code will be provided to you via email at the start of the semester. Check your email!  ,APSU Student
+55,USD,,24 Hour
+56,USD,,7 Day
+57,USD,,30 Day
+58,USD,,Annual
+59,USD,"Annual Membership for Clemson Students, Faculty and Staff with @clemson.edu email",Annual Membership
+60,USD,"Annual Student Plan
+Currently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo",Annual Student
+61,USD,"Student, reoccurring monthly membership with 60 minutes of ride time daily.
+
+Currently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo",Monthly Student
+62,USD,,Annual
+63,USD,Monthly Subscription including 60 minutes of ride time per day,Monthly Basic Subscription
+64,USD,Monthly Plus Subscription including 90 minutes of ride time per day,Monthly Plus Subscription
+65,USD,"The Prepaid Pay as You Go plan adds value to your Social Bicycles account which is redeemed as you ride. Once you sign up for a Pay As You Go plan, you're charged the amount you selected plus tax which will be deposited as credit into your account. You will then be charged the amount you designated any time your account goes below $1.00
+
+More frequent riders may want to get an Annual Membership, which will give you 60 minutes of time per day for just $79 per year!
+",Pay As You Go
+66,USD,,Annual
+67,USD,,Single Use Pass
+68,USD,,Monthly
+69,USD,,Annual
+70,USD,,Bike Tour
+71,USD,30 days. 60 day min purchase to avoid $15 cancel fee. Unlimited 0-60 min trips. Trips >60 mins are $5/addl 30 min.,Monthly
+72,USD,365 days. Unlimited 0-60 min trips. Dock bike every 60 minutes. Trips over 60 mins are $5 for each addl 30 mins.,Annual
+73,USD,365 day access pass. $3 for each half hour of use.,Flex Pass
+74,USD,24 HR pass. Unlimited 0-30 min trips. Dock bike every 30 minutes. Trips over 30 mins are $5 each addl 30 mins.,24 HR Online
+75,USD,"24 HR rental. Keep a bike all day, no addl fees. Use cable lock when not riding. Return bike to any station.",24 HR Rental
+76,USD,3-day pass. Unlimited 0-30 min trips. Dock bike every 30 minutes. Trips over 30 mins are $5 each addl 30 mins.,3-Day Online
+77,USD,,Monthly
+78,USD,,Annual
+79,USD,,Fun Pass
+80,USD,"Download the BCycle app on your phone to buy this $6 Day Pass. You get unlimited bike checkouts for the next 24 hours! Keep all your bike checkouts under 30 minutes to avoid any extra fees.  Keep the bike for only $2 more, every 30 minutes.",1 Day Pass (APP ONLY)
+81,USD,"A great value! Get access to unlimited bike checkouts for the next 30 days, for only $1 a day.  ",30 Day Pass
+82,USD,Get instant access to any bike in our system for the next 12 months with an El Paso SunCycle FOB!  Annual Members also receive a customized Hydro Flask bottle for signing up!,Annual Membership
+83,USD,Get to class and anywhere else you can on a SunCycle El Paso bike for the next semester for only $50! ,Semester Pass
+84,USD,BEST VALUE - Get unlimited 60-minutes rides for a full year! Rides longer than 60 minutes are subject to a usage fee of $1.25 per additional 15 minutes.,Annual
+85,USD,Enjoy unlimited 60 minute rides for up to seven days. Single rides longer than 60 minutes are subject to a usage fee of $1.25 per additional 15 minutes.,Weekly 
+86,USD,MOST POPULAR - Enjoy unlimited 60-minute rides for a month! Rides longer than 60 minutes are subject to a usage fee of $1.25 per 15 minutes. Change renewal settings by logging into your Account.,Monthly
+87,USD,"With Pay As You Go, you pay just $1.25 for each 15 minutes you ride. Ride as long as you wish. Perfect for short trips!",Pay As You Go 
+88,USD,Enjoy unlimited 60 minute rides for a whole day! Rides longer than 60 minutes are subject to a usage fee of $1.25 per 15 minutes.,24 Hour Pass
+89,USD,"This membership gives you unlimited rides of 1 hour or less. Remember to ride, return and repeat! You will be charged $4 extra every hour after first hour if bike is not returned within 1 hour. ",Annual
+90,USD,Enjoy all the perks of an annual membership with the convenience of a low monthly payment. There will be a one time $15 activation fee the first month you sign up.,Monthly Auto Renewing
+91,USD,"This short-term membership gives you unlimited rides of one hour or less. Remember to ride, return and repeat! You will be charged $4 extra every hour after first hour if bike is not returned within an hour. ",Unlimited 1 HR Rides for 24-HRS  
+92,USD,3-day pass includes unlimited one-hour rides. Extra charges occur if bike is not returned within one hour. ,3-Day Website 
+93,USD,Students get to enjoy all the perks of an annual membership with a 6 month long membership. ,Semester (6mo)
+94,USD,Ride like a local! This membership includes unlimited hour-long rides.,"Membership: pay monthly, auto-renewing"
+95,USD,Bike and ride like a local.  This membership includes unlimited hour-long rides,Monthly Multipass 
+96,USD,Bike AND ride like a local! This membership includes unlimited hour-long bike share rides AND an annual pass to MAT Bus.,Membership Multi-Pass - One-Year Commitment
+97,USD,Ride and Bike for a day!,Daily Multipass
+98,USD,Ride like a local! This membership includes unlimited hour-long rides.,"Membership: pay once, one-year commitment"
+99,USD,This pass give you unlimited 30-minute rides for 4 consecutive days. Rides longer than 30 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,4-Day Membership
+100,USD,This pass give you unlimited 60-minute rides for 365 days. Rides longer than 60 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,Annual Membership
+101,USD,This pass give you unlimited 30-minute rides for 24 hours. Rides longer than 30 minutes are subject to an Extra Time Charge of $5 per additional 60 minutes.,24-Hour Pass
+102,USD,,Annual
+103,USD,,Weekly
+104,USD,,24-Hour
+105,USD,3-month minimum. Auto renews monthly. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,Monthly Plan (3 month minimum)
+106,USD,3-month minimum. Auto renews monthly. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,Monthly Plus (3 month minimum)
+107,USD,"Minutes are purchased in advance and balance of available time is reduced when used, with no expiration. Check out up to 4 bikes at a time at 12¢/minute using your account number and PIN. ",Pay As You Go
+108,USD,Requires confirmed .edu email address. Check out up to 3 additional bikes at 12¢/minute using account number and PIN.,Student (6 months)
+109,USD,Activates upon purchase. Includes 180 minutes of free usage. Check out up to 3 additional bikes at 12¢/minute using account number and PIN. No credit or refund for unused minutes.,7-Day Pass (180 free minutes)
+110,USD,"Discounts available for businesses and organizations. Check out up to 3 additional bikes at 12¢/minute with account number and PIN.
+",Annual
+111,USD,,Heartland Pass (Annual Pay)
+112,USD,,FUN! Pass
+113,USD,,Heartland Pass (Monthly Pay)
+114,USD,Start and end your ride at any station. Unlimited trips: First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes.,Monthly Membership
+115,USD,Start and end your ride at any station. Unlimited trips: First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes. RFID card included.,Annual Membership
+116,USD,"Only $10 with promo code and school email. Codes listed under ""How It Works"" - Student Memberships. First 60 minutes of EVERY trip are free. Overages: $3 per 30 minutes. Expires May 31.",Spring Student/Staff Membership
+117,USD,,Indego30
+118,USD,,Indego30 Cash (Legacy pass type)
+119,USD,,IndegoFlex
+120,USD,,Access Pass
+121,USD,,Access Cash Pass (Legacy pass type)
+122,USD,,$12 Pass (IBX & Student)
+123,USD,,Day Pass (online purchase)
+124,USD,,Indego365
+125,USD,,Indego365 Access
+126,USD,,TEST Day Pass Electric
+127,USD,Day pass grants access to Unlimited 30 minute trips for a 24 hour period. Bike must be docked every 30 minutes to avoid usage fees. ,24-Hour Pass
+128,USD,Annual Membership grants access to unlimited 30 minute trips for a 365 day period. Bike must be docked every 30 minutes to avoid usage fees. ,Annual Pass
+129,USD,A Monthly Pass grants you access to unlimited 30 minute trips for a 30 day period. Bike must be docked every 30 minutes to avoid usage fees. ,Monthly Pass
+130,USD,Year membership to Jackson County bike share.,Annual Membership
+131,USD,"First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area.
+",Single Ride
+132,USD,"First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area.
+",Single Ride
+133,USD,,Pay-As-You-Go 
+134,USD,Plus applicable taxes and fees. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,Single Ride
+135,USD,Plus applicable taxes and fees. Lock to a bike rack keeping them out of the way of pedestrians and other vehicles.,Single Ride
+136,USD,"We cannot currently accept applications in NYC through the JUMP Bikes app. To book bikes in NYC in the meantime, please use the UBER app.",Download and use the UBER app
+137,USD,First ride paid in advance plus applicable taxes. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,Single Ride
+138,USD,"Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.
+",Monthly Plan
+139,USD,*Plus applicable taxes and fees. Rider must have eligibility approved. Always lock to a bike rack in the system area. $25 fee applies to out-of-system area locking.,Student Plan 2.0
+140,USD,Includes 1 hour of riding time per day. Use your hour however you like: one long trip or multiple short trips! All time prorated to the minute. Additional time billed at $4 per hour.,Monthly
+141,USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area,Single Ride
+142,USD,Plus applicable taxes and fees. Lock to a bike rack keeping them out of the way of pedestrians and other vehicles.,Single Ride
+143,USD,Includes 1 hour of riding time per day.  Use your hour however you like: one long trip or multiple short trips!  All time prorated to the minute.  Additional time billed at $4 per hour,Monthly
+144,USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area.,Single Ride
+145,USD,Plus applicable taxes and fees.,Single Ride
+146,USD,First ride paid in advance plus applicable taxes.  Always lock to a bike rack in the system area.,Single Ride
+147,USD,Keep the bike for up to 24 hours with no extra fees.  ,24 Hour Rental
+148,USD,$3 per 30 minutes.  ,Walk-Up Mobile Pass
+149,USD,Bike share equity program.  $10 annual membership for individuals receiving needs-based services from a program partner.  ,Bike Share for All Program Membership
+150,USD,31-Day BCycle membership plus RideKC bus pass. Unlimited bus rides and unlimited 60 minute bike trips.,Bike + Bus Pass
+151,USD,"Unlimited 30 minute trips all day.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",24 Hour Membership
+152,USD,"Unlimited 60 minute trips all day.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",Annual Membership
+153,USD,"Unlimited 30 minute trips all week.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes.  ",7 Day Membership
+154,USD,"Unlimited 30 minute trips for 31 days.  Ride from station to station, time limits start over with each checkout.  Additional time is $2 per 30 minutes. ",31 Day Membership
+155,USD,,Fun Pass Online
+156,USD,,Annual Membership $15 OFF!!!
+157,USD,,Monthly Membership
+158,USD,,Annual Plus Membership
+159,USD,Unlock trip cost,Unlock Cost
+160,USD,Cost per minutes,Trip Cost
+161,USD,Enjoy unlimited 60-minutes rides for a month! Rides longer than 60 minutes are subject to a usage fee of $3 per additional 60 minutes.,Madtown Monthly
+162,USD,This pass gives you unlimited 30-minute rides for 24 hours. Rides longer than 30 minutes are subject to a usage fee of $3 per additional 30 minutes.,24-Hour Pass
+163,USD,Get unlimited 30-minutes rides for a full year! Rides longer than 30 minutes are subject to a usage fee of $3 per additional 30 minutes.,Annual
+164,USD,Weekly Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,7 Day Pass
+165,USD,Monthly Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,30 Day Pass
+166,USD,Annual Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,Annual Membership
+167,USD,24-Hour Membership includes unlimited trips lasting up to 60 minutes. $3 per each additional 30 minutes.,24-Hour Pass Online
+168,USD,Single ride lasting up to 60 minutes. $3 per each additional 30 minutes.,1-Hour Pass
+169,USD,,Single Ride (Kiosk)_deleted
+170,USD,Monthly Pass (TapForce),Monthly Pass
+171,USD,Annual Pass (TapForce),Annual Pass
+172,USD,Single Ride Pass (TapForce),Pay-Per-Ride Pass
+173,USD,Day Pass (TapForce),Day Pass
+174,USD,Post TAP migration 2.0403a9a02-d641-4156-a395-51985372e04e,Tap rides 2ec9f6ef-cc4c-4d6e-b2b7-f930ac42cdd5
+175,USD,,Metro Bike Share Flex Pass
+176,USD,$5 24 Hour Membership - First hour of each ride included!,24-Hour
+177,USD,$10 7-Day Membership - First hour of each ride included!,7-Day
+178,USD,$15 30-Day Membership - First hour of each ride included!,30-Day
+179,USD,$5 Annual Membership - First hour of each ride included!,Annual
+180,USD,Pass for one 30 minute ride. Usage fees of $3.50/30 minutes. Rides may be over 30 minutes long but will incur usage fees. Receive a text each time a bike is successfully returned. ,one 30 minute ride
+181,USD,"Gift an Annual Pass. Purchaser will be sent a promo code the next business day, for a free Annual Pass. Share code to gift a Pass to another. Each promotional code may only be used once. Usage fees of $1.75 still apply to all rides over one hour duration.",Gift Annual
+182,USD,"Access the system for 48 hours for an unlimited number of 1-hour rides. Rides over one hour incur usage fees at $1.75/half hour. App, phone, or credit card. Receive text each time a bike is returned.","2 day pass, one hour rides"
+183,USD,"Unlimited # of 3-hour rides. Rides over 3 hours incur usage fees of 10 cents per minute. Access for 24 hours. App, phone, or credit card to check out a bike. Text sent each time a bike is returned.",Explorer's Pass online
+184,USD,"$1 to check out bike, then 0.10 per minute",$1 ride test
+185,USD,"$5 month, includes unlimited number of 15 minute rides, usage fees charged are 10 cents per minute.",$5 month test
+186,USD,"Access the system 365 days. Take an unlimited number of 1-hour rides. Rides over an hour incur usage fees of $1.75/half hour. Check out bikes any time with the B-cycle App, phone, credit card, or FOB.",Annual
+187,USD,"Allows  30 days of acecss. Unlimited number of 1 hour rides. Rides over an hour incur usage fees of $1.75/half hour. Check out bikes with the B-cycle App, phone, or credit card. Fob is mailed by request to local address. ",Monthly/Recurring optional
+188,USD,"$10 for unlimited 60-min rides in a 24-hr period.  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  Sales tax applies.
+",24 hour membership
+189,USD,$15 for unlimited 60 min-rides for a month.  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  State and local taxes apply.,Monthly Pass
+190,USD,$90 for unlimited 60-min rides for a year!  Rides lasting more than 60-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  Sales tax applies.,Annual Membership
+191,USD,30-min of ride time for $2!  Rides lasting more than 30-min will accrue an add'l $5 fee each time the 60-min threshold is obtained until bike is locked.  State and local tax applies.,30 Min Single Ride
+192,USD,,24-Hour
+193,USD,,7-Day
+194,USD,,Annual
+195,USD,"$55 a year, $0.01/minute to ride. Valid for 12 months.",Annual Pass
+196,USD,"$9.00 for up to 4 riders, $0.10/ min per bike. Valid for 48 hours.",Group Pass
+197,USD,"$3.00 to start, $0.10/ min per bike. Valid for 48 hours.",2-Day Pass
+198,USD,,UB Pass
+199,USD,,M&T Annual
+200,USD,"No annual commitment, includes 90 minutes of riding time per day",MONTHLY PASS SUBSCRIPTION
+201,USD,"Requires an annual commitment, includes 90 minutes of riding time per day.",ANNUAL PASS
+202,USD,Relay Bike Share offers reduced membership pricing for community members that receive SNAP benefits. Our goal is to empower low income families to have an equal opportunity for alternative modes of transportation. The Relay Bike Share SNAP Pass price is for residents of Atlanta who are 18 years or older and live in an income qualifying household.,SNAP PASS SUBSCRIPTION
+203,USD,"Student Plan Currently Applies to: AUC universities, Emory, GSU, Georgia Tech, Morris Brown University, Oglethorpe University, & SCAD. Enter your @(university).edu email to receive the discounted subscription pass email confirmation.",STUDENT PASS SUBSCRIPTION
+204,USD,"For $3.50 the Pay As You Go plan comes with 30 minutes of ride time and expires after 24 hours. Rides are billed $0.15/minute after your included 30 minutes. Multiple bikes are always billed at $0.15/minute.
+
+More frequent riders may want to get a Monthly Membership, which will give you 90 minutes/day for $15/month.",PAY AS YOU GO
+205,USD,,3 Day Pass Online
+206,USD,,30 Day Pass
+207,USD,,24 Hour Pass Online
+208,USD,Annual Membership includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes.,Annual 
+209,USD,24-Hour Access Pass includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes. ,24-Hour Online
+210,USD,Monthly Membership includes unlimited trips lasting up to 60 minutes. $2 per each additional 30 minutes.,Monthly
+211,USD,One Trip Access Pass includes one trip lasting up to 30 minutes. $3 per each additional 30 minutes.,One Trip
+212,USD,Cycling for Good annual membership in partnership with Earn A Bike with 1/2 going to EAB.,Cycling for Good 
+213,USD,,24 Hour - Web
+214,USD,,7 Day
+215,USD,,Annual
+216,USD,This plan will renew until the auto-renewal setting is changed or subscription is canceled by Rider. This plan includes 60 minutes of rental time each calendar day for 30 days. Additional minutes and multiple bikes are charged at the Pay As You Go rate of $8/hour prorated by the minute. All other fees and credits are described in the Rental Policy. Thank you for riding SoBi Long Beach.,Monthly
+217,USD,Down for the Day?  Take advantage of our pro-rated hourly plan for only $8 an hour! ,Hourly
+218,USD,,Annual
+219,USD,,30 Day
+220,USD,,24 Hour Online
+221,USD,,Student Annual 
+222,USD,Unlock any bike for $2.00. Ride as long as you like for .10 cents per minute.  ,Single Use 
+223,USD,Unlimited 60 minute rides. Rides lasting longer than 60 minutes = .10 cents per minute overage fee. Pass is valid for 24-hours from start of first ride. ,Day Pass
+224,USD,"Unlimited 60 minute rides. Rides lasting longer than 60 minutes = .10 cents per minute overage fee. Pass is good for one year from purchase date.
+
+
+",Annual Pass
+225,USD,"Washburn University and Washburn Technical Institute ID holders - students, faculty, and staff. ",Washburn
+226,USD,,Annual
+227,USD,,Pay As You Go
+228,USD,Monthly payment plan with automatic renewal,Monthly
+229,USD,,UVA 1 Month Plan
+230,USD,,6 Month Plan 
+231,USD,,UVa Semester (UVa E-Mail Required)
+232,USD,,UVa Annual Membership (UVa E-Mail Required)
+233,USD,Hourly pay as you go plan with charges prorated to the minute.  Prepay first 60 minutes of use ($3).,Hourly Plan
+234,USD,,Annual Membership

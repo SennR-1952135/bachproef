@@ -1,0 +1,9 @@
+,class
+0,IProcessingResult
+1,ICommandResultDescription
+2,IServerCommandDescription
+3,ICommandResult
+4,IReadOnlyServerCommand
+5,IServerService
+6,IServerCommand
+7,IReadOnlyServerCommand

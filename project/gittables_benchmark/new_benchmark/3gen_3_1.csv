@@ -1,0 +1,50 @@
+,year,country,city
+0,2017,Singapore,Singapore City
+1,2017,China;United States,Guangzhou;Los Angeles
+2,2017,South Korea,Ulsan
+3,2017,Japan,Kagoshima
+4,2016,China,Zhengzhou
+5,2016,China,Beijing
+6,2016,United States;United States;United States,Albuquerque;Los Alamos;Los Alamos
+7,2016,United Kingdom,Cambridge
+8,2016,China;United States;China;South Korea,Wenzhou;Cleveland;Tianjin;Seoul
+9,2016,United States;United States,Boston;Cambridge
+10,2016,Japan;Japan,Suita;Fukuoka
+11,2016,United Kingdom,Hinxton
+12,2016,United States,Atlanta
+13,2015,Switzerland;Switzerland,Basel;Basel
+14,2015,United States;United States;United Kingdom,Los Alamos;Los Alamos;Hinxton
+15,2015,United States,Cambridge
+16,2015,United Kingdom,Cambridge
+17,2015,United States;United States,Boston;Boston
+18,2015,China,Nanjing
+19,2015,United Kingdom;United Kingdom;United Kingdom,London;London;London
+20,2015,China,Taiyuan
+21,2015,United States;United States,Los Angeles;Los Angeles
+22,2015,France;France;France,Paris;Villetaneuse;Paris
+23,2014,China,Beijing
+24,2014,United States,Chapel Hill
+25,2014,United States,Cambridge
+26,2014,Singapore;United States,Singapore City;Los Angeles
+27,2014,Singapore;United States,Singapore City;Los Angeles
+28,2014,China,Beijing
+29,2013,United States;United States,Los Angeles;Davis
+30,2013,United States,Cambridge
+31,2013,Singapore;United States;United States,Singapore City;Cambridge;Cambridge
+32,2013,Germany,Munich
+33,2013,United States;United States,Boston;Cambridge
+34,2013,United States,Cambridge
+35,2013,China,Nanjing
+36,2013,United Kingdom,London
+37,2012,United States;United States,Baltimore;
+38,2012,United States,Hanover
+39,2012,United States,Los Angeles
+40,2012,United States,Rochester
+41,2012,China,Beijing
+42,2011,Japan;Japan,Chuo-ku;Chuo-ku
+43,2010,United Kingdom,Cambridge
+44,2010,Canada;Canada,Toronto;Toronto
+45,2008,United States;United States,Research Triangle Park;Bethesda
+46,2006,United States,Seattle
+47,2002,United States;United States,Durham;Research Triangle Park
+48,1999,Japan,Tsukuba

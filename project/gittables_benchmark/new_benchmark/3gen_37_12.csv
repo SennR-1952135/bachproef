@@ -1,0 +1,48 @@
+,year,country,city
+0,2006,United Kingdom;Germany,Brentford;Heidelberg
+1,2006,United States;Canada,San Francisco;Toronto
+2,2006,United States;United States,Boston;Boston
+3,2005,United States,Davis
+4,2005,United States,New Haven
+5,2005,United States,St. Louis
+6,2005,United States;United States,Boston;Boston
+7,2005,Germany,Berlin
+8,2005,Israel,Tel Aviv-Yafo
+9,2005,Israel,Tel Aviv-Yafo
+10,2005,United States,Los Alamos
+11,2005,United States;United States,Boston;Evanston
+12,2005,Germany,Saarbrucken
+13,2005,Denmark,Lyngby
+14,2004,United States,New Haven
+15,2004,Israel,Rehovot
+16,2004,United States;United States,San Francisco;Eugene
+17,2004,Israel,Rehovot
+18,2003,France,Paris
+19,2003,United States,Palo Alto
+20,2003,United States;United States,New York;New Haven
+21,2003,United Kingdom,Manchester
+22,2003,Israel,Ramal Aviv
+23,2002,Sweden,Gothenburg
+24,2002,United States,New Haven
+25,2002,India,New Delhi
+26,2002,Germany,Sankt Augustin
+27,2002,Germany;Germany,Freising;Neuherberg
+28,2002,United States,Cambridge
+29,2002,United States,Stanford
+30,2002,Canada,Toronto
+31,2001,United Kingdom;Belgium,Cambridge;Brussels
+32,2001,Japan,Kanazawa
+33,2001,United States,Boston
+34,2000,Canada,Vancouver
+35,2000,,
+36,2000,United States,Seattle
+37,2000,Germany,Sankt Augustin
+38,2000,United States,Palo Alto
+39,2000,Israel,Tel Aviv-Yafo
+40,2000,Japan,Kyoto
+41,1999,United States,Seattle
+42,1998,United States,Stanford
+43,1998,United States,San Francisco
+44,1998,United States,Ithaca
+45,1998,Denmark,Copenhagen
+46,1996,Spain,Valencia

@@ -1,0 +1,235 @@
+,name,address,type
+0,Charlie Horse Restaurant,810 S Atlantic Ave,Seafood
+1,Alfie's Restaurant,1666 Ocean Shore Blvd,American
+2,Jimmy Hula’s Ormond Beach,191 E Granada Blvd,Restaurant
+3,Stonewood Grill & Tavern,100 S Atlantic Ave,American
+4,The Beach Bucket,867 S Atlantic Ave,Grill
+5,"Rose Villa Restaurant, Southern Table and Bar",43 W Granada Blvd,Southern
+6,RiverGrille on the Tomoka,950 US-1,Seafood
+7,Greektown Taverna,150 N Nova Rd,Greek
+8,Lulu's Oceanside Grill,30 S Atlantic Ave,Seafood
+9,Genovese's Italian Café,183 E Granada Blvd,Italian
+10,Betty's A1A Cafe,1900 Ocean Shore Blvd,Seafood
+11,Riptides Raw Bar & Grill,869 S Atlantic Ave,Grill
+12,31 Supper Club,31 W Granada Blvd,Fine Dining
+13,L'angolo,1439 US-1,Italian
+14,Bonefish Grill,814 S Atlantic Ave,Seafood
+15,Don Peppers Mexican Grill Cantina,794 S Atlantic Ave,Mexican
+16,Stavro's Pizza House,1350 Ocean Shore Blvd,Pizza
+17,Thai Woodhouse Restaurant,362 W Granada Blvd,Thai
+18,Peach Valley Cafe,185 E Granada Blvd,Breakfast
+19,La Fiesta Mexican Cocina,348 N Nova Rd,Mexican
+20,The Cellar Restaurant,220 Magnolia Ave,Italian
+21,Hull's Seafood Market,111 W Granada Blvd,Seafood
+22,Absolutely CheeZee,1064 Ocean Shore Blvd,American
+23,Lenny's,298 S Nova Rd,Pizza
+24,Blau,"175 S Nova Rd, #1 & 2",Restaurant
+25,The Black Sheep Pub & Eating House,890 S Atlantic Ave,British
+26,Grind Gastropub & Kona Tiki Bar,49 W Granada Blvd,Gastropub
+27,Billy's Tap Room & Grill,58 E Granada Blvd,Restaurant
+28,63 Sovereign,63 W Granada Blvd,Restaurant
+29,Thai Erawan,219 E Granada Blvd,Thai
+30,IHOP,190 S Atlantic Ave,Restaurant
+31,Salty Farms Seafood Market & Restaurant,1452 Ocean Shore Blvd,Restaurant
+32,Wild Rabbit Bistro,48 E Granada Blvd,Restaurant
+33,Hull's Seafood Restaurant,111 W Granada Blvd,Seafood
+34,Lagerheads Bar And Grill,2986 Ocean Shore Blvd,Seafood
+35,Mario's Restaurant,521 S Yonge St,Italian
+36,Snappers Cove,855 S Nova Rd,Seafood
+37,Frappes Italian Grille FIG,123 W Granada Blvd,Italian
+38,Larry's Giant Subs,251 E Granada Blvd,Sandwich
+39,Colt's Pig Stand,"1633 North, US-1",Barbecue
+40,Eden Fresh Cafe,188 E Granada Blvd,Cafe
+41,"Agave Fresh Mex | Ormond Beach, FL",1474 W Granada Blvd #435,Mexican
+42,Takeya Japanese Steak House and Sushi Bar,220 N Williamson Blvd,Japanese
+43,Gourmet Kitchen,1930 W Granada Blvd,American
+44,Ormond Crab House,801 US-1,Crab
+45,Pacific Asian Bistro,222 N Nova Rd,Chinese
+46,Howard's Famous Restaurant,488 S Yonge St,American
+47,Bamboo Garden Restaurant,749 S Nova Rd,Chinese
+48,Tokyo Japanese Steakhouse and Sushi Bar,175 S Nova Rd STE 9,Asian
+49,Delcato's Pizza & Italian,1474 W Granada Blvd,Pizza
+50,Fresh Guacamole Tequila & Bar,1930 W Granada Blvd,Mexican
+51,Bruno's Pizza,1254 Ocean Shore Blvd,Pizza
+52,Aria Cucina Italiana,230 N Nova Rd,Fine Dining
+53,DB Pickles,400 S Nova Rd,Restaurant
+54,Sun & Sand Cafe,1460 Ocean Shore Blvd,Breakfast
+55,Cracker Barrel Old Country Store,125 Interchange Blvd,American
+56,Outback Steakhouse,135 E Granada Blvd,Steak
+57,Dimitri's Bar Deck and Grill,790 S Atlantic Ave,Grill
+58,Peach Valley Café,1185 W Granada Blvd #1,Breakfast
+59,Sunrise Cafe,779 S Nova Rd,Breakfast
+60,Café One,405 US-1,Restaurant
+61,Pagano's Pizzeria,116 S Nova Rd,Italian
+62,Lenny's,1456 Ocean Shore Blvd,Pizza
+63,Manny's Pizza House,487 S Nova Rd,Pizza
+64,Heffer's Kountry Cafe,603 S Yonge St,Breakfast
+65,Wok & Roll,1345 W Granada Blvd # 8,Chinese
+66,Fancy Sushi,1930 W Granada Blvd #1,Japanese
+67,Moe's Southwest Grill,337 W Granada Blvd,Mexican
+68,Steve's Famous Diner,2011 N Atlantic Ave,Diner
+69,Mia Dona Market,203 S Yonge St,Takeout Restaurant
+70,Little Tomoka Yacht Club,2369 FL-40,Grill
+71,Past Times Restaurant And Bar,709 S Nova Rd,Grill
+72,Green Tea,7 N Nova Rd,Chinese
+73,DUSTIN'S Bar-B-Q,1320 W Granada Blvd,American
+74,Tipsy Taco Cantina,"7881, 746 S Atlantic Ave",Mexican
+75,Beaver Bar Ormond Beach,1105 US-1,Restaurant
+76,Mama Mia's Pizzeria,1345 W Granada Blvd #1,Pizza
+77,Saigon Bistro,600 S Yonge St # 16B,Vietnamese
+78,Chicken Salad Chick,75 N Nova Rd,Southern
+79,Subway,1185 W Granada Blvd Suite #2,Sandwich
+80,Red Bowl,1482 W Granada Blvd #615,Restaurant
+81,Extended Stay Ormond Beach,,2-star hotel
+82,Makai Beach Lodge,,2-star hotel
+83,The Maverick Resort and Restaurant,,3-star hotel
+84,Gotham City Pizza,197 N Yonge St,Pizza
+85,Nikke's Caribbean Kitchen,175 S Nova Rd #6b,Caribbean
+86,Duff's Original Buffet,2667 N Atlantic Ave,Buffet
+87,Chili's Grill & Bar,190 Williamson Blvd,Tex Mex
+88,China House Restaurant,1844 Ridgewood Ave,Chinese
+89,Applebee's Grill + Bar,150 Williamson Blvd,Restaurant
+90,Iron Horse Saloon,1068 US-1,Grill
+91,Saints & Sinners Pub,1635 US-1,Grill
+92,Subway,1058 US-1 N,Sandwich
+93,China-1,2655 N Atlantic Ave,Restaurant
+94,Boston Market,1425 W Granada Blvd,American
+95,TGI Fridays,24 Ocean Shore Blvd,Restaurant
+96,Waffle House,"1570 N, US-1",Breakfast
+97,La's Bistro,439 S Nova Rd,Bistro
+98,Maria's Cafeteria cuban cuisine,1314 Ocean Shore Blvd,Cuban
+99,Venice Pizza & Pasta,621 S Yonge St,Restaurant
+100,Flapjack Johnny's,165 N Yonge St,Restaurant
+101,Arby's,380 W Granada Blvd,Fast Food
+102,Ormond Garage,48 W Granada Blvd,Restaurant
+103,Bronx House Pizza,1290 W Granada Blvd #200,Pizza
+104,Steak 'n Shake,120 Williamson Blvd,Hamburger
+105,Denny's,110 N Williamson Blvd,Diner
+106,Pizza Hut,432 S Atlantic Ave,Pizza
+107,Sushi 99,155 E Granada Blvd,Restaurant
+108,Ormond Beach Pizza,1456 Ocean Shore Blvd,Pizza
+109,McDonald's,100 S Nova Rd,Fast Food
+110,Donnie's Donuts,200 E Granada Blvd,Donuts
+111,European Cafe & Schnitzel House,210 S Atlantic Ave,Cafe
+112,Fridays,275 FL-40,Restaurant
+113,House of Donuts,1350 Ocean Shore Blvd,Coffee shop
+114,Love Whole Foods Cafe & Market,275 Williamson Blvd,Health food store
+115,KFC,294 West Granada Avenue,Chicken
+116,Pirana Grill,241 N US-1,Grill
+117,Hot Wok,345 W Granada Blvd,Chinese
+118,Wendy's,335 W Granada Blvd Ave,Fast Food
+119,Taco Bell,361 W Granada Blvd,Fast Food
+120,Pizza Hut,376 W Granada Blvd #8A,Pizza
+121,Flapjack Johnny’s,330 S Atlantic Ave,Restaurant
+122,Wing Street,432 S Atlantic Ave,Takeout Restaurant
+123,Houligan's,1110 W Granada Blvd,Restaurant
+124,C's Waffles Daytona Beach - Bellair Plaza,2575 N Atlantic Ave ste b,Restaurant
+125,Wasabi,1834 Ridgewood Ave,Authentic Japanese
+126,Chef Rx Grab N Go Store,126 W Granada Blvd,Takeout Restaurant
+127,Curly Cream Rolled Icecream,2553 N Atlantic Ave,Restaurant
+128,Wendy's,75 N Williamson Blvd,Fast Food
+129,Panera Bread,1310 W Granada Blvd,Sandwich
+130,Five Star Pizza,294 N Nova Rd,Pizza Delivery
+131,Fletchers Irish Pub,393 W Granada Blvd,Irish pub
+132,Hungry Howie's Pizza,1674 Ridgewood Ave,Pizza
+133,China Taste,1228 Ocean Shore Blvd,Chinese
+134,Frida's Mexican Restaurant,195 W Granada Blvd,Mexican
+135,J Grill,1185 W Granada Blvd #5,Middle Eastern
+136,Subway,355 W Granada Blvd Unit C,Sandwich
+137,Einstein Bros. Bagels,110 S Nova Rd,Bagel shop
+138,Sonic Drive-In,1830 Ridgewood Ave,Fast Food
+139,The Sandwich Shoppe,761 S Yonge St,Sandwich
+140,Sorrento's Jr. Restaurant,1341 Ridgewood Ave,Pizza
+141,Domino's Pizza,343 W Granada Blvd # H,Pizza Delivery
+142,Gold Leaf Coffee Co.,17 W Granada Blvd,Coffee shop
+143,Denny's,2701 N Atlantic Ave,Diner
+144,Papa John's Pizza,1425 W Granada Blvd Unit 7,Pizza
+145,McDonald's,3001 N Atlantic Ave,Fast Food
+146,Dunkin',300 S Nova Rd,Coffee shop
+147,SeaSide Bistro and Bar,930 N Atlantic Ave,Seafood
+148,Jimmy John's,300 W Granada Blvd #100,Sandwich
+149,Stonewood Grill & Tavern,2150 Lpga Blvd,American
+150,Anna's Trattoria Italian,304 Seabreeze Blvd,Italian
+151,Subway,2429 N Atlantic Ave Unit 19,Sandwich
+152,Dunkin',250 S Atlantic Ave,Coffee shop
+153,Caribbean Jack's Restaurant and Bar,721 Ballough Rd,Caribbean
+154,Chez Paul Gourmet Restaurant,927 N Beach St,Fine Dining
+155,Daytona Taproom,310 Seabreeze Blvd,Hamburger
+156,Reflections,2700 N Atlantic Ave,Gastropub
+157,Ocean Deck Restaurant & Beach Club,127 S Ocean Ave,Seafood
+158,Fraze's Scratch Cookin',1008 Ridgewood Ave,Restaurant
+159,STARLITE DINER,401 N Atlantic Ave,Diner
+160,Hyde Park Prime Steakhouse,100 N Atlantic Ave,Steak
+161,The Oyster Pub,555 Seabreeze Blvd,Restaurant
+162,Sloppy Joe's Daytona Beach,"250, Ocean Walk Shoppes, 4177, N Atlantic Ave #220",Seafood
+163,Alies restaurant,,Restaurant
+164,Bubba Gump Shrimp Co.,250 N Atlantic Ave Suite 120,Seafood
+165,Mai Tai Bar,250 N Atlantic Ave Suite 130,Restaurant
+166,Cafe Du Japon,306 Seabreeze Blvd,Sushi
+167,Chucherias Restaurant,101 2nd St #500,Latin American
+168,Woody's Bar-B-Q,1593 N Nova Rd,Barbecue
+169,Oliv Epicurean Grill,701 Ridgewood Ave suite a,Mediterranean
+170,Beach Side Brew Pub,1368 Ocean Shore Blvd,Brewery
+171,Doc Bales' Grill,"100, 4204, N Atlantic Ave",Seafood
+172,Joe's Crab Shack,1200 Main St,Seafood
+173,The Roof,1200 Main St,Restaurant
+174,Siam Spice Thai Restaurant,101 Bay St,Thai
+175,Zen Bistro,223 Magnolia Ave,Thai
+176,The Cellar Restaurant,220 Magnolia Ave,Italian
+177,Don Vito's Italian Restaurant,137 W International Speedway Blvd,Italian
+178,Dancing Avocado Kitchen (daK),110 S Beach St,American
+179,Rossellini`s Italian Restaurant & Lounge Bar,136 S Atlantic Ave,Restaurant
+180,Ronin Sushi & Bar,111 W International Speedway Blvd,Sushi
+181,Corleone’s Famous New York Pizza & Gyros,817 E International Speedway Blvd,Italian
+182,Sakana Japanese Steakhouse & Sushi Bar,501 Seabreeze Blvd,Japanese
+183,Chow Cab,,Fast Food
+184,Session,918 N Atlantic Ave,Restaurant
+185,Tijuana Flats,2280 W International Speedway Blvd,Tex Mex
+186,Cool Runnings Jamaican Restaurant,1210 N Nova Rd,Jamaican
+187,Tia Cori's Tacos,214 N Beach St,Mexican
+188,LandShark Bar & Grill Daytona Beach,471 S Atlantic Ave,Restaurant
+189,Crab Stop II,933 W International Speedway Blvd,Crab
+190,Aavtar Indian Cuisine,318 S Atlantic Ave,Indian
+191,Chart House,1100 Marina Point Dr,Seafood
+192,Hibachi Grill & Supreme Buffet,1320 W International Speedway Blvd,Buffet
+193,Daytona Pizza & Wing Co.,316 Seabreeze Blvd,Pizza
+194,Oasis Tiki Bar & Grill,313 S Atlantic Ave,Grill
+195,Culver's,1560 Outlet Blvd,American
+196,IHOP,427 N Atlantic Ave,Restaurant
+197,Captain Pizza & Grill,701 N Atlantic Ave,Pizza
+198,ICHI NI SAN Asian Grilled Ramen & Sushi,246 S Beach St,Ramen
+199,Kangaroo Express,1150 Ocean Shore Blvd,Convenience store
+200,Zappi's Italian Garden,128 S Beach St,Italian
+201,Thai Noodle City,1025 N Nova Rd #111,Thai
+202,Pizza King,"4270 1, Boardwalk",Pizza
+203,Bay St Seafood,Daytona Beach,Restaurant
+204,Bahama Breeze - Curbside To Go & Delivery,Daytona Beach,Caribbean
+205,BJ's Restaurant & Brewhouse,Daytona Beach,Restaurant
+206,Cheddar's Scratch Kitchen,Daytona Beach,Traditional American
+207,The WingHouse of Daytona Beachside,Daytona Beach,Grill
+208,Waffle House,Daytona Beach,Breakfast
+209,Gateway Restaurant,Daytona Beach,Breakfast
+210,The Original Stavro's Pizza House,Daytona Beach,Pizza
+211,Rosie's Italian Bakery & NY Style Deli,Daytona Beach,Bakery
+212,U China,Daytona Beach,Restaurant
+213,Leanh's Chinese Restaurant,South Daytona,Chinese
+214,Great China,Daytona Beach,Chinese
+215,Martini's Organic Restaurant,South Daytona,Steak
+216,Miller's Ale House - Daytona,Daytona Beach,Restaurant
+217,Planet Smoothie Daytona Beach Speedway,Daytona Beach,Health Food
+218,Rivergate Coffee Shop,Ormond Beach,Coffee shop
+219,Papa John's Pizza,Daytona Beach,Pizza
+220,Domino's Pizza,Daytona Beach,Pizza Delivery
+221,Steak 'n Shake,Daytona Beach,Hamburger
+222,Molly Hatchets Sub Shop,Daytona Beach,Sandwich
+223,Italian Pizza and Grill,515 N Atlantic Ave #3926,Pizza
+224,Bonefish Grill,1702 W International Speedway Blvd,Seafood
+225,Dunkin',1190 Ocean Shore Blvd,Coffee shop
+226,Checkers,898 N Nova Rd,Restaurant
+227,King Restaurant,3768 Roscommon Dr,Chinese
+228,King's Pizza & Mediterranean,615 Seabreeze Blvd,Pizza
+229,Top of Daytona Restaurant,2625 S Atlantic Ave,Restaurant
+230,The Shores Resort & Spa,,4-star hotel
+231,Huey Magoo’s Chicken Tenders - Daytona Beach,1268 Beville Rd,Chicken
+232,Sicily Pizza,20 S Atlantic Ave,Pizza
+233,Checkers,575 W International Speedway Blvd,Restaurant

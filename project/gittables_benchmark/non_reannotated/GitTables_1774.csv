@@ -1,0 +1,67 @@
+,class,description
+0,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has 122 lines of code.
+1,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has 126 lines of code.
+2,SqlServerConfigurationProvider<TAppConfiguration>,The method has 102 lines of code.
+3,ReflectionUtils,The method has 112 lines of code.
+4,ConfigurationFileConfigurationProvider<TAppConfiguration>,Cyclomatic complexity of the method is 15
+5,ConfigurationFileConfigurationProvider<TAppConfiguration>,Cyclomatic complexity of the method is 9
+6,ConfigurationFileConfigurationProvider<TAppConfiguration>,Cyclomatic complexity of the method is 9
+7,ConfigurationFileConfigurationProvider<TAppConfiguration>,Cyclomatic complexity of the method is 13
+8,ConfigurationFileConfigurationProvider<TAppConfiguration>,Cyclomatic complexity of the method is 29
+9,DataUtils,Cyclomatic complexity of the method is 9
+10,DataUtils,Cyclomatic complexity of the method is 10
+11,DataUtils,Cyclomatic complexity of the method is 10
+12,DataUtils,Cyclomatic complexity of the method is 12
+13,DataUtils,Cyclomatic complexity of the method is 12
+14,DataUtils,Cyclomatic complexity of the method is 14
+15,DataUtils,Cyclomatic complexity of the method is 14
+16,Encryption,Cyclomatic complexity of the method is 12
+17,ReflectionUtils,Cyclomatic complexity of the method is 8
+18,ReflectionUtils,Cyclomatic complexity of the method is 10
+19,ReflectionUtils,Cyclomatic complexity of the method is 11
+20,ReflectionUtils,Cyclomatic complexity of the method is 28
+21,StringSerializer,Cyclomatic complexity of the method is 9
+22,StringUtils,Cyclomatic complexity of the method is 8
+23,StringUtils,Cyclomatic complexity of the method is 10
+24,DataAccessBase,Cyclomatic complexity of the method is 9
+25,DataAccessBase,Cyclomatic complexity of the method is 8
+26,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has 5 parameters. Parameters: keyName' Value' Field' Dom' ConfigSection
+27,StringUtils,The method has 6 parameters. Parameters: source' beginDelim' endDelim' caseSensitive' allowMissingEndDelimiter' returnDelimiters
+28,StringUtils,The method has 5 parameters. Parameters: origString' findString' replaceWith' instance' caseInsensitive
+29,DataAccessBase,The method has 5 parameters. Parameters: sql' pageSize' page' sortOrderFields' Parameters
+30,DataAccessBase,The method has 5 parameters. Parameters: Entity' Table' KeyField' KeyValue' FieldsToSkip
+31,DataAccessBase,The method has 5 parameters. Parameters: Entity' Table' KeyField' FieldsToSkip' FieldsToUpdate
+32,SqlDataAccess,The method has 5 parameters. Parameters: sql' pageSize' page' sortOrderFields' Parameters
+33,ConfigurationFileConfigurationProvider<TAppConfiguration>,"The length of the statement  ""                MemberInfo[] Fields = typeWebConfig.GetMembers(BindingFlags.Instance | BindingFlags.GetField | BindingFlags.GetProperty | BindingFlags.Public);"" is 143."
+34,ConfigurationFileConfigurationProvider<TAppConfiguration>,"The length of the statement  ""                    Attr2.Value = ""System.Configuration.NameValueSectionHandler'System'Version=1.0.3300.0' Culture=neutral' PublicKeyToken=b77a5c561934e089"";"" is 137."
+35,JsonFileConfigurationProvider<TAppConfiguration>,"The length of the statement  ""            var newConfig = JsonSerializationUtils.DeserializeFromFile(JsonConfigurationFile' typeof(TAppConfiguration)) as TAppConfiguration;"" is 130."
+36,XmlFileConfigurationProvider<TAppConfiguration>,"The length of the statement  ""            var newConfig = SerializationUtils.DeSerializeObject(XmlConfigurationFile'typeof(TAppConfiguration)'UseBinarySerialization) as TAppConfiguration;"" is 145."
+37,XmlFileConfigurationProvider<TAppConfiguration>,"The length of the statement  ""            var result = SerializationUtils.DeSerializeObject(XmlConfigurationFile'typeof(TAppConfig)'UseBinarySerialization) as TAppConfig;"" is 128."
+38,DataUtils,"The length of the statement  ""            MemberInfo[] miT = targetObject.GetType().FindMembers(MemberTypes.Field | MemberTypes.Property' MemberAccess' null' null); "" is 122."
+39,ReflectionUtils,"The length of the statement  ""                return instance.GetType().GetMethod(method' ReflectionUtils.MemberAccess | BindingFlags.InvokeMethod).Invoke(instance' parms); "" is 126."
+40,ReflectionUtils,"The length of the statement  ""                return instance.GetType().GetMethod(method' ReflectionUtils.MemberAccess | BindingFlags.InvokeMethod' null' parameterTypes' null).Invoke(instance' parms); "" is 154."
+41,ReflectionUtils,"The length of the statement  ""                result = type.InvokeMember(property' BindingFlags.Static | BindingFlags.Public | BindingFlags.GetField | BindingFlags.GetProperty' null' type' null); "" is 149."
+42,SerializationUtils,"The length of the statement  ""                Debug.Write(""SerializeObject failed with : "" + ex.GetBaseException().Message + ""\r\n"" + (ex.InnerException != null ? ex.InnerException.Message : """")' ""West Wind""); "" is 163."
+43,ConfigurationFileConfigurationProvider<TAppConfiguration>,"The conditional expression  ""valueType == typeof(int) || valueType == typeof(decimal) ||                 valueType == typeof(double) || valueType == typeof(float) || valueType == typeof(Single)""  is complex."
+44,ConfigurationFileConfigurationProvider<TAppConfiguration>,"The conditional expression  ""!isEmpty &&                     sourceString.ToLower() == ""true"" || sourceString.ToLower() == ""on"" || sourceString == ""1""""  is complex."
+45,DataUtils,"The conditional expression  ""sqlType == SqlDbType.NText || sqlType == SqlDbType.Text ||                  sqlType == SqlDbType.VarChar || sqlType == SqlDbType.NVarChar""  is complex."
+46,ReflectionUtils,"The conditional expression  ""valueType == typeof(int) || valueType == typeof(decimal) ||                  valueType == typeof(double) || valueType == typeof(float) || valueType == typeof(Single)""  is complex."
+47,ReflectionUtils,"The conditional expression  ""!isEmpty &&                      sourceString.ToLower() == ""true"" || sourceString.ToLower() == ""on"" || sourceString == ""1""""  is complex."
+48,StringUtils,"The conditional expression  ""!first &&                        ( char.IsUpper(ch) ||                          char.IsDigit(ch) && !char.IsDigit(lastChar))""  is complex."
+49,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has an empty catch block.
+50,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has an empty catch block.
+51,ConfigurationFileConfigurationProvider<TAppConfiguration>,The method has an empty catch block.
+52,StringSerializer,The method has an empty catch block.
+53,MyAppConfiguration,The following statement contains a magic number: MaxPageListItems = 15;
+54,Encryption,The following statement contains a magic number: int minSaltSize = 4;
+55,Encryption,The following statement contains a magic number: int maxSaltSize = 8;
+56,SerializationUtils,The following statement contains a magic number: writer.Indentation = 3;
+57,SerializationUtils,The following statement contains a magic number: writer.Indentation = 3;
+58,StringUtils,"The following statement contains a magic number: switch (text[i])                  {                        case '<':                          sb.Append(""&lt;"");                          break;                      case '>':                          sb.Append(""&gt;"");                          break;                      case '""':                          sb.Append(""&quot;"");                          break;                      case '&':                          sb.Append(""&amp;"");                          break;                      default:                          if (text[i] > 159)                          {                              // decimal numeric entity                              sb.Append(""&#"");                              sb.Append(((int)text[i]).ToString(CultureInfo.InvariantCulture));                              sb.Append("";"");                          }                          else                              sb.Append(text[i]);                          break;                  }"
+59,StringUtils,The following statement contains a magic number: StringBuilder sb = new StringBuilder(camelCase.Length + 10);
+60,StringUtils,"The following statement contains a magic number: string[] lines = text.Split(new string[3] { ""\r\n""' ""\r""' ""\n"" }' StringSplitOptions.None);"
+61,StringUtils,The following statement contains a magic number: int minPadding = 1000;
+62,StringUtils,The following statement contains a magic number: MemoryStream ms = new MemoryStream(text.Length * 2);
+63,StringUtils,The following statement contains a magic number: int lnStart = Index + 2 + key.Length;
+64,StringUtils,The following statement contains a magic number: value /= 36;
+65,StringUtils,The following statement contains a magic number: returnValue += Convert.ToInt64(valueindex * Math.Pow(36' i));

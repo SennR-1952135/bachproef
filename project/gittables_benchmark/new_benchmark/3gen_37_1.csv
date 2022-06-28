@@ -1,0 +1,89 @@
+,year,country,city
+0,2009,United States;United States,San Francisco;Chevy Chase
+1,2008,Germany,Saarbrucken
+2,2008,United States;United States,Stanford;Palo Alto
+3,2008,United States,Seattle
+4,2007,United States,Austin
+5,2007,United States,Palo Alto
+6,2007,United States,Austin
+7,2007,Switzerland,Geneva
+8,2007,Italy,Milan
+9,2007,United States;United States,Berkeley;San Francisco
+10,2007,India,Hyderabad
+11,2007,Canada;Canada,Toronto;Toronto
+12,2007,Canada,Toronto
+13,2007,United States;United States;United States,Berkeley;San Francisco;Chevy Chase
+14,2007,United States,Palo Alto
+15,2006,Belgium,Brussels
+16,2006,United States,Columbus
+17,2006,United States,San Francisco
+18,2006,United States,Chevy Chase
+19,2006,United States,San Francisco
+20,2006,United States,Ann Arbor
+21,2006,United States,New Haven
+22,2006,United Kingdom;Germany,Brentford;Heidelberg
+23,2006,United States;Canada,San Francisco;Toronto
+24,2006,United States;United States,Cambridge;Cambridge
+25,2006,United States,San Francisco
+26,2006,Germany,Neuherberg
+27,2005,Japan,Tokyo
+28,2005,United States,San Francisco
+29,2005,Germany,Berlin
+30,2005,United States,New Haven
+31,2005,Hungary;Hungary,Budapest;Budapest
+32,2005,United States,Urbana
+33,2005,Netherlands,Amsterdam
+34,2005,United States,Philadelphia
+35,2005,United States,Kansas City
+36,2005,France,Paris
+37,2004,United States,Boston
+38,2004,United States,Seattle
+39,2004,Canada;Canada,Toronto;Toronto
+40,2004,United States;United States,Cambridge;Cambridge
+41,2004,United States,Nashville
+42,2004,United States;United States,Boston;Boston
+43,2004,United States,Boston
+44,2003,Germany;Germany,Berlin;Heidelberg
+45,2003,United States,New Haven
+46,2003,United Kingdom,Cambridge
+47,2003,United States;United States,New York;New Haven
+48,2003,United States,San Francisco
+49,2003,United States,San Francisco
+50,2003,United Kingdom,Brentford
+51,2003,Denmark;United States,Odense;Baltimore
+52,2003,United States,Austin
+53,2003,United Kingdom,Manchester
+54,2003,Canada;Canada;United States,Toronto;Toronto;New York
+55,2003,United States,Los Angeles
+56,2003,United States,Palo Alto
+57,2003,Germany;Germany,Berlin;Heidelberg
+58,2002,Israel,Haifa
+59,2002,Poland,Warsaw
+60,2002,United States,Florham Park
+61,2002,United States,San Francisco
+62,2002,United Kingdom,Cambridge
+63,2002,Italy,Rome
+64,2002,United States,Stanford
+65,2002,United States,Boston
+66,2002,United States,New Haven
+67,2002,United States,Los Angeles
+68,2002,Canada,Toronto
+69,2002,United Kingdom,Brentford
+70,2001,United States,Notre Dame
+71,2001,Japan,Kanazawa
+72,2001,Australia,Sydney
+73,2001,United States,Stanford
+74,2001,United States,San Diego
+75,2001,United States,Cambridge
+76,2000,,
+77,2000,United States,Bethesda
+78,2000,United States,Seattle
+79,2000,United States,Tucson
+80,2000,United States,Stanford
+81,1999,United States,Los Angeles
+82,1998,United States,Stanford
+83,1998,United States,Palo Alto
+84,1997,United States,Stanford
+85,1997,United States,Florham Park
+86,1996,Germany,Heidelberg
+87,1996,United States,Cold Spring Harbor

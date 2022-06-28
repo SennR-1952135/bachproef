@@ -1,0 +1,458 @@
+,location,category,name
+0,chase,Plant Forward,Guacamole
+1,chase,Deli,Chunky Chicken Salad
+2,chase,The Kitchen Table,Buttered Egg Noodles with Parsley
+3,chase,Deli,Multigrain Bread
+4,chase,Pizza,Classic Cheese Pizza
+5,chase,Beverages,Larry's Coffee
+6,chase,The Griddle,Bibb Lettuce
+7,chase,Deli,Sourdough
+8,chase,Cereal,Cinnamon Toast Crunch
+9,chase,Salad Bar,Sliced Mushrooms
+10,chase,Assorted Breads,Sesame Bagel
+11,chase,The Kitchen Table,Steamed Green Peas
+12,chase,Beverages,Lactose Free Milk
+13,chase,Deli,Lite Mayonnaise
+14,chase,Deli,Sliced Tomatoes
+15,chase,Pizza,Vegan Cheese Pizza
+16,chase,Deli,Lettuce
+17,chase,Salad Bar,Diced Grilled Chicken
+18,chase,Beverages,100% Apple Juice
+19,chase,Beverages,Cheerwine
+20,chase,Pizza,Buffalo Chicken Cheese Stick Pizza
+21,chase,The Griddle,Grilled Cheese on Sourdough
+22,chase,Bakery,Rice Krispie Treats
+23,chase,Salad Bar,Brown Sugar
+24,chase,Beverages,Diet Pepsi
+25,chase,Deli,Spicy Brown Mustard
+26,chase,Salad Bar,Dried Cranberries
+27,chase,Beverages,Sweet Tea
+28,chase,Condiments and Spreads,Original Creamer
+29,chase,Assorted Breads,Rye Bread Slice
+30,chase,Beverages,Skim Milk
+31,chase,Deli,Tuna Salad
+32,chase,Specialty Bakery,Assorted Yogurts
+33,chase,Assorted Breads,Kaiser Roll
+34,chase,Pasta,Penne
+35,chase,Condiments and Spreads,Plain Cream Cheese
+36,chase,The Kitchen Table,Bacon
+37,chase,Salad Bar,Croutons
+38,chase,Beverages,Reduced Fat Milk
+39,chase,Assorted Breads,Poppy Bagel
+40,chase,Fresh,Spinach & Artichoke Panini
+41,chase,Deli,Black Olives
+42,chase,Salad Bar,Reduced Fat Cottage Cheese
+43,chase,Cereal,Apple Jacks
+44,chase,Beverages,100% Orange Juice
+45,chase,Beverages,Larry's Decaf Coffee
+46,chase,Vegan Plant Forward,Three Bean Taco Bowl
+47,chase,Simply Prepared Grill,Roasted Turkey Breast
+48,chase,The Griddle,Sliced Vermont Cheddar Cheese
+49,chase,Pizza,Cheese Bread
+50,chase,The Kitchen Table,Veggie Sausage
+51,chase,Bakery,Assorted Danishes
+52,chase,Assorted Breads,White Dinner Roll
+53,chase,Pizza,Classic Pepperoni Pizza
+54,chase,Salad Bar,Spinach
+55,chase,Salad Bar,Nonfat Vanilla Greek Yogurt
+56,chase,Condiments and Spreads,Grape Jelly
+57,chase,Deli,White Sub Roll
+58,chase,Cereal,Raisin Bran
+59,chase,Salad Bar,Crunchy Oats and Honey Granola
+60,chase,Beverages,Tropicana Lemonade
+61,chase,The Kitchen Table,Oatmeal
+62,chase,Deli,12' Assorted Wraps
+63,chase,Salad Bar,Nonfat Vanilla Greek Yogurt
+64,chase,Assorted Breads,Wheat Dinner Roll
+65,chase,Beverages,Chocolate Soymilk
+66,chase,Condiments and Spreads,Margarine
+67,chase,Condiments and Spreads,Plain Cream Cheese
+68,chase,Vegan Plant Forward,"Chili Roasted Mango, Plantains, and Pineapples"
+69,chase,Deli,Mayonnaise
+70,chase,Deli,Swiss Cheese
+71,chase,Salad Bar,Chickpeas
+72,chase,Beverages,Wild Cherry Pepsi
+73,chase,Salad Bar,Iceberg Lettuce
+74,chase,Beverages,Low Fat Chocolate Milk
+75,chase,Beverages,Strawberry Kiwi Juice
+76,chase,Deli,Sliced Salami
+77,chase,Pasta,Marinara
+78,chase,Soup and Salads,Hearty Vegetable Soup
+79,chase,Condiments and Spreads,Strawberry Cream Cheese
+80,chase,Assorted Breads,Wheat Bread Slice
+81,chase,Condiments and Spreads,Strawberry Jelly
+82,chase,The Kitchen Table,Biscuits
+83,chase,Salad Bar,Bacon Pieces
+84,chase,Condiments and Spreads,Tabasco Hot Sauce
+85,chase,Simply Prepared Grill,Brown Rice
+86,chase,Deli,Honey Mustard Dressing
+87,chase,Deli,White Bread
+88,chase,Assorted Breads,Multigrain Bread
+89,chase,Assorted Breads,Rye Bread Slice
+90,chase,Deli,Sliced Dill Pickles
+91,chase,Condiments and Spreads,A.1. Steak Sauce
+92,chase,Deli,White Bread
+93,chase,Simply Prepared Grill,Roasted Garlic Green Beans
+94,chase,Beverages,Larry's Coffee
+95,chase,Beverages,Root Beer
+96,chase,The Kitchen Table,Cage Free Hard Boiled Egg
+97,chase,Simply Prepared Grill,Steamed Broccoli
+98,chase,Soup and Salads,Buffalo Chicken Salad
+99,chase,The Griddle,Bacon and Cheese Omelet
+100,chase,Beverages,Diet Dr. Pepper
+101,chase,Deli,Sliced Red Onion
+102,chase,Cereal,Special K
+103,chase,Salad Bar,Applesauce
+104,chase,Beverages,Diet Dr. Pepper
+105,chase,Cereal,Frosted Flakes
+106,chase,Beverages,Gatorade Fruit Punch
+107,chase,Condiments and Spreads,Strawberry Jelly
+108,chase,Cereal,Cinnamon Toast Crunch
+109,chase,Deli,Sliced Pepper Jack Cheese
+110,chase,Beverages,Whole Milk
+111,chase,Nacho Bar,Cheddar Cheese
+112,chase,Cereal,Lucky Charms
+113,chase,Bakery,Double Chocolate Chip Muffin
+114,chase,Beverages,Diet Pepsi
+115,chase,Salad Bar,Shredded Carrots
+116,chase,Bakery,Orange Coffee Cake w/ Chocolate Streusel
+117,chase,Beverages,Skim Milk
+118,chase,Assorted Breads,Multigrain Bagel
+119,chase,The Griddle,Hash Brown Potato Patty
+120,chase,Cereal,Froot Loops
+121,chase,Specialty Bakery,Assorted Yogurts
+122,chase,Fresh,The Cuban Panini
+123,chase,Bakery,Assorted Cookies
+124,chase,Deli,Oil and Vinegar
+125,chase,Assorted Breads,Everything Bagel
+126,chase,Beverages,Larry's Decaf Coffee
+127,chase,The Griddle,Hamburger Bun
+128,chase,Assorted Breads,Hoagie Roll
+129,chase,Condiments and Spreads,Chives and Onion Cream Cheese
+130,chase,Specialty Bakery,Assorted Yogurt Parfaits
+131,chase,Condiments and Spreads,Ketchup
+132,chase,Deli,American Cheese
+133,chase,Cereal,Trix
+134,chase,The Griddle,Sliced Tomatoes
+135,chase,Pasta,Alfredo Sauce
+136,chase,Beverages,Sierra Mist
+137,chase,Nacho Bar,Queso Sauce
+138,chase,The Griddle,Hamburger Patty
+139,chase,Deli,Chipotle Mayo
+140,chase,Cereal,Cocoa Puffs
+141,chase,Salad Bar,Lowfat Organic Strawberry Yogurt
+142,chase,Assorted Breads,Multigrain Bread
+143,chase,Deli,Sliced Roast Beef
+144,chase,Beverages,Sunkist Orange
+145,chase,Deli,Jalapeno Peppers
+146,chase,The Griddle,Fried Egg
+147,chase,Deli,Wheat Bread Slice
+148,chase,The Kitchen Table,Sausage Links
+149,chase,Condiments and Spreads,Mayonnaise
+150,chase,Salad Bar,Low Fat Cottage Cheese
+151,chase,Deli,Chunky Chicken Salad
+152,chase,Beverages,Wild Cherry Pepsi
+153,chase,Fresh,The Chicken Ranch Panini
+154,chase,Deli,Multigrain Bread
+155,chase,Cereal,Frosted Flakes
+156,chase,Beverages,Low Fat Chocolate Milk
+157,chase,Beverages,Tropicana Fruit Punch
+158,chase,The Kitchen Table,Buttermilk Pancakes
+159,chase,Deli,Sourdough
+160,chase,Salad Bar,Sliced Mushrooms
+161,chase,Assorted Breads,Sesame Bagel
+162,chase,Bakery,Double Chocolate Chip Muffin
+163,chase,Salad Bar,Applesauce
+164,chase,Deli,Udi's White Bread
+165,chase,The Griddle,Bacon
+166,chase,Beverages,100% Cranberry Juice
+167,chase,Deli,Sliced Tomatoes
+168,chase,Deli,Lettuce
+169,chase,Vegan Plant Forward,Spicy Sweet Potato & Corn Hash
+170,chase,Beverages,Dr. Pepper
+171,chase,Beverages,Cheerwine
+172,chase,Pizza,Buffalo Chicken Cheese Stick Pizza
+173,chase,Salad Bar,Dried Cranberries
+174,chase,Deli,Banana Peppers
+175,chase,Beverages,Sweet Tea
+176,chase,Condiments and Spreads,Peanut Butter
+177,chase,Plant Forward,Sunflower Seeds
+178,chase,Condiments and Spreads,Yellow Mustard
+179,chase,Cereal,Trix
+180,chase,Assorted Breads,Wheat Bagel
+181,chase,Beverages,Diet Dr. Pepper
+182,chase,The Kitchen Table,Breakfast Potatoes
+183,chase,Beverages,Gatorade Fruit Punch
+184,chase,Assorted Breads,Hoagie Roll
+185,chase,Beverages,Reduced Fat Milk
+186,chase,Beverages,Whole Milk
+187,chase,Salad Bar,Cantaloupe
+188,chase,The Griddle,Garden Burger Patty
+189,chase,Bakery,Assorted Donuts
+190,chase,Fresh,Spinach & Artichoke Panini
+191,chase,Cereal,Cocoa Puffs
+192,chase,Nacho Bar,Seasoned Ground Turkey
+193,chase,Assorted Breads,Plain Bagel
+194,chase,Simply Prepared Grill,Roasted Butternut Squash
+195,chase,Cereal,Special K
+196,chase,Soup and Salads,Southwest Kale Salad
+197,chase,Cereal,Apple Jacks
+198,chase,Soup and Salads,Hearty Vegetable Soup
+199,chase,Simply Prepared Grill,Grilled Herbed Chicken Breast
+200,chase,The Griddle,Sliced Dill Pickles
+201,chase,Deli,White Sub Roll
+202,chase,Salad Bar,Crunchy Oats and Honey Granola
+203,chase,Salad Bar,Sunflower Seeds
+204,chase,Condiments and Spreads,Yellow Mustard
+205,chase,Condiments and Spreads,All Natural Peanut Butter
+206,chase,Salad Bar,Quinoa
+207,chase,Condiments and Spreads,Oil and Vinegar
+208,chase,Condiments and Spreads,Garden Vegetable Cream Cheese
+209,chase,Specialty Bakery,Banana Pudding Parfait
+210,chase,Salad Bar,Chickpeas
+211,chase,Bakery,Mini Croissant
+212,chase,Assorted Breads,Sesame Bagel
+213,chase,The Kitchen Table,Scrambled Eggs
+214,chase,Soup and Salads,Buffalo Chicken Salad
+215,chase,Beverages,Strawberry Kiwi Juice
+216,chase,Condiments and Spreads,French Vanilla Creamer
+217,chase,Beverages,Mountain Dew
+218,chase,The Kitchen Table,Grits
+219,chase,The Griddle,Sliced Ham
+220,chase,Pasta,Marinara
+221,chase,Nacho Bar,Black Olives
+222,chase,Beverages,Sunkist Orange
+223,chase,Assorted Breads,Wheat Bread Slice
+224,chase,The Griddle,Turkey Sausage Patty
+225,chase,Deli,Sliced Turkey
+226,chase,Salad Bar,Bacon Pieces
+227,chase,Bakery,Vegan Peanut Butter Banana Bread
+228,chase,Condiments and Spreads,Grape Jelly
+229,chase,Vegan Plant Forward,White Rice
+230,chase,Salad Bar,Hard Boiled Eggs
+231,chase,Deli,Sliced Dill Pickles
+232,chase,Soup and Salads,Creamy Macaroni Salad
+233,chase,Beverages,Root Beer
+234,chase,Simply Prepared Grill,Steamed Baby Carrots
+235,chase,Bakery,Fudge Brownie
+236,chase,The Kitchen Table,Bacon
+237,chase,Salad Bar,Honey Dew
+238,chase,Simply Prepared Grill,Turkey Gravy
+239,chase,The Griddle,Turkey Burger Patty
+240,chase,Beverages,Lactose Free Milk
+241,chase,Beverages,100% Apple Juice
+242,chase,The Kitchen Table,Pork Sausage Gravy
+243,chase,Beverages,Cheerwine
+244,chase,The Griddle,English Muffin
+245,chase,Deli,Sliced Ham
+246,chase,Beverages,Sweet Tea
+247,chase,Salad Bar,Nonfat Vanilla Greek Yogurt
+248,chase,Salad Bar,Spring Salad Mix
+249,chase,Condiments and Spreads,Grape Jelly
+250,chase,Condiments and Spreads,Strawberry Cream Cheese
+251,chase,Salad Bar,Green Peppers
+252,chase,Nacho Bar,Corn Tortilla Chips
+253,chase,Assorted Breads,Multigrain Bagel
+254,chase,The Kitchen Table,Oatmeal
+255,chase,Vegan Plant Forward,Fried Yucca
+256,chase,Condiments and Spreads,Tabasco Hot Sauce
+257,chase,Deli,Sliced Cheddar Cheese
+258,chase,Condiments and Spreads,Margarine
+259,chase,Cereal,Cinnamon Toast Crunch
+260,chase,Deli,Sliced Cheddar Cheese
+261,chase,Fresh,The Cuban Panini
+262,chase,Nacho Bar,Pico de Gallo
+263,chase,Condiments and Spreads,A.1. Steak Sauce
+264,chase,Beverages,Reduced Fat Milk
+265,chase,Beverages,100% Orange Juice
+266,chase,Assorted Breads,Everything Bagel
+267,chase,Salad Bar,Cherry Tomatoes
+268,chase,The Griddle,Hamburger Bun
+269,chase,Plant Forward,Shredded Daiya Cheese
+270,chase,Salad Bar,Sliced Peaches
+271,chase,Bakery,Ice Cream Cone
+272,chase,Salad Bar,Black Olives
+273,chase,Assorted Breads,Kaiser Roll
+274,chase,Condiments and Spreads,Strawberry Cream Cheese
+275,chase,Assorted Breads,Wheat Bread Slice
+276,chase,Beverages,Chocolate Soymilk
+277,chase,Beverages,Sierra Mist
+278,chase,The Kitchen Table,Biscuits
+279,chase,Pasta,Manicotti
+280,chase,Condiments and Spreads,Tabasco Hot Sauce
+281,chase,Salad Bar,Lowfat Organic Strawberry Yogurt
+282,chase,Salad Bar,Grapefruit
+283,chase,Beverages,Pepsi
+284,chase,Condiments and Spreads,A.1. Steak Sauce
+285,chase,Assorted Breads,Poppy Bagel
+286,chase,Deli,Wheat Bread Slice
+287,chase,Beverages,Pepsi
+288,chase,Salad Bar,Feta Cheese
+289,chase,Fresh,The Chicken Ranch Panini
+290,chase,Plant Forward,Pico de Gallo
+291,chase,The Kitchen Table,Veggie Sausage
+292,chase,Assorted Breads,Plain Bagel
+293,chase,Beverages,Tropicana Fruit Punch
+294,chase,Salad Bar,Honeydew Melon
+295,chase,Beverages,Strawberry Kiwi Juice
+296,chase,Assorted Breads,White Dinner Roll
+297,chase,Assorted Breads,Wheat Dinner Roll
+298,chase,Deli,Udi's White Bread
+299,chase,Vegan Plant Forward,Southwest Tofu Scramble
+300,chase,Bakery,Assorted Danishes
+301,chase,Condiments and Spreads,Lite Mayonnaise
+302,chase,Cereal,Lucky Charms
+303,chase,Condiments and Spreads,Plain Cream Cheese
+304,chase,Condiments and Spreads,Ketchup
+305,chase,Beverages,100% Cranberry Juice
+306,chase,Soup and Salads,Creamy Chicken and Corn Soup
+307,chase,Beverages,Dr. Pepper
+308,chase,Pizza,Classic Cheese Pizza
+309,chase,Beverages,Larry's Coffee
+310,chase,Assorted Breads,Multigrain Bagel
+311,chase,Bakery,Assorted Ice Cream
+312,chase,Cereal,Froot Loops
+313,chase,Beverages,Root Beer
+314,chase,Deli,Banana Peppers
+315,chase,Nacho Bar,Iceberg Lettuce
+316,chase,Condiments and Spreads,Mayonnaise
+317,chase,Salad Bar,Black Beans
+318,chase,Assorted Breads,Everything Bagel
+319,chase,Deli,Lite Mayonnaise
+320,chase,Nacho Bar,Jalapeno Peppers
+321,chase,Pizza,Vegan Cheese Pizza
+322,chase,Salad Bar,Diced Grilled Chicken
+323,chase,Salad Bar,Black Beans
+324,chase,Assorted Breads,Wheat Bagel
+325,chase,Beverages,Diet Pepsi
+326,chase,Condiments and Spreads,Chives and Onion Cream Cheese
+327,chase,Deli,Spicy Brown Mustard
+328,chase,Salad Bar,Cantaloupe
+329,chase,Condiments and Spreads,Ketchup
+330,chase,Assorted Breads,Rye Bread Slice
+331,chase,Beverages,Skim Milk
+332,chase,Deli,Tuna Salad
+333,chase,Pasta,Penne
+334,chase,The Kitchen Table,Cage Free Hard Boiled Egg
+335,chase,Salad Bar,Lowfat Organic Strawberry Yogurt
+336,chase,Salad Bar,Croutons
+337,chase,Salad Bar,Sunflower Seeds
+338,chase,Deli,Black Olives
+339,chase,Salad Bar,Reduced Fat Cottage Cheese
+340,chase,Beverages,Vanilla Soymilk
+341,chase,Beverages,Larry's Decaf Coffee
+342,chase,Cereal,Special K
+343,chase,Cereal,Raisin Bran
+344,chase,Pizza,Cheese Bread
+345,chase,Beverages,Vanilla Soymilk
+346,chase,Condiments and Spreads,Peanut Butter
+347,chase,Salad Bar,Quinoa
+348,chase,Condiments and Spreads,Strawberry Jelly
+349,chase,Specialty Bakery,Assorted Yogurt Parfaits
+350,chase,Soup and Salads,Creamy Macaroni Salad
+351,chase,Simply Prepared Grill,EVOO Mashed Potatoes
+352,chase,The Kitchen Table,Buttermilk Pancakes
+353,chase,Pizza,Classic Pepperoni Pizza
+354,chase,Salad Bar,Spinach
+355,chase,The Kitchen Table,Steamed Corn
+356,chase,Specialty Bakery,Vegan Crinkle Cookie
+357,chase,Deli,12' Assorted Wraps
+358,chase,Condiments and Spreads,Hazelnut Creamer
+359,chase,Beverages,Sierra Mist
+360,chase,Deli,Yellow Mustard
+361,chase,Beverages,Mountain Dew
+362,chase,Deli,Yellow Mustard
+363,chase,Bakery,Orange Coffee Cake w/ Chocolate Streusel
+364,chase,Deli,Mayonnaise
+365,chase,Deli,Swiss Cheese
+366,chase,Deli,Sliced Turkey
+367,chase,Beverages,Pepsi
+368,chase,Beverages,Wild Cherry Pepsi
+369,chase,Condiments and Spreads,Peanut Butter
+370,chase,The Griddle,Crinkle Cut Fries
+371,chase,Salad Bar,Iceberg Lettuce
+372,chase,Beverages,Low Fat Chocolate Milk
+373,chase,Salad Bar,Hard Boiled Eggs
+374,chase,Condiments and Spreads,Margarine
+375,chase,Deli,Sliced Salami
+376,chase,Beverages,Tropicana Fruit Punch
+377,chase,Condiments and Spreads,All Natural Peanut Butter
+378,chase,The Griddle,Spinach and Cheese Omelet
+379,chase,International Flavors,Veggie Fried Rice and Chile Garlic Sauce
+380,chase,Soup and Salads,Southwest Kale Salad
+381,chase,Specialty Bakery,Snickerdoodle Blondies
+382,chase,Condiments and Spreads,Oil and Vinegar
+383,chase,Condiments and Spreads,Garden Vegetable Cream Cheese
+384,chase,Assorted Breads,Wheat Bagel
+385,chase,Bakery,Apple Cinnamon Quickbread
+386,chase,Beverages,Lactose Free Milk
+387,chase,International Flavors,Shrimp Pad Thai
+388,chase,Salad Bar,Cantaloupe
+389,chase,Specialty Bakery,Red Velvet Cupcake
+390,chase,Deli,Honey Mustard Dressing
+391,chase,Assorted Breads,Multigrain Bread
+392,chase,Beverages,100% Cranberry Juice
+393,chase,Beverages,100% Apple Juice
+394,chase,Beverages,Dr. Pepper
+395,chase,The Kitchen Table,Sausage Links
+396,chase,Deli,Sliced Ham
+397,chase,Cereal,Raisin Bran
+398,chase,Salad Bar,Spring Salad Mix
+399,chase,The Griddle,Crispy Chicken Breast
+400,chase,Cereal,Frosted Flakes
+401,chase,Cereal,Apple Jacks
+402,chase,Salad Bar,Green Peppers
+403,chase,Cereal,Lucky Charms
+404,chase,Condiments and Spreads,All Natural Peanut Butter
+405,chase,Deli,Sliced Red Onion
+406,chase,Bakery,Mini Croissant
+407,chase,Salad Bar,Applesauce
+408,chase,The Griddle,American Cheese
+409,chase,Beverages,Gatorade Fruit Punch
+410,chase,Condiments and Spreads,Oil and Vinegar
+411,chase,Condiments and Spreads,Garden Vegetable Cream Cheese
+412,chase,Cereal,Froot Loops
+413,chase,Deli,Sliced Pepper Jack Cheese
+414,chase,Beverages,Whole Milk
+415,chase,Beverages,100% Orange Juice
+416,chase,Salad Bar,Cherry Tomatoes
+417,chase,Salad Bar,Shredded Carrots
+418,chase,The Kitchen Table,Scrambled Eggs
+419,chase,Beverages,Tropicana Lemonade
+420,chase,The Kitchen Table,Grits
+421,chase,Salad Bar,Black Olives
+422,chase,Bakery,Vegan Peanut Butter Banana Bread
+423,chase,Salad Bar,Pineapple
+424,chase,Assorted Breads,Kaiser Roll
+425,chase,Beverages,Tropicana Lemonade
+426,chase,Deli,Oil and Vinegar
+427,chase,Beverages,Chocolate Soymilk
+428,chase,Cereal,Trix
+429,chase,Soup and Salads,Creamy Chicken and Corn Soup
+430,chase,The Kitchen Table,Tomato-Glazed Meatloaf
+431,chase,Beverages,Vanilla Soymilk
+432,chase,The Kitchen Table,Breakfast Potatoes
+433,chase,Assorted Breads,Hoagie Roll
+434,chase,Assorted Breads,Poppy Bagel
+435,chase,Cereal,Cocoa Puffs
+436,chase,Salad Bar,Feta Cheese
+437,chase,Deli,American Cheese
+438,chase,Pasta,Alfredo Sauce
+439,chase,Bakery,Apple Cinnamon Quickbread
+440,chase,Nacho Bar,Cajun Pinto Beans
+441,chase,Assorted Breads,Plain Bagel
+442,chase,Pasta,Stuffed Shells with Pesto Cream
+443,chase,Nacho Bar,Sour Cream
+444,chase,Bakery,Assorted Donuts
+445,chase,Salad Bar,Raisins
+446,chase,Deli,Chipotle Mayo
+447,chase,Salad Bar,Honeydew Melon
+448,chase,Assorted Breads,White Dinner Roll
+449,chase,Beverages,Mountain Dew
+450,chase,Deli,Sliced Roast Beef
+451,chase,Beverages,Sunkist Orange
+452,chase,Deli,Jalapeno Peppers
+453,chase,The Kitchen Table,Pork Sausage Gravy
+454,chase,Condiments and Spreads,Chives and Onion Cream Cheese
+455,chase,Assorted Breads,Wheat Dinner Roll
+456,chase,Condiments and Spreads,Yellow Mustard

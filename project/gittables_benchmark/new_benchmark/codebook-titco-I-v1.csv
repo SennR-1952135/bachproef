@@ -1,0 +1,194 @@
+,name,description,type
+0,hos,Random number unique for each hospital,qualitative
+1,pid,Random number unique for each patient,qualitative
+2,do,Describes whether the patient was enrolled during the project officer's shift,qualitative
+3,incl,The inclusion criterion used to enroll the patient,qualitative
+4,age,Patient's age rounded up to closest whole year,quantitative
+5,sex,Patient's sex,qualitative
+6,tran,Describes whether the patient was transferred from another health facility before being admitted to the participating hospital,qualitative
+7,doi,The date when the injury occured in Y-M-D format,date
+8,toi,"The time when the injury occured in HH:MM format, rounded to closest 10 minutes",time
+9,doar,The date when the patient arrived to participating hospital in Y-M-D format,date
+10,toar,"The time when the patient arrived to participating hospital in HH:MM format, rounded to closest 10 minutes",time
+11,doa,The date when the patient was admitted in participating hospital in Y-M-D format,date
+12,toa,"The time when the patient was admitted in participating hospital in HH:MM format, rounded to closest 10 minutes",time
+13,moi,The mechanism of injury,qualitative
+14,mot,Describes how the patient was transported to participating hospital,qualitative
+15,ti,Describes whether the injury was blund or penetrating,qualitative
+16,aw,Describes whether the patient arrived walking,qualitative
+17,sbp_1,The first recording of the patient's systolic blood pressure after arrival to participating hospital,quantitative
+18,spo2_1,The first recording of the patient's blood oxygen saturation after arrival to participating hospital,quantitative
+19,spo2_o2_1,Describes whether the patient received supplemental oxygen when the first blood oxygen saturation was recorded after arrival,quantitative
+20,rr_1,The first recording of the patient's respiratory rate after arrival to participating hospital,quantitative
+21,hr_1,The first recording of the patient's heart rate after arrival to participating hospital,quantitative
+22,gcs_t_1,The first recording of the patient's summed Glasgow coma scale after arrival to participating hospital,quantitative
+23,gcs_e_1,The first recording of the patient's eye component of the Glasgow coma scale after arrival to participating hospital,qualitative
+24,gcs_v_1,The first recording of the patient's verbal component of the Glasgow coma scale after arrival to participating hospital,qualitative
+25,gcs_m_1,The first recording of the patient's motor component of the Glasgow coma scale after arrival to participating hospital,qualitative
+26,dom_1,The date in Y-M-D format when the first recording of vital signs after the patient arrived to participating hospital was done,date
+27,tom_1,"The time in HH:MM format, rounded to closest 10 minutes, when the first recording of vital signs after the patient arrived to participating hospital was done",time
+28,sbp_2,The second recording of the patient's systolic blood pressure after arrival to participating hospital,quantitative
+29,spo2_2,The second recording of the patient's blood oxygen saturation after arrival to participating hospital,quantitative
+30,spo2_o2_2,Describes whether the patient received supplemental oxygen when the second blood oxygen saturation was recorded after arrival,quantitative
+31,rr_2,The second recording of the patient's respiratory rate after arrival to participating hospital,quantitative
+32,hr_2,The second recording of the patient's heart rate after arrival to participating hospital,quantitative
+33,gcs_t_2,The second recording of the patient's summed Glasgow coma scale after arrival to participating hospital,quantitative
+34,gcs_e_2,The second recording of the patient's eye component of the Glasgow coma scale after arrival to participating hospital,qualitative
+35,gcs_v_2,The second recording of the patient's verbal component of the Glasgow coma scale after arrival to participating hospital,qualitative
+36,gcs_m_2,The second recording of the patient's motor component of the Glasgow coma scale after arrival to participating hospital,qualitative
+37,dom_2,The date in Y-M-D format when the second recording of vital signs after the patient arrived to participating hospital was done,date
+38,tom_2,"The time in HH:MM format, rounded to closest 10 minutes, when the second recording of vital signs after the patient arrived to participating hospital was done",time
+39,intub_1,Describes whether the patient was intubated within one hour of arriving to participating hospital,qualitative
+40,saw_1,Describes whether the patient received a surgical airway within one hour of arriving to participating hospital,qualitative
+41,icd_1,Describes whether the patient received an intercostal drain within one hour of arriving to participating hospital,qualitative
+42,ot_1,Describes whether the patient was taken to the operation theatre within one hour of arriving to participating hospital,qualitative
+43,ubr_1,The number of units of packed red blood cells transferred within one hour of arriving to participating hospital,quantitative
+44,intub_1_24,Describes whether the patient was intubated between one and twenty four hours of arriving to participating hospital,qualitative
+45,saw_1_24,Describes whether the patient received a surgical airway between one and twenty four hours of arriving to participating hospital,qualitative
+46,icd_1_24,Describes whether the patient received an intercostal drain between one and twenty four hours of arriving to participating hospital,qualitative
+47,ot_1_24,Describes whether the patient was taken to the operation theatre between one and twenty four hours of arriving to participating hospital,qualitative
+48,ubr_1_24,The number of units of packed red blood cells transferred between one and twenty four hours of arriving to participating hospital,quantitative
+49,tos,The type of surgery performed,text
+50,losu,"The lenght of surgery, in hours, rounded up to closest whole hour",quantitative
+51,sbp_s,The patient's systolic blood pressure recorded at start of surgery,quantitative
+52,ct,Describes whether the patient underwent a computed tomography within 24 hours of arrival to participating hospital,qualitative
+53,fast,Describes whether the patient underwent focused assessment with sonography in trauma within 24 hours of arrival to participating hospital,qualitative
+54,xray,Describes whether the patient had an x-ray done  within 24 hours of arrival to participating hospital,qualitative
+55,doct,The date in Y-M-D format when the computed tomography was done,date
+56,toct,The time in HH:MM format when the computed tomography was done,time
+57,hb,The first hemoglobin drawn within 24 hours of arriving to participating hospital,quantitative
+58,hc,The first hematocrit drawn within 24 hours of arriving to participating hospital,quantitative
+59,bgl,The first blood glucose level recorded within 24 hours of arriving to participating hospital,quantitative
+60,sc,The first serum creatinine recorded within 24 hours of arriving to participating hospital,quantitative
+61,bun,The first blood urea nitrogen recorded within 24 hours of arriving to participating hospital,quantitative
+62,lov,"The length of ventilation, rounded up to closest whole hour",quantitative
+63,licu,"The length of stay in the intensive care unit, rounded up to closest whole hour",quantitative
+64,died,Describes whether the patient died in hospital,qualitative
+65,dodd,The date when the patient died or was discharged in Y-M-D format,date
+66,todd,The time when the patient died or was discharged in HH:MM format,time
+67,dama,Describes whether the patient was discharged against medical advice or absconded,qualitative
+68,e_1,External injury 1,
+69,e_2,External injury 2,
+70,e_3,External injury 3,
+71,e_4,External injury 4,
+72,e_5,External injury 5,
+73,e_6,External injury 6,
+74,e_7,External injury 7,
+75,e_8,External injury 8,
+76,e_9,External injury 9,
+77,e_10,External injury 10,
+78,e_11,External injury 11,
+79,e_12,External injury 12,
+80,xray_1,Injury from X-ray report 1,
+81,xray_2,Injury from X-ray report 2,
+82,xray_3,Injury from X-ray report 3,
+83,xray_4,Injury from X-ray report 4,
+84,xray_5,Injury from X-ray report 5,
+85,xray_6,Injury from X-ray report 6,
+86,xray_7,Injury from X-ray report 7,
+87,xray_8,Injury from X-ray report 8,
+88,xray_9,Injury from X-ray report 9,
+89,xray_10,Injury from X-ray report 10,
+90,xray_11,Injury from X-ray report 11,
+91,fast_1,Injury from FAST report 1,
+92,fast_2,Injury from FAST report 2,
+93,fast_3,Injury from FAST report 3,
+94,fast_4,Injury from FAST report 4,
+95,fast_5,Injury from FAST report 5,
+96,fast_6,Injury from FAST report 6,
+97,fast_7,Injury from FAST report 7,
+98,fast_8,Injury from FAST report 8,
+99,fast_9,Injury from FAST report 9,
+100,fast_10,Injury from FAST report 10,
+101,fast_11,Injury from FAST report 11,
+102,ct_1,Injury from CT report 1,
+103,ct_2,Injury from CT report 2,
+104,ct_3,Injury from CT report 3,
+105,ct_4,Injury from CT report 4,
+106,ct_5,Injury from CT report 5,
+107,ct_6,Injury from CT report 6,
+108,ct_7,Injury from CT report 7,
+109,ct_8,Injury from CT report 8,
+110,ct_9,Injury from CT report 9,
+111,ct_10,Injury from CT report 10,
+112,ct_11,Injury from CT report 11,
+113,ct_12,Injury from CT report 12,
+114,ct_13,Injury from CT report 13,
+115,op_1,Injury from intraoperative report 1,
+116,op_2,Injury from intraoperative report 2,
+117,op_3,Injury from intraoperative report 3,
+118,op_4,Injury from intraoperative report 4,
+119,op_5,Injury from intraoperative report 5,
+120,op_6,Injury from intraoperative report 6,
+121,op_7,Injury from intraoperative report 7,
+122,op_8,Injury from intraoperative report 8,
+123,op_9,Injury from intraoperative report 9,
+124,op_10,Injury from intraoperative report 10,
+125,op_11,Injury from intraoperative report 11,
+126,head_and_neck,Injury severities to the head and neck region according to the abbreviated injury scale (AIS),
+127,face,Injury severities to the face region according to the abbreviated injury scale (AIS),
+128,chest,Injury severities to the chest region according to the abbreviated injury scale (AIS),
+129,abdomen_and_pelvic_contents,Injury severities to the abdomen and pelvic contents region according to the abbreviated injury scale (AIS),
+130,extremities,Injury severities to the extremities region according to the abbreviated injury scale (AIS),
+131,external,Injury severities to the external region according to the abbreviated injury scale (AIS),
+132,iss,The injury severity score,
+133,niss,The new injury severity score,
+134,e_1_icd,External injury 1 ICD-10 code,
+135,e_2_icd,External injury 2 ICD-10 code,
+136,e_3_icd,External injury 3 ICD-10 code,
+137,e_4_icd,External injury 4 ICD-10 code,
+138,e_5_icd,External injury 5 ICD-10 code,
+139,e_6_icd,External injury 6 ICD-10 code,
+140,e_7_icd,External injury 7 ICD-10 code,
+141,e_8_icd,External injury 8 ICD-10 code,
+142,e_9_icd,External injury 9 ICD-10 code,
+143,e_10_icd,External injury 10 ICD-10 code,
+144,e_11_icd,External injury 11 ICD-10 code,
+145,e_12_icd,External injury 12 ICD-10 code,
+146,xray_1_icd,Injury from X-ray report 1 ICD-10 code,
+147,xray_2_icd,Injury from X-ray report 2 ICD-10 code,
+148,xray_3_icd,Injury from X-ray report 3 ICD-10 code,
+149,xray_4_icd,Injury from X-ray report 4 ICD-10 code,
+150,xray_5_icd,Injury from X-ray report 5 ICD-10 code,
+151,xray_6_icd,Injury from X-ray report 6 ICD-10 code,
+152,xray_7_icd,Injury from X-ray report 7 ICD-10 code,
+153,xray_8_icd,Injury from X-ray report 8 ICD-10 code,
+154,xray_9_icd,Injury from X-ray report 9 ICD-10 code,
+155,xray_10_icd,Injury from X-ray report 10 ICD-10 code,
+156,xray_11_icd,Injury from X-ray report 11 ICD-10 code,
+157,fast_1_icd,Injury from FAST report 1 ICD-10 code,
+158,fast_2_icd,Injury from FAST report 2 ICD-10 code,
+159,fast_3_icd,Injury from FAST report 3 ICD-10 code,
+160,fast_4_icd,Injury from FAST report 4 ICD-10 code,
+161,fast_5_icd,Injury from FAST report 5 ICD-10 code,
+162,fast_6_icd,Injury from FAST report 6 ICD-10 code,
+163,fast_7_icd,Injury from FAST report 7 ICD-10 code,
+164,fast_8_icd,Injury from FAST report 8 ICD-10 code,
+165,fast_9_icd,Injury from FAST report 9 ICD-10 code,
+166,fast_10_icd,Injury from FAST report 10 ICD-10 code,
+167,fast_11_icd,Injury from FAST report 11 ICD-10 code,
+168,ct_1_icd,Injury from CT report 1 ICD-10 code,
+169,ct_2_icd,Injury from CT report 2 ICD-10 code,
+170,ct_3_icd,Injury from CT report 3 ICD-10 code,
+171,ct_4_icd,Injury from CT report 4 ICD-10 code,
+172,ct_5_icd,Injury from CT report 5 ICD-10 code,
+173,ct_6_icd,Injury from CT report 6 ICD-10 code,
+174,ct_7_icd,Injury from CT report 7 ICD-10 code,
+175,ct_8_icd,Injury from CT report 8 ICD-10 code,
+176,ct_9_icd,Injury from CT report 9 ICD-10 code,
+177,ct_10_icd,Injury from CT report 10 ICD-10 code,
+178,ct_11_icd,Injury from CT report 11 ICD-10 code,
+179,ct_12_icd,Injury from CT report 12 ICD-10 code,
+180,ct_13_icd,Injury from CT report 13 ICD-10 code,
+181,op_1_icd,Injury from intraoperative report 1 ICD-10 code,
+182,op_2_icd,Injury from intraoperative report 2 ICD-10 code,
+183,op_3_icd,Injury from intraoperative report 3 ICD-10 code,
+184,op_4_icd,Injury from intraoperative report 4 ICD-10 code,
+185,op_5_icd,Injury from intraoperative report 5 ICD-10 code,
+186,op_6_icd,Injury from intraoperative report 6 ICD-10 code,
+187,op_7_icd,Injury from intraoperative report 7 ICD-10 code,
+188,op_8_icd,Injury from intraoperative report 8 ICD-10 code,
+189,op_9_icd,Injury from intraoperative report 9 ICD-10 code,
+190,op_10_icd,Injury from intraoperative report 10 ICD-10 code,
+191,op_11_icd,Injury from intraoperative report 11 ICD-10 code,
+192,seqn,,

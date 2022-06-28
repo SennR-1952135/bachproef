@@ -1,0 +1,224 @@
+,name,address,type
+0,Winslow's Restaurant,801 Saratoga Rd,American
+1,Chez Pierre,"979, 1144, 1144, Saratoga Rd",French
+2,The Wishing Well,745 Saratoga Rd,American
+3,Scotty's Restaurant,215 Ballard Rd,American
+4,Nove,707 Saratoga Rd,Italian
+5,Mc Gregor Pub,847 Saratoga Rd,Bar
+6,Izzy Bella's Foodz Inc.,666 Saratoga Rd,Restaurant
+7,99 Restaurants,3073 NY-50,Restaurant
+8,Osaka Sushi House,3084 NY-50,Japanese
+9,Olde Bryan Inn,123 Maple Ave,American
+10,Triangle Diner,400 Maple Ave,Diner
+11,The Mouzon House,1 York St,Creole
+12,TGI Fridays,3060 NY-50,Restaurant
+13,Forno Bistro,541 Broadway,Italian
+14,15 Church,15 Church St,New American
+15,The Brook Tavern,139 Union Ave,American
+16,Applebee's Grill + Bar,3 Lowes Dr,Restaurant
+17,Boca Bistro,384 Broadway,Spanish
+18,Comfort Kitchen,"Saratoga Marketplace, Lower Level 454, Broadway",American
+19,Max London's,466 Broadway,Grill
+20,Country Corner Cafe,25 Church St,Breakfast
+21,Eddie F's New England Seafood,119 Clinton St,Seafood
+22,Sperry's,30 1/2 Caroline St,Continental restaurant
+23,Beer Wine Pizza,70 Weibel Ave,Pizza
+24,30 Lake,30 Lake Ave,American
+25,Farmers Hardware,35 Maple Ave,Brunch
+26,Scallions,44 Lake Ave,Gastropub
+27,Comptons Restaurant,457 Broadway,American
+28,Chianti Il Ristorante,18 Division St,Italian
+29,Druthers Brewing Company,381 Broadway,Restaurant
+30,Osteria Danny,26 Henry St,American
+31,Hattie's Chicken Shack,3057 Rt 50 Wilton Plaza,Chicken
+32,Hattie's,45 Phila St,Restaurant
+33,Harvey's Restaurant and Bar,14 Phila St,Irish
+34,El Mexicano Restaurant,208 S Broadway,Mexican
+35,Thirsty Owl Saratoga,184 S Broadway,Restaurant
+36,Wheatfields Restaurant and Bar,440 Broadway,Italian
+37,Henry Street Taproom,86 Henry St,Restaurant
+38,Five Guys,3057 NY-50,Hamburger
+39,Osaka Saratoga Inc,3084 NY-50,Sushi
+40,Longfellows Restaurant,500 Union Ave,American
+41,Hamlet & Ghost,24 Caroline St,Restaurant
+42,Subway,624 Maple Ave,Sandwich
+43,Mama Mia's Restaurant,185 Ballston Ave,European
+44,Gennaro's Pizza Parlor,46 Marion Ave,Pizza
+45,Three Vines Bistro,32 A Congress St,Italian
+46,Salt & Char,353 Broadway,Fine Dining
+47,URBAN ROOTS KITCHEN,46 Marion Ave,Restaurant
+48,The Local - Pub & Teahouse,142 Grand Ave,Restaurant
+49,Caputo's Pizzeria Saratoga,3039 NY-50,Pizza
+50,Sweet Mimi's Café & Bakery,47 Phila St,Restaurant
+51,The Kettle,445 Church St,Breakfast
+52,Dizzy Chicken Barbecue,102 Congress St,Barbecue
+53,Whole Harvest,5 Caroline St,Restaurant
+54,Wilton Mall,3065 NY-50,Restaurant
+55,Panza's Restaurant,129 S Broadway,Italian
+56,Red Robin Gourmet Burgers and Brews,3008 NY-50,Restaurant
+57,Smashburger,46 Marion Ave,Hamburger
+58,Esperanto,4 Caroline St,Pizza
+59,Solevo Kitchen & Social,55 Phila St,Italian
+60,Bookmakers Restaurant and Lounge,232 Broadway,American
+61,Saratoga Gluten Free Goods,176 Broad St,Gluten Free
+62,The Blue Hen,365 Broadway,American
+63,Siro's Restaurant - Bar,168 Lincoln Ave,Steak
+64,Golden Corral Buffet & Grill,15 Old Gick Rd,Buffet
+65,Chipotle Mexican Grill,3057 NY-50 #5,Mexican
+66,Sushi Thai Garden,44 Phila St,Thai
+67,Ravenous,21 Phila St,Restaurant
+68,BurgerFi,460 Broadway,Hamburger
+69,Harvest & Hearth,251 Co Rd 67,Pizza
+70,Little India,60 Court St,Indian
+71,Moe's Southwest Grill,3084 NY-50,Mexican
+72,Dango's Saratoga,38 Caroline St,Steak
+73,2 West Bar and Grille,2 West Ave,Grill
+74,Mexican Connection,41 Nelson Ave,Mexican
+75,Cantina,408 Broadway,Mexican
+76,The Parting Glass,40 42Lake Avenue,Bar
+77,Four Seasons Natural Foods Cafe,33 Phila St,Vegetarian
+78,Morton's the Steak House,342 Jefferson St,Steak
+79,The Barrelhouse,68 Beekman St,Gastropub
+80,Pizza Time,636 Maple Ave,Pizza
+81,Shirley's Restaurant,74 West Ave,Canadian
+82,Taverna Novo,62 Beekman St,Italian
+83,Sunny Wok,3084 NY-50,Chinese
+84,Stewart's Shops,227 Ballard Rd,Gas station
+85,The Mercantile Kitchen & Bar,430 Broadway,Restaurant
+86,The Wine Bar,417 Broadway,Wine bar
+87,Pennell's Restaurant,284 Jefferson St,Italian
+88,Moby Rick's,173 Lake Ave,Seafood
+89,The West Side Sports Bar & Grill,112 Congress St # 201,Restaurant
+90,Karavalli Regional Cuisine,47 Caroline St,Indian
+91,The Bread Basket Bakery,65 Spring St,Breakfast
+92,Yum Yum Kitchen,,Chinese
+93,Spot Coffee,55 Railroad Pl,Restaurant
+94,PJ's BAR-B-QSA,1 Kaydeross Ave W,Barbecue
+95,Jacob & Anthony's,38 High Rock Ave,American
+96,Catherine's In the Park,58 Roosevelt Dr,American
+97,KaffeeHouse,120 West Ave,Restaurant
+98,Denny's,468 Louden Rd,Diner
+99,Primo Pizzeria & Italian Specialties - Wilton,Route 50,Pizza
+100,Bailey's Saratoga,37 Phila St,Restaurant
+101,Tatu Tacos & Tequila,17 Maple Ave #2fl,Mexican
+102,Augie's Family Style Italian To Go,223 Lake Ave,Italian
+103,Lake Local,550 Union Ave,Seafood
+104,Friendly's,3075 NY-50,Restaurant
+105,Seneca Restaurant,17 Division St,Restaurant
+106,The Ice House,70 Putnam St,Barbecue
+107,Kinjo Japanese Steak House,68 Congress St,Japanese steakhouse
+108,The Turf Terrace,267 Union Ave,American
+109,wasabi all you can eat sushi,63 Putnam St,Japanese
+110,13 North Restaurant,2955 U.S. 9,American
+111,Kraverie,78 Beekman St,Gastropub
+112,Phila Fusion Noodle Bar,54 Phila St,Asian Fusion
+113,Marino's Pizza,46 W Circular St,Pizza
+114,Burger King,3004 NY-50,Fast Food
+115,Lucky Peking,66 E Congress St,Chinese
+116,Trotters Bar and Grille,45 Caroline St,Bar
+117,Horseshoe Inn Bar & Grill,9 Gridley St,Grill
+118,The Diamond Club at Embassy Suites,86 Congress St,American
+119,Clark's Steakhouse,1 Ferry St,Steak
+120,Saratoga Awesome Dogs,,Hot Dog
+121,Old Saratoga Eatery,112 Broad St,Restaurant
+122,I Love NEW YORK Pizza of Saratoga,26 Congress Street CONGRESS PLAZA,Pizza
+123,Pope's Pizza,232 Washington St,Pizza
+124,Amigos Cantina,42 Ferry St,Restaurant
+125,Subway,6 Lowes Dr Suite 1,Sandwich
+126,Saratoga Coffee Traders,447 Broadway,Coffee shop
+127,Spring Street Deli & Pizzeria,132 Spring St,Restaurant
+128,Dunning Street Station,2853 State Hwy 9,American
+129,Famous Cajun Grill,3065 NY-50,Chinese
+130,King's Tavern,241 Union Ave,Restaurant
+131,Fierro's Pizza,2524 NY-9N,Pizza
+132,The Falafel Den,10 Phila St,Falafel
+133,Lucky Joe's Restaurant,342 Jefferson St,American
+134,Pizza Hut,"8 N, Ballston Ave",Pizza
+135,KFC,3010 NY-50,Chicken
+136,Carson's Woodside Tavern,57 NY-9P,American
+137,Subway,146 S Broadway,Sandwich
+138,Flatbread Social,84 Henry St,Restaurant
+139,Gepettos Italian Restaurant,,Italian
+140,Bamboo Cook House,388 Broadway,Chinese
+141,Dock Brown's on Saratoga Lake,511 NY-9P,American
+142,The Saratoga City Tavern,19-21 Caroline St,Restaurant
+143,McDonald's,3003 NY-50,Fast Food
+144,Nostalgia Ale House & Wine Bar,113 NY-9P,American
+145,The Publik House,2727 U.S. 9,Pizza
+146,DZ Restaurants,63 Putnam St # 301,Restaurant
+147,Taco Bell,3012 NY-50,Fast Food
+148,McDonald's,197 S Broadway,Fast Food
+149,Morrissey's Lounge,365 Broadway,Restaurant
+150,Saratoga Casino Hotel,342 Jefferson St,4-star hotel
+151,Panera Bread,3070 NY-50,Sandwich
+152,Subway,16 Old Gick Rd,Sandwich
+153,Auntie Anne's,3065 NY-50,Restaurant
+154,MIA Pizzeria,406 Corinth Rd,Pizza
+155,D'Andrea's Pizza,33 Caroline St,Pizza
+156,Pizza 7,7 Caroline St,Pizza
+157,Duo Modern Japanese Cuisine & Hibachi,175 S Broadway,Japanese
+158,Peabody's Sports Bar,39 Phila St,Restaurant
+159,O'Toole's Restaurant Pub,118 Quaker Rd,Restaurant
+160,Recovery Sports Grill,2537 State Hwy 9,Family-friendly
+161,Pig 'N Whistle on Broadway,392 Broadway,Restaurant
+162,Humpty Dumpty Ice Cream & Subs,70 West Ave,Restaurant
+163,Taste of Italy Pizza,3065 NY-50,Restaurant
+164,Lam Fong Yuen,133 Saratoga Ave #2,Chinese
+165,Four Seasons Natural Foods Store,120 Henry St,Health food store
+166,Ripe Tomato An American Grill,2721 State Hwy 9,American
+167,Gaffney’s,16 Caroline St,Gastropub
+168,Dunkin',3014 NY-50,Coffee shop
+169,D'Andrea's North,654 Saratoga Rd,Pizza
+170,Lake Ridge Restaurant,35 Burlington Ave,American
+171,The Factory Eatery & Spirits,20 Prospect St,Restaurant
+172,Villa Balsamo Restaurant,2255 Ballston Ave,Italian
+173,534 Bistro,534 Broadway Inside The Saratoga Hilton,Restaurant
+174,Dunkin',647 Maple Ave,Coffee shop
+175,Auction Barn Restaurant,4016 NY-40,Family-friendly
+176,Augie's Family Style Italian Restaurant,17 Low St,Fine Dining
+177,Burnt Hills Cafe,800 Saratoga Rd,American
+178,Wendy's,24 Congress St,Fast Food
+179,Saratoga Restaurant Equipment Sales,720 Wilton Gansevoort Rd,Restaurant supply store
+180,Stewart's Shops,Gansevoort,Gas station
+181,Wings Over Saratoga,Saratoga Springs,Chicken Wings
+182,Artisanal Brew Works,Saratoga Springs,Brewery
+183,"Speculator, NY",Saratoga Springs,Restaurant
+184,Little Caesars Pizza,South Glens Falls,Pizza
+185,Dunkin',Gansevoort,Coffee shop
+186,Stewart's Shops,Wilton,Gas station
+187,Stewart's Shops,Saratoga Springs,Gas station
+188,Spa Cafe on Broadway,Saratoga Springs,Restaurant
+189,Davidson Brothers Brewpub,Glens Falls,Brewery
+190,Jersey Mike's Subs,Saratoga Springs,Sandwich
+191,Hildreth's Restaurant,Mechanicville,American
+192,Morgan & Co,Glens Falls,American
+193,The Cock 'n Bull Restaurant,Galway,Restaurant
+194,Stewart's Shops,Saratoga Springs,Gas station
+195,Ben & Jerry’s,Saratoga Springs,Ice Cream
+196,The Mill on Round Lake,Round Lake,Restaurant
+197,Bubbles Restaurant,Mechanicville,Family-friendly
+198,Ciro's Restaurant,Lake Luzerne,Pizza
+199,The Vista Restaurant at Van Patten Golf Club,Clifton Park,American
+200,Greenwich House of Pizza,Greenwich,Pizza
+201,Dunkin',Saratoga Springs,Coffee shop
+202,Iron Roost,Ballston Spa,Breakfast
+203,Stewart's Shops,Greenfield,Gas station
+204,Juicy Burgers & More,Ballston Spa,American
+205,Subway,Greenwich,Sandwich
+206,Rusty Nail Grill and Tavern,Clifton Park,Restaurant
+207,Wheatfields Bistro & Wine Bar,Clifton Park,Bistro
+208,Hattie's Chicken Shack,Saratoga Springs,Fried Chicken
+209,Gopher Personal Delivery,,Grocery delivery service
+210,Stewart's Shops,Saratoga Springs,Convenience store
+211,Stewart's Shops,Saratoga Springs,Gas station
+212,New China Restaurant,Ballston Spa,Chinese
+213,Subway,Queensbury,Sandwich
+214,The Palette Cafe,Saratoga Springs,Bar
+215,Pasta Pane,Clifton Park,Italian
+216,Best Hunan Chinese Restaurant,Ballston Spa,Chinese
+217,Saratoga Bars,Gansevoort,Bar
+218,McDonald's,Ballston Spa,Fast Food
+219,Mrs. London's Bakery,Saratoga Springs,Cafe
+220,Whistling Kettle Ballston Spa,Ballston Spa,Restaurant
+221,The Century House Restaurant,Latham,Restaurant
+222,Uncle Ming's Kitchen,Saratoga Springs,Chinese

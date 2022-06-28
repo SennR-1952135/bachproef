@@ -1,0 +1,24 @@
+,description,status,category
+0,A standard that documents how standards should be described in human- and machine-readable terms.,Current standard,Technical specification
+1,A standard that describes the processes used to modify TDWG vocabularies and their associated documents.,Current standard,Best current practice
+2,The Audubon Core is a set of vocabularies designed to represent metadata for biodiversity multimedia resources and collections.,Current standard,Technical specification
+3,This standard provides guidance on how to use GUIDs to meet specific requirements of the biodiversity information community.,Current standard,Applicability statement
+4,"This vocabulary standard includes a glossary of terms intended to facilitate the sharing of information about biological diversity by providing identifiers, labels, and definitions. ",Current standard,Technical specification
+5,"TAPIR is a computer protocol designed for discovery, search and retrieval of distributed data over the Internet. ",Current standard,Technical specification
+6,"A common data specification for biological collection units, including living and preserved specimens, along with field observations that did not produce voucher specimens. It is intended to support the exchange and integration of detailed primary collection and observation data.",Current (2005) standard,Technical specification
+7,An international XML-based standard for capturing and managing descriptive data for organisms.,Current (2005) standard,Technical specification
+8,An XML schema that provides a mechanism for the providers of taxonomic information to exchange data.,Current (2005) standard,Technical specification
+9,A system for coding taxonomic descriptions so that they can be used as input to computer programs.,Current (2005) standard,Technical specification
+10,A standard format for the interchange of electronic herbarium specimen information.,Prior standard,Technical specification
+11,"A system for describing uses of plants in their cultural context using standardised descriptors and terms, and attaching those descriptions to taxonomic data sets.",Prior standard,Best current practice
+12,A standard for recording the relationship between a plant and a place.,Prior standard,
+13,"A standard that defines the taxonomic and nomenclatural concepts associated with the names of plants. It describes the component parts, their functions and their interrelations of significance in structuring a databas",Prior standard,Best current practice
+14,An index of authors of plant scientific names.,Prior standard,
+15,A system for recording geographical units that covers the whole world and identifies units at four levels.,Prior standard,
+16,A database file exchange medium to handle diverse classes of biological data required for file transfers between different database projects,Prior standard,
+17,An index of botanical publications and a supplement to Botanico-periodicum-huntianum.,Prior standard,
+18,"A guide that records the physical location, holdings, and contact information of the world's herbaria.",Prior standard,
+19,This standard defines a machine-readable format for transferring records from botanical gardens.,Prior standard,Technical specification
+20,"A book that describes the floristic divisions for the whole world, lists endemic families and genera, and provides examples of endemic species for each province",Prior standard,
+21,A comprehensive bibliographical and biographical reference for systematic botany literature published between 1753 and 1940.,Prior standard,
+22,"A list of periodicals with botanical content, including abbreviations for the titles of books.",Prior standard,

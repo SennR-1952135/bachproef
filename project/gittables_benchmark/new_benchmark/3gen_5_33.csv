@@ -1,0 +1,86 @@
+,year,country,city
+0,2015,Germany,Heidelberg
+1,2015,Germany;United Kingdom,Neuherberg;London
+2,2014,United States,Berkeley
+3,2014,United Kingdom;United Kingdom;United Kingdom,Cambridge;Cambridge;Hinxton
+4,2014,United States,Stanford
+5,2014,United States,Philadelphia
+6,2014,Sweden,Stockholm
+7,2014,United Kingdom,
+8,Jan-2014,Sweden;Sweden,Stockholm;Stockholm
+9,2014,Germany,Heidelberg
+10,2014,Netherlands;Netherlands,Utrecht;Utrecht
+11,2014,United States,Boston
+12,Jan-2014,United States,Palo Alto
+13,2014,United States;United States;United States,Boston;Cambridge;Boston
+14,2014,United States;United States,Cambridge;Cambridge
+15,2014,Sweden,Stockholm
+16,2014,United States,Stanford
+17,2014,Israel,Rehovot
+18,2014,United States;United States,Cambridge;Cambridge
+19,2014,United States;United States;United States,Boston;Cambridge;Chevy Chase
+20,2013,Sweden,Stockholm
+21,2013,United Kingdom,Cambridge
+22,2013,Israel,Rehovot
+23,2013,United States;United States,Cambridge;Cambridge
+24,2013,United States,Cambridge
+25,2013,Japan;Japan,Wako;Kobe
+26,2013,United Kingdom,Cambridge
+27,2013,United States,Cambridge
+28,2013,United Kingdom;United States,Cambridge;New York
+29,2013,United Kingdom,London
+30,2013,Germany,Heidelberg
+31,2012,United Kingdom,Cambridge
+32,2012,United States,Cambridge
+33,2012,Germany,Heidelberg
+34,2012,United States;United States,Cambridge;Cambridge
+35,2012,Israel,Haifa
+36,2012,United Kingdom,London
+37,2012,United Kingdom;United Kingdom;United States;United Kingdom;United Kingdom,Cambridge;Cambridge;Los Angeles;London;Cambridge
+38,2012,United States,Los Alamos
+39,2012,United States,Chicago
+40,2012,Germany;Germany,Tubingen;Tubingen
+41,2012,United States;Canada,Chicago;Montreal
+42,2012,Sweden;Sweden,Stockholm;Stockholm
+43,2011,Switzerland;Switzerland,Geneva;Lausanne
+44,2011,United States,Bethesda
+45,2011,United States,Bethesda
+46,2011,United States,Madison
+47,2011,Sweden,Stockholm
+48,2011,Germany,Berlin
+49,2011,Italy,Naples
+50,2011,United States,Cambridge
+51,2010,Australia,Melbourne
+52,2010,United States,Cambridge
+53,2010,Germany,Heidelberg
+54,2010,United Kingdom,Cambridge
+55,2010,United States,Farmington
+56,2010,United Kingdom,Cambridge
+57,2010,United Kingdom;Germany,Cambridge;Tubingen
+58,2010,United States;United States,Cambridge;Cambridge
+59,2010,,
+60,2010,Australia;Australia,Melbourne;Sydney
+61,2010,United States,San Francisco
+62,2009,Australia;Australia,Melbourne;Sydney
+63,2009,Japan,Tokyo
+64,2009,United States,College Park
+65,2009,United Kingdom,Cambridge
+66,2009,United States,New Haven
+67,2008,United States,Chicago
+68,2008,United States,Cambridge
+69,2008,United States,Cambridge
+70,2008,United States,Chicago
+71,2008,United States,Palo Alto
+72,2008,United States,Pasadena
+73,2008,United States,New Haven
+74,2007,United States,Seattle
+75,2007,Italy;Italy,Naples;Naples
+76,2006,United States;United States,Newark;New York
+77,2005,Canada,Ottawa
+78,2003,United States,Los Angeles
+79,2003,United States,Palo Alto
+80,2002,Netherlands,Amsterdam
+81,2001,Israel,Jerusalem
+82,2000,United States,Stanford
+83,1994,United States,New York
+84,1941,United States,Boston
